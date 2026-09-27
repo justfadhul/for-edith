@@ -49,11 +49,12 @@ npm run dev                  # http://localhost:3000
 
 ## Editing content
 
-See [`CONTENT_GUIDE.md`](CONTENT_GUIDE.md) for the format. Topics and the timetable are defined in
+See [`CONTENT_GUIDE.md`](CONTENT_GUIDE.md) for the format, and [`VERIFY.md`](VERIFY.md) for items a senior should confirm. Topics and the timetable are defined in
 [`src/content/curriculum.ts`](src/content/curriculum.ts). After editing, run:
 
 ```bash
-npm run validate   # checks structure, minimum counts, MCQ answer keys, duplicate ids
+npm run validate    # structure, minimum counts, duplicate ids
+npm run check:mcq   # MCQ explanations agree with the answer keys
 ```
 
 ---
