@@ -5,10 +5,14 @@ highYield:
   - "Puerperium = from delivery of the placenta to 6 weeks (42 days). The uterus falls from about 1 kg to about 60 g and is no longer palpable abdominally by about day 10–14."
   - "Lochia: rubra (days 1–4), serosa (about days 4–10), alba (about day 10 to 4–6 weeks). Offensive or persistently red lochia suggests infection or retained products."
   - "WHO 2022: stay at least 24 h after vaginal birth and have at least 4 postnatal contacts: within 24 h, day 3 (48–72 h), days 7–14, and 6 weeks."
+  - "Postnatal check head to toe (BUBBLE-HE): Breasts, Uterus, Bladder, Bowels, Lochia, Episiotomy/wound, legs (calves), Emotions, plus temperature, pulse and BP every time."
+  - "She must pass urine within 6 h of birth. A high, deviated, 'boggy' fundus is often a full bladder; residual over about 500 mL → indwelling catheter for 24–48 h."
+  - "Puerperal fever: 7 Ws + malaria. Always do a malaria RDT and examine uterus, lochia, wound, breasts, chest, urine and calves before choosing antibiotics. WBC up to 20–25 × 10⁹/L can be normal in the first days."
   - "Puerperal sepsis: ampicillin 2 g IV 6-hourly + gentamicin 5 mg/kg IV once daily + metronidazole 500 mg IV 8-hourly until afebrile for 48 h. Always look for retained products, and test for malaria."
   - "LAM gives over 98% protection only if all three hold: amenorrhoea, fully or nearly fully breastfeeding day and night, and baby under 6 months."
   - "Combined oral contraceptives are category 4 if breastfeeding and under 6 weeks postpartum. Implants and POPs can start immediately; a postpartum IUD goes in within 48 h or after 4 weeks."
   - "Postpartum blues (days 3–10, self-limiting) vs depression (≥2 weeks, screen with EPDS) vs psychosis (first 2 weeks, an emergency with risk of suicide and infanticide)."
+  - "EPDS: ≥10 possible and ≥13 probable depression; any positive answer on item 10 (self-harm) needs same-day assessment. Sertraline is the preferred antidepressant in breastfeeding."
   - "Mastitis: keep breastfeeding and emptying the breast; cloxacillin/flucloxacillin 500 mg orally 6-hourly for 10–14 days; an abscess needs drainage."
 ---
 
@@ -155,6 +159,123 @@ It matters because **most maternal deaths occur after birth**, and most of those
 > [!EXAM]
 > "A woman on day 4 has a temperature of 38.5 °C. How will you approach her?" Answer with a **systematic search for the source** (7 Ws + malaria), the **examination** of breasts, chest, abdomen/uterus, wound, perineum, lochia and calves, the **investigations** (FBC, blood culture, malaria test, urinalysis/MSU, HVS, wound swab, ultrasound), and **empirical treatment** of the most likely source.
 
+## Clinical workup
+
+On the postnatal ward you will do two kinds of workup: the **routine postnatal check** (every woman, every contact) and the **assessment of an unwell postnatal woman** (fever, bleeding, headache, breathlessness, low mood). They use the same steps; the unwell woman simply gets Step 0 first and more of Steps 3 and 4.
+
+### Step 0: First 5 minutes
+
+For **any postnatal woman who looks unwell or has a danger sign**:
+
+1. **ABC and full vital signs**: temperature, pulse, BP, RR, SpO₂, conscious level. Plot them on the **MEOWS/early warning chart**.
+2. **Sepsis screen**: fever ≥38 °C or temperature <36 °C, pulse >100, **RR ≥22, SBP ≤100, altered mentation**. Any two, with a likely source → treat as sepsis now: cultures, malaria test, **IV antibiotics within 1 hour**, fluids.
+3. **Bleeding check**: pad and lochia (look and smell), **shock index** (≥0.9 abnormal), feel the fundus. Heavy bleeding → secondary PPH pathway.
+4. **BP ≥160/110, severe headache, visual disturbance or a fit** → postpartum (pre-)eclampsia: MgSO₄, antihypertensive (see the pre-eclampsia notes).
+5. **Sudden breathlessness, chest pain, hypoxia** → PE or peripartum cardiomyopathy/pulmonary oedema: oxygen, sit up, senior review.
+6. **Mental state**: confusion, hallucinations, not sleeping, talk of harming herself or the baby → **do not leave her alone with the baby**; exclude organic causes (glucose, malaria, sepsis, BP).
+7. **Call for help** early; IV access and bloods (FBC, cultures, malaria test, group and cross-match if bleeding).
+
+> [!REDFLAG]
+> A postnatal woman who is **tachycardic, breathless and "just not right" on day 1–2, with little fever and no smelly lochia**, may have **group A streptococcal sepsis**. It can kill within hours: IV antibiotics, fluids and senior review immediately.
+
+### Step 1: Focused history
+
+- [ ] **Day postpartum, mode and place of birth**, length of labour, **hours of ruptured membranes**, number of VEs, manual removal or tear, **placenta complete?** → sepsis and retained-products risk; CS → wound, VTE.
+- [ ] **Blood loss at delivery and Hb** → anaemia, Sheehan's (failed lactation after major PPH).
+- [ ] **Lochia**: amount, colour, **smell**, clots, return to red → infection, secondary PPH.
+- [ ] **Fever, rigors, pain** (abdomen, perineum, wound, breast, loin, calf, chest) → finds the "W".
+- [ ] **Headache, visual disturbance, epigastric pain, swelling** → postpartum pre-eclampsia.
+- [ ] **Bladder**: has she passed urine since delivery (within 6 h)? dysuria? **continuous leakage** → retention, UTI, fistula.
+- [ ] **Bowels**: opened? faecal or flatus incontinence → missed OASIS, RVF.
+- [ ] **Breastfeeding**: how often (8–12 feeds/24 h), pain, nipple damage, lumps, baby's wet nappies → attachment problems, mastitis, low intake.
+- [ ] **Mood and sleep**, Whooley questions, thoughts of self-harm, support at home, domestic violence.
+- [ ] **HIV status, ART, infant prophylaxis; Rh status** → eMTCT; anti-D within 72 h.
+- [ ] **Chronic illness** (hypertension, diabetes, heart disease, sickle cell, epilepsy) → drug changes after delivery.
+- [ ] **Contraceptive plans** and whether she is fully breastfeeding → LAM or another method today.
+
+### Step 2: Focused examination
+
+Use **BUBBLE-HE** so nothing is missed, after **consent, a chaperone and hand hygiene**:
+
+| Letter | Examine | Normal | Abnormal (think of) |
+|---|---|---|---|
+| **Vitals** | T, P, BP, RR, SpO₂ | T <38 °C, P <100, BP <140/90 | Sepsis, bleeding, pre-eclampsia, PE |
+| **B**reasts | Inspect and palpate; watch a feed | Soft to full, nipples intact | Engorgement (bilateral), mastitis (unilateral red wedge), abscess (fluctuant), cracked nipples |
+| **U**terus | Fundal height, consistency, tenderness | Firm, central, non-tender; about 1 cm (a finger-breadth) lower each day; impalpable by day 10–14 | Soft, bulky, tender, higher than expected = subinvolution, endometritis, retained products |
+| **B**ladder | Suprapubic dullness, fundus position | Voided within 6 h; not palpable | Palpable bladder, fundus pushed up and to one side = retention |
+| **B**owels | Ask; abdominal distension, bowel sounds (after CS) | Opened by day 2–3 | Ileus, constipation, incontinence |
+| **L**ochia | Look at the pad and **smell** it | Rubra → serosa → alba; not offensive | Offensive, heavy, persistently red |
+| **E**pisiotomy / wound | Perineum and CS wound | Clean, edges together, mild swelling | Redness, pus, gaping, haematoma, dehiscence |
+| **H** (legs) | Calves, oedema | No swelling or tenderness | Unilateral swelling, tenderness (DVT). Homans' sign is unreliable: do not rely on it |
+| **E**motions | Mood, affect, bonding, sleep | Blues: tearful but coping | Low mood ≥2 weeks, suicidal thoughts, psychotic features |
+
+Add a **chest** exam (crackles: pneumonia, aspiration, pulmonary oedema) and **heart** exam (murmur, gallop: cardiac disease, peripartum cardiomyopathy) in any unwell woman. **Speculum/VE** only if indicated (retained products, fistula, wound breakdown).
+
+**Document**: day postpartum; vitals; fundal height in finger-breadths or cm below the umbilicus; lochia type and smell; wound; breasts and feed observed; voided (yes/no, time); mood; FP method chosen; and negatives such as "calves soft, non-tender", "lochia not offensive", "no suicidal ideation".
+
+### Step 3: Bedside tests
+
+| Test | When | What it tells you |
+|---|---|---|
+| **Temperature, pulse, BP, RR** (early warning chart) | Every contact | Sepsis, bleeding, postpartum pre-eclampsia |
+| **Malaria RDT** | Any fever | Malaria, the commonest non-genital cause of puerperal fever in Uganda |
+| **Urine dipstick** | Fever, dysuria, high BP | Nitrites/leucocytes (UTI); protein (pre-eclampsia) |
+| **HemoCue / point-of-care Hb** | After PPH, pallor, before discharge if anaemic | Anaemia (treat, or transfuse if Hb <7 g/dL or symptomatic) |
+| **Random blood glucose** | Confused, drowsy, diabetic, fitting | Hypoglycaemia, hyperglycaemia |
+| **Bladder volume** (in-out catheter, or bladder scan where available) | Not voided within 6 h, palpable bladder | Residual >500 mL → indwelling catheter 24–48 h |
+| **Observe a breastfeed** | Every contact in the first week; any breast problem | Attachment (4 signs), effective suckling |
+| **Baby's weight and wet nappies** | Feeding concerns | ≥6 wet nappies/day after day 5 = adequate intake |
+| **Whooley questions / EPDS** | At contacts; 6 weeks; any mood concern | EPDS ≥10 possible, ≥13 probable depression; item 10 = safety |
+| **Point-of-care ultrasound** (skilled) | Bleeding, fever with a bulky uterus | Retained products, collections |
+| **HIV rapid test** (if negative or unknown) | Per national retesting schedule | Seroconversion during breastfeeding |
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Full blood count** | Fever, bleeding, pallor | Hb <10–11 g/dL anaemia; WBC **up to 20–25 × 10⁹/L can be normal** in the first days, so trend it and look for left shift | Iron vs transfusion; supports sepsis only with the clinical picture. HC IV and above |
+| **Blood smear for malaria** | Fever, RDT unavailable or to quantify | Parasitaemia | Oral ACT (uncomplicated) or IV artesunate (severe) |
+| **Blood cultures** (before antibiotics) | Sepsis | GAS, *E. coli*, anaerobes, *Staph. aureus* | Narrow or change antibiotics. RRH/NRH/private labs |
+| **HVS / endocervical swab** | Endometritis, offensive lochia | Organisms | Guides antibiotics; gonorrhoea/chlamydia → treat partner |
+| **Urine microscopy and culture (MSU)** | Dysuria, loin pain, catheter | Pyuria, organism | Pyelonephritis regimen |
+| **Wound swab / pus** | Wound infection, abscess | Organism (often *Staph.*) | Antibiotic choice; drainage |
+| **Pelvic ultrasound** | Bulky tender uterus, secondary PPH, persistent fever | Retained products, pelvic collection, haematoma | **MVA** (after antibiotics started), drainage or laparotomy. HC IV (if sonographer) and above |
+| **Breast ultrasound** | Lump not settling in 48 h on antibiotics | Abscess cavity | Needle aspiration vs incision and drainage |
+| **Leg Doppler ultrasound** | Unilateral leg swelling | Non-compressible vein (DVT) | Therapeutic LMWH/heparin, then warfarin (compatible with breastfeeding). Hospitals |
+| **Creatinine, LFTs, platelets** | Postpartum pre-eclampsia, sepsis | Raised creatinine/transaminases, low platelets | HELLP, AKI; MgSO₄, adjust gentamicin |
+| **Lactate** | Suspected septic shock | >2 mmol/L (>4 severe) | Fluids, vasopressors, HDU/ICU. NRH/ICU mainly |
+| **Chest X-ray, ECG, echo** | Breathlessness, suspected PPCM, pneumonia | Cardiomegaly, pulmonary oedema, consolidation | Heart-failure treatment, cardiology; antibiotics. Hospitals (echo at RRH/NRH) |
+| **β-hCG** | Bleeding persisting beyond 6 weeks or after evacuation | Raised or plateauing | Suspect gestational trophoblastic neoplasia |
+| **TSH / thyroid function** | Fatigue, palpitations, low mood at 2–6 months | Postpartum thyroiditis | Symptomatic treatment; check before labelling as depression. RRH/NRH/private |
+| **Viral load (HIV)** | Per national schedule during breastfeeding | Not suppressed | Adherence support; enhanced infant prophylaxis |
+
+### Step 5: Putting it together
+
+**Model one-line summary**
+> "A 24-year-old para 2, day 4 after an emergency CS for obstructed labour with 20 h of ruptured membranes, with fever 38.9 °C, pulse 112, RR 22, a tender uterus 2 cm above the umbilicus and offensive lochia; malaria RDT negative: puerperal sepsis from post-CS endometritis, retained products to be excluded."
+
+**Problem list**
+1. Puerperal sepsis (endometritis), on IV ampicillin, gentamicin and metronidazole.
+2. Possible retained products (subinvolution).
+3. Post-CS: wound, VTE risk (thromboprophylaxis).
+4. Breastfeeding while unwell: support, express if needed.
+5. PPFP not yet chosen.
+
+**Working diagnosis**: *post-caesarean endometritis with sepsis; exclude retained products.*
+
+> [!EXAM]
+> **Worked example 1: two postnatal checks.**
+> - **Mother A, day 3 after SVD**: T 36.8 °C, P 84, BP 122/78. Fundus **three finger-breadths below the umbilicus**, firm, central, non-tender. Lochia rubra, moderate, not offensive. Perineum: second-degree repair intact. Breasts full, good attachment observed. Tearful at times but sleeping when the baby sleeps. **Interpretation**: normal involution, normal lochia, **postpartum blues**; reassure, danger signs, iron and folic acid, PPFP, next contact at days 7–14.
+> - **Mother B, day 7 after a home birth**: T 38.4 °C, P 108. Fundus **at the umbilicus**, soft and tender (it should be well below it by now). Lochia still red and **offensive**. **Interpretation**: **subinvolution with endometritis**, likely retained products. Plan: malaria test, cultures, IV antibiotics, pelvic ultrasound, MVA after antibiotics have started.
+
+> [!EXAM]
+> **Worked example 2: a "high uterus" on day 1.**
+> Six hours after SVD, the fundus is **two finger-breadths above the umbilicus and deviated to the right**, and she has not passed urine. This is a **full bladder**, not atony. In-out catheter drains **700 mL** (>500 mL) → leave an **indwelling catheter for 24–48 h**, then a trial without catheter; check that she voids and measure the residual again. The fundus returns to the midline, below the umbilicus.
+
+> [!EXAM]
+> **Worked example 3: interpreting the EPDS at 6 weeks.**
+> Score **14** (≥13 = probable depression), and she scores **1 on item 10** ("the thought of harming myself has occurred to me: hardly ever"). Action: **same-day risk assessment** by a clinician (plans, means, protective factors, risk to the baby), then psychological therapy ± **sertraline 50 mg daily**, review within 2 weeks, and refer to mental health services if the risk is significant. Check Hb and thyroid function if fatigue is prominent.
+
 ## Differential diagnosis
 
 **Puerperal fever:**
@@ -183,21 +304,11 @@ It matters because **most maternal deaths occur after birth**, and most of those
 
 ## Investigations
 
-| Test | What you are looking for | Why |
-|---|---|---|
-| **FBC** | Anaemia (Hb <11 g/dL), leucocytosis | Anaemia after PPH; infection (remember that the WBC is normally raised in the first days) |
-| **Malaria RDT / blood smear** | Plasmodium | Common cause of puerperal fever in Uganda |
-| **Blood cultures** (before antibiotics) | Organism and sensitivities | Sepsis (GAS, E. coli, anaerobes, Staph) |
-| **High vaginal / endocervical swab** | Organisms (GAS, gonorrhoea, chlamydia) | Guides antibiotics |
-| **Urinalysis, MSU** | Nitrites, leucocytes, culture | UTI |
-| **Wound swab / pus culture** | Organism | Wound infection, abscess |
-| **Pelvic ultrasound** | Retained products, collections, abscess | Guides evacuation or drainage |
-| **Breast ultrasound** | Abscess | Needle aspiration vs incision |
-| **Doppler ultrasound of legs** | DVT | Anticoagulation |
-| **BP and urine protein; LFTs, creatinine, platelets** | Postpartum pre-eclampsia/HELLP | Treat with MgSO₄ and antihypertensives |
-| **Lactate, creatinine** | Organ dysfunction | Severity of sepsis |
-| **EPDS** (Edinburgh Postnatal Depression Scale) | Score ≥10 possible and **≥13 probable** depression; **any positive answer to item 10 (self-harm)** needs same-day assessment | Validated screening tool |
-| **HIV test** (if not done or negative in pregnancy), **β-hCG** (persistent bleeding) | Seroconversion, GTN | eMTCT; molar disease |
+The full test-by-test table (with Ugandan availability) is in **Clinical workup, Steps 3 and 4** above. Three principles for the puerperium:
+
+1. **Most postnatal diagnoses are clinical.** A good BUBBLE-HE examination, a temperature chart and a malaria RDT answer most questions; tests confirm and guide treatment.
+2. **Interpret results against postnatal physiology**: the WBC is normally raised in the first days, fibrinogen and D-dimer stay high (so D-dimer cannot exclude VTE), and BP often rises on days 3–6.
+3. **Take cultures before antibiotics but never delay antibiotics for them**: in suspected sepsis, antibiotics go in within 1 hour.
 
 ## Management
 
@@ -378,3 +489,77 @@ As soon as **any** criterion is lost, start another method.
 - **Attachment "WOLF-A"**: **W**ide mouth, **O**utturned lower lip, **L**ess areola below (more above), **F**ace (chin) touching the breast, **A**udible swallowing.
 - **Postnatal visits "1-3-7-42"**: day **1** (within 24 h), day **3**, days **7**–14, and day **42** (6 weeks).
 - **PPIUD "48 hours or 4 weeks."**
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Puerperium | Delivery of the placenta to **6 weeks (42 days)** |
+| Uterine weight | ~**1000 g** at birth → ~500 g at 1 week → ~300 g at 2 weeks → **50–100 g** at 6 weeks |
+| Fundal descent | About **1 cm (a finger-breadth) per day**; impalpable by **day 10–14** |
+| Lochia | Rubra **days 1–4**; serosa **~4–10**; alba **~10 to 4–6 weeks** |
+| Postnatal stay | At least **24 h** after vaginal birth; vitals and bleeding **every 15 min for the first 2 h** |
+| WHO contacts | **Within 24 h, day 3, days 7–14, 6 weeks** ("1-3-7-42") |
+| First void | Within **6 h**; residual **>500 mL** → indwelling catheter **24–48 h** |
+| Normal WBC early postpartum | Up to **20–25 × 10⁹/L** |
+| Puerperal pyrexia | **≥38 °C** in the first **14 days** (classic UK definition) |
+| Puerperal sepsis regimen | **Ampicillin 2 g IV 6-hourly + gentamicin 5 mg/kg IV daily + metronidazole 500 mg IV 8-hourly**, until afebrile **48 h**, then oral to complete ~**7 days** |
+| Antibiotics in sepsis | Within **1 hour** |
+| Mastitis | **Cloxacillin/flucloxacillin 500 mg orally 6-hourly for 10–14 days**; keep breastfeeding |
+| Lactogenesis II | **Day 2–4** (progesterone withdrawal) |
+| Feeds | **8–12 per 24 h**; initiate within **1 h**; exclusive for **6 months** |
+| Adequate intake | **≥6 wet nappies/day after day 5** |
+| LAM | **>98%** if amenorrhoea + full breastfeeding (gaps ≤4 h day, ≤6 h night) + baby **<6 months** |
+| Ovulation (not breastfeeding) | From about **day 25** |
+| Postpartum IUD | **Within 48 h or from 4 weeks** (48 h–4 weeks = MEC 3) |
+| COC | Breastfeeding: **MEC 4 under 6 weeks**; not breastfeeding: **MEC 4 under 21 days** |
+| DMPA if breastfeeding | From **6 weeks** (MEC 3 before; check current Uganda FP guidance) |
+| Tubal ligation | **Within 7 days** or **after 6 weeks** |
+| Birth-to-pregnancy interval | At least **24 months** |
+| EPDS | **≥10** possible, **≥13** probable depression; **item 10** = same-day assessment |
+| Blues / psychosis | Blues days **3–10**; psychosis about **1–2 per 1,000**, usually in the first **2 weeks** |
+| Sertraline | **50 mg daily** (titrate to 100–200 mg) |
+| Cabergoline (suppression) | **1 mg single dose** within 24 h; avoid in hypertension |
+| Anti-D | Within **72 h** if Rh-negative with Rh-positive baby |
+| Enoxaparin prophylaxis | **40 mg SC daily**, 10 days to 6 weeks for high-risk women |
+| Paracetamol | **1 g every 6–8 h** (max 4 g/day) |
+| Iron + folic acid | Continue about **3 months** after birth |
+
+### Classic exam traps
+
+- **"The fundus is high, so it's atony."** On day 1 a high, deviated fundus in a woman who hasn't voided is usually a **full bladder**. Catheterise.
+- **"Stop breastfeeding because of mastitis."** No: **keep feeding or expressing**; stopping causes stasis and abscess.
+- **"Fever on day 4 = endometritis, start antibiotics."** First **examine every system (7 Ws)** and **test for malaria**.
+- **"WBC 18, so she's septic."** It can be normal early postpartum; judge the whole picture.
+- **"She's tearful on day 4, so start an antidepressant."** That is **blues**; reassure and review at 2 weeks.
+- **"Give COCs at the 6-week visit to a breastfeeding mother."** MEC 3 until 6 months; offer an implant, IUD, POP or DMPA instead.
+- **"IUD at 2 weeks postpartum."** Wrong window: **within 48 h or from 4 weeks**.
+- **Bromocriptine for lactation suppression.** No longer recommended; use **cabergoline** (not if hypertensive).
+
+### Questions seniors ask
+
+**What do you check at a postnatal round?**
+Vital signs, then BUBBLE-HE: breasts, uterus, bladder, bowels, lochia, episiotomy or wound, legs, emotions; plus the baby's feeding, danger signs and family planning.
+
+**How do you know involution is normal?**
+The fundus is firm, central and non-tender, about a finger-breadth lower each day, and impalpable by day 10–14, with lochia changing from rubra to serosa to alba and never offensive.
+
+**She has a fever on day 4. How will you find the source?**
+The 7 Ws plus malaria: examine the uterus and lochia, wound, perineum, breasts, chest, urine and calves; send FBC, malaria test, blood culture, urine and HVS; treat the most likely source.
+
+**Her fundus is at the umbilicus on day 7 with offensive lochia. What is going on and what will you do?**
+Subinvolution with endometritis, likely retained products: IV antibiotics, ultrasound, then gentle evacuation after antibiotics have started.
+
+**How do you tell a baby is getting enough milk?**
+At least 6 wet nappies a day after day 5, audible swallowing, settling after feeds, and weight gain (most babies are back to birth weight by about 2 weeks).
+
+**Which contraceptive can this breastfeeding mother start before discharge?**
+An implant, a POP, or a postpartum IUD within 48 h; not a COC. LAM only while all three criteria hold.
+
+**How do you tell blues from depression from psychosis?**
+Blues: days 3–10, mild, self-limiting. Depression: two weeks or more, impairs functioning, screen with EPDS. Psychosis: usually the first 2 weeks, with delusions, hallucinations or confusion; an emergency.
+
+**Why must you exclude organic causes before diagnosing puerperal psychosis?**
+Sepsis, cerebral malaria, eclampsia, hypoglycaemia and HIV-related CNS infection can all present with confusion and agitation, and they need urgent medical treatment.
