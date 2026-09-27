@@ -1,0 +1,288 @@
+{
+  "slug": "puerperium-lactation",
+  "flashcards": [
+    { "id": "pue-f01", "front": "Define the puerperium.", "back": "From **delivery of the placenta to 6 weeks (42 days)** after birth, while the body returns to its non-pregnant state and lactation is established." },
+    { "id": "pue-f02", "front": "Normal uterine involution: fundal height and weight.", "back": "Fundus at the **umbilicus** after birth, descending about **1 cm (one finger-breadth) per day**, **not palpable abdominally by day 10–14**. Weight about 1000 g → about 500 g (1 week) → about 50–100 g (6 weeks)." },
+    { "id": "pue-f03", "front": "Types and timing of lochia.", "back": "**Rubra** (red) days 1–4; **serosa** (pink-brown) about days 4–10; **alba** (yellow-white) about day 10 to 4–6 weeks." },
+    { "id": "pue-f04", "front": "WHO 2022 postnatal contact schedule.", "back": "Stay **at least 24 h** after vaginal birth; at least **4 contacts**: **within 24 h**, **day 3 (48–72 h)**, **days 7–14**, **6 weeks**. Uganda teaches '6 hours, 6 days, 6 weeks'." },
+    { "id": "pue-f05", "front": "Which hormone change triggers lactogenesis II ('milk coming in')?", "back": "The **fall in progesterone** after delivery of the placenta, with prolactin already high. It happens about **day 2–4**. Retained placental fragments can delay it." },
+    { "id": "pue-f06", "front": "Roles of prolactin and oxytocin in lactation.", "back": "**Prolactin** (anterior pituitary): milk **production**, released by suckling, higher at night. **Oxytocin** (posterior pituitary): **milk ejection** (myoepithelial contraction); inhibited by pain and anxiety; also causes afterpains." },
+    { "id": "pue-f07", "front": "What is the feedback inhibitor of lactation (FIL)?", "back": "A whey protein that builds up when milk stays in the breast and **reduces production locally**. It explains **'supply follows demand'**: frequent emptying keeps supply up." },
+    { "id": "pue-f08", "front": "LAM criteria.", "back": "All three: **amenorrhoea**, **fully or nearly fully breastfeeding** day and night, and a **baby under 6 months**. Then >98% effective. Once any criterion is lost, start another method." },
+    { "id": "pue-f09", "front": "Timing of postpartum IUD insertion.", "back": "**Within 48 h** of birth (ideally within 10 min of the placenta, including at CS) **or from 4 weeks**. Between 48 h and 4 weeks = MEC category 3. Puerperal sepsis = category 4." },
+    { "id": "pue-f10", "front": "Combined oral contraceptive: MEC categories postpartum.", "back": "Breastfeeding: **category 4 under 6 weeks**, category 3 from 6 weeks to 6 months. Not breastfeeding: **category 4 under 21 days** (VTE risk)." },
+    { "id": "pue-f11", "front": "WHO definition of puerperal sepsis.", "back": "Genital-tract infection from **ROM/labour to day 42 postpartum** with **fever** plus ≥1 of: **pelvic pain**, **abnormal vaginal discharge**, **abnormal smell of discharge**, **delayed uterine involution**." },
+    { "id": "pue-f12", "front": "First-line antibiotics for puerperal sepsis (WHO/Uganda).", "back": "**Ampicillin 2 g IV 6-hourly + gentamicin 5 mg/kg IV once daily + metronidazole 500 mg IV 8-hourly** until afebrile for 48 h. Plus source control (evacuate retained products, drain pus)." },
+    { "id": "pue-f13", "front": "Causes of puerperal pyrexia (7 Ws + M).", "back": "**W**omb (endometritis), **W**ind (chest), **W**ater (UTI), **W**ound, **W**alking (DVT/PE), **W**eaning (breast), **W**onder drugs, and **M**alaria in Uganda." },
+    { "id": "pue-f14", "front": "Treatment of lactational mastitis.", "back": "**Keep breastfeeding or expressing** from the affected side; rest, fluids, analgesia; **cloxacillin/flucloxacillin 500 mg orally 6-hourly for 10–14 days** (erythromycin if penicillin-allergic). No improvement in 48 h → suspect an **abscess**." },
+    { "id": "pue-f15", "front": "Four signs of good breastfeeding attachment.", "back": "Mouth **wide open**; **lower lip turned out**; **chin touching the breast**; **more areola visible above** the mouth than below." },
+    { "id": "pue-f16", "front": "Postpartum blues vs depression vs psychosis: onset and frequency.", "back": "**Blues**: days 3–5, resolves by about 2 weeks, very common (up to 50–80%). **Depression**: symptoms lasting 2 weeks or more, weeks to months postpartum, about 10–15% or more. **Psychosis**: usually within the **first 2 weeks**, 1–2 per 1000, an **emergency**." },
+    { "id": "pue-f17", "front": "EPDS: cut-offs and the key item.", "back": "Edinburgh Postnatal Depression Scale, 10 items: **≥10 possible**, **≥13 probable** depression. **Item 10 (self-harm)**: any positive answer needs **same-day** assessment." },
+    { "id": "pue-f18", "front": "Preferred antidepressant in breastfeeding.", "back": "**Sertraline** 50 mg daily (titrate), with low milk transfer. Fluoxetine 20 mg (Uganda EML) is an acceptable alternative. Combine with psychological therapy." },
+    { "id": "pue-f19", "front": "Why are women at high VTE risk in the puerperium?", "back": "Clotting factors and fibrinogen stay raised (**hypercoagulable for about 6 weeks**), plus venous stasis, vessel injury at delivery/CS, immobility and dehydration (Virchow's triad)." },
+    { "id": "pue-f20", "front": "When does ovulation return in a non-breastfeeding woman, and what does that mean?", "back": "As early as **day 25** (mean about 45 days), **before the first period**. She needs contraception from about **3 weeks** postpartum." },
+    { "id": "pue-f21", "front": "Lactation suppression drug of choice and its caution.", "back": "**Cabergoline 1 mg orally once** within 24 h of birth. **Avoid in hypertension/pre-eclampsia.** Bromocriptine is no longer recommended (stroke, MI, seizures)." }
+  ],
+  "mcqs": [
+    {
+      "id": "pue-q01",
+      "stem": "A 26-year-old para 1 is reviewed on day 5 after SVD. She is afebrile, breastfeeding well, and the lochia is pink-brown and not offensive. The fundus is palpable 4–5 finger-breadths below the umbilicus and is firm and non-tender. What is the MOST appropriate interpretation?",
+      "options": [
+        "Subinvolution requiring ultrasound",
+        "Retained products requiring MVA",
+        "Endometritis requiring antibiotics",
+        "Normal involution and normal lochia serosa",
+        "Full bladder requiring catheterisation"
+      ],
+      "answer": 3,
+      "explanation": "D is right: the fundus descends about one finger-breadth (1 cm) a day, so **4–5 finger-breadths below the umbilicus on day 5** in a firm, non-tender uterus, with normal pink-brown lochia **serosa** and no fever, is **normal involution**. A and B are wrong: subinvolution or retained products cause a bulky, soft uterus with persistent red lochia or bleeding. C is wrong: there is no fever, tenderness or offensive lochia. E is wrong: a full bladder displaces the uterus upwards and to one side, and she has no urinary symptoms."
+      , "difficulty": "core"
+    },
+    {
+      "id": "pue-q02",
+      "stem": "A 30-year-old para 3 is readmitted on day 4 after an emergency CS for obstructed labour with membranes ruptured for 22 hours. Temperature 39 °C, pulse 118/min, BP 102/64 mmHg. The uterus is tender and bulky and the lochia is foul-smelling. Malaria RDT is negative. What is the MOST appropriate initial management?",
+      "options": [
+        "IV ampicillin 2 g 6-hourly + gentamicin 5 mg/kg daily + metronidazole 500 mg 8-hourly, IV fluids, cultures, and ultrasound for retained products",
+        "Oral amoxicillin 500 mg 8-hourly and review in 1 week",
+        "Artemether-lumefantrine because malaria is common",
+        "Immediate hysterectomy",
+        "Paracetamol only and observe for 24 hours"
+      ],
+      "answer": 0,
+      "explanation": "A is right: this is **puerperal sepsis (post-CS endometritis)** with sepsis physiology. Give **triple IV antibiotics within 1 hour**, fluids, cultures, and look for retained products or a collection (ultrasound) for source control. B is wrong: oral treatment is inadequate for a septic woman. C is wrong: the RDT is negative and the clinical picture points to the uterus. D is wrong: hysterectomy is for a necrotic or unresponsive uterus, not first line. E is wrong: delaying antibiotics increases mortality."
+      , "difficulty": "core"
+    },
+    {
+      "id": "pue-q03",
+      "stem": "On day 10 after delivery, a breastfeeding mother presents with a painful, red, hot, wedge-shaped area on the right breast, fever of 38.6 °C and flu-like symptoms for 36 hours. There is no fluctuant mass. What is the BEST management?",
+      "options": [
+        "Stop breastfeeding from both breasts",
+        "Incision and drainage",
+        "Stop breastfeeding from the right breast only and give paracetamol",
+        "Bromocriptine to suppress lactation",
+        "Continue breastfeeding/expressing from both breasts, analgesia, and oral cloxacillin 500 mg 6-hourly for 10–14 days"
+      ],
+      "answer": 4,
+      "explanation": "E is right: this is **infective mastitis** (symptoms over 24 h, febrile). Treatment is **continued milk removal** (the most important measure; it is safe for the baby), analgesia and an **anti-staphylococcal antibiotic** such as cloxacillin/flucloxacillin for 10–14 days. A and C are wrong: stopping feeding causes milk stasis and increases the risk of abscess. B is wrong: there is no abscess (fluctuant mass). D is wrong: lactation suppression is unnecessary, and bromocriptine is no longer recommended."
+      , "difficulty": "core"
+    },
+    {
+      "id": "pue-q04",
+      "stem": "A 22-year-old para 1, day 6 after SVD, is fully breastfeeding and has no menses. She wants to avoid pregnancy for at least 3 years and is worried about daily pills. Which option is MOST appropriate to offer now?",
+      "options": [
+        "Combined oral contraceptive pill",
+        "Copper IUD insertion today",
+        "Contraceptive implant today",
+        "Rely on LAM for 2 years",
+        "Tubal ligation today"
+      ],
+      "answer": 2,
+      "explanation": "C is right: an **implant** is long-acting, doesn't affect breastfeeding, and can be inserted **immediately postpartum** (MEC 2015 category 2 under 6 weeks if breastfeeding). This is widely offered in Uganda. A is wrong: COCs are **category 4** under 6 weeks in breastfeeding women. B is wrong: IUD insertion between **48 h and 4 weeks** is category 3 (expulsion/perforation risk); wait until 4 weeks. D is wrong: LAM is valid only up to 6 months and while the criteria are met. E is wrong: tubal ligation is permanent, she is 22 and wants spacing, and 7–42 days postpartum is a 'delay' period."
+      , "difficulty": "core"
+    },
+    {
+      "id": "pue-q05",
+      "stem": "A 28-year-old on day 4 postpartum is tearful, anxious and irritable, cries when her baby cries, and says she feels overwhelmed. She is sleeping when the baby sleeps, eating, and caring for the baby well. She has no thoughts of self-harm. What is the MOST appropriate management?",
+      "options": [
+        "Start sertraline 50 mg daily",
+        "Reassurance, practical support and rest, with review at 2 weeks",
+        "Urgent psychiatric admission",
+        "Start haloperidol",
+        "Separate mother and baby"
+      ],
+      "answer": 1,
+      "explanation": "B is right: this is **postpartum blues**. Onset days 3–5, emotional lability, preserved functioning, no psychotic features or suicidality; it is self-limiting. Reassure, involve the family, and review at about 2 weeks (symptoms persisting beyond that suggest depression). A is wrong: antidepressants are not indicated for blues. C and D are wrong: there are no psychotic features. E is wrong: it is harmful to bonding and breastfeeding."
+      , "difficulty": "core"
+    },
+    {
+      "id": "pue-q06",
+      "stem": "A 25-year-old primipara on day 6 postpartum is brought by her husband. She has not slept for 3 days, is talking rapidly, believes the baby has been 'switched by witches', and was found holding the baby near the fire. She has a history of a manic episode 2 years ago. Temperature 36.8 °C, glucose normal, malaria RDT negative, BP normal. What is the MOST appropriate immediate action?",
+      "options": [
+        "Reassure the family that this is postpartum blues",
+        "Ensure the safety of mother and baby (constant supervision), urgent psychiatric admission and start an antipsychotic",
+        "Refer to a traditional healer as requested by the family",
+        "Discharge with fluoxetine 20 mg and review in 2 weeks",
+        "Give diazepam and send home"
+      ],
+      "answer": 1,
+      "explanation": "B is right: this is **puerperal psychosis** (onset in the first 2 weeks, insomnia, delusions, mania), in a woman with a history suggesting **bipolar disorder**, and there is a **risk of infanticide**. Organic causes have been screened (normal temperature, glucose, BP, negative RDT). It is an **emergency**: supervision, admission and an antipsychotic (e.g. haloperidol or olanzapine). A is wrong: blues has no psychotic features. C is wrong: it delays life-saving care. D is wrong: an antidepressant alone can worsen mania, and outpatient care is unsafe. E is wrong: it fails to address the risk."
+      , "difficulty": "advanced"
+    },
+    {
+      "id": "pue-q07",
+      "stem": "A mother on day 3 complains that both breasts are hard, swollen and painful, and the baby is struggling to latch. Temperature 37.8 °C. There is no redness or focal lump. What is the MOST appropriate advice?",
+      "options": [
+        "Stop breastfeeding for 48 hours to rest the breasts",
+        "Start flucloxacillin",
+        "Give formula feeds until the swelling settles",
+        "Express a little milk to soften the areola before latching, feed frequently on demand, cold compresses after feeds and analgesia",
+        "Bind the breasts tightly"
+      ],
+      "answer": 3,
+      "explanation": "D is right: this is **engorgement** (bilateral, day 3–5, low-grade fever) from inadequate milk removal as the milk comes in. Soften the areola to help attachment, **feed frequently**, use cold compresses and give paracetamol/ibuprofen. A and C are wrong: they worsen stasis and reduce supply (and formula undermines exclusive breastfeeding). B is wrong: there is no infection. E is wrong: binding is used for lactation suppression, not engorgement in a mother who wants to breastfeed."
+      , "difficulty": "core"
+    },
+    {
+      "id": "pue-q08",
+      "stem": "A 32-year-old para 2 with mitral stenosis, day 1 after SVD, develops sudden breathlessness, orthopnoea and bilateral basal crackles. Which physiological change of the early puerperium BEST explains this timing?",
+      "options": [
+        "Autotransfusion from the contracting uterus and relief of caval compression increase venous return and cardiac output immediately after delivery",
+        "Fall in plasma volume from diuresis on day 1",
+        "Reduced cardiac output immediately after delivery",
+        "Anaemia from blood loss reducing preload",
+        "Increased progesterone levels after delivery"
+      ],
+      "answer": 0,
+      "explanation": "A is right: immediately after delivery, about 500 mL of blood returns from the uteroplacental circulation and caval compression is relieved. **Preload and cardiac output rise**, which a stenotic mitral valve can't accommodate, so she develops **pulmonary oedema**. B is wrong: diuresis happens on days 2–5 and reduces volume. C is wrong: cardiac output rises, not falls. D is wrong: reduced preload would not cause pulmonary oedema. E is wrong: progesterone falls after delivery."
+      , "difficulty": "advanced"
+    },
+    {
+      "id": "pue-q09",
+      "stem": "A breastfeeding mother, 8 weeks postpartum, asks whether she can rely on breastfeeding for contraception. She breastfeeds exclusively day and night, but her menses returned last week. What is the BEST advice?",
+      "options": [
+        "Yes, LAM is reliable until 6 months",
+        "Yes, LAM is reliable as long as she breastfeeds",
+        "No, LAM is no longer reliable because menses have returned; start another method",
+        "Only if she gives water in addition",
+        "LAM is reliable until 2 years"
+      ],
+      "answer": 2,
+      "explanation": "C is right: LAM requires **all three criteria**: amenorrhoea, full breastfeeding, baby under 6 months. The return of menses means ovulation is resuming, so she needs another method (e.g. implant, POP, DMPA or IUD). A, B and E are wrong: they ignore the amenorrhoea criterion. D is wrong: supplementing with water also breaks the 'full breastfeeding' criterion and is not recommended for the baby."
+      , "difficulty": "core"
+    },
+    {
+      "id": "pue-q10",
+      "stem": "A woman on day 5 after SVD has fever of 38.7 °C, headache, chills and joint pains. The uterus is well involuted and non-tender, the lochia is normal, the breasts and perineum are normal, and urinalysis is normal. She lives in Lira. What is the MOST important next investigation?",
+      "options": [
+        "Pelvic ultrasound",
+        "High vaginal swab",
+        "Chest X-ray",
+        "Doppler ultrasound of the legs",
+        "Malaria RDT or blood smear"
+      ],
+      "answer": 4,
+      "explanation": "E is right: in a malaria-endemic area, fever with headache, chills and arthralgia and **no genital, breast, wound or urinary source** is **malaria** until proven otherwise; malaria is more severe in pregnancy and the puerperium. A and B are less useful with a normal uterus and lochia. C is wrong: there are no chest symptoms. D is wrong: there are no leg signs."
+      , "difficulty": "core"
+    },
+    {
+      "id": "pue-q11",
+      "stem": "A para 5 is referred on day 3 after a 2-day obstructed labour at home, ending in a stillbirth delivered at a HC IV. She reports continuous leakage of urine since yesterday, day and night, and is otherwise well. What is the MOST appropriate initial management?",
+      "options": [
+        "Insert an indwelling urethral catheter for 2–4 weeks, encourage fluids, and refer to a fistula centre",
+        "Reassure her that it is stress incontinence that will resolve",
+        "Immediate surgical repair of the fistula at the HC IV",
+        "Pelvic floor exercises only",
+        "Antibiotics for UTI and discharge"
+      ],
+      "answer": 0,
+      "explanation": "A is right: continuous leakage after prolonged obstructed labour suggests an **obstetric vesicovaginal fistula** from pressure necrosis. **Early continuous bladder drainage** for 2–4 weeks may allow small fistulae to heal, and she should be referred to a fistula specialist. B and D are wrong: stress incontinence is leakage with coughing, not continuous. C is wrong: definitive repair is usually delayed until the tissues are healthy (about 3 months) and done by trained surgeons. E is wrong: it misses the diagnosis."
+      , "difficulty": "advanced"
+    },
+    {
+      "id": "pue-q12",
+      "stem": "A 35-year-old para 4 who had an emergency CS 10 days ago presents with a painful, swollen left calf and mild breathlessness. Pulse 104/min, SpO₂ 95%. What is the MOST likely diagnosis?",
+      "options": [
+        "Cellulitis",
+        "Puerperal sepsis",
+        "Muscle strain from walking",
+        "Deep vein thrombosis with possible pulmonary embolism",
+        "Peripartum cardiomyopathy"
+      ],
+      "answer": 3,
+      "explanation": "D is right: the puerperium (especially after CS) is **hypercoagulable**. A unilateral swollen painful calf with tachycardia and dyspnoea suggests **DVT with possible PE**. Start treatment-dose LMWH while arranging Doppler ± CTPA. A is wrong: cellulitis wouldn't explain the dyspnoea and tachycardia. B is wrong: there are no genital-tract symptoms. C is wrong: a strain doesn't cause swelling with tachycardia. E is wrong: cardiomyopathy causes bilateral oedema, orthopnoea and heart failure signs, not a unilateral calf."
+      , "difficulty": "core"
+    },
+    {
+      "id": "pue-q13",
+      "stem": "A 24-year-old HIV-positive mother on TLD with a suppressed viral load asks how to feed her 2-week-old baby. What is the BEST advice according to WHO and Uganda guidance?",
+      "options": [
+        "Formula feed only to eliminate transmission",
+        "Mixed feeding with breast milk and formula from birth",
+        "Breastfeed only after the baby is 6 months old",
+        "Stop ART while breastfeeding to protect the baby",
+        "Exclusive breastfeeding for 6 months, then continue breastfeeding with complementary foods, while staying on ART with viral-load monitoring and infant prophylaxis"
+      ],
+      "answer": 4,
+      "explanation": "E is right: with maternal ART and viral suppression, **exclusive breastfeeding** for 6 months, then continued breastfeeding with complementary foods, gives the best infant survival and a very low transmission risk; the baby also receives prophylaxis per the national guideline. A is wrong: in Uganda, formula carries risks (diarrhoea, pneumonia, cost) and is not recommended routinely. B is wrong: **mixed feeding in early infancy increases transmission risk**. C is nonsensical. D is wrong: ART must continue to keep viral load suppressed."
+      , "difficulty": "core"
+    },
+    {
+      "id": "pue-q14",
+      "stem": "Two weeks after starting cloxacillin for mastitis, a mother has a persistent 4 cm tender, fluctuant lump in the upper outer quadrant of the left breast with fever. What is the MOST appropriate management?",
+      "options": [
+        "Continue the same antibiotic for another 2 weeks",
+        "Needle aspiration (ultrasound-guided if available) or incision and drainage, continue antibiotics, and keep feeding from the other breast while expressing the affected one",
+        "Stop breastfeeding permanently",
+        "Mastectomy",
+        "Warm compresses only"
+      ],
+      "answer": 1,
+      "explanation": "B is right: a fluctuant tender mass after mastitis is a **breast abscess**. It needs **drainage** (aspiration or I&D with a radial incision away from the areola) plus antibiotics. Breastfeeding continues from the unaffected breast, and the affected breast is expressed until feeding from it can resume. A and E are wrong: pus needs drainage. C is wrong: stopping causes more stasis and deprives the baby. D is wrong: it is grossly excessive."
+      , "difficulty": "core"
+    },
+    {
+      "id": "pue-q15",
+      "stem": "A 27-year-old para 1 attends her 6-week postnatal visit. She says she has felt low for the past month, has lost interest in things, sleeps poorly even when the baby sleeps, and feels guilty that she is a bad mother. EPDS score is 17, with 'hardly ever' on item 10 (self-harm). She is breastfeeding. What is the MOST appropriate management?",
+      "options": [
+        "Reassure her that it is postpartum blues",
+        "Start lithium",
+        "Diagnose postpartum depression; offer psychological therapy and sertraline 50 mg daily, involve family support, and arrange review in 2 weeks with a safety plan",
+        "Advise her to stop breastfeeding before any treatment",
+        "Admit to a psychiatric hospital immediately"
+      ],
+      "answer": 2,
+      "explanation": "C is right: symptoms for more than 2 weeks with anhedonia, sleep disturbance and guilt, and an EPDS of 17 (probable depression), mean **moderate–severe postpartum depression**. Treat with **psychological therapy plus an SSRI**; **sertraline** is preferred in breastfeeding. Arrange close follow-up and a safety plan, because she has some self-harm ideation ('hardly ever'). A is wrong: blues resolves by 2 weeks. B is wrong: lithium isn't first line for depression and needs specialist care. D is wrong: sertraline is compatible with breastfeeding. E is wrong: admission is for high suicide risk, psychosis or inability to care for herself or the baby."
+      , "difficulty": "advanced"
+    }
+  ],
+  "cases": [
+    {
+      "id": "pue-c01",
+      "title": "Fever on day 4 after caesarean section",
+      "presentation": "At Mengo Hospital, a 23-year-old para 1 is on day 4 after an emergency CS for obstructed labour. She laboured for 20 hours at a HC III before referral, with membranes ruptured for 24 hours and many vaginal examinations. Today she has a temperature of 38.9 °C, pulse 116, RR 22, BP 104/66.",
+      "steps": [
+        { "prompt": "What focused history will you take and why?", "answer": "- **Abdominal/pelvic pain, lochia** (amount, smell): endometritis\n- **Wound pain or discharge**: wound infection\n- **Dysuria, frequency, loin pain**: UTI/pyelonephritis (she was catheterised)\n- **Cough, breathlessness, chest pain**: chest infection (spinal or GA?), PE\n- **Breast pain**: engorgement/mastitis\n- **Calf pain**: DVT\n- **Headache, chills, joint pains**: **malaria**\n- **HIV status/ART**; drug history (antibiotics given at CS?)\n- Breastfeeding and the baby's condition" },
+        { "prompt": "What examination findings would you look for, and what do you find?", "answer": "Look for: general (toxic appearance, pallor, hydration), chest, **breasts**, **abdomen: fundal height and tenderness**, **wound**, **lochia** (look and smell), perineum, **calves**, renal angles.\nFindings: tender, **bulky uterus 2 cm above the umbilicus** (subinvolution), **foul-smelling lochia**, the wound is clean and dry, breasts soft, chest clear, calves normal." },
+        { "prompt": "What is your diagnosis, differentials and investigations?", "answer": "**Puerperal sepsis: post-CS endometritis** (risk factors: prolonged labour, prolonged ROM, multiple VEs, emergency CS). Differentials: retained products, pelvic abscess or infected haematoma, UTI, malaria, wound infection (early), chest infection.\nInvestigations: **FBC**, **blood cultures**, **HVS**, **malaria RDT**, **urinalysis/MSU**, **creatinine and lactate**, **pelvic ultrasound** (retained products, collection)." },
+        { "prompt": "Outline your management.", "answer": "1. **IV access, fluids** (500 mL–1 L crystalloid bolus, reassess), catheter for urine output.\n2. **Antibiotics within 1 hour**: **ampicillin 2 g IV 6-hourly + gentamicin 5 mg/kg IV once daily + metronidazole 500 mg IV 8-hourly** (or ceftriaxone + metronidazole per local protocol).\n3. **Source control**: if the scan shows retained products → gentle evacuation after antibiotics have started; drain any collection.\n4. **Paracetamol**; **thromboprophylaxis** (LMWH) once not bleeding; mobilise.\n5. **Continue breastfeeding** (these antibiotics are compatible).\n6. Monitor vital signs 4-hourly (MEOWS), fluid balance.\n7. Continue IV until **afebrile for 48 h**, then oral to complete 7 days." },
+        { "prompt": "On day 3 of antibiotics she is still spiking fevers of 39 °C but looks well between spikes. The ultrasound shows no collection. What would you consider?", "answer": "**Septic pelvic thrombophlebitis** (spiking fevers despite antibiotics, no source; consider adding **therapeutic heparin**), a **resistant organism** (check cultures; escalate, e.g. to meropenem where available), **wound abscess** developing, **malaria** (repeat the test), **drug fever**, **breast abscess**, pyelonephritis, and HIV-related infections (TB). Re-examine carefully and involve a senior." }
+      ],
+      "takeaway": "Puerperal fever needs a systematic search (7 Ws + malaria), antibiotics within an hour, and source control. If she isn't improving by 72 hours, look for pus, clots and wrong diagnoses."
+    },
+    {
+      "id": "pue-c02",
+      "title": "The discharge postnatal check and family planning",
+      "presentation": "You are asked to discharge a 20-year-old para 2 at a HC IV, 24 hours after an uncomplicated SVD of a healthy 3.2 kg boy. Her first child is 13 months old. She is HIV-negative (tested in labour) and breastfeeding.",
+      "steps": [
+        { "prompt": "What will you check before discharge (mother)?", "answer": "Vital signs (**temperature, pulse, BP**: pre-eclampsia can appear postpartum), pallor/Hb if there was significant bleeding, **fundus** (firm, at or below the umbilicus), **lochia** (amount, no clots or smell), **perineum**, **passed urine** and bowels, **breasts and a breastfeeding observation** (attachment), **calves**, **mood**, anti-D if Rh-negative, iron/folate supply, and HIV retesting plan." },
+        { "prompt": "What danger signs will you teach her to return with?", "answer": "Heavy bleeding (more than 1 pad an hour, large clots); fever or chills; foul-smelling discharge; severe abdominal pain; **severe headache, blurred vision, fits**; difficulty breathing or chest pain; painful swollen leg; breast redness or pain; worsening perineal pain or discharge; feeling very low, not coping, or thoughts of harming herself or the baby. Plus newborn danger signs (poor feeding, fever, fast breathing, jaundice, convulsions, cord infection)." },
+        { "prompt": "Her births are only 13 months apart. How will you counsel her on family planning?", "answer": "Explain the benefit of a **birth-to-pregnancy interval of at least 24 months** (lower risk of anaemia, preterm birth, low birth weight, maternal death). Explain that ovulation can return **before the first period**. Discuss options using WHO MEC for a breastfeeding woman:\n- **LAM** (if amenorrhoeic, fully breastfeeding, baby under 6 months), with a plan to switch\n- **Implant** or **POP** **today**\n- **PPIUD within 48 h** (possible today) or **from 4 weeks**\n- **DMPA from 6 weeks**\n- **Avoid COCs** until 6 months\n- Condoms for dual protection\nRespect her **voluntary, informed choice**; involve her partner if she wishes." },
+        { "prompt": "She chooses an implant. What else will you arrange for follow-up?", "answer": "Insert the implant (consent, aseptic technique, check it is palpable, give a card). Book postnatal contacts on **day 3** and at **days 7–14** (or VHT home visit), and at **6 weeks** (BP, FP review, VIA screening if due, **EPDS/mood**, baby's immunisations and growth). Continue **iron and folic acid** for 3 months, **exclusive breastfeeding**, and **HIV retest** per the national schedule while breastfeeding." }
+      ],
+      "takeaway": "A discharge check is a clinical examination plus counselling: danger signs, breastfeeding and family planning all have to fit into that one conversation."
+    },
+    {
+      "id": "pue-c03",
+      "title": "A low mother at the 6-week visit",
+      "presentation": "A 29-year-old para 3 attends the 6-week postnatal clinic at a regional referral hospital. The midwife notes she is withdrawn and tearful. Her husband left 2 months before the birth, and her last baby died in the neonatal period 2 years ago.",
+      "steps": [
+        { "prompt": "How will you screen and assess her?", "answer": "Build rapport in private. Ask the **Whooley questions** and complete the **EPDS**. Explore **duration** (more than 2 weeks?), mood, anhedonia, sleep, appetite, energy, guilt, concentration, **bonding and care of the baby**, **thoughts of self-harm or harm to the baby** (ask directly), **psychotic symptoms**, substance use, **domestic violence**, social support and finances. Look for organic contributors: **anaemia, hypothyroidism, HIV**, chronic pain." },
+        { "prompt": "Her EPDS is 19; she has had passive thoughts that 'the baby would be better off without me' but no plan. No psychotic symptoms. Diagnosis and risk?", "answer": "**Moderate–severe postpartum depression** with **passive suicidal ideation**, and risk factors of loss of partner support, previous neonatal death (grief) and poverty. Risk: **moderate** (no plan or intent, but she needs a safety plan and close follow-up). Check Hb and TSH." },
+        { "prompt": "Outline management.", "answer": "1. **Safety plan**: identify a trusted person (sister, mother), remove means of harm, give emergency contacts, and agree she will return if thoughts worsen.\n2. **Psychological therapy**: interpersonal/problem-solving therapy, group support (e.g. community IPT-G), grief counselling.\n3. **Antidepressant**: **sertraline 50 mg daily** (compatible with breastfeeding); review in 2 weeks; titrate; continue at least 6–12 months after remission.\n4. **Social support**: social worker, community resources, involve family.\n5. **Physical**: treat anaemia, support breastfeeding and infant care.\n6. **Referral** to mental health services if not improving or if risk rises; urgent admission if there is active intent or psychosis.\n7. **Family planning** counselling." },
+        { "prompt": "What would make you admit her urgently?", "answer": "**Active suicidal intent or plan**, thoughts of **harming the baby** with intent, **psychotic features** (delusions, hallucinations), severe self-neglect or inability to care for the baby, or no safe support at home. Admit to a psychiatric unit (e.g. Butabika or the regional mental health unit), ideally keeping mother and baby together with supervision." }
+      ],
+      "takeaway": "Ask every postnatal mother about mood and self-harm directly. Postpartum depression is common and treatable, and sertraline plus talking therapy is safe with breastfeeding."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Essential Maternal and Newborn Clinical Care Guidelines for Uganda", "source": "Ministry of Health Uganda", "year": 2022, "url": "https://library.health.go.ug/sites/default/files/resources/Essential%20Maternal%20Newborn%20Care%20Guidelines%202022%20V3.pdf" },
+    { "title": "Postpartum Care (Safe Mama Uganda clinical resource)", "source": "Ministry of Health Uganda", "url": "https://attend.health.go.ug/safe_mama/records/resource?id=49" },
+    { "title": "WHO recommendations on maternal and newborn care for a positive postnatal experience", "source": "World Health Organization", "year": 2022, "url": "https://www.who.int/publications/i/item/9789240045989" },
+    { "title": "Medical eligibility criteria for contraceptive use, 5th edition", "source": "World Health Organization", "year": 2015, "url": "https://www.who.int/publications/i/item/9789241549158" },
+    { "title": "Puerperal sepsis, the leading cause of maternal deaths at a Tertiary University Teaching Hospital in Uganda", "source": "BMC Pregnancy and Childbirth", "year": 2016, "url": "https://link.springer.com/article/10.1186/s12884-016-0986-9" },
+    { "title": "Prevalence and factors associated with puerperal sepsis among postnatal women at a tertiary referral hospital in Western Uganda", "source": "medRxiv (preprint)", "year": 2024, "url": "https://www.medrxiv.org/content/10.1101/2024.09.25.24314389.full.pdf" },
+    { "title": "Why mothers die at a busy tertiary urban hospital in Kampala, Uganda: a comprehensive review of maternal deaths 2016–2018", "source": "BMC Pregnancy and Childbirth (PMC)", "year": 2022, "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9652663/" },
+    { "title": "Uganda Demographic and Health Survey 2022", "source": "Uganda Bureau of Statistics", "year": 2023, "url": "https://www.ubos.org/wp-content/uploads/publications/UDHS-2022-Report.pdf" }
+  ]
+}
