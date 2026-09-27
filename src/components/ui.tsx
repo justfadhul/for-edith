@@ -5,7 +5,7 @@ export function ProgressBar({ value, className }: { value: number; className?: s
   const pct = Math.round(Math.min(1, Math.max(0, value)) * 100);
   return (
     <div className={clsx("h-1.5 w-full overflow-hidden rounded-full bg-surface-3", className)} role="progressbar" aria-valuenow={pct} aria-valuemin={0} aria-valuemax={100}>
-      <div className="h-full rounded-full bg-gradient-to-r from-brand to-lilac transition-all" style={{ width: `${pct}%` }} />
+      <div className="h-full rounded-full bg-brand transition-all" style={{ width: `${pct}%` }} />
     </div>
   );
 }
@@ -18,19 +18,13 @@ export function ProgressRing({ value, size = 72, label }: { value: number; size?
   return (
     <div className="relative shrink-0" style={{ width: size, height: size }}>
       <svg width={size} height={size} className="-rotate-90">
-        <defs>
-          <linearGradient id="ring-grad" x1="0" y1="0" x2="1" y2="1">
-            <stop offset="0%" stopColor="var(--brand)" />
-            <stop offset="100%" stopColor="var(--lilac)" />
-          </linearGradient>
-        </defs>
         <circle cx={size / 2} cy={size / 2} r={r} fill="none" stroke="var(--surface-3)" strokeWidth={stroke} />
         <circle
           cx={size / 2}
           cy={size / 2}
           r={r}
           fill="none"
-          stroke="url(#ring-grad)"
+          stroke="var(--brand)"
           strokeWidth={stroke}
           strokeLinecap="round"
           strokeDasharray={c}
@@ -86,7 +80,7 @@ export function PageHeader({ eyebrow, title, children }: { eyebrow?: string; tit
     <div className="mb-7 mt-3">
       {eyebrow && (
         <div className="eyebrow">
-          <span className="h-1.5 w-1.5 rotate-45 rounded-[2px] bg-gradient-to-br from-brand to-lilac" />
+          <span className="h-1.5 w-1.5 rotate-45 rounded-[2px] bg-brand" />
           {eyebrow}
         </div>
       )}

@@ -12,8 +12,6 @@ export interface Topic {
   discipline: Discipline;
   /** Lecturer(s)/facilitator(s) from the timetable */
   faculty: string[];
-  /** Student presenter(s) for tutorials */
-  presenters?: string[];
   blurb: string;
 }
 
@@ -35,7 +33,6 @@ export const TOPICS: Topic[] = [
     kind: "tutorial",
     discipline: "obstetrics",
     faculty: ["Dr Nsingo"],
-    presenters: ["Lukwago Albert"],
     blurb: "Focused ANC contacts, routine screening, IPTp, TT/Td, iron-folate and danger signs.",
   },
   {
@@ -45,7 +42,6 @@ export const TOPICS: Topic[] = [
     kind: "tutorial",
     discipline: "gynaecology",
     faculty: ["Dr Nassimu"],
-    presenters: ["Tino Dorothy"],
     blurb: "Types of abortion, septic abortion, uterine evacuation (MVA/misoprostol) and PAC.",
   },
   {
@@ -82,7 +78,6 @@ export const TOPICS: Topic[] = [
     kind: "tutorial",
     discipline: "obstetrics",
     faculty: ["Dr Nassimu"],
-    presenters: ["Talemwa Alfred"],
     blurb: "Diagnosis, tocolysis, antenatal corticosteroids, antibiotics and timing of delivery.",
   },
   // ── Week 2 ──────────────────────────────────────────────
@@ -93,7 +88,6 @@ export const TOPICS: Topic[] = [
     kind: "tutorial",
     discipline: "obstetrics",
     faculty: ["Dr Ndiwalana"],
-    presenters: ["Nsubuga Victoria"],
     blurb: "Indications, classification (Robson), technique, complications and VBAC.",
   },
   {
@@ -103,7 +97,6 @@ export const TOPICS: Topic[] = [
     kind: "tutorial",
     discipline: "obstetrics",
     faculty: ["Dr Nanzira"],
-    presenters: ["Namugenyi Caroline"],
     blurb: "Causes, confirmation, induction, DIC risk and bereavement care.",
   },
   {
@@ -149,7 +142,6 @@ export const TOPICS: Topic[] = [
     kind: "tutorial",
     discipline: "gynaecology",
     faculty: ["Dr Kavuma"],
-    presenters: ["Atugonza Christabel"],
     blurb: "Ruptured vs unruptured, resuscitation, laparotomy and medical management.",
   },
   // ── Week 3 ──────────────────────────────────────────────
@@ -196,7 +188,6 @@ export const TOPICS: Topic[] = [
     kind: "tutorial",
     discipline: "obstetrics",
     faculty: ["Dr Kavuma"],
-    presenters: ["Mujurizi Darius"],
     blurb: "The 4 Ts, the WHO E-MOTIVE bundle, uterotonics, TXA and surgical options.",
   },
   // ── Week 4 ──────────────────────────────────────────────
@@ -207,7 +198,6 @@ export const TOPICS: Topic[] = [
     kind: "tutorial",
     discipline: "gynaecology",
     faculty: ["Dr Kaduyu"],
-    presenters: ["Agaba Shimon"],
     blurb: "Ectropion, cervicitis, polyps, Nabothian cysts and cervical fibroids.",
   },
   {
@@ -244,7 +234,6 @@ export const TOPICS: Topic[] = [
     kind: "tutorial",
     discipline: "gynaecology",
     faculty: ["Dr Nassimu"],
-    presenters: ["Rukundo Jeremy"],
     blurb: "Pelvic floor support, POP-Q staging, pessaries and surgical repair.",
   },
   {
@@ -254,7 +243,6 @@ export const TOPICS: Topic[] = [
     kind: "tutorial",
     discipline: "obstetrics",
     faculty: ["Dr Nanzira"],
-    presenters: ["Nanyanja Patricia"],
     blurb: "Hypertensive disorders, MgSO4 regimens, antihypertensives and timing of delivery.",
   },
   // ── Week 5 ──────────────────────────────────────────────
@@ -265,7 +253,6 @@ export const TOPICS: Topic[] = [
     kind: "tutorial",
     discipline: "gynaecology",
     faculty: ["Dr Kaduyu"],
-    presenters: ["Nakigozi Gracious"],
     blurb: "HPV, screening (VIA/HPV), FIGO staging and treatment of cervical cancer.",
   },
   {
@@ -275,7 +262,6 @@ export const TOPICS: Topic[] = [
     kind: "tutorial",
     discipline: "gynaecology",
     faculty: ["Prof Mirembe"],
-    presenters: ["Ocan Samuel"],
     blurb: "Evaluation of the couple: ovulation, tubes, uterus and semen; management.",
   },
   {
@@ -312,7 +298,6 @@ export const TOPICS: Topic[] = [
     kind: "tutorial",
     discipline: "gynaecology",
     faculty: ["Dr Kavuma"],
-    presenters: ["Ggubya Micheal"],
     blurb: "Causes, classification, prevention, catheter management and surgical repair.",
   },
   // ── Week 6 ──────────────────────────────────────────────
@@ -323,7 +308,6 @@ export const TOPICS: Topic[] = [
     kind: "tutorial",
     discipline: "obstetrics",
     faculty: ["Dr Mutamba"],
-    presenters: ["Lukwago", "Mujurizi"],
     blurb: "Recognising obstruction, OP position, breech, face, brow, shoulder and cord prolapse.",
   },
   {
@@ -380,7 +364,6 @@ export interface Session {
   title: string;
   mode: SessionMode;
   faculty?: string;
-  presenter?: string;
   topic?: string;
 }
 
@@ -393,8 +376,8 @@ export const SESSIONS: Session[] = [
   // Week I
   { day: 0, time: "8:00–10:00", title: CW, mode: "Clinical work" },
   { day: 0, time: "10:00–12:00", title: "Practical session on the partograph", mode: "Skills session", faculty: "Sr Kiggundu", topic: "partograph-labour-monitoring" },
-  { day: 0, time: "14:00–16:00", title: "Antenatal care and pregnancy monitoring", mode: "Tutorial", presenter: "Lukwago Albert", faculty: "Dr Nsingo", topic: "antenatal-care" },
-  { day: 0, time: "16:00–18:00", title: "Abortion & post-abortal care", mode: "Tutorial", presenter: "Tino Dorothy", faculty: "Dr Nassimu", topic: "abortion-post-abortal-care" },
+  { day: 0, time: "14:00–16:00", title: "Antenatal care and pregnancy monitoring", mode: "Tutorial", faculty: "Dr Nsingo", topic: "antenatal-care" },
+  { day: 0, time: "16:00–18:00", title: "Abortion & post-abortal care", mode: "Tutorial", faculty: "Dr Nassimu", topic: "abortion-post-abortal-care" },
   { day: 1, time: "8:00–11:00", title: CW, mode: "Clinical work" },
   { day: 1, time: "11:00–13:00", title: "Bedside teaching: guided case presentations & abdominal exam", mode: "Bedside teaching", faculty: "Dr Mutamba", topic: "obstetric-history-examination" },
   { day: 1, time: "15:00–16:00", title: "Labour monitoring tool", mode: "Lecture", faculty: "Dr Nanzira", topic: "partograph-labour-monitoring" },
@@ -406,12 +389,12 @@ export const SESSIONS: Session[] = [
   { day: 3, time: "16:00–18:00", title: "Diagnosis of pregnancy & physiological changes in pregnancy", mode: "Lecture", faculty: "Prof Mirembe", topic: "diagnosis-physiological-changes-pregnancy" },
   { day: 4, time: "8:00–11:00", title: CW, mode: "Clinical work" },
   { day: 4, time: "11:00–13:00", title: "Bedside teaching (guided case presentations)", mode: "Bedside teaching", faculty: "Dr Nassimu" },
-  { day: 4, time: "14:00–16:00", title: "Preterm labour, PROM, PPROM", mode: "Tutorial", presenter: "Talemwa Alfred", faculty: "Dr Nassimu", topic: "preterm-labour-prom-pprom" },
+  { day: 4, time: "14:00–16:00", title: "Preterm labour, PROM, PPROM", mode: "Tutorial", faculty: "Dr Nassimu", topic: "preterm-labour-prom-pprom" },
   // Week II
   { day: 7, time: "8:00–11:00", title: CW, mode: "Clinical work" },
   { day: 7, time: "11:00–13:00", title: "Bedside teaching: guided case presentations & general examination", mode: "Bedside teaching", faculty: "Dr Kaduyu", topic: "obstetric-history-examination" },
-  { day: 7, time: "14:00–16:00", title: "Caesarean section", mode: "Tutorial", presenter: "Nsubuga Victoria", faculty: "Dr Ndiwalana", topic: "caesarean-section" },
-  { day: 7, time: "16:00–18:00", title: "Intrauterine fetal death", mode: "Tutorial", presenter: "Namugenyi Caroline", faculty: "Dr Nanzira", topic: "intrauterine-fetal-death" },
+  { day: 7, time: "14:00–16:00", title: "Caesarean section", mode: "Tutorial", faculty: "Dr Ndiwalana", topic: "caesarean-section" },
+  { day: 7, time: "16:00–18:00", title: "Intrauterine fetal death", mode: "Tutorial", faculty: "Dr Nanzira", topic: "intrauterine-fetal-death" },
   { day: 8, time: "8:00–12:00", title: "Ward work (at rotation sites)", mode: "Clinical work" },
   { day: 8, time: "12:00–13:00", title: "MVA kit: equipment, indications, procedure, complications & sterilisation", mode: "Skills session", faculty: "Dr Nsingo / Dr Kavuma", topic: "mva-kit" },
   { day: 8, time: "14:00–18:00", title: "Grand round", mode: "Grand round" },
@@ -426,7 +409,7 @@ export const SESSIONS: Session[] = [
   { day: 11, time: "14:00–16:00", title: "Practical session on infection control in a clinical setting", mode: "Skills session", faculty: "Sr Kiggundu", topic: "infection-prevention-control" },
   { day: 14, time: "8:00–11:00", title: CW, mode: "Clinical work" },
   { day: 14, time: "11:00–13:00", title: "Bedside teaching (guided case presentations)", mode: "Bedside teaching", faculty: "Dr Kaduyu" },
-  { day: 14, time: "14:00–16:00", title: "Ectopic pregnancy", mode: "Tutorial", presenter: "Atugonza Christabel", faculty: "Dr Kavuma", topic: "ectopic-pregnancy" },
+  { day: 14, time: "14:00–16:00", title: "Ectopic pregnancy", mode: "Tutorial", faculty: "Dr Kavuma", topic: "ectopic-pregnancy" },
   // Week III
   { day: 15, time: "8:00–11:00", title: CW, mode: "Clinical work" },
   { day: 15, time: "11:00–13:00", title: "Bedside teaching (guided case presentations)", mode: "Bedside teaching", faculty: "Dr Nsingo / Dr Mutamba" },
@@ -440,11 +423,11 @@ export const SESSIONS: Session[] = [
   { day: 17, time: "16:00–18:00", title: "Sickle cell disease in pregnancy", mode: "Lecture", faculty: "Dr Mutamba", topic: "sickle-cell-disease-pregnancy" },
   { day: 18, time: "8:00–11:00", title: CW, mode: "Clinical work", faculty: "Dr Kaduyu" },
   { day: 18, time: "11:00–13:00", title: "Vaginal delivery (instruments, sutures & equipment) + simulated vaginal delivery", mode: "Skills session", faculty: "Dr Kavuma / Sr Kiggundu", topic: "vaginal-delivery-skills" },
-  { day: 18, time: "14:00–16:00", title: "Postpartum haemorrhage", mode: "Tutorial", presenter: "Mujurizi Darius", faculty: "Dr Kavuma", topic: "postpartum-haemorrhage" },
+  { day: 18, time: "14:00–16:00", title: "Postpartum haemorrhage", mode: "Tutorial", faculty: "Dr Kavuma", topic: "postpartum-haemorrhage" },
   // Week IV
   { day: 21, time: "8:00–10:00", title: "Teaching round", mode: "Ward round", faculty: "Dr Nassimu" },
   { day: 21, time: "10:00–13:00", title: CW, mode: "Clinical work" },
-  { day: 21, time: "14:00–16:00", title: "Benign lesions of the cervix", mode: "Tutorial", presenter: "Agaba Shimon", faculty: "Dr Kaduyu", topic: "benign-lesions-cervix" },
+  { day: 21, time: "14:00–16:00", title: "Benign lesions of the cervix", mode: "Tutorial", faculty: "Dr Kaduyu", topic: "benign-lesions-cervix" },
   { day: 21, time: "16:00–18:00", title: "Practical session on ventouse (principles & simulation)", mode: "Skills session", faculty: "Prof Mirembe", topic: "ventouse-delivery" },
   { day: 22, time: "8:00–11:00", title: CW, mode: "Clinical work" },
   { day: 22, time: "12:00–13:00", title: "Bedside teaching (guided case presentations)", mode: "Bedside teaching", faculty: "Dr Nsingo / Dr Kavuma" },
@@ -457,16 +440,16 @@ export const SESSIONS: Session[] = [
   { day: 24, time: "16:00–18:00", title: "Emergency obstetric care & safe motherhood", mode: "Lecture", faculty: "Prof Mirembe", topic: "emoc-safe-motherhood" },
   { day: 25, time: "8:00–11:00", title: CW, mode: "Clinical work" },
   { day: 25, time: "11:00–13:00", title: "Bedside teaching (guided case presentations)", mode: "Bedside teaching", faculty: "Dr Ndiwalana" },
-  { day: 25, time: "14:00–16:00", title: "Genital prolapse", mode: "Tutorial", presenter: "Rukundo Jeremy", faculty: "Dr Nassimu", topic: "genital-prolapse" },
-  { day: 25, time: "14:00–18:00", title: "Pre-eclampsia / eclampsia", mode: "Tutorial", presenter: "Nanyanja Patricia", faculty: "Dr Nanzira", topic: "pre-eclampsia-eclampsia" },
+  { day: 25, time: "14:00–16:00", title: "Genital prolapse", mode: "Tutorial", faculty: "Dr Nassimu", topic: "genital-prolapse" },
+  { day: 25, time: "14:00–18:00", title: "Pre-eclampsia / eclampsia", mode: "Tutorial", faculty: "Dr Nanzira", topic: "pre-eclampsia-eclampsia" },
   // Week V
   { day: 28, time: "8:00–9:00", title: CW, mode: "Clinical work" },
   { day: 28, time: "9:00–12:00", title: "Teaching round", mode: "Ward round", faculty: "Dr Nassimu" },
   { day: 28, time: "14:00–16:00", title: CW, mode: "Clinical work" },
   { day: 29, time: "8:00–11:00", title: CW, mode: "Clinical work" },
   { day: 29, time: "11:00–13:00", title: "Bedside teaching (guided case presentations)", mode: "Bedside teaching", faculty: "Dr Nsingo / Dr Mutamba" },
-  { day: 29, time: "11:00–13:00", title: "Malignant lesions of the cervix", mode: "Tutorial", presenter: "Nakigozi Gracious", faculty: "Dr Kaduyu", topic: "malignant-lesions-cervix" },
-  { day: 29, time: "14:00–18:00", title: "Infertility", mode: "Tutorial", presenter: "Ocan Samuel", faculty: "Prof Mirembe", topic: "infertility" },
+  { day: 29, time: "11:00–13:00", title: "Malignant lesions of the cervix", mode: "Tutorial", faculty: "Dr Kaduyu", topic: "malignant-lesions-cervix" },
+  { day: 29, time: "14:00–18:00", title: "Infertility", mode: "Tutorial", faculty: "Prof Mirembe", topic: "infertility" },
   { day: 30, time: "8:00–11:00", title: CW, mode: "Clinical work" },
   { day: 30, time: "11:00–13:00", title: "Bedside teaching (guided case presentations)", mode: "Bedside teaching", faculty: "Dr Nanzira" },
   { day: 30, time: "14:00–18:00", title: "Integrated paediatric lectures", mode: "Paediatrics" },
@@ -476,7 +459,7 @@ export const SESSIONS: Session[] = [
   { day: 32, time: "8:00–10:00", title: CW, mode: "Clinical work" },
   { day: 32, time: "10:00–12:00", title: "Bedside teaching (guided case presentations)", mode: "Bedside teaching", faculty: "Dr Nassimu" },
   { day: 32, time: "12:00–13:00", title: "Neonatal resuscitation practical session", mode: "Skills session", faculty: "Dr Nassimu", topic: "neonatal-resuscitation" },
-  { day: 32, time: "14:00–16:00", title: "VVF / RVF", mode: "Tutorial", presenter: "Ggubya Micheal", faculty: "Dr Kavuma", topic: "vvf-rvf" },
+  { day: 32, time: "14:00–16:00", title: "VVF / RVF", mode: "Tutorial", faculty: "Dr Kavuma", topic: "vvf-rvf" },
   // Week VI
   { day: 35, time: "8:00–11:00", title: CW, mode: "Clinical work" },
   { day: 35, time: "11:00–13:00", title: "Bedside teaching (guided case presentations)", mode: "Bedside teaching", faculty: "Dr Kavuma" },
@@ -485,7 +468,7 @@ export const SESSIONS: Session[] = [
   { day: 36, time: "14:00–18:00", title: "Grand round", mode: "Grand round" },
   { day: 37, time: "8:00–11:00", title: CW, mode: "Clinical work" },
   { day: 37, time: "11:00–13:00", title: "Bedside teaching (guided case presentations)", mode: "Bedside teaching", faculty: "Dr Nanzira" },
-  { day: 37, time: "14:00–16:00", title: "Obstructed labour, malposition & malpresentation", mode: "Tutorial", presenter: "Lukwago, Mujurizi", faculty: "Dr Mutamba", topic: "obstructed-labour-malpresentation" },
+  { day: 37, time: "14:00–16:00", title: "Obstructed labour, malposition & malpresentation", mode: "Tutorial", faculty: "Dr Mutamba", topic: "obstructed-labour-malpresentation" },
   { day: 38, time: "8:00–13:00", title: "Major ward round", mode: "Ward round" },
   { day: 38, time: "14:00–16:00", title: "HIV/AIDS in pregnancy", mode: "Lecture", faculty: "Dr Nsingo", topic: "hiv-in-pregnancy" },
   { day: 38, time: "16:00–18:00", title: "Diabetes mellitus in pregnancy", mode: "Lecture", faculty: "Dr Nassimu", topic: "diabetes-in-pregnancy" },

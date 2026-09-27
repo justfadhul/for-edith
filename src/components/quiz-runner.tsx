@@ -216,9 +216,14 @@ export function QuizRunner({
         </div>
 
         {reveal && (
-          <div className="mt-5 rounded-xl bg-surface-2 p-4">
-            <div className="mb-1 text-sm font-bold">
-              {chosen === q.answer ? "✅ Correct" : chosen === null ? `Answer: ${LETTERS[q.answer]}` : `❌ The answer is ${LETTERS[q.answer]}`}
+          <div className="mt-5 rounded-xl border border-line bg-surface-2/70 p-4">
+            <div className="mb-1.5 flex flex-wrap items-baseline gap-2 text-[14px] font-semibold">
+              {chosen === q.answer ? (
+                <span className="font-serif text-[24px] font-normal italic text-good">Nicely done.</span>
+              ) : chosen === null ? null : (
+                <span className="font-serif text-[24px] font-normal italic text-brand">Not quite.</span>
+              )}
+              <span>{chosen === q.answer ? `${LETTERS[q.answer]} is right` : `The answer is ${LETTERS[q.answer]}`}</span>
             </div>
             <Markdown className="prose-compact">{q.explanation}</Markdown>
           </div>

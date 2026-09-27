@@ -1,12 +1,14 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ChevronLeft, ChevronRight, Clock, Sparkles } from "lucide-react";
-import { TOPICS, SESSIONS } from "@/content/curriculum";
+import { ChevronLeft, ChevronRight, Sparkles, BookOpen, GraduationCap, Wrench } from "lucide-react";
+import { TOPICS, SESSIONS, WEEK_THEMES } from "@/content/curriculum";
 import { loadTopic } from "@/lib/content";
 import { Markdown } from "@/components/markdown";
 import { KindChip } from "@/components/ui";
-import { TopicActions, TopicTabs, TableOfContents } from "@/components/topic-view";
+import { TopicHeaderActions, TopicDetails, TopicTabs, TableOfContents } from "@/components/topic-view";
+
+const KIND_ICON = { lecture: GraduationCap, tutorial: BookOpen, skill: Wrench } as const;
 
 export const dynamicParams = false;
 
@@ -32,93 +34,117 @@ export default async function TopicPage(props: PageProps<"/topics/[slug]">) {
   const questions = study.mcqs.map((q) => ({ ...q, topic: slug }));
   const cards = study.flashcards.map((f) => ({ ...f, topic: slug }));
 
+  const jump = [
+    { re: /^management/i, label: "Management" },
+    { re: /clinical acumen/i, label: "Clinical acumen" },
+    { re: /procedure/i, label: "Procedure" },
+    { re: /ward-round|exam pearls/i, label: "Ward-round pearls" },
+  ]
+    .map((j) => ({ ...j, h: c.headings.find((h) => h.depth === 2 && j.re.test(h.text)) }))
+    .filter((j) => j.h);
+  const Icon = KIND_ICON[topic.kind];
+
   return (
     <article>
-      <nav className="mb-3 flex items-center gap-2 text-sm text-ink-3 lg:hidden">
-        <Link href="/topics" className="hover:text-brand">
-          Topics
-        </Link>
-        <span>/</span>
-        <span>Week {topic.week}</span>
-      </nav>
-
-      <header className="mb-5">
-        <div className="flex flex-wrap items-center gap-2">
-          <KindChip kind={topic.kind} />
-          {topic.discipline !== "skills" && <span className="chip capitalize">{topic.discipline}</span>}
-          {c.wordCount > 0 && (
-            <span className="chip">
-              <Clock size={12} /> {Math.max(1, Math.round(c.wordCount / 200))} min read
-            </span>
-          )}
+      {/* Record header */}
+      <header className="mb-6 flex flex-col gap-4">
+        <div className="flex items-start gap-4">
+          <span className="hidden h-[52px] w-[52px] shrink-0 place-items-center rounded-[14px] bg-brand-soft text-brand sm:grid">
+            <Icon size={24} strokeWidth={1.8} />
+          </span>
+          <div className="flex min-w-0 flex-1 flex-col gap-2">
+            <div className="flex flex-wrap items-center gap-1.5">
+              <KindChip kind={topic.kind} />
+              {topic.discipline !== "skills" && <span className="chip capitalize">{topic.discipline}</span>}
+              <span className="chip">Week {topic.week}</span>
+              {c.wordCount > 0 && <span className="chip">{Math.max(1, Math.round(c.wordCount / 200))} min read</span>}
+              <div className="ml-auto hidden sm:block">
+                <TopicHeaderActions slug={slug} />
+              </div>
+            </div>
+            <h1 className="h-display !text-[clamp(2.1rem,1.6rem+1.8vw,2.9rem)] !leading-[1.03]">{topic.title}</h1>
+            <p className="max-w-3xl text-[15px] leading-relaxed text-ink-2">{c.summary}</p>
+            <p className="text-[13px] text-ink-3 xl:hidden">
+              {topic.faculty.join(" · ")}
+            </p>
+            <div className="sm:hidden">
+              <TopicHeaderActions slug={slug} />
+            </div>
+          </div>
         </div>
-        <h1 className="mt-2 h-display">{topic.title}</h1>
-        <p className="mt-2 max-w-3xl text-lg text-ink-2">{c.summary}</p>
-        <p className="mt-2 text-sm text-ink-3">
-          {topic.faculty.join(" · ")}
-          {topic.presenters?.length ? ` · Presenter: ${topic.presenters.join(", ")}` : ""}
-          {sessions.length > 0 && ` · ${sessions.map((s) => s.mode).join(" + ")}`}
-        </p>
-        <TopicActions slug={slug} />
-      </header>
-
-      {(() => {
-        const jump = [
-          { re: /clinical acumen/i, label: "🧠 Clinical acumen" },
-          { re: /^management/i, label: "💊 Management" },
-          { re: /procedure/i, label: "🛠️ Procedure" },
-          { re: /ward-round|exam pearls/i, label: "🎓 Ward-round pearls" },
-        ]
-          .map((j) => ({ ...j, h: c.headings.find((h) => h.depth === 2 && j.re.test(h.text)) }))
-          .filter((j) => j.h);
-        return jump.length ? (
-          <div className="no-scrollbar -mx-4 mb-4 flex gap-2 overflow-x-auto px-4 sm:mx-0 sm:px-0">
-            {jump.map((j) => (
-              <a key={j.h!.id} href={`#${j.h!.id}`} className="btn btn-outline min-h-0 shrink-0 py-1.5 text-sm">
+        {jump.length > 0 && (
+          <div className="no-scrollbar -mx-4 flex gap-2 overflow-x-auto px-4 sm:mx-0 sm:px-0">
+            {jump.map((j, k) => (
+              <a
+                key={j.h!.id}
+                href={`#${j.h!.id}`}
+                className={
+                  k === 0
+                    ? "inline-flex h-[34px] shrink-0 items-center rounded-full bg-primary px-3.5 text-[13px] font-medium text-primary-ink"
+                    : "inline-flex h-[34px] shrink-0 items-center rounded-full border border-line-strong bg-surface px-3.5 text-[13px] font-medium"
+                }
+              >
                 {j.label}
               </a>
             ))}
           </div>
-        ) : null;
-      })()}
-
-      {c.highYield.length > 0 && (
-        <section className="card blush mb-6 !border-brand-line p-5">
-          <h2 className="flex items-center gap-2 font-semibold text-brand">
-            <Sparkles size={18} /> High-yield: must know
-          </h2>
-          <ul className="mt-2 space-y-1.5">
-            {c.highYield.map((h, k) => (
-              <li key={k} className="flex gap-2 text-[0.95rem] leading-snug">
-                <span className="mt-2 h-1.5 w-1.5 shrink-0 rounded-full bg-brand" />
-                <Markdown className="prose-compact [&_p]:m-0">{h}</Markdown>
-              </li>
-            ))}
-          </ul>
-        </section>
-      )}
-
-      <TopicTabs
-        slug={slug}
-        topicTitle={topic.title}
-        cards={cards}
-        questions={questions}
-        cases={study.cases}
-        references={study.references}
-        toc={<TableOfContents headings={c.headings} />}
-      >
-        {c.body ? (
-          <Markdown headingIds>{c.body}</Markdown>
-        ) : (
-          <div className="card p-8 text-center text-ink-3">
-            Notes for this topic are being written. Check back soon, or try the flashcards and questions.
-          </div>
         )}
-      </TopicTabs>
+      </header>
+
+      <div className="xl:grid xl:grid-cols-[minmax(0,1fr)_292px] xl:gap-10">
+        <div className="min-w-0">
+          {c.highYield.length > 0 && (
+            <section className="mb-6 flex flex-col gap-2.5 rounded-[14px] border border-brand-line bg-surface px-5 py-4">
+              <h2 className="flex items-center gap-2 text-[13px] font-semibold text-brand-text">
+                <Sparkles size={15} className="fill-brand text-brand" /> Must know before the ward round
+              </h2>
+              <ol className="flex list-decimal flex-col gap-1.5 pl-5 text-[14.5px] leading-relaxed marker:font-semibold marker:text-brand">
+                {c.highYield.map((h, k) => (
+                  <li key={k} className="pl-1">
+                    <Markdown className="prose-compact [&_p]:m-0 [&_p]:text-[14.5px]">{h}</Markdown>
+                  </li>
+                ))}
+              </ol>
+            </section>
+          )}
+
+          <TopicTabs
+            slug={slug}
+            topicTitle={topic.title}
+            cards={cards}
+            questions={questions}
+            cases={study.cases}
+            references={study.references}
+            toc={<TableOfContents headings={c.headings} />}
+          >
+            {c.body ? (
+              <Markdown headingIds>{c.body}</Markdown>
+            ) : (
+              <div className="card p-8 text-center text-ink-3">Notes for this topic are being written. Check back soon, or try the flashcards and questions.</div>
+            )}
+          </TopicTabs>
+        </div>
+
+        <aside className="hidden xl:block">
+          <div className="sticky top-20 flex max-h-[calc(100dvh-6rem)] flex-col gap-6 overflow-y-auto rounded-[14px] border border-line bg-surface p-5">
+            <TopicDetails
+              slug={slug}
+              counts={{ flashcards: cards.length, mcqs: questions.length, cases: study.cases.length }}
+              sessions={sessions}
+              faculty={topic.faculty}
+              weekLabel={`${topic.week} · ${WEEK_THEMES[topic.week]}`}
+            />
+            <div className="border-t border-line pt-4">
+              <div className="mb-2 text-[12px] font-medium text-ink-3">On this page</div>
+              <TableOfContents headings={c.headings} />
+            </div>
+          </div>
+        </aside>
+      </div>
 
       <nav className="mt-10 grid grid-cols-1 gap-3 sm:grid-cols-2">
         {prev ? (
-          <Link href={`/topics/${prev.slug}`} className="card flex min-w-0 items-center gap-2 p-4 hover:border-brand">
+          <Link href={`/topics/${prev.slug}`} className="card flex min-w-0 items-center gap-2 p-4">
             <ChevronLeft size={18} className="shrink-0 text-ink-3" />
             <div className="min-w-0">
               <div className="text-xs text-ink-3">Previous</div>
@@ -129,7 +155,7 @@ export default async function TopicPage(props: PageProps<"/topics/[slug]">) {
           <span />
         )}
         {next && (
-          <Link href={`/topics/${next.slug}`} className="card flex min-w-0 items-center justify-end gap-2 p-4 text-right hover:border-brand">
+          <Link href={`/topics/${next.slug}`} className="card flex min-w-0 items-center justify-end gap-2 p-4 text-right">
             <div className="min-w-0">
               <div className="text-xs text-ink-3">Next</div>
               <div className="truncate font-medium">{next.title}</div>

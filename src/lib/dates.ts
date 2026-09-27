@@ -19,6 +19,10 @@ export function addDays(d: Date, n: number): Date {
   return r;
 }
 
+export function startOfDay(d: Date): Date {
+  return new Date(d.getFullYear(), d.getMonth(), d.getDate());
+}
+
 export function startOfToday(): Date {
   const n = new Date();
   return new Date(n.getFullYear(), n.getMonth(), n.getDate());
@@ -34,7 +38,12 @@ export interface RotationInfo {
   daysToTest: number;
 }
 
-export function rotationInfo(startISO: string | null | undefined, today = startOfToday()): RotationInfo {
+/**
+ * Rotation position. Pass `now` from useNow(): while it is 0 (server render and
+ * hydration) the result is pinned to the rotation's first day so markup matches.
+ */
+export function rotationInfo(startISO: string | null | undefined, now?: number): RotationInfo {
+  const today = now === undefined ? startOfToday() : now ? startOfDay(new Date(now)) : parseDate(startISO || DEFAULT_START);
   const start = parseDate(startISO || DEFAULT_START);
   const dayIndex = Math.round((today.getTime() - start.getTime()) / DAY);
   const phase = dayIndex < 0 ? "before" : dayIndex > 39 ? "after" : "during";
@@ -47,6 +56,24 @@ export function rotationInfo(startISO: string | null | undefined, today = startO
   };
 }
 
+const WD = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+const MO = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+
+/**
+ * en-GB style date without Intl: Node's and browsers' ICU disagree ("Sept" vs "Sep"),
+ * which breaks hydration. Supports the option subset the app uses.
+ */
 export function formatDay(d: Date, opts: Intl.DateTimeFormatOptions = { weekday: "short", day: "numeric", month: "short" }) {
-  return d.toLocaleDateString("en-GB", opts);
+  const parts: string[] = [];
+  if (opts.weekday) {
+    const w = WD[d.getDay()];
+    parts.push(opts.weekday === "long" ? w : opts.weekday === "narrow" ? w[0] : w.slice(0, 3));
+  }
+  if (opts.day) parts.push(String(d.getDate()));
+  if (opts.month) {
+    const m = MO[d.getMonth()];
+    parts.push(opts.month === "long" ? m : m.slice(0, 3));
+  }
+  if (opts.year) parts.push(String(d.getFullYear()));
+  return parts.join(" ");
 }

@@ -7,7 +7,8 @@ import { Play, Timer, Zap, TrendingDown } from "lucide-react";
 import { WEEKS } from "@/content/curriculum";
 import type { StudyData } from "@/lib/types";
 import { useStudy } from "@/lib/store/study-store";
-import { rotationInfo } from "@/lib/dates";
+import { formatDay, rotationInfo } from "@/lib/dates";
+import { useNow } from "@/lib/use-now";
 import { QuizRunner, type QuizQuestion } from "@/components/quiz-runner";
 
 interface TopicLite {
@@ -30,6 +31,7 @@ function shuffle<T>(a: T[]) {
 
 export function QuizBuilder({ topics }: { topics: TopicLite[] }) {
   const { state } = useStudy();
+  const now = useNow();
   const [mode, setMode] = useState<"practice" | "exam">("practice");
   const [selected, setSelected] = useState<Set<string>>(() => new Set(topics.map((t) => t.slug)));
   const [count, setCount] = useState(20);
@@ -98,7 +100,7 @@ export function QuizBuilder({ topics }: { topics: TopicLite[] }) {
       </div>
     );
 
-  const info = rotationInfo(state.settings.rotationStart);
+  const info = rotationInfo(state.settings.rotationStart, now);
   const soFar = topics.filter((t) => info.phase === "after" || (info.week !== null && t.week <= info.week)).map((t) => t.slug);
 
   return (
@@ -194,7 +196,7 @@ export function QuizBuilder({ topics }: { topics: TopicLite[] }) {
                 <li key={s.id} className="flex items-center justify-between py-2 text-sm">
                   <span>
                     <span className={clsx("chip mr-2", s.mode === "exam" && "bg-brand-soft text-brand")}>{s.mode}</span>
-                    {new Date(s.createdAt).toLocaleDateString("en-GB", { day: "numeric", month: "short" })}
+                    {formatDay(new Date(s.createdAt), { day: "numeric", month: "short" })}
                   </span>
                   <span className="font-semibold">
                     {s.score}/{s.total} <span className="font-normal text-ink-3">({Math.round((s.score / s.total) * 100)}%)</span>

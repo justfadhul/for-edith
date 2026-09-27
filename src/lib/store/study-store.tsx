@@ -39,6 +39,14 @@ export interface CaseState {
   completed: boolean;
   updatedAt: string;
 }
+/** A teaching session moved to another day/time. `cleared` = moved back (kept for sync). */
+export interface SessionOverride {
+  day: number;
+  time: string;
+  note: string | null;
+  cleared: boolean;
+  updatedAt: string;
+}
 export interface Settings {
   rotationStart: string | null;
   displayName: string | null;
@@ -53,6 +61,7 @@ export interface StudyState {
   questions: Record<string, QuestionState>;
   sessions: QuizSession[];
   cases: Record<string, CaseState>;
+  overrides: Record<string, SessionOverride>;
 }
 
 const EPOCH = new Date(0).toISOString();
@@ -64,6 +73,7 @@ const emptyState = (): StudyState => ({
   questions: {},
   sessions: [],
   cases: {},
+  overrides: {},
 });
 
 const STORAGE_KEY = "for-edith:v1";
@@ -101,7 +111,7 @@ async function selectAll(sb: SupabaseClient, table: string, order: string) {
 
 async function pullRemote(sb: SupabaseClient): Promise<StudyState> {
   const s = emptyState();
-  const [settings, topics, notes, cards, questions, sessions, cases] = await Promise.all([
+  const [settings, topics, notes, cards, questions, sessions, cases, overrides] = await Promise.all([
     sb.from("user_settings").select("*").maybeSingle(),
     selectAll(sb, "topic_progress", "topic_slug"),
     selectAll(sb, "topic_notes", "topic_slug"),
@@ -109,8 +119,9 @@ async function pullRemote(sb: SupabaseClient): Promise<StudyState> {
     selectAll(sb, "question_stats", "question_id"),
     sb.from("quiz_sessions").select("*").order("created_at", { ascending: false }).limit(200),
     selectAll(sb, "case_progress", "case_id"),
+    selectAll(sb, "session_overrides", "session_key"),
   ]);
-  const firstError = [settings, topics, notes, cards, questions, sessions, cases].find((r) => r.error)?.error;
+  const firstError = [settings, topics, notes, cards, questions, sessions, cases, overrides].find((r) => r.error)?.error;
   if (firstError) throw firstError;
   if (settings.data)
     s.settings = {
@@ -158,6 +169,14 @@ async function pullRemote(sb: SupabaseClient): Promise<StudyState> {
     s.cases[r.case_id as string] = {
       topic: r.topic_slug as string,
       completed: r.completed as boolean,
+      updatedAt: r.updated_at as string,
+    };
+  for (const r of (overrides.data ?? []) as Row[])
+    s.overrides[r.session_key as string] = {
+      day: r.day as number,
+      time: r.time as string,
+      note: r.note as string | null,
+      cleared: r.cleared as boolean,
       updatedAt: r.updated_at as string,
     };
   return s;
@@ -209,6 +228,15 @@ const rows = {
     duration_s: v.durationS ?? null,
     created_at: v.createdAt,
   }),
+  override: (uid: string, key: string, v: SessionOverride) => ({
+    user_id: uid,
+    session_key: key,
+    day: v.day,
+    time: v.time,
+    note: v.note,
+    cleared: v.cleared,
+    updated_at: v.updatedAt,
+  }),
   case: (uid: string, id: string, v: CaseState) => ({
     user_id: uid,
     case_id: id,
@@ -224,6 +252,7 @@ const TABLES = {
   cards: ["flashcard_reviews", "user_id,card_id", rows.card],
   questions: ["question_stats", "user_id,question_id", rows.question],
   cases: ["case_progress", "user_id,case_id", rows.case],
+  overrides: ["session_overrides", "user_id,session_key", rows.override],
 } as const;
 
 type KeyedSection = keyof typeof TABLES;
@@ -237,6 +266,7 @@ function merge(local: StudyState, remote: StudyState) {
     cards: [],
     questions: [],
     cases: [],
+    overrides: [],
     settings: false,
     sessions: [],
   };
@@ -274,6 +304,8 @@ interface StudyContextValue {
   recordAnswer(questionId: string, topic: string, correct: boolean): void;
   recordSession(s: Omit<QuizSession, "id" | "createdAt">): void;
   setCaseCompleted(caseId: string, topic: string, completed: boolean): void;
+  moveSession(key: string, day: number, time: string, note: string | null): void;
+  resetSession(key: string): void;
   updateSettings(patch: Partial<Omit<Settings, "updatedAt">>): void;
   signOut(): Promise<void>;
   resyncNow(): Promise<void>;
@@ -434,6 +466,18 @@ export function StudyProvider({ children }: { children: React.ReactNode }) {
         const next = { topic, completed, updatedAt: now() };
         commit((s) => ({ ...s, cases: { ...s.cases, [caseId]: next } }));
         if (uid) void push("case_progress", "user_id,case_id", rows.case(uid, caseId, next));
+      },
+      moveSession: (key, day, time, note) => {
+        const next: SessionOverride = { day, time, note, cleared: false, updatedAt: now() };
+        commit((s) => ({ ...s, overrides: { ...s.overrides, [key]: next } }));
+        if (uid) void push("session_overrides", "user_id,session_key", rows.override(uid, key, next));
+      },
+      resetSession: (key) => {
+        const prev = stateRef.current.overrides[key];
+        if (!prev) return;
+        const next: SessionOverride = { ...prev, cleared: true, updatedAt: now() };
+        commit((s) => ({ ...s, overrides: { ...s.overrides, [key]: next } }));
+        if (uid) void push("session_overrides", "user_id,session_key", rows.override(uid, key, next));
       },
       updateSettings: (patch) => {
         const next = { ...stateRef.current.settings, ...patch, updatedAt: now() };

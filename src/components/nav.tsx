@@ -12,7 +12,6 @@ import {
   Layers,
   ListChecks,
   Search,
-  Sparkles,
   Stethoscope,
   Timer,
   UserRound,
@@ -20,6 +19,7 @@ import {
 } from "lucide-react";
 import { TOPICS, WEEKS, WEEK_THEMES } from "@/content/curriculum";
 import { useStudy } from "@/lib/store/study-store";
+import { useNow } from "@/lib/use-now";
 
 const STUDY = [
   { href: "/", label: "Today", icon: Home },
@@ -35,9 +35,9 @@ const REFERENCE = [
 const MOBILE = [
   { href: "/", label: "Today", icon: Home },
   { href: "/topics", label: "Topics", icon: BookOpen },
+  { href: "/schedule", label: "Calendar", icon: CalendarDays },
   { href: "/flashcards", label: "Cards", icon: Layers },
   { href: "/quiz", label: "Quiz", icon: ListChecks },
-  { href: "/cases", label: "Cases", icon: Stethoscope },
 ];
 
 const openCommand = () => window.dispatchEvent(new Event("open-command"));
@@ -49,21 +49,20 @@ function isActive(pathname: string, href: string) {
 export function Logo({ compact = false }: { compact?: boolean }) {
   return (
     <Link href="/" className="flex items-center gap-2.5">
-      <span className="relative grid h-8 w-8 place-items-center rounded-[9px] bg-gradient-to-br from-brand to-lilac text-white shadow-[inset_0_1px_0_rgb(255_255_255/0.3)]">
+      <span className="relative grid h-8 w-8 place-items-center rounded-[9px] bg-brand text-white">
         <span className="font-serif text-[19px] italic leading-none">E</span>
-        <Sparkles size={10} className="absolute -right-1 -top-1 text-brand" fill="currentColor" />
       </span>
       {!compact && (
         <span className="leading-tight">
           <span className="h-logo block whitespace-nowrap">For Edith</span>
-          <span className="hidden whitespace-nowrap text-[11px] text-ink-3 sm:block lg:block">Obs &amp; Gyn · UCU</span>
+          <span className="hidden whitespace-nowrap text-[11.5px] text-ink-3 sm:block lg:block">Obs &amp; Gyn · UCU Year 3</span>
         </span>
       )}
     </Link>
   );
 }
 
-function NavItem({ href, label, icon: Icon, pathname }: { href: string; label: string; icon: typeof Home; pathname: string }) {
+function NavItem({ href, label, icon: Icon, pathname, badge, count }: { href: string; label: string; icon: typeof Home; pathname: string; badge?: number; count?: number }) {
   const active = isActive(pathname, href);
   return (
     <Link
@@ -75,6 +74,8 @@ function NavItem({ href, label, icon: Icon, pathname }: { href: string; label: s
     >
       <Icon size={16} className={clsx(active ? "text-brand" : "text-ink-3 group-hover:text-ink-2")} strokeWidth={active ? 2.2 : 1.8} />
       {label}
+      {!!badge && <span className="ml-auto rounded-full bg-brand px-1.5 text-[11px] font-semibold leading-[18px] text-white tabular-nums">{badge}</span>}
+      {count !== undefined && !badge && <span className="ml-auto text-[11.5px] text-ink-3 tabular-nums">{count}</span>}
     </Link>
   );
 }
@@ -82,6 +83,8 @@ function NavItem({ href, label, icon: Icon, pathname }: { href: string; label: s
 export function Sidebar() {
   const pathname = usePathname();
   const { state, sync } = useStudy();
+  const now = useNow();
+  const due = now ? Object.values(state.cards).filter((c) => new Date(c.due).getTime() <= now).length : 0;
   return (
     <aside className="fixed inset-y-0 left-0 z-40 hidden w-60 flex-col border-r border-line bg-surface-2 lg:flex">
       <div className="flex h-14 items-center px-4">
@@ -102,7 +105,13 @@ export function Sidebar() {
       <nav className="mt-4 flex-1 space-y-5 overflow-y-auto px-3 pb-4">
         <div className="space-y-0.5">
           {STUDY.map((n) => (
-            <NavItem key={n.href} {...n} pathname={pathname} />
+            <NavItem
+              key={n.href}
+              {...n}
+              pathname={pathname}
+              badge={n.href === "/flashcards" ? due : undefined}
+              count={n.href === "/topics" ? TOPICS.length : undefined}
+            />
           ))}
         </div>
         <div>
@@ -115,28 +124,22 @@ export function Sidebar() {
         </div>
         <div>
           <div className="mb-1 px-2 text-[11px] font-medium text-ink-3">Weeks</div>
-          <div className="space-y-0.5">
+          <div className="space-y-2.5 px-2 pt-1">
             {WEEKS.map((w) => {
               const wt = TOPICS.filter((t) => t.week === w);
               const done = wt.filter((t) => state.topics[t.slug]?.status === "done").length;
               return (
-                <Link
-                  key={w}
-                  href={`/topics#week-${w}`}
-                  title={WEEK_THEMES[w]}
-                  className="flex h-8 items-center gap-2.5 rounded-md px-2 text-[13px] text-ink-2 hover:bg-surface-3/70 hover:text-ink"
-                >
-                  <span
-                    className={clsx(
-                      "grid h-4 w-4 place-items-center rounded-[4px] text-[9px] font-bold",
-                      done === wt.length ? "bg-brand text-white" : "bg-brand-soft text-brand",
-                    )}
-                  >
-                    {w}
+                <Link key={w} href={`/topics#week-${w}`} title={WEEK_THEMES[w]} className="group block">
+                  <span className="flex items-center gap-2 text-[12.5px] text-ink-2 group-hover:text-ink">
+                    <span className="truncate">
+                      {w} · {WEEK_THEMES[w]}
+                    </span>
+                    <span className="ml-auto text-[11.5px] tabular-nums text-ink-3">
+                      {done}/{wt.length}
+                    </span>
                   </span>
-                  <span className="truncate">{WEEK_THEMES[w]}</span>
-                  <span className="ml-auto text-[11px] tabular-nums text-ink-3">
-                    {done}/{wt.length}
+                  <span className="mt-1 block h-[3px] rounded-full bg-surface-3">
+                    <span className="block h-full rounded-full bg-brand" style={{ width: `${(done / wt.length) * 100}%` }} />
                   </span>
                 </Link>
               );
@@ -204,8 +207,8 @@ export function TopBar() {
           <button onClick={openCommand} aria-label="Search" className="grid h-9 w-9 place-items-center rounded-lg text-ink-2 hover:bg-surface-2 lg:hidden">
             <Search size={19} />
           </button>
-          <Link href="/schedule" aria-label="Timetable" className="grid h-9 w-9 place-items-center rounded-lg text-ink-2 hover:bg-surface-2 lg:hidden">
-            <CalendarDays size={19} />
+          <Link href="/cases" aria-label="Clinical cases" className="grid h-9 w-9 place-items-center rounded-lg text-ink-2 hover:bg-surface-2 lg:hidden">
+            <Stethoscope size={19} />
           </Link>
           <Link href="/quick-reference" aria-label="Quick reference" className="grid h-9 w-9 place-items-center rounded-lg text-ink-2 hover:bg-surface-2 lg:hidden">
             <Zap size={19} />

@@ -8,30 +8,37 @@
  * rose + lilac accents, pastel tags, blush-tinted neutrals and a serif-italic display face.
  */
 :root {
-  /* neutrals: Attio greys, warmed very slightly toward blush */
-  --bg: #fcfbfb;
+  /* neutrals: Attio greys, warmed toward blush */
+  --bg: #fbf8f7;
   --surface: #ffffff;
-  --surface-2: #f7f4f5;
-  --surface-3: #f1edef;
+  --surface-2: #f6f1f0;
+  --surface-3: #efe8e8;
   --ink: #1c1d1f; /* Attio "Hunter Black" */
-  --ink-2: #55565c;
-  --ink-3: #8e8f96;
-  --line: #ebe8ea;
-  --line-strong: #dcd8db;
+  --ink-2: #5b5a60;
+  --ink-3: #76727b; /* ≥4.5:1 on white */
+  --line: #ece6e6;
+  --line-strong: #ddd6d7;
 
   /* girly accents */
-  --brand: #e2437f; /* rose */
+  --brand: #d63d78; /* rose */
   --brand-ink: #ffffff;
-  --brand-soft: #fdeef4;
-  --brand-line: #f8cfe0;
-  --lilac: #8b5cf6;
-  --lilac-soft: #f3eefe;
-  --peach: #f07a4a;
-  --peach-soft: #fff1ea;
+  --brand-soft: #fcecf2;
+  --brand-line: #f5cfdd;
+  --brand-text: #b8325f;
+  --lilac: #7c5ce0;
+  --lilac-soft: #f1edfd;
+  --lilac-text: #5b3fc4;
+  --peach: #c26430;
+  --peach-soft: #fdf0e8;
+  --peach-text: #a4521f;
+  --steel: #5b6b86;
+  --steel-soft: #eef1f6;
+  --steel-text: #2f3a4f;
 
   /* semantic */
-  --accent: #0f9488; /* Attio teal, used for pearls */
-  --accent-soft: #e7f6f4;
+  --accent: #0e857a;
+  --accent-soft: #e6f4f2;
+  --accent-text: #0b5f57;
   --good: #16a34a;
   --good-soft: #eaf7ee;
   --bad: #dc2645;
@@ -44,7 +51,7 @@
 
   --shadow: 0 1px 2px rgb(28 29 31 / 0.04), 0 1px 1px rgb(28 29 31 / 0.02);
   --shadow-lg: 0 12px 32px -8px rgb(80 20 50 / 0.14), 0 2px 6px rgb(28 29 31 / 0.05);
-  --ring: 0 0 0 3px rgb(226 67 127 / 0.22);
+  --ring: 0 0 0 3px rgb(214 61 120 / 0.22);
 }
 
 
@@ -66,6 +73,13 @@
   --lilac-soft: #231c36;
   --peach: #fb9f78;
   --peach-soft: #2e1c14;
+  --brand-text: #f59bbf;
+  --lilac-text: #c9b8fd;
+  --peach-text: #fcb592;
+  --steel: #9aa9c4;
+  --steel-soft: #1d222c;
+  --steel-text: #c6d0e2;
+  --accent-text: #7ee0d6;
   --accent: #4fd1c5;
   --accent-soft: #10292a;
   --good: #4ade80;
@@ -100,6 +114,13 @@
     --lilac-soft: #231c36;
     --peach: #fb9f78;
     --peach-soft: #2e1c14;
+    --brand-text: #f59bbf;
+    --lilac-text: #c9b8fd;
+    --peach-text: #fcb592;
+    --steel: #9aa9c4;
+    --steel-soft: #1d222c;
+    --steel-text: #c6d0e2;
+    --accent-text: #7ee0d6;
     --accent: #4fd1c5;
     --accent-soft: #10292a;
     --good: #4ade80;
@@ -132,6 +153,13 @@
   --color-brand-soft: var(--brand-soft);
   --color-brand-line: var(--brand-line);
   --color-lilac: var(--lilac);
+  --color-lilac-text: var(--lilac-text);
+  --color-brand-text: var(--brand-text);
+  --color-peach-text: var(--peach-text);
+  --color-steel: var(--steel);
+  --color-steel-soft: var(--steel-soft);
+  --color-steel-text: var(--steel-text);
+  --color-accent-text: var(--accent-text);
   --color-lilac-soft: var(--lilac-soft);
   --color-peach: var(--peach);
   --color-peach-soft: var(--peach-soft);
@@ -159,7 +187,6 @@ body {
   background: var(--bg);
   color: var(--ink);
   font-family: var(--font-sans);
-  font-feature-settings: "cv11", "ss01", "ss03";
   letter-spacing: -0.006em;
 }
 ::selection { background: var(--brand-soft); color: var(--ink); }
@@ -329,7 +356,7 @@ a.card:hover, button.card:hover { border-color: var(--brand-line); box-shadow: v
   width: 0.55rem;
   height: 0.55rem;
   border-radius: 3px;
-  background: linear-gradient(135deg, var(--brand), var(--lilac));
+  background: var(--brand);
   transform: rotate(45deg);
   flex-shrink: 0;
 }
@@ -443,3 +470,6 @@ a.card:hover, button.card:hover { border-color: var(--brand-line); box-shadow: v
   header, nav, .no-print { display: none !important; }
   body { background: white; }
 }
+
+/* Timetable: clinical-work blocks recede */
+.routine { background: repeating-linear-gradient(135deg, var(--surface-2) 0, var(--surface-2) 6px, var(--surface-3) 6px, var(--surface-3) 12px); }

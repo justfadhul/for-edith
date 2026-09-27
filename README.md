@@ -31,8 +31,9 @@ npm run dev                  # http://localhost:3000
 ## Set up Supabase
 
 1. Create a project at [supabase.com](https://supabase.com).
-2. In **SQL Editor**, run [`supabase/migrations/0001_init.sql`](supabase/migrations/0001_init.sql). It creates the
-   tables with row-level security so each user only sees their own data.
+2. In **SQL Editor**, run [`supabase/migrations/0001_init.sql`](supabase/migrations/0001_init.sql), then
+   [`0002_session_overrides.sql`](supabase/migrations/0002_session_overrides.sql) (rescheduled sessions). They create
+   the tables with row-level security so each user only sees their own data.
 3. In **Project Settings → API**, copy the **Project URL** and the **anon / publishable key** into
    `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY`.
 4. In **Authentication → URL Configuration**, set the **Site URL** to the Vercel URL and add

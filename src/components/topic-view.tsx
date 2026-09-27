@@ -2,65 +2,153 @@
 
 import { useEffect, useState } from "react";
 import clsx from "clsx";
-import { Bookmark, BookOpen, CheckCircle2, ExternalLink, Layers, ListChecks, NotebookPen, Stethoscope, Library, List, CircleDot } from "lucide-react";
+import { Bookmark, BookOpen, Check, ExternalLink, Layers, ListChecks, NotebookPen, Stethoscope, Library, List } from "lucide-react";
+import { topicPrep, type TopicCounts } from "@/lib/prep";
+import { addDays, formatDay, rotationInfo } from "@/lib/dates";
+import { effectiveSessions } from "@/lib/schedule";
+import type { Session } from "@/content/curriculum";
 import type { ClinicalCase, Heading, Reference } from "@/lib/types";
 import { useStudy, type TopicStatus } from "@/lib/store/study-store";
 import { FlashcardDeck, type DeckCard } from "@/components/flashcard-deck";
 import { QuizRunner, type QuizQuestion } from "@/components/quiz-runner";
 import { CaseRunner } from "@/components/case-runner";
 
-const STATUSES: { v: TopicStatus; label: string; icon: React.ReactNode }[] = [
-  { v: "not_started", label: "Not started", icon: <CircleDot size={15} /> },
-  { v: "in_progress", label: "Studying", icon: <BookOpen size={15} /> },
-  { v: "done", label: "Done", icon: <CheckCircle2 size={15} /> },
+const STATUSES: { v: TopicStatus; label: string }[] = [
+  { v: "not_started", label: "To do" },
+  { v: "in_progress", label: "Studying" },
+  { v: "done", label: "Done" },
 ];
 
-export function TopicActions({ slug }: { slug: string }) {
-  const { state, setTopicStatus, toggleBookmark, setConfidence } = useStudy();
+/** Save + Mark as done, shown in the record header. */
+export function TopicHeaderActions({ slug }: { slug: string }) {
+  const { state, setTopicStatus, toggleBookmark } = useStudy();
   const t = state.topics[slug];
-  const status = t?.status ?? "not_started";
+  const done = t?.status === "done";
   return (
-    <div className="mt-4 flex flex-wrap items-center gap-2">
-      <div className="inline-flex rounded-xl border border-line bg-surface p-1">
-        {STATUSES.map((s) => (
-          <button
-            key={s.v}
-            onClick={() => setTopicStatus(slug, s.v)}
-            className={clsx(
-              "flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-sm font-medium transition",
-              status === s.v
-                ? s.v === "done"
-                  ? "bg-brand text-white"
-                  : s.v === "in_progress"
-                    ? "bg-lilac text-white"
-                    : "bg-surface-2"
-                : "text-ink-3 hover:text-ink",
-            )}
-          >
-            {s.icon}
-            {s.label}
-          </button>
-        ))}
-      </div>
+    <div className="flex items-center gap-2">
       <button
         onClick={() => toggleBookmark(slug)}
-        className={clsx("btn btn-outline min-h-0 py-2", t?.bookmarked && "border-brand text-brand")}
+        className={clsx("btn btn-outline !min-h-9 !py-1.5 text-[13px]", t?.bookmarked && "!border-brand-line !text-brand-text")}
         aria-pressed={!!t?.bookmarked}
       >
-        <Bookmark size={16} className={clsx(t?.bookmarked && "fill-brand")} /> {t?.bookmarked ? "Saved" : "Save"}
+        <Bookmark size={15} className={clsx(t?.bookmarked && "fill-brand text-brand")} /> {t?.bookmarked ? "Saved" : "Save"}
       </button>
-      <div className="flex items-center gap-1 text-sm text-ink-3">
-        <span className="mr-1">Confidence</span>
-        {[1, 2, 3, 4, 5].map((n) => (
-          <button
-            key={n}
-            onClick={() => setConfidence(slug, n)}
-            aria-label={`Confidence ${n} of 5`}
-            className={clsx("h-6 w-6 rounded-full border text-xs font-bold", (t?.confidence ?? 0) >= n ? "border-brand-line bg-brand-soft text-brand" : "border-line")}
-          >
-            {n}
-          </button>
+      <button
+        onClick={() => setTopicStatus(slug, done ? "in_progress" : "done")}
+        className={clsx("btn !min-h-9 !py-1.5 text-[13px]", done ? "btn-ghost !text-good" : "btn-primary")}
+      >
+        <Check size={15} strokeWidth={2.4} /> {done ? "Done" : "Mark as done"}
+      </button>
+    </div>
+  );
+}
+
+
+/** Attio-style record panel: session facts, status, mastery and confidence. */
+export function TopicDetails({
+  slug,
+  counts,
+  sessions,
+  faculty,
+  weekLabel,
+}: {
+  slug: string;
+  counts: TopicCounts;
+  sessions: Session[];
+  faculty: string[];
+  weekLabel: string;
+}) {
+  const { state, setTopicStatus, setConfidence } = useStudy();
+  const t = state.topics[slug];
+  const status = t?.status ?? "not_started";
+  const prep = topicPrep(state, slug, counts);
+  const { start } = rotationInfo(state.settings.rotationStart);
+  const rows: [string, React.ReactNode][] = [
+    ...effectiveSessions(sessions, state.overrides)
+      .filter((s) => !s.ghostOf)
+      .map((s, i): [string, React.ReactNode] => [
+        i === 0 ? "Session" : "",
+        <span key={s.key}>
+          {formatDay(addDays(start, s.day), { weekday: "short", day: "numeric", month: "short" })} · {s.time.split("–")[0]} · {s.mode}
+          {s.movedFrom && <span className="ml-1.5 rounded-md bg-peach-soft px-1.5 py-px text-[11.5px] font-medium text-peach-text">Moved</span>}
+        </span>,
+      ]),
+    [faculty.length > 1 ? "Faculty" : "Facilitator", faculty.join(", ")],
+    ["Week", weekLabel],
+  ];
+  const bars = [
+    { label: "MCQs correct", value: prep.correct, total: counts.mcqs, cls: "bg-brand", track: "bg-brand-soft" },
+    { label: "Flashcards seen", value: prep.cardsSeen, total: counts.flashcards, cls: "bg-lilac", track: "bg-lilac-soft" },
+    { label: "Cases", value: prep.casesDone, total: counts.cases, cls: "bg-accent", track: "bg-accent-soft" },
+  ];
+  return (
+    <div className="flex flex-col gap-6 text-[13px]">
+      <div className="flex flex-col gap-3">
+        <div className="text-[12px] font-medium text-ink-3">Details</div>
+        <dl className="grid grid-cols-[92px_minmax(0,1fr)] gap-x-2 gap-y-2.5">
+          {rows.map(([k, v], i) => (
+            <div key={i} className="contents">
+              <dt className="text-ink-3">{k}</dt>
+              <dd className="m-0">{v}</dd>
+            </div>
+          ))}
+        </dl>
+      </div>
+      <div className="flex flex-col gap-2.5">
+        <div className="text-[12px] font-medium text-ink-3">Status</div>
+        <div className="grid grid-cols-3 gap-1 rounded-[10px] bg-surface-2 p-[3px]">
+          {STATUSES.map((s) => (
+            <button
+              key={s.v}
+              onClick={() => setTopicStatus(slug, s.v)}
+              className={clsx(
+                "h-[30px] rounded-lg text-[12.5px] transition",
+                status === s.v
+                  ? clsx("bg-surface font-semibold shadow-[0_1px_2px_rgb(0_0_0/0.06)]", s.v === "done" ? "text-good" : s.v === "in_progress" ? "text-lilac-text" : "text-ink")
+                  : "text-ink-2 hover:text-ink",
+              )}
+            >
+              {s.label}
+            </button>
+          ))}
+        </div>
+      </div>
+      <div className="flex flex-col gap-3">
+        <div className="text-[12px] font-medium text-ink-3">Your mastery</div>
+        {bars.map((b) => (
+          <div key={b.label} className="flex flex-col gap-1.5">
+            <div className="flex">
+              <span>{b.label}</span>
+              <span className="ml-auto font-semibold tabular-nums">
+                {b.value}/{b.total}
+              </span>
+            </div>
+            <div className={clsx("h-[5px] rounded-full", b.track)}>
+              <div className={clsx("h-full rounded-full", b.cls)} style={{ width: `${b.total ? (b.value / b.total) * 100 : 0}%` }} />
+            </div>
+          </div>
         ))}
+      </div>
+      <div className="flex flex-col gap-2">
+        <div className="text-[12px] font-medium text-ink-3">Confidence</div>
+        <div className="flex gap-1.5">
+          {[1, 2, 3, 4, 5].map((n) => (
+            <button
+              key={n}
+              onClick={() => setConfidence(slug, n)}
+              aria-label={`Confidence ${n} of 5`}
+              className={clsx("h-2.5 flex-1 rounded-full transition", (t?.confidence ?? 0) >= n ? "bg-brand" : "bg-surface-3 hover:bg-brand-line")}
+            />
+          ))}
+        </div>
+      </div>
+      <div className="flex flex-col gap-2">
+        <a href="#quiz" className="btn btn-pink w-full">
+          Test me on this topic
+        </a>
+        <a href="#cases" className="btn btn-outline w-full">
+          Work through a case
+        </a>
       </div>
     </div>
   );
@@ -83,14 +171,14 @@ export function TableOfContents({ headings }: { headings: Heading[] }) {
   }, [h2]);
   if (!h2.length) return null;
   return (
-    <ul className="space-y-0.5 text-sm">
+    <ul className="space-y-0.5 text-[13px]">
       {h2.map((h) => (
         <li key={h.id}>
           <a
             href={`#${h.id}`}
             className={clsx(
-              "block rounded-md border-l-2 px-3 py-1.5 leading-snug transition",
-              active === h.id ? "border-brand bg-brand-soft/60 font-medium text-brand" : "border-transparent text-ink-2 hover:text-ink",
+              "block rounded-[7px] px-2.5 py-1.5 leading-snug transition",
+              active === h.id ? "bg-brand-soft font-medium text-brand-text" : "text-ink-2 hover:bg-surface-2 hover:text-ink",
             )}
           >
             {h.text}
@@ -129,15 +217,25 @@ export function TopicTabs({
   const { state } = useStudy();
 
   useEffect(() => {
-    const h = window.location.hash.slice(1) as Tab;
+    const TABS = ["cards", "quiz", "cases", "mine", "sources"];
+    // "#management" may name a heading like "management-the-e-motive-bundle".
+    const findSection = (id: string) =>
+      document.getElementById(id) ?? document.querySelector<HTMLElement>(`.prose-edith h2[id^="${CSS.escape(id)}"]`);
+    const h = decodeURIComponent(window.location.hash.slice(1));
     // eslint-disable-next-line react-hooks/set-state-in-effect -- open the tab named in the URL hash
-    if (["cards", "quiz", "cases", "mine", "sources"].includes(h)) setTab(h);
-    // Section links (e.g. #management) must show the notes tab before scrolling.
+    if (TABS.includes(h)) setTab(h as Tab);
+    else if (h && !document.getElementById(h)) requestAnimationFrame(() => findSection(h)?.scrollIntoView());
+    // Section links must show the notes tab before scrolling; tab links (#quiz) switch tabs.
     const onHash = () => {
       const id = decodeURIComponent(window.location.hash.slice(1));
-      if (!id || ["cards", "quiz", "cases", "mine", "sources"].includes(id)) return;
+      if (!id) return;
+      if (TABS.includes(id)) {
+        setTab(id as Tab);
+        document.getElementById("topic-tabs")?.scrollIntoView({ block: "start", behavior: "smooth" });
+        return;
+      }
       setTab("notes");
-      requestAnimationFrame(() => document.getElementById(id)?.scrollIntoView());
+      requestAnimationFrame(() => findSection(id)?.scrollIntoView());
     };
     window.addEventListener("hashchange", onHash);
     return () => window.removeEventListener("hashchange", onHash);
@@ -159,29 +257,28 @@ export function TopicTabs({
   ];
 
   return (
-    <div id="topic-tabs" className="scroll-mt-16">
-      <div className="no-scrollbar sticky top-14 z-20 -mx-4 mb-5 flex gap-1 overflow-x-auto border-b border-line bg-bg/95 px-4 backdrop-blur sm:mx-0 sm:px-0">
+    <div id="topic-tabs" className="scroll-mt-16 pb-16 lg:pb-0">
+      <div className="no-scrollbar sticky top-14 z-20 -mx-4 mb-6 flex gap-0.5 overflow-x-auto border-b border-line bg-bg/95 px-4 backdrop-blur sm:mx-0 sm:px-0">
         {tabs.map((t) => (
           <button
             key={t.id}
             onClick={() => select(t.id)}
             className={clsx(
-              "flex shrink-0 items-center gap-1.5 border-b-2 px-3 py-3 text-sm font-medium transition",
-              tab === t.id ? "border-brand text-brand" : "border-transparent text-ink-3 hover:text-ink",
+              "-mb-px flex shrink-0 items-center gap-1.5 border-b-2 px-3 py-3 text-[13.5px] font-medium transition",
+              tab === t.id ? "border-brand text-ink" : "border-transparent text-ink-2 hover:text-ink",
             )}
           >
-            {t.icon}
             {t.label}
-            {t.count !== undefined && <span className="rounded-full bg-surface-2 px-1.5 text-[11px]">{t.count}</span>}
+            {t.count !== undefined && <span className="rounded-full bg-surface-2 px-1.5 text-[11.5px] tabular-nums text-ink-2">{t.count}</span>}
           </button>
         ))}
       </div>
 
       {/* Notes stay mounted so server-rendered markdown isn't lost between tabs */}
       <div className={clsx(tab !== "notes" && "hidden")}>
-        <div className="lg:grid lg:grid-cols-[minmax(0,1fr)_16rem] lg:gap-10">
+        <div>
           <div className="min-w-0">
-            <div className="mb-4 lg:hidden">
+            <div className="mb-4 xl:hidden">
               <button className="btn btn-outline w-full justify-between" onClick={() => setTocOpen((o) => !o)}>
                 <span className="flex items-center gap-2">
                   <List size={16} /> Jump to section
@@ -195,6 +292,15 @@ export function TopicTabs({
               )}
             </div>
             {children}
+            {/* Phone: floating test-me bar above the tab bar */}
+            <div className="safe-bottom fixed inset-x-3 bottom-[4.9rem] z-20 flex gap-2 rounded-2xl bg-[#1c1d1f]/95 p-2 shadow-pop backdrop-blur lg:hidden">
+              <button onClick={() => select("quiz")} className="btn btn-pink flex-1 !min-h-11">
+                Test me · {questions.length} MCQs
+              </button>
+              <button onClick={() => select("cards")} className="btn !min-h-11 bg-white/10 text-white">
+                {cards.length} cards
+              </button>
+            </div>
             <div className="card mt-10 flex flex-col items-center gap-3 p-6 text-center">
               <div className="font-semibold">Finished reading? Test yourself.</div>
               <div className="flex flex-wrap justify-center gap-2">
@@ -210,12 +316,7 @@ export function TopicTabs({
               </div>
             </div>
           </div>
-          <aside className="hidden lg:block">
-            <div className="sticky top-32 max-h-[calc(100dvh-9rem)] overflow-y-auto pb-6">
-              <div className="mb-2 px-3 text-xs font-semibold uppercase tracking-wider text-ink-3">On this page</div>
-              {toc}
-            </div>
-          </aside>
+
         </div>
       </div>
 

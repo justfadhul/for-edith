@@ -1,11 +1,11 @@
 import type { Metadata, Viewport } from "next";
-import { Inter, Instrument_Serif } from "next/font/google";
+import { Geist, Instrument_Serif } from "next/font/google";
 import "./globals.css";
 import { StudyProvider } from "@/lib/store/study-store";
 import { Sidebar, TopBar, BottomNav, CommandMenu } from "@/components/nav";
 import { ServiceWorkerRegister } from "@/components/sw-register";
 
-const sans = Inter({ variable: "--font-sans-var", subsets: ["latin"] });
+const sans = Geist({ variable: "--font-sans-var", subsets: ["latin"] });
 const serif = Instrument_Serif({ variable: "--font-serif-var", subsets: ["latin"], weight: "400", style: ["normal", "italic"] });
 
 export const metadata: Metadata = {
@@ -21,7 +21,7 @@ export const viewport: Viewport = {
   initialScale: 1,
   viewportFit: "cover",
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#fcfbfb" },
+    { media: "(prefers-color-scheme: light)", color: "#fbf8f7" },
     { media: "(prefers-color-scheme: dark)", color: "#111113" },
   ],
 };
