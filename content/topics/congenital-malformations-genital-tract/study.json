@@ -1,0 +1,271 @@
+{
+  "slug": "congenital-malformations-genital-tract",
+  "flashcards": [
+    { "id": "cmg-f01", "front": "What do the Müllerian (paramesonephric) ducts form?", "back": "The **fallopian tubes, uterus, cervix and upper vagina**. The lower vagina and hymen come from the **urogenital sinus**. The ovaries come from the genital ridge." },
+    { "id": "cmg-f02", "front": "Why do Müllerian ducts persist in a female fetus?", "back": "There is **no AMH** (anti-Müllerian hormone from Sertoli cells), so the ducts persist by default. The Wolffian ducts regress because there is **no testosterone**." },
+    { "id": "cmg-f03", "front": "Match each developmental failure to its anomaly.", "back": "**Formation** fails: agenesis (MRKH) or unicornuate. **Lateral fusion** fails: didelphys or bicornuate. **Septal resorption** fails: septate. **Vertical fusion or canalisation** fails: transverse septum, cervical agenesis. **Hymen** does not perforate: imperforate hymen." },
+    { "id": "cmg-f04", "front": "ASRM 2021 (MAC2021) categories?", "back": "Nine: **Müllerian agenesis, cervical agenesis, unicornuate, didelphys, bicornuate, septate, longitudinal vaginal septum, transverse vaginal septum, complex anomalies.**" },
+    { "id": "cmg-f05", "front": "Why are renal anomalies common with Müllerian anomalies?", "back": "The Müllerian ducts develop alongside, and depend on, the **Wolffian (mesonephric) ducts**, which also give rise to the ureteric bud. So there is ipsilateral **renal agenesis or ectopia**, especially in MRKH and unicornuate uterus (about 30–40%)." },
+    { "id": "cmg-f06", "front": "Classic presentation of imperforate hymen?", "back": "A pubertal girl with **primary amenorrhoea**, normal breasts, **cyclical pain**, a suprapubic mass, sometimes **urinary retention**, and a **bulging bluish membrane** at the introitus." },
+    { "id": "cmg-f07", "front": "Treatment of imperforate hymen, and what to avoid?", "back": "A **cruciate or elliptical hymenotomy** under anaesthesia, drain the old blood, excise the flaps, and suture the mucosa to the ring. **Never needle-aspirate** (it causes pyocolpos and incomplete drainage)." },
+    { "id": "cmg-f08", "front": "Imperforate hymen vs transverse vaginal septum?", "back": "The hymen **bulges at the introitus**. A septum lies **higher**, with a normal hymen and a **short blind vagina** and no bulge at the introitus. MRI defines the level and thickness of a septum. Excision needs a specialist and dilators afterwards." },
+    { "id": "cmg-f09", "front": "What is MRKH syndrome?", "back": "**46,XX**, congenital absence of the **uterus and upper vagina**, **normal ovaries**, normal breasts and pubic hair. About 1 in 4,500–5,000 female births. Type I is isolated; type II (**MURCS**) has renal, skeletal and hearing anomalies." },
+    { "id": "cmg-f10", "front": "MRKH vs CAIS?", "back": "**MRKH**: 46,XX, normal pubic and axillary hair, ovaries, female testosterone. **CAIS**: 46,XY, **scant pubic and axillary hair**, testes (inguinal or abdominal), **male-range testosterone**. Both have breasts and a blind vagina with no uterus." },
+    { "id": "cmg-f11", "front": "First-line treatment for vaginal agenesis (MRKH)?", "back": "**Progressive vaginal dilator therapy** (Frank method), when she is mature and motivated. Surgery (McIndoe, Vecchietti, Davydov, bowel) if it fails." },
+    { "id": "cmg-f12", "front": "What is OHVIRA (Herlyn–Werner–Wunderlich)?", "back": "**O**bstructed **H**emi**V**agina and **I**psilateral **R**enal **A**genesis, with a **uterus didelphys**. Regular periods but increasing dysmenorrhoea and a paravaginal mass. Treated by **resecting the vaginal septum**." },
+    { "id": "cmg-f13", "front": "How do you distinguish septate from bicornuate uterus?", "back": "By the **external fundal contour**: flat or minimally indented means septate; a deep cleft means bicornuate. Use **3D US or MRI** (or laparoscopy plus hysteroscopy). HSG cannot distinguish them." },
+    { "id": "cmg-f14", "front": "Which uterine anomaly has the highest miscarriage risk and how is it treated?", "back": "The **septate uterus** (the poorly vascularised septum impairs implantation). Offer **hysteroscopic septum resection** to selected women with recurrent loss, after counselling (the benefit is debated in unselected women)." },
+    { "id": "cmg-f15", "front": "Danger of a non-communicating rudimentary horn?", "back": "**Ectopic pregnancy in the horn**, which ruptures (often in the second trimester) with massive haemorrhage. Also haematometra and endometriosis. **Excise a functional horn.**" },
+    { "id": "cmg-f16", "front": "Obstetric complications of uterine anomalies?", "back": "Miscarriage, **preterm birth**, cervical insufficiency, **malpresentation (breech, transverse)**, FGR, retained placenta, PPH, higher CS rate, and rudimentary horn rupture." },
+    { "id": "cmg-f17", "front": "Which fusion anomaly generally has the best reproductive outcome?", "back": "**Uterus didelphys** (each hemi-uterus is well vascularised). Metroplasty is not recommended." },
+    { "id": "cmg-f18", "front": "Options for menstrual suppression while awaiting surgery for obstruction?", "back": "**Norethisterone 5 mg orally 2–3 times daily**, a **continuous COC**, or a **GnRH agonist** (specialist, e.g. goserelin 3.6 mg SC monthly with add-back). It is a bridge, not a cure." },
+    { "id": "cmg-f19", "front": "Commonest cause of ambiguous genitalia in a 46,XX newborn, and its danger?", "back": "**Congenital adrenal hyperplasia** (21-hydroxylase deficiency). There is a risk of a **salt-wasting crisis** at 1–3 weeks. Check 17-OHP, electrolytes and glucose. Give IV hydrocortisone and saline." },
+    { "id": "cmg-f20", "front": "Gonadectomy timing in CAIS vs Swyer syndrome?", "back": "**CAIS**: usually **after puberty** (natural breast development from aromatised testosterone; low tumour risk before adulthood), then oestrogen replacement. **Swyer (46,XY gonadal dysgenesis)**: **at diagnosis**, because of the high gonadoblastoma risk." }
+  ],
+  "mcqs": [
+    {
+      "id": "cmg-q01",
+      "stem": "A 14-year-old girl presents with acute urinary retention. She has never menstruated but has had monthly lower abdominal pain for 5 months. Breasts are Tanner 4. There is a tense, bluish bulging membrane at the introitus and a suprapubic mass. The pregnancy test is negative. After catheterisation, what is the MOST appropriate definitive management?",
+      "options": [
+        "Needle aspiration of the mass through the membrane",
+        "Laparotomy to drain the haematometra",
+        "Cruciate (or elliptical) hymenotomy with drainage under anaesthesia",
+        "Start the combined pill and review in 3 months",
+        "Karyotype and wait for the result before any intervention"
+      ],
+      "answer": 2,
+      "explanation": "This is an **imperforate hymen with haematocolpos**. Treat by **hymenotomy** (cruciate or elliptical incision, excision of the flaps, suture of the mucosa to the ring) and drainage. **A** Needle aspiration drains incompletely and risks **pyocolpos**. **B** Laparotomy is unnecessary. **D** Suppression doesn't drain the collected blood. **E** Secondary sexual characteristics and the obvious membrane make a DSD unlikely, and a delay prolongs the obstruction."
+    },
+    {
+      "id": "cmg-q02",
+      "stem": "A 17-year-old with primary amenorrhoea has normal breast development and normal pubic and axillary hair. She has no cyclical pain. The vagina is a 2 cm blind pouch, and ultrasound shows no uterus but normal ovaries. What is the MOST likely karyotype and diagnosis?",
+      "options": [
+        "46,XY: complete androgen insensitivity syndrome",
+        "45,X: Turner syndrome",
+        "46,XY: Swyer syndrome",
+        "46,XX: imperforate hymen",
+        "46,XX: MRKH syndrome"
+      ],
+      "answer": 4,
+      "explanation": "Normal breasts **and normal pubic hair**, no uterus, a blind vagina and **normal ovaries** mean **MRKH (46,XX)**. **A** CAIS has scant pubic hair and testes, not ovaries. **B** Turner syndrome causes absent puberty and a uterus is present. **C** Swyer syndrome has streak gonads, no breast development and a uterus. **D** An imperforate hymen causes cyclical pain and a uterus is present."
+    },
+    {
+      "id": "cmg-q03",
+      "stem": "A 16-year-old 'girl' with primary amenorrhoea has well-developed breasts, very scanty pubic and axillary hair, a short blind vagina and bilateral inguinal swellings. What investigation is MOST diagnostic?",
+      "options": [
+        "Karyotype",
+        "Serum prolactin",
+        "Hysterosalpingogram",
+        "Pituitary MRI",
+        "Laparoscopy for ovarian biopsy"
+      ],
+      "answer": 0,
+      "explanation": "This is **CAIS**: breasts from aromatised testosterone, **absent androgen effect on hair**, and inguinal testes. The **karyotype (46,XY)** confirms it, with male-range testosterone. **B/D** are for hypothalamic or pituitary causes. **C** is impossible (no uterus) and unhelpful. **E** is invasive and unnecessary."
+    },
+    {
+      "id": "cmg-q04",
+      "stem": "A 15-year-old has regular periods since age 13 but increasingly severe dysmenorrhoea. On examination there is a tense cystic mass bulging from the right lateral vaginal wall. Ultrasound shows two uterine horns with two cervices, and an absent right kidney. What is the BEST management?",
+      "options": [
+        "Right hemi-hysterectomy",
+        "Continuous oral contraceptive pill indefinitely",
+        "Needle aspiration of the cystic mass",
+        "Resection of the obstructing vaginal septum to drain the hemivagina",
+        "Laparoscopic excision of the right ovary"
+      ],
+      "answer": 3,
+      "explanation": "This is **OHVIRA (Herlyn–Werner–Wunderlich)**: didelphys, an obstructed right hemivagina, and right renal agenesis. **Septum resection** drains the blocked side and preserves both uteri. **A** is unnecessary and removes reproductive potential. **B** only suppresses and does not drain. **C** risks infection and re-accumulation. **E** is irrelevant."
+    },
+    {
+      "id": "cmg-q05",
+      "stem": "A 28-year-old with three consecutive first-trimester miscarriages has an HSG showing two divergent uterine cavities. What is the MOST appropriate next investigation before deciding on surgery?",
+      "options": [
+        "Repeat HSG",
+        "3D transvaginal ultrasound or pelvic MRI to assess the external fundal contour",
+        "Karyotype of the woman only",
+        "Serum AMH",
+        "Endometrial biopsy"
+      ],
+      "answer": 1,
+      "explanation": "An HSG shows only the cavity, so it **cannot distinguish septate from bicornuate**. **3D US or MRI** shows the external fundal contour. A septate uterus may benefit from hysteroscopic resection; a bicornuate uterus would be **perforated** by it. **A** gives the same limitation. **C** Parental karyotypes are part of the recurrent-loss work-up but don't define the anomaly. **D/E** don't assess anatomy."
+    },
+    {
+      "id": "cmg-q06",
+      "stem": "A woman with a known unicornuate uterus presents at 16 weeks' gestation with sudden severe abdominal pain, BP 70/40 and a pulse of 140. An earlier scan reported the pregnancy 'eccentrically placed'. What is the MOST likely diagnosis and immediate management?",
+      "options": [
+        "Placental abruption; deliver vaginally",
+        "Red degeneration of a fibroid; give analgesia",
+        "Threatened miscarriage; bed rest",
+        "Ovarian torsion; laparoscopy tomorrow",
+        "Ruptured rudimentary horn pregnancy; resuscitate and perform an emergency laparotomy"
+      ],
+      "answer": 4,
+      "explanation": "A pregnancy in a **non-communicating rudimentary horn** typically ruptures in the **second trimester** with massive haemoperitoneum. Resuscitate and do a **laparotomy with excision of the horn**. **A** Abruption at 16 weeks is unlikely and would not explain the horn history. **B/C/D** do not cause this degree of shock, and delay would be fatal."
+    },
+    {
+      "id": "cmg-q07",
+      "stem": "A 19-year-old with MRKH syndrome, recently married, is referred because her husband's family demands 'an operation to make her a woman'. She is distressed and unsure. What is the MOST appropriate initial approach?",
+      "options": [
+        "Immediate McIndoe vaginoplasty to save the marriage",
+        "Tell the husband's family the diagnosis first",
+        "Private, staged counselling with her, psychological support, and offering vaginal dilator therapy as first line when she is ready",
+        "Refer for hysterectomy",
+        "Advise that nothing can be done"
+      ],
+      "answer": 2,
+      "explanation": "MRKH care starts with **confidential, staged counselling and psychological support**. **Dilator therapy** is first line when **she** is motivated, and surgery is reserved for failure. **A** Surgery under coercion, without trying dilators, is inappropriate. **B** breaches confidentiality. **D** There is no uterus to remove. **E** is false: a functional vagina can be created, and motherhood is possible via IVF with a gestational carrier."
+    },
+    {
+      "id": "cmg-q08",
+      "stem": "Which anomaly results from failure of resorption of the midline wall after complete fusion of the Müllerian ducts?",
+      "options": [
+        "Septate uterus",
+        "Bicornuate uterus",
+        "Uterus didelphys",
+        "Unicornuate uterus",
+        "MRKH syndrome"
+      ],
+      "answer": 0,
+      "explanation": "Failure of **septal resorption** gives a **septate** uterus (normal external contour). **B/C** are lateral **fusion** failures (partial or complete). **D** is failure of one duct to develop. **E** is agenesis of both ducts."
+    },
+    {
+      "id": "cmg-q09",
+      "stem": "A 15-year-old has cyclical pelvic pain and primary amenorrhoea. The hymen looks normal and is patent, but the vagina ends blindly at 3 cm. A cystic mass is felt above it on rectal examination, and ultrasound shows a uterus with haematometra. What is the NEXT step?",
+      "options": [
+        "Hymenotomy in the ward",
+        "Needle aspiration through the vaginal vault",
+        "Karyotype",
+        "Pelvic MRI to define the level and thickness of a transverse septum, with menstrual suppression and referral to a specialist surgeon",
+        "Hysterectomy"
+      ],
+      "answer": 3,
+      "explanation": "A patent hymen with a **short blind vagina and haematocolpos above it** suggests a **transverse vaginal septum**. **MRI** defines its level and thickness for **specialist excision with anastomosis**. Suppress menses meanwhile. **A** The hymen is not the problem. **B** risks pyocolpos. **C** A uterus with menses implies a 46,XX female; a karyotype is not the priority. **E** is inappropriate."
+    },
+    {
+      "id": "cmg-q10",
+      "stem": "In a woman newly diagnosed with a unicornuate uterus, which additional investigation is MOST important?",
+      "options": [
+        "Thyroid function tests",
+        "Renal ultrasound",
+        "Echocardiogram",
+        "Bone density scan",
+        "Serum CA-125"
+      ],
+      "answer": 1,
+      "explanation": "About **40%** of women with a unicornuate uterus have **renal anomalies** (usually ipsilateral agenesis), because of the shared Wolffian and Müllerian development. **A/C/D/E** have no specific association."
+    },
+    {
+      "id": "cmg-q11",
+      "stem": "A 30-year-old with a known bicornuate uterus is 16 weeks pregnant. Her previous pregnancy ended in a painless delivery at 22 weeks. What is the MOST appropriate antenatal plan?",
+      "options": [
+        "Hysteroscopic metroplasty now",
+        "Termination of pregnancy",
+        "Serial transvaginal cervical length scans, with cerclage and/or vaginal progesterone if the cervix shortens",
+        "Routine care only; bicornuate uterus does not affect pregnancy",
+        "Bed rest until 37 weeks"
+      ],
+      "answer": 2,
+      "explanation": "A bicornuate uterus with a previous painless mid-trimester loss suggests **cervical insufficiency**. **Cervical surveillance** with cerclage and/or progesterone as indicated is appropriate. **A** Surgery is contraindicated in pregnancy, and hysteroscopic metroplasty is for a septate uterus. **B** is not indicated. **D** is false: preterm risk is increased. **E** Bed rest is not effective and increases VTE risk."
+    },
+    {
+      "id": "cmg-q12",
+      "stem": "A 3-week-old baby with ambiguous genitalia (clitoromegaly, fused labia, no palpable gonads) presents with vomiting, lethargy, Na⁺ 124 mmol/L and K⁺ 7.0 mmol/L. What is the MOST appropriate immediate management?",
+      "options": [
+        "Assign male sex and arrange surgery",
+        "Pelvic MRI before any treatment",
+        "Oral rehydration solution and discharge",
+        "Karyotype and wait for the result before treatment",
+        "IV 0.9% saline, glucose if hypoglycaemic, and IV hydrocortisone after taking blood for 17-OH progesterone"
+      ],
+      "answer": 4,
+      "explanation": "This is a **salt-wasting crisis of CAH**. Treat immediately with **IV fluids, glucose and hydrocortisone** after drawing diagnostic bloods (17-OHP, electrolytes). **A** Sex assignment is never urgent or unilateral. **B/D** delay life-saving treatment. **C** is dangerous with severe hyperkalaemia and hyponatraemia."
+    },
+    {
+      "id": "cmg-q13",
+      "stem": "A primigravida at 36 weeks has a persistent breech presentation. An early pregnancy scan noted a 'heart-shaped uterus with a deep external fundal cleft'. What is the MOST appropriate advice about ECV?",
+      "options": [
+        "A major uterine anomaly is a contraindication to ECV; discuss planned CS versus vaginal breech birth",
+        "ECV is recommended and highly likely to succeed",
+        "Perform ECV without tocolysis at 36 weeks",
+        "Perform internal podalic version in labour",
+        "Induce labour at 37 weeks"
+      ],
+      "answer": 0,
+      "explanation": "A **bicornuate uterus** (a major uterine anomaly) is a **contraindication to ECV** (RCOG), and the breech is often due to the shape of the uterus. Counsel on the mode of delivery. **B/C** are inappropriate. **D** is only for a second twin. **E** Induction doesn't correct the breech."
+    },
+    {
+      "id": "cmg-q14",
+      "stem": "Which statement about the embryology of the female genital tract is CORRECT?",
+      "options": [
+        "The ovaries develop from the Müllerian ducts",
+        "The whole vagina is derived from the Müllerian ducts",
+        "AMH is required for development of the uterus",
+        "The lower vagina and hymen derive from the urogenital sinus, and the upper vagina from the Müllerian ducts",
+        "The Wolffian ducts form the fallopian tubes"
+      ],
+      "answer": 3,
+      "explanation": "The **upper vagina is Müllerian** and the **lower vagina and hymen are from the urogenital sinus** (sinovaginal bulbs and the vaginal plate). **A** The ovaries come from the genital ridge. **B** Only the upper part is Müllerian. **C** AMH causes Müllerian **regression**; its absence allows the uterus to form. **E** The tubes are Müllerian; Wolffian remnants are Gartner's duct cysts."
+    },
+    {
+      "id": "cmg-q15",
+      "stem": "A 22-year-old with a complete longitudinal vaginal septum and two cervices (didelphys) is in labour at 39 weeks, with a cephalic presentation at full dilatation. The septum is stretched tightly across the descending head. What is the BEST management?",
+      "options": [
+        "Immediate caesarean section",
+        "Double-clamp, divide and ligate the septum, then allow vaginal delivery",
+        "Vacuum delivery with the septum in place",
+        "Wait for the septum to tear spontaneously",
+        "Symphysiotomy"
+      ],
+      "answer": 1,
+      "explanation": "A **longitudinal septum** obstructing the second stage can be **divided between clamps and ligated**, allowing vaginal birth. **A** CS is unnecessary for a simple septum with a cephalic presentation at full dilatation. **C** Traction against the septum causes tears. **D** risks an uncontrolled tear and haemorrhage. **E** is obsolete and inappropriate."
+    }
+  ],
+  "cases": [
+    {
+      "id": "cmg-c01",
+      "title": "The 'pregnant' 14-year-old",
+      "presentation": "A 14-year-old girl is brought to casualty at a regional referral hospital with inability to pass urine for 12 hours and a lower abdominal swelling. Her mother fears she is pregnant. She has never menstruated. For 6 months she has had lower abdominal pain for about 5 days each month.",
+      "steps": [
+        { "prompt": "What focused history and examination will you do?", "answer": "**History**:\n- Breast development and pubic hair.\n- The cyclical nature of the pain.\n- Bowel habit.\n- Sexual activity (confidentially).\n- Growth.\n- Past urinary problems.\n\n**Examination**:\n- Tanner staging.\n- Abdomen (a mass, its size, tenderness, a palpable bladder).\n- **Inspect the vulva gently**: look for a **bulging bluish membrane**.\n- Hernias.\n- Rectal exam if needed, for an anterior cystic mass." },
+        { "prompt": "She is Tanner 4. There is a tense blue bulge at the introitus. What are your immediate actions and investigations?", "answer": "- **Urethral catheter** to relieve the retention. Analgesia.\n- **Urine pregnancy test** (still essential).\n- **Ultrasound**: haematocolpos, the uterus, the ovaries and the **kidneys**.\n- FBC.\n- Explain the likely diagnosis kindly to her and her mother: **this is not pregnancy**, and it is easily treated." },
+        { "prompt": "Ultrasound shows a 12 cm haematocolpos with mild haematometra. What definitive treatment and what must you avoid?", "answer": "**Hymenotomy under anaesthesia**:\n- a cruciate or elliptical incision\n- drain the old tarry blood\n- excise the flaps\n- suture the vaginal mucosa to the hymenal ring with fine absorbable sutures\n\n**Avoid** needle aspiration (**pyocolpos**) and instrumenting the uterus." },
+        { "prompt": "What follow-up and counselling will you give?", "answer": "- Expect normal periods and future fertility.\n- Review in 4–6 weeks to check patency.\n- Watch for **infection** (fever, foul discharge).\n- Report any severe dysmenorrhoea later (endometriosis after a long obstruction).\n- Reassure her about normal sexual and reproductive function." }
+      ],
+      "takeaway": "Primary amenorrhoea with cyclical pain and a pelvic mass in a pubertal girl is an outflow obstruction until proven otherwise. Look at the hymen before you think of pregnancy or a tumour, and never needle it."
+    },
+    {
+      "id": "cmg-c02",
+      "title": "No periods, no pain",
+      "presentation": "An 18-year-old university student attends the gynaecology clinic at Mengo because she has never had a period. She is otherwise well, is 162 cm tall, and plans to marry next year.",
+      "steps": [
+        { "prompt": "What key questions and examination findings will guide you?", "answer": "**Ask about**:\n- Breast development and pubic and axillary hair.\n- **Cyclical pain** (obstruction).\n- Weight, exercise, stress.\n- Sense of smell (Kallmann).\n- Headaches and galactorrhoea.\n- Family history.\n- **Sexual activity**.\n\n**Examine for**:\n- Tanner stage and **hair distribution**.\n- **Inguinal masses**.\n- Turner features.\n- External genitalia and **vaginal length** (a gentle swab)." },
+        { "prompt": "She has Tanner 5 breasts, normal pubic hair, no inguinal masses, and a 2 cm blind vaginal dimple. What is your differential, and which tests do you order?", "answer": "**MRKH** is most likely (normal hair). The differentials are **CAIS** (hair usually scant), a transverse septum or cervical agenesis (but no cyclical pain), and constitutional delay (unlikely at 18).\n\n**Tests**:\n- Pregnancy test.\n- **Pelvic ultrasound or MRI** (uterus absent? ovaries present?).\n- **Karyotype**.\n- Testosterone, FSH, LH, oestradiol.\n- **Renal ultrasound**.\n- Spine X-ray and hearing test if indicated." },
+        { "prompt": "The results confirm MRKH (46,XX, absent uterus, normal ovaries, left pelvic kidney). How do you break the news?", "answer": "- A private room, with her own choice of support person.\n- Check what she knows, and give a warning shot.\n- Explain simply that the womb and upper vagina did not form before birth, but **her ovaries and hormones are normal, and she is fully a woman**.\n- **A vagina can be created** (dilators first).\n- **Genetic motherhood** is possible through IVF with her eggs and a gestational carrier, or adoption.\n- Offer psychology and peer support.\n- Staged follow-up visits.\n- Give her time and written information." },
+        { "prompt": "What is the plan for creating a vagina, and what about her pelvic kidney?", "answer": "**Vagina**:\n- **Vaginal dilator therapy** (Frank method) when she is ready: graduated dilators for about 20–30 min once or twice daily, with nurse or physiotherapy support.\n- Surgery (McIndoe, Vecchietti, Davydov) if it fails.\n- Ongoing dilation or intercourse maintains the result.\n\n**Kidney**:\n- Note the **pelvic kidney** for any future pelvic surgery.\n- Check BP and renal function periodically." }
+      ],
+      "takeaway": "Primary amenorrhoea with normal breasts and pubic hair but no uterus is MRKH. Karyotype, scan the kidneys, counsel with great sensitivity, and use dilators first."
+    },
+    {
+      "id": "cmg-c03",
+      "title": "Recurrent losses and a breech",
+      "presentation": "A 31-year-old para 1+3 attends ANC at 12 weeks. She has had three miscarriages at 8–10 weeks and one breech delivery by CS at 36 weeks, at which the surgeon wrote 'uterine anomaly?'. She has never had imaging of her uterus.",
+      "steps": [
+        { "prompt": "What anomaly is suspected, and how will you investigate now and after this pregnancy?", "answer": "A **septate** (or bicornuate) uterus is suspected: recurrent first-trimester losses, a breech, and the intra-operative finding.\n\n**Now**:\n- Early ultrasound to confirm an intrauterine pregnancy in the main cavity.\n- Check which side, and exclude a rudimentary horn.\n- Renal scan.\n\n**After pregnancy**: **3D ultrasound or MRI** to assess the external fundal contour; hysteroscopy (± laparoscopy) as needed." },
+        { "prompt": "How will you manage this pregnancy?", "answer": "- **Serial cervical length scans** from 16 weeks (cerclage or progesterone if short).\n- Growth scans.\n- Low threshold for review with bleeding or pain.\n- Check the presentation at 36 weeks: **ECV is relatively contraindicated** with a major anomaly.\n- Plan delivery (she also has a **previous CS**).\n- Be ready for retained placenta and PPH." },
+        { "prompt": "After delivery, 3D ultrasound shows a normal external fundal contour with a 2.5 cm internal septum. What do you offer?", "answer": "A **septate uterus**. For a woman with recurrent pregnancy loss, offer **hysteroscopic septum resection** after counselling:\n- the evidence of benefit is debated in unselected women\n- the risks are perforation and adhesions\n- rarely, uterine rupture in a later pregnancy\n\nPlan it for **at least 3 months postpartum**." },
+        { "prompt": "Why would the same operation be dangerous if the uterus were bicornuate?", "answer": "In a **bicornuate** uterus the 'septum' is actually **full-thickness myometrium** between two horns, with an external cleft. Hysteroscopic resection would **perforate** into the peritoneal cavity, with a risk of bowel or vascular injury. That is why you must define the external contour first." }
+      ],
+      "takeaway": "Recurrent miscarriage plus malpresentation suggests a uterine anomaly. Define the external contour before any surgery: only a septum is resected."
+    }
+  ],
+  "references": [
+    { "title": "ASRM Müllerian Anomalies Classification 2021 (MAC2021), Pfeifer SM et al.", "source": "Fertility and Sterility", "year": 2021 },
+    { "title": "Müllerian Agenesis: Diagnosis, Management, and Treatment (ACOG Committee Opinion No. 728)", "source": "American College of Obstetricians and Gynecologists", "year": 2018 },
+    { "title": "The ESHRE/ESGE consensus on the classification of female genital tract congenital anomalies, Grimbizis GF et al.", "source": "Human Reproduction", "year": 2013 },
+    { "title": "The prevalence of congenital uterine anomalies in unselected and high-risk populations: a systematic review, Chan YY et al.", "source": "Human Reproduction Update", "year": 2011 },
+    { "title": "Uterine septum: a guideline (ASRM Practice Committee)", "source": "Fertility and Sterility", "year": 2016 },
+    { "title": "Septum resection versus expectant management in women with a septate uterus: an international multicentre open-label randomized controlled trial (TRUST), Rikken JFW et al.", "source": "Human Reproduction", "year": 2021 },
+    { "title": "External Cephalic Version and Reducing the Incidence of Term Breech Presentation (Green-top Guideline No. 20a): contraindications to ECV including major uterine anomaly", "source": "RCOG / BJOG", "year": 2017, "url": "https://obgyn.onlinelibrary.wiley.com/doi/10.1111/1471-0528.14466" },
+    { "title": "Gynaecology by Ten Teachers, 20th edition (Chapter on Development and congenital abnormalities of the female reproductive tract)", "source": "CRC Press", "year": 2017 },
+    { "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf" }
+  ]
+}

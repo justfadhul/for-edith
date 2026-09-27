@@ -1,0 +1,486 @@
+{
+  "slug": "neonatal-resuscitation",
+  "flashcards": [
+    {
+      "id": "nr-f01",
+      "front": "What is the Golden Minute?",
+      "back": "The first **60 seconds after birth**: a baby not breathing after drying and stimulation must be receiving **bag-and-mask ventilation** by then."
+    },
+    {
+      "id": "nr-f02",
+      "front": "Roughly what proportion of newborns need help to breathe, and what proportion need bag-and-mask ventilation?",
+      "back": "About **10%** need some help; about **3-6%** need bag-and-mask ventilation; under 1% need compressions or drugs."
+    },
+    {
+      "id": "nr-f03",
+      "front": "First two actions for every baby at birth (HBB)?",
+      "back": "**Note the time of birth** and **dry thoroughly** (then remove the wet cloth and keep warm)."
+    },
+    {
+      "id": "nr-f04",
+      "front": "When should you suction a newborn's airway?",
+      "back": "**Only if the airway is blocked** by secretions, or meconium-stained liquor and the baby is **not crying**. Mouth first, then nose, not deep."
+    },
+    {
+      "id": "nr-f05",
+      "front": "How do you stimulate a baby to breathe?",
+      "back": "**Rub the back** firmly 2-3 times (or flick the soles). Never slap, shake, hang upside down or squeeze the chest."
+    },
+    {
+      "id": "nr-f06",
+      "front": "Bag-and-mask ventilation rate in HBB?",
+      "back": "**40 breaths per minute** (30-60 acceptable): 'Squeeze-two-three'."
+    },
+    {
+      "id": "nr-f07",
+      "front": "Mask sizes for term and preterm babies?",
+      "back": "**Size 1** for term; **size 0** for small/preterm. It covers chin, mouth and nose but **not the eyes**."
+    },
+    {
+      "id": "nr-f08",
+      "front": "How do you know ventilation is effective?",
+      "back": "**Gentle chest rise** with each breath, then a **rising heart rate**."
+    },
+    {
+      "id": "nr-f09",
+      "front": "Five steps to improve ventilation (HBB)?",
+      "back": "1. **Reapply mask** 2. **Reposition head** (slight extension) 3. **Clear airway** 4. **Open mouth** slightly 5. **Squeeze bag harder**."
+    },
+    {
+      "id": "nr-f10",
+      "front": "Heart rate thresholds in neonatal resuscitation?",
+      "back": "**100 or above = normal**; **below 100 = slow** (continue/improve ventilation, call for help); **below 60 after 30 s of effective ventilation = chest compressions** (advanced)."
+    },
+    {
+      "id": "nr-f11",
+      "front": "How do you check a newborn's heart rate quickly?",
+      "back": "Stethoscope over the left chest (or feel the base of the cord): count for **6 seconds and multiply by 10**. Helper does it while you keep ventilating."
+    },
+    {
+      "id": "nr-f12",
+      "front": "Chest compression technique in newborns?",
+      "back": "**Two-thumb** technique on the **lower third of the sternum**, depth **one-third of AP chest diameter**, **3:1** ratio (90 compressions + 30 breaths/min), 100% oxygen."
+    },
+    {
+      "id": "nr-f13",
+      "front": "Neonatal adrenaline dose and strength?",
+      "back": "**1:10,000 (0.1 mg/mL)**: **0.01-0.03 mg/kg IV (0.1-0.3 mL/kg)** via UVC, every 3-5 min; ET 0.05-0.1 mg/kg (0.5-1 mL/kg)."
+    },
+    {
+      "id": "nr-f14",
+      "front": "Oxygen to start ventilation in a term baby?",
+      "back": "**Room air (21%)**; titrate to pre-ductal SpO2 targets. Do not delay ventilation to find oxygen. Increase to 100% if chest compressions are needed."
+    },
+    {
+      "id": "nr-f15",
+      "front": "APGAR components and scoring?",
+      "back": "**A**ppearance, **P**ulse, **G**rimace, **A**ctivity, **R**espiration; each 0-2; at 1 and 5 min (then every 5 min until 7 or above). **Not used to decide to start resuscitation.**"
+    },
+    {
+      "id": "nr-f16",
+      "front": "Management of a non-vigorous baby born through meconium?",
+      "back": "Clear mouth/nose if blocked, then **start ventilation within 1 minute**. **No routine tracheal suction/intubation.**"
+    },
+    {
+      "id": "nr-f17",
+      "front": "When may resuscitation be stopped (WHO)?",
+      "back": "**No heart rate after 10 minutes** of effective ventilation; or **HR below 60 with no spontaneous breathing after 20 minutes**. Senior decision."
+    },
+    {
+      "id": "nr-f18",
+      "front": "Primary vs secondary apnoea?",
+      "back": "**Primary**: responds to stimulation. **Secondary (terminal)**: follows gasping, does **not** respond to stimulation, needs ventilation. At birth you cannot tell them apart, so ventilate if not breathing after stimulation."
+    },
+    {
+      "id": "nr-f19",
+      "front": "How do you test a self-inflating bag before a birth?",
+      "back": "Seal the mask (or the outlet) against your palm and squeeze: you should **feel pressure** and the **pressure-release valve** should open; the bag should **re-inflate** quickly."
+    },
+    {
+      "id": "nr-f20",
+      "front": "Neonatal hypoglycaemia threshold and emergency treatment?",
+      "back": "Glucose **below 2.6 mmol/L**: **10% dextrose 2 mL/kg IV**, then maintenance infusion; if no IV, breast milk/dextrose by NGT. Recheck in 30 min."
+    },
+    {
+      "id": "nr-f21",
+      "front": "First-line drug and dose for neonatal seizures after asphyxia?",
+      "back": "**Phenobarbital 20 mg/kg IV** slowly (or IM) loading; maintenance **5 mg/kg/day**. Check glucose too."
+    },
+    {
+      "id": "nr-f22",
+      "front": "Is gasping 'breathing' in HBB?",
+      "back": "**No.** Gasping is a sign of severe hypoxia: treat as not breathing and **ventilate**."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "nr-q01",
+      "stem": "A term baby is born at an HC III after a normal labour. After thorough drying he is not crying, is floppy and is not breathing. There are no secretions visible. The time is 30 seconds after birth. What is the NEXT step?",
+      "options": [
+        "Rub the back to stimulate breathing, and if still not breathing, clamp and cut the cord and start bag-and-mask ventilation by 60 seconds",
+        "Deep suction of the oropharynx and nose for 30 seconds",
+        "Hold the baby upside down and slap the buttocks",
+        "Wait for the 1-minute Apgar score before deciding",
+        "Give oxygen by nasal prongs and observe"
+      ],
+      "answer": 0,
+      "explanation": "Per HBB: keep warm, clear airway **only if needed** (no secretions here), **stimulate**, and if not breathing **ventilate within the Golden Minute**. Deep suction (B) is not indicated without obstruction and causes bradycardia. Slapping or holding upside down (C) is harmful. Waiting for the Apgar (D) wastes the Golden Minute. Oxygen without ventilation (E) does not help an apnoeic baby.",
+      "difficulty": "core"
+    },
+    {
+      "id": "nr-q02",
+      "stem": "A student starts bag-and-mask ventilation on an apnoeic newborn but the chest is not rising. The mask is size 1, and the head is flexed onto the chest. What is the FIRST corrective step?",
+      "options": [
+        "Increase the rate to 80 breaths per minute",
+        "Start chest compressions",
+        "Give adrenaline",
+        "Reapply the mask for a better seal and reposition the head into slight extension",
+        "Stop ventilating and suction for 1 minute"
+      ],
+      "answer": 3,
+      "explanation": "No chest rise is almost always due to a **poor mask seal or head position**. The HBB steps are: reapply mask, reposition head, clear airway, open mouth, squeeze harder. Increasing the rate (A) does not fix an ineffective breath. Compressions (B) and adrenaline (C) are useless without effective ventilation. Prolonged suction (E) delays ventilation.",
+      "difficulty": "core"
+    },
+    {
+      "id": "nr-q03",
+      "stem": "After 1 minute of ventilation with good chest rise, a helper counts the heart rate at 8 beats in 6 seconds. The baby is still not breathing. What is the MOST appropriate action?",
+      "options": [
+        "Stop ventilation and start chest compressions immediately",
+        "Continue ventilation, call for help, keep improving ventilation and decide on advanced care",
+        "Stop resuscitation because the baby is not responding",
+        "Give naloxone",
+        "Stop ventilation and stimulate again"
+      ],
+      "answer": 1,
+      "explanation": "8 in 6 s = **80 bpm (slow, below 100)**. HBB: **continue ventilation**, call for help, improve ventilation, advanced care. Compressions (A) are for HR **below 60** after 30 s of effective ventilation. Stopping (C) is far too early (the 10-minute rule applies to no heart rate). Naloxone (D) is not routinely recommended. Stopping to stimulate (E) interrupts the key intervention.",
+      "difficulty": "core"
+    },
+    {
+      "id": "nr-q04",
+      "stem": "In Mengo's labour ward, a baby born through thick meconium-stained liquor is limp and not breathing at birth. The team includes a nurse skilled in intubation. What is the BEST initial approach according to current guidance?",
+      "options": [
+        "Routinely intubate and suction the trachea before any breaths are given",
+        "Suction the mouth and nose deeply for at least 1 minute",
+        "Avoid ventilation until the meconium is completely removed",
+        "Give adrenaline first",
+        "Dry, keep warm, clear the mouth and nose if obstructed, and start bag-and-mask ventilation within the first minute"
+      ],
+      "answer": 4,
+      "explanation": "Current ILCOR/AHA 2020 and HBB guidance: **no routine tracheal suctioning** for non-vigorous meconium babies; clear the airway if obstructed and **start ventilation within 1 minute**. Routine intubation and suction (A) delays ventilation without improving outcomes (it is reserved for suspected airway obstruction). Prolonged suction (B) and withholding ventilation (C) cause worsening hypoxia. Adrenaline (D) is never the first step.",
+      "difficulty": "core"
+    },
+    {
+      "id": "nr-q05",
+      "stem": "A term baby in the SCBU has had 30 seconds of ventilation via a well-sealed mask with good chest rise, but the heart rate is 50 bpm. What is the NEXT step?",
+      "options": [
+        "Continue ventilation alone for 5 more minutes",
+        "Give 10 mL/kg normal saline",
+        "Start chest compressions at a 3:1 ratio with ventilation, increase oxygen to 100%",
+        "Stop resuscitation",
+        "Give 10% dextrose 2 mL/kg"
+      ],
+      "answer": 2,
+      "explanation": "**HR below 60 after at least 30 s of effective ventilation** = start **chest compressions** (two-thumb, lower third of sternum, 3:1) and increase oxygen to 100%; consider an advanced airway. Ventilation alone (A) is insufficient at this HR. Volume (B) is for suspected hypovolaemia. Stopping (D) is premature. Dextrose (E) does not treat bradycardia.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "nr-q06",
+      "stem": "A 3 kg baby remains at a heart rate of 40 bpm despite 60 seconds of well-coordinated compressions and ventilation with 100% oxygen. An umbilical venous catheter is in place. Only adrenaline 1:1,000 ampoules are available. What is the CORRECT dose?",
+      "options": [
+        "Dilute 1 mL of 1:1,000 with 9 mL of normal saline to make 1:10,000 and give 0.3-0.9 mL IV",
+        "3 mL of 1:1,000 IV",
+        "0.1 mL of undiluted 1:1,000 IM",
+        "1 mg IV bolus",
+        "3 mL of 1:10,000 endotracheally"
+      ],
+      "answer": 0,
+      "explanation": "Neonatal IV adrenaline is **0.01-0.03 mg/kg** of **1:10,000** (0.1-0.3 mL/kg), i.e. **0.3-0.9 mL** for 3 kg. Dilute 1:1,000 first. 3 mL of 1:1,000 (B) = 3 mg, a massive overdose. IM (C) is not used in resuscitation. 1 mg (D) is an adult dose. 3 mL of 1:10,000 ET (E) is 0.3 mg (0.1 mg/kg), at the top of the endotracheal range, but the ET route is less reliable and is only a stopgap when there is no IV access; with a UVC in place, give it IV.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "nr-q07",
+      "stem": "A baby at an HC IV is ventilated for 3 minutes and then breathes spontaneously with a heart rate of 150. Tone improves. What is the BEST plan for the next few hours?",
+      "options": [
+        "Discharge home with the mother after 2 hours",
+        "Keep skin-to-skin with the mother, monitor breathing, heart rate, colour and temperature every 15 min for 2 h, start breastfeeding, check glucose if poor feeding, and observe for at least 24 h",
+        "Separate from the mother and place in a cot under a window",
+        "Bathe the baby immediately to remove meconium and blood",
+        "Give prophylactic phenobarbital"
+      ],
+      "answer": 1,
+      "explanation": "A baby who needed ventilation is at risk of **hypothermia, hypoglycaemia, apnoea and HIE**: keep warm skin-to-skin, monitor closely, feed early, and observe for at least 24 h. Early discharge (A) risks missed deterioration. Separation into a cold cot (C) causes hypothermia. Early bathing (D) causes heat loss. Prophylactic phenobarbital (E) is not recommended; treat seizures if they occur.",
+      "difficulty": "core"
+    },
+    {
+      "id": "nr-q08",
+      "stem": "A baby is born with a heart rate of 90, weak irregular breathing, some flexion of the limbs, a grimace on suction and a pink body with blue extremities. What is the Apgar score?",
+      "options": [
+        "3",
+        "7",
+        "6",
+        "5",
+        "4"
+      ],
+      "answer": 3,
+      "explanation": "Appearance (pink body, blue extremities) **1**, Pulse (below 100) **1**, Grimace **1**, Activity (some flexion) **1**, Respiration (weak, irregular) **1** = **5**. Scores of 3 (A), 4 (E), 6 (C) and 7 (B) miscount at least one component. Remember that a baby with irregular breathing and HR below 100 should already be receiving help; the Apgar is recorded, not used to decide.",
+      "difficulty": "core"
+    },
+    {
+      "id": "nr-q09",
+      "stem": "Which piece of equipment is MOST essential to have tested and ready at every birth in a Ugandan HC III?",
+      "options": [
+        "A pulse oximeter",
+        "An oxygen cylinder with a blender",
+        "A laryngoscope and endotracheal tubes",
+        "An umbilical venous catheter",
+        "A self-inflating neonatal bag with size 0 and 1 masks"
+      ],
+      "answer": 4,
+      "explanation": "Ventilation with a **bag and mask** (room air) is the life-saving intervention in basic resuscitation, and HBB requires it at every birth. Pulse oximetry (A), blended oxygen (B), intubation equipment (C) and UVC (D) are advanced hospital tools; they are helpful but not essential for basic resuscitation, and their absence must never delay ventilation.",
+      "difficulty": "core"
+    },
+    {
+      "id": "nr-q10",
+      "stem": "A baby has been resuscitated with effective ventilation, compressions and adrenaline at a referral hospital. After 10 minutes there is still no detectable heart rate. What is the MOST appropriate course?",
+      "options": [
+        "Continue indefinitely until the family arrives",
+        "Give sodium bicarbonate and continue for 1 hour",
+        "With the senior clinician, consider stopping resuscitation, then support and counsel the parents and document",
+        "Stop at 2 minutes because the baby was already dead",
+        "Transfer to another hospital with ongoing compressions"
+      ],
+      "answer": 2,
+      "explanation": "WHO: in newborns with **no detectable heart rate after 10 minutes of effective ventilation**, resuscitation should be stopped; this is a **senior** decision, followed by compassionate communication and documentation. Indefinite resuscitation (A) or bicarbonate for an hour (B) is futile and not recommended. Stopping at 2 minutes (D) is premature. Transfer with ongoing compressions (E) is futile and unsafe.",
+      "difficulty": "core"
+    },
+    {
+      "id": "nr-q11",
+      "stem": "A preterm baby at 32 weeks (1.5 kg) is born at Mengo and is breathing irregularly with poor tone after drying. Which approach is MOST appropriate?",
+      "options": [
+        "Size 1 mask with 100% oxygen and high pressures",
+        "Keep warm (plastic wrap/hat, radiant warmer), size 0 mask, start ventilation with 21-30% oxygen, and titrate to SpO2 targets; consider CPAP",
+        "Bathe to remove vernix and then assess",
+        "Wait 2 minutes to see if breathing improves",
+        "Suction deeply to stimulate breathing"
+      ],
+      "answer": 1,
+      "explanation": "Preterm babies lose heat fast and need **warmth**, a **size 0 mask**, **lower oxygen (21-30%)** titrated to SpO2, and gentle pressures; CPAP helps with surfactant deficiency. Size 1 and high oxygen/pressures (A) risk poor seal, oxygen toxicity and lung injury. Bathing (C) causes hypothermia. Waiting (D) wastes the Golden Minute. Deep suction (E) causes bradycardia and trauma.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "nr-q12",
+      "stem": "A term baby is ventilated with good chest rise and the heart rate rises to 140, but after 5 minutes the baby suddenly deteriorates, becomes cyanosed and bradycardic, and breath sounds are reduced on the right side. What is the MOST likely cause?",
+      "options": [
+        "Hypoglycaemia",
+        "Congenital heart disease",
+        "Normal transition",
+        "Pneumothorax",
+        "Hypothermia"
+      ],
+      "answer": 3,
+      "explanation": "Sudden deterioration during positive-pressure ventilation with **unilateral reduced breath sounds** suggests a **pneumothorax** (barotrauma). Needs needle aspiration by a skilled clinician. Hypoglycaemia (A) and hypothermia (E) do not give focal chest signs. Congenital heart disease (B) would not cause a sudden unilateral change. This is not normal transition (C).",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "nr-q13",
+      "stem": "A 6-hour-old baby who needed 4 minutes of bag-and-mask ventilation is lethargic, feeding poorly, and has a blood glucose of 1.9 mmol/L. There is IV access. What is the MOST appropriate management?",
+      "options": [
+        "Give 10% dextrose 2 mL/kg IV, then start maintenance 10% dextrose, and recheck glucose in 30 minutes",
+        "Give 50% dextrose 5 mL/kg IV",
+        "Give oral water and recheck tomorrow",
+        "Give phenobarbital 20 mg/kg",
+        "No treatment; glucose below 2.0 mmol/L is normal at 6 hours"
+      ],
+      "answer": 0,
+      "explanation": "Glucose below **2.6 mmol/L** in a symptomatic baby: **10% dextrose 2 mL/kg IV**, then maintenance (60 mL/kg/day on day 1) and recheck. 50% dextrose (B) is hyperosmolar and damages veins/brain. Water (C) does not treat hypoglycaemia and delays care. Phenobarbital (D) is for seizures, not hypoglycaemia (though you must check glucose in any seizing baby). A glucose of 1.9 in a symptomatic baby is not acceptable (E).",
+      "difficulty": "core"
+    },
+    {
+      "id": "nr-q14",
+      "stem": "The mother received pethidine 100 mg IM one hour before delivery. The baby is born apnoeic after drying and stimulation. What is the MOST appropriate first management?",
+      "options": [
+        "Naloxone IM before any other intervention",
+        "Oxygen by face mask without ventilation",
+        "Wait for the effect of pethidine to wear off",
+        "Check blood glucose first",
+        "Bag-and-mask ventilation within the Golden Minute, following the standard algorithm"
+      ],
+      "answer": 4,
+      "explanation": "Opioid-induced respiratory depression is treated with **ventilation**; the standard algorithm applies. Naloxone (A) is **not recommended** as part of initial resuscitation and must never delay ventilation (it can also precipitate withdrawal). Free-flow oxygen (B) does not help an apnoeic baby. Waiting (C) causes hypoxic injury. Glucose (D) is checked after stabilisation.",
+      "difficulty": "core"
+    },
+    {
+      "id": "nr-q15",
+      "stem": "A crying, vigorous term baby is born through thin meconium-stained liquor. The student reaches for the suction bulb. What should the supervisor advise?",
+      "options": [
+        "Suction the trachea with a catheter",
+        "Suction the mouth and nose deeply before the first cry",
+        "No suction is needed: dry, keep warm skin-to-skin, delay cord clamping and give routine care",
+        "Take the baby immediately to the resuscitation table for observation",
+        "Clamp the cord immediately and give oxygen"
+      ],
+      "answer": 2,
+      "explanation": "A **vigorous** baby does not need suction, even with meconium; routine care (drying, skin-to-skin, delayed clamping, breastfeeding) is best. Tracheal (A) or deep (B) suction can cause bradycardia, laryngospasm and trauma. Separating the baby (D) and immediate clamping with oxygen (E) are unnecessary and interrupt normal transition.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "nr-c01",
+      "title": "Not breathing at an HC IV after prolonged second stage",
+      "presentation": "At an HC IV, Mrs P.N., 20, primigravida at 40 weeks, has had a 3-hour second stage with FHR dropping to 100 in the last 20 minutes. The midwife calls you as the head crowns.",
+      "steps": [
+        {
+          "prompt": "What do you do before the baby is born?",
+          "answer": "Identify yourself as the **helper**; prepare a warm area and resuscitation surface; lay out 2-3 dry towels, hat, **bag and masks size 0 and 1**, suction bulb, stethoscope, clock, cord clamps and scissors; **test the bag and mask**. Anticipate asphyxia (prolonged second stage, fetal bradycardia)."
+        },
+        {
+          "prompt": "The baby is born, limp, not crying. What are your first 30 seconds?",
+          "answer": "**Note the time.** **Dry thoroughly**, remove the wet cloth, cover, hat, keep warm. Not crying: position the head slightly extended, **clear the airway only if secretions are blocking it**, **stimulate** by rubbing the back."
+        },
+        {
+          "prompt": "At 40 seconds the baby is still not breathing. What now?",
+          "answer": "**Clamp and cut the cord**, move to the ventilation surface, apply a **size 1 mask** (chin, mouth, nose), C-grip with jaw lift, and **ventilate at 40/min** in room air, watching for **chest rise**; improve ventilation if needed (mask, head, airway, mouth, squeeze harder)."
+        },
+        {
+          "prompt": "After 1 minute of ventilation with good chest rise, the baby is not breathing; HR 70. What next?",
+          "answer": "**Call for help**, **continue ventilation**, keep improving ventilation, reassess HR. At an HC IV without advanced skills, keep ventilating (HR is not below 60); if a trained person arrives and HR falls below 60 despite 30 s of effective ventilation, start compressions with oxygen if available."
+        },
+        {
+          "prompt": "At 4 minutes the HR is 130 and the baby starts to breathe and cry weakly. How do you manage afterwards?",
+          "answer": "Stop ventilation once breathing well with normal HR. **Skin-to-skin** with the mother, cover; monitor breathing, HR, colour, temperature every 15 min for 2 h; early breastfeeding; check glucose if poor feeding. Record Apgars (e.g. 2, 5, 8), time ventilation started and duration. Watch for HIE (lethargy, poor suck, seizures): if present, **refer to SCBU**. Vitamin K, eye ointment, cord care. Counsel the mother."
+        }
+      ],
+      "takeaway": "Prepare before every birth, dry and stimulate, and if the baby is not breathing, ventilate by 60 seconds. A rising heart rate tells you the ventilation is working."
+    },
+    {
+      "id": "nr-c02",
+      "title": "Advanced resuscitation at Mengo SCBU",
+      "presentation": "At Mengo Hospital, an emergency caesarean is done for placental abruption at 37 weeks. The baby is born pale and floppy, with no respiratory effort. The neonatal team is present with oxygen, a pulse oximeter and emergency drugs.",
+      "steps": [
+        {
+          "prompt": "What are the initial steps in the first minute?",
+          "answer": "Radiant warmer, dry, remove wet towels, hat, position the head, clear airway if needed, brief stimulation, then **bag-and-mask ventilation by 60 s** in **21% oxygen**; attach the **pulse oximeter to the right hand**; helper assesses HR."
+        },
+        {
+          "prompt": "After 30 s of effective ventilation (chest rising), HR is 50. What do you do?",
+          "answer": "Start **chest compressions** (two-thumb, lower third of sternum, one-third AP depth) coordinated **3:1** with ventilation (90 compressions + 30 breaths per min); increase oxygen to **100%**; consider **intubation** to secure the airway; reassess HR after 60 s."
+        },
+        {
+          "prompt": "After 60 s of compressions, HR is still 50. The baby is very pale with poor perfusion. What are the next steps?",
+          "answer": "Place an **umbilical venous catheter**. Give **adrenaline 1:10,000, 0.1-0.3 mL/kg IV** (0.01-0.03 mg/kg), repeat every 3-5 min if HR remains below 60. Given **abruption and pallor**, suspect **hypovolaemia**: give **normal saline 10 mL/kg IV over 5-10 min** (O-negative blood if available and severe). Continue compressions and ventilation."
+        },
+        {
+          "prompt": "At 8 minutes HR rises to 120 and the baby gasps. What post-resuscitation care is needed?",
+          "answer": "Admit to SCBU. Oxygen titrated to SpO2 targets (wean to 91-95%); normothermia and **avoid hyperthermia**; glucose check (treat below 2.6 mmol/L with 10% dextrose 2 mL/kg); **IV 10% dextrose 60 mL/kg/day**, restrict if oliguric; monitor for **seizures** (phenobarbital 20 mg/kg if they occur); FBC and blood culture; **ampicillin + gentamicin** if sepsis risk; monitor urine output; Sarnat grading; family counselling and documentation."
+        },
+        {
+          "prompt": "How will you counsel the mother and what follow-up is needed?",
+          "answer": "Explain honestly what happened, that the baby needed advanced resuscitation, the risk of brain injury, and the plan. Involve the father/family. Arrange **developmental follow-up** (neurodevelopmental clinic, hearing and vision screening) and support breastfeeding (expressed milk)."
+        }
+      ],
+      "takeaway": "Compressions only after 30 s of effective ventilation; adrenaline and volume come after that. Think hypovolaemia when a pale baby is born after APH."
+    },
+    {
+      "id": "nr-c03",
+      "title": "HBB skills station: troubleshooting ventilation",
+      "presentation": "OSCE at UCU: a NeoNatalie simulator is 'born' not breathing. The candidate dries and stimulates, then starts ventilation at 50 seconds, but the examiner says 'the chest is not moving'.",
+      "steps": [
+        {
+          "prompt": "What do you do first?",
+          "answer": "**Reapply the mask**: chin first, then over mouth and nose, firm C-grip seal, lift the jaw into the mask. Check the mask is **size 1** and not covering the eyes."
+        },
+        {
+          "prompt": "The chest is still not moving. What next?",
+          "answer": "**Reposition the head** into slight extension (sniffing position; shoulder roll if needed; not over-extended), then **clear the airway** (suction mouth then nose if secretions), **open the mouth slightly**, and **squeeze the bag harder**."
+        },
+        {
+          "prompt": "Now the chest rises. At what rate and how do you keep time?",
+          "answer": "**40 breaths per minute**, saying 'Squeeze-two-three'. Continue while the helper assesses the HR after 1 minute."
+        },
+        {
+          "prompt": "The helper reports HR 120 but the baby is not yet breathing on its own. What do you do?",
+          "answer": "HR is **normal**: **continue ventilation** until the baby breathes well spontaneously; then stop and monitor with the mother (breathing, HR, colour, temperature, feeding)."
+        },
+        {
+          "prompt": "What must you do after the scenario?",
+          "answer": "Communicate with the mother; **document** time of birth, time ventilation began, duration, HR response, Apgar; **decontaminate** the bag and mask (disassemble, wash, disinfect, dry, reassemble) and **test** it so it is ready for the next birth."
+        }
+      ],
+      "takeaway": "When the chest does not rise, fix the mask seal and head position first. Ventilate at 40/min until the baby breathes, and always leave the equipment clean and tested."
+    }
+  ],
+  "references": [
+    {
+      "title": "Helping Babies Breathe 2nd Edition",
+      "source": "American Academy of Pediatrics",
+      "year": 2016,
+      "url": "https://www.aap.org/en/aap-global/helping-babies-survive/our-programs/helping-babies-breathe/helping-babies-breathe-2nd-edition/"
+    },
+    {
+      "title": "Helping Babies Breathe 2nd Edition: Summary of Changes",
+      "source": "American Academy of Pediatrics",
+      "url": "https://www.aap.org/en/aap-global/helping-babies-survive/our-programs/helping-babies-breathe/helping-babies-breathe-2nd-edition/helping-babies-breathe-2nd-edition-summary-of-changes/"
+    },
+    {
+      "title": "Helping Babies Breathe Provider Guide, Second Edition",
+      "source": "American Academy of Pediatrics / Healthy Newborn Network",
+      "year": 2016,
+      "url": "https://healthynewbornnetwork.org/hnn-content/uploads/HBB_Provider-Guide_2016-1.pdf"
+    },
+    {
+      "title": "Helping Babies Breathe, Second Edition: A Model for Strengthening Educational Programs to Increase Global Newborn Survival",
+      "source": "Global Health: Science and Practice",
+      "year": 2018,
+      "url": "https://www.ghspjournal.org/content/6/3/538"
+    },
+    {
+      "title": "Guidelines on Basic Newborn Resuscitation",
+      "source": "World Health Organization / NCBI Bookshelf",
+      "year": 2012,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK137872/"
+    },
+    {
+      "title": "Basic Newborn Resuscitation: WHO guideline highlights",
+      "source": "World Health Organization / Healthy Newborn Network",
+      "year": 2017,
+      "url": "https://www.healthynewbornnetwork.org/hnn-content/uploads/WHO_Basic-Newborn-Resuscitation-Highlights_2017.pdf"
+    },
+    {
+      "title": "Part 5: Neonatal Resuscitation: 2020 American Heart Association Guidelines for CPR and Emergency Cardiovascular Care",
+      "source": "Circulation",
+      "year": 2020,
+      "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000902"
+    },
+    {
+      "title": "Essential Newborn Care 1: Immediate Care and Helping Babies Breathe at Birth (Provider Guide)",
+      "source": "World Health Organization",
+      "year": 2024,
+      "url": "https://cdn.who.int/media/docs/default-source/mca-documents/nbh/enc-course/revised-resources/core-materials/web-who-enc-1---provider-guide---may-2024.pdf?sfvrsn=5cbb1105_3"
+    },
+    {
+      "title": "Uganda Clinical Guidelines 2023",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf"
+    },
+    {
+      "title": "Essential Maternal and Newborn Clinical Care Guidelines for Uganda",
+      "source": "Ministry of Health Uganda",
+      "year": 2022,
+      "url": "https://library.health.go.ug/sexual-and-reproductive-health/essential-maternal-and-newborn-clinical-care-guidelines-uganda"
+    },
+    {
+      "title": "Neonatal resuscitation: current evidence and guidelines",
+      "source": "PMC",
+      "year": 2021,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8606598/"
+    },
+    {
+      "title": "Helping Babies Breathe (2nd edition) implementation on a shoestring budget in Zanzibar, Tanzania",
+      "source": "PMC",
+      "year": 2020,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7268599/"
+    }
+  ]
+}

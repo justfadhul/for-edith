@@ -1,0 +1,272 @@
+{
+  "slug": "obstetric-history-examination",
+  "flashcards": [
+    { "id": "ohe-f01", "front": "Define gravida and para (Uganda)", "back": "**Gravida:** total pregnancies including the current one.\n**Para:** deliveries at or beyond **28 weeks** (the Uganda viability threshold; 24 weeks in the UK), alive or dead. **Twins = 1 para.** The '+' number is losses before viability." },
+    { "id": "ohe-f02", "front": "A woman is pregnant now; she had twins at 37 weeks, a stillbirth at 32 weeks and a miscarriage at 8 weeks. Write her obstetric score.", "back": "**G4 P2+1** (the twins count as 1 delivery, the stillbirth at 32 weeks is a delivery beyond viability, the miscarriage is '+1'), with **2 living children** (the twins)." },
+    { "id": "ohe-f03", "front": "Lie, presentation, position: definitions", "back": "**Lie:** fetal long axis relative to the maternal long axis (longitudinal, transverse, oblique).\n**Presentation:** the part over the pelvic inlet (cephalic, breech, shoulder).\n**Position:** the denominator relative to the maternal pelvis (e.g. LOA)." },
+    { "id": "ohe-f04", "front": "Denominators for each presentation", "back": "Vertex: **occiput**. Breech: **sacrum**. Face: **mentum**. Shoulder: **acromion**. (Brow: frontal bone/sinciput, but it is not usually named by position.)" },
+    { "id": "ohe-f05", "front": "Fundal height landmarks", "back": "**12 weeks:** just above the symphysis. **16 weeks:** midway to the umbilicus. **20–22 weeks:** umbilicus. **28 weeks:** midway from the umbilicus to the xiphisternum. **36 weeks:** xiphisternum. Drops at term (lightening)." },
+    { "id": "ohe-f06", "front": "How do you measure the SFH correctly?", "back": "Empty bladder; find the fundus by hand; tape **numbers facing down** from the **upper border of the symphysis** along the **long axis of the uterus** to the fundus; read in cm. From 24 weeks, **SFH ≈ GA ± 2 cm**." },
+    { "id": "ohe-f07", "front": "The four Leopold manoeuvres", "back": "1. **Fundal grip:** what is at the fundus?\n2. **Lateral grip:** where is the back (lie, position)?\n3. **Pawlik's grip:** what is presenting, and is it ballotable?\n4. **Pelvic grip** (facing the feet): engagement in fifths and attitude." },
+    { "id": "ohe-f08", "front": "Head vs breech at the fundus", "back": "**Head:** hard, round, **ballotable** (moves independently of the trunk).\n**Breech:** broad, soft, irregular, moves **with** the trunk." },
+    { "id": "ohe-f09", "front": "Engagement in fifths", "back": "Count the fingerbreadths of head above the brim (the whole head is about 5). **5/5** = free; **3/5** = not engaged; **2/5 or less = engaged** (the biparietal diameter has passed the brim); **0/5** = not palpable abdominally." },
+    { "id": "ohe-f10", "front": "FHR auscultation technique", "back": "Find the **fetal anterior shoulder** (below the umbilicus for cephalic, above for breech), use a Pinard or Doppler, count for **60 seconds** while **feeling the maternal pulse**. Normal **110–160 bpm**." },
+    { "id": "ohe-f11", "front": "Causes of a uterus large for dates", "back": "Wrong dates, **multiple pregnancy**, **polyhydramnios**, **macrosomia** (GDM), **fibroids**, **molar pregnancy**, full bladder." },
+    { "id": "ohe-f12", "front": "Causes of a uterus small for dates", "back": "Wrong dates, **FGR**, **oligohydramnios** (including ruptured membranes), **IUFD**, **transverse lie**, engaged head (late)." },
+    { "id": "ohe-f13", "front": "Head 5/5 palpable at term in a primigravida: differentials", "back": "**CPD**, **placenta praevia** (scan before any VE), **OP position/deflexed head**, polyhydramnios, a pelvic mass (fibroid, ovarian cyst), wrong dates, and a high pelvic inclination." },
+    { "id": "ohe-f14", "front": "Contraindications to digital VE", "back": "**APH until placenta praevia is excluded**; **PROM/PPROM not in labour** (use a sterile speculum only, because of infection risk); no consent." },
+    { "id": "ohe-f15", "front": "What do you look for on speculum examination in pregnancy?", "back": "Cervix: colour, **os open or closed**, **products at the os**, **bleeding source** (os vs ectropion, polyp, cancer), discharge, **pooling of liquor** (cough test), cord, IUD strings." },
+    { "id": "ohe-f16", "front": "Bimanual exam: what do you assess?", "back": "Cervix (consistency, os, **cervical motion tenderness**); uterus (**size in weeks, position**, mobility, surface, tenderness); **adnexa** (masses, tenderness); **pouch of Douglas** (fullness, nodules)." },
+    { "id": "ohe-f17", "front": "Structure of a ward-round presentation", "back": "1. **Summary line** (age, G/P, GA and how dated, complaint and duration)\n2. HPC with key positives and negatives\n3. ANC summary\n4. Past obstetric, medical, drug and social history\n5. Examination (general, abdominal, VE)\n6. **Impression**\n7. **Plan**" },
+    { "id": "ohe-f18", "front": "Six general findings to always comment on", "back": "**Pallor, jaundice, oedema, dehydration, lymphadenopathy, fever**, plus **BP and pulse**." },
+    { "id": "ohe-f19", "front": "Why ask whether a previous stillbirth was fresh or macerated?", "back": "**Fresh:** died during labour, pointing to **intrapartum hypoxia** (labour care).\n**Macerated:** died more than 12–24 hours before birth, pointing to **antenatal causes** (syphilis, pre-eclampsia, diabetes, malaria, abruption, FGR)." },
+    { "id": "ohe-f20", "front": "How do you confirm twins clinically?", "back": "Uterus **large for dates**, **3 or more fetal poles** or **two heads**, **many small parts**, and **two FHRs** heard simultaneously by two examiners differing by **10 bpm or more**. Confirm by ultrasound (chorionicity)." }
+  ],
+  "mcqs": [
+    {
+      "id": "ohe-q01",
+      "stem": "A 30-year-old is pregnant for the fifth time. She had a set of twins delivered at 35 weeks (both alive), a miscarriage at 12 weeks, an ectopic pregnancy treated by salpingectomy, and a normal delivery at 39 weeks (alive). How should her obstetric score be written in Uganda?",
+      "options": [
+        "G5P3+1, 3 living",
+        "G5P4+1, 3 living",
+        "G5P2+2, 3 living",
+        "G4P2+2, 3 living",
+        "G5P3+2, 3 living"
+      ],
+      "answer": 2,
+      "explanation": "**Gravida 5** (the current pregnancy plus 4 previous ones). **Para 2**: the twins count as **one** delivery, plus the 39-week delivery. **+2**: the miscarriage and the ectopic, both before viability. **3 living** children. A and B count the twins as 2 or omit the ectopic. D forgets the current pregnancy. E counts the twins twice."
+    },
+    {
+      "id": "ohe-q02",
+      "stem": "A 24-year-old G2P1 at 38 weeks has painless, bright red vaginal bleeding of about 300 mL. BP 110/70 mmHg, pulse 96 bpm. On abdominal exam the uterus is soft and non-tender, and the head is 5/5 palpable. The medical student wants to do a VE to assess the cervix. What is the MOST appropriate advice?",
+      "options": [
+        "Go ahead with a careful digital VE",
+        "Do an amniotomy to reduce bleeding",
+        "Do a VE only if bleeding stops",
+        "Insert a Foley catheter to tamponade",
+        "Do not perform a digital VE; resuscitate and arrange urgent ultrasound to locate the placenta (a gentle speculum exam is acceptable)"
+      ],
+      "answer": 4,
+      "explanation": "**Painless bleeding + soft uterus + a high head** strongly suggests **placenta praevia**. A digital VE can provoke **massive haemorrhage**. Resuscitate, cross-match, and confirm the placental site by **ultrasound**; examine in theatre with a double set-up only if needed. A, B, C and D are unsafe."
+    },
+    {
+      "id": "ohe-q03",
+      "stem": "During Leopold's first manoeuvre on a primigravida at 37 weeks, you feel a hard, round, ballotable mass at the fundus. The lower pole feels broad and soft. Where would you expect to hear the fetal heart loudest?",
+      "options": [
+        "Above the umbilicus, on the side of the fetal back",
+        "Below the umbilicus in the midline",
+        "In the left iliac fossa",
+        "Just above the symphysis pubis",
+        "At the xiphisternum"
+      ],
+      "answer": 0,
+      "explanation": "A **hard ballotable head at the fundus** means **breech presentation**. The fetal heart is best heard over the fetal back/anterior shoulder, which in breech is **above the umbilicus**. B, C and D fit cephalic presentations. E is too high."
+    },
+    {
+      "id": "ohe-q04",
+      "stem": "A 26-year-old G1 at 36 weeks by a reliable 12-week scan has an SFH of 31 cm. BP 128/80 mmHg, no proteinuria. She is HIV-positive on TLD. What is the BEST next step?",
+      "options": [
+        "Reassure; SFH within 5 cm is normal",
+        "Induce labour today",
+        "Repeat SFH in 4 weeks",
+        "Arrange an ultrasound for fetal biometry, liquor volume and umbilical artery Doppler",
+        "Start low-dose aspirin"
+      ],
+      "answer": 3,
+      "explanation": "SFH is **5 cm below** reliable dates, beyond the ±2 cm range, suggesting **FGR or oligohydramnios** (HIV is a risk factor). An **ultrasound for growth, liquor and Doppler** guides further management. A is incorrect. B: do not deliver without confirming the diagnosis. C delays. E: aspirin has no role for FGR at 36 weeks."
+    },
+    {
+      "id": "ohe-q05",
+      "stem": "A primigravida at 40 weeks is in early labour. Abdominal palpation finds the head 2/5 palpable above the brim. Which statement is CORRECT?",
+      "options": [
+        "The head is not yet engaged",
+        "The biparietal diameter has passed the pelvic brim, so the head is engaged",
+        "The head is at station +3",
+        "This indicates cephalopelvic disproportion",
+        "The fetus is in a breech presentation"
+      ],
+      "answer": 1,
+      "explanation": "**2/5 or less palpable means engaged**: the widest transverse diameter has passed the inlet, corresponding to about station 0. A applies to 3/5 or more. C would be 0/5. D is the opposite (a high head suggests CPD). E: fifths refer to the head."
+    },
+    {
+      "id": "ohe-q06",
+      "stem": "While auscultating with a Pinard at 32 weeks, a student counts 84 bpm and reports 'fetal bradycardia'. The mother is anxious and her radial pulse is 84 bpm. What is the MOST likely explanation and the next step?",
+      "options": [
+        "True fetal bradycardia; prepare for emergency CS",
+        "Fetal heart block; refer for fetal echocardiography",
+        "Normal for 32 weeks",
+        "The maternal pulse has been counted; reposition over the fetal anterior shoulder while palpating the maternal pulse, or use a Doppler or ultrasound",
+        "Give oxygen and recheck in an hour"
+      ],
+      "answer": 3,
+      "explanation": "An FHR identical to the **maternal pulse** suggests the maternal (aortic) pulse is being counted. **Always palpate the mother's pulse** while listening. Relocate the fetal anterior shoulder, or confirm with a Doppler or ultrasound. A and E act on a likely artefact. B is rare. C: a normal FHR is 110–160."
+    },
+    {
+      "id": "ohe-q07",
+      "stem": "A 32-year-old G3P2 at 37 weeks has a broad abdomen. On palpation the fundus is lower than expected and empty of poles, a hard round mass is felt in the right flank, and nothing is felt over the pelvic inlet. What is the diagnosis and the correct plan if she presents in labour?",
+      "options": [
+        "Transverse lie; confirm by ultrasound and deliver by caesarean section",
+        "Breech; allow vaginal delivery",
+        "Cephalic, unengaged; augment with oxytocin",
+        "Twins; await spontaneous delivery",
+        "Polyhydramnios; perform amniotomy"
+      ],
+      "answer": 0,
+      "explanation": "A **broad abdomen, a low empty fundus, the head in a flank and an empty pelvis** mean **transverse lie**. In labour this is an indication for **CS** (ECV may be considered before labour at 37 weeks or more if the membranes are intact). B and C are wrong presentations. D: twins would give a large uterus with several poles. E: amniotomy with a transverse lie risks **cord prolapse**."
+    },
+    {
+      "id": "ohe-q08",
+      "stem": "A 28-year-old G2P1 at 34 weeks reports a gush of clear fluid 6 hours ago. She has no contractions and is afebrile, and the FHR is 148 bpm. What is the BEST way to confirm the diagnosis?",
+      "options": [
+        "Digital vaginal examination to feel for membranes",
+        "Amniocentesis",
+        "Sterile speculum examination looking for pooling of liquor in the posterior fornix (ask her to cough)",
+        "Wait for contractions to begin",
+        "Abdominal X-ray"
+      ],
+      "answer": 2,
+      "explanation": "Suspected **PPROM** is confirmed with a **sterile speculum exam** (pooling, a cough test, and nitrazine or other tests if available) plus ultrasound for liquor. **Avoid a digital VE**: it introduces infection and shortens latency. B and E are not indicated. D delays management (antibiotics, steroids)."
+    },
+    {
+      "id": "ohe-q09",
+      "stem": "On bimanual examination of a 35-year-old P3 with menorrhagia, the uterus is enlarged to about 16 weeks' size, firm and irregular, and moves with the cervix. Urine hCG is negative. What is the MOST likely diagnosis?",
+      "options": [
+        "Ovarian cyst",
+        "Intrauterine pregnancy",
+        "Endometriosis",
+        "Pelvic abscess",
+        "Uterine fibroids (leiomyomas)"
+      ],
+      "answer": 4,
+      "explanation": "An **enlarged, firm, irregular uterus** moving **with** the cervix, with menorrhagia and a negative hCG, suggests **fibroids**, which are very common in Ugandan women. A: an ovarian mass is usually separate from the uterus (a groove between them, not moving with the cervix). B: hCG is negative. C: endometriosis usually gives a fixed, tender, retroverted uterus with nodules. D: an abscess is tender with fever."
+    },
+    {
+      "id": "ohe-q10",
+      "stem": "You are presenting on a ward round. Which is the BEST opening summary line?",
+      "options": [
+        "This patient came in yesterday with pain.",
+        "Mrs A. is a 22-year-old G2P1+0 with 1 living child at 36 weeks by a 10-week scan, admitted 6 hours ago with painful regular contractions and draining clear liquor.",
+        "Mrs A. has been in hospital for 6 hours and her BP is normal.",
+        "Mrs A. is pregnant and wants to deliver today.",
+        "Mrs A. lives in Mukono and is a trader."
+      ],
+      "answer": 1,
+      "explanation": "A good summary line gives **age, gravidity/parity, living children, gestation and how it was dated, when she presented and the main complaint(s)**. It sets the context for everything else. The other options are vague, incomplete or give low-priority details first."
+    },
+    {
+      "id": "ohe-q11",
+      "stem": "At a routine ANC contact at 30 weeks, a G2P1 has a Pfannenstiel scar. She says her first baby was 'born through the abdomen' but does not know why. What is the MOST important next step in the history?",
+      "options": [
+        "Obtain details of the previous CS (indication, type of uterine incision, complications, place) and the inter-delivery interval, and request previous records",
+        "Assume the scar is from appendicectomy",
+        "Plan an elective repeat CS without further history",
+        "Plan delivery at the nearest HC III",
+        "Ignore it because the scar is healed"
+      ],
+      "answer": 0,
+      "explanation": "The **indication** (recurrent, e.g. CPD, vs non-recurrent, e.g. fetal distress), **type of uterine incision** (classical vs lower segment), **complications** and **interval** determine **eligibility for a trial of labour after CS** and the rupture risk. B: a Pfannenstiel scar with 'born through the abdomen' is a CS. C: repeat CS is not automatic. D: she needs a **CS-capable facility**. E is dangerous."
+    },
+    {
+      "id": "ohe-q12",
+      "stem": "A 19-year-old G1 at 34 weeks has a BP of 164/112 mmHg during a bedside teaching session. She complains of a headache and 'seeing stars'. What should the student do FIRST?",
+      "options": [
+        "Complete the teaching examination, then report",
+        "Repeat the BP in 4 hours",
+        "Measure the SFH",
+        "Tell her to rest and drink water",
+        "Stop, call for help immediately, and place her in the left lateral position while preparing for MgSO₄ and antihypertensive treatment under supervision"
+      ],
+      "answer": 4,
+      "explanation": "Severe-range BP with **headache and visual symptoms** means **imminent eclampsia**. The student must **stop and escalate immediately** (SBAR), position her safely, and help prepare **MgSO₄** (4 g IV + 10 g IM loading) and an **antihypertensive** (nifedipine or hydralazine). A, B, C and D delay life-saving treatment."
+    },
+    {
+      "id": "ohe-q13",
+      "stem": "A 27-year-old G1 at 32 weeks has an SFH of 38 cm, a tense, shiny abdomen, fetal parts that are difficult to feel, and a fluid thrill. The FHR is muffled. What is the MOST likely diagnosis and key investigation?",
+      "options": [
+        "Macrosomia; induction of labour",
+        "Placental abruption; coagulation screen",
+        "Polyhydramnios; ultrasound (AFI/deepest pool, anomalies, twins) and a glucose test for diabetes",
+        "Fibroids; MRI",
+        "Oligohydramnios; Doppler"
+      ],
+      "answer": 2,
+      "explanation": "A large-for-dates uterus, **tense**, with **difficult-to-feel parts**, a **fluid thrill** and **muffled heart sounds** is **polyhydramnios**. Ultrasound measures the liquor and looks for **fetal anomalies** (e.g. oesophageal atresia, anencephaly) and **twins**. Screen for **GDM**. A: a big baby has easily felt parts. B: abruption gives pain, bleeding and a woody uterus. D is less likely. E is the opposite."
+    },
+    {
+      "id": "ohe-q14",
+      "stem": "In the lateral grip at 36 weeks, you feel a smooth, continuous resistance on the mother's left, slightly anterior, and small parts on the right. The head is 3/5 palpable. What is the MOST likely position?",
+      "options": [
+        "Right occipito-posterior",
+        "Left sacro-anterior",
+        "Right occipito-anterior",
+        "Left occipito-anterior",
+        "Direct occipito-posterior"
+      ],
+      "answer": 3,
+      "explanation": "In a cephalic presentation (head palpable in the pelvis) the **back** marks the side of the **occiput**. A back on the **left and anterior** means **LOA**. A would have the back on the right and posterior (limbs anterior, back hard to feel). B is a breech position. C would have the back on the right. E would have limbs felt anteriorly on both sides."
+    },
+    {
+      "id": "ohe-q15",
+      "stem": "A 45-year-old P6 presents with postcoital bleeding for 3 months. She has never had cervical screening. On speculum examination there is an irregular, friable, exophytic mass on the cervix that bleeds on contact. What is the MOST appropriate next step?",
+      "options": [
+        "Perform VIA and treat with cryotherapy today",
+        "Take a punch biopsy of the lesion for histology and refer for staging (clinical exam, including a rectovaginal exam, and imaging)",
+        "Prescribe antibiotics for cervicitis and review in 2 weeks",
+        "Insert an IUD",
+        "Reassure her that it is an ectropion"
+      ],
+      "answer": 1,
+      "explanation": "A **visible, friable, exophytic lesion** is suspicious for **invasive cervical cancer**. VIA and cryotherapy (A) are for screening **precancerous** lesions, not visible tumours. **Biopsy** for histology and **FIGO staging** (clinical exam including rectovaginal, and imaging) are needed, with referral (e.g. to the Uganda Cancer Institute). C and E delay the diagnosis. D is inappropriate."
+    }
+  ],
+  "cases": [
+    {
+      "id": "ohe-c01",
+      "title": "Your first bedside presentation",
+      "presentation": "At Mengo Hospital antenatal ward, Dr Mutamba asks you to clerk and present Mrs Namusoke, a 31-year-old admitted this morning with 'pain in the lower abdomen'.",
+      "steps": [
+        { "prompt": "What must you establish in the first minute of the history?", "answer": "**Age, gravidity and parity** (and living children), **LNMP/EDD** (and any early scan) to get the **gestational age**, and the **presenting complaint with its duration**. She is G3P2+0 (2 living), LNMP gives 35 weeks + 1 day, consistent with an 18-week scan, and she has had lower abdominal pains for 8 hours." },
+        { "prompt": "Which screening questions do you ask in the HPC, and why?", "answer": "**'PV BLOOD'**: **P**ain (regular contractions? preterm labour), **V**aginal bleeding (abruption, praevia), **B**aby's movements, **L**iquor draining (PPROM), **O**edema and pre-eclampsia symptoms, **O**ther infections (fever, dysuria: UTI can trigger preterm labour), **D**one so far. She reports **dysuria and frequency** for 3 days, **regular tightenings** every 10 minutes, no bleeding, no leaking and good movements." },
+        { "prompt": "Summarise her ANC and past obstetric history as you would present it.", "answer": "'She booked at 16 weeks: **HIV-negative, syphilis non-reactive, Hb 11.4 g/dL, B Rh-positive**, 3 doses of IPTp, Td2. BP normal throughout. In 2018 she had an SVD at term of a 3.2 kg girl, alive and well; in 2021 an SVD at **33 weeks** of a 1.9 kg boy, who spent 2 weeks in the NICU and is alive and well. There is no significant medical history and no allergies.' A **previous preterm birth** is a major risk factor for recurrence." },
+        { "prompt": "Examination: T 38.1 °C, pulse 102 bpm, BP 118/72 mmHg, no pallor. Abdomen: SFH 34 cm, singleton, longitudinal lie, cephalic, 4/5 palpable, FHR 156 bpm, contractions 2 in 10 minutes lasting 25 seconds, right renal angle tenderness. What is your summary and differential?", "answer": "**'In summary, a 31-year-old G3P2+0 at 35 weeks with a previous preterm birth, presenting with threatened preterm labour, probably secondary to acute pyelonephritis.'** Differentials: **chorioamnionitis** (fever, tachycardia, fetal tachycardia; check for offensive liquor and uterine tenderness), **malaria**, established preterm labour, placental abruption (no bleeding, soft uterus, less likely)." },
+        { "prompt": "What is your plan?", "answer": "**Investigations:** urinalysis and **urine culture**, FBC, **malaria RDT**, renal function, and a **sterile speculum** (cervix and liquor) before any digital VE; then a VE if the membranes are intact to assess dilatation. **Treatment:** IV fluids, **ceftriaxone 1 g IV daily** (or per local protocol) for pyelonephritis, paracetamol for fever. At 35 weeks, antenatal steroids are generally **not** given routinely (WHO recommends them from 24 to 34 weeks). Monitor contractions and FHR, and prepare the neonatal team." }
+      ],
+      "takeaway": "Structure beats length: summary line, focused HPC with 'PV BLOOD', ANC and past obstetric history, targeted exam, a one-sentence summary, then a ranked differential and plan."
+    },
+    {
+      "id": "ohe-c02",
+      "title": "The abdomen that does not match the dates",
+      "presentation": "Akello, a 23-year-old G2P1 at 30 weeks by LNMP (uncertain; she was breastfeeding when she conceived), attends a HC IV ANC clinic. The midwife says 'her tummy is too big'.",
+      "steps": [
+        { "prompt": "What history do you take to explain a large-for-dates uterus?", "answer": "**Dating**: LNMP certainty (unreliable here: breastfeeding, lactational amenorrhoea), any early scan, quickening date. **Family history of twins**; ovulation induction. **Symptoms of GDM** (thirst, polyuria), previous big babies. Breathlessness or discomfort (polyhydramnios). Previous fibroids." },
+        { "prompt": "What examination findings would distinguish twins, polyhydramnios and a large singleton?", "answer": "**Twins:** many small parts, **3 or more poles**, two heads, two FHRs 10 or more bpm apart. **Polyhydramnios:** tense, shiny abdomen, **fluid thrill**, parts hard to feel, muffled FHR. **Macrosomia:** a big, easily palpable single fetus. **Wrong dates:** a normal-feeling pregnancy that is simply further on." },
+        { "prompt": "SFH is 37 cm. You feel two hard round masses, one at the fundus on the left and one in the right iliac fossa, and hear FHRs of 136 and 152 bpm. Present your findings.", "answer": "'On abdominal examination the abdomen is distended more than expected for dates, with no scars. The **SFH is 37 cm**, 7 cm more than dates. I palpated **two fetal poles consistent with heads**: one at the fundus and one in the right lower quadrant, with **multiple small parts**. I heard **two separate FHRs of 136 and 152 bpm**. **Impression: a multiple (twin) pregnancy**, the first twin probably cephalic and the second breech, with uncertain dates.'" },
+        { "prompt": "What investigations and management follow?", "answer": "**Ultrasound**: confirm twins, **chorionicity** (best before 14 weeks; now less reliable), presentations, growth, liquor, placental site. **Hb** (twins raise the risk of anaemia, so give therapeutic iron–folate), **BP and urine** at every visit (a higher pre-eclampsia risk), and more frequent ANC. **Refer to hospital** for delivery (twins are high-risk: PPH, malpresentation of twin 2, cord prolapse, preterm birth). Plan delivery at about **37 weeks** for DCDA twins (earlier for monochorionic)." },
+        { "prompt": "What counselling do you give?", "answer": "Signs of **preterm labour**, danger signs, a **birth plan at a hospital** with a neonatal unit, identifying a **blood donor**, nutrition (an extra meal), rest, and postpartum family planning." }
+      ],
+      "takeaway": "Large for dates means working through dates, twins, liquor, a big baby and fibroids. The hands and a Pinard can diagnose twins, but ultrasound confirms them and assesses chorionicity."
+    },
+    {
+      "id": "ohe-c03",
+      "title": "The gynaecology clerking",
+      "presentation": "Nalwoga, a 28-year-old P1+1, presents to Mengo gynaecology clinic with lower abdominal pain and an offensive vaginal discharge for 1 week. Her LNMP was 3 weeks ago.",
+      "steps": [
+        { "prompt": "What gynaecological history do you take, and why?", "answer": "**Pain** (SOCRATES), **discharge** (colour, odour, itch), **fever**, **dyspareunia**, **menstrual history** (LNMP, cycle, **intermenstrual or postcoital bleeding**), **sexual history** (partners, new partner, condom use, partner symptoms), **contraception** (IUD insertion recently?), **previous STIs/PID**, recent **abortion or delivery** (her '+1': when, and was it induced? septic abortion), **HIV status**, and **cervical screening**." },
+        { "prompt": "What must you exclude first, before anything else?", "answer": "**Pregnancy**: a **urine hCG** (an ectopic can mimic PID). It is negative." },
+        { "prompt": "Examination: T 38.2 °C, bilateral lower abdominal tenderness without peritonism. Speculum: mucopurulent discharge from the os. Bimanual: cervical motion tenderness and bilateral adnexal tenderness, no mass. What is the diagnosis?", "answer": "**Pelvic inflammatory disease** (the minimum criteria are **cervical motion, uterine or adnexal tenderness**, supported by fever and mucopurulent cervical discharge). Differentials: ectopic (hCG negative), appendicitis, tubo-ovarian abscess (no mass), UTI, ovarian cyst accident." },
+        { "prompt": "How do you manage her (outpatient, Uganda)?", "answer": "Per the Uganda Clinical Guidelines syndromic approach: **ceftriaxone 1 g IM stat** (some regimens 250–500 mg) **+ doxycycline 100 mg orally 12-hourly for 14 days + metronidazole 400–500 mg orally 12-hourly for 14 days**. Analgesia. **Treat the partner**, advise abstinence until both are treated, offer **HIV and syphilis testing**, and provide condoms. **Admit** if she has a tubo-ovarian abscess, is pregnant, is severely ill, is vomiting, or has not improved within 72 hours." },
+        { "prompt": "What follow-up and counselling are needed?", "answer": "Review in **72 hours** (improvement expected). Explain the risks of **infertility, ectopic pregnancy and chronic pelvic pain** with recurrent PID. Offer cervical cancer screening (**VIA**) once the infection has settled, and contraception." }
+      ],
+      "takeaway": "In gynaecology, always exclude pregnancy first. The speculum and bimanual exam give the diagnosis, and the partner must be treated too."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf" },
+    { "title": "Essential Maternal and Newborn Clinical Care Guidelines for Uganda", "source": "Ministry of Health Uganda", "year": 2016, "url": "https://library.health.go.ug/sites/default/files/resources/Essential%20Maternal%20&%20Neonatal%20Care%20Clinical%20Guidelines%20-%202016%20fully%20edited.pdf" },
+    { "title": "WHO Recommendations on Antenatal Care for a Positive Pregnancy Experience (fetal assessment, SFH, ANC model)", "source": "WHO / NCBI Bookshelf", "year": 2016, "url": "https://www.ncbi.nlm.nih.gov/books/NBK409109/" },
+    { "title": "WHO Recommendations on Antenatal Care for a Positive Pregnancy Experience (full guideline)", "source": "World Health Organization", "year": 2016, "url": "https://iris.who.int/server/api/core/bitstreams/e348a9ec-f3e4-4b54-a875-8a115c996d9c/content" },
+    { "title": "Delivery, Face and Brow Presentation (StatPearls)", "source": "NCBI Bookshelf", "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK567727/" },
+    { "title": "Pelvis and Fetal Skull (textbook chapter)", "source": "Jaypee Digital", "url": "https://www.jaypeedigital.com/eReader/chapter/9789385999543/ch1" },
+    { "title": "Compliance with the WHO recommended 8+ antenatal care contacts schedule among postpartum mothers in eastern Uganda", "source": "PLOS One", "year": 2024, "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0314769" }
+  ]
+}

@@ -195,7 +195,7 @@ The one thing never to forget: **start every presentation with the summary line:
 1. Locate the **fetal anterior shoulder**: between the umbilicus and the anterior superior iliac spine on the side of the back in a cephalic presentation (below the umbilicus), and **above the umbilicus in a breech**.
 2. **Pinard:** place the bell firmly on the abdomen, put your ear on it and **remove your hand** (the stethoscope is held by the pressure between your ear and the abdomen).
 3. **Count for a full 60 seconds** while **palpating the maternal radial pulse** to make sure you are not counting the mother's heart.
-4. **Normal FHR is 110–160 bpm** and regular. In labour, auscultate **after a contraction**, every 30 minutes in the first stage and every 5 minutes (after each contraction) in the second stage (WHO intermittent auscultation guidance: every 15–30 minutes in the active first stage and every 5 minutes in the second stage).
+4. **Normal FHR is 110–160 bpm** and regular. In labour, auscultate **during and just after a contraction**: every **30 minutes** in the active first stage (WHO says every 15–30 minutes; the partograph records it half-hourly) and every **5 minutes** (after each contraction) in the second stage.
 5. Interpret: below 110 (bradycardia) or above 160 (tachycardia: maternal fever, hypoxia, drugs), and decelerations after contractions (fetal compromise).
 
 **Percussion** is rarely needed (polyhydramnios, or to confirm a full bladder).
@@ -310,7 +310,7 @@ Assess **cervical dilatation (cm), effacement, consistency, position and applica
 - **Always relate findings to the gestational age.** An SFH of 30 cm is normal at 30 weeks but worrying at 36. A 5/5 head is normal at 30 weeks but a warning at 40 weeks in a primigravida.
 - **Compare three estimates of gestational age:** dates, early scan and fundal height. If they disagree, **trust an early scan** (under 20–24 weeks) over the LNMP, and the LNMP over fundal height. Then ask why the fundus disagrees.
 - **"If the lie is not longitudinal, the delivery is not vaginal"** (transverse or oblique lie in labour means CS, unless ECV or it corrects).
-- **The history gives you the diagnosis 70% of the time; the examination confirms it.** Form a hypothesis before you touch the abdomen, then look for evidence for and against it.
+- **The history gives you the diagnosis most of the time; the examination confirms it.** Form a hypothesis before you touch the abdomen, then look for evidence for and against it.
 - **Pertinent negatives matter.** "No headache, no visual disturbance, no epigastric pain" in a hypertensive woman is as important as the positives.
 - **Pitfalls:**
   - Counting the **maternal pulse** as the FHR (always feel her radial pulse while listening).

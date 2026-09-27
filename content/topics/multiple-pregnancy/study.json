@@ -1,0 +1,463 @@
+{
+  "slug": "multiple-pregnancy",
+  "flashcards": [
+    {
+      "id": "mp-f01",
+      "front": "Zygosity vs chorionicity: what is the difference?",
+      "back": "**Zygosity** = number of fertilised eggs (MZ vs DZ; genetics). **Chorionicity** = number of placentas (DC vs MC). **Chorionicity determines clinical risk.**"
+    },
+    {
+      "id": "mp-f02",
+      "front": "Day of splitting of a monozygotic embryo and the resulting twin type?",
+      "back": "**0–3 days → DCDA** (~25–30%); **4–8 days → MCDA** (~70–75%); **8–12 days → MCMA** (~1–2%); **>13 days → conjoined**."
+    },
+    {
+      "id": "mp-f03",
+      "front": "Are all DCDA twins non-identical?",
+      "back": "**No.** All DZ twins are DCDA, but ~25–30% of MZ twins are also DCDA (early split). **All MC twins are MZ.** Different sexes = DZ."
+    },
+    {
+      "id": "mp-f04",
+      "front": "Lambda (twin-peak) sign vs T sign?",
+      "back": "**Lambda sign**: triangular chorionic tissue at the base of the inter-twin membrane = **dichorionic**. **T sign**: thin membrane meeting the placenta at 90° = **monochorionic diamniotic**."
+    },
+    {
+      "id": "mp-f05",
+      "front": "Best gestation to determine chorionicity?",
+      "back": "**11–14 weeks** (the lambda sign fades later). If uncertain, **manage as monochorionic**."
+    },
+    {
+      "id": "mp-f06",
+      "front": "Risk factors for dizygotic twins?",
+      "back": "**Black African ethnicity**, maternal family history, **older maternal age** (35–39), **high parity**, tall/heavy women, **ovulation induction/IVF**. (MZ rate is constant ~3.5–4/1,000.)"
+    },
+    {
+      "id": "mp-f07",
+      "front": "Pathophysiology of TTTS?",
+      "back": "MC placenta with **unbalanced arteriovenous anastomoses** → net transfusion donor → recipient. **Donor**: hypovolaemia, oliguria, oligohydramnios ('stuck twin'), FGR. **Recipient**: hypervolaemia, polyuria, polyhydramnios, cardiac failure, hydrops."
+    },
+    {
+      "id": "mp-f08",
+      "front": "How common is TTTS?",
+      "back": "About **10–15% of MCDA** twin pregnancies. It does **not** occur in DC twins."
+    },
+    {
+      "id": "mp-f09",
+      "front": "Quintero staging of TTTS?",
+      "back": "**I**: oligo (<2 cm)/poly (>8 cm) sequence, donor bladder visible. **II**: donor bladder not visible. **III**: critically abnormal Doppler. **IV**: hydrops. **V**: death of one or both twins."
+    },
+    {
+      "id": "mp-f10",
+      "front": "Treatment of choice for TTTS?",
+      "back": "**Fetoscopic laser ablation** of placental anastomoses at **16–26 weeks** (stage II+). Alternatives: serial **amnioreduction**, selective reduction. Laser is not routinely available in Uganda."
+    },
+    {
+      "id": "mp-f11",
+      "front": "How is growth discordance calculated, and what is significant?",
+      "back": "(Larger EFW − smaller EFW) ÷ larger EFW × 100. **≥20–25%** is significant (NICE: ≥25% refer)."
+    },
+    {
+      "id": "mp-f12",
+      "front": "Ultrasound surveillance schedule for DC vs MC twins?",
+      "back": "**DC**: growth scans every **4 weeks from 20 weeks**. **MC**: every **2 weeks from 16 weeks** (liquor, bladders, EFW, Doppler) to detect TTTS/sFGR/TAPS."
+    },
+    {
+      "id": "mp-f13",
+      "front": "Planned timing of delivery (NICE) for uncomplicated DCDA, MCDA, MCMA and triplets?",
+      "back": "**DCDA 37+0**; **MCDA 36+0**; **MCMA 32+0–33+6 by CS**; **triplets 35+0** weeks."
+    },
+    {
+      "id": "mp-f14",
+      "front": "Mode of delivery for twins based on twin 1's presentation?",
+      "back": "**Twin 1 cephalic** → vaginal birth is reasonable (Twin Birth Study). **Twin 1 non-cephalic**, MCMA, conjoined, triplets → **caesarean section**."
+    },
+    {
+      "id": "mp-f15",
+      "front": "What must you NOT do after delivery of twin 1?",
+      "back": "**Do not give any uterotonic** (oxytocin, ergometrine, misoprostol) until the **last** baby is delivered: it could trap twin 2 (tetanic uterus) or cause placental separation."
+    },
+    {
+      "id": "mp-f16",
+      "front": "Steps after twin 1 is delivered?",
+      "back": "Clamp and label cord → **palpate lie of twin 2** and stabilise it longitudinal → **check FHR** → VE (membranes, presenting part, cord) → **ARM with a contraction** when the presenting part is in the pelvis → oxytocin infusion if contractions weak → deliver; manage malpresentation (ECV, internal podalic version + breech extraction, or CS)."
+    },
+    {
+      "id": "mp-f17",
+      "front": "Management of a transverse second twin?",
+      "back": "**ECV** (to cephalic or breech) with membranes intact if FHR normal; if unsuccessful, **internal podalic version + breech extraction** by an experienced obstetrician; otherwise **caesarean section**."
+    },
+    {
+      "id": "mp-f18",
+      "front": "What are locked twins?",
+      "back": "Twin 1 **breech** + twin 2 **cephalic**: chins interlock above the pelvic brim. ~1 in 1,000 twin deliveries. **Prevented by CS when twin 1 is non-cephalic.**"
+    },
+    {
+      "id": "mp-f19",
+      "front": "Risks to the surviving twin after single fetal death: MC vs DC?",
+      "back": "**MC**: co-twin death ~15%, neurological injury ~25% (acute exsanguination through anastomoses). **DC**: ~3% death, ~2% neuro injury; main risk is preterm labour."
+    },
+    {
+      "id": "mp-f20",
+      "front": "Maternal complications of multiple pregnancy?",
+      "back": "Hyperemesis, **anaemia**, **pre-eclampsia**, GDM, **preterm labour/PPROM**, polyhydramnios, APH (praevia, abruption), **malpresentation**, operative delivery, **PPH**, VTE, postnatal depression."
+    },
+    {
+      "id": "mp-f21",
+      "front": "What is TAPS and how is it diagnosed?",
+      "back": "**Twin anaemia-polycythaemia sequence**: tiny anastomoses in MC twins → one anaemic, one polycythaemic, **without** liquor discordance. Diagnosed by **MCA peak systolic velocity** Doppler."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "mp-q01",
+      "stem": "A 28-year-old G3P2 at 12 weeks has an ultrasound showing two gestational sacs with a thin dividing membrane meeting the single placental mass at a right angle, with no tissue between the layers. What is the MOST likely chorionicity?",
+      "options": [
+        "Dichorionic diamniotic",
+        "Dichorionic monoamniotic",
+        "Monochorionic monoamniotic",
+        "Monochorionic diamniotic",
+        "Conjoined twins"
+      ],
+      "answer": 3,
+      "explanation": "The **T sign** (thin membrane meeting the placenta at 90°) indicates **MCDA**. **DCDA** shows the **lambda (twin-peak) sign**. **MCMA** has **no dividing membrane**. **Dichorionic monoamniotic** does not exist (the chorion forms before the amnion). **Conjoined twins** share body parts with no membrane.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mp-q02",
+      "stem": "A 30-year-old at 20 weeks with MCDA twins complains of rapid abdominal enlargement and breathlessness over 2 weeks. Ultrasound: twin A deepest vertical pocket 10 cm with a large bladder; twin B deepest pocket 1 cm, bladder not visible, 'stuck' to the uterine wall. Dopplers are normal. What is the diagnosis and Quintero stage?",
+      "options": [
+        "Selective FGR, type I",
+        "TTTS stage II",
+        "TTTS stage I",
+        "TAPS",
+        "TTTS stage IV"
+      ],
+      "answer": 1,
+      "explanation": "Oligohydramnios in the donor (<2 cm) and polyhydramnios in the recipient (>8 cm) = **TTTS**. The **donor bladder is not visible** with normal Dopplers = **stage II**. **Stage I** has a visible donor bladder. **Stage IV** requires hydrops. **sFGR** has no oligo/poly sequence. **TAPS** has Hb discordance without liquor discordance.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mp-q03",
+      "stem": "A 26-year-old para 2 is in labour with twins at a HC IV. Twin 1, cephalic, is delivered normally. The midwife reaches for oxytocin 10 IU IM for 'active management of the third stage'. What is the MOST appropriate action?",
+      "options": [
+        "Give oxytocin 10 IU IM now",
+        "Give ergometrine 0.5 mg instead",
+        "Proceed to controlled cord traction",
+        "Give misoprostol 600 mcg orally",
+        "Withhold uterotonics, palpate to determine the lie of twin 2 and check its fetal heart"
+      ],
+      "answer": 4,
+      "explanation": "After twin 1, **no uterotonic** should be given until the **last baby** is delivered: it may cause a tetanic contraction trapping twin 2, or placental separation and hypoxia. The next step is to **palpate the lie** of twin 2, stabilise it and **listen to the FHR**. **Ergometrine** and **misoprostol** carry the same danger. **Controlled cord traction** is for the third stage, which has not begun.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mp-q04",
+      "stem": "After delivery of twin 1 (cephalic) at a regional referral hospital, twin 2 is found to be in a transverse lie with intact membranes and a normal FHR of 140. The obstetrician is experienced. What is the MOST appropriate next step?",
+      "options": [
+        "External cephalic version, and if unsuccessful, internal podalic version with breech extraction",
+        "Rupture the membranes immediately",
+        "Start an oxytocin infusion to encourage the fetus to correct its lie",
+        "Wait 2 hours for spontaneous correction",
+        "Give ergometrine to deliver the placenta of twin 1"
+      ],
+      "answer": 0,
+      "explanation": "For a transverse second twin with intact membranes and a normal FHR, attempt **ECV**; if it fails, an experienced operator performs **internal podalic version + breech extraction**; CS is the alternative. **ARM in a transverse lie** risks cord or arm prolapse. **Oxytocin** with a transverse lie risks obstruction and uterine rupture. **Waiting 2 hours** increases hypoxia of twin 2. **Ergometrine** is contraindicated before twin 2 is delivered.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mp-q05",
+      "stem": "A 32-year-old at 36 weeks with DCDA twins attends the antenatal clinic at Mengo. Twin 1 is breech and twin 2 is cephalic on ultrasound. Both are well grown. What is the MOST appropriate mode of delivery?",
+      "options": [
+        "Vaginal delivery with breech extraction",
+        "Induction of labour at 37 weeks",
+        "Elective caesarean section",
+        "External cephalic version of twin 1 at 36 weeks, then induction",
+        "Await spontaneous labour and decide in labour"
+      ],
+      "answer": 2,
+      "explanation": "When **twin 1 is non-cephalic**, **caesarean section** is recommended; breech/cephalic carries the risk of **locked twins**. **Vaginal breech delivery** and **induction** do not remove this risk. **ECV** is not performed in twin pregnancies. **Waiting for labour** risks an emergency situation and locked twins.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mp-q06",
+      "stem": "A 24-year-old with uncomplicated DCDA twins, twin 1 cephalic and twin 2 breech, asks when her babies should be born. She is now 34 weeks. What is the BEST advice?",
+      "options": [
+        "Planned birth at 34 weeks",
+        "Planned birth at 37+0 weeks",
+        "Planned birth at 36+0 weeks",
+        "Wait for spontaneous labour up to 41 weeks",
+        "Planned birth at 32 weeks by caesarean"
+      ],
+      "answer": 1,
+      "explanation": "Uncomplicated **DCDA** twins: planned birth at **37+0 weeks** (NICE); continuing increases stillbirth risk. **36+0 weeks** is for **MCDA**. **32–33+6 weeks by CS** is for **MCMA**. **34 weeks** is premature without indication. **Waiting to 41 weeks** increases stillbirth risk.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mp-q07",
+      "stem": "A 29-year-old at 12 weeks has monochorionic monoamniotic twins confirmed on scan. What is the MOST appropriate delivery plan if the pregnancy remains uncomplicated?",
+      "options": [
+        "Vaginal delivery at 37 weeks",
+        "Caesarean section at 39 weeks",
+        "Induction at 36 weeks",
+        "Caesarean section at 32+0 to 33+6 weeks after antenatal corticosteroids",
+        "Vaginal delivery if twin 1 is cephalic, at 34 weeks"
+      ],
+      "answer": 3,
+      "explanation": "MCMA twins share one sac with near-universal **cord entanglement** and a risk of sudden death, so **planned CS at 32+0–33+6 weeks** (after steroids) is recommended. **Vaginal delivery** risks cord compression of twin 2 and entanglement. Waiting to **36–39 weeks** increases the risk of sudden intrauterine death.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mp-q08",
+      "stem": "A 34-year-old para 5 delivered twin 1 at home 6 hours ago and walked to a HC III. The uterus is at 34 cm, a second fetus is palpable in a longitudinal lie with cephalic presentation, FHR 136, cervix 6 cm, membranes intact, and there are no contractions. There is no theatre at the HC III. What is the MOST appropriate action?",
+      "options": [
+        "Start an oxytocin infusion and, once the head is in the pelvis, rupture membranes and deliver, with referral if delay or distress",
+        "Refer to the HC IV without doing anything",
+        "Give ergometrine to deliver the placenta",
+        "Perform internal podalic version",
+        "Give misoprostol 800 mcg sublingually"
+      ],
+      "answer": 0,
+      "explanation": "Twin 2 is **longitudinal and cephalic** with a normal FHR and an open cervix, so **augmenting with an oxytocin infusion** (dilute and titrated) to restore contractions, then ARM once the head is in the pelvis, is appropriate; refer urgently if there is delay, fetal distress or a malpresentation. **Ergometrine** and **high-dose misoprostol** before delivery of twin 2 risk a tetanic uterus and rupture. **Referral without action** is reasonable only if the birth cannot be safely conducted; here a cephalic baby can be delivered. **Internal podalic version** is for a transverse lie.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "mp-q09",
+      "stem": "A 31-year-old with MCDA twins has a scan at 28 weeks showing the death of twin B. Twin A is alive with normal liquor. Which statement is MOST accurate?",
+      "options": [
+        "Immediate delivery prevents neurological damage in twin A",
+        "Twin A is at no risk because the twins had separate sacs",
+        "The risks to twin A are the same as in DC twins",
+        "Maternal DIC is the main risk and requires immediate delivery",
+        "Twin A has about a 15% risk of death and 25% risk of neurological injury"
+      ],
+      "answer": 4,
+      "explanation": "In **MC twins**, the survivor has about a **15% risk of death** and **~25% risk of neurological injury** from acute exsanguination into the dead twin through anastomoses. **Immediate delivery** does not prevent this, because the injury happens at the time of death, and it adds prematurity. **DC twins** have much lower risks (about 3% and 2%). **Maternal DIC** is rare and delayed. Separate **sacs** do not matter; the shared **placenta** does.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "mp-q10",
+      "stem": "A 27-year-old at 22 weeks with twins has a scan. The two sacs are separated by a thick membrane with a triangular projection of placental tissue at its base. One twin is male and the other female. Which statement is CORRECT?",
+      "options": [
+        "These are monozygotic dichorionic twins",
+        "These are monochorionic diamniotic twins",
+        "These are dizygotic, dichorionic diamniotic twins",
+        "These twins are at risk of TTTS",
+        "Chorionicity cannot be determined"
+      ],
+      "answer": 2,
+      "explanation": "The **lambda sign** indicates **dichorionic** twins, and **different sexes** prove **dizygotic** twins. MZ twins are always the **same sex**. They are not MC (no **T sign**). **TTTS** occurs only in **MC** twins. Chorionicity **can** be determined here.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mp-q11",
+      "stem": "Immediately after vaginal delivery of both twins (combined weight 5.4 kg) at a HC IV, a 30-year-old para 4 bleeds heavily; the uterus is soft and above the umbilicus. She has had oxytocin 10 IU IM. What is the MOST likely cause, and what is the NEXT step?",
+      "options": [
+        "Uterine atony: uterine massage, oxytocin infusion, TXA 1 g IV and IV fluids",
+        "Genital tract trauma: suture tears",
+        "Retained placenta: manual removal",
+        "Coagulopathy: give fresh frozen plasma",
+        "Uterine inversion: manual replacement"
+      ],
+      "answer": 0,
+      "explanation": "A **soft, large uterus** after an **overdistended twin pregnancy** = **atonic PPH**. Next: **massage**, **oxytocin infusion** (20–40 IU in 1 L), **TXA 1 g IV**, IV fluids, catheterise and escalate (E-MOTIVE bundle). **Trauma** gives bleeding with a contracted uterus. **Retained placenta** is not suggested (placentas delivered). **Coagulopathy** is less likely immediately. **Inversion** presents with shock and an absent fundus.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mp-q12",
+      "stem": "During a twin vaginal delivery, twin 1 (breech) delivers to the umbilicus, then the trunk will not descend further. Abdominal palpation reveals the head of twin 2 in the pelvis. What complication has occurred?",
+      "options": [
+        "Cord prolapse",
+        "Conjoined twins",
+        "Shoulder dystocia",
+        "Locked twins",
+        "Uterine rupture"
+      ],
+      "answer": 3,
+      "explanation": "**Locked twins**: twin 1 **breech** and twin 2 **cephalic**, with interlocking chins preventing delivery of twin 1's head. This is why CS is advised when twin 1 is non-cephalic. **Cord prolapse** does not arrest the trunk. **Shoulder dystocia** follows delivery of the head in a cephalic birth. **Conjoined twins** are usually diagnosed antenatally and delivered by CS. **Uterine rupture** causes pain, shock and loss of contractions.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mp-q13",
+      "stem": "A 25-year-old primigravida with DCDA twins books at 11 weeks at a HC IV. BMI 26, BP 110/70, no other medical history. Which is the MOST appropriate prevention plan?",
+      "options": [
+        "Iron and folic acid only",
+        "Aspirin 75–150 mg nightly from 12 to 36 weeks, plus iron/folic acid and calcium",
+        "Routine cervical cerclage at 14 weeks",
+        "Vaginal progesterone from 16 weeks",
+        "Bed rest from 28 weeks"
+      ],
+      "answer": 1,
+      "explanation": "Multiple pregnancy and first pregnancy are **two moderate risk factors** for pre-eclampsia, so **aspirin 75–150 mg from 12 to 36 weeks** is indicated, plus enhanced iron/folate and calcium. **Iron and folate alone** miss pre-eclampsia prevention. **Routine cerclage**, **progesterone** and **bed rest** do not prevent preterm birth in twins.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mp-q14",
+      "stem": "A 28-year-old with MCDA twins has scans every 2 weeks. At 24 weeks, liquor volumes are normal in both sacs, but the MCA peak systolic velocity is raised in twin A (anaemia) and reduced in twin B (polycythaemia). What is the diagnosis?",
+      "options": [
+        "TTTS stage I",
+        "Rhesus isoimmunisation",
+        "Selective FGR",
+        "TRAP sequence",
+        "Twin anaemia-polycythaemia sequence (TAPS)"
+      ],
+      "answer": 4,
+      "explanation": "**TAPS**: small anastomoses cause a slow transfusion, giving **Hb discordance without liquor discordance**; diagnosed by MCA-PSV. **TTTS** requires the oligo/polyhydramnios sequence. **sFGR** concerns weight discordance. **TRAP** involves an acardiac twin. **Rh isoimmunisation** would affect both twins similarly (and requires an Rh-negative mother with antibodies).",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "mp-q15",
+      "stem": "A 33-year-old at 26 weeks with DCDA twins has a haemoglobin of 8.6 g/dL. She is on one tablet of ferrous sulphate/folic acid daily. Malaria test is negative. What is the MOST appropriate management?",
+      "options": [
+        "Continue the current dose and recheck at delivery",
+        "Blood transfusion immediately",
+        "Increase to elemental iron 120 mg daily (e.g. ferrous sulphate 200 mg twice daily) with folic acid, deworm, and recheck Hb in 4 weeks",
+        "Stop iron because it causes constipation",
+        "Start vitamin C only"
+      ],
+      "answer": 2,
+      "explanation": "Twins increase iron and folate demand. With **moderate anaemia (Hb 7–9.9)** and no urgent symptoms, give **treatment-dose iron (120 mg elemental daily)** with folic acid, deworm (mebendazole after the first trimester), and **recheck** (expect about 1 g/dL rise every 2–3 weeks); consider IV iron if no response. **Continuing the prophylactic dose** is inadequate. **Transfusion** is for severe anaemia (Hb <7) with decompensation or near delivery. **Stopping iron** worsens anaemia. **Vitamin C alone** is insufficient.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "mp-c01",
+      "title": "Large for dates at 24 weeks",
+      "presentation": "A 34-year-old para 5 attends her first ANC visit at a HC III in Mpigi at 24 weeks by LNMP. She has had excessive vomiting earlier in pregnancy and now feels breathless on exertion. Symphysis-fundal height is 31 cm. Conjunctivae are pale. BP 118/74.",
+      "steps": [
+        {
+          "prompt": "What is your differential diagnosis for a fundal height larger than dates?",
+          "answer": "**Multiple pregnancy** (top in a para 5 aged 34 with hyperemesis), wrong dates, polyhydramnios, macrosomia/GDM, fibroids, molar pregnancy (less likely at 24 weeks with fetal parts)."
+        },
+        {
+          "prompt": "What history and examination would support twins?",
+          "answer": "History: maternal **family history of twins**, fertility drugs, hyperemesis, rapid abdominal growth, 'feeling movements everywhere'. Exam: many fetal parts, **two fetal poles** (two heads), a small head relative to the uterus, **two fetal hearts** heard simultaneously by two examiners differing by ≥10 bpm."
+        },
+        {
+          "prompt": "What investigations and management do you arrange at the HC III?",
+          "answer": "**Hb** (pallor, breathlessness), urinalysis, mRDT, HIV/syphilis per ANC. **Refer for an ultrasound** (number, chorionicity, anomalies, growth, liquor, placenta) and to a **hospital ANC clinic**. Start iron/folate (treatment dose if Hb is low), IPTp-SP, Td, ITN, deworming. Health education on danger signs; birth preparedness at a facility with theatre."
+        },
+        {
+          "prompt": "Ultrasound at the hospital: live twins, separate posterior and fundal placentas, thick membrane, one male and one female. Hb 9.2 g/dL. What does this mean and what is your ANC plan?",
+          "answer": "**DCDA, dizygotic twins** (different sexes). Plan: iron 120 mg elemental daily + folic acid, recheck Hb in 4 weeks; **aspirin 75–150 mg** to 36 weeks (twins + another moderate risk factor, and many give to all twins); calcium; ANC every 2 weeks, then weekly from 32 weeks; BP and urine each visit; **growth scans every 4 weeks**; steroids if preterm birth threatens (28–34 weeks); plan **birth at 37 weeks** at the hospital; consider admission near term as she lives far away."
+        },
+        {
+          "prompt": "At 35 weeks she presents with a headache and BP 158/104, proteinuria 2+. What do you do?",
+          "answer": "Pre-eclampsia (more common and earlier in twins). Check for severe features (headache is one): FBC, LFT, creatinine. Control BP (nifedipine), **MgSO₄** if severe features, fluid balance, fetal assessment of both twins. With severe features at 35 weeks: **deliver** after stabilisation; the mode depends on the presentation of twin 1 (vaginal if cephalic). Prepare for PPH."
+        }
+      ],
+      "takeaway": "Large for dates in a multiparous Ugandan woman is twins until proven otherwise: confirm by ultrasound, determine chorionicity, treat anaemia and plan delivery in a hospital."
+    },
+    {
+      "id": "mp-c02",
+      "title": "Delivering the second twin",
+      "presentation": "A 29-year-old para 2 with known DCDA twins at 37+2 weeks is in active labour at Mengo Hospital. Admission scan: twin 1 cephalic, twin 2 breech. Twin 1 has just been delivered spontaneously and is crying well.",
+      "steps": [
+        {
+          "prompt": "What should have been prepared before the birth?",
+          "answer": "Experienced obstetrician present, midwife, anaesthetist informed, theatre available; **two neonatal resuscitation sets/teams**; IV access (16–18 G), FBC, **group and cross-match**; both FHRs monitored; oxytocin infusion ready but not running; ultrasound machine in the room; labelled cord clamps."
+        },
+        {
+          "prompt": "What are your immediate actions after twin 1 is delivered?",
+          "answer": "Clamp and cut the cord, **label 'Twin 1'**, hand the baby over. **No uterotonic.** **Palpate** (± ultrasound) the lie and presentation of twin 2; an assistant **stabilises the lie longitudinally**. **Auscultate twin 2's FHR.** **VE**: membranes, presenting part, exclude cord prolapse."
+        },
+        {
+          "prompt": "Twin 2 is now in a transverse lie, membranes intact, FHR 145. What do you do?",
+          "answer": "Attempt **ECV** (to breech or cephalic, whichever is easier) with membranes intact while the uterus is relaxed. If it fails, the experienced obstetrician performs **internal podalic version** (grasping a foot through intact membranes) followed by **breech extraction**. If neither is possible, or fetal distress/cord prolapse occurs → **emergency caesarean section**."
+        },
+        {
+          "prompt": "ECV converts twin 2 to breech, but contractions have stopped and 15 minutes have passed. FHR is 140. What next?",
+          "answer": "Start an **oxytocin infusion** (dilute, titrated) to re-establish contractions; when the **breech is in the pelvis**, **ARM** during a contraction; conduct an **assisted breech delivery**. Continue FHR monitoring; if distress, proceed to breech extraction. Aim to deliver without unnecessary delay (historically within 30 minutes)."
+        },
+        {
+          "prompt": "Both babies are delivered. What do you do in the third stage and afterwards?",
+          "answer": "**Oxytocin 10 IU IM/IV** after the last baby, controlled cord traction, and a **prophylactic oxytocin infusion** (e.g. 20–40 IU in 1 L over 4 hours). Examine placentas and membranes (confirm DC). **Monitor closely for PPH** (fundus, lochia, pulse, BP every 15 min for the first hour). TXA 1 g IV if bleeding. Check Hb, continue iron. Support breastfeeding of both twins, KMC if low birth weight, and counsel on family planning."
+        }
+      ],
+      "takeaway": "After twin 1: no oxytocic; palpate, stabilise, listen, examine; correct a malpresentation; augment if needed; and give the uterotonic only after the last baby."
+    },
+    {
+      "id": "mp-c03",
+      "title": "Monochorionic twins with a tense abdomen",
+      "presentation": "A 23-year-old primigravida with MCDA twins (T sign at 12 weeks) presents at 19 weeks to a regional referral hospital with rapidly increasing abdominal size, breathlessness and lower abdominal tightness over 10 days. She missed her 16-week scan because of transport costs.",
+      "steps": [
+        {
+          "prompt": "What is your leading diagnosis and why?",
+          "answer": "**Twin-twin transfusion syndrome**: MCDA twins share a placenta with vascular anastomoses. Rapid abdominal growth and breathlessness suggest **polyhydramnios** in the recipient. Other causes of polyhydramnios (diabetes, anomalies) are less likely to produce this picture in MC twins."
+        },
+        {
+          "prompt": "What ultrasound findings will you look for?",
+          "answer": "Deepest vertical pocket: **recipient >8 cm**, **donor <2 cm** ('stuck twin'); bladders (donor bladder visible or not); EFWs and discordance; **Dopplers** (umbilical artery end-diastolic flow, ductus venosus a-wave, umbilical vein pulsations); signs of **hydrops**; cervical length (preterm labour risk)."
+        },
+        {
+          "prompt": "The scan shows recipient DVP 11 cm, donor DVP 1 cm, donor bladder not visible, normal Dopplers, no hydrops. Stage it and explain the options.",
+          "answer": "**Quintero stage II.** The treatment of choice is **fetoscopic laser ablation** of anastomoses (16–26 weeks), which is not routinely available in Uganda (referral abroad may be possible for some families). Alternatives: **serial amnioreduction** of the recipient sac to relieve symptoms and reduce preterm labour risk; close surveillance; **selective reduction** (rarely available). Untreated severe TTTS has a very high mortality. Counsel honestly and compassionately."
+        },
+        {
+          "prompt": "She chooses amnioreduction and surveillance. At 27 weeks the recipient develops ascites and pericardial effusion. What does this mean and what is your plan?",
+          "answer": "**Hydrops = stage IV.** With viability reached at a referral centre, give **dexamethasone 6 mg IM 12-hourly × 4**, **MgSO₄** neuroprotection (<32 weeks) if delivery is planned, discuss with NICU, and consider delivery (usually **caesarean section**), as the risk of intrauterine death of one twin (which endangers the other through the anastomoses) is high. Individualise with the family and senior team."
+        },
+        {
+          "prompt": "What lesson about her antenatal care does this case teach, and what is the recommended surveillance for MC twins?",
+          "answer": "MC twins need scans **every 2 weeks from 16 weeks** (liquor, bladders, growth, Doppler) so that TTTS is detected early when outcomes are better. Barriers such as **transport costs** must be addressed at booking (birth preparedness, social support, health worker follow-up)."
+        }
+      ],
+      "takeaway": "Monochorionic twins share a placenta: 2-weekly scans from 16 weeks detect TTTS early, and polyhydramnios in one sac with a stuck co-twin is TTTS until proven otherwise."
+    }
+  ],
+  "references": [
+    {
+      "title": "Twin and triplet pregnancy (NICE guideline NG137)",
+      "source": "National Institute for Health and Care Excellence",
+      "year": 2019
+    },
+    {
+      "title": "Management of Monochorionic Twin Pregnancy (Green-top Guideline No. 51)",
+      "source": "Royal College of Obstetricians and Gynaecologists",
+      "year": 2016
+    },
+    {
+      "title": "ISUOG Practice Guidelines: role of ultrasound in twin pregnancy",
+      "source": "Ultrasound in Obstetrics & Gynecology",
+      "year": 2016
+    },
+    {
+      "title": "A randomized trial of planned cesarean or vaginal delivery for twin pregnancy (Twin Birth Study)",
+      "source": "New England Journal of Medicine (Barrett JFR et al.)",
+      "year": 2013
+    },
+    {
+      "title": "Uganda Clinical Guidelines 2023",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf"
+    },
+    {
+      "title": "Essential Maternal and Newborn Clinical Care Guidelines for Uganda",
+      "source": "Ministry of Health Uganda",
+      "year": 2021,
+      "url": "https://library.health.go.ug/sites/default/files/resources/Essential%20Maternal%20and%20Newborn%20Clinical%20Care%20Guidelines%20for%20Uganda%20_October%202021.pdf"
+    },
+    {
+      "title": "WHO recommendations on antenatal corticosteroids for improving preterm birth outcomes",
+      "source": "World Health Organization",
+      "year": 2022,
+      "url": "https://www.who.int/publications/i/item/9789240057296"
+    },
+    {
+      "title": "Williams Obstetrics, 26th edition: Chapter on Multifetal Pregnancy",
+      "source": "McGraw Hill",
+      "year": 2022
+    },
+    {
+      "title": "Obstetrics by Ten Teachers, 21st edition: Twins and higher multiple gestations",
+      "source": "CRC Press",
+      "year": 2024
+    },
+    {
+      "title": "Co-twin prognosis after single fetal death: a systematic review and meta-analysis (Hillman SC et al.)",
+      "source": "Obstetrics & Gynecology",
+      "year": 2011
+    }
+  ]
+}
