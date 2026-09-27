@@ -218,7 +218,7 @@ Alcohol rub (60â€“80% alcohol) **kills faster** than soap and water, takes **20â
 |---|---|---|
 | **Boiling** | Fully submerge, lid on; **start timing when the water reaches a rolling boil**; boil **20 minutes**; don't add anything once timing has started | The most common HLD in Ugandan health centres |
 | **Steaming** | **20 minutes** in a steamer | Good for gloves and MVA cannulae |
-| **Chemical** | Soak in **0.1% chlorine for 20 min** or **2% glutaraldehyde for 20 min**; then **rinse with boiled water** | Glutaraldehyde is toxic (ventilation, gloves) |
+| **Chemical** | Soak in **0.1% chlorine for 20 min** or **2% glutaraldehyde for 20 min**; then **rinse with boiled water** | Glutaraldehyde is toxic (ventilation, gloves). Concentrations for chlorine HLD vary: general IP manuals use 0.1% (made with boiled water), while Ipas MVA processing guidance uses **0.5% for 20 min**. Follow your unit's protocol |
 
 Use HLD items immediately, or store them in a covered HLD container for up to about 1 week.
 
