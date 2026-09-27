@@ -4,11 +4,15 @@ summary: Preterm birth (<37 completed weeks) is the leading cause of newborn dea
 highYield:
   - Preterm birth = before 37+0 weeks; extremely preterm <28, very preterm 28–<32, moderate-to-late preterm 32–<37 weeks.
   - PROM = rupture of membranes before labour at ≥37 weeks; PPROM = before labour and before 37 weeks. Diagnose with a sterile speculum (pooling), NOT a digital VE.
-  - WHO 2022 - antenatal corticosteroids for 24–34 weeks if preterm birth is likely within 7 days, GA is reliable, no maternal infection, and adequate childbirth and newborn care are available. Dexamethasone 6 mg IM 12-hourly × 4 doses.
-  - Tocolysis only to buy 48 h for steroids/transfer - nifedipine 20 mg orally, then 10–20 mg every 6–8 h for up to 48 h. Never with chorioamnionitis, abruption or fetal distress.
+  - "Nitrazine turns blue with amniotic fluid (pH 7.0–7.5 vs vaginal 4.5–6.0): false positives with blood, semen, urine, BV and antiseptics; fern = arborisation on a dried slide."
+  - Confirm GA (earliest scan) before steroids - fundal height alone can give steroids to a term baby.
+  - WHO 2022 - antenatal corticosteroids for 24–34 weeks (Uganda usually 28–34) if preterm birth is likely within 7 days, GA is reliable, no maternal infection, and adequate childbirth and newborn care are available. Dexamethasone 6 mg IM 12-hourly × 4 doses.
+  - Tocolysis only to buy 48 h for steroids/transfer - nifedipine 20 mg orally, then 10–20 mg every 6–8 h for up to 48 h. Never with chorioamnionitis, abruption or fetal distress, or at ≥34 weeks.
   - MgSO₄ for fetal neuroprotection if birth is expected before 32 weeks (reduces cerebral palsy) - 4 g IV over 20–30 min, then 1 g/h until birth or 24 h.
   - PPROM - erythromycin 250 mg orally 6-hourly for 10 days (or until labour). Avoid co-amoxiclav (NEC). No antibiotics for preterm labour with intact membranes unless GBS/infection.
-  - Chorioamnionitis (fever + uterine tenderness/fetal tachycardia/foul liquor) - ampicillin + gentamicin (± metronidazole) and deliver regardless of gestation; no tocolysis.
+  - Chorioamnionitis (fever ≥38°C + maternal pulse >100, FHR >160, uterine tenderness, foul liquor or WBC >15) - ampicillin + gentamicin (± metronidazole) and deliver regardless of gestation; no tocolysis.
+  - In PPROM, a rising maternal pulse or FHR often precedes fever - temperature, pulse and FHR 4-hourly; remember steroids raise the WBC for about 72 h.
+  - Intrapartum GBS prophylaxis (preterm labour, ROM >18 h, fever) - benzylpenicillin 3 g IV then 1.5 g 4-hourly, or ampicillin 2 g IV then 1 g 4-hourly.
   - Kangaroo mother care, started immediately after birth for babies <2.0 kg, saves lives.
 ---
 
@@ -163,6 +167,158 @@ Each week gained in utero before 34 weeks reduces prematurity complications. But
 - **Steroids for the wrong baby**: if GA is uncertain and fundal height suggests 34+ weeks, steroids may harm (neonatal hypoglycaemia) without benefit. **Get an ultrasound** if possible (EFW and biometry) before giving them.
 - **Common student mistakes**: doing a digital VE in PPROM; giving tocolysis to a woman with fever; forgetting the neonatal team; forgetting GBS prophylaxis in labour; giving co-amoxiclav; not calculating the GA correctly; forgetting to check steroids were actually given (look at the drug chart).
 
+
+## Clinical workup
+
+Every woman who presents before 37 weeks with pains or "water" is worked up to answer five questions, in this order: **Is she (or the baby) in danger now? Are the membranes ruptured? Is she really in labour? Is there infection? How many weeks is she, and can this facility care for a baby of that gestation?**
+
+### Step 0: First 5 minutes
+
+1. **Vital signs**: temperature, pulse, BP, RR, SpO₂. **Fever ≥38°C, maternal pulse >100 or FHR >160** → think **chorioamnionitis/sepsis** from the start. If signs of sepsis (RR ≥22, confusion, SBP ≤100): IV access, fluids, antibiotics within the hour.
+2. **Fetal heart**: present? Rate? **Bradycardia or decelerations after membrane rupture → feel/look for a cord prolapse** (cord at the introitus is an emergency: knee-chest position, push the presenting part up, fill the bladder, call for CS).
+3. **Bleeding?** If yes, **no digital VE** until placenta praevia is excluded; think abruption (tocolysis is contraindicated).
+4. **Is birth imminent?** Watch her: bearing down, visible presenting part, show. If so, call the **neonatal team/most skilled newborn resuscitator**, prepare a warm room, bag-mask (preterm size), and do not transfer in active second stage.
+5. **Start what cannot wait**: if GA is reasonably **24 (Uganda: usually 28) to 34 weeks** and birth is likely within 7 days with no infection → **dexamethasone 6 mg IM** now (first dose). If birth is expected within 24 h **<32 weeks** → MgSO₄ neuroprotection. If PPROM → erythromycin. If chorioamnionitis → ampicillin + gentamicin and plan delivery.
+6. **Decide on place of birth early.** If your unit cannot look after a baby of this gestation, arrange **in-utero transfer** now (first steroid dose ± nifedipine given, escort, notes with drug times).
+
+> [!REDFLAG]
+> The two things that must not happen in the first 5 minutes: a **digital VE in suspected PPROM** that is not in labour, and a **digital VE with bleeding** before praevia is excluded.
+
+### Step 1: Focused history
+
+| Ask | Why it matters (what answer changes the plan) |
+|---|---|
+| **Dating**: LNMP (certain? regular cycles? contraception?), **earliest ultrasound**, fundal height at booking | Decides steroids, tocolysis, MgSO₄ and place of birth. An early scan (<24 weeks) beats LNMP; fundal height alone is unreliable |
+| **Pains**: when started, how often, how long, how strong, regular? Radiating to the back? | Regular painful contractions (≥4 in 20 min or ≥8 in 60 min is one classic cut-off) suggest real labour; irregular painless tightenings = Braxton Hicks |
+| **Fluid**: time of the gush (to calculate **hours since ROM**), amount, continuous or intermittent, colour, smell | Hours since ROM → >18 h = GBS prophylaxis; meconium or foul fluid → fetal compromise/infection |
+| **Fever, rigors, foul discharge, abdominal pain** | Chorioamnionitis → no tocolysis, deliver |
+| **Dysuria, frequency, loin pain** | UTI/pyelonephritis trigger → urine test and treat |
+| **Malaria symptoms**, IPTp doses, net use | Malaria trigger → mRDT and treat |
+| **Bleeding** (amount, painful or painless) | Abruption vs praevia; no VE until scan |
+| **Fetal movements** | Fetal well-being, IUFD |
+| **Previous preterm birth or second-trimester loss** (and whether it was painless) | Strongest risk factor; painless = cervical insufficiency |
+| **Twins, polyhydramnios** known on scan | Overdistension; changes delivery planning |
+| **Headache, visual symptoms, known high BP** | Pre-eclampsia → may need delivery; **caution with nifedipine tocolysis on top of antihypertensive nifedipine** |
+| **Heart disease, diabetes, HIV (ART, viral load), sickle cell** | Nifedipine safety, steroid glucose monitoring, eMTCT plan |
+| **Allergies** (penicillin, erythromycin) | Antibiotic choice (clindamycin if penicillin-allergic for GBS) |
+| **Drugs given at the referring unit** (steroid dose times, nifedipine, antibiotics) | Avoid duplicating or missing doses |
+| **Distance from home, support, finances** | Expectant PPROM management and KMC need a long admission |
+
+### Step 2: Focused examination
+
+**General**
+- Temperature, **pulse** (a rising pulse often precedes fever in chorioamnionitis), BP, RR, pallor, dehydration, signs of sepsis.
+
+**Abdomen**
+- **Fundal height** vs dates (large: twins/polyhydramnios; small: FGR or wrong dates).
+- **Uterine tenderness** between contractions (chorioamnionitis, abruption).
+- **Palpate contractions for 10 minutes**: frequency, duration, strength.
+- Lie, presentation (breech is common preterm), engagement, liquor volume.
+- **FHR** for a full minute after a contraction: **>160 bpm** suggests chorioamnionitis.
+- Renal angle tenderness (pyelonephritis).
+
+**Sterile speculum examination** (the key examination when ROM is suspected)
+- Let her lie down for **20–30 minutes** first so fluid can pool. Sterile gloves, sterile Cusco speculum, warm sterile water only (no lubricant or antiseptic in the vagina: both upset the nitrazine test).
+- Look for: **pooling** in the posterior fornix; fluid from the os on **coughing (cough/Valsalva test)**; colour (clear, blood-stained, meconium, pus) and smell; **visual estimate of cervical dilatation**; **cord or fetal parts** in the vagina.
+- Take **swabs** (HVS/endocervical; low vaginal + rectal for GBS where culture exists), and test fluid with **nitrazine** and make a **fern slide**.
+
+**Digital vaginal examination**
+- **Do it** when membranes are intact (or she is clearly in labour) and there is no bleeding: dilatation, effacement, station, presentation. **Repeat after 2–4 hours** to show cervical change.
+- **Do not do it** in PPROM that is not in labour, or with bleeding before a scan.
+
+**Document the key negatives**: "afebrile, pulse 84, uterus non-tender, liquor clear and non-offensive, FHR 140, no cord seen, cervix visually closed".
+
+### Step 3: Bedside tests
+
+| Test | How / what to look for | What it changes |
+|---|---|---|
+| **Sterile speculum: pooling / cough test** | Liquor pooling or leaking from the os | **Confirms ROM** (the most useful test). No pooling after 20–30 min lying + cough = ROM unlikely (consider a pad test or repeat) |
+| **Nitrazine paper** | Vaginal pH normally **4.5–6.0** (paper stays **yellow**); amniotic fluid pH **7.0–7.5** turns it **blue** | Supports ROM. **False positive**: blood, semen, urine, BV, trichomonas, antiseptics. **False negative**: small leak, long-standing ROM with little fluid |
+| **Fern test** | Swab from the posterior fornix spread on a clean slide, **air-dry for about 10 minutes**, look under low-power microscope for a **fern (arborisation)** pattern | Supports ROM. **False positive**: cervical mucus, fingerprints; **false negative**: blood, too little fluid, poor drying |
+| **Pad test** | Clean pad for 1–2 h: wet, clear, musty-smelling fluid = liquor; smells of urine = urine | Useful when the speculum is equivocal |
+| **Temperature and pulse chart** | **4-hourly** in PPROM; any rise | Early chorioamnionitis |
+| **FHR** (Pinard/Doppler) ± CTG | Baseline >160, reduced variability, variable decelerations (cord compression after ROM) | Infection → deliver; cord compression → assess for prolapse |
+| **Urine dipstick** | Nitrites, leucocytes (UTI); protein (pre-eclampsia); glucose | Treat UTI; recognise PE |
+| **mRDT** | Positive | Treat malaria (a treatable trigger) |
+| **RBS** | Baseline, especially in diabetics before steroids | Steroids raise glucose for up to 5 days |
+| **Hb (HemoCue)** | Anaemia | Optimise before delivery; cross-match |
+| **Point-of-care ultrasound** | Number of fetuses, presentation, viability, liquor (**single deepest pocket <2 cm** or AFI <5 cm = oligohydramnios), placental site, biometry | Presentation and praevia before VE; GA support; low liquor supports PPROM |
+| **Contraction count** | Frequency over 10 min, repeated | With serial VE, confirms labour |
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Obstetric ultrasound** (biometry, EFW, presentation, liquor, placenta, number, anomalies) | Every admission. HC IV (often) and all hospitals | EFW and biometry consistent with dates; oligohydramnios; breech; praevia; lethal anomaly | **Confirms GA before steroids** (biometry is less accurate late in pregnancy; an early scan is best); presentation → mode of birth; EFW → place of birth |
+| **Transvaginal cervical length** | Symptomatic, **intact membranes** only, 24–34 weeks. Regional/national referral, private | **<15 mm** = high risk of birth within 7 days; **>15 mm** = low risk (thresholds of 15–30 mm are used in different guidelines) | ≥15 mm → avoid unnecessary steroids/tocolysis/transfer. **Never in PPROM** |
+| **Fetal fibronectin** | Intact membranes, 24–34 weeks, no recent sex/VE/bleeding. Rarely available | **Negative = under 1% delivered within 7 days** | High negative predictive value; mostly used in the UK |
+| **Full blood count** | Admission; **twice weekly** in expectant PPROM. HC IV and hospitals | WBC **>15 × 10⁹/L** (a rising trend matters more than one value); anaemia | Supports chorioamnionitis. **Steroids raise WBC for about 72 h**, so interpret with the drug chart |
+| **CRP** | Expectant PPROM, twice weekly where available. Regional/national referral, private | Rising trend | Supports infection; not diagnostic alone |
+| **Urinalysis, urine microscopy, culture** | Every admission. Culture at referral hospitals | Pyuria, bacteria, organism and sensitivities | Treat UTI/asymptomatic bacteriuria |
+| **mRDT / blood smear** | Every admission (fever or not). All levels | Parasites | Treat malaria |
+| **HVS / endocervical swab (Gram stain, culture)** | At speculum. Culture at referral hospitals | Gonorrhoea, BV, trichomonas, GBS | Targeted antibiotics |
+| **Low vaginal + rectal swab for GBS culture** | Where culture exists (rare in Uganda) | GBS carriage | Intrapartum prophylaxis (Uganda uses a **risk-based** approach instead) |
+| **Blood cultures** | Fever ≥38°C or suspected sepsis. Regional/national referral | Organism | Tailor antibiotics after delivery |
+| **CTG** | Viable fetus in suspected labour or chorioamnionitis. Referral hospitals, some HC IVs | Fetal tachycardia, reduced variability, decelerations | Fetal compromise → deliver |
+| **HIV, syphilis, HBsAg status** | If unknown or due for retest. All levels (rapid tests) | Positive | eMTCT plan, infant prophylaxis, neonatal team |
+| **Blood group & cross-match** | Planned delivery, bleeding, CS. HC IV with blood bank upward | | Ready for APH/PPH/CS |
+| **Amniotic protein tests** (IGFBP-1, PAMG-1) | Equivocal ROM. Private only | Positive | Confirms ROM when the speculum is doubtful |
+
+> [!UGANDA]
+> At HC III you usually have a **speculum, nitrazine paper (sometimes), a thermometer, a Pinard/Doppler, a dipstick and an mRDT**. That is enough to diagnose PPROM or chorioamnionitis, give the first dose of dexamethasone, erythromycin or ampicillin + gentamicin, and refer. Ultrasound and FBC are usually at HC IV; cervical length, CRP, cultures and fibronectin are mostly at regional and national referral hospitals (Mengo, Mulago/Kawempe, Nsambya) or private labs.
+
+### Step 5: Putting it together
+
+**Model one-line summary**
+
+> "A 22-year-old G2P1 at **30+4 weeks by a 12-week scan** with **PPROM of 14 hours**, confirmed by pooling on sterile speculum, **no clinical chorioamnionitis** (T 36.9°C, pulse 86, uterus non-tender, liquor clear, FHR 142), not contracting, singleton cephalic, EFW 1.5 kg. On dexamethasone (2 of 4 doses) and erythromycin day 1."
+
+**Problem list**
+1. Diagnosis: PPROM / preterm labour (threatened or established) / PROM at term; hours since ROM.
+2. Gestational age and how reliable it is.
+3. Infection status: chorioamnionitis yes/no; triggers (UTI, malaria, BV).
+4. Fetal status: FHR, presentation, EFW, liquor, number of fetuses.
+5. Interventions and their times: steroids (dose number), MgSO₄ (<32 weeks), tocolysis (hour of 48), antibiotics (day of 10).
+6. Place and timing of birth; neonatal team informed; KMC counselling.
+
+**Working diagnosis**: name the syndrome, the gestation and the infection status, e.g. "PPROM at 30+4 weeks without chorioamnionitis" or "established preterm labour at 32 weeks with suspected pyelonephritis".
+
+#### Worked example 1: is it really ruptured membranes?
+
+A woman at 33 weeks reports "water" since last night.
+
+| Finding | Result | Interpretation |
+|---|---|---|
+| Speculum after lying 30 min | No obvious pooling; small amount of fluid on **cough** from the os | Positive cough test: supports ROM |
+| Nitrazine | Blue | Supports ROM, but she had **blood-stained discharge** (possible false positive) |
+| Fern | Clear ferning | Supports ROM (blood would tend to give a **false negative**, so a positive fern is reassuring) |
+| Ultrasound | Single deepest pocket 1.8 cm | Oligohydramnios supports ROM |
+
+**Reading it:** three independent tests agree → **PPROM**. If only the nitrazine were positive (with blood present) and there was no pooling or ferning, you would call it **"ROM not confirmed"**, do a pad test and review, rather than start a 10-day antibiotic course and steroids.
+
+#### Worked example 2: is this chorioamnionitis?
+
+PPROM at 31 weeks, day 3. Steroids completed yesterday.
+
+| Finding | Result |
+|---|---|
+| Temperature | 38.3°C (and 38.1°C 30 min later) |
+| Maternal pulse | 112/min |
+| FHR | 170 bpm baseline |
+| Uterus | Mildly tender between contractions |
+| Liquor | Slightly offensive |
+| WBC | 18 × 10⁹/L |
+
+**Reading it:** **fever ≥38°C plus maternal tachycardia, fetal tachycardia, uterine tenderness and offensive liquor** = clinical chorioamnionitis by any definition. The WBC of 18 alone would be hard to interpret after steroids (they raise WBC for about 72 h), which is why the **clinical signs decide**. **Action:** ampicillin 2 g IV 6-hourly + gentamicin 5 mg/kg IV daily (+ metronidazole if CS), paracetamol, stop any tocolysis, **MgSO₄ neuroprotection** (<32 weeks), **deliver** (induce with oxytocin; CS only for obstetric indications), neonatal team for sepsis screen and antibiotics, watch for PPH.
+
+> [!NOTE]
+> Definitions of chorioamnionitis vary. These notes use **fever ≥38°C plus at least one of** maternal tachycardia >100, fetal tachycardia >160, uterine tenderness, foul-smelling liquor, or WBC >15 × 10⁹/L. The older Gibbs criteria need fever plus **two** of these; the US "Triple I" definition uses fever plus fetal tachycardia, WBC or purulent fluid. In a viva, give the criteria your unit uses and say that the clinical picture, not one number, makes the diagnosis.
+
+#### Worked example 3: should she get steroids?
+
+- LNMP uncertain, fundal height 35 cm, no scan, contracting 3 in 10 min, cervix 4 cm → **scan first** if at all possible (biometry, EFW). If EFW is about 2.6 kg and biometry suggests 35–36 weeks → **no steroids, no tocolysis**; prepare for a late preterm baby. If the scan suggests 31 weeks → dexamethasone 6 mg IM 12-hourly × 4, MgSO₄ if birth is expected within 24 h, consider nifedipine to allow steroids/transfer.
+- 29 weeks by a 10-week scan, temperature 38.4°C, tender uterus → **no tocolysis**; antibiotics and **deliver**. Give MgSO₄ (<32 weeks); give the first steroid dose only if it does not delay delivery (WHO lists maternal infection as a reason not to give ACS, so follow your senior and unit protocol).
+
 ## Differential diagnosis
 
 ### Of "contractions" before 37 weeks
@@ -190,22 +346,15 @@ Each week gained in utero before 34 weeks reduces prematurity complications. But
 
 ## Investigations
 
-| Test | What you are looking for | Why |
+The full list of tests, their interpretation and where each is available in Uganda is in **Step 3** and **Step 4** of the Clinical workup above. What the table does not show is the **surveillance schedule** during expectant management:
+
+| Situation | Maternal | Fetal |
 |---|---|---|
-| **Sterile speculum ± nitrazine/fern** | Pooling of liquor | Confirms PPROM/PROM |
-| **Obstetric ultrasound** | GA (biometry), EFW, presentation, liquor, placental site, number of fetuses, anomalies | Decides steroids, mode and place of birth |
-| **Full blood count** | WBC >15 × 10⁹/L (note: steroids raise WBC for 24–72 h), Hb | Infection, anaemia |
-| **CRP** (where available) | Rising trend | Supports infection (non-specific) |
-| **Urinalysis and urine culture** | Nitrites, leucocytes, bacteria | UTI trigger |
-| **mRDT / blood smear** | Malaria parasites | Malaria trigger (treat) |
-| **High vaginal swab / endocervical swab** | GBS, gonorrhoea, BV, candida | Guides antibiotics |
-| Low vaginal + rectal swab for GBS culture | GBS carriage | Intrapartum prophylaxis (where culture exists) |
-| **CTG / FHR monitoring** | Fetal tachycardia, decelerations | Chorioamnionitis, cord compression |
-| Transvaginal cervical length | <15 mm high risk, >15 mm low risk of birth within 7 days | Avoids overtreatment (intact membranes only) |
-| Fetal fibronectin (rarely available) | Negative result = <1% chance of birth within 7 days | High negative predictive value |
-| HIV, syphilis, hepatitis B status | Known or retest | eMTCT and neonatal plan |
-| Blood group and cross-match | | For delivery or APH |
-| Blood glucose | Baseline | Before steroids in diabetics |
+| Threatened preterm labour, intact membranes | Vital signs 4-hourly; **repeat VE after 2–4 h** to look for cervical change; urine and mRDT results reviewed | FHR each assessment |
+| PPROM, expectant | **Temperature and pulse 4-hourly**; pad colour and smell **daily**; uterine tenderness each review; **FBC ± CRP twice weekly** where available | **FHR 4-hourly**; fetal movements; **growth and liquor scan every 2 weeks** |
+| On nifedipine tocolysis | **BP and pulse before each dose** (withhold if BP <90/50) | FHR |
+| On MgSO₄ neuroprotection | RR, patellar reflexes, urine output **hourly** | Continuous or frequent FHR |
+| After steroids in a diabetic | Blood glucose **4-hourly** for up to 5 days | |
 
 ## Management
 
@@ -436,3 +585,55 @@ This applies to spontaneous preterm labour, **PPROM**, APH, hypertensive disorde
 - **Tocolysis contraindications "BIRDS"**: **B**leeding, **I**nfection (chorioamnionitis), **R**uptured membranes (relative), **D**istressed or **D**ead fetus, **S**evere pre-eclampsia.
 - **Chorioamnionitis signs "FEVER-T"**: **F**ever, **E**levated WBC, fetal/maternal **V**ital signs up (tachycardia), **E**ffluent foul-smelling, uterine **R**igidity/tenderness, **T**reat and deliver.
 - **"MAG under 32, steroids under 34"**.
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Preterm | **<37+0 weeks**; extremely <28, very 28–<32, moderate 32–<34, late 34–36+6 |
+| Viability / abortion cut-off (Uganda) | **28 weeks** (NICU centres act from about 26) |
+| Prolonged ROM | **>18 h** (UK >24 h) → GBS prophylaxis |
+| Vaginal pH / amniotic fluid pH | **4.5–6.0** / **7.0–7.5** (nitrazine blue) |
+| Oligohydramnios | Single deepest pocket **<2 cm** or AFI **<5 cm** |
+| Cervical length (intact membranes) | **<15 mm** high risk; **>15 mm** low risk of birth in 7 days |
+| Fetal fibronectin negative | **<1%** birth within 7 days |
+| Dexamethasone | **6 mg IM 12-hourly × 4** (24 mg) |
+| Betamethasone | **12 mg IM 24-hourly × 2** |
+| Steroid window | **24–34 weeks** (Uganda usually 28–34); benefit from **24 h**, peak **48 h–7 days**; one repeat course if ≥7 days later |
+| Nifedipine tocolysis | **20 mg orally**, then **10–20 mg every 6–8 h** for up to **48 h**; withhold if BP <90/50 (local daily maximum varies) |
+| MgSO₄ neuroprotection | **<32 weeks**: **4 g IV over 20–30 min**, then **1 g/h** until birth or max 24 h |
+| Erythromycin (PPROM) | **250 mg orally 6-hourly × 10 days** (or until labour) |
+| GBS prophylaxis | Benzylpenicillin **3 g IV**, then **1.5 g 4-hourly**; or ampicillin **2 g**, then **1 g 4-hourly**; clindamycin **900 mg 8-hourly** if allergic |
+| Chorioamnionitis | Ampicillin **2 g IV 6-hourly** + gentamicin **5 mg/kg IV daily** (+ metronidazole 500 mg IV 8-hourly if CS) |
+| Chorioamnionitis thresholds | Fever **≥38°C**; maternal pulse **>100**; FHR **>160**; WBC **>15 × 10⁹/L** |
+| Steroid effect on WBC | Raised for about **72 h** |
+| PPROM delivery | RCOG: **37+0** if no infection; ACOG: **34**; many Ugandan units: **about 34** |
+| Term PROM | **Induce** (oxytocin, or misoprostol 25 mcg if unfavourable) |
+| Vaginal progesterone (prevention) | **200 mg at night** to 34 weeks (short cervix ≤25 mm or previous preterm birth) |
+| Cerclage removal | **36–37 weeks** or in labour |
+| KMC | Babies **<2.0 kg**, start **immediately**, 8–24 h/day |
+| Delayed cord clamping | At least **30–60 s** if the baby does not need resuscitation |
+
+### Classic exam traps
+
+- **"Do a VE to see how dilated she is"** in suspected PPROM. Wrong: **sterile speculum**; no digital VE unless she is in labour.
+- **"Nitrazine positive, so membranes are ruptured."** Not on its own: blood, semen, urine, BV and antiseptics cause false positives. Look for **pooling** first.
+- **"Give co-amoxiclav for PPROM."** Wrong: **erythromycin** (co-amoxiclav increased NEC in ORACLE I).
+- **"Give antibiotics to every woman in preterm labour."** Wrong: not with intact membranes and no infection (ORACLE II); do give **intrapartum GBS prophylaxis**.
+- **"Tocolyse to prevent preterm birth."** Wrong: tocolysis only buys **48 h** for steroids or transfer; it does not improve outcome alone and is contraindicated with infection, bleeding or fetal distress.
+- **"Salbutamol is the tocolytic."** Wrong: betamimetics are **not recommended** (pulmonary oedema, tachycardia); use **nifedipine**.
+- **"Raised WBC after steroids = chorioamnionitis."** Not necessarily: steroids raise WBC for about 72 h; use the clinical signs (fever, tachycardia, tenderness, liquor).
+- **"Steroids at 36 weeks by fundal height."** Wrong: outside the window and dating is uncertain; **scan first**.
+
+### Questions seniors ask
+
+1. **How do you confirm PPROM?** History, then a **sterile speculum** after 20–30 min lying: pooling or cough test; supported by nitrazine, fern and low liquor on scan. No digital VE.
+2. **What are the signs of chorioamnionitis, and which comes first?** Fever ≥38°C with maternal or fetal tachycardia, uterine tenderness, foul liquor, WBC >15. A **rising maternal pulse or FHR** often comes before fever.
+3. **What are the WHO conditions for steroids?** 24–34 weeks with **accurate GA**, birth likely within **7 days**, **no maternal infection**, adequate childbirth care and adequate newborn care.
+4. **Why erythromycin and not co-amoxiclav?** Erythromycin prolonged pregnancy and reduced neonatal morbidity (ORACLE I); co-amoxiclav increased **NEC**.
+5. **She is 30 weeks, 3 cm, contracting and afebrile. Your plan?** Dexamethasone 6 mg IM now (×4), nifedipine 20 mg for up to 48 h if no contraindication, MgSO₄ if birth is expected within 24 h, GBS prophylaxis in labour, neonatal team, **in-utero transfer** if no newborn unit.
+6. **When would you deliver a woman with PPROM?** Immediately for chorioamnionitis, abruption, fetal distress, cord prolapse or labour; otherwise at about 34 weeks (many Ugandan units, ACOG) or 37 weeks (RCOG, if surveillance is good).
+7. **How do you tell true preterm labour from threatened preterm labour?** **Progressive cervical change** on serial VE 2–4 hours apart (or cervical length <15 mm / positive fibronectin where available); up to 70% of threatened cases do not deliver within 7 days.
+8. **Why does in-utero transfer matter?** The mother is the best incubator: babies transferred before birth do better than those transferred after, so move the mother (with steroids started) to a unit with newborn care.

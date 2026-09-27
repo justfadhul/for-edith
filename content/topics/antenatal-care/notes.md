@@ -10,6 +10,10 @@ highYield:
   - Measure BP and test urine protein at every contact, because pre-eclampsia is silent until it is severe. BP of 140/90 mmHg or more after 20 weeks needs urine protein and a plan the same day.
   - Deworm once after the first trimester (mebendazole 500 mg or albendazole 400 mg single dose). Consider low-dose aspirin 75 mg nightly from 12 weeks, and before 20 weeks, for women at high risk of pre-eclampsia.
   - Every contact ends with danger-sign counselling and an updated birth-preparedness plan (where, who, transport, money, blood donor, mama kit).
+  - Booking tests are Hb, blood group and Rh, HIV, syphilis, HBsAg, urinalysis and an ultrasound before 24 weeks. Recheck Hb at 26–28 and 34–36 weeks.
+  - "GDM by 75 g OGTT at 24–28 weeks (WHO 2013): fasting 5.1 or more, 1 h 10.0 or more, or 2 h 8.5 or more mmol/L; one abnormal value is enough."
+  - SFH in cm equals gestation in weeks ± 2 cm from 24 weeks. More than 3 cm off means ultrasound (dates, growth, liquor).
+  - Triage every ANC attender for danger signs and BP before she joins the queue. BP 160/110 mmHg or more, or Hb below 7 g/dL, means act or refer the same day.
 ---
 
 ## In a nutshell
@@ -151,6 +155,135 @@ The booking history is the richest risk-screening tool you have. Ask with purpos
 - **Pitfall:** giving SP to an HIV-positive woman on cotrimoxazole. She is already protected by cotrimoxazole, and combining two sulfa drugs increases the risk of severe skin reactions (Stevens–Johnson syndrome) and marrow toxicity.
 - **Pitfall:** high-dose folic acid (5 mg) given with SP can antagonise pyrimethamine (both act on the folate pathway). The routine 400 µg dose is fine.
 
+## Clinical workup
+
+For ANC the "patient" is usually a well woman, so the workup is a **structured screen**: a full booking workup at the first contact, then a shorter, targeted review at every contact after that. The aim is to answer three questions every time: **Is she safe today? Is the baby growing and well? Is she still safe to deliver where she plans to?**
+
+### Step 0: First 5 minutes
+
+Before she sits in the ANC queue (often 40 women long at a Ugandan HC IV), someone must **triage** her.
+
+1. **Ask about danger signs at the door**: bleeding, severe headache or blurred vision, fits, fever, leaking liquor, severe abdominal pain, difficulty breathing, reduced fetal movements, labour pains. Any "yes" means she skips the queue.
+2. **Vital signs**: BP, pulse, temperature, respiratory rate; SpO₂ if a pulse oximeter is available.
+3. **Act on the numbers at once:**
+   - **BP 160/110 mmHg or more**, or 140/90 or more **with symptoms**: severe pre-eclampsia pathway (MgSO₄ loading dose, antihypertensive, refer). See Management section 6.
+   - **Pulse above 100/min at rest**, or **shock index (HR ÷ SBP) 0.9 or more**: look for bleeding, sepsis or severe anaemia.
+   - **Temperature 38.0°C or more**: malaria RDT now; think pyelonephritis, chorioamnionitis.
+   - **RR above 30/min or breathlessness at rest**: severe anaemia with heart failure, pneumonia, rheumatic heart disease.
+4. **Call for help** (midwife in charge, medical officer) if any of the above. Otherwise proceed to the routine workup.
+
+> [!REDFLAG]
+> Women die in ANC queues. A woman with a headache and BP 164/112 mmHg who waits three hours "for her turn" can fit on the bench. **Triage first, queue second.**
+
+### Step 1: Focused history
+
+**At booking (first contact)**, go through this checklist. Each item is there because a certain answer changes the plan.
+
+| Ask | Why: the answer that changes the plan |
+|---|---|
+| **Age** | Below 18 or above 35 → high risk; hospital or HC IV delivery |
+| **LNMP, certainty, cycle length, contraception or breastfeeding at conception** | Unsure or irregular → **dating scan before 24 weeks**. Gives the EDD and decides timing of IPTp, Td, OGTT |
+| **Gravidity and parity, then each pregnancy in turn** | Previous **CS** (how many, why, interval), **PPH**, **pre-eclampsia**, **stillbirth** (fresh or macerated), **preterm birth**, **obstructed labour/fistula**, baby over 4 kg → each moves her to hospital-level care |
+| **Symptoms now** | Bleeding, pain, headache, fever, dysuria, discharge, oedema → treat today rather than "screen" |
+| **Medical history** | Hypertension, diabetes, sickle cell, heart disease, epilepsy, asthma, TB → specialist clinic and drug review |
+| **HIV status, ART regimen, adherence, last viral load** | Known positive on ART → **viral load at this contact**; on cotrimoxazole → **no SP** |
+| **Drugs and allergies** | Sulfa allergy → no SP; valproate, warfarin, ACE inhibitors → switch |
+| **Previous Td doses (card)** | Decides whether she needs Td1, the next dose, or none |
+| **Family history** | Twins, diabetes, hypertension, sickle cell → targeted tests (OGTT, sickling) |
+| **Social** | Distance and transport, money, partner support, **intimate partner violence** (ask alone), alcohol, adolescent in school → birth plan and social support |
+
+**At every later contact** (2–3 minutes): How are you? **Danger signs?** **Fetal movements** (after 20 weeks)? Taking iron, ART and sleeping under the net? Any new symptoms (headache, swelling, dysuria, discharge, itching)? What doses are due today (read the card: IPTp, Td, Hb, HIV retest)?
+
+### Step 2: Focused examination
+
+**General (every contact):** BP (seated, correct cuff, arm at heart level), pulse, weight, **pallor** (conjunctivae, palms, tongue), **oedema** (face, hands, sacrum, legs), jaundice.
+
+**At booking only (add):** height (**below 150 cm** → CPD risk), BMI, thyroid, lymph nodes, breasts if indicated, **heart** (murmur of rheumatic heart disease), chest, spine, gait (limp or deformity suggests a contracted pelvis).
+
+**Abdomen (every contact):**
+
+1. Inspect: size, **scars** (Pfannenstiel = previous CS), linea nigra, striae, fetal movements.
+2. **Fundal height** before 24 weeks (landmarks: symphysis at 12 weeks, umbilicus at about 20–22 weeks); **SFH in cm** from 24 weeks (equals gestation in weeks ± 2 cm).
+3. From about 32–36 weeks: **lie, presentation, engagement in fifths**.
+4. **FHR** with Doppler (from about 10–12 weeks) or Pinard (from about 20–24 weeks): 110–160 bpm.
+
+**Pelvic / speculum:** **not routine**. Do it only if there is bleeding (and only after placenta praevia is excluded by scan), abnormal discharge, suspected ROM, or for cervical screening.
+
+**Document:** key positives (e.g. "pallor +, SFH 28 cm at 32 weeks") **and** key negatives (e.g. "no oedema, BP 118/72, no proteinuria").
+
+### Step 3: Bedside tests
+
+These are all doable in minutes, and at most HC III and above, **in the room**:
+
+| Test | Normal | Act if |
+|---|---|---|
+| **Urine dipstick** (protein, glucose, nitrites, leucocytes) | Negative or trace | **Protein 1+ or more with BP 140/90 or more** → pre-eclampsia workup. **Glucose** on two occasions → RBS/OGTT. **Nitrites** → urine culture if possible and treat asymptomatic bacteriuria |
+| **HemoCue (point-of-care Hb)** | 11 g/dL or more | Below 11 → anaemia plan; **below 7 → admit/refer** |
+| **Dual HIV/syphilis rapid test** | Both non-reactive | HIV reactive → confirm per national algorithm and **start TLD the same day**. Syphilis reactive → **treat today** |
+| **HBsAg rapid test** | Negative | Positive → HBV plan (tenofovir assessment, birth dose within 24 h) |
+| **Malaria RDT** | Negative | Any fever or anaemia → test; positive → treat (and it does not cancel IPTp later) |
+| **Urine hCG** | – | Only if pregnancy is uncertain (early booking, unclear history) |
+| **Random blood sugar (glucometer)** | – | Glycosuria, risk factors or symptoms: RBS **11.1 mmol/L or more** suggests diabetes; any doubt → formal FBS/OGTT (a glucometer screens, it does not diagnose) |
+| **Doppler FHR** | 110–160 bpm | Not heard when expected → ultrasound to confirm viability |
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management (and where it is available) |
+|---|---|---|---|
+| **Hb / full blood count** | Booking, **26–28 weeks**, **34–36 weeks**, and whenever pale | Hb 11 g/dL or more. Below 11 anaemia, **below 7 severe**. MCV low = iron deficiency; high = folate/B12 | Therapeutic iron; look for cause; transfuse if severe. HemoCue at HC III; FBC at HC IV and hospital |
+| **Blood group and Rhesus** | Booking | Rh-negative in a few percent of Ugandan women | Anti-D planning; donor for the birth plan. HC IV and hospital |
+| **Indirect Coombs (antibody screen)** | Rh-negative women | Positive = already sensitised | Refer for fetal surveillance; anti-D no longer useful. Regional/national referral only |
+| **HIV** (rapid, then confirmatory algorithm) | Booking; **retest if negative in the 3rd trimester**, labour or postpartum | Reactive | Same-day ART; eMTCT plan. All levels |
+| **Viral load** | Women already on ART at first ANC; then per national schedule | Suppressed vs non-suppressed (cut-off varies by guideline: check the current Uganda protocol) | Non-suppressed → adherence support, high-risk infant prophylaxis. Sample taken at HC III/IV, processed centrally (hub system) |
+| **Syphilis** (rapid treponemal or dual test; RPR/VDRL where available) | Booking; repeat in the 3rd trimester if high risk | Reactive | Benzathine penicillin; treat partner. RPR titre (hospital labs) helps judge activity and response |
+| **HBsAg** | Booking | Positive | Tenofovir assessment; birth-dose vaccine within 24 h. HBV DNA/HBeAg only at referral centres |
+| **Urinalysis ± urine culture** | Dipstick every contact; culture if nitrites/leucocytes or symptoms | Bacteriuria | Treat (nitrofurantoin or amoxicillin per sensitivity) to prevent pyelonephritis and preterm labour. Culture mostly at regional/national referral |
+| **Malaria microscopy (blood slide)** | Fever, anaemia, positive RDT needing parasite count | Parasites | Treat; severe malaria → IV artesunate. HC III and above |
+| **Stool microscopy** | Unexplained or refractory anaemia | Hookworm ova | Deworm (after the 1st trimester). HC IV and hospital |
+| **Sickling test / Hb electrophoresis** | Family history, recurrent crises, unexplained anaemia or jaundice | HbSS / HbSC | Sickle cell ANC clinic, folic acid 5 mg, malaria prevention plan. Regional/national referral |
+| **75 g OGTT** (or FBS if OGTT not available) | **24–28 weeks** if risk factors or persistent glycosuria | GDM (WHO 2013): **fasting 5.1–6.9, 1 h 10.0 or more, 2 h 8.5–11.0 mmol/L** (any one value) | Diet, then metformin/insulin; growth scans; plan delivery. Mainly regional/national referral (Mengo, Mulago) |
+| **Obstetric ultrasound** | **At least one before 24 weeks**; later if SFH discrepancy, malpresentation at 36 weeks, bleeding or no FHR | Dating, number, viability, placental site, anomalies, growth, liquor | Corrects the EDD, finds twins/praevia/FGR. Many HC IVs, all hospitals |
+| **Creatinine, LFTs, platelets** | Raised BP or proteinuria; HIV baseline (creatinine for tenofovir) | Platelets below 100, raised ALT/AST, creatinine above about 90 µmol/L | Pre-eclampsia with severe features → admit and plan delivery. Hospital |
+| **Cervical screening (VIA or HPV test)** | Usually offered postnatally; in pregnancy only if indicated or never screened | Acetowhite lesion / HPV positive | Referral pathway (treatment is usually deferred until after pregnancy). Available wherever the national screening programme runs; check your facility |
+
+### Step 5: Putting it together
+
+**Model one-line summary (booking):**
+
+> "Ms K.R., 19-year-old **primigravida** at **18 weeks** by LNMP (certain), booking today at HC IV. Asymptomatic, BP 112/70 mmHg, **pale**, SFH not yet applicable (fundus just below the umbilicus), FHR 146 bpm on Doppler. Booking bloods show **Hb 8.9 g/dL**, **syphilis reactive**, HIV non-reactive, HBsAg negative, O Rh-positive; urine **glucose 1+**, no protein."
+
+**Problem list:**
+
+1. Adolescent primigravida (pre-eclampsia, obstructed labour and anaemia risk).
+2. Moderate anaemia (Hb 8.9 g/dL), cause not yet known.
+3. Reactive syphilis test in pregnancy.
+4. Single episode of glycosuria.
+5. Preventive care due: IPTp-SP dose 1, Td, deworming, LLIN.
+
+**Working diagnosis:** "Singleton intrauterine pregnancy at 18 weeks, **high-risk** (adolescent, moderate anaemia, syphilis): deliver at HC IV or hospital."
+
+**Worked example 1: interpreting the booking results**
+
+| Result | Interpretation | Action today |
+|---|---|---|
+| Hb 8.9 g/dL | **Moderate** anaemia (7.0–9.9 g/dL) | Malaria RDT; mebendazole 500 mg (she is past the 1st trimester); therapeutic iron (**120 mg elemental + folic acid 400 µg daily**, i.e. ferrous sulphate 200 mg twice daily); FBC/film if available; recheck Hb in 4 weeks. Expect about 1 g/dL rise every 2–3 weeks |
+| Syphilis reactive (rapid treponemal test) | Treponemal tests stay positive for life, so this could be old treated disease, but **in pregnancy, treat unless there is documented adequate treatment** | **Benzathine penicillin 2.4 MU IM weekly × 3** (unknown duration); treat the partner; RPR titre if the lab has it; tell the delivery team to examine and treat the baby |
+| Glucose 1+ once | The renal threshold for glucose falls in pregnancy, so a single trace/1+ is often physiological | Repeat dipstick at the next contact; RBS; OGTT at 24–28 weeks if it persists or she has risk factors |
+| HIV non-reactive | Negative now, but she is still at risk | **Retest in the 3rd trimester** (or labour/postpartum) |
+
+Then give **IPTp-SP dose 1 (DOT)**, Td (count previous doses), and an LLIN; book the next contact in 4 weeks (for the Hb recheck and IPTp dose 2).
+
+**Worked example 2: interpreting an OGTT at 26 weeks**
+
+A 34-year-old G4P3 with a previous 4.3 kg baby has a 75 g OGTT: **fasting 5.4 mmol/L, 1 h 9.6, 2 h 8.0.**
+
+- Fasting 5.4 is **5.1 or more**, so this is **GDM**. **One abnormal value is enough**; the normal 1 h and 2 h values do not cancel it.
+- If the fasting value had been **7.0 or more** (or the 2 h value **11.1 or more**), this would be **diabetes in pregnancy** (overt diabetes), not GDM, and she would need specialist care and probably insulin from the start.
+- Plan: diabetes/ANC clinic referral, diet and exercise, glucose monitoring; metformin or insulin if targets are not met; growth scan; deliver in hospital. See the diabetes-in-pregnancy topic.
+
+> [!PEARL]
+> Present an ANC patient in the order **dating → risk factors → today's findings → results → what is due today → place of birth**. A senior can then check in 30 seconds that nothing has been missed.
+
 ## Differential diagnosis
 
 ANC is about recognising which pregnancies are deviating from normal. The common "abnormal findings at ANC" and their differentials:
@@ -166,19 +299,7 @@ ANC is about recognising which pregnancies are deviating from normal. The common
 
 ## Investigations
 
-| Test | When | What you are looking for | Why |
-|---|---|---|---|
-| **Hb (FBC if available)** | Booking, 26–28 weeks and 34–36 weeks (and whenever pale) | Hb below 11 g/dL is anaemia; below 7 g/dL is severe | Anaemia raises the risk of death from PPH, heart failure and infection |
-| **Blood group and Rhesus** | Booking | Rh-negative (uncommon in Uganda, a few percent of women); also so that blood can be cross-matched quickly in an emergency | Anti-D prophylaxis; donors for the birth plan |
-| **HIV test** (rapid, dual HIV/syphilis kit) | Booking; retest if negative in the 3rd trimester, labour or postpartum | Reactive result | Start ART the same day. eMTCT |
-| **Syphilis** (RPR, TPHA or rapid test) | Booking (and 3rd trimester if high risk) | Reactive | Treat with benzathine penicillin to prevent congenital syphilis and stillbirth |
-| **HBsAg** | Booking | Positive | Assess eligibility for tenofovir; the baby gets the birth-dose vaccine within 24 hours |
-| **Urinalysis** | Every contact | Protein, glucose, nitrites/leucocytes | Pre-eclampsia, GDM, asymptomatic bacteriuria (which progresses to pyelonephritis and preterm labour) |
-| **Malaria RDT / blood slide** | If any fever or unexplained anaemia | Parasites | Treat malaria in pregnancy |
-| **Ultrasound** | At least one before 24 weeks (WHO), then as indicated | Dating, number of fetuses, viability, placental site, anomalies, growth, liquor | Accurate dating and early detection of twins or placenta praevia |
-| **RBS/FBS, 75 g OGTT** | 24–28 weeks if risk factors (BMI 30 or more, previous big baby, family history, previous GDM, glycosuria) | WHO 2013 GDM thresholds: fasting 5.1–6.9, 1 hour 10.0 or more, 2 hours 8.5–11.0 mmol/L | GDM causes macrosomia, shoulder dystocia and stillbirth |
-| **Sickling test / Hb electrophoresis** | If the family history or anaemia suggests it | HbSS | Sickle cell disease in pregnancy needs specialist care |
-| **Cervical cancer screening (VIA)** | Can be offered at postnatal visits; in pregnancy only if indicated | Acetowhite lesions | Uganda has a high burden of cervical cancer |
+The full test list (with timing, normal/abnormal results, what each changes and where it is available in Uganda) is in **Clinical workup, Step 4** above. In short: at booking do **Hb, group and Rh, HIV, syphilis, HBsAg, urinalysis and a scan before 24 weeks**; repeat **Hb at 26–28 and 34–36 weeks**; **retest HIV** in the 3rd trimester if negative; **urine and BP at every contact**; OGTT at 24–28 weeks if risk factors.
 
 ## Management
 
@@ -377,3 +498,56 @@ What happens when ANC is missed or poor, and what good ANC prevents:
 - **H**ypo-activity of the baby (reduced movements)
 
 **The 8 contacts: "12, 20, 26, 30, 34, 36, 38, 40".** Remember it as "one in the first, two in the second (20, 26), five in the third (30, 34, 36, 38, 40)".
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| ANC contacts (WHO 2016, Uganda 2018) | **At least 8**: before 12 weeks, then 20, 26, 30, 34, 36, 38, 40 weeks |
+| Dating scan | At least one ultrasound **before 24 weeks** |
+| IPTp-SP | **3 tablets** (1500 mg/75 mg), **DOT**, from **13 weeks**, **at least 4 weeks apart**, **3 or more doses** |
+| Routine iron–folic acid | 30–60 mg elemental iron (ferrous sulphate 200 mg ≈ 60 mg) + **folic acid 400 µg daily** |
+| Therapeutic iron (anaemia) | **120 mg elemental iron daily** + folic acid 400 µg; expect Hb rise of about 1 g/dL every 2–3 weeks |
+| Anaemia (WHO) | Hb **below 11 g/dL**; moderate 7.0–9.9; **severe below 7** |
+| Hb checks | Booking, **26–28 weeks**, **34–36 weeks** |
+| Td schedule | Td1 first contact; Td2 **4 weeks** later (and 2 weeks or more before delivery); Td3 6 months; Td4 and Td5 1 year apart |
+| Mebendazole | **500 mg single dose** after the 1st trimester (or albendazole 400 mg) |
+| Aspirin (high risk of pre-eclampsia) | **75 mg nightly** (75–150 mg) from **12 weeks**, start **before 20 weeks**, continue to about 36 weeks |
+| Calcium (low-intake populations) | **1.5–2 g elemental daily** in divided doses from 20 weeks |
+| Hypertension / severe | **140/90** / **160/110 mmHg** |
+| SFH | cm ≈ weeks **± 2 cm** from 24 weeks; discrepancy more than 3 cm → scan |
+| FHR | **110–160 bpm** |
+| GDM (WHO 2013, 75 g OGTT at 24–28 weeks) | Fasting **5.1**, 1 h **10.0**, 2 h **8.5 mmol/L** (any one value) |
+| Syphilis | Benzathine penicillin **2.4 MU IM**; single dose early, **weekly × 3** if late/unknown |
+| Anti-D after sensitising event | Within **72 hours** (Uganda vial usually 1500 IU / 300 µg IM) |
+| Malpresentation | Refer at **36 weeks** for ECV or planned CS |
+| Post-dates | Offer induction at **41 weeks** |
+
+### Classic exam traps
+
+- **"Give SP to every pregnant woman from 13 weeks."** → Not if she is **HIV-positive on cotrimoxazole**, allergic to sulfa, or in the **first trimester**. Cotrimoxazole already protects her, and two sulfa drugs together raise the risk of SJS.
+- **"She had IPTp, so the fever cannot be malaria."** → IPTp reduces but does not abolish malaria. **Every febrile pregnant woman needs an RDT or slide.**
+- **"A reactive rapid syphilis test may be an old infection, so wait for the RPR."** → In pregnancy, **treat the same day** unless adequate previous treatment is documented. Waiting loses the woman and the baby.
+- **"Glycosuria at ANC = gestational diabetes."** → The renal glucose threshold falls in pregnancy; one episode is often physiological. **Diagnose GDM only with an OGTT/FBS.**
+- **"Start aspirin when BP rises at 28 weeks."** → Aspirin works by improving placentation and must start **before 20 weeks** (ideally 12). Starting at 28 weeks does little.
+- **"Treat anaemia with iron and send her home."** → Always **look for the cause**: malaria, hookworm, HIV, sickle cell, bleeding, diet. Hb below 7 g/dL means **admit/refer**.
+- **"She booked at 30 weeks, so skip the booking tests."** → Late booking is a reason to do **everything at once**: all booking tests, SP if due, Td, iron, LLIN, and dating by scan (less accurate now, but still useful).
+- **"Do a VE at booking to assess the cervix."** → Pelvic examination is **not routine** at ANC; and **never** a digital VE in a woman who is bleeding until placenta praevia is excluded.
+
+### Questions seniors ask
+
+**What are the booking investigations, and why each?** Hb (anaemia), group and Rh (anti-D, blood planning), HIV (same-day ART), syphilis (prevent stillbirth and congenital syphilis), HBsAg (birth dose and tenofovir), urinalysis (protein, glucose, bacteriuria) and a scan before 24 weeks (dating, number, placenta).
+
+**Which three things do you check at every contact, whatever else happens?** **BP, urine protein and danger signs**, plus fetal growth (SFH) and FHR. Pre-eclampsia is silent until it is severe.
+
+**This woman's SFH is 27 cm at 32 weeks. What next?** It is more than 3 cm below dates: think **"Dates, Growth, Liquor"**. Check the dating, look for risk factors (BP, HIV, malaria, smoking), and arrange an **ultrasound** for biometry, liquor and (if available) Doppler.
+
+**When would you not give IPTp-SP today?** Gestation below 13 weeks, a dose less than 4 weeks ago, sulfa allergy, or HIV-positive on cotrimoxazole.
+
+**An HIV-positive woman on TLD books at 16 weeks. What extra do you do?** **Viral load now**, adherence and disclosure check, cotrimoxazole per national criteria (then no SP), HBsAg, creatinine if available, partner testing, and a facility-delivery and infant prophylaxis plan.
+
+**Who needs delivery at HC IV or hospital?** Previous CS or PPH, grand multipara, pre-eclampsia, twins, malpresentation at 36 weeks, age below 18 or above 35, height below 150 cm, severe anaemia, and medical disease (diabetes, heart disease, sickle cell, HIV with detectable VL).
+
+**What is in a birth plan?** Where, who comes with her, how she will travel (day and night), money, a blood donor, the mama kit, and knowing labour and danger signs.

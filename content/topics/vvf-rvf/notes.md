@@ -10,6 +10,9 @@ highYield:
   - "Repair principles are good exposure, wide mobilisation, tension-free watertight closure in separate layers and uninterrupted bladder drainage afterwards (WHO 2018: 7–10 days for a simple fistula)."
   - "Goh classification uses the distance of the distal edge from the external urinary meatus (type 1 more than 3.5 cm to type 4 less than 1.5 cm), size (a–c) and scarring (i–iii). Type 4 (urethral involvement) has the worst continence outcome."
   - "After repair: no intercourse for about 3 months, family planning, and deliver every future baby by elective CS in hospital."
+  - "Rule out the mimics first: palpate the bladder and check a post-void residual (over 150 mL = retention with overflow), and do a dye test before labelling any leakage a fistula."
+  - "Three-swab test: upper swab wet but not blue = ureterovaginal; middle swab blue = mid-vaginal VVF; upper swab blue = juxtacervical or vault; lowest swab only = urethral (or dye spill)."
+  - "Always document the distance from the external urethral meatus, the size, the scarring, the urethral length and a rectal examination, so the fistula can be Goh-graded and triaged as simple or complex."
 ---
 
 ## In a nutshell
@@ -188,6 +191,141 @@ A **decompressed bladder** does not stretch the defect, and urine is diverted aw
    - ignoring **foot drop** and **mood**
    - calling any post-delivery leakage a "VVF" without a dye test
 
+## Clinical workup
+
+Fistula is usually a **planned, dignified outpatient or ward workup**, not a resuscitation. The exceptions are the woman seen days after an obstructed labour or a difficult CS, who may be septic, dehydrated or have urine in her peritoneum. The workup answers five questions: **Is it really a fistula (or overflow, stress or urge leakage)? Which organ is leaking (bladder, urethra, ureter, uterus, rectum)? Where is it and how big and scarred is it (Goh)? Is it fresh enough for catheter drainage? Is she fit and supported for repair?**
+
+### Step 0: First 5 minutes
+
+1. **Greet her privately and with dignity.** Offer a pad and a seat she will not worry about wetting. Many women have been sent away or mocked; the first minute decides whether she tells you the whole story.
+2. **Vital signs**: temperature, pulse, BP, RR. **Fever, tachycardia or hypotension** in the first weeks after obstructed labour or CS: look for **puerperal sepsis, pelvic abscess, necrotic slough** or **urinary ascites** (bladder injury leaking into the peritoneum).
+3. **Abdomen in 30 seconds**: distension, peritonism (urine or faeces leaking into the peritoneum), a **tender flank** or **loin mass** (obstructed ureter or urinoma after CS or hysterectomy), a **palpable bladder** (retention with overflow, not a fistula).
+4. **Is she passing any urine at all?** **Anuria** after pelvic surgery = possible **bilateral ureteric injury** or AKI: urgent U&E, renal ultrasound and a urologist the same day.
+5. **Put a Foley catheter in now** (16–18 F, free drainage, never clamped) if the fistula is fresh (within about 4–6 weeks of delivery), or if the bladder is distended. This is both a diagnostic and a therapeutic step.
+6. **Screen mood and safety**: ask directly about hopelessness and thoughts of self-harm. Depression is common; suicidal thoughts are a red flag needing same-day support.
+
+> [!REDFLAG]
+> Fever, peritonism, loin pain or anuria after a CS or hysterectomy is a **surgical emergency** (bladder, bowel or ureteric injury). This is not a "fistula for the next camp": call the senior surgeon and urologist.
+
+### Step 1: Focused history
+
+| Ask | Why it changes the plan |
+|---|---|
+| **The index labour**: how long, where, how delivered (SVD, CS, destructive), baby alive? | Days of labour + stillbirth = **ischaemic** fistula; CS or hysterectomy = consider **iatrogenic** (bladder or ureter) |
+| **When did the leaking start?** | **Immediately** after surgery = direct surgical injury; **3–10 days** after delivery = ischaemic slough; **1–3 weeks** after CS/hysterectomy = think **ureter** |
+| **Continuous, or only on coughing, or with urgency?** | Continuous = fistula; effort only = stress incontinence; urgency = OAB or UTI |
+| **Does she still void normally?** | **Continuous leakage + normal voiding = ureterovaginal** fistula (the other ureter fills the bladder) |
+| **Faeces or flatus per vaginam?** Ask directly | **RVF**, or combined VVF/RVF; changes the operation (bowel prep, possible colostomy) |
+| **Periods; blood in the urine with periods** | Cyclical haematuria + amenorrhoea + continence = **vesicouterine** (Youssef); amenorrhoea may also be stress, malnutrition or Sheehan's |
+| **Weak leg, dragging the foot** | **Foot drop**: part of the injury complex; physiotherapy before surgery |
+| **Previous repair: when, where, how many** | Scarring, lower success with each attempt: **specialist centre** |
+| **Is she pregnant or breastfeeding? Contraceptive wishes** | Pregnancy test before surgery; plan contraception so she does not conceive before healing |
+| **Fluid intake** | Many women drink less to leak less: dehydration, concentrated urine, UTI, stones |
+| **Social**: husband, family, income, where she sleeps, transport | Reintegration and transport support; who will stay with her during the catheter period |
+| **HIV status, TB, chronic illness, nutrition** | Healing and fitness for anaesthesia |
+
+### Step 2: Focused examination
+
+**General**: nutrition (weight, MUAC), **pallor**, hydration, smell of urine, mood, and **gait** (look for **foot drop**: a high-stepping gait, weak ankle dorsiflexion).
+
+**Abdomen**: CS scar, **palpable bladder**, suprapubic tenderness, **renal angle tenderness** or a flank mass.
+
+**Vulva and perineum**: **ammoniacal dermatitis**, pooling urine, perineal body present or absent, any scar from a tear or episiotomy, a gaping anus.
+
+**Speculum and digital examination** (left lateral with a **Sims speculum**, or lithotomy; good light, a head torch; a chaperone):
+
+| Document | How | Why |
+|---|---|---|
+| **Site** | Juxtaurethral, mid-vaginal, juxtacervical, vault, cervical | Predicts route and difficulty |
+| **Distance of the distal edge from the external urethral meatus (EUM)** | Measure in cm with a marked sound or finger | Goh type 1 (>3.5 cm) to type 4 (<1.5 cm) |
+| **Size** | Largest diameter in cm (or fingertips) | Goh a (<1.5 cm), b (1.5–3 cm), c (>3 cm) |
+| **Scarring and vaginal length/capacity** | Rigid, fixed edges; vagina >6 cm or shortened | Goh i–iii; need for a Martius flap |
+| **Urethra** | Pass a **metal catheter or sound** up the urethra: is it intact and how long? Does the tip appear through the fistula? | Urethral involvement predicts **residual stress incontinence** |
+| **Edges** | Slough, granulation, infection, or clean epithelialised edges | Fresh + small = catheter trial; clean = ready for repair |
+| **Cervix** | Present, torn, ulcerated or a mass | A friable hard mass = **biopsy** (cancer) |
+| **Ureteric orifices / bladder mucosa** | Seen through a large fistula; prolapsing bladder mucosa | Near the trigone = ureteric catheters at repair |
+
+**Rectal examination** (never skip): an **RVF** (site, size, distance from the anal verge), **anal sphincter** tone and continuity, the perineal body.
+
+**Neurological**: ankle dorsiflexion power, sensation over the dorsum of the foot (common peroneal) and lateral leg.
+
+### Step 3: Bedside tests
+
+| Test | How | What it means |
+|---|---|---|
+| **Palpate / catheterise the bladder** | Catheter after she voids; residual volume | **Residual over 150 mL** = retention; dribbling may be **overflow**, not a fistula |
+| **Dye test** | **Dilute methylene blue (about 100–200 mL)** into the bladder through a Foley; watch with a speculum, or place a gauze in the vagina | **Blue fluid in the vagina = VVF**; note exactly where it appears |
+| **Three-swab (tampon) test** | See the worked example in Step 5 | Tells **VVF vs ureterovaginal vs urethrovaginal** |
+| **Double-dye test** (where phenazopyridine is available) | Oral phenazopyridine (renal urine turns orange) + methylene blue in the bladder | Orange swab = ureteric; blue = bladder; both = combined |
+| **Cough stress test** (full bladder, no fistula leak seen) | Ask her to cough while you watch the meatus | Leakage from the meatus with cough = **stress incontinence** |
+| **Urine dipstick** | Nitrites, leucocytes, blood | UTI (treat before surgery); blood = stones, schistosomiasis or vesicouterine fistula |
+| **Pregnancy test** | Urine hCG | Before surgery |
+| **HemoCue / Hb, RBS** | Finger-prick | Anaemia and diabetes affect healing |
+| **HIV and syphilis RDT** | If status unknown | Healing, counselling, ART |
+| **Rectal methylene blue or tampon test** (suspected small RVF) | Tampon in the vagina, dilute blue (or air with the vagina under water) instilled per rectum | Blue on the tampon, or bubbles = RVF |
+
+> [!PEARL]
+> **Always do a dye test before you call it a fistula.** Postpartum **overflow incontinence** from a distended, atonic bladder looks exactly like a small VVF and is cured by a catheter for a few days.
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Urine microscopy and culture** | Everyone before repair; symptoms of UTI | Pyuria, organism; **schistosome ova** in endemic areas | Treat per culture before surgery; **praziquantel 40 mg/kg** if ova. Culture at regional/national referral hospitals; microscopy at HC IV |
+| **FBC / Hb** | Everyone before repair | Anaemia (common: blood loss, poor diet) | Iron and folate; transfuse if very low. HC IV and above |
+| **Urea, creatinine, electrolytes** | Suspected ureteric injury, anuria, before repair at most centres | Raised creatinine | Suggests obstruction or bilateral injury: urgent imaging and urology. Regional/national referral |
+| **Renal and pelvic ultrasound** | Suspected ureteric fistula, loin pain, recurrent UTI | **Hydronephrosis**, **urinoma**, **bladder stones** | Ureteric injury = urology (stent or reimplantation); stones removed at repair. Available at most HC IVs and hospitals |
+| **IVU or CT urogram** | Suspected ureterovaginal fistula (wet-not-blue swab) | Contrast leak from a ureter; obstruction | Plans stenting or reimplantation. Regional/national referral (CT at national referral and some private centres) |
+| **Cystoscopy / examination under anaesthesia** | Complex, high or recurrent fistulae; vesicouterine; before or at repair | Relation to the **ureteric orifices** and trigone; stones; extent | Surgical route and ureteric catheters. Fistula centres and regional referral hospitals |
+| **Hysterography / cystography** | Suspected vesicouterine fistula | Contrast from uterus to bladder or vice versa | Abdominal repair. Referral centres |
+| **Biopsy** | Friable, ulcerated or hard mass; radiation history | Carcinoma | Changes everything: oncology, not fistula repair |
+| **Stool for ova / blood** | Combined RVF, anaemia | Hookworm, schistosomiasis | Deworming (**albendazole 400 mg**) before surgery |
+
+### Step 5: Putting it together
+
+**Model one-line summary**: "A 22-year-old para 1+0 with no living child, 5 weeks after a 3-day labour ending in a CS and a fresh stillbirth, with **continuous urinary leakage since day 6**, **no normal voiding**, **right foot drop** and ammoniacal dermatitis; a **positive dye test** and a **2 cm mid-vaginal VVF 3 cm from the EUM with mild scarring (Goh 2bi)**: an ischaemic VVF after obstructed labour."
+
+**Problem list**:
+1. Ischaemic VVF, Goh 2bi (still within the 4–6-week catheter window)
+2. Ammoniacal dermatitis
+3. Right foot drop (common peroneal / lumbosacral injury)
+4. Anaemia (Hb 9.2 g/dL)
+5. Bereavement, low mood, rejection by her husband
+
+**Working diagnosis and plan**: ischaemic VVF → Foley on free drainage, fluids 4–5 L/day, sitz baths and barrier cream, iron and folate, physiotherapy, counselling; re-examine in 1–2 weeks; refer to the fistula centre if not closed by 4–6 weeks.
+
+#### Worked example 1: the three-swab test (Moir)
+
+**How to do it**:
+1. Empty the bladder with a Foley catheter.
+2. Place **three swabs (or gauze rolls) in the vagina**, one above the other: **upper** (in the vault, near the cervix), **middle**, and **lower** (just inside the introitus).
+3. Instil **about 100–200 mL of dilute methylene blue** into the bladder through the catheter and **clamp it** (or remove it).
+4. Ask her to walk around for about **10–15 minutes**.
+5. Remove the swabs **in order, from the lowest**, and lay them out.
+
+**Interpretation**:
+
+| Finding | Meaning |
+|---|---|
+| **Upper swab wet but NOT blue** (lower swabs dry) | **Ureterovaginal fistula** (clear renal urine bypasses the bladder) |
+| **Upper swab blue** | High VVF: **juxtacervical / vault or vesicocervical** |
+| **Middle swab blue** | **Mid-vaginal VVF** |
+| **Lowest swab blue only** | **Urethrovaginal** fistula, **or** dye leaking from the meatus and tracking back (a false positive): recheck with a speculum |
+| **All swabs dry** after walking and coughing | No bladder fistula: think **stress, urge or overflow** incontinence (or a ureteric fistula that did not leak during the test; repeat if the story is convincing) |
+| **Blue and clear urine both** | **Combined** VVF and ureteric fistula |
+
+#### Worked example 2: leaking after a CS, but she voids
+
+A 30-year-old P3 had a repeat emergency CS 2 weeks ago. She now leaks continuously **but also passes normal amounts of urine**. Mild right loin ache; temperature 37.4 °C.
+- **Speculum**: urine pooling in the vault; no hole seen.
+- **Three-swab test**: upper swab **wet, not blue**; middle and lower swabs dry.
+- **Renal ultrasound**: **right hydronephrosis**.
+
+**Interpretation**: **right ureterovaginal fistula** (surgical ureteric injury at CS). **Plan**: U&E, CT urogram or IVU where available, and **urology referral** for a ureteric stent (retrograde or antegrade) or reimplantation. A Foley catheter alone will not heal it.
+
+> [!EXAM]
+> "Wet but not blue" is the classic viva answer for a **ureterovaginal** fistula, and "continuous leakage with normal voiding" is the classic history.
+
 ## Differential diagnosis
 
 | Condition | Distinguishing features | Key investigation |
@@ -203,20 +341,13 @@ A **decompressed bladder** does not stretch the defect, and urine is diverted aw
 
 ## Investigations
 
+The fistula-specific tests are summarised here. Blood tests, urine culture, imaging, cystoscopy and biopsy (with Ugandan availability) are in **Step 4 of the Clinical workup** above.
+
 | Test | What you are looking for | Why |
 |---|---|---|
 | **Dye test** (dilute methylene blue, about 100–200 mL, instilled into the bladder via a catheter, with a swab or gauze in the vagina) | **Blue in the vagina = VVF.** Note where it leaks from | Confirms and localises the fistula; separates it from other leakage |
 | **Three-swab (tampon) test** | Upper swab **wet but not blue** = ureterovaginal; blue = VVF | Detects ureteric fistula |
 | **Double-dye test** (oral phenazopyridine turns renal urine orange; methylene blue in the bladder) | Orange = ureteric; blue = bladder; both = combined | Where available |
-| **Urinalysis and culture** | UTI | Treat before surgery |
-| **Hb / FBC** | Anaemia | Optimise before surgery |
-| **Urea, creatinine, electrolytes** | Renal impairment (ureteric obstruction) | Safety; ureteric injury |
-| **HIV, RBS** | Comorbidity | Healing, counselling |
-| **Renal / pelvic ultrasound** | Hydronephrosis, bladder stones, urinoma | Ureteric involvement |
-| **IVU or CT urography** | Ureteric fistula or obstruction | Before repair of a suspected ureteric injury |
-| **Cystoscopy / EUA** | Relationship to the ureteric orifices, stones, extent | Surgical planning (often done at the time of repair) |
-| **Pregnancy test** | | Before surgery |
-| **Biopsy** (if suspicious) | Malignancy | Excludes cancer-related fistula |
 
 ## Management
 
@@ -402,3 +533,46 @@ A **decompressed bladder** does not stretch the defect, and urine is diverted aw
 - **Repair: "TEAR-proof".** **T**ension-free, **E**xposure, **A**dequate mobilisation, **R**eal watertight test, **P**roper (separate, non-overlapping) layers, **R**ich blood supply (Martius), **O**utflow uninterrupted (catheter), **O**ral fluids 4–5 L, **F**ollow-up and family planning.
 - **Goh: "Site–Size–Scar"**: numbers 1–4 for site (4 = urethra, worst), letters a–c for size, Roman numerals i–iii for scarring.
 - **"Catheter after every long labour"**: the cheapest fistula prevention in the world.
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Slough separates (ischaemic fistula leaks) | **3–10 days** after delivery |
+| Catheter after prolonged or obstructed labour (prevention) | **7–14 days**, high fluids |
+| Fresh fistula: continuous catheter drainage | **Up to 4–6 weeks**, Foley **16–18 F**, never clamped |
+| Oral fluids with a catheter (fresh fistula and after repair) | About **4–5 L/day** |
+| Dye test volume | About **100–200 mL** dilute methylene blue |
+| Goh site (distal edge to EUM) | Type 1 **>3.5 cm**; 2 **2.5–3.5 cm**; 3 **1.5–<2.5 cm**; 4 **<1.5 cm** |
+| Goh size | a **<1.5 cm**; b **1.5–3 cm**; c **>3 cm** |
+| Catheter after simple repair | **7–10 days** (WHO 2018); complex or urethral about **14 days** |
+| Traditional timing of delayed repair | About **3 months** (but tissue quality, not the calendar, decides) |
+| Closure rates | About **80–90%**; Ugandan cohort closure with continence about **81%** |
+| No intercourse after repair | About **3 months** |
+| Post-void residual suggesting retention | **Over 150 mL** |
+| Surgical prophylaxis | **Ceftriaxone 1 g IV** (or cefazolin 2 g IV) single dose at induction |
+| Praziquantel (schistosomiasis) | **40 mg/kg** orally, single dose |
+| Future deliveries | **Elective CS** in hospital |
+
+### Classic exam traps
+
+- **"Leaking since delivery = VVF."** Not until a **dye test** is positive; overflow from retention and stress incontinence look similar.
+- **A negative dye test excludes a fistula.** No: continuous leakage with a negative (clear) test is a **ureterovaginal** fistula until proven otherwise.
+- **"Send her home and come back in 3 months."** Wrong for a fresh fistula: **catheterise now**; a small fresh fistula may close.
+- **Clamping the catheter** or "bladder training" after repair. The catheter must drain **continuously**; a blocked catheter blows the repair.
+- **Forgetting the rectal examination** and missing an RVF or sphincter injury.
+- **Labelling a hard, friable, bleeding "fistula" as obstetric.** Biopsy: cervical cancer or radiation.
+- **Closed = cured.** Many women still have **stress incontinence** (urethral involvement), foot drop, stenosis, infertility and social harm.
+- **Future vaginal delivery after repair.** No: **elective CS**.
+
+### Questions seniors ask
+
+- **How do you do and read a three-swab test?** Three vaginal swabs, methylene blue in the bladder, walk for 10–15 minutes, remove from below. Upper wet-not-blue = ureteric; middle blue = mid-vaginal VVF; upper blue = juxtacervical/vault; lowest only = urethral (or spill).
+- **What do you measure on speculum examination?** Distance of the distal edge from the EUM, size, scarring and vaginal length, urethral length, edges (slough vs clean), plus a rectal exam: this gives the **Goh** grade.
+- **Why does timing of onset matter?** Immediate = surgical injury; 3–10 days = ischaemic slough; 1–3 weeks after CS/hysterectomy = ureter.
+- **What would make you refer to a specialist fistula centre?** A complex fistula: large, urethral (Goh 4), circumferential, scarred, previous failed repair, combined VVF/RVF, ureteric or vesicouterine.
+- **What is Youssef syndrome?** Vesicouterine fistula after CS: cyclical haematuria (menouria), amenorrhoea, continence.
+- **What is the most important nursing task after repair?** Keeping the catheter draining **every hour**, with 4–5 L fluids and a strict input–output chart.
+- **What is the cheapest fistula prevention?** Timely CS, and a catheter for 7–14 days after every prolonged or obstructed labour.

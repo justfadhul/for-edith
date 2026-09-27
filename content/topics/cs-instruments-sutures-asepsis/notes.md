@@ -10,6 +10,10 @@ highYield:
   - WHO surgical hand preparation takes 2–5 minutes with antiseptic soap (chlorhexidine 4% or povidone-iodine 7.5%), or an alcohol-based surgical rub. Remove jewellery, keep nails short, no brushes on the skin, and keep hands above the elbows.
   - Skin prep is chlorhexidine-alcohol (WHO first choice) or povidone-iodine, applied from the incision outwards and allowed to DRY (fire risk with diathermy). Do not shave; clip if needed.
   - Count swabs, needles and instruments aloud (scrub nurse and circulator) before starting, before closing the uterus, before closing the peritoneum or sheath, and at skin closure. Never close on an incorrect count.
+  - "Check every sterile pack before opening. The indicator tape has changed colour, the pack is dry, intact and in date, and it has not been dropped. Wet, torn or unchanged means NOT sterile."
+  - "At the WHO Time out, confirm the patient, procedure and CS category, and that the antibiotic was given within 60 minutes before incision. Sign out confirms counts, specimens and concerns."
+  - "Incorrect count means stop closing, recount, explore the cavity, search the floor and bins, and X-ray (radio-opaque markers) before she leaves theatre if still missing. Document it."
+  - "Wound review. Pus or spreading redness on day 4–7 means SSI (swab before antibiotics, open and drain). Pink serous discharge on day 5–10 warns of fascial dehiscence (burst abdomen), which needs re-closure in theatre."
 ---
 
 ## In a nutshell
@@ -303,6 +307,118 @@ The "acumen" in theatre skills is **judgement**: noticing breaches, choosing mat
 4. **Anticipating as an assistant**: after the sheath is opened, the surgeon will want **Kocher's**. Before the uterine incision, a **Doyen** and a **fresh blade**. After delivery, **Green-Armytage** clamps and a **#1 round-bodied suture**. Before closing, **the count**.
 5. **Common student mistakes**: scrubbing with rings on; touching the mask or cap after scrubbing; letting hands drop below the waist; folding arms under the axillae; touching the outside of the gown while donning it; reaching across the field; cutting sutures with Metzenbaum; cutting sutures too short (knots unravel) or too long (irritation). Cut **3–5 mm** tails for braided and **5–10 mm** for monofilament.
 
+## Clinical workup
+
+For a theatre skill, the "workup" is the set of checks you do **before you scrub** (on the patient, the equipment and yourself), the checks **during the case** that keep it safe, and the **post-operative wound review**. A student who does these checks well is genuinely useful in theatre.
+
+### Step 0: First 5 minutes
+
+**When you are called to assist at an emergency CS:**
+
+1. **Find out the category and the indication** ("Category 1 for cord prolapse"). In a Category 1 case, work fast but **do not skip the scrub, the prep drying time or the count**. These take minutes and prevent disasters.
+2. **Check yourself**: no open cuts or skin infection on your hands, no respiratory infection; cap, mask, **eye protection**, apron, theatre shoes; jewellery off.
+3. **Look at the patient on the table**: is she awake and talking (spinal) or being intubated (GA)? Pulse and BP on the monitor, **15° left tilt**, IV lines running, **catheter draining**, diathermy plate on.
+4. **Join the WHO Sign in** (before anaesthesia): identity, procedure, **consent**, allergies, airway or aspiration risk, **expected blood loss >500 mL** with two IV lines and blood available.
+5. **Open your gown and glove packs** (or ask the circulator) and go to scrub.
+
+**When you are called to a post-op woman with a wound problem**: check pulse, BP and temperature first. A **pulse >100, fever or low BP** means you may be dealing with sepsis or bleeding, not just a "wound issue". Then look at the dressing: **fresh blood** (haematoma or bleeding), **pus** (SSI) or **pink serous fluid** on day 5–10 (**warning sign of fascial dehiscence**, a burst abdomen).
+
+### Step 1: Focused history
+
+Ask these before you scrub (from the notes, the patient and the anaesthetist). Each answer changes something you do.
+
+- [ ] **Allergies: latex, iodine, chlorhexidine, penicillin.** *Why:* glove choice, skin-prep choice and antibiotic choice. A latex allergy needs latex-free gloves and catheter for the whole team.
+- [ ] **HIV and hepatitis B status** (if known). *Why:* double gloving and extra sharps discipline, although standard precautions apply to every patient.
+- [ ] **Labour, ruptured membranes, number of VEs, fever.** *Why:* a contaminated field needs **vaginal povidone-iodine cleansing** and possibly **therapeutic** rather than prophylactic antibiotics, and favours monofilament sutures.
+- [ ] **Was the antibiotic given, and when?** *Why:* it must be given **within 60 minutes before the skin incision**. This is confirmed at the Time out.
+- [ ] **BMI, diabetes, steroids, anaemia, HIV with a low CD4.** *Why:* poor wound healing, so consider **PDS for the sheath** and **closing fat >2 cm**, and check the glucose.
+- [ ] **Previous abdominal surgery.** *Why:* adhesions; the surgeon may need Metzenbaum scissors, extra retractors or a midline incision.
+- [ ] **Was the skin shaved on the ward?** *Why:* shaving causes micro-abrasions and more SSI. Tell the surgeon, and teach the ward to **clip instead**.
+- [ ] **Any sutures the family bought** (common in Ugandan public hospitals). *Why:* check what is actually available (#1 Vicryl? chromic?) **before** the incision, not at closure.
+
+**Post-op wound review questions**: wound pain getting worse after day 2 (normal pain gets better); discharge and its colour; fever or rigors; when the dressing was last changed; diabetes or anaemia; whether she is eating and mobilising.
+
+### Step 2: Focused examination
+
+**Examine the patient's skin site:**
+- Hair (clip only if it gets in the way), **dirty umbilicus** (clean first), rash, skin infection or intertrigo in the skin fold, shaving abrasions, old scars (type and site).
+
+**Examine the equipment (this is the "examination" a scrub assistant must be good at):**
+
+| Item | What to check | If abnormal |
+|---|---|---|
+| **Instrument and drape packs** | **Indicator tape changed colour**, pack **dry, intact, in date**, labelled with the date and "sterilised by" | Wet, torn, dropped or unchanged tape: **not sterile**. Replace it |
+| **Glove and gown packs** | Intact, dry, in date, correct sizes | Replace |
+| **The CS set on the trolley** | All expected instruments present: scalpel handles and blades, toothed and non-toothed dissecting forceps, Mayo (curved and straight) and Metzenbaum scissors, artery forceps, **Kocher's**, **Allis**, **Babcock**, **Green-Armytage**, sponge-holders, towel clips, **needle holder**, **Doyen**, Langenbeck, suction | Ask for missing items **before** the incision |
+| **Sutures** | Read each packet: **material, gauge, needle type, length, expiry**. #1 round-bodied for uterus and sheath; 3-0 on a cutting needle for skin | Missing #1 suture = the operation cannot be closed safely |
+| **Suction** | Working, tubing connected, Yankauer and Poole available | Fix before incision; you will need it for liquor and blood |
+| **Diathermy** | Plate on **dry, hairless skin** (thigh) away from metal; pencil working | Poor plate contact causes burns |
+| **Swabs** | **Radio-opaque**, counted, with tapes on packs | Never use non-radio-opaque gauze inside the abdomen |
+
+**Examine yourself**: gloves for holes, sleeves and cuffs covered, no hair outside the cap.
+
+**Post-op wound examination (day 2–7):**
+
+| Finding | Interpretation |
+|---|---|
+| Clean, dry, edges together, mild tenderness | Normal healing |
+| Redness **<1–2 cm** around sutures only | Suture reaction: watch |
+| **Spreading redness, warmth, induration, increasing pain** | Cellulitis or early SSI |
+| **Pus** from the wound or a suture | **Superficial SSI** or stitch abscess |
+| **Fluctuant swelling** under the wound | Haematoma or abscess: may need opening |
+| **Pink ("salmon") serous discharge**, day 5–10 | **Warning of fascial dehiscence (burst abdomen)** |
+| Gaping wound with bowel or omentum visible | **Burst abdomen: emergency** |
+| Crepitus, dusky skin, severe pain, toxic patient | **Necrotising fasciitis: emergency surgical debridement** |
+
+### Step 3: Bedside tests
+
+Before and during the case (quick checks you can do in theatre):
+- **Chemical indicator tape** on every pack and, where used, an **internal indicator strip** inside the pack: has it changed colour?
+- **Glove integrity**: after any sharp contact, look for holes; with **double gloving**, a coloured inner glove makes a perforation visible.
+- **Skin-prep dry check**: alcohol prep **dry to touch and no pooling** under the patient before diathermy (about 2–3 minutes).
+- **Baseline count** of swabs, needles, blades and instruments, written on the board.
+- **HemoCue Hb** and **random blood sugar** (poor glucose control and anaemia increase SSI).
+- **Pregnancy/other patients**: urine dipstick, malaria RDT if febrile.
+
+After the operation (wound problems):
+- **Temperature, pulse, BP** trend.
+- **Probe the wound gently** with a sterile cotton-tipped swab after removing 1–2 sutures: does pus drain, is the **sheath intact**?
+- **RBS** in a diabetic or a woman with a slow-healing wound.
+- **Malaria RDT** for any fever.
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Hb / FBC** (HemoCue at HC IV; FBC at hospital) | Before surgery; any wound problem | Anaemia (Hb <11 g/dL; severe <7); raised WBC with infection | Anaemia delays healing: iron or transfusion; WBC supports infection |
+| **Random blood sugar** (all levels) | Diabetes, obesity, steroids, poor healing | High glucose | Glucose control reduces SSI (WHO SSI guideline) |
+| **HIV and HBsAg** (rapid tests at HC III/IV and above) | Unknown status | Positive | Double gloving; ART; also informs the needle-stick plan if a sharps injury happens |
+| **Pus swab for culture and sensitivity** (microbiology at RRH/national referral; rarely at HC IV) | Any discharging wound, **taken before antibiotics** | Often **ESBL *Klebsiella*/*E. coli*** (ceftriaxone-resistant) or **MRSA** | Targeted antibiotics; IPC alert if several cases |
+| **Blood cultures** (RRH/national) | Fever with systemic signs | Bacteraemia | IV antibiotics per sensitivity |
+| **Ultrasound of the wound and pelvis** (many hospitals) | Fluctuant swelling, persistent fever | Subcutaneous or **subsheath collection**, pelvic abscess | Drainage (bedside or in theatre) |
+| **Plain abdominal X-ray** (hospitals with radiology; sometimes a C-arm in theatre) | **Incorrect count** after a full search; late mass, sinus or fever after surgery | Radio-opaque marker of a retained swab | Re-explore; prevents a gossypiboma |
+| **Biological indicator (spore test)** of the autoclave (national/regional sterilisation units, where available) | Routine periodic check; any cluster of SSIs | Growth = sterilisation failure | Stop using the autoclave, recall packs, repair |
+| **Theatre and autoclave logs** (every facility) | SSI cluster | Missing cycles, short times, unchanged indicators | Fix the process; retrain staff |
+
+> [!UGANDA]
+> Culture and sensitivity is not available at most HC IVs, and results take 3–5 days even at referral hospitals. So **take the swab before starting antibiotics**, start a sensible empirical regimen for a spreading or systemic infection, and **change to the culture result**. Local SSI isolates are often ceftriaxone-resistant, so "more ceftriaxone" is often the wrong answer.
+
+### Step 5: Putting it together
+
+**Model theatre-readiness summary (what you say at the Time out as the assistant):** "Mrs N., 28, emergency LSCS Category 2 for obstructed labour. **Ceftriaxone 2 g and metronidazole 500 mg given 20 minutes ago.** No allergies. HIV negative. Packs checked, indicators changed, **baseline count correct and on the board**. Chlorhexidine-alcohol prep **dry**. #1 Vicryl on a round-bodied needle available for the uterus and sheath. Double gloved."
+
+**Worked example 1: an incorrect count.** At sheath closure the scrub nurse says, "We have 19 swabs; the board says 20." *Interpretation:* one swab is unaccounted for, and it may be in the abdomen. *What to do:* **stop closing**; the nurse **recounts**; the surgeon **explores** the paracolic gutters, the pouch of Douglas, under the uterus and the subhepatic space; the circulator searches the **floor, bins, drapes and linen**. Here the swab is found in a bucket under the table and the count is now 20 = 20. **Document**, then close. If it had not been found: **X-ray before she leaves theatre** (radio-opaque marker) and an incident report.
+
+**Worked example 2: reading a wound on day 5.** A woman on day 5 after an emergency CS for prolonged labour has a temperature of **38.2 °C**, pulse 104, and a Pfannenstiel wound that is red and indurated for 3 cm on each side, with pus at the right end. Nylon interrupted skin sutures were used. *Interpretation:* a **superficial incisional SSI** with systemic signs. *Plan:* **pus swab for culture**; **remove the sutures over the collection** to drain it; **probe** to check the sheath is intact (if the sheath has opened, it is a deep SSI or dehiscence and she needs theatre); daily dressing; empirical antibiotics because she is febrile and tachycardic (per the unit protocol, reviewed with the culture); check **Hb and RBS**; and look for other causes of fever (uterus, urine, breasts, chest, calves, **malaria**). Three days later the culture grows **ESBL *Klebsiella* resistant to ceftriaxone**: change to an antibiotic it is sensitive to, and tell the **IPC focal person** if other women have similar infections.
+
+**The post-procedure checklist (end of every case):**
+1. **Final count correct** and recorded (Sign out).
+2. **Specimens labelled** (e.g. tubes from a tubal ligation, if sent).
+3. **Sharps in the safety box** by the user; instruments into **0.5% chlorine for 10 minutes**.
+4. **Dressing** on, with a plan for removing it at 24–48 h.
+5. **Operation note** records the sutures used for each layer and **when skin sutures come out** (day 5 Pfannenstiel; day 7–10 midline).
+6. Any **sharps injury** reported and managed (PEP within 72 h, ideally within 2 h).
+
 ## Management
 
 Here "management" means handling the problems that arise from instruments, sutures and asepsis.
@@ -417,3 +533,55 @@ Here "management" means handling the problems that arise from instruments, sutur
 - **Scrub order "Fingers first, elbows last, hands up, never back."**
 - **Counts at "U-P-S"**: **U**terus, **P**eritoneum/sheath, **S**kin (plus the baseline).
 - **Gown sterile zone "Chest to table, sleeves to elbow"**.
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Surgical scrub with antiseptic soap | **2–5 min** (chlorhexidine 4% or povidone-iodine 7.5%); longer gives no benefit |
+| Alcohol surgical hand rub | Keep hands wet for the product's contact time (typically **about 1.5–3 min**); plain soap wash first |
+| Scrub area | Fingers to about **5 cm above the elbow**; hands above elbows |
+| Skin prep | **2% chlorhexidine in 70% alcohol** (WHO first choice), about **30 s** of friction; or 10% povidone-iodine |
+| Prep drying time | About **2–3 min** before diathermy (fire risk) |
+| Prep area | **Xiphisternum to mid-thigh**, flank to flank |
+| Distance of unscrubbed staff from the field | At least **30 cm** |
+| Antibiotic prophylaxis | Within **60 min before incision** (confirmed at Time out) |
+| Counts | **Baseline**, before closing the **uterus**, before closing the **peritoneum/sheath**, at **skin** |
+| Uterus and sheath suture | **#1** (Vicryl or chromic catgut for uterus; Vicryl or PDS for sheath) |
+| Subcutaneous / peritoneum | **2-0**; close fat only if **>2 cm** |
+| Skin | **3-0** subcuticular (Monocryl/Vicryl) or 2-0/3-0 nylon interrupted |
+| Sheath bites | About **1 cm from the edge, 1 cm apart** |
+| Vicryl strength | About **75% at 2 weeks, 50% at 3 weeks**; absorbed **56–70 days** |
+| PDS | Useful strength about **6 weeks**; absorbed about **6 months** |
+| Plain catgut / chromic catgut strength | About **7–10 days** / about **2–3 weeks** |
+| Knot throws | About **5–6** for nylon, **3–4** for braided |
+| Suture tails | **3–5 mm** braided; **5–10 mm** monofilament |
+| Skin suture removal | **Day 5** Pfannenstiel; **day 7–10** midline |
+| Catheter after bladder repair | **7–14 days** |
+| Instrument decontamination | **0.5% chlorine for 10 min** |
+| Autoclave | **121 °C, 106 kPa, 20 min unwrapped / 30 min wrapped** |
+| Chlorhexidine anaphylaxis | **Adrenaline 0.5 mg IM** (0.5 mL of 1:1000) |
+| Sharps injury PEP | TLD for **28 days**, ideally within **2 h**, never after **72 h** |
+
+### Classic exam traps
+
+- **"Cut the suture with the Metzenbaum."** No. Metzenbaum is for delicate dissection; **straight Mayo** scissors cut sutures.
+- **"Use Allis to hold the fallopian tube."** No. Allis has teeth; use the **atraumatic Babcock** for tubular structures.
+- **"2-0 is thicker than 1."** No. More zeros means **thinner**: #1 > 0 > 2-0 > 3-0.
+- **"Shave the abdomen the night before."** No. Shaving increases SSI; **clip** only if needed, just before surgery.
+- **"A 10-minute scrub with a brush is best."** No. **2–5 minutes**, no brush on the skin; longer damages skin without benefit.
+- **"Start diathermy straight after the alcohol prep."** No. Wait for it to **dry** (2–3 min): wet or pooled alcohol burns.
+- **"Nudge the drape towards the incision to adjust it."** No. A drape can only be moved **outwards**; otherwise discard it.
+- **"Use silk or nylon to repair the bladder."** No. Non-absorbable sutures in the bladder cause **stones**; use absorbable 2-0/3-0 in two layers.
+
+### Questions seniors ask
+
+1. **What do you check on a sterile pack before opening it?** The **indicator tape has changed colour**, the pack is **dry and intact**, it is **in date**, and it has not been dropped.
+2. **The count is one swab short at sheath closure. What happens?** Stop closure, recount, the surgeon explores the cavity, the circulator searches the floor and bins; if still missing, **X-ray** before she leaves theatre, and document.
+3. **Why a round-bodied needle for the uterus?** It **spreads** the fibres rather than cutting, leaving a small hole that seals, with less bleeding.
+4. **Why PDS rather than Vicryl for the sheath in an obese or infected woman?** It is a **monofilament** (less infection) that keeps strength for about **6 weeks**, while fascia heals slowly.
+5. **Pink serous discharge from a midline wound on day 7. What worries you?** **Fascial dehiscence** (impending burst abdomen). Examine, cover with moist sterile packs if it gapes, and call the surgeon for **re-closure in theatre**.
+6. **What are the three pauses of the WHO Surgical Safety Checklist?** **Sign in** (before anaesthesia), **Time out** (before incision: team, patient, procedure, category, antibiotic given), **Sign out** (before leaving theatre: counts, specimens, concerns).
+7. **You puncture your glove on the suture needle. What do you do?** Say so, step back and have the **gloves changed**. If the skin was pierced, hand over or finish the critical step safely, then do **first aid** (let it bleed, wash with soap and water), **report**, and get assessed for **PEP within hours** (ideally within 2 h).

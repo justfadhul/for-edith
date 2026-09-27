@@ -3,11 +3,15 @@ title: "Vaginal Delivery: Equipment, Sutures & Simulated Delivery"
 summary: Know the delivery pack and suture materials by name and purpose, conduct a clean, controlled spontaneous vaginal delivery with AMTSL and newborn care, perform an episiotomy only when indicated, and classify and repair perineal tears correctly, recognising and referring obstetric anal sphincter injuries (third- and fourth-degree tears).
 highYield:
   - "Standard delivery pack - 2 artery forceps, cord scissors, episiotomy scissors, needle holder, toothed dissecting forceps, sponge-holding forceps, gallipot, kidney dish, cord ties/clamps, gauze and drapes."
+  - "Before delivery - confirm second stage, FHR, maternal pulse/BP, risk factors (big baby, previous CS, twins, meconium), oxytocin 10 IU drawn up and bag-and-mask tested."
   - "Controlled delivery of the head (flex, then let it extend slowly between contractions while she pants) is the best way to prevent perineal tears."
+  - "Palpate for a second twin, then oxytocin 10 IU IM within 1 minute; delay cord clamping 1-3 minutes in a vigorous baby."
+  - "Fourth-stage sweep - uterine tone, measured blood loss, placenta and membranes (3 cord vessels), perineum/vagina/cervix, rectal exam, vital signs, bladder, baby; tone and bleeding every 15 min for 2 h."
+  - "Firm uterus + continuing bleeding = trauma or retained tissue - look in good light; a vessel running to a torn membrane edge means a retained succenturiate lobe."
   - "Episiotomy is NOT routine (WHO). If needed - mediolateral, about 60 degrees from the midline at crowning, after infiltrating 1% lignocaine (aspirate first; max about 3 mg/kg without adrenaline)."
   - "Tear classification (RCOG) - 1st skin/vaginal epithelium; 2nd perineal muscles; 3a less than 50% of external anal sphincter (EAS); 3b more than 50% EAS; 3c EAS and internal anal sphincter; 4th sphincter complex plus anorectal mucosa."
   - "Always do a rectal examination before and after any perineal repair - to detect sphincter injury and to check no suture went through the rectal mucosa."
-  - "Second-degree repair - rapidly absorbable polyglactin (e.g. Vicryl Rapide 2-0), continuous non-locking for vaginal mucosa and muscles, subcuticular skin."
+  - "Second-degree repair - rapidly absorbable polyglactin (e.g. Vicryl Rapide 2-0), continuous non-locking for vaginal mucosa and muscles, subcuticular skin; first stitch 1 cm above the apex."
   - "OASI - repair in theatre with good light and anaesthesia by an experienced doctor; PDS 3-0 (or Vicryl 2-0/3-0) for sphincters; broad-spectrum antibiotics and laxatives; follow-up for incontinence."
   - "Count swabs, needles and instruments before and after; a retained swab is a preventable cause of sepsis and fistula."
 ---
@@ -284,6 +288,115 @@ Principles: **good light, adequate analgesia, an assistant if possible, identify
 
 Avoid excessive downward traction on the head (brachial plexus injury, Erb's palsy) and **never fundal pressure** (worsens impaction, risks uterine rupture).
 
+## Clinical workup
+
+For a delivery, the workup has two halves: the **pre-delivery assessment** (is this safe for a normal delivery, by me, here?) and the **immediate post-delivery checks** (the "fourth-stage sweep": uterus, placenta, genital tract, blood loss, mother's vital signs, baby). Both are done in the same order every time, so that nothing is forgotten when the ward is busy.
+
+### Step 0: First 5 minutes
+
+**When you are called "she is pushing":**
+
+1. **Confirm the second stage**: urge to push, anal pouting, head visible, or full dilatation on VE.
+2. **FHR now** (for 1 minute after a contraction): 110–160 bpm. Abnormal → call a senior and prepare for assisted delivery and resuscitation.
+3. **Maternal pulse and BP**: BP ≥160/110 → no ergometrine, treat severe hypertension; pulse ≥120 → look for bleeding, sepsis or exhaustion.
+4. **Quick risk scan of the chart**: previous CS, big baby, prolonged second stage, meconium, twins, anaemia, HIV, pre-eclampsia. Any one of these → a senior should be present or near.
+5. **Set up**: gloves and PPE, delivery pack open, **oxytocin 10 IU drawn up**, newborn corner ready with **bag and mask tested**, clock visible, someone to call for help.
+
+**Straight after the birth (the next 5 minutes):**
+
+1. Baby: dry, assess breathing; if not breathing → Golden Minute (see the neonatal resuscitation topic).
+2. **Palpate the abdomen for a second baby**, then **oxytocin 10 IU IM** within 1 minute.
+3. Watch the blood loss from the moment the baby is born (use a **calibrated drape** where available).
+
+> [!REDFLAG]
+> Stop and call for help if: the head delivers and retracts (**turtle sign**: shoulder dystocia), there is a **gush of bright blood with a soft uterus** (PPH), the cord **snaps** during CCT, a **mass appears at the introitus with shock** after CCT (uterine inversion), or the mother collapses.
+
+### Step 1: Focused history
+
+**Before delivery** (a 1-minute checklist; each answer changes what you prepare):
+
+- [ ] **Parity, previous deliveries and perineal trauma** → previous OASI or fistula repair: a senior should decide the mode of delivery and be present.
+- [ ] **Previous CS** → watch for scar rupture; delivery where theatre is available.
+- [ ] **Estimated fetal weight, diabetes, prolonged second stage** → prepare for **shoulder dystocia** (HELPERR, extra help, a senior in the room).
+- [ ] **Twins, or uncertain number** → do not give oxytocin until a second baby is excluded.
+- [ ] **Meconium, abnormal FHR, preterm** → skilled resuscitator at the birth.
+- [ ] **HIV status** → avoid unnecessary episiotomy; safe sharps handling; infant prophylaxis ready.
+- [ ] **Hypertension/pre-eclampsia, cardiac disease** → no ergometrine.
+- [ ] **Anaemia, previous PPH, grand multiparity** → IV line in place, blood grouped, active PPH prevention.
+- [ ] **FGM**, allergies (lignocaine, iodine, latex), bleeding disorders.
+
+**After delivery**: ask about **pain** (severe perineal or rectal pain = haematoma), **dizziness** (blood loss), **urge to pass urine** (retention), and feeling of **anal urgency or loss of control** (missed OASI).
+
+### Step 2: Focused examination
+
+**Pre-delivery assessment** (confirm that a normal delivery is appropriate):
+
+| Check | Normal to proceed | Stop and call a senior if... |
+|---|---|---|
+| Lie and presentation | Longitudinal, cephalic | Breech, transverse, face/brow found late |
+| Descent | 0/5–1/5 palpable, head visible or low | Head still 2/5 or more at full dilatation |
+| Position (VE) | OA (posterior fontanelle anterior) | OP/OT with slow second stage |
+| Moulding / caput | 0 to + | +++ (CPD) |
+| FHR | 110–160, no late decelerations | Abnormal → expedite (vacuum if criteria met) |
+| Maternal state | Pulse, BP normal; able to push | Exhausted, bleeding, BP ≥160/110 |
+| Perineum | Stretching normally | Rigid, scarred or FGM type III (needs defibulation) |
+
+**Immediate post-delivery checks: the "fourth-stage sweep"** (in this order, within the first 15–30 minutes, then tone and bleeding every 15 minutes for 2 hours):
+
+| Order | Check | Normal finding to document | Abnormal finding and action |
+|---|---|---|---|
+| 1 | **Uterine tone** | Firm, contracted, at or below the umbilicus | Soft, boggy, above the umbilicus → massage, repeat uterotonic, empty bladder; treat as PPH if bleeding |
+| 2 | **Blood loss** | <500 mL (calibrated drape / weighed pads) | ≥500 mL, or ≥300 mL with an abnormal vital sign → E-MOTIVE bundle |
+| 3 | **Placenta and membranes** | Complete: all cotyledons, membranes complete, 3 cord vessels, central/eccentric cord insertion | Missing cotyledon or vessels running to a torn membrane edge (**succenturiate lobe**) → exploration/manual removal; 2 vessels → examine the baby |
+| 4 | **Perineum, vagina, cervix** in good light | Intact, or 1st/2nd-degree tear | 3rd/4th-degree, high vaginal or cervical tear → senior, theatre |
+| 5 | **Rectal examination** | Sphincter intact (pill-rolling), no mucosal tear | Thin or absent sphincter anteriorly → OASI |
+| 6 | **Vital signs** | Pulse <100, BP normal, shock index <0.9 | Shock index ≥0.9 → escalate; ≥1.4 → urgent resuscitation and blood |
+| 7 | **Bladder** | Voided within 6 h | Palpable bladder, unable to void → catheterise |
+| 8 | **Baby** | Breathing, warm, skin-to-skin, breastfeeding within 1 h | Grunting, cyanosis, cold → neonatal review |
+
+### Step 3: Bedside tests
+
+| Test | How | What it tells you |
+|---|---|---|
+| **Placental examination** | Lay it out on a flat surface: maternal side (cotyledons fit together, no ragged area), fetal side and membranes (holes, vessels to the edge), count cord vessels, note cord length and insertion | Completeness → decides on exploration/manual removal |
+| **Measured blood loss** | Calibrated under-buttock drape, or weigh pads and linen (1 g ≈ 1 mL) | Visual estimates underestimate by up to half; measuring triggers earlier PPH treatment |
+| **Shock index** | Pulse ÷ systolic BP | ≥0.9 abnormal; ≥1.4 urgent intervention |
+| **HemoCue** | After a large blood loss, or before discharge if anaemic | Baseline for transfusion and iron decisions (a very early Hb underestimates loss) |
+| **Bedside clotting test** | 2 mL venous blood in a plain glass tube | No clot by 7 min or a clot that breaks down → coagulopathy |
+| **Rectal examination** | Before and after any repair | Sphincter integrity; no suture through the mucosa |
+| **Swab, needle and instrument count** | Before starting and after finishing a repair | A retained swab causes sepsis and fistula |
+
+### Step 4: Laboratory & imaging
+
+A normal delivery needs no laboratory tests. They become relevant when the checks above are abnormal.
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Hb / FBC** | PPH, pallor, symptomatic, known anaemia | Hb ≥11 g/dL before delivery; a fall after PPH (may take hours to show) | Iron (ferrous sulphate + folic acid) vs transfusion. HemoCue at HC III/IV; FBC at hospitals |
+| **Group and crossmatch** | Blood loss ≥500 mL, shock, haematoma, OASI going to theatre | Compatible units | Transfusion; HC III must refer for blood |
+| **Blood group of mother and cord blood** | Mother Rh negative | Baby Rh positive | **Anti-D within 72 h** |
+| **Coagulation (PT/APTT, fibrinogen, platelets)** | Massive PPH, abruption, clotting test abnormal | Fibrinogen <2 g/L = severe coagulopathy | FFP, cryoprecipitate, platelets. Regional/national referral only; bedside clotting test elsewhere |
+| **Wound swab culture** | Infected perineal wound | Organism and sensitivity | Tailor antibiotics. Regional/national referral |
+| **Pelvic ultrasound** | Suspected retained products, haematoma, persistent bleeding with a contracted uterus | Retained tissue; collection | Evacuation or exploration in theatre. HC IV and hospitals, operator-dependent |
+| **Endoanal ultrasound / anorectal studies** | After OASI with symptoms | Sphincter defect | Plan for future delivery. Rarely available in Uganda (national referral / private) |
+
+### Step 5: Putting it together
+
+**Model one-line summary**: "A 23-year-old P1 who had an SVD of a live 3.6 kg baby at 03:10 with AMTSL; placenta complete, measured blood loss 350 mL, uterus firm, **second-degree tear with an intact sphincter** repaired with 2-0 polyglactin; vital signs normal."
+
+**Problem list**: (1) post-SVD, day 0; (2) second-degree perineal tear, repaired; (3) PPH risk period (first 2 hours); (4) breastfeeding and PPFP.
+
+**Working diagnosis**: "Uncomplicated spontaneous vaginal delivery with a repaired second-degree tear."
+
+> [!EXAM]
+> **Worked example 1: the placenta and the bleeding.** Twenty minutes after an SVD, a P4 has a firm uterus after oxytocin, but is still trickling. On the placenta, the maternal surface is complete, but **a blood vessel runs across the membranes to a torn hole at the edge**. **Interpretation**: a **succenturiate lobe** has probably been left behind (retained placental tissue). **Action**: call a senior, IV access, second uterotonic, **manual exploration of the uterus** under analgesia with prophylactic antibiotics; watch for PPH.
+
+> [!EXAM]
+> **Worked example 2: the vital signs tell the story.** One hour after delivery, a primipara's pad count is "moderate" and the uterus is firm. Pulse has risen from 84 to **118**, BP **98/60** (shock index 1.2), and she has **severe rectal pain**. **Interpretation**: a firm uterus with shock out of proportion to the visible bleeding and rectal pain = **concealed bleeding into a vulval/paravaginal haematoma** (or an unseen high vaginal tear). **Action**: call for help, two IV lines, crossmatch, tranexamic acid 1 g IV (within 3 h of birth), examine in good light; a large or expanding haematoma needs **evacuation in theatre**.
+
+> [!EXAM]
+> **Worked example 3: classifying the tear.** After a big baby, you see a perineal tear that reaches the anal margin. On rectal examination, with a finger in the rectum and the thumb on the perineum, the anterior sphincter feels thin, and you can see torn, dark-red external sphincter fibres, but you cannot tell whether more or less than half its thickness is torn. The pale internal sphincter and the rectal mucosa look intact. **Interpretation**: a third-degree tear; because you are unsure between 3a and 3b, **classify it as 3b** (the higher degree, RCOG). **Action**: pressure pad, do not repair yourself, call the obstetrician, repair in theatre under spinal, antibiotics, laxatives, follow-up.
+
 ## Management (aftercare and managing complications)
 
 ### Routine postnatal perineal care
@@ -400,3 +513,48 @@ Avoid excessive downward traction on the head (brachial plexus injury, Erb's pal
 - **Shoulder dystocia**: **HELPERR** (Help, Episiotomy, Legs, Pressure, Enter, Remove, Roll).
 - **Repair order**: "**Apex, Vagina, Muscle, Skin, Rectum, Count**" ("A Very Methodical Surgeon Rechecks Carefully").
 - **Suture sizes**: "**More zeros, more slender**" (3-0 is thinner than 2-0).
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| AMTSL uterotonic | **Oxytocin 10 IU IM within 1 min** of birth (after excluding a second twin) |
+| No oxytocin | **Misoprostol 600 mcg orally** |
+| Delayed cord clamping | **1–3 min** in a vigorous baby; ties at about **2 cm and 5 cm** from the umbilicus |
+| FHR in second stage | **Every 5 min** (or after each contraction) |
+| Uterine tone and bleeding checks | **Every 15 min for 2 h** |
+| PPH | **≥500 mL** (or ≥300 mL + abnormal vital sign, WHO/FIGO/ICM 2025); severe **≥1,000 mL** |
+| Shock index | **≥0.9** abnormal; **≥1.4** urgent intervention |
+| Tranexamic acid (PPH) | **1 g IV over 10 min within 3 h of birth**; second 1 g if bleeding continues after 30 min |
+| Retained placenta | Not delivered **30 min** after birth |
+| Episiotomy | Mediolateral, **about 60°** from the midline, at crowning, cut about 3–4 cm |
+| Lignocaine 1% | **10 mg/mL**; max about **3 mg/kg** plain (usually 10 mL is enough) |
+| Second-degree repair | **2-0 polyglactin** (Vicryl Rapide), continuous non-locking; first stitch **1 cm above the apex** |
+| Sphincter repair | **3-0 PDS** (or 2-0 polyglactin), in theatre |
+| 3a / 3b / 3c | **<50% EAS / >50% EAS / EAS + IAS** |
+| Post-OASI | Antibiotics, **lactulose 10–15 mL twice daily ~10 days**, catheter 12–24 h, review 6–12 weeks |
+| Placenta | Cord has **3 vessels** (2 arteries, 1 vein) |
+| Void after delivery | Within **6 h**, otherwise catheterise |
+
+### Classic exam traps
+
+- **"The perineum looks like a second-degree tear, so it is one."** → Only a **rectal examination** can exclude a torn sphincter whose ends have retracted.
+- **"Unsure whether 3a or 3b: call it 3a."** → Wrong. **Classify higher** (3b) so the repair is adequate.
+- **"Routine episiotomy for every primigravida prevents tears."** → Wrong. WHO: **restrictive episiotomy** only; it does not prevent OASI.
+- **"Bleeding after delivery: give more oxytocin."** → Only if the uterus is soft. **Firm uterus + ongoing bleeding = trauma** (tear, cervix) or retained tissue: look.
+- **"Placenta looks complete on the maternal side, so all is well."** → Also check the **membranes for vessels running to a torn edge** (succenturiate lobe).
+- **"Pull on the cord to speed up the third stage."** → Only CCT **during a contraction with counter-traction**; traction on a relaxed uterus causes **inversion**.
+- **"Shoulder dystocia: apply fundal pressure and pull harder."** → Wrong. **McRoberts + suprapubic pressure**; fundal pressure worsens impaction; hard traction causes Erb's palsy.
+- **"Visual estimate of blood loss was 300 mL, so no PPH."** → Visual estimates **underestimate**; measure, and use vital signs (shock index).
+
+### Questions seniors ask
+
+1. **"What do you check before you give the oxytocin?"** That there is **no second baby** (palpate the abdomen); then oxytocin 10 IU IM within 1 minute.
+2. **"Walk me through your checks after the placenta is out."** Uterine tone, blood loss, placenta and membranes (and 3 vessels), perineum/vagina/cervix in good light, rectal exam, vital signs, bladder, baby.
+3. **"How do you know the placenta is complete?"** Cotyledons fit together without ragged gaps, membranes are complete (both amnion and chorion), and no vessels run to a torn edge.
+4. **"The uterus is firm but she keeps bleeding. What next?"** Trauma until proved otherwise: good light, speculum, find the source and the apex; call a senior for cervical or high vaginal tears; treat as PPH (IV access, TXA).
+5. **"Why the first stitch above the apex?"** To catch retracted bleeding vessels at the apex.
+6. **"Why a rectal exam after the repair?"** To make sure no suture has gone through the rectal mucosa (rectovaginal fistula) and to recheck the sphincter.
+7. **"She has severe perineal pain and a pulse of 120 an hour after repair. What is it?"** A **haematoma** until proved otherwise; examine, resuscitate, and evacuate in theatre if large or expanding.

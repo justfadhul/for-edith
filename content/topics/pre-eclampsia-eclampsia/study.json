@@ -100,6 +100,31 @@
       "id": "pet-f20",
       "front": "Maximum IV/oral fluid intake in severe pre-eclampsia, and why?",
       "back": "About **80 mL/h (1 mL/kg/h)**. Leaky capillaries and low oncotic pressure mean extra fluid causes **pulmonary oedema**; oliguria is from renal vasospasm, not dehydration."
+    },
+    {
+      "id": "pet-f21",
+      "front": "First 5 minutes: a pregnant woman at 34 weeks with BP 168/114 and severe headache. What are your immediate actions?",
+      "back": "Call for help; **repeat BP within 15 min**; give **nifedipine IR 10 mg orally** (or **hydralazine 5 mg IV**) to treat within 30–60 min; **MgSO₄ loading dose** (Pritchard); IV access + bloods; **glucose and mRDT**; **catheter** with hourly urine; restrict fluids to **80 mL/h**; check FHR; plan delivery."
+    },
+    {
+      "id": "pet-f22",
+      "front": "How do you perform and interpret the WHO bedside clotting test?",
+      "back": "Put **2 mL of venous blood** in a small plain dry glass tube, hold it in your closed fist (keep it warm), and tip it gently every minute from 4 minutes. **No clot by 7 minutes, or a soft clot that breaks up = coagulopathy** (DIC, low platelets)."
+    },
+    {
+      "id": "pet-f23",
+      "front": "PET bloods: platelets 64, AST 186, LDH 910, creatinine 98, glucose 5.2. Interpret.",
+      "back": "**Complete HELLP** (platelets <100, AST ≥70, LDH ≥600) with **renal involvement** (creatinine >90 µmol/L). Normal glucose argues against AFLP. **Deliver**; platelets <75–80 → no spinal; <50 before CS → transfuse platelets; watch urine output before each MgSO₄ dose."
+    },
+    {
+      "id": "pet-f24",
+      "front": "On MgSO₄: RR 12/min, patellar reflexes absent, urine 60 mL in 4 h. What do you do?",
+      "back": "**Magnesium toxicity**: **withhold** the dose, call for help, oxygen/airway; **calcium gluconate 1 g (10 mL of 10%) IV over 10 min** if breathing is depressed or stops (ventilate if needed); check creatinine ± serum Mg. Restart only when reflexes return, RR ≥16 and urine ≥30 mL/h."
+    },
+    {
+      "id": "pet-f25",
+      "front": "Dipstick 3+ protein, BP 150/100, no symptoms, normal bloods at 35 weeks: severe or not? What is the plan?",
+      "back": "**Pre-eclampsia WITHOUT severe features**: the amount of proteinuria does not grade severity. Admit, BP 4-hourly, bloods twice weekly, fetal surveillance, oral antihypertensive if persistently ≥140/90, and **deliver at 37+0 weeks** (sooner if severe features appear)."
     }
   ],
   "mcqs": [

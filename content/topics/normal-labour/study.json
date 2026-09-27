@@ -110,6 +110,31 @@
       "id": "nl-f22",
       "front": "Four monitoring questions to ask every time you review a labouring woman?",
       "back": "Is the **mother** well? Is the **baby** well? Is labour **progressing**? Is the **partograph/LCG** up to date (and is there an alert)?"
+    },
+    {
+      "id": "nl-f23",
+      "front": "What do you check in the first 5 minutes when a woman arrives in labour?",
+      "back": "**Look** (pushing, bleeding, fitting, cord at introitus), **vitals** (pulse, BP, temperature, RR, shock index), **FHR** for 1 min after a contraction, and ask about **bleeding, liquor colour, fetal movements and urge to push**."
+    },
+    {
+      "id": "nl-f24",
+      "front": "Admission VE: head 3/5 palpable abdominally but station +2 with caput ++. Interpretation?",
+      "back": "The \"low\" head is **caput**, not descent. The head is not engaged; with moulding this suggests **CPD/obstruction**. Senior review, no oxytocin."
+    },
+    {
+      "id": "nl-f25",
+      "front": "Contractions 2 in 10 min for 20 s; cervix 2 cm unchanged after 4 h; mother and fetus well. Diagnosis and plan?",
+      "back": "**False labour / early latent phase.** No partograph, no augmentation; analgesia, fluids, observe or discharge with danger signs."
+    },
+    {
+      "id": "nl-f26",
+      "front": "Which admission tests do you check or do for a woman in labour (Uganda)?",
+      "back": "**Hb (HemoCue)**, blood group and Rh, **HIV and syphilis RDT** if unknown/retest due, **urine dipstick** (protein, ketones), malaria RDT if febrile, glucose if indicated; ultrasound only if presentation, number or placenta site is uncertain."
+    },
+    {
+      "id": "nl-f27",
+      "front": "Bedside clotting test: how is it read?",
+      "back": "2 mL of venous blood in a plain glass tube, kept warm and tilted: **no clot by 7 minutes, or a soft clot that breaks down easily = coagulopathy** (think abruption, IUFD, massive PPH)."
     }
   ],
   "mcqs": [

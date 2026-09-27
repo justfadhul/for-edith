@@ -10,6 +10,10 @@ highYield:
   - VBAC after one lower-segment CS succeeds in about 72–75% of women (85–90% if she has had a vaginal birth before). The uterine rupture risk is about 0.5% (1 in 200), and induction or augmentation increases it 2–3 fold. Misoprostol is contraindicated for induction when there is a uterine scar.
   - The most consistent early sign of scar rupture is an abnormal fetal heart (bradycardia or decelerations). Maternal tachycardia, new constant pain, vaginal bleeding, haematuria, loss of station and cessation of contractions follow.
   - ERAS means early feeding, early mobilisation, early catheter removal, multimodal analgesia and thromboprophylaxis. It shortens stay without increasing complications.
+  - "Pre-op sign-off before every CS. Indication and category written with the decision time, consent, anaesthetic review, Hb and cross-match (2 units; 4 or more for praevia, abruption, rupture or accreta), two 16–18 G cannulae, Foley catheter, antibiotic within 60 minutes before incision, and the WHO checklist Time out."
+  - "A spinal needs platelets above about 75–80 × 10⁹/L and no coagulopathy. Use the bedside clotting test (no clot by 7 minutes means coagulopathy) where lab clotting is unavailable."
+  - "After CS, remove the catheter once she is mobile and at least 12 h after the last spinal dose, but keep it 7–14 days after a bladder repair or obstructed labour with haematuria. Give enoxaparin 40 mg SC daily, first dose at least 4 h after the spinal."
+  - "Post-CS fever: work through womb (endometritis, day 2–5), wound (SSI, day 4–7), water (UTI), wind (chest), walking (VTE), breasts, cannula sites and malaria. Culture before antibiotics, and drain pus rather than just escalating antibiotics."
 ---
 
 ## In a nutshell
@@ -169,6 +173,144 @@ When you clerk a woman who may need a CS, or a woman with a previous scar in lab
    - Keeping women "nil by mouth until bowel sounds return". This is an outdated practice.
    - Forgetting the **next-pregnancy counselling** at discharge.
 
+## Clinical workup
+
+A CS has two workups. **Before surgery** you decide and document the indication and urgency, and make the woman safe for theatre. **After surgery** you review her every day and work up any fever, bleeding or wound problem. Each step below covers both.
+
+### Step 0: First 5 minutes
+
+**When you are called to a woman who may need a CS:**
+
+1. **Look at her and at the baby's heart first.** Airway and breathing, colour, conscious level. Take **pulse, BP, RR, temperature and SpO₂**, and work out the **shock index** (HR ÷ SBP; **≥0.9 is abnormal**, **≥1.4 needs urgent intervention**). Listen to the **fetal heart for a full minute after a contraction** (normal 110–160 bpm).
+2. **Look for the Category 1 situations**: cord prolapse, sustained fetal bradycardia, suspected uterine rupture, major abruption with a live baby, maternal collapse. These cannot wait for a full clerking.
+3. **Call for help early**: the medical officer or obstetrician (to confirm the decision), the **anaesthetist/anaesthetic officer**, the theatre team, and the lab for blood. **Say the category out loud.**
+4. **Start in parallel** (one person each, not one after another): two **16–18 G cannulae**, bloods for **Hb and cross-match**, **stop any oxytocin** if the FHR is abnormal or rupture is suspected, **left lateral position**, oxygen if she is shocked, a **Foley catheter**, and fluids (Ringer's lactate or normal saline) if she is dehydrated or bleeding.
+5. **Stabilise first when the mother is the patient**: an eclamptic woman gets **MgSO₄ and BP control before** she goes to theatre; a shocked woman gets resuscitation *while* theatre is prepared. A dead or dying mother cannot be helped by a fast CS on an unstable circulation (except perimortem CS during arrest).
+
+**When you are called to a woman after a CS** (bleeding, low BP, fever, "not looking well"): pulse, BP, RR, SpO₂, temperature, **fundus (height and tone)**, **lochia and pad**, **wound dressing**, **urine output** in the catheter bag, and a quick look at the drug and fluid chart. A **pulse >100 with a rising fundus or a soaked pad** is PPH until proven otherwise. Rub up the uterus and call your senior.
+
+### Step 1: Focused history
+
+The detailed questions are in the Clinical acumen table above. The items below are the **pre-operative additions** you must document before she goes to theatre, and the **post-operative questions** for the daily review.
+
+**Before CS:**
+
+- [ ] **The indication in one line**, and whether it is **absolute or relative**. *Why:* a relative indication (e.g. "slow progress") should make you ask whether augmentation or a ventouse is possible first.
+- [ ] **Number and type of previous CS** (operation note or discharge form). *Why:* a classical or T-shaped scar changes the incision, the urgency and the next-pregnancy plan.
+- [ ] **Time of last meal and last drink**. *Why:* aspiration risk under GA. For an elective CS, the usual fasting rule is about **6 h for solids and 2 h for clear fluids** (unit practice varies).
+- [ ] **Allergies** (penicillin, latex, iodine, chlorhexidine). *Why:* antibiotic and skin-prep choice.
+- [ ] **Current drugs**: MgSO₄, antihypertensives, anticoagulants (LMWH timing matters for spinal), ARVs. *Why:* a spinal is usually delayed until at least **12 h after a prophylactic LMWH dose**; MgSO₄ potentiates muscle relaxants.
+- [ ] **Previous anaesthetic problems**; asthma; cardiac disease; bleeding disorder. *Why:* anaesthetic plan.
+- [ ] **HIV status and last viral load; hepatitis B**. *Why:* eMTCT plan for the baby and extra sharps care.
+- [ ] **Views on blood transfusion** (e.g. a Jehovah's Witness). *Why:* this must be known and documented before, not during, a haemorrhage.
+- [ ] **Fertility wishes**: tubal ligation or PPIUD? *Why:* consent for these must be taken separately, before theatre.
+
+**After CS (day-1 and daily review):** pain control; nausea or vomiting; **eating and drinking**; **passing flatus**; **passing urine** after the catheter is out; **mobilising**; **breastfeeding** and the baby's condition; **headache** (post-dural puncture headache is worse on standing; severe headache with high BP means pre-eclampsia); **calf pain or breathlessness** (VTE); **fever, rigors, foul lochia or wound discharge** (infection); **heavy bleeding**.
+
+### Step 2: Focused examination
+
+**Before CS (document positives and key negatives):**
+
+- **General**: pallor, dehydration (dry tongue, sunken eyes and **ketones** after a long labour), temperature, oedema, **weight/BMI** (antibiotic dose, choice of incision, VTE risk).
+- **Airway and back** (for the anaesthetist, but you should notice): obesity, short neck, limited mouth opening; skin infection or deformity over the lumbar spine (contraindicates a spinal at that site).
+- **Chest and heart**: wheeze, crackles, murmurs.
+- **Abdomen**: previous scars; fundal height; lie and presentation; **fifths of the head palpable**; **Bandl's ring**; scar tenderness; **FHR**.
+- **Vaginal examination** (not if praevia is possible): dilatation, **station, position, caput and moulding**, liquor colour, cord. If she is **fully dilated**, repeat the VE in theatre: the head may now be low enough for a ventouse.
+
+**After CS: the day-1 ward review ("head to toe, then the 6 Ps")**
+
+| Check | Normal | Abnormal: think |
+|---|---|---|
+| **Pulse, BP, temperature, RR** | Pulse <100, afebrile | Tachycardia: bleeding, sepsis, PE, anaemia. **Fever ≥38.0 °C**: see the fever workup in Step 5 |
+| **Pallor** | Pink conjunctivae | Anaemia: check Hb |
+| **Chest** | Clear | Basal crackles (atelectasis, aspiration) |
+| **Breasts** | Soft, milk coming | Engorgement, cracked nipples |
+| **Fundus** | Firm, at or below the umbilicus, mildly tender | **Soft, rising** (PPH, clots); **very tender** (endometritis) |
+| **Abdomen** | Soft, mildly distended, bowel sounds by day 1–2 | **Tense, silent, distended** (ileus, haemoperitoneum, bowel injury) |
+| **Wound** (dressing off at 24–48 h) | Dry, edges together | Soaked dressing (haematoma), redness, induration, pus, gaping |
+| **Lochia (pad)** | Red, moderate, no smell | Heavy (PPH); **offensive** (endometritis) |
+| **Urine** | **≥30 mL/h**, clear | Oliguria (hypovolaemia, PE); **haematuria** (bladder injury, obstructed labour) |
+| **Calves** | Soft, non-tender | Swollen, tender (DVT) |
+
+### Step 3: Bedside tests
+
+| Test | Before CS | After CS |
+|---|---|---|
+| **HemoCue / point-of-care Hb** | Baseline; plan blood | Day 1 if EBL was high, she is pale or tachycardic |
+| **Urine dipstick** | **Protein** (pre-eclampsia), **blood** (obstruction, bladder injury), **ketones** (dehydration after long labour) | Nitrites and leucocytes if urinary symptoms or fever |
+| **RBS** | Diabetes, or a woman on steroids | If she is diabetic |
+| **Bedside clotting test** | Abruption, severe PE/HELLP, IUFD, sepsis, or massive bleeding | Ongoing bleeding |
+| **Malaria RDT** | Any fever | Any fever (malaria is common in Uganda) |
+| **HIV rapid test** | If status unknown, or no negative test late in this pregnancy (follow the national retesting schedule) | |
+| **Pinard / Doppler FHR** | On decision and **again in theatre before incision** | |
+| **Point-of-care ultrasound** (if skilled) | Viability, presentation, **placental site** | Free fluid, a large clot in the uterus, wound collection |
+| **Partograph review** | Has she crossed the action line? Descent and moulding trend? | |
+
+> [!PEARL]
+> **Bedside clotting test (WHO MCPC):** put **2 mL of venous blood** in a small, clean, dry plain **glass** tube and hold it in your closed fist to keep it warm. After **4 minutes** tip it gently, then every minute. If **no clot has formed by 7 minutes**, or a soft clot breaks down easily, she has a **coagulopathy**. Tell the anaesthetist (spinal is contraindicated) and get fresh whole blood or FFP ready.
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Hb / FBC** (HemoCue at HC IV; full FBC at hospital) | Every CS, before surgery; day 1–2 after if EBL ≥1 L or symptomatic | Hb ≥11 g/dL normal; **<7 g/dL severe**. WBC up to ~25 × 10⁹/L can be normal in labour. **Platelets <75–80 × 10⁹/L** | Transfusion planning; low platelets rule out a spinal; post-op anaemia means iron (or transfusion if symptomatic) |
+| **Blood group and cross-match** (HC IV with a blood bank; always at RRH/national) | Every emergency CS | **2 units** routinely; **4+ units** for praevia, abruption, rupture or suspected accreta | Blood must be in theatre before a high-risk CS starts |
+| **HIV rapid test** (all levels) | Status unknown, or no recent negative test (national retesting schedule) | Reactive → confirm per national algorithm | Same-day ART for the mother; NVP prophylaxis and EID plan for the baby; double gloving |
+| **Urinalysis** (dipstick at all levels) | Every woman | Protein; blood; ketones | Suggests PE, obstructed labour or dehydration |
+| **Random blood sugar** (all levels) | Diabetes, steroids, obesity | >11 mmol/L is high | Peri-op glucose control (reduces SSI) |
+| **Creatinine, electrolytes, LFTs** (RRH/national; some HC IVs) | Severe PE, HELLP, abruption, sepsis, prolonged obstructed labour | Creatinine >90 µmol/L, raised ALT/AST | Avoid NSAIDs; fluid plan; HDU care |
+| **Clotting: PT, APTT, fibrinogen** (RRH/national; bedside clotting test elsewhere) | Abruption, HELLP, IUFD, massive PPH | **Fibrinogen <2 g/L** = severe coagulopathy | No spinal; FFP, cryoprecipitate or fresh whole blood |
+| **Sickle cell test** (where indicated) | Known or suspected SCD | HbSS | Hydration, oxygen, warmth, transfusion plan, thromboprophylaxis |
+| **Malaria RDT or blood smear** (all levels) | Any fever before or after CS | Positive | Treat malaria; fever in labour is not always chorioamnionitis |
+| **Blood cultures** (RRH/national; often unavailable at HC IV) | Fever with sepsis signs, before or after CS | Growth of Gram-negatives (often ESBL) or *Staph* | Switch from empirical to targeted antibiotics |
+| **Pus swab / wound culture** (RRH/national) | Discharging or opened wound | *Klebsiella*, *E. coli* (often **ceftriaxone-resistant**), MRSA | Guides antibiotics; alert IPC if several cases |
+| **Urine culture** (RRH/national) | Fever with urinary symptoms, or after a long catheter | Significant growth | Targeted antibiotic |
+| **Obstetric ultrasound** (many HC IVs have a machine; skill varies) | Before an elective or planned CS; APH; suspected IUFD | Viability, presentation, **placental site** (praevia, accreta signs), EFW | Plans incision, blood and seniority; confirms IUFD (vaginal birth usually better) |
+| **Pelvic/abdominal ultrasound after CS** (RRH/national) | Fever not settling after 48–72 h of antibiotics, a mass or wound swelling | Pelvic, subsheath or wound **collection**, retained products | Drainage or re-laparotomy |
+| **Doppler ultrasound of the leg / CTPA** (national referral or private) | Suspected DVT or PE | Thrombus | Therapeutic LMWH; do not wait for imaging if PE is likely |
+
+### Step 5: Putting it together
+
+**Model pre-op summary line:** "Mrs B.K., 26, G2P1 at 39+4 weeks with **one previous LSCS for breech**, in labour for 14 h, now **8 cm for 4 hours with the head 3/5 palpable, moulding +3 and haematuria**, FHR 150. Impression: **obstructed labour with a scarred uterus, no signs of rupture yet**. Plan: **Category 2 emergency LSCS**."
+
+**Problem list:** (1) obstructed labour; (2) previous CS (rupture risk); (3) haematuria (bladder at risk, long catheter afterwards); (4) dehydration and ketosis; (5) infection risk (long labour, many VEs).
+
+**The pre-op sign-off before she leaves the ward:**
+
+| # | Item | Done? |
+|---|---|---|
+| 1 | **Indication and urgency category** written in the notes and on the theatre request, with the **time of decision** | ☐ |
+| 2 | **Consent** in her language (indication, procedure, risks, alternatives), separate consent for BTL/PPIUD | ☐ |
+| 3 | **Anaesthetic review**: airway, fasting, platelets, clotting, anticoagulants, choice of spinal vs GA | ☐ |
+| 4 | **Hb and group & cross-match** sent; blood in theatre if high risk | ☐ |
+| 5 | Two **16–18 G cannulae**; fluids running if dehydrated | ☐ |
+| 6 | **Foley catheter** in, urine colour noted | ☐ |
+| 7 | **Antacid prophylaxis** (metoclopramide + omeprazole; sodium citrate if available) | ☐ |
+| 8 | **Antibiotic prophylaxis** drawn up to give **within 60 minutes before incision** (therapeutic course if she is already infected) | ☐ |
+| 9 | **HIV status** known; eMTCT drugs ready for the baby | ☐ |
+| 10 | **Neonatal resuscitator** called | ☐ |
+| 11 | **WHO Surgical Safety Checklist** (Sign in, **Time out**, Sign out), including a **repeat FHR check** and **repeat VE** if fully dilated | ☐ |
+
+**Worked example 1: interpreting pre-op results.** A woman with a **placental abruption** and a live baby at 36 weeks: Hb 8.9 g/dL, platelets 62 × 10⁹/L, bedside clotting test **no clot at 7 minutes**. *Interpretation:* anaemia plus **consumptive coagulopathy (DIC)**. *What changes:* a **spinal is contraindicated** (low platelets and coagulopathy), so she needs **GA** with an experienced anaesthetist; cross-match **4 units** and ask for **fresh whole blood or FFP**; give **tranexamic acid** if bleeding at surgery; prepare for **PPH** (oxytocin infusion, uterine compression sutures); and plan HDU care afterwards.
+
+**Worked example 2: the post-CS fever workup.** A woman is febrile (**38.6 °C**, pulse 108) on **day 4** after an emergency CS for obstructed labour. Think through the causes by timing, using the **"W" list**:
+
+| Cause | Typical day | Clues | Test |
+|---|---|---|---|
+| **Womb** (endometritis) | Day 2–5 | Tender uterus, **offensive lochia**, long labour, many VEs | FBC, blood culture; high vaginal swab |
+| **Wound** (SSI) | **Day 4–7** | Redness, induration, pus, pain out of proportion | Pus swab culture before antibiotics |
+| **Water** (UTI) | Day 3–5 | Catheter, dysuria, loin pain | Dipstick, urine culture |
+| **Wind** (chest) | Day 1–2 | Cough, crackles, GA or aspiration | SpO₂; chest X-ray if available |
+| **Walking** (VTE) | Day 5 onwards | Calf swelling, breathlessness, tachycardia | Doppler; treat if likely |
+| **Weaning** (breasts) | Day 3 onwards | Engorged, red, tender breast | Clinical |
+| **Wonder drugs / drip** | Any | Cannula-site phlebitis, drug rash | Look at every cannula site |
+| **Malaria** (Uganda) | Any | Rigors, no other focus | **RDT or smear** |
+
+On examination she has **offensive lochia, a tender bulky uterus** and a **red, indurated wound with a small pus leak**. *Interpretation:* **endometritis plus a superficial incisional SSI**. *Plan:* sepsis screen (FBC, blood cultures, pus swab, RDT), then **IV ampicillin 2 g 6-hourly + gentamicin 5 mg/kg daily + metronidazole 500 mg 8-hourly** (or the unit's ceftriaxone + metronidazole), **open the wound at the point of discharge** (remove 1–2 skin sutures) to drain pus, daily dressing, fluids and paracetamol, and **review the culture**. If there is no improvement after **48–72 h**, look for a **pelvic or subsheath collection** (ultrasound) or **retained products**, and ask whether the organism is resistant. If several women on the ward have similar infections, **tell the IPC focal person** (see the IPC topic).
+
+> [!EXAM]
+> **SSI classification (CDC/WHO surveillance):** infection **within 30 days** of surgery. **Superficial incisional** = skin and fat; **deep incisional** = fascia and muscle; **organ/space** = uterus (endometritis), pelvic abscess. A deep or organ/space SSI with a fever that will not settle usually needs **drainage**, not just "stronger antibiotics".
+
 ## Differential diagnosis
 
 When a woman with a scar (or in obstructed labour) deteriorates in labour, distinguish:
@@ -184,17 +326,11 @@ When a woman with a scar (or in obstructed labour) deteriorates in labour, disti
 
 ## Investigations
 
-| Test | What you are looking for | Why |
-|---|---|---|
-| **Hb / FBC** | Anaemia; WBC for infection; platelets (PE, HELLP) | Transfusion planning; spinal safe if platelets >75–80 ×10⁹/L |
-| **Blood group and cross-match** | 2 units routinely for emergency CS; **4+ units** for praevia, abruption, rupture or accreta | Haemorrhage is the leading cause of death after CS |
-| **HIV status (rapid test if unknown)** | eMTCT: TLD for mother, infant NVP prophylaxis | Same-day ART; the baby's plan |
-| **Urinalysis** | Protein (PE); **blood** (obstruction, bladder trauma) | Guides diagnosis |
-| **RBS** | Diabetes | Peri-op glucose control |
-| **Renal function, LFTs, clotting (or bedside clotting time)** | Severe PE, abruption, sepsis | Anaesthetic choice (a coagulopathy rules out spinal), fluids |
-| **Obstetric ultrasound** | Viability, presentation, **placental site** (praevia, accreta signs), EFW | Plan incision and blood; confirm IUFD |
-| **Sickle cell test** where indicated | HbSS | Peri-op hydration, oxygenation, transfusion plan |
-| **Malaria RDT** if febrile | Malaria | Fever in labour in Uganda is not always chorioamnionitis |
+The full test list, with when to send each one, what an abnormal result looks like, what it changes and where in Uganda it is available, is in the **Clinical workup, Step 4** table above. Three points to remember:
+
+- **Blood is the investigation that saves lives at CS.** Send the cross-match at the time of decision, not when the bleeding starts: **2 units** for a routine emergency CS and **4 or more** for praevia, abruption, rupture or accreta.
+- **Platelets and clotting decide the anaesthetic.** A spinal is safe with platelets above about **75–80 × 10⁹/L** and a normal bedside clotting test.
+- **Fever is not always chorioamnionitis or a wound infection in Uganda.** Always do a malaria RDT or smear.
 
 ## Management
 
@@ -431,3 +567,53 @@ When a woman with a scar (or in obstructed labour) deteriorates in labour, disti
 - **Layers to open ("Some Fat Sheaths Rarely Protect Uteri")**: Skin, Fat, Sheath, Recti (separate), Peritoneum, Uterus (after the uterovesical fold and bladder).
 - **Signs of rupture ("FHR FIRST")**: **F**etal heart abnormal, **H**ypotension/tachycardia, **R**eceding presenting part, **F**etal parts palpable, **I**ncreasing constant pain, **R**ed urine (haematuria), **S**top in contractions, **T**ip of shoulder pain.
 - **TOLAC candidate "ONE-LOW-HEAD-HOSPITAL"**: **one** previous CS, **low** transverse incision, cephalic **head**, delivering in a **hospital** (or HC IV) with a theatre.
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Category 1 decision-to-delivery target | **Within 30 min** |
+| Category 2 decision-to-delivery target | **Within 75 min** |
+| Antibiotic prophylaxis timing | **Single dose within 60 min (15–60 min) before skin incision** |
+| Prophylaxis drug and dose | **Cefazolin 2 g IV** (3 g if ≥120 kg) or **ampicillin 2 g IV**; Uganda: usually **ceftriaxone 1–2 g IV ± metronidazole 500 mg IV** |
+| Repeat prophylactic dose | Surgery longer than about 3–4 h, or blood loss **>1,500 mL** |
+| Cross-match | **2 units** routine emergency CS; **4+ units** for praevia, abruption, rupture, accreta |
+| Platelets for a spinal | Above about **75–80 × 10⁹/L** |
+| Spinal drug | **Hyperbaric bupivacaine 0.5%, 2–2.5 mL (10–12.5 mg)** ± fentanyl |
+| Left lateral tilt | **15°** |
+| Oxytocin at delivery | **10 IU slow IV or IM** (UK 5 IU); infusion **20 IU in 1 L** at about 40 drops/min for high-risk women |
+| Tranexamic acid for PPH | **1 g IV over 10 min** within 3 h of birth; repeat 1 g if bleeding continues after 30 min |
+| Enoxaparin prophylaxis | **40 mg SC daily** (50–90 kg), first dose **≥4 h after the spinal**; at least **10 days** after emergency CS |
+| Catheter removal | Mobile and **≥12 h after the last spinal dose**; **7–14 days** after bladder repair or obstructed labour with haematuria |
+| Close subcutaneous fat | Only if **>2 cm** thick |
+| Skin suture removal | **Day 5** (Pfannenstiel); **day 7–10** (midline) |
+| Uterine rupture risk | **~0.5%** after one LSCS in labour; **4–9%** after a classical scar |
+| VBAC success | **72–75%** (**85–90%** with a previous vaginal birth) |
+| Timing of elective CS | **≥39 weeks**; after a classical scar **36–37 weeks** |
+| Interpregnancy interval | At least **18–24 months** (WHO ≥24 months) |
+| Post-op observations | Every **15 min for the first hour**, then every 30 min for 2 h, then 4-hourly |
+| SSI surveillance window | **30 days** after surgery |
+| Accreta risk with praevia | About **11%** after 1 CS, **40%** after 2, **>60%** after 3 |
+
+### Classic exam traps
+
+- **"Give the antibiotic after cord clamping to protect the baby."** Wrong. Give it **before skin incision**; it reduces endometritis and wound infection without harming the baby.
+- **"A Pfannenstiel scar means she had a lower-segment CS."** Not necessarily. The skin scar does not tell you the uterine incision: **find the operation note**.
+- **"A new abnormal FHR in a woman with a scar is fetal distress."** Think **uterine rupture** first; it is the earliest sign.
+- **"Five days of ceftriaxone prevents wound infection."** It does not. Prophylaxis is **one dose**; prolonged courses breed resistance. Treat established infection with a proper course.
+- **"Nil by mouth until bowel sounds return."** Outdated. After an uncomplicated CS she can **drink within hours and eat when hungry**.
+- **"The category depends on how soon theatre is free."** No. The category describes the **clinical state** of the mother and baby.
+- **"Do a CS for an IUFD with a cephalic presentation."** Usually wrong. A **vaginal birth** is safer for her unless there is praevia, transverse lie with obstruction, rupture or another absolute indication.
+- **"Induce a woman with a scar with misoprostol."** Contraindicated at term. Use a **Foley catheter**, then ARM and cautious oxytocin at a referral hospital.
+
+### Questions seniors ask
+
+1. **What must you check in theatre just before the incision?** The **fetal heart** (the baby may have died or recovered), and a **repeat VE if she was fully dilated** (the head may now be low enough for a ventouse). Confirm the antibiotic has been given at the Time out.
+2. **What are the contraindications to a spinal?** Refusal, **coagulopathy** or platelets below about 75–80, **uncorrected hypovolaemia**, infection at the site, raised intracranial pressure, and some fixed-output cardiac lesions.
+3. **It is day 4 after an emergency CS and she has a fever of 38.6 °C. How do you work it up?** Go through the "W" list (womb, wound, water, wind, walking, weaning/breasts, wonder drugs/drip) plus **malaria**. Examine the uterus, lochia, wound, chest, calves, breasts and cannula sites. Send FBC, **blood and pus cultures before antibiotics**, urine dipstick/culture and an RDT. Start therapeutic antibiotics and **drain any pus**.
+4. **What category is obstructed labour with a normal FHR?** **Category 2** (compromise, not immediately life-threatening): deliver within 75 min. With fetal bradycardia or signs of rupture it becomes Category 1.
+5. **When would you keep the catheter in longer than usual?** After a **bladder repair** or **prolonged obstructed labour with haematuria**: **7–14 days**, to prevent a vesicovaginal fistula.
+6. **What should be written in the operation note?** Indication, category, times, anaesthesia, **incision type (skin and uterus)**, findings, complications, **number of layers of uterine closure**, EBL, counts, and the **plan for the next pregnancy**.
+7. **What bloods do you send before an emergency CS?** **Hb and group & cross-match** for all; HIV test if unknown; add platelets, creatinine, LFTs and clotting (or a bedside clotting test) for PE, abruption, sepsis or IUFD; RDT if febrile.

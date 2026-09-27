@@ -6,10 +6,14 @@ highYield:
   - "Causes = the 4 Ts: Tone (about 70%), Trauma (about 20%), Tissue (about 10%), Thrombin (under 1%). Always check all four."
   - "Prevention (AMTSL): oxytocin 10 IU IM/IV within 1 minute of birth, delayed cord clamping, controlled cord traction, then check uterine tone every 15 minutes for 2 hours."
   - "E-MOTIVE bundle, started together as soon as PPH is diagnosed: uterine Massage, Oxytocics, Tranexamic acid, IV fluids, Vaginal/genital-tract Examination, then Escalate if bleeding continues."
+  - "Treatment oxytocin: 10 IU IV slowly (or IM), then 20 IU in 1 L NS/RL at 60 drops/min (maintenance 40 drops/min); no more than 3 L of oxytocin-containing fluid."
   - "Tranexamic acid 1 g IV over 10 minutes within 3 hours of birth; a second 1 g if bleeding continues after 30 minutes or restarts within 24 hours (WOMAN trial). No benefit after 3 hours."
-  - "Ergometrine is contraindicated in hypertension/pre-eclampsia and heart disease; carboprost is contraindicated in asthma."
+  - "Second-line uterotonics: misoprostol 800 µg sublingual; ergometrine 0.2 mg IM (max 1 mg/24 h; not in hypertension or heart disease); carboprost 0.25 mg deep IM (max 2 mg; not in asthma)."
   - "Calibrated drape: E-MOTIVE (NEJM 2023) cut severe PPH, laparotomy or death from bleeding by 60% (1.6% vs 4.3%)."
-  - "Visual estimation underestimates blood loss by 30–50%. Tachycardia and a shock index ≥0.9 appear before hypotension; hypotension is a late sign in young women."
+  - "Visual estimation underestimates blood loss by 30–50%; weigh pads (1 g ≈ 1 mL). Shock index (HR ÷ SBP) ≥0.9 is abnormal and ≥1.4 needs urgent action; hypotension is a late sign."
+  - "Firm uterus but still bleeding = trauma (inspect cervix and vagina in good light) or thrombin (20-minute whole blood clotting test), not a reason for another uterotonic."
+  - "Retained placenta: not out 30 minutes after birth → empty the bladder, extra oxytocin 10 IU, repeat CCT, then manual removal with a single-dose antibiotic. Never ergometrine."
+  - "Shock out of proportion to visible loss + fundus not palpable = uterine inversion: stop oxytocin, replace immediately, then give oxytocin."
 ---
 
 ## In a nutshell
@@ -135,6 +139,122 @@ In the acute setting, history is taken **while** resuscitation happens, often fr
 > [!EXAM]
 > Examiners love this: **"The uterus is well contracted but she is still bleeding. What will you do?"** Answer: inspect the genital tract under good light for trauma (cervical and vaginal tears, haematoma), check the placenta for completeness, do a bedside clotting test, and continue resuscitation.
 
+## Clinical workup
+
+In PPH the workup and the treatment happen **at the same time**. You never finish the history before you touch the uterus. Think of the steps below as what the team leader is checking off while the bundle runs.
+
+### Step 0: First 5 minutes
+
+1. **Recognise and name it.** Say out loud: "This is PPH. Time is 10:05." Triggers: calibrated drape **≥500 mL**, or **≥300 mL plus any abnormal vital sign** (WHO/FIGO/ICM 2025), or any bleeding with a woman who looks unwell.
+2. **Call for help**: second midwife, the most senior clinician, anaesthetic officer; alert theatre and the blood bank. Assign roles (uterus, IV and drugs, observations, scribe/timekeeper).
+3. **Hand on the fundus at once.** Soft and high → start **massage** now. This is both the first examination and the first treatment.
+4. **ABC and vitals**: airway and conscious level, RR, SpO₂, pulse, BP, temperature. Calculate the **shock index** (HR ÷ SBP): **≥0.9 abnormal, ≥1.4 urgent, ≥1.7 critical**.
+5. **Position and oxygen**: lie flat (legs raised if shocked), oxygen 6–8 L/min by mask, keep her warm.
+6. **Two large-bore cannulae (14–16G)**. From the first cannula draw blood for **Hb, group and cross-match**, and fill a **dry glass tube for the 20-minute clotting test**.
+7. **Start the bundle together**: oxytocin 10 IU IV slowly then infusion, **TXA 1 g IV over 10 min** (if within 3 h of birth), warmed crystalloid, catheterise the bladder.
+
+> [!REDFLAG]
+> Call the most senior person available **immediately** if: shock index ≥1.4, SBP <90 mmHg, confusion or drowsiness, loss ≥1000 mL, blood that does not clot, or shock out of proportion to what you can see (think rupture, inversion, concealed haematoma, intra-abdominal bleeding after CS).
+
+### Step 1: Focused history
+
+Take it from the midwife, the partograph and the file while others treat. Each item changes the plan:
+
+- [ ] **Time of birth** → still within 3 h? (TXA works only then; also tells you whether this is primary or secondary PPH.)
+- [ ] **Mode of birth**: SVD, vacuum, CS, fundal pressure → instrumental = tear; CS = intra-abdominal bleeding; fundal pressure/cord traction on an unseparated placenta = inversion.
+- [ ] **Was AMTSL given? Which drug, when?** → no prophylactic oxytocin makes atony more likely; you also need the total uterotonic dose so far.
+- [ ] **Placenta out? Complete?** → retained or incomplete placenta = tissue; plan MRP.
+- [ ] **Labour**: length, oxytocin augmentation, fever or chorioamnionitis, precipitate birth → atony; fever → sepsis-related atony and DIC.
+- [ ] **Baby**: weight, twins, polyhydramnios, stillbirth → overdistension; IUFD or abruption → DIC.
+- [ ] **Parity and uterine history**: grand multipara, previous PPH, previous CS/myomectomy → atony, rupture, accreta.
+- [ ] **Blood pressure / pre-eclampsia, heart disease** → **no ergometrine**; HELLP → low platelets.
+- [ ] **Asthma** → **no carboprost**.
+- [ ] **Antenatal Hb, blood group, HIV status, known bleeding disorder or anticoagulant** → how little reserve she has; Rh status for anti-D; thrombin cause.
+- [ ] **Symptoms**: dizziness, thirst, breathlessness, severe perineal/rectal pain (haematoma), abdominal pain (rupture), confusion (late shock).
+
+### Step 2: Focused examination
+
+**General**: conscious level (AVPU/GCS), pallor, sweating, cold peripheries, capillary refill (>2 s abnormal), air hunger.
+
+**Vital signs** every 5–15 min: pulse (rate, volume), BP, RR, SpO₂, temperature, shock index, **urine output** via catheter (target **≥30 mL/h**).
+
+**Abdomen**:
+- **Fundus**: height, consistency (soft/boggy vs firm), central or deviated (full bladder), does it relax again after massage (tissue)?
+- Tenderness, guarding, distension, free fluid, easily felt fetal parts or a scar (rupture; post-CS bleeding).
+- **Fundus not palpable** → uterine inversion.
+
+**Genital tract (in good light, with an assistant and a speculum or retractors)**:
+- Perineum and episiotomy; vaginal walls and fornices; **all four quadrants of the cervix** (walk sponge forceps around it).
+- Vulval or paravaginal swelling, severe pain, bluish tense mass = haematoma; rectal exam if a haematoma is suspected.
+- A mass in the vagina or at the introitus = inversion (or a fibroid polyp, much rarer).
+
+**Placenta and membranes**: lay the placenta out; missing cotyledons, ragged membranes, vessels running to a torn edge (succenturiate lobe).
+
+**Signs of coagulopathy**: oozing from cannula sites, the episiotomy or gums, petechiae, blood in the drape that does not clot.
+
+| Document these positives | And these negatives |
+|---|---|
+| Measured loss (drape + weighed pads) and the time | "Placenta and membranes complete" |
+| Fundal height and tone after massage | "Cervix inspected all round, no tear" |
+| Shock index and urine output | "No haematoma, no inversion" |
+| Site and degree of any tear | "Blood clots in the 20-min test" |
+
+### Step 3: Bedside tests
+
+| Test | How | What it tells you |
+|---|---|---|
+| **Calibrated drape reading** | Read the level every 5–15 min; note the time | Objective loss; the trigger for the bundle |
+| **Weigh pads, linen and swabs** | Weigh soaked items and subtract the weight of the same items dry; **1 g ≈ 1 mL** | Adds the loss the drape missed (after the drape is removed, on the floor, in the bed) |
+| **Shock index** | HR ÷ SBP, repeated with each set of vitals | Rising SI = ongoing bleeding even if BP is "normal" |
+| **HemoCue / point-of-care Hb** | Finger-prick or venous sample | Baseline only; the **first Hb underestimates the loss** (see Step 5) |
+| **20-minute whole blood clotting test** | 2 mL venous blood in a clean, dry **glass** tube, left still; tilt at 20 min | No clot, or a clot that breaks up = coagulopathy (DIC) |
+| **Hourly urine output** | Foley catheter to a urometer or measured bag | <30 mL/h = under-resuscitated or AKI |
+| **Point-of-care ultrasound** (if skilled) | Uterine cavity, abdomen | Retained products/clots in the cavity; free fluid (rupture, post-CS bleeding) |
+| **Urine dipstick for protein**, BP | | Undiagnosed pre-eclampsia → avoid ergometrine; think HELLP |
+| **Malaria RDT, temperature** (secondary PPH, fever) | | Co-existing malaria, sepsis |
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Group and cross-match** | Every PPH, with the first cannula | Blood group; 2–4 compatible units | Transfuse early in major PPH. **HC IV**: only where there is a blood fridge and a supply from the regional blood bank (UBTS); otherwise refer. **RRH/NRH**: usually available, but stocks run out |
+| **Full blood count** | Baseline, then after resuscitation and at 24 h | Hb (baseline often low from antenatal anaemia); platelets <75 × 10⁹/L abnormal | Transfusion and platelet decisions; Hb at 24 h guides iron vs transfusion. Available at most HC IVs and hospitals |
+| **PT/INR, APTT** | Major PPH (≥1000 mL), abnormal clotting test, abruption, IUFD, sepsis, HELLP | Prolonged (>1.5 × normal) | FFP 15 mL/kg. **Mainly RRH/NRH/private hospitals**; often not at night |
+| **Fibrinogen** | As above | **<2 g/L = severe coagulopathy** and predicts progression (normal in late pregnancy 4–6 g/L) | Cryoprecipitate (or fresh whole blood if no components). **NRH and some private hospitals only** |
+| **Urea, creatinine, electrolytes** | Major PPH, oliguria | Creatinine rising above ~80–90 µmol/L; high K⁺ | AKI: fluid balance, avoid nephrotoxins (gentamicin dose), renal review. RRH/NRH |
+| **LFTs** | Hypertensive woman, low platelets | Raised ALT/AST (with low platelets, haemolysis) | HELLP → coagulopathy, MgSO₄, no ergometrine |
+| **Lactate / blood gas** | Severe shock, HDU/ICU | Lactate >4 mmol/L, base deficit | Severity of shock; response to resuscitation. NRH/ICU only |
+| **Ultrasound (formal)** | Retained tissue suspected; secondary PPH; post-CS | Echogenic mass in the cavity; free fluid; haematoma | Evacuation vs laparotomy vs expectant. Most HC IVs and all hospitals, if a sonographer is on site |
+| **Blood cultures, HVS** | Secondary PPH or fever | Organisms and sensitivities | Tailor antibiotics. RRH/NRH (culture capacity limited) |
+| **β-hCG** | Secondary PPH that persists after evacuation | Raised or plateauing | Suspect gestational trophoblastic neoplasia; send tissue for histology |
+
+### Step 5: Putting it together
+
+**Model one-line summary**
+> "A 32-year-old para 5, 40 minutes after SVD of a 4.1 kg baby following an augmented labour, with primary PPH of 900 mL (drape plus pads), shock index 1.2, a soft uterus that firms with massage, a complete placenta and a second-degree tear: atonic PPH with a minor trauma component, haemodynamically compensated."
+
+**Problem list**
+1. Primary PPH (900 mL and still being measured), cause mainly **Tone**, plus **Trauma** (tear).
+2. Hypovolaemia (SI 1.2), on the bundle.
+3. Pre-existing anaemia (antenatal Hb 9.5 g/dL) → low reserve.
+4. Risk of coagulopathy (continue clotting tests if loss exceeds 1000 mL).
+
+**Working diagnosis**: *primary atonic PPH with a second-degree perineal tear, compensated hypovolaemic shock.*
+
+> [!EXAM]
+> **Worked example 1: shock index and blood-loss estimation.**
+> The drape reads **650 mL** when it is removed. After that, four soaked pads and a draw sheet weigh **620 g**; the same items dry weigh **120 g**. Extra loss = 620 − 120 = **500 g ≈ 500 mL**. **Total ≈ 1150 mL = severe PPH.**
+> Pulse 126, BP 90/60 → **SI = 126 ÷ 90 = 1.4** → urgent: second cannula, blood now, senior at the bedside, prepare theatre. The eye estimate in the notes said "about 500 mL": a classic underestimate.
+> Her admission BP was 120/80 with pulse 86: SBP has fallen by 30 mmHg and pulse has risen by 40. By the **Rule of 30** (quick reference) she has lost roughly **30% of her blood volume** (moderate shock), which fits the weighed total.
+
+> [!EXAM]
+> **Worked example 2: the first Hb and the clotting test.**
+> Thirty minutes after a 1500 mL PPH following abruption with IUFD, her Hb is **9.8 g/dL** (antenatal 11.2). This does **not** mean the loss was small: she has lost whole blood and there has been no time for haemodilution, so the Hb falls further over hours (and with crystalloid). Treat the **clinical picture and the measured loss**, not the first Hb.
+> The 20-minute clotting test shows **no clot**. Later labs: platelets **62 × 10⁹/L**, PT prolonged, fibrinogen **1.3 g/L**. Interpretation: **DIC** from abruption plus consumption. Action: TXA (if within 3 h), red cells plus **FFP 15 mL/kg**, **cryoprecipitate** (fibrinogen <2 g/L), **platelets** (<75 × 10⁹/L); fresh whole blood if components are not available; keep her warm; ensure the uterus is empty and contracted.
+
+> [!UGANDA]
+> At most HC IVs you will have the **drape, a scale, a HemoCue, a glass tube and your hands**, and often no coagulation lab. That is enough to diagnose PPH, grade shock, find the cause (4 Ts) and detect coagulopathy. What you often **cannot** do is transfuse components or operate at night, so the workup must end in a clear decision: **manage here or refer now** (with NASG, tamponade, oxytocin running and an escort).
+
 ## Differential diagnosis
 
 These are differentials for the **cause** of bleeding (and for shock after delivery).
@@ -153,18 +273,11 @@ These are differentials for the **cause** of bleeding (and for shock after deliv
 
 ## Investigations
 
-Send bloods **while** you resuscitate; never delay treatment for results.
+The full test-by-test table (with Ugandan availability) is in **Clinical workup, Step 4** above. Three principles to remember:
 
-| Test | What you are looking for | Why |
-|---|---|---|
-| **Group and cross-match** (at least 2–4 units) | Blood group, compatible units | Transfusion is likely in major PPH |
-| **Full blood count** (Hb, platelets) | Baseline Hb; platelets <75 × 10⁹/L | Guides transfusion; the first Hb **underestimates** loss (no time for haemodilution) |
-| **20-minute whole blood clotting test** (bedside) | No clot after 20 min = coagulopathy | Available anywhere, including HC IV |
-| PT/INR, APTT, **fibrinogen** (where available) | Prolonged times; fibrinogen <2 g/L | Guides FFP/cryoprecipitate |
-| Urea, creatinine, electrolytes | AKI | Hypoperfusion → acute tubular necrosis |
-| Lactate, blood gas (RRH/NRH) | Lactate >4 mmol/L, base deficit | Severity of shock |
-| Ultrasound (bedside) | Retained products, free fluid (rupture, post-CS bleeding) | Guides exploration or laparotomy |
-| Hourly urine output | <30 mL/h | Adequacy of resuscitation |
+1. **Send bloods while you resuscitate**; never delay treatment for a result. The first cannula gives you Hb, group and cross-match and the clotting-test tube.
+2. **Bedside tests beat the lab at night**: the calibrated drape, weighed pads, shock index, HemoCue, the 20-minute whole blood clotting test and hourly urine output can all be done at a HC IV.
+3. **Repeat, don't rely on one value**: the first Hb underestimates loss, and a normal first clotting test can become abnormal after a further litre of bleeding. Repeat Hb after resuscitation and at 24 h, and repeat clotting tests if loss exceeds about 1000 mL or bleeding continues.
 
 ## Management
 
@@ -341,3 +454,68 @@ Causes: **endometritis** (most common), **retained products**, subinvolution of 
 - **HAEMOSTASIS** (the classic RCOG escalation ladder): **H**elp and hands on the uterus, **A**ssess and resuscitate, **E**stablish aetiology / ecbolics, **M**assage, **O**xytocin infusion / prostaglandins, **S**hift to theatre (EUA, bimanual compression), **T**amponade (balloon), **A**pply compression sutures (B-Lynch), **S**ystematic pelvic devascularisation, **I**nterventional radiology, **S**ubtotal or total hysterectomy.
 - **"Ergo: no BP, no heart; carbo: no wheeze."**
 - **TXA "1-10-3-30"**: **1** g, over **10** minutes, within **3** hours, repeat after **30** minutes if still bleeding.
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Primary PPH | **≥500 mL within 24 h** of birth; or **≥300 mL + any abnormal vital sign** (WHO/FIGO/ICM 2025) |
+| Severe / major PPH | **≥1000 mL** (RCOG: 1000–2000 moderate, >2000 severe) |
+| Secondary PPH | **24 h to 12 weeks** after birth |
+| Retained placenta | Not delivered **30 min** after birth (WHO; UK 60 min) |
+| AMTSL uterotonic | **Oxytocin 10 IU IM** within **1 min** of birth; tone checks **every 15 min for 2 h** |
+| Treatment oxytocin | **10 IU IV slowly/IM**, then **20 IU in 1 L at 60 drops/min**, maintenance **40 drops/min**; max **3 L** oxytocin-containing fluid |
+| Tranexamic acid | **1 g IV over 10 min**, within **3 h**; repeat 1 g after **30 min** if still bleeding ("1-10-3-30") |
+| Misoprostol | Prevention **600 µg orally** (400–600 µg); treatment **800 µg sublingual** |
+| Ergometrine | **0.2 mg IM/slow IV**, repeat after 15 min then 4-hourly; **max 1 mg (5 doses)/24 h** |
+| Carboprost | **0.25 mg deep IM** every 15 min; **max 2 mg (8 doses)** |
+| Carbetocin (heat-stable) | **100 µg IM/IV**, prevention only |
+| Shock index (HR ÷ SBP) | Normal 0.7–0.9; **≥0.9 abnormal; ≥1.4 urgent; ≥1.7 critical** |
+| Pad weighing | **1 g ≈ 1 mL** (subtract dry weight) |
+| Clotting test | 2 mL in a dry glass tube; **no clot at 20 min** = coagulopathy |
+| Fibrinogen | Normal at term 4–6 g/L; **<2 g/L** = severe coagulopathy → cryoprecipitate |
+| Platelets | Transfuse if **<75 × 10⁹/L** in active bleeding |
+| FFP | **15 mL/kg** after about 4 units of red cells or with abnormal clotting |
+| Urine output target | **≥30 mL/h** |
+| Balloon tamponade | **300–500 mL** warm saline; remove after **6–24 h** |
+| NASG removal | When **SBP ≥90 and pulse <100**, ankles first; reapply if SBP falls 20 or pulse rises 20 |
+| Recurrence next pregnancy | About **15%** |
+
+### Classic exam traps
+
+- **"Wait until the drape reaches 500 mL."** Wrong if vital signs are abnormal: at **≥300 mL plus an abnormal vital sign**, it is already PPH.
+- **"BP is normal, so the loss is small."** Hypotension is late; look at the **pulse and shock index**.
+- **"Give a second uterotonic"** for a **firm** uterus that keeps bleeding. Wrong: find the **tear** or check **clotting**.
+- **"Give drugs one at a time and wait to see."** Wrong: the E-MOTIVE bundle is given **together**.
+- **"TXA helps whenever it is given."** Wrong: only within **3 h** of birth.
+- **Ergometrine for retained placenta** (traps it) or for a hypertensive woman (stroke, eclampsia). Give oxytocin.
+- **"Hb 10 at 30 minutes, so no transfusion needed."** The first Hb underestimates acute loss.
+- **Oxytocin before replacing an inverted uterus.** Replace first, then give oxytocin.
+
+### Questions seniors ask
+
+**What is your first action when the midwife calls "PPH"?**
+Call for help and note the time, put a hand on the fundus and massage, and start the bundle together while assessing ABC and the shock index.
+
+**The uterus is firm but she is still bleeding. What now?**
+Inspect the genital tract in good light (cervix all round, vagina, perineum), check the placenta is complete, and do a 20-minute clotting test; continue resuscitation and give TXA if within 3 h.
+
+**How do you measure blood loss here?**
+Calibrated drape under the buttocks from birth, then weigh pads and linen (1 g ≈ 1 mL, minus dry weight); visual estimates are 30–50% too low.
+
+**Why give TXA even for atony?**
+Fibrinolysis rises quickly after birth for every cause of PPH; WOMAN showed about a 30% reduction in death from bleeding when given within 3 h.
+
+**Which uterotonic would you avoid in this woman with pre-eclampsia, and what would you use?**
+Avoid ergometrine (and Syntometrine); use oxytocin, then misoprostol 800 µg SL (carboprost if available and she is not asthmatic).
+
+**Her Hb is 9.8 g/dL after a 1.5 L bleed. Is she fine?**
+No. The first Hb has not equilibrated; repeat it after resuscitation and at 24 h, and transfuse on clinical grounds and measured loss.
+
+**When would you refer from a HC III, and how?**
+As soon as bleeding is not controlled by the bundle, or she needs blood or theatre: with IV oxytocin running, NASG and/or tamponade, a health worker who can do bimanual compression, a referral note, and a phone call ahead.
+
+**When would you do a hysterectomy?**
+When conservative measures fail and her life is at risk, decided early by a senior, before she is moribund in DIC.

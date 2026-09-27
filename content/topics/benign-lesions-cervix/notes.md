@@ -10,6 +10,10 @@ highYield:
   - Cervical polyps are removed by avulsion (twisting) in clinic and ALWAYS sent for histology; in a post-menopausal woman also assess the endometrium.
   - Nabothian cysts are harmless mucus-retention cysts of the TZ — no treatment; their presence simply tells you where the TZ is.
   - A central cervical fibroid distorts the pelvis and pushes the ureters laterally — the classic source of ureteric injury at hysterectomy.
+  - VIA uses 3–5% acetic acid read at 1 minute; an eligible VIA-positive lesion (SCJ fully seen, under 75% of the ectocervix, no canal extension, not suspicious, not pregnant) is ablated the same day — thermal ablation at ≥100 °C for 20–30 s or cryotherapy 3-5-3.
+  - Outpatient PID — ceftriaxone 1 g IM stat + doxycycline 100 mg 12-hourly + metronidazole 400–500 mg 12-hourly, both for 14 days; always do a pregnancy test first (ectopic) and admit if no improvement in 72 h.
+  - Pregnancy test before doxycycline, fluconazole or any procedure; bleeding after about 20 weeks means ultrasound to exclude placenta praevia before any speculum.
+  - Failure of one full syndromic course means check adherence and partner treatment, then swab for NAAT/culture and sensitivities (Ugandan resistance to doxycycline, azithromycin and cefixime) — never just repeat the packet.
 ---
 
 ## In a nutshell
@@ -167,6 +171,132 @@ A practical **classification of benign cervical lesions**:
 > [!EXAM]
 > **"How would you present this?"** "Mrs N, a 38-year-old P4, presents with a 3-month history of post-coital bleeding. She has never been screened and is HIV-negative. On speculum there is a 1 cm smooth red pedunculated mass arising from the os; the rest of the cervix appears healthy. My impression is an endocervical polyp; differentials are a prolapsed submucous fibroid, ectropion and cervical cancer. I would do VIA/HPV testing, avulse the polyp and send it for histology, and review with results."
 
+## Clinical workup
+
+This is the order in which you would work up a woman who comes to the gynae clinic (or the OPD at an HC IV) with **discharge, post-coital or inter-menstrual bleeding, or "something on the cervix"**. Most of these women are well and walking; the workup is about **not missing cancer, PID, ectopic pregnancy or placenta praevia**, and then naming the benign lesion precisely.
+
+### Step 0: First 5 minutes
+
+Most women are stable, but check before you reach for the speculum:
+
+1. **Vitals**: pulse, BP, temperature, respiratory rate. Work out the **shock index** (HR ÷ SBP) if she is bleeding; a shock index of 0.9 or more, pallor, cold peripheries or dizziness means she is **not** an OPD patient.
+2. **Is she bleeding heavily now?** (soaking pads, clots, faintness) → lie her down, **IV access (two large-bore cannulae)**, **Hb and group and cross-match**, start crystalloid and **call a senior**. Heavy bleeding from the cervix is far more often a **cancer, an incomplete miscarriage or a prolapsed fibroid** than a polyp or ectropion.
+3. **Could she be pregnant?** Ask the LMP and do a **urine pregnancy test** on everyone of reproductive age. Positive + pain/bleeding → think **ectopic pregnancy or miscarriage** first. Positive and beyond about 20 weeks with bleeding → **no speculum or digital examination until an ultrasound has excluded placenta praevia**.
+4. **Is she septic or peritonitic?** Fever ≥38.0 °C, tachycardia, guarding/rebound, vomiting → treat as **severe PID / tubo-ovarian abscess** (or a surgical abdomen): admit, IV access, bloods, IV antibiotics, and call the team.
+5. **Obvious advanced cancer** (fungating, foul-smelling growth, fistula, uraemic) → this is now the malignant pathway: biopsy, stage, refer and palliate.
+
+> [!REDFLAG]
+> Call for help at once if: shock index ≥0.9 or signs of shock; heavy active bleeding; a positive pregnancy test with pain, bleeding or collapse (ectopic until proven otherwise); fever with peritonism; or any bleeding in the second half of pregnancy before placenta praevia is excluded.
+
+### Step 1: Focused history
+
+Work through this checklist; every item has an answer that **changes the plan**.
+
+- **Main complaint and its timing**: discharge, PCB, IMB, post-menopausal bleeding (PMB), pain, lump. **Any PCB or PMB** → she needs a speculum look, a screening test and a low threshold for biopsy, not a packet of antibiotics.
+- **Character of the discharge**: from the history you can already guess vaginal (itchy/curdy, fishy, frothy) vs cervical (mucopurulent) vs sinister (blood-stained, offensive, watery).
+- **Lower abdominal pain, fever, deep dyspareunia, dysuria** → pain or fever pushes you onto the **PID** arm of the flowchart (14-day regimen, admission if severe).
+- **Risk assessment** (partner with urethral discharge or genital ulcer; age under about 21–25; new partner in the last 3 months; more than one partner). **Any "yes" = treat for cervical infection** even if the cervix looks clean.
+- **LMP, contraception, possibility of pregnancy**: pregnancy removes doxycycline and fluconazole from the menu; COC or pregnancy explains an ectropion; an IUD matters in PID.
+- **Screening history**: ever screened? when? VIA, HPV or Pap? result? treated (cryo/thermal/LEEP)? An **unscreened woman aged 25–49 (or any woman living with HIV)** is screened **today**; a past LEEP/cone explains stenosis or insufficiency.
+- **HIV status**, ART, last viral load: HIV means more STIs, more candida and more CIN; she gets **screen, triage and treat** and shorter intervals.
+- **Previous episodes and treatment**: a woman who has already failed one syndromic packet needs a **swab for NAAT/culture** and a hunt for another diagnosis, not the same packet again.
+- **Obstetric history**: parity, mid-trimester losses (insufficiency), recent delivery/abortion/instrumentation (ascending infection).
+- **Menopausal status**: PMB → assess the **endometrium** as well as the cervix.
+- **Pressure symptoms**: frequency, retention, constipation → cervical fibroid.
+- **Constitutional/"late" symptoms**: weight loss, back or sciatic pain, leg swelling, urine or faeces per vagina → **advanced cancer**; change pathway.
+- **Partner**: symptoms, can he come? (treatment of the couple prevents re-infection).
+
+### Step 2: Focused examination
+
+**General**: pallor, fever, weight/wasting, **inguinal and supraclavicular nodes**, leg oedema.
+
+**Abdomen**: tenderness and guarding (PID), a pelvic mass (fibroid, pyometra, TOA), palpable bladder (retention from a cervical fibroid), ballotable kidneys (hydronephrosis: think cancer).
+
+**Pelvic** (chaperone, consent, good light, empty bladder):
+
+1. **Vulva/introitus**: discharge, ulcers, warts, excoriation (candida).
+2. **Cusco speculum**: the key examination. Describe it in this order: **(a)** discharge: amount, colour, and whether it comes **from the os** or coats the **vaginal walls**; **(b)** the **SCJ**: visible or inside the canal (menopause); **(c)** the ectocervix: ectropion (flat, symmetrical, regular border), Nabothian cysts, friability (touch with a cotton swab); **(d)** any mass: polyp (see its stalk?), fibroid, growth, ulcer; **(e)** vaginal walls.
+3. **Take samples before acetic acid**: endocervical swab (NAAT/culture) and high vaginal swab (wet mount/KOH/pH) where a lab exists; HPV sample if HPV-based screening is available.
+4. **VIA** if due and she is not pregnant or menstruating (acetic acid 3–5%, read at 1 minute).
+5. **Bimanual**: **cervical motion tenderness**, adnexal tenderness or mass, uterine size, a cervix that is **hard, bulky or irregular** (cancer or fibroid).
+6. **Rectal/rectovaginal** only if cancer is suspected (parametria).
+
+**Document the key negatives**: "no CMT, no adnexal mass, no growth or ulcer, SCJ fully visible, no contact bleeding after treatment". These negatives are what let you call a lesion benign.
+
+> [!PEARL]
+> A well-written speculum note makes the diagnosis for you: "Mucopurulent discharge **from the os**, oedematous friable cervix, no CMT" = cervicitis without PID. "Thin grey discharge **coating the vaginal walls**, healthy cervix" = vaginitis. "Smooth red 1 cm pedunculated mass, stalk seen arising from the canal" = polyp.
+
+### Step 3: Bedside tests
+
+| Test | Minutes | What it tells you |
+|---|---|---|
+| **Urine pregnancy test (hCG)** | 3–5 | Must be done before doxycycline, before any procedure and in every woman with pain/bleeding (ectopic) |
+| **VIA** | 2 | Negative / positive (dense acetowhite at the SCJ) / suspicious for cancer (growth, ulcer). Same-visit treatment decisions |
+| **HemoCue / Hb** | 2 | Anaemia from chronic bleeding (polyp, fibroid, cancer); Hb <7 g/dL = severe |
+| **Vaginal pH strip** (where available) | 1 | **>4.5** suggests BV or trichomonas; **≤4.5** with curdy discharge suggests candida |
+| **Whiff test** (10% KOH on the discharge) | 1 | Fishy amine smell = BV (also trichomonas) |
+| **Wet mount / KOH microscopy** (if a microscope is on the ward) | 5–10 | Clue cells (BV), motile trichomonads, hyphae/spores (candida), many pus cells |
+| **Rapid HIV and syphilis tests** | 15 | Any STI is a marker for others; HIV changes screening and follow-up |
+| **Random blood sugar** | 1 | Recurrent candida: exclude diabetes |
+| **Point-of-care ultrasound** (if skilled) | 5 | Free fluid/adnexal mass in suspected ectopic/TOA; placenta site before speculum in late pregnancy |
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Endocervical swab: NAAT for CT/NG** (GeneXpert) | Mucopus from the os, positive risk assessment, failed syndromic treatment; any woman where available | Positive CT and/or NG | Confirms cervicitis; targeted treatment and partner tracing. **Availability**: GeneXpert CT/NG cartridges mainly at regional/national referral hospitals and research sites; **not routine at HC III/IV**, hence syndromic care |
+| **Gram stain / culture of endocervical swab** | Suspected gonorrhoea, especially after treatment failure | Gram-negative intracellular diplococci; culture gives **sensitivities** | With Ugandan AMR to cefixime, azithromycin and doxycycline, a sensitivity result directs second-line therapy. Regional/national referral labs |
+| **High vaginal swab: wet mount, KOH, Gram (Nugent)** | Vaginal discharge, recurrent or unresponsive symptoms | Clue cells, trichomonads, yeast | Chooses metronidazole vs antifungal vs both. HC IV labs with a microscope can do a wet mount |
+| **HPV DNA test** (clinician or self-sample) | Every woman due for screening (general population from 30, WLWH from 25) | HPV negative / positive (± 16/18) | Negative = very low risk, re-screen at interval; positive → **VIA triage** and treatment. GeneXpert hubs and HIV clinics; sample can be taken at HC III/IV and transported |
+| **Punch biopsy** | Any growth, ulcer, suspicious or atypical lesion; persistent PCB with an abnormal-looking cervix | CIN or invasion vs benign inflammation | Only histology diagnoses cancer. Biopsy at HC IV/general hospital; histology read at regional/national referral labs |
+| **Colposcopy** | Persistent PCB with negative screening; suspected glandular lesion; SCJ not seen | Acetowhite, mosaicism, punctation, atypical vessels | Guides biopsy; decides ablation vs LEEP. Referral hospitals (Mengo, Mulago, UCI, regional referrals) |
+| **Polyp histology** | Every polyp removed | Benign endocervical polyp (expected) vs dysplasia/malignancy (rare) | Malignant or dysplastic → gynae-oncology referral |
+| **Pelvic ultrasound (TVUS/TAS)** | Cervical/prolapsed fibroid, pyometra/haematometra, suspected TOA, PMB | Fibroid size and site; fluid in the cavity; adnexal mass; **endometrial thickness** in PMB | Plans vaginal myomectomy vs hysterectomy; PMB with a thick endometrium → endometrial sampling. HC IV (basic) and above |
+| **FBC** | Bleeding, suspected PID | Anaemia; leucocytosis | Iron or transfusion; supports severe PID |
+| **Syphilis (RPR/TPHA), hepatitis B** | Any STI syndrome | Positive serology | Treat and trace partners |
+| **Endometrial biopsy (Pipelle/D&C)** | PMB with thick endometrium or persistent bleeding | Hyperplasia/cancer | Changes the whole diagnosis. General/referral hospital |
+
+> [!UGANDA]
+> At **HC III/IV** your "lab" is the speculum, VIA, a pregnancy test, rapid HIV/syphilis tests and perhaps a microscope: that is exactly why Uganda uses **syndromic management**. **NAAT, culture and sensitivities, colposcopy and histology** live at general, regional and national referral hospitals. Refer or send a sample when the woman has **failed one full course**, has **suspicious findings**, or has **persistent PCB**.
+
+### Step 5: Putting it together
+
+**Model one-line summary**: "A 34-year-old para 3, HIV-negative, last screened never, with 2 months of post-coital spotting; speculum shows a 1 cm smooth pedunculated mass at the os with the stalk seen in the canal, the rest of the cervix VIA-negative, no CMT; pregnancy test negative, Hb 11.8 g/dL."
+
+**Problem list**
+
+1. Post-coital bleeding (cancer must be excluded).
+2. Mass at the os: likely endocervical polyp.
+3. Never screened.
+4. Sexual health: risk assessment, HIV and syphilis status.
+
+**Working diagnosis**: endocervical polyp, with VIA negative today; differentials: prolapsed submucous fibroid, polypoid cancer, ectropion.
+
+**Plan**: avulse the polyp in clinic, send it for histology, HIV/syphilis tests, condoms/counselling, review with histology in 2–4 weeks; if PCB persists after polypectomy → colposcopy.
+
+**Worked example 1: reading a speculum + VIA result**
+
+> A 29-year-old woman living with HIV (viral load suppressed) attends for screening. HPV test: **positive**. Speculum: SCJ fully visible; after acetic acid, a **dense, well-defined acetowhite area at the SCJ from 11 to 2 o'clock**, covering about a quarter of the ectocervix, not entering the canal; no growth or ulcer. Pregnancy test negative.
+
+- **Interpretation**: HPV-positive, **VIA-positive** (triage positive), lesion **eligible for ablation** (whole lesion and SCJ seen, <75% of the ectocervix, no canal extension, no suspicion of cancer, not pregnant).
+- **Next step**: **thermal ablation the same day** (≥100 °C, 20–30 s per application, overlapping) or cryotherapy (3-5-3). Advise watery discharge for 2–4 weeks and no intercourse/tampons for 4 weeks; **re-test at 12 months**.
+- **Contrast**: the same woman with a raised, irregular, ulcerated area that bleeds on touch = **"suspicious for cancer"** → **punch biopsy from the edge and refer**; **never ablate**. A flat, symmetrical, red area around the os that turns only pale pink/translucent = **ectropion**, VIA negative.
+
+**Worked example 2: reading discharge findings**
+
+> A 22-year-old with yellow discharge; new partner 1 month ago; partner has dysuria. Speculum: **mucopus from the os**, friable cervix; no CMT. pH 5.0, whiff test positive, wet mount shows clue cells. Pregnancy test negative.
+
+- **Interpretation**: **cervicitis** (mucopus + positive risk assessment) **plus BV** (Amsel: pH >4.5, positive whiff, clue cells). No CMT, so **no PID**.
+- **Next step**: **ceftriaxone 1 g IM stat (or cefixime 400 mg PO stat) + doxycycline 100 mg PO 12-hourly for 7 days + metronidazole** (2 g stat, or 400–500 mg 12-hourly for 7 days, which cures BV better); partner slip and partner treatment, condoms, HIV/syphilis tests, **review in 7 days** and do VIA/HPV once the inflammation settles.
+- **If she were pregnant**: azithromycin 1 g stat instead of doxycycline; metronidazole 400–500 mg 12-hourly for 7 days.
+
+**Worked example 3: post-menopausal "polyp"**
+
+> A 58-year-old with PMB has a small cervical polyp. After avulsion, **TVUS shows an endometrial thickness of 11 mm**.
+
+- **Interpretation**: the polyp may not be the (only) source; a thick endometrium in PMB needs **endometrial sampling**. Most units use **>4 mm** as the cut-off for sampling in PMB (some use 5 mm; follow your unit).
+- **Next step**: Pipelle or D&C (ideally hysteroscopy) for histology before any reassurance.
+
 ## Differential diagnosis
 
 | Condition | Distinguishing features | Key investigation |
@@ -187,19 +317,15 @@ A practical **classification of benign cervical lesions**:
 
 ## Investigations
 
-| Test | What you are looking for | Why |
+The full test-by-test table (with Ugandan availability) is in **Clinical workup, Step 4**. What that table does not spell out is how to read the vaginal microscopy:
+
+| Finding | What you are looking for | Why |
 |---|---|---|
-| **Urine pregnancy test** | Pregnancy | Rules out ectopic in PID; changes drug choice (no doxycycline, no fluconazole) |
-| **Speculum examination** | Source of discharge, SCJ, lesions | The key "investigation" in syndromic management |
-| **VIA** (3–5% acetic acid, look after 1 minute) | Dense, well-defined **acetowhite** lesion touching the SCJ = VIA positive; growth/ulcer = suspicious cancer | Excludes precancer/cancer at the point of care |
-| **HPV DNA test** (clinician or self-sample, GeneXpert) | High-risk HPV | WHO preferred screening test; negative = very low risk |
-| **Endocervical swab: NAAT for CT/NG** (GeneXpert where available) or gram stain/culture | Chlamydia, gonorrhoea (gram-negative intracellular diplococci) | Confirms cervicitis; culture gives sensitivities (important with AMR) |
-| **High vaginal swab: wet mount, KOH, whiff test, pH** | Clue cells (BV), motile trichomonads, hyphae/spores (candida); pH >4.5 in BV/TV | Distinguishes vaginal causes |
-| **HIV test, syphilis (RPR/rapid), hepatitis B** | Co-infection | Any STI is a marker of risk for others |
-| **Punch biopsy** of any suspicious lesion | CIN, invasive carcinoma | Only histology diagnoses cancer |
-| **Polyp histology** | Benign endocervical polyp vs dysplasia/malignancy | Rare malignancy must not be missed |
-| **Pelvic ultrasound** (transabdominal/transvaginal) | Fibroid location, haematometra/pyometra, endometrial thickness, TOA | Plans surgery and excludes other pathology |
-| **FBC** | Anaemia (bleeding), leucocytosis (PID) | Supportive |
+| **Bacterial vaginosis (Amsel criteria, 3 of 4)** | Thin, grey, homogeneous discharge; **pH >4.5**; **positive whiff test** (fishy smell with 10% KOH); **clue cells** (epithelial cells coated with bacteria) on wet mount | Metronidazole; BV is a vaginal, not cervical, infection |
+| **Trichomoniasis** | Motile flagellated trichomonads on a fresh saline wet mount (read within minutes); pH >4.5; "strawberry cervix" | Metronidazole for her **and** her partner |
+| **Candida** | Hyphae and spores on KOH mount; pH usually ≤4.5 | Clotrimazole (pregnancy) or fluconazole; recurrent → check glucose and HIV |
+| **Gonorrhoea on Gram stain** | Gram-negative **intracellular diplococci** in pus cells (less sensitive in women than in men) | A negative Gram stain does **not** exclude cervical gonorrhoea: keep treating syndromically |
+| **Many pus cells, no organism** | Cervicitis (chlamydia is not seen on microscopy) | Treat for GC + CT if mucopus/risk assessment positive |
 
 ## Management
 
@@ -375,3 +501,53 @@ Features: lower abdominal pain + cervical motion/adnexal tenderness ± fever, ±
 - **"Water under the bridge"**: the ureter passes under the uterine artery 1.5–2 cm lateral to the cervix — danger zone for cervical fibroids and cancer surgery.
 - **Columnar-loving bugs = GC & CT** (the "Cervix Club"); **squamous/vaginal bugs = BV, TV, Candida**.
 - **Polyp rule — "Twist, dab, pot"**: twist it off, dab the base (silver nitrate), put it in the pot for histology.
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| VIA | **3–5% acetic acid**, read after **1 minute**; positive = dense, well-defined acetowhite lesion at/near the SCJ |
+| Screening start (WHO 2021) | General population **30** years (HPV DNA every **5–10 years**; VIA every 3 years); women living with HIV **25** years (HPV every **3–5 years**). Uganda intervals are in transition: check the current MoH algorithm |
+| Ablation eligibility | Whole lesion and SCJ visible, lesion **<75%** of the ectocervix, no canal/vaginal extension, no suspicion of cancer, not pregnant |
+| Thermal ablation / cryotherapy | **≥100 °C for 20–30 s** per application / **freeze 3 min, thaw 5, freeze 3** |
+| After ablation | Watery discharge **2–4 weeks**; no intercourse or tampons for **4 weeks**; re-test at **12 months** |
+| Cervicitis (UCG) | **Cefixime 400 mg PO stat** or **ceftriaxone 1 g IM stat** + **doxycycline 100 mg PO 12-hourly × 7 days** |
+| Chlamydia cover in pregnancy | **Azithromycin 1 g PO stat** (or erythromycin 500 mg PO 6-hourly × 7 days) |
+| BV / trichomonas | **Metronidazole 2 g PO stat** or **400–500 mg PO 12-hourly × 7 days** |
+| Candida | **Clotrimazole 500 mg pessary stat** (safe in pregnancy) or **fluconazole 150 mg PO stat** (avoid in pregnancy) |
+| Outpatient PID | Ceftriaxone **1 g IM stat** + doxycycline **100 mg 12-hourly × 14 days** + metronidazole **400–500 mg 12-hourly × 14 days** |
+| PID oral failure | Admit if no improvement after **72 h** |
+| Abstinence after STI treatment | Until **7 days** after both partners complete treatment |
+| Vaginal pH | Normal about **4**; **>4.5** = BV or trichomonas |
+| BV (Amsel) | **3 of 4**: thin homogeneous discharge, pH >4.5, positive whiff test, clue cells |
+| Untreated GC/CT → PID | About **10–15%** |
+| Cervical polyp | Prevalence about **2–5%**; malignant change **well under 1–2%**; recurrence about **6%** |
+| Cervical fibroids | About **1–2%** of all fibroids |
+| Ureter | About **1.5–2 cm lateral** to the supravaginal cervix, **under** the uterine artery |
+| Cervical branches of the uterine artery | **3 and 9 o'clock** (haemostatic sutures) |
+| Cerclage | History-indicated at **12–14 weeks** if **≥3** mid-trimester losses/PTB; ultrasound-indicated if prior loss/PTB **and** cervix **≤25 mm before 24 weeks**; remove at **36–37 weeks** |
+| PMB endometrial thickness | Sample if **>4 mm** (some units use 5 mm) |
+
+### Classic exam traps
+
+- **"Cervical erosion" treated with cautery.** Wrong: an ectropion is a physiological variant; treat only if symptomatic **after** normal screening and treated infection. Never ablate in pregnancy.
+- **PCB treated with antibiotics and reassurance.** Wrong: PCB needs a speculum look, a screening test, and biopsy of anything abnormal; persistent PCB with a normal screen needs **colposcopy**.
+- **Candida or BV listed as causes of cervicitis.** Wrong: they are **vaginal** infections; mucopus from the os means **gonorrhoea/chlamydia** (columnar-cell bugs).
+- **Doxycycline to a woman who "might be pregnant".** Wrong: do the pregnancy test first; in pregnancy use **azithromycin 1 g stat**.
+- **Polyp avulsed and thrown away.** Wrong: **every** polyp goes for histology; in PMB also assess the endometrium.
+- **Repeating the same syndromic packet after failure.** Wrong: check adherence and partner treatment, then **swab for NAAT/culture and sensitivities** and think of other diagnoses (cancer, TB, schistosomiasis).
+- **Speculum for bleeding at 32 weeks.** Wrong: exclude **placenta praevia by ultrasound** first.
+- **Ablating a lesion that looks invasive** "because VIA was positive". Wrong: a growth or ulcer is **suspicious for cancer** → biopsy and refer.
+
+### Questions seniors ask
+
+- **Where exactly is the discharge coming from, and why does it matter?** From the os = cervical infection (treat GC + CT); coating the vaginal walls = vaginitis (BV/TV/candida). That single observation chooses the drugs.
+- **What makes the risk assessment positive?** Partner with urethral discharge or genital ulcer, age under about 21–25, a new partner in the last 3 months, or more than one partner. Any one → treat for cervical infection even if the cervix looks normal.
+- **How do you know this red area is an ectropion and not cancer?** Flat, symmetrical around the os, regular border, grape-like columnar villi, no dense acetowhitening, SCJ seen; cancer is raised or ulcerated, irregular, hard and friable. If in doubt, biopsy.
+- **This woman is HPV-positive and VIA-positive: what now?** If eligible (whole lesion and SCJ seen, <75%, no canal extension, no suspicion of cancer, not pregnant) → thermal ablation or cryotherapy the same day; if not eligible → LEEP; if suspicious → biopsy. Re-test at 12 months.
+- **Why do you send a benign-looking polyp for histology?** Rarely it contains dysplasia or carcinoma, and a "polyp" may be a prolapsed fibroid or a polypoid cancer; histology is cheap insurance.
+- **When would you not avulse a polyp in OPD?** Broad (sessile) base, large or very vascular, stalk high in the canal or from the cavity (prolapsed fibroid), or suspicious appearance → theatre (EUA/hysteroscopy).
+- **She has pyometra at 70 years: what are you worried about?** Cervical or endometrial cancer causing stenosis: drain, give antibiotics, and biopsy.
+- **Why is a cervical fibroid dangerous at hysterectomy?** It displaces the ureters (1.5–2 cm lateral to the cervix, under the uterine artery) and bladder: ureteric injury.

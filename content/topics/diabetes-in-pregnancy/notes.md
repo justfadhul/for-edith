@@ -3,12 +3,16 @@ title: Diabetes Mellitus in Pregnancy
 summary: Placental hormones make pregnancy a state of rising insulin resistance; women who cannot compensate develop gestational diabetes, diagnosed on a 75 g OGTT (WHO 2013 fasting 5.1, 1-hour 10.0, 2-hour 8.5 mmol/L). Tight control with diet, metformin and insulin prevents macrosomia, shoulder dystocia, stillbirth and neonatal hypoglycaemia, and every woman with GDM needs lifelong screening for type 2 diabetes.
 highYield:
   - Human placental lactogen, placental growth hormone, progesterone, cortisol and prolactin cause insulin resistance from the second trimester; GDM develops when the pancreas cannot double its insulin output.
+  - Screen with a 75 g OGTT at 24–28 weeks after an 8–14 hour fast (earlier, and again at 24–28 weeks, if previous GDM or very high risk). Glycosuria 2+ once or 1+ twice is a trigger for an OGTT, not a diagnosis.
   - WHO 2013 75 g OGTT GDM thresholds are fasting 5.1–6.9, 1-hour 10.0 or more, 2-hour 8.5–11.0 mmol/L (any one value). Fasting 7.0 or more, or 2-hour 11.1 or more, means diabetes in pregnancy (overt).
+  - HbA1c does not diagnose GDM; use it at booking to pick up overt pre-existing diabetes (48 mmol/mol, 6.5%, or more) and to judge control in known diabetes.
   - Pedersen hypothesis - maternal glucose crosses the placenta, insulin does not; the fetal pancreas makes extra insulin, which drives macrosomia, organomegaly, polyhydramnios, delayed lung maturity and neonatal hypoglycaemia.
   - Targets (NICE) are fasting below 5.3, 1-hour after meals below 7.8, or 2-hour below 6.4 mmol/L, keeping glucose above 4.0.
   - Step-up is diet and exercise, then metformin (500 mg, titrate to 2 g/day), then insulin. Start insulin at once if fasting glucose is 7.0 or more at diagnosis. Pre-existing diabetes needs folic acid 5 mg and aspirin from 12 weeks.
+  - A high fasting reading needs bedtime isophane (start about 0.1–0.2 units/kg at 22:00); high post-meal readings need diet change or pre-meal soluble insulin. Titrate by about 2 units every 2–3 days.
+  - Hypoglycaemia below 4.0 mmol/L is treated with 15–20 g of fast sugar and a recheck in 15 minutes; if she cannot swallow, give IV 20% dextrose 75–100 mL or glucagon 1 mg IM.
   - Deliver type 1/2 diabetes at 37+0 to 38+6 weeks; GDM on diet no later than 40+6; in labour keep capillary glucose at 4–7 mmol/L with hourly checks and an IV insulin–dextrose infusion if needed.
-  - After delivery, stop all GDM treatment, feed the baby within 1 hour and check neonatal glucose, and test the mother at 6–13 weeks postpartum (fasting glucose or OGTT), then yearly.
+  - After delivery, stop all GDM treatment, feed the baby within 1 hour and check neonatal glucose at 2–4 hours (before the second feed), and test the mother at 6–13 weeks postpartum (fasting glucose or OGTT), then yearly.
   - DKA in pregnancy can occur at near-normal glucose, kills the fetus in up to a third of cases, and is treated with fluids, fixed-rate IV insulin 0.1 unit/kg/h, dextrose and potassium, not an emergency caesarean.
 ---
 
@@ -165,6 +169,128 @@ GDM, which arises after organogenesis, does **not** raise anomaly rates (unless 
   4. Treating DKA in pregnancy by rushing to caesarean section for an abnormal CTG. **Fix the mother first**; the CTG usually improves.
   5. Forgetting the **6–13-week postpartum test**.
 
+## Clinical workup
+
+Two very different patients arrive with "diabetes" on the file: the **well woman referred for an abnormal glucose or a big SFH** (an outpatient diagnostic workup), and the **sick diabetic woman** who is vomiting, drowsy or hypoglycaemic (an emergency). Step 0 sorts them out in the first minutes.
+
+### Step 0: First 5 minutes
+
+1. **Capillary glucose now**, on every woman with known or suspected diabetes who is unwell, in labour or newly admitted.
+   - **Below 4.0 mmol/L**: treat at once. Conscious: **15–20 g fast sugar** (3–4 teaspoons of sugar in water, or 150–200 mL of soda), recheck in 15 minutes. Unconscious or unable to swallow: **IV 75–100 mL of 20% dextrose** (or 150–200 mL of 10%) or **glucagon 1 mg IM**.
+   - **Above 11 mmol/L, or unwell with vomiting**: check **ketones** (urine dipstick or a blood ketone meter).
+2. **Vital signs and ABC**: pulse, BP, RR (deep sighing **Kussmaul breathing** = acidosis), temperature, SpO₂, GCS, signs of dehydration.
+3. **Suspect DKA** if she is vomiting, has abdominal pain, is breathing deeply, is drowsy, or has **urine ketones 2+ or more**, even with glucose only mildly raised. **Call the obstetrician, physician and anaesthetist**, put in two large-bore cannulae, start **0.9% sodium chloride**, and follow the DKA algorithm in Management.
+4. **Look for the trigger**: fever (mRDT, urine), vomiting, missed insulin, recent **steroids** or **salbutamol**.
+5. **Fetal heart**: listen, but remember that an abnormal CTG in DKA usually recovers when the mother is corrected. **Stabilise the mother first.**
+6. **In labour**: start **hourly capillary glucose** (target 4–7 mmol/L) and alert the neonatal team.
+
+### Step 1: Focused history
+
+- [ ] **Type of diabetes and when diagnosed**: known type 1 or 2, GDM this pregnancy, or "sugar found in the urine"? Pre-existing diabetes brings anomaly, stillbirth and DKA risk.
+- [ ] **Current treatment, exact doses and timing**: metformin dose, insulin type (soluble, isophane, 30/70), units and times. You will need these to titrate.
+- [ ] **Home glucose readings** (ask to see the book or the meter): which readings are high, fasting or post-meal? This decides which dose to change.
+- [ ] **Hypoglycaemia**: how often, how low, does she feel it coming? Recurrent hypos or unawareness need a dose cut.
+- [ ] **Gestational age by the best dating**: decides OGTT timing, delivery timing and steroid use.
+- [ ] **GDM risk factors** (if not yet diagnosed): BMI above 30, previous GDM, previous baby 4 kg or more, first-degree relative with diabetes, previous unexplained stillbirth, polyhydramnios, PCOS, age 35 or more, glycosuria. Decide who needs an OGTT.
+- [ ] **Previous pregnancies**: birth weights, shoulder dystocia, stillbirth, neonatal hypoglycaemia, anomalies. Guides delivery planning and counselling.
+- [ ] **Complications** (pre-existing): eyes, kidneys, BP, neuropathy, heart disease. Predict pre-eclampsia and FGR.
+- [ ] **Medicines**: ACE inhibitors, ARBs, statins (stop), other oral agents (switch), **steroids given recently** (glucose rises for 3–5 days), **TLD** (dolutegravir raises metformin levels).
+- [ ] **Folic acid 5 mg and aspirin** (pre-existing): taken or not?
+- [ ] **Symptoms of DKA or infection**: vomiting, abdominal pain, breathlessness, fever, dysuria.
+- [ ] **Fetal movements**: reduced movements precede stillbirth.
+- [ ] **Diet, work, money for food and strips, insulin storage**: the plan must fit her life.
+
+### Step 2: Focused examination
+
+| Area | Look for | Document |
+|---|---|---|
+| **General** | BMI, hydration, pallor, **Kussmaul breathing**, ketotic breath, GCS | "BMI 34, well hydrated, not acidotic" |
+| **Vital signs** | BP (pre-eclampsia), pulse, temperature, RR | "BP 124/78, afebrile, RR 16" |
+| **Injection sites** | Lipohypertrophy (erratic absorption) | "No lipohypertrophy on the abdomen or thighs" |
+| **Eyes, feet** (pre-existing) | Fundoscopy if you can (refer for a dilated retinal exam), sensation, foot ulcers | "Retinal screen booked; feet intact" |
+| **Abdomen** | **SFH versus dates** (large for dates: macrosomia or polyhydramnios), tense shiny abdomen, fetal parts hard to feel, lie, presentation, engagement, fetal heart | "SFH 36 cm at 32 weeks, liquor clinically increased, cephalic, 5/5 palpable, FHR 146" |
+| **Signs of infection** | Loin tenderness, candidiasis, wound or chest signs | Infection is the commonest DKA trigger |
+| **In labour** | Clinical EFW, pelvic assessment, progress on the partograph | Slow late first stage with a big baby = shoulder dystocia risk |
+
+### Step 3: Bedside tests
+
+| Test | How / when | What the result means |
+|---|---|---|
+| **Capillary blood glucose (glucometer)** | On arrival; then per regimen (profile below); **hourly in labour** | Below 4.0 hypoglycaemia; in labour target **4–7 mmol/L** |
+| **Capillary glucose profile** | Fasting + **1 hour after each main meal** (GDM on diet/metformin); add pre-meal and bedtime readings on insulin | Tells you *which* dose to change (worked example below) |
+| **Urine dipstick** | Every visit | **Glucose** 2+ once or 1+ twice → OGTT; **ketones** 2+ or more when unwell → think DKA; **protein** → pre-eclampsia; **nitrites/leucocytes** → UTI |
+| **Blood ketone meter** (where available) | Glucose above 11 or unwell | 3.0 mmol/L or more with acidosis = DKA |
+| **BP** | Every visit | Pre-eclampsia is commoner |
+| **SFH tape measure** | Every visit from 20 weeks | SFH more than 2 cm (some use 3 cm) above gestation in weeks: scan for macrosomia/polyhydramnios |
+| **Fetal heart (Pinard/Doppler) and CTG** | Every visit; CTG with reduced movements, in labour (continuous for pre-existing and insulin-treated) | Fetal wellbeing |
+| **Point-of-care ultrasound** | If SFH large or presentation unclear | Deepest pool above 8 cm or AFI above 24–25 cm = polyhydramnios |
+| **mRDT, HemoCue** | Fever / pallor | Malaria is a DKA trigger; anaemia lowers HbA1c |
+
+> [!NOTE]
+> A glucometer reading is **capillary whole blood**; the OGTT criteria are for **venous plasma**. A glucometer is acceptable for monitoring, and for the OGTT only if the laboratory cannot do it, but it is less accurate at diagnosis. Use a calibrated meter and in-date strips.
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **75 g OGTT** (venous plasma, fluoride tube) | **24–28 weeks**; at booking/early if previous GDM or very high risk (repeat at 24–28 weeks if normal) | WHO 2013 GDM: **fasting 5.1–6.9, 1 h 10.0 or more, 2 h 8.5–11.0** (any one); overt: **fasting 7.0 or more or 2 h 11.1 or more** | Diagnosis; overt diabetes or fasting 7.0 or more → **insulin at once**. Needs glucose powder, strips and a 2-hour wait: possible at many HC IVs, reliable at hospitals |
+| **Fasting plasma glucose ± HbA1c at booking** (high-risk women) | First visit | FPG 7.0 or more or HbA1c **48 mmol/mol (6.5%) or more** = overt diabetes | Treat as pre-existing diabetes: early anomaly scan, joint clinic |
+| **HbA1c** (pre-existing diabetes) | Booking, then each trimester | Target below 48 mmol/mol; above 86 mmol/mol (10%) = very high anomaly risk | Intensify treatment; detailed anomaly scan. Mostly at regional/national referral or private laboratories. Falsely low with anaemia, recent transfusion, sickle cell |
+| **Urine culture** | Booking, symptoms, positive nitrites | Asymptomatic bacteriuria (commoner in diabetes) | Treat; prevents pyelonephritis and DKA triggers |
+| **Creatinine, electrolytes, urine albumin:creatinine ratio** (pre-existing) | Booking | Raised creatinine, albuminuria = nephropathy | Predicts pre-eclampsia and FGR; drug dosing; metformin contraindicated if eGFR below 30 |
+| **Retinal assessment** (pre-existing) | Booking and 28 weeks | Retinopathy (can progress as control tightens) | Ophthalmology referral; timing of tightening control |
+| **Thyroid function** (type 1) | Booking | Autoimmune thyroid disease | Treat |
+| **Dating ultrasound** | First visit / early | Accurate GA | Timing of OGTT and delivery |
+| **Detailed anomaly scan with cardiac views** (pre-existing or overt) | **18–22 weeks** | Cardiac defects, NTD, caudal regression | Counselling; delivery at a centre with paediatric cardiology/surgery. Regional/national referral |
+| **Growth scans** | Pre-existing: every 4 weeks **28–36 weeks**; GDM: from diagnosis (e.g. 28, 32, 36 weeks) | **AC above the 90th centile**, EFW 4,000 g or more, polyhydramnios; FGR in vasculopathy | AC above the 90th centile = tighten control (consider insulin); EFW 4,500 g or more → offer CS; FGR → closer surveillance. Hospitals |
+| **CTG** | Reduced movements, from about 36–38 weeks per protocol, continuous in labour | Non-reassuring features | Delivery decisions (but correct DKA first) |
+| **DKA bundle**: venous/capillary ketones, **blood gas or serum bicarbonate**, **K⁺**, sodium, creatinine, FBC, blood/urine cultures, malaria test | Any suspicion of DKA | Ketones 3.0 or more (or urine 2+ or more) **plus** bicarbonate below 15 or pH below 7.3 | Confirms DKA; **K⁺ guides potassium replacement**; finds the trigger. Blood gas only at a few referral units: use serum bicarbonate and clinical Kussmaul breathing where it is lacking |
+| **Postpartum fasting glucose or 75 g OGTT** (after GDM) | **6–13 weeks** (OGTT at 4–12 weeks per WHO/ACOG) | Fasting 6.0–6.9 high risk; 7.0 or more likely type 2 | Lifestyle programme, confirm and treat diabetes, annual testing |
+| **Neonatal glucose** | 2–4 hours after birth, before the second feed, then before feeds for 24 hours | Below local threshold (2.6 mmol/L in many Ugandan units; NICE 2.0) | Feed support; IV 10% dextrose 2 mL/kg if symptomatic |
+
+### Step 5: Putting it together
+
+**Model one-line summary**
+> "A 32-year-old G3P2 at 29 weeks, BMI 33, with a previous 4.2 kg baby, diagnosed with GDM on a 75 g OGTT at 26 weeks (fasting 5.6, 1 h 10.2, 2 h 8.1 mmol/L), on diet for 2 weeks with persistently raised fasting readings, BP normal, SFH 31 cm, no ketonuria."
+
+**Problem list**
+1. GDM (WHO 2013), not at target on diet alone, **fasting-predominant** hyperglycaemia.
+2. Previous macrosomic baby: risk of macrosomia and **shoulder dystocia**.
+3. Obesity (BMI 33): pre-eclampsia and thromboembolism risk.
+4. Plan for delivery timing, neonatal glucose checks and postpartum testing.
+
+**Working diagnosis**: gestational diabetes mellitus requiring pharmacological treatment.
+
+#### Worked example 1: reading a 75 g OGTT (WHO 2013)
+
+| Woman | Fasting | 1 h | 2 h | Interpretation |
+|---|---|---|---|---|
+| A | 4.6 | **10.4** | 8.0 | **GDM** on the 1-hour value alone (any one value is enough) |
+| B | **5.3** | 9.4 | 7.4 | **GDM** by WHO 2013 (fasting 5.1 or more). By NICE (fasting 5.6, 2 h 7.8) she would **not** have GDM: state which criteria you use |
+| C | **7.4** | 13.0 | **12.2** | **Diabetes in pregnancy (overt)**: fasting 7.0 or more and 2 h 11.1 or more. Start **insulin at once**, early detailed scan, check HbA1c, retest postpartum |
+| D | 4.8 | 9.6 | 8.3 | **Normal** (every value below threshold). If very high risk and tested early, repeat at 24–28 weeks |
+
+> [!EXAM]
+> Common exam mistake: calling woman D "borderline GDM". There is no borderline in WHO 2013: **each value is compared with its own cut-off (5.1 / 10.0 / 8.5)** and **one** abnormal value makes the diagnosis.
+
+#### Worked example 2: a capillary glucose profile on metformin
+
+Woman on **metformin 1 g twice daily** for 3 weeks, weight 80 kg. Three-day profile (mmol/L):
+
+| Day | Fasting | 1 h after breakfast | 1 h after lunch | 1 h after supper |
+|---|---|---|---|---|
+| 1 | **6.1** | 7.2 | 7.5 | 7.4 |
+| 2 | **6.0** | 7.0 | 7.6 | 7.1 |
+| 3 | **5.9** | 7.3 | 7.2 | 7.5 |
+
+**Reading it**: all post-meal values are below 7.8 (on target); **every fasting value is above 5.3**. The problem is overnight hepatic glucose output, not meals.
+
+**Action**: metformin is at 2 g/day (the usual maximum). **Add bedtime isophane (NPH) at 22:00**, starting at about **0.1–0.2 units/kg** (8–16 units for 80 kg; start at the lower end, e.g. **8 units**), and increase by **2 units every 2–3 days** until fasting is below 5.3 mmol/L, without any reading below 4.0. Teach hypoglycaemia recognition and treatment. If post-meal values later rise, add **pre-meal soluble insulin** to the meal that is high.
+
+#### Quick interpretation: is this DKA?
+
+Glucose 13.2 mmol/L, urine ketones 3+, serum bicarbonate 12 mmol/L, RR 32 with deep breaths, vomiting for 2 days, febrile with loin pain. **Yes: DKA** (ketosis plus acidosis) with a probable **pyelonephritis trigger**. Fluids, fixed-rate insulin 0.1 unit/kg/h, potassium guided by K⁺, dextrose when glucose falls below 14, IV antibiotics, fetal monitoring once stable. **No emergency CS for the CTG.**
+
 ## Differential diagnosis
 
 | Condition | Distinguishing features | Key investigation |
@@ -180,22 +306,7 @@ GDM, which arises after organogenesis, does **not** raise anomaly rates (unless 
 
 ## Investigations
 
-| Test | What you are looking for | Why |
-|---|---|---|
-| **75 g OGTT at 24–28 weeks** (at booking/first trimester too if previous GDM or very high risk; repeat at 24–28 weeks if the early test is normal) | WHO 2013 thresholds | Diagnosis of GDM |
-| **Fasting plasma glucose / HbA1c at booking** (high-risk women) | Overt diabetes (FPG 7.0 or more, HbA1c 48 mmol/mol or more) | Detect pre-existing undiagnosed diabetes early |
-| **Capillary blood glucose (self-monitoring)** | Fasting and 1-hour (or 2-hour) after meals | Titrate treatment |
-| **HbA1c** (pre-existing diabetes) each trimester | Control; risk stratification | Periconception HbA1c predicts anomalies |
-| **Urinalysis** every visit | Glucose, ketones, protein, nitrites | Hyperglycaemia, ketosis, pre-eclampsia, UTI |
-| **Urine culture** | Asymptomatic bacteriuria | More common in diabetes |
-| **Renal function, urine albumin:creatinine ratio** (pre-existing) | Nephropathy | Baseline for pre-eclampsia assessment; drug dosing |
-| **Retinal assessment** at booking and 28 weeks (pre-existing) | Retinopathy progression | Rapid tightening of control can worsen retinopathy |
-| **Thyroid function** (type 1) | Autoimmune thyroid disease | Associated autoimmunity |
-| **Dating scan** | Accurate gestation | Timing of delivery |
-| **Detailed anomaly scan at 18–22 weeks with cardiac views** (pre-existing) | Cardiac and neural tube defects | Higher anomaly rate |
-| **Growth scans** (every 4 weeks from 28 weeks for pre-existing; from diagnosis/28–36 weeks for GDM) | EFW, abdominal circumference, amniotic fluid | Macrosomia, polyhydramnios, growth restriction (in vasculopathy) |
-| **CTG / fetal movement monitoring** | Fetal wellbeing | Stillbirth risk |
-| **In DKA**: capillary/venous blood ketones or urine ketones, blood gas or serum bicarbonate, electrolytes (K⁺), FBC, cultures, malaria test | Acidosis, potassium, trigger | Guides fluid, insulin and potassium therapy |
+All the tests, with timing, cut-offs and Ugandan availability, are in **Clinical workup, Step 4** above. The practical skill the table does not cover is doing the OGTT properly.
 
 ### How to do an OGTT properly
 
@@ -205,6 +316,7 @@ GDM, which arises after organogenesis, does **not** raise anomaly rates (unless 
 4. Give **75 g anhydrous glucose dissolved in 250–300 mL of water**, drunk within 5 minutes.
 5. Sit quietly (no walking about, no food, no smoking).
 6. Measure glucose at **1 hour and 2 hours**.
+7. Do not do the test if she is acutely unwell, vomiting, or within about a week of antenatal corticosteroids (glucose is falsely raised).
 
 ## Management
 
@@ -496,3 +608,53 @@ Set-up: **50 units soluble insulin in 50 mL 0.9% sodium chloride (1 unit/mL)** b
 - **C**old, jittery, hypoglycaemic newborn
 
 **DKA management: "FIKD"** (in order): **F**luids, **I**nsulin 0.1 unit/kg/h, **K**⁺ (potassium), **D**extrose when glucose below 14.
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| OGTT timing | **24–28 weeks**; early (and repeat at 24–28) if previous GDM / very high risk |
+| OGTT prep | **8–14 h fast**, **75 g anhydrous glucose in 250–300 mL water** over 5 min |
+| WHO 2013 GDM (any one) | Fasting **5.1–6.9**, 1 h **10.0 or more**, 2 h **8.5–11.0** mmol/L |
+| Overt diabetes in pregnancy | Fasting **7.0 or more**, 2 h **11.1 or more**, random **11.1 or more** with symptoms; HbA1c **48 mmol/mol (6.5%) or more** at booking |
+| NICE GDM diagnosis | Fasting **5.6 or more** or 2 h **7.8 or more** |
+| Targets (NICE) | Fasting **below 5.3**; 1 h **below 7.8**; 2 h **below 6.4**; never below **4.0** |
+| Glycosuria trigger for OGTT | **2+ once or 1+ twice** |
+| Metformin | Start **500 mg** with a meal, titrate to usual max **2,000 mg/day** |
+| Starting insulin (no previous insulin) | Total **0.3–0.5 units/kg/day** (0.2–0.3 for mild GDM); bedtime isophane **0.1–0.2 units/kg**; titrate **~2 units every 2–3 days** |
+| Premixed 30/70 split | **2/3 before breakfast, 1/3 before supper** |
+| Insulin at diagnosis | Fasting **7.0 or more** (or 6.0–6.9 with macrosomia/polyhydramnios) |
+| Hypoglycaemia | Below **4.0**: **15–20 g** fast sugar; unconscious: **20% dextrose 75–100 mL IV** or **glucagon 1 mg IM** |
+| Pre-existing diabetes | **Folic acid 5 mg** daily; **aspirin 75–150 mg** from **12 to 36 weeks**; HbA1c target **below 48 mmol/mol**; avoid pregnancy if **above 86 mmol/mol (10%)** |
+| Delivery timing | Type 1/2: **37+0 to 38+6**; diet-controlled GDM: **no later than 40+6** |
+| Offer CS | EFW **4,500 g or more** (ACOG) |
+| Intrapartum glucose | **4–7 mmol/L**, **hourly** |
+| GKI (Alberti) | **500 mL 10% dextrose + 10 units soluble insulin + 10 mmol KCl at 100 mL/h** |
+| DKA diagnosis | Ketones **3.0 or more** (urine **2+ or more**) + bicarbonate **below 15** or pH **below 7.3** |
+| DKA insulin / dextrose | **0.1 unit/kg/h** fixed rate; add **10% dextrose 125 mL/h** when glucose **below 14** |
+| Neonate | Feed within **30–60 min**; glucose at **2–4 h** (before 2nd feed); treat below **2.6** (many Ugandan units) / **2.0** (NICE); symptomatic: **10% dextrose 2 mL/kg IV** |
+| Postpartum GDM test | **6–13 weeks** (fasting glucose or OGTT), then **yearly**; recurrence **30–50%** |
+
+### Classic exam traps
+
+- **"HbA1c of 5.4% rules out GDM."** Wrong: HbA1c **does not diagnose GDM** (it falls in pregnancy and is unreliable with anaemia/sickle cell). Do an **OGTT**.
+- **"A random glucose of 6.8 excludes GDM."** Wrong: a random glucose cannot rule it out; do an OGTT at 24–28 weeks.
+- **"Glycosuria 2+ confirms diabetes."** Wrong: the renal threshold falls in pregnancy; glycosuria is a **trigger for an OGTT**.
+- **"Continue metformin and insulin after delivery in GDM."** Wrong: **stop all GDM treatment at delivery** (the placenta has gone) and test at 6–13 weeks.
+- **"Abnormal CTG in DKA: category 1 caesarean."** Wrong: **correct the mother's acidosis first**; the CTG usually recovers.
+- **"Salbutamol for tocolysis."** Wrong in diabetes: it causes hyperglycaemia and DKA; use **nifedipine**.
+- **"Withhold steroids because she is diabetic."** Wrong: give them if indicated and **increase insulin** with 2–4-hourly glucose checks for 72 hours.
+- **"GDM causes congenital anomalies."** Wrong: GDM starts after organogenesis. **Pre-existing** (or overt, undiagnosed type 2) diabetes does.
+
+### Questions seniors ask
+
+1. **"Read me this OGTT: fasting 5.3, 1 h 9.4, 2 h 7.4."** GDM by WHO 2013 (fasting 5.1 or more); not GDM by NICE. Uganda uses WHO 2013.
+2. **"Her fasting readings are 6.0 on metformin 2 g/day but post-meal readings are fine. What do you add?"** **Bedtime isophane** at 22:00, about 0.1–0.2 units/kg, titrated by 2 units every 2–3 days to fasting below 5.3.
+3. **"What does a falling insulin requirement in the third trimester mean?"** Possible **placental insufficiency** (more than about 15–20% fall): assess fetal wellbeing.
+4. **"How will you manage her glucose in labour?"** Hourly capillary glucose, target 4–7 mmol/L; stop metformin; IV insulin–dextrose infusion (or GKI) if above 7 on two readings, and from established labour in type 1.
+5. **"What do you tell the midwife about the baby?"** Skin-to-skin, breastfeed within 30–60 minutes and every 2–3 hours, glucose at 2–4 hours before the second feed, watch for jitteriness, respiratory distress, jaundice and birth injury.
+6. **"Why is DKA different in pregnancy?"** Reduced bicarbonate buffer and accelerated starvation: it occurs faster and at lower glucose (even below 11 mmol/L); fetal loss is 10–35%.
+7. **"When will you deliver a woman with type 1 diabetes, and how?"** 37+0 to 38+6 weeks, vaginal delivery by induction unless there is an obstetric indication or EFW 4,500 g or more; senior present for shoulder dystocia.
+8. **"What follow-up does she need after GDM?"** Fasting glucose or OGTT at 6–13 weeks, then yearly HbA1c/fasting glucose for life, lifestyle advice, and an early OGTT in the next pregnancy.

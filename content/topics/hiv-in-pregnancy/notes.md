@@ -5,10 +5,14 @@ highYield:
   - Without any intervention MTCT is 15–45%; with a suppressed maternal viral load throughout pregnancy and breastfeeding it is below 1%. Viral load is the single biggest determinant of transmission.
   - Uganda uses test-and-treat (Option B+, since 2012) for all pregnant and breastfeeding women; start TLD (TDF 300 mg / 3TC 300 mg / DTG 50 mg) once daily, ideally the same day as diagnosis.
   - Viral load at the first ANC visit (if already on ART) or 3 months after starting ART, then every 3 months until breastfeeding stops. VL of 1,000 copies/mL or more = non-suppressed = high-risk infant.
+  - Four facts to present for every HIV-positive mother are regimen, time on ART, last VL (result AND date) and adherence. An unknown or old VL near term means you treat the baby as high-risk.
   - Low-risk infant = NVP once daily for 6 weeks. High-risk infant = AZT + NVP for 6 weeks, then NVP alone for another 6 weeks (12 weeks total), extended if the mother is still not suppressed.
+  - Start infant prophylaxis within 6 hours of birth; NVP and AZT are both 15 mg (1.5 mL of 10 mg/mL syrup) for a baby of 2.5 kg or more (10 mg if 2.0–2.49 kg).
   - EID = DNA PCR (DBS or point-of-care) at 4–6 weeks, at 9 months and 6 weeks after complete cessation of breastfeeding, then a rapid antibody test at 18 months.
   - Exclusive breastfeeding for 6 months, then complementary foods with continued breastfeeding to at least 12 months, as long as the mother is on ART. Never mix-feed in the first 6 months.
-  - Women on co-trimoxazole must NOT receive IPTp-SP (both are sulfa drugs). Separate DTG from iron/calcium/antacids, and double DTG to 50 mg twice daily with rifampicin.
+  - Co-trimoxazole 960 mg once daily for HIV-positive pregnant and breastfeeding women in Uganda, so NO IPTp-SP (both are sulfa drugs). Separate DTG from iron/calcium/antacids (2 h before or 6 h after), and give DTG 50 mg twice daily with rifampicin.
+  - Advanced HIV disease (CD4 below 200 or WHO stage 3–4) triggers serum CrAg and urine TB LAM; if cryptococcal meningitis, delay ART 4–6 weeks after starting antifungals.
+  - Triple elimination at booking means syphilis-positive women get benzathine penicillin 2.4 MIU IM (weekly × 3 if duration unknown) and HBsAg-positive women get TDF from about 28 weeks plus a birth-dose HBV vaccine for the baby within 24 hours.
   - Caesarean section is NOT routinely indicated for HIV in Uganda; do it for obstetric indications. In labour, avoid prolonged rupture of membranes, unnecessary ARM, episiotomy and scalp electrodes.
 ---
 
@@ -143,6 +147,133 @@ Other foods and fluids (water, formula, porridge) in the first 6 months **damage
   4. Advising formula feeding. Uganda recommends breastfeeding with ART.
   5. Saying the infant needs an antibody test at 6 weeks. Antibodies are maternal until about 18 months; use **DNA PCR**.
 
+## Clinical workup
+
+The workup of a woman with HIV in pregnancy has two jobs: **keep the mother well** (find the opportunistic infection, the drug problem, the non-suppression) and **classify the baby's risk** before delivery. Most of this happens in the eMTCT clinic, but the same steps apply when she is admitted to the antenatal ward or arrives in labour.
+
+### Step 0: First 5 minutes
+
+1. **Is she sick or in labour?** Check **pulse, BP, RR, temperature, SpO₂**, level of consciousness, and whether she is contracting or bleeding. Work out the shock index (HR ÷ SBP; ≥0.9 is abnormal) if she is bleeding.
+2. **Danger signs that need a senior now**:
+   - **Breathless with SpO₂ below 94%**, or RR above 30: PCP, pneumonia or TB. Oxygen, sit her up, call for help.
+   - **Headache with fever, confusion or neck stiffness**: cryptococcal or TB meningitis. Do not start ART today; arrange CrAg and LP.
+   - **Fever ≥38.0°C**: mRDT or blood smear first, then look for pyelonephritis, chorioamnionitis, pneumonia, TB.
+   - **Jaundice, vomiting, RUQ pain**: drug-induced hepatitis or an HBV flare.
+3. **In labour?** Ask straight away: **"Are you on ART? Did you take today's dose? What was your last viral load, and when?"** If her status is **unknown**, do the rapid HIV test now; do not wait for the ward round.
+4. **Start at once**: if newly positive in labour, give **TLD now** and make sure **AZT + NVP syrup** is on the ward for the baby. If she is known positive, make sure she has **taken today's TLD** (even on the day of CS) and the infant syrups are ready.
+
+### Step 1: Focused history
+
+Use this checklist. Each item has a reason: if the answer changes nothing, you do not need to ask it.
+
+- [ ] **Date of HIV diagnosis**: new today, earlier this pregnancy, or years ago? Late diagnosis = high-risk infant.
+- [ ] **Regimen and start date**: TLD, TLE400, ABC-based? Less than 4 weeks of ART before delivery = high-risk infant. Past switches suggest past treatment failure.
+- [ ] **Last viral load: result AND date**: the single most important answer. A suppressed VL from 9 months ago is not reassuring.
+- [ ] **Adherence**: doses missed in the last month (use a calendar), who reminds her, vomiting (hyperemesis), stock-outs, alcohol, depression. Poor adherence explains most non-suppression.
+- [ ] **TB symptom screen**: cough, fever, night sweats, poor weight gain. Any one positive = investigate; TB drugs change the DTG dose.
+- [ ] **Neurological**: headache, confusion, neck stiffness, fits. Meningitis changes ART timing.
+- [ ] **Other medicines**: rifampicin, anticonvulsants, iron/calcium/antacids (timing with DTG), metformin. Interactions cause non-suppression.
+- [ ] **Co-trimoxazole?** If yes, **no IPTp-SP**; give an ITN.
+- [ ] **Triple elimination results**: syphilis (treated? how many doses?), HBsAg. Decides penicillin course and the HBV birth dose.
+- [ ] **Gestational age and dating**: LNMP, early scan. Decides when the pre-delivery VL is due (around 34–36 weeks).
+- [ ] **Disclosure, partner status, safety**: partner tested? on ART or PrEP? Any violence? Affects support, adherence and PrEP for the partner.
+- [ ] **Previous children**: HIV status, EID results, feeding. Shows past control and how well she knows the programme.
+- [ ] **Birth and feeding plan**: where she will deliver, exclusive breastfeeding. Ensures prophylaxis is ready and feeding is safe.
+
+### Step 2: Focused examination
+
+| Area | Look for | Document (positives and key negatives) |
+|---|---|---|
+| **General** | Weight (trend), BMI, pallor, jaundice, wasting, **lymphadenopathy**, **oral thrush**, oral hairy leukoplakia, skin (Kaposi sarcoma, zoster scars, papular pruritic eruption) | "Not pale, no jaundice, no oral thrush, no lymphadenopathy, weight 64 kg (up 2 kg in 4 weeks)" |
+| **Vital signs** | Fever, tachycardia, tachypnoea, SpO₂, BP | BP matters: HIV-positive women also get pre-eclampsia |
+| **Chest** | Crackles, bronchial breathing, effusion (TB, pneumonia); clear chest with low SpO₂ suggests PCP | "Chest clear, SpO₂ 98% on air" |
+| **Neurological** | Neck stiffness, focal signs, GCS | "No neck stiffness, GCS 15" |
+| **Abdomen / obstetric** | SFH versus dates (**FGR is commoner**), lie, presentation, fetal heart, liver tenderness, uterine tenderness | "SFH 34 cm at 35 weeks, cephalic, FHR 140" |
+| **Genital** (speculum if symptoms) | Ulcers (syphilis, herpes), warts, discharge. Genital infection raises genital VL | "No ulcers, no abnormal discharge" |
+| **In labour** | Cervical dilatation, membranes intact or ruptured and **for how long**, liquor colour | Time of ROM matters: plan to shorten the interval to delivery |
+
+### Step 3: Bedside tests
+
+| Test (minutes, on the ward or in the clinic) | Use |
+|---|---|
+| **HIV rapid tests** (national serial algorithm: screening test, then confirmatory test, then tie-breaker; the kits change, so follow the current algorithm) | Diagnosis. A single reactive screening test is **not** a diagnosis |
+| **Dual HIV/syphilis RDT** | Syphilis screen. The treponemal test **stays positive after treatment**, so ask about past treatment before re-treating |
+| **HBsAg RDT** | Chronic HBV: TDF-containing regimen, HBV birth dose within 24 hours |
+| **Point-of-care CD4** (semi-quantitative, available at many sites) | Above or below 200 cells/mm³: identifies advanced HIV disease the same day |
+| **Serum CrAg lateral-flow test** | If CD4 is 200 or below: positive without meningitis = pre-emptive fluconazole (senior advice in the first trimester) |
+| **Urine TB LAM** | CD4 below 200 or seriously ill: a positive result allows TB treatment the same day |
+| **mRDT** | Every fever |
+| **HemoCue / Hb** | Anaemia (HIV, malaria, previous AZT) |
+| **Urine dipstick** | Protein (pre-eclampsia, TDF kidney effect), nitrites/leucocytes (UTI), glucose |
+| **RBS** | If symptoms or risk factors; DTG may modestly raise glucose |
+| **Fetal heart / CTG / partograph** | Fetal wellbeing; in labour, plot on the partograph and avoid prolonged labour |
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Viral load** | First ANC visit if already on ART; **3 months after starting ART**; then **every 3 months** until breastfeeding ends; make sure one is available at **34–36 weeks** | Below 50 = undetectable; 50–999 = low-level viraemia; **1,000 or more = non-suppressed** (programme threshold; some newer guidance uses lower cut-offs, see the note below) | Non-suppressed: IAC ×3, check interactions, repeat VL; **baby high-risk** if not suppressed near delivery. POC VL at many HC IVs and hospitals; otherwise DBS/plasma via the hub to CPHL (results can take weeks, so **order early**) |
+| **CD4 count** | Baseline at diagnosis; if unwell or re-engaging after defaulting | Below 200 = advanced HIV disease | CrAg, TB LAM, closer follow-up; CTX is already given to all pregnant women. Full CD4 counts mainly at hospitals; POC CD4 at many HC IVs |
+| **Serum CrAg** (± LP with CSF CrAg) | CD4 200 or below; any headache/confusion | Positive | Pre-emptive fluconazole, or LP and induction therapy if meningitis. **Delay ART 4–6 weeks** in cryptococcal meningitis. LP at hospital level |
+| **GeneXpert (sputum)** | Any positive TB symptom screen | MTB detected ± rifampicin resistance | Start TB treatment; **DTG 50 mg twice daily** while on rifampicin and for 2 weeks after; TPT only once TB is excluded. Available at HC IVs and hospitals via the hub |
+| **Chest X-ray (with abdominal shielding)** | Respiratory symptoms, suspected TB/PCP | Cavities, effusion, miliary pattern (TB); bilateral interstitial shadows (PCP) | Pregnancy is **not** a reason to withhold a needed CXR. Hospital level |
+| **FBC** | Booking, then per ANC schedule; any fever | Anaemia; neutropenia/anaemia if on AZT; raised WBC in sepsis | Iron, transfusion planning, change AZT |
+| **Creatinine / eGFR** | Baseline where available, especially before TDF; on TDF-based PrEP | CrCl below 50 mL/min | Switch TDF to ABC-based regimen (**check HBsAg first**). Regional/national referral mostly |
+| **LFTs** | Jaundice, vomiting, RUQ pain, HBsAg-positive | Raised ALT/AST, bilirubin | Drug-induced hepatitis vs HBV flare; stop the offending drug only with senior advice (do not stop TDF abruptly in HBV) |
+| **HBV DNA / HBeAg** | HBsAg-positive (where available) | HBV DNA 200,000 IU/mL or more, or HBeAg-positive | TDF from about 28 weeks is a priority; where unavailable, many programmes offer TDF to all HBsAg-positive women. Rarely available outside national referral level |
+| **Blood group and Rh** | Booking | Rh-negative | Anti-D plan |
+| **Urine culture** | Dipstick positive or symptoms | Significant growth | Treat UTI/pyelonephritis |
+| **Obstetric ultrasound** | Dating, growth concerns | FGR, oligohydramnios | Fetal surveillance, timing of delivery |
+| **HIV drug-resistance test** | Persistent non-suppression despite verified good adherence | Resistance mutations | Via the **switch committee**; sample to CPHL |
+| **Infant DNA PCR** | 4–6 weeks, 9 months, 6 weeks after breastfeeding stops (± at birth in high-risk infants where available) | Positive | Start ART the same day and send a confirmatory sample |
+
+> [!UGANDA]
+> The **1,000 copies/mL** cut-off is the long-standing Uganda programme threshold for "non-suppressed", and it is what the rest of these notes use. Newer WHO guidance puts more emphasis on reaching **below 50** (undetectable) and treats **50–999** as low-level viraemia that still needs adherence support; some units act at **200**. Check the current Uganda Consolidated Guidelines and your clinic's rule, and flag any detectable VL near term to a senior.
+
+### Step 5: Putting it together
+
+**Model one-line summary**
+> "A 24-year-old G2P1 at 35 weeks, HIV-positive diagnosed at booking at 20 weeks, on TLD for 15 weeks, with a VL of 2,400 copies/mL at 33 weeks, self-reports missing 'some' doses, co-trimoxazole prophylaxis, HBsAg and syphilis negative, TB screen negative, clinically well."
+
+**Problem list**
+1. HIV in pregnancy, **non-suppressed** VL in the third trimester.
+2. **High-risk HIV-exposed infant** anticipated.
+3. Adherence barriers to explore (disclosure, stigma, iron timing with DTG).
+4. Routine ANC at 35 weeks (birth plan, feeding plan).
+
+**Working diagnosis**: HIV infection on first-line TLD with non-suppression, most likely from poor adherence (recent start, missed doses) rather than resistance.
+
+#### Worked example 1: reading a VL/CD4/HBsAg panel
+
+| Result | What it means |
+|---|---|
+| VL at 33 weeks: **2,400 copies/mL** | Non-suppressed (1,000 or more). Only 13 weeks on ART, so partly "not yet suppressed", but missed doses too |
+| Baseline CD4: **310 cells/mm³** | Not advanced HIV disease; CrAg not required by the CD4 rule |
+| HBsAg: **negative** | No HBV action; routine infant immunisation |
+| Syphilis: **negative** | Retest is not routine, but treat if there is a new genital ulcer |
+
+**Plan**:
+1. Start **intensive adherence counselling** today (session 1), with a treatment supporter; check that ferrous sulphate is taken **2 hours after or 6 hours before** DTG, or together with food.
+2. Look for other interactions (rifampicin, anticonvulsants): none.
+3. **Repeat VL** early so a result is available before delivery (the clinic may repeat within about 4 weeks late in pregnancy rather than waiting the full 3 months).
+4. **Classify the baby as high-risk** unless a VL below 1,000 copies/mL is available from the last 4 weeks before delivery: **AZT + NVP for 6 weeks, then NVP alone for 6 weeks**; if she weighs 2.5 kg or more, both drugs at **15 mg (1.5 mL)**.
+5. Consider a birth PCR for the baby where available; first routine PCR at 4–6 weeks.
+6. Facility delivery; avoid prolonged ROM, routine ARM and episiotomy. Mode of delivery by obstetric indication.
+
+#### Worked example 2: new diagnosis in labour
+
+A 19-year-old primigravida at 38 weeks, 6 cm dilated, **no ANC**. Rapid HIV test: screening test reactive, confirmatory test reactive. POC CD4 **below 200**. HBsAg **reactive**. Syphilis RDT **reactive**.
+
+| Finding | Interpretation | Action |
+|---|---|---|
+| HIV positive, no ART | Untreated, high VL likely; ART under 4 weeks before delivery | **TLD now**; baby **high-risk**: AZT + NVP within 6 hours of birth, 12 weeks in total |
+| CD4 below 200 | Advanced HIV disease | Serum CrAg and urine TB LAM; TB symptom screen; co-trimoxazole 960 mg daily; ask about headache |
+| HBsAg positive | HIV/HBV co-infection | TLD already contains TDF + 3TC, which treat HBV. **Never use an ABC-based regimen alone**. Baby: **HBV birth-dose vaccine within 24 hours** (± HBIG where available) |
+| Syphilis RDT positive, never treated | Untreated syphilis, duration unknown | **Benzathine penicillin 2.4 MIU IM weekly × 3** (start now). Examine the baby for congenital syphilis and treat the newborn per the paediatric protocol, because treatment less than 30 days before delivery does not protect the fetus |
+
+> [!PEARL]
+> Before you present an HIV-positive woman, say the **four facts** (regimen, time on ART, last VL with date, adherence) and then say the **infant risk category out loud**. That is exactly what the consultant will ask for.
+
 ## Differential diagnosis
 
 This topic is about managing a known diagnosis, so the useful differentials are **the causes of a sick HIV-positive pregnant woman** and **the causes of a non-suppressed viral load**.
@@ -172,21 +303,14 @@ This topic is about managing a known diagnosis, so the useful differentials are 
 
 ## Investigations
 
+The full test list, with timing, interpretation and Ugandan availability, is in **Clinical workup, Step 4** above. Points the table does not spell out:
+
 | Test | What you are looking for | Why |
 |---|---|---|
 | **HIV test** (national serial algorithm: screening, confirmatory, tie-breaker) | Diagnosis | Always confirm a first positive; retest before ART start per programme rules to avoid misdiagnosis |
-| **Dual HIV/syphilis RDT** | Treponemal antibodies | Syphilis causes stillbirth and congenital syphilis; treatable in one visit |
-| **HBsAg** | Chronic hepatitis B | Determines ART choice (TDF-containing), infant HBV birth dose ± HBIG |
-| **Viral load** | Suppression (below 1,000 copies/mL) | Decides infant risk, adherence interventions, need for switch |
-| **CD4 count** (baseline) | Advanced HIV disease (below 200) | Triggers CrAg screening, TB LAM, CTX and closer follow-up |
-| **Serum CrAg** (if CD4 200 or below, or per programme) | Early cryptococcal infection | Pre-emptive treatment prevents meningitis; ART timing |
-| **TB screen**: symptoms every visit; GeneXpert if positive; TB LAM if CD4 below 200 | Active TB | Leading cause of HIV death; TB drugs interact with DTG |
-| **Hb / FBC** | Anaemia | Common; affects delivery planning |
-| **Creatinine / urinalysis** where available | Renal function | TDF is renally cleared; avoid if CrCl below 50 mL/min |
-| **LFTs** (if symptoms or HBV) | Hepatotoxicity, HBV activity | |
-| **Malaria test** when febrile | Malaria | Co-infection increases placental inflammation and transmission |
 | **Blood glucose** where indicated | Hyperglycaemia | DTG can modestly raise glucose; interaction with metformin |
-| **Infant**: DNA PCR (DBS or POC) | Infant infection | Antibody tests are unreliable before 18 months |
+| **Malaria test** when febrile | Malaria | Co-infection increases placental inflammation and transmission |
+| **Infant**: DNA PCR (DBS or POC) | Infant infection | Antibody tests are unreliable before 18 months because of maternal IgG |
 
 ## Management
 
@@ -456,3 +580,53 @@ Mother's last VL near delivery
                            then NVP x 6 weeks
                            (extend NVP if mother still >=1000)
 ```
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| MTCT risk, no intervention / suppressed on ART | **15–45%** / **below 1%** |
+| TLD | TDF 300 mg + 3TC 300 mg + DTG 50 mg, **one tablet once daily**, start **same day** |
+| DTG with rifampicin | **50 mg twice daily**, until **2 weeks after** rifampicin stops |
+| DTG with iron/calcium/antacids | DTG **2 h before or 6 h after**, or together with food |
+| VL schedule | First ANC visit (if on ART) or **3 months after start**, then **every 3 months** until breastfeeding ends |
+| VL categories | Below 50 undetectable; 50–999 low-level viraemia; **1,000 or more non-suppressed** (programme cut-off; check local rule) |
+| Advanced HIV disease | **CD4 below 200** or WHO stage 3–4 |
+| Delay ART in cryptococcal meningitis | **4–6 weeks** after starting antifungals |
+| Co-trimoxazole (mother) | **960 mg once daily**; no IPTp-SP |
+| Isoniazid preventive therapy | **300 mg daily × 6 months + pyridoxine 25 mg daily** (TB excluded first) |
+| Infant NVP / AZT, 2.5 kg or more | **15 mg (1.5 mL)** NVP once daily / **15 mg (1.5 mL)** AZT twice daily |
+| Infant NVP / AZT, 2.0–2.49 kg | **10 mg (1 mL)** each |
+| Infant NVP 6–12 weeks | **20 mg (2 mL)** once daily |
+| Start infant prophylaxis | **Within 6 hours** of birth |
+| Low-risk / high-risk infant prophylaxis | NVP **6 weeks** / AZT + NVP 6 weeks then NVP 6 weeks (**12 weeks**) |
+| High-risk definition | ART **under 4 weeks**, VL **1,000 or more or unknown** in the last 4 weeks, late diagnosis, seroconversion |
+| EID | DNA PCR **4–6 weeks, 9 months, 6 weeks after weaning**; antibody at **18 months** |
+| Infant co-trimoxazole | From **6 weeks**: **120 mg** daily under 6 months, **240 mg** from 6 months |
+| Syphilis | Benzathine penicillin **2.4 MIU IM** single (early) or **weekly × 3** (late/unknown) |
+| HBsAg-positive, HIV-negative | TDF **300 mg daily from about 28 weeks**; baby HBV vaccine **within 24 hours** |
+| PEP after needlestick | TLD for **28 days** |
+
+### Classic exam traps
+
+- **"Give IPTp-SP as usual."** Wrong: a woman on co-trimoxazole gets **no SP**. Co-trimoxazole protects against malaria; give an ITN.
+- **"Do an HIV antibody test at 6 weeks."** Wrong: maternal IgG persists to about 18 months. Use **DNA PCR**.
+- **"Plan an elective caesarean because she is HIV-positive."** Wrong in Uganda: CS is for **obstetric indications**.
+- **"Switch to second line because the VL is 2,400."** Wrong first step: do **IAC and repeat the VL**; most non-suppression is adherence.
+- **"She was suppressed last year, so the baby is low-risk."** Wrong: risk depends on a VL **in the last 4 weeks before delivery**; old or unknown VL = **high-risk**.
+- **"Formula-feed to protect the baby."** Wrong in Uganda: **exclusive breastfeeding for 6 months** on ART; never mix-feed.
+- **"Start ART today" in a woman with headache and neck stiffness.** Wrong: rule out cryptococcal/TB meningitis first; ART is **delayed 4–6 weeks** after antifungals start.
+- **"Stop DTG in women who might conceive."** Wrong: WHO and Uganda recommend DTG for all, including pregnant women, with folic acid as usual.
+
+### Questions seniors ask
+
+1. **"What was her last viral load, and when?"** The one answer that decides the baby's prophylaxis. If it is 1,000 or more, unknown, or not from the last 4 weeks, the baby is high-risk.
+2. **"Why is TLD preferred in pregnancy?"** DTG suppresses the VL quickly (vital in late presenters), has a high genetic barrier to resistance, is well tolerated, and TDF + 3TC also treat hepatitis B.
+3. **"She is on TLD and ferrous sulphate and her VL is up. What will you check?"** Adherence first, then **timing of iron with DTG** (chelation), then other interactions such as rifampicin; resistance is uncommon on DTG.
+4. **"The baby weighs 2.7 kg and the mother started ART 2 weeks ago. Prescribe."** High-risk: **AZT 15 mg (1.5 mL) twice daily + NVP 15 mg (1.5 mL) once daily for 6 weeks**, then **NVP 20 mg once daily** for another 6 weeks.
+5. **"When is the baby's HIV status final?"** After a negative test done **at least 6 weeks after all breastfeeding has stopped** (and the 18-month antibody test).
+6. **"Her dual RDT shows syphilis positive, but she says she was treated last pregnancy. What now?"** The treponemal RDT stays positive for life; if treatment is documented and adequate and there is no new exposure, do not simply re-treat. If undocumented or doubtful, treat as unknown duration: **benzathine penicillin 2.4 MIU weekly × 3**.
+7. **"Her CD4 is 150. What extra tests?"** **Serum CrAg** and **urine TB LAM**, a TB symptom screen, GeneXpert if symptomatic; she has advanced HIV disease.
+8. **"She presents in labour with unknown status. What do you do?"** Rapid HIV test now; if positive, **TLD immediately**, baby **high-risk** (AZT + NVP within 6 hours), HBsAg and syphilis tests, and link mother and baby to the eMTCT clinic.

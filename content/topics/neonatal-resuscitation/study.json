@@ -110,6 +110,31 @@
       "id": "nr-f22",
       "front": "Is gasping 'breathing' in HBB?",
       "back": "**No.** Gasping is a sign of severe hypoxia: treat as not breathing and **ventilate**."
+    },
+    {
+      "id": "nr-f23",
+      "front": "Score this 1-minute APGAR: blue all over, HR 80, grimace, some flexion, weak irregular breathing.",
+      "back": "0 + 1 + 1 + 1 + 1 = **4** (moderately depressed). But ventilation should already have started on \"not breathing\" before this score was assigned."
+    },
+    {
+      "id": "nr-f24",
+      "front": "Which checks do you do on every baby who needed resuscitation, and how often?",
+      "back": "**Breathing, HR, colour, temperature (36.5-37.5°C), tone/suck, and blood glucose**; every **15 min for the first 2 h**, then regularly for 24 h. SCBU if lethargic, poor suck, seizures, distress or abnormal glucose/temperature."
+    },
+    {
+      "id": "nr-f25",
+      "front": "HR is 50 but the chest is NOT rising with ventilation. Next step?",
+      "back": "**Improve ventilation first** (MR SOPA: mask, reposition, suction, open mouth, pressure, alternative airway). Compressions only after **30 s of ventilation that moves the chest** with HR still <60."
+    },
+    {
+      "id": "nr-f26",
+      "front": "Late-preterm baby after resuscitation: temperature 35.8°C, glucose 2.1 mmol/L, ROM 30 h. Three immediate actions?",
+      "back": "**Warm** (skin-to-skin/KMC or warmer); **10% dextrose 2 mL/kg IV** then 60 mL/kg/day and recheck in 30 min; **ampicillin + gentamicin** (after blood culture if available) for sepsis risk; admit/refer to SCBU."
+    },
+    {
+      "id": "nr-f27",
+      "front": "Which investigations help after birth asphyxia, and which are usually available only at referral hospitals?",
+      "back": "Everywhere with a glucometer: **glucose**; HC IV/hospitals: **FBC**; regional/national referral: **blood culture, CRP, electrolytes/calcium/creatinine, bilirubin, chest X-ray, cranial ultrasound**; blood gas rarely available."
     }
   ],
   "mcqs": [

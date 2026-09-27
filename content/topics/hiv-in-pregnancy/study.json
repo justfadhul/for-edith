@@ -110,6 +110,31 @@
       "id": "hiv-f22",
       "front": "Is caesarean section routinely indicated for HIV in Uganda?",
       "back": "**No.** CS is for obstetric indications. Vaginal delivery with ART and infant prophylaxis is standard; CS carries risks of sepsis and haemorrhage in our setting."
+    },
+    {
+      "id": "hiv-f23",
+      "front": "What four facts must you state when presenting any HIV-positive pregnant woman on a ward round?",
+      "back": "**Regimen**, **time on ART**, **last viral load with its date**, and **adherence**. Then state the **infant risk category** (low or high)."
+    },
+    {
+      "id": "hiv-f24",
+      "front": "Which bedside tests identify advanced HIV disease and its main killers on the same day?",
+      "back": "**Point-of-care CD4** (below 200 = AHD), **serum CrAg lateral-flow test** (cryptococcal antigen, if CD4 200 or below) and **urine TB LAM** (CD4 below 200 or seriously ill)."
+    },
+    {
+      "id": "hiv-f25",
+      "front": "A woman on TLD has a VL of 2,400 copies/mL at 33 weeks. Give the next steps.",
+      "back": "**IAC** (starting today), check **iron/calcium timing with DTG** and other interactions (rifampicin), **repeat VL early** so a result is available before delivery, and plan **high-risk infant prophylaxis** (AZT + NVP 6 weeks, then NVP 6 weeks) unless a VL below 1,000 is available from the last 4 weeks before delivery. Do **not** switch regimen as the first step."
+    },
+    {
+      "id": "hiv-f26",
+      "front": "Why does a positive dual HIV/syphilis RDT not always mean active syphilis?",
+      "back": "The syphilis component is **treponemal**, so it **stays positive for life** after treatment. Ask about documented past treatment. If undocumented or doubtful, treat as unknown duration: **benzathine penicillin 2.4 MIU IM weekly × 3**."
+    },
+    {
+      "id": "hiv-f27",
+      "front": "A woman newly diagnosed with HIV in labour is also HBsAg-positive. What does the baby need?",
+      "back": "**High-risk HIV prophylaxis**: AZT + NVP within 6 hours of birth (12 weeks in total), and the **hepatitis B birth-dose vaccine within 24 hours** (± HBIG where available). The mother starts **TLD now** (TDF + 3TC also treat HBV)."
     }
   ],
   "mcqs": [

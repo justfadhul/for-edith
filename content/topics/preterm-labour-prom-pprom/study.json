@@ -105,6 +105,31 @@
       "id": "ptl-f21",
       "front": "Vaginal progesterone for prevention: who and what dose?",
       "back": "Short cervix **≤25 mm at 16–24 weeks** and/or previous spontaneous preterm birth: **200 mg vaginally at night until 34 weeks**."
+    },
+    {
+      "id": "ptl-f22",
+      "front": "How do you perform a sterile speculum examination for suspected ROM, and what confirms it?",
+      "back": "Lie her down for **20–30 min** first; sterile gloves and speculum, **water only** (no gel or antiseptic, which upset nitrazine). Look for **pooling** in the posterior fornix or fluid from the os on **coughing**; note colour, smell, cord, visual dilatation; take swabs; test with nitrazine and a fern slide. **No digital VE** unless in labour."
+    },
+    {
+      "id": "ptl-f23",
+      "front": "False positives and false negatives of the fern test?",
+      "back": "**Fern**: dried fluid forms an arborisation (fern) pattern. **False positive**: cervical mucus, fingerprints. **False negative**: blood, too little fluid, poor drying (air-dry about 10 min)."
+    },
+    {
+      "id": "ptl-f24",
+      "front": "PPROM at 31 weeks, day 3, steroids finished yesterday: WBC 18, afebrile, pulse 84, FHR 140, uterus non-tender, liquor clear. Chorioamnionitis?",
+      "back": "**Not on this evidence.** Steroids raise WBC for about **72 h**. Without fever, maternal/fetal tachycardia, uterine tenderness or foul liquor, continue expectant care with 4-hourly temperature, pulse and FHR and repeat the FBC ± CRP (trend matters)."
+    },
+    {
+      "id": "ptl-f25",
+      "front": "Transvaginal cervical length in threatened preterm labour: thresholds, and when is it NOT done?",
+      "back": "**<15 mm** = high risk of birth within 7 days (treat: steroids, consider tocolysis/transfer); **>15 mm** = low risk (avoid overtreatment). Only with **intact membranes**; **never in PPROM**. Thresholds of 15–30 mm are used in different guidelines."
+    },
+    {
+      "id": "ptl-f26",
+      "front": "Before giving steroids for threatened preterm labour, what must you check about gestational age?",
+      "back": "That GA is **accurate**: earliest ultrasound (ideally <24 weeks) or a certain LNMP. **Fundal height alone is unreliable**. If uncertain, **scan** (biometry, EFW) first: steroids at ≥34 weeks give little benefit and cause neonatal hypoglycaemia (WHO condition: accurate GA)."
     }
   ],
   "mcqs": [

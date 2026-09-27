@@ -110,6 +110,31 @@
       "id": "dm-f22",
       "front": "Neonatal glucose monitoring after a diabetic pregnancy?",
       "back": "Feed within **30–60 minutes**, then every 2–3 hours; check glucose **2–4 hours after birth (before the second feed)** and before feeds for 24 hours. Treat low glucose per protocol (many Ugandan units treat below 2.6 mmol/L)."
+    },
+    {
+      "id": "dm-f23",
+      "front": "OGTT result: fasting 5.3, 1 h 9.4, 2 h 7.4 mmol/L. Diagnosis by WHO 2013 and by NICE?",
+      "back": "**WHO 2013: GDM** (fasting 5.1 or more; any one value is enough). **NICE: not GDM** (needs fasting 5.6 or more or 2 h 7.8 or more). Uganda uses **WHO 2013**."
+    },
+    {
+      "id": "dm-f24",
+      "front": "On metformin 2 g/day, fasting readings are 5.9–6.1 but all 1-hour post-meal readings are below 7.8. What do you change?",
+      "back": "Add **bedtime isophane (NPH) insulin at 22:00**, starting about **0.1–0.2 units/kg** (lower end first), and increase by **~2 units every 2–3 days** until fasting is **below 5.3 mmol/L** without readings below 4.0."
+    },
+    {
+      "id": "dm-f25",
+      "front": "Which urine dipstick results in a diabetic pregnant woman need action, and what action?",
+      "back": "**Glucose** 2+ once or 1+ twice → OGTT (if not yet diagnosed). **Ketones** 2+ or more when unwell → check glucose, bicarbonate/blood gas: think **DKA**. **Protein** → pre-eclampsia workup. **Nitrites/leucocytes** → urine culture (UTI is a DKA trigger)."
+    },
+    {
+      "id": "dm-f26",
+      "front": "What are the first actions for a woman with diabetes whose capillary glucose is 2.9 mmol/L and who cannot swallow?",
+      "back": "**IV 75–100 mL of 20% dextrose** (or 150–200 mL of 10%), or **glucagon 1 mg IM** if no IV access; recheck glucose in 15 minutes, give a snack once awake, and find the cause (insulin dose, missed meal, early-pregnancy sensitivity)."
+    },
+    {
+      "id": "dm-f27",
+      "front": "Why can HbA1c mislead in Ugandan pregnant women, and what is it used for?",
+      "back": "It **falls in pregnancy** (increased red-cell turnover) and is falsely low with **anaemia, recent transfusion, malaria and sickle cell disease**. It is **not used to diagnose GDM**; use it at booking to detect overt diabetes (**48 mmol/mol / 6.5% or more**) and to monitor known diabetes."
     }
   ],
   "mcqs": [

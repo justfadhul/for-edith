@@ -10,6 +10,10 @@ highYield:
   - Early disease (IA2–IB2, IIA1) → radical hysterectomy + pelvic lymphadenectomy (or chemoradiation); locally advanced (IB3–IVA) → concurrent chemoradiation — EBRT 45–50 Gy in 25 fractions + weekly cisplatin 40 mg/m² + brachytherapy, total time ≤56 days.
   - Over 80% of Ugandan women reach the Uganda Cancer Institute with advanced disease; the commonest cause of death is renal failure from ureteric obstruction.
   - Uganda gives a single dose of HPV vaccine to 10-year-old girls (since 2025); immunocompromised girls (e.g. HIV) still need at least 2 doses.
+  - Symptomatic women are diagnosed, not screened — PCB, PMB or offensive discharge needs a speculum look and a punch biopsy from the edge of any growth; never ablate a lesion that looks invasive.
+  - Clinical FIGO staging — EUA with speculum, bimanual and rectovaginal examination (parametria), cystoscopy/proctoscopy if bladder or rectum is suspected, renal ultrasound or IVU (hydronephrosis = IIIB whatever the tumour size) and a chest X-ray; bullous oedema alone is not IVA.
+  - Minimum workup before referral to UCI — histology, Hb (keep ≥10 g/dL during radiotherapy), urea/creatinine, renal ultrasound, CXR, HIV status with CD4 and viral load.
+  - Cisplatin is withheld if creatinine clearance is below about 50 mL/min — drain obstructed kidneys (nephrostomy) first; heavy tumour bleeding gets tranexamic acid 1 g IV, a vaginal pack with a urinary catheter and urgent haemostatic radiotherapy.
 ---
 
 ## In a nutshell
@@ -140,6 +144,147 @@ HIV depletes CD4 cells and impairs cell-mediated immunity, so HPV persists, mult
 - **Cancer in pregnancy** (not rare in Uganda): management depends on stage and gestation — discuss at a multidisciplinary level; delivery is by **caesarean section** (vaginal delivery through a tumour risks haemorrhage and tumour implantation in the episiotomy).
 - **Common student mistakes**: calling an ulcerated cervix "cervicitis" and giving antibiotics; forgetting the rectal examination; forgetting renal function; staging hydronephrosis as stage II; offering cryotherapy to a lesion that looks invasive; forgetting palliative care and pain relief.
 
+## Clinical workup
+
+The workup of a woman with suspected cervical cancer has three jobs, done in this order: **(1) keep her alive today** (bleeding, uraemia, sepsis), **(2) prove the diagnosis** (biopsy) and **(3) stage her and check her fitness** so that the multidisciplinary team at UCI/Mulago can choose surgery, chemoradiation or palliation. At HC IV or a general hospital you can do almost all of this before referral, and doing it well saves her weeks.
+
+### Step 0: First 5 minutes
+
+1. **ABC and vitals**: pulse, BP, **shock index** (HR ÷ SBP; **≥0.9** abnormal, **≥1.4** needs urgent intervention), RR, temperature, level of consciousness.
+2. **Is she bleeding heavily?** (pads soaked, clots, pallor, faintness). If yes: **call for help**, **two large-bore IV cannulae**, blood for **Hb and group and cross-match**, crystalloid, **tranexamic acid 1 g IV**, and a **tight vaginal pack** with a urinary catheter (see Management E). Transfuse as needed.
+3. **Is she uraemic?** Drowsy or confused, acidotic (deep sighing) breathing, vomiting, hiccups, itching, little urine → catheterise and measure output, send **urea, creatinine and potassium urgently**, and do a **renal ultrasound** today. Hyperkalaemia and fluid overload can kill before the cancer does.
+4. **Is she septic?** Fever ≥38.0 °C with foul discharge (infected necrotic tumour, pyometra) or a urinary source → cultures if possible and IV antibiotics (e.g. ceftriaxone + metronidazole) per local protocol.
+5. **Is she in severe pain?** Start analgesia now (paracetamol, then oral morphine 2.5–5 mg every 4 hours, lower/less often in renal failure); do not make her wait for the diagnosis.
+6. **Pregnancy test** in every woman of reproductive age.
+
+> [!REDFLAG]
+> Call a senior at once for: active heavy bleeding or shock index ≥0.9; anuria/oliguria or confusion (obstructive uropathy); fever with hypotension; or suspected spinal cord compression (new leg weakness, loss of bladder/bowel control).
+
+### Step 1: Focused history
+
+| Ask | Why: the answer that changes the plan |
+|---|---|
+| **PCB, IMB, PMB; how long?** | Classic early symptoms; long duration + many symptoms usually means a bigger stage |
+| **Offensive, watery or blood-stained discharge** | Necrotic tumour; you will need metronidazole and a gentle examination |
+| **Back pain, sciatica, leg swelling** | Pelvic side-wall or nerve involvement → suspect **IIIB**; leg swelling could also be DVT |
+| **Urine or faeces per vagina, haematuria, rectal bleeding, tenesmus** | Bladder/rectal involvement or fistula → **cystoscopy/proctoscopy** (possible **IVA**) |
+| **Urine output, vomiting, itching, hiccups** | Uraemia from **bilateral ureteric obstruction** (IIIB) → urgent creatinine and renal ultrasound; cisplatin may be impossible |
+| **Cough, bone pain, jaundice, abdominal swelling** | Distant spread (**IVB**) → CXR, abdominal ultrasound; palliative intent |
+| **Weight loss, ability to self-care (ECOG)** | ECOG 0–2 can usually tolerate chemoradiation; ECOG 3–4 → often palliative intent |
+| **Screening history and previous treatment** | Previous ablation/LEEP; a previous benign biopsy does not exclude cancer now |
+| **HIV status, ART regimen, adherence, last viral load and CD4** | Tolerance of chemoradiation, drug interactions, need to optimise ART before treatment |
+| **Pregnant? Wishes future fertility?** | Pregnancy changes everything; fertility wish matters in stage IA–IB1 (cone, trachelectomy) |
+| **Comorbidity** (diabetes, hypertension, heart disease, TB) | Fitness for radical surgery or cisplatin |
+| **Social: distance to Kampala, money, caregiver, what she knows and wants** | Whether she can complete **5–7 weeks** of daily chemoradiation within **56 days**; early link to palliative care and social support |
+
+### Step 2: Focused examination
+
+**General**: pallor, wasting, jaundice, **left supraclavicular nodes** (IVB), **inguinal nodes** (IVB), **leg oedema** (unilateral: pelvic wall or DVT), uraemic signs, ECOG performance status.
+
+**Chest**: effusion, crackles (lung metastases).
+
+**Abdomen**: hepatomegaly, ascites, **ballotable kidneys** (hydronephrosis), a pelvic mass (pyometra, bulky tumour), inguinal nodes.
+
+**Pelvis**, done gently with a chaperone (in a heavily bleeding woman, do this in theatre):
+
+1. **Speculum**: describe the lesion: **exophytic** (cauliflower), **ulcerative** (crater with raised everted edges) or **endophytic** (hard barrel-shaped cervix); estimate **size in cm**; **vaginal extension**: none / upper two-thirds / **lower third**; contact bleeding, necrosis.
+2. **Biopsy** now if a lesion is visible: punch biopsy **from the edge** (viable tumour), not the necrotic centre; pack or apply Monsel's for haemostasis.
+3. **Bimanual**: size and hardness of the cervix, mobility of the uterus, fornices.
+4. **Rectovaginal examination (index finger in the vagina, middle finger in the rectum)**: the key staging manoeuvre. Feel each **parametrium** between the cervix and the pelvic side wall:
+   - **Soft and free** → no parametrial involvement (stage I or IIA).
+   - **Thickened, nodular, but a gap remains** between the thickening and the side wall → **IIB**.
+   - **Thickened out to the side wall**, no free space ("frozen pelvis") → **IIIB**.
+   - Check the **rectal mucosa** for tethering or ulceration (IVA needs biopsy).
+
+**Document**: tumour size, vaginal extent, each parametrium (right and left separately), rectal mucosa, nodes, kidneys; e.g. "4 cm exophytic growth, upper vagina involved anteriorly, right parametrium thickened not reaching side wall, left free, rectal mucosa free".
+
+> [!EXAM]
+> **Clinical FIGO staging exam, as done in Uganda**: **EUA** (examination under anaesthesia, ideally a gynae-oncologist and a radiation oncologist together) with **speculum, bimanual and rectovaginal examination**, **biopsy**, **cystoscopy** (and **proctoscopy/sigmoidoscopy**) if bladder or rectal involvement is suspected, plus assessment of the ureters by **renal ultrasound or IVU** (hydronephrosis or a non-functioning kidney = **IIIB**) and a **chest X-ray**. FIGO 2018 allows CT/MRI/PET and pathology to modify the stage where available, but you must always be able to stage with your hands.
+
+### Step 3: Bedside tests
+
+| Test | What it tells you |
+|---|---|
+| **Urine pregnancy test** | Pregnancy changes the whole plan (MDT, timing, caesarean delivery) |
+| **HemoCue / Hb** | Anaemia is almost universal; **Hb <7 g/dL** → transfuse; target **Hb ≥10 g/dL** during radiotherapy |
+| **Urine dipstick** | Haematuria (bladder invasion or radiation cystitis), UTI |
+| **Urine output** (catheter if unwell) | Oliguria → obstructive uropathy |
+| **Random blood sugar** | Diabetes (steroids with chemotherapy, surgical risk) |
+| **Rapid HIV test** | If status unknown; HIV changes treatment tolerance and ART planning |
+| **Point-of-care ultrasound** of the kidneys | **Hydronephrosis in minutes**: if present (and no other cause), the stage is **at least IIIB** |
+| **VIA** (only if no obvious growth) | A frank growth needs a **biopsy**, not VIA; VIA is for women without a visible lesion |
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Punch biopsy (histology)** | Every visible or suspicious lesion, **before any treatment** | Squamous cell carcinoma (about 75–80%), adenocarcinoma (about 15–20%), other | No treatment without histology. Biopsy at HC IV/general hospital; histology at regional/national referral labs (Mulago, UCI, Mbarara, Gulu, Lacor and others); turnaround often 1–3 weeks, so send early |
+| **FBC** | All | Anaemia; high WBC (infection); low platelets | Transfuse to **Hb ≥10 g/dL** for radiotherapy (hypoxic tumour is radioresistant); chemotherapy needs adequate counts |
+| **Urea, creatinine, electrolytes (± eGFR/creatinine clearance)** | All, and **weekly during cisplatin** | Raised creatinine = obstructive uropathy (IIIB) or other renal disease; low Mg/K on cisplatin | **Cisplatin is withheld if creatinine clearance is below about 50 mL/min** (carboplatin may be substituted); **drain the kidneys first** (nephrostomy) if she is for curative treatment. Available at HC IV (some), general hospitals and above |
+| **Renal ultrasound** | All | **Hydronephrosis** (uni- or bilateral), non-functioning kidney | **Upstages to IIIB** (unless another cause); nephrostomy discussion. Available at most general hospitals and many HC IVs |
+| **IVU (intravenous urogram)** | Where ultrasound is inconclusive and renal function allows | Ureteric obstruction, non-functioning kidney | Same staging meaning as hydronephrosis (IIIB); contrast is risky if creatinine is high. Regional/national referral |
+| **Chest X-ray** | All | Lung metastases, effusion | **IVB** → palliative intent. Widely available |
+| **Abdominal ultrasound** | All | Liver metastases, ascites, para-aortic nodes | IVB / IIIC2 suspicion |
+| **EUA with cystoscopy ± proctoscopy** | Locally advanced disease, urinary or rectal symptoms, or clinical staging needed | Bladder/rectal **mucosal** tumour (biopsy-proven) | **IVA** (bullous oedema alone does **not** make IVA). Theatre at general/regional/national referral hospitals |
+| **MRI pelvis** | Where available, especially if surgery is planned | Tumour size, parametrial invasion, nodes | Best for size and parametrium; separates IB2 (surgery) from IIB (chemoradiation). UCI, Mulago, private centres |
+| **CT chest/abdomen/pelvis** | Locally advanced disease, before radiotherapy planning | Pelvic nodes (**IIIC1r**), para-aortic nodes (**IIIC2r**), distant metastases | Extended-field radiotherapy for para-aortic nodes; IVB → palliation. UCI, Mulago, regional centres, private |
+| **HIV test, CD4, viral load** | All (known positive: CD4 and VL) | Unsuppressed VL, low CD4 | Optimise ART before and during chemoradiation; co-trimoxazole prophylaxis per HIV guidelines |
+| **LFTs, RBS, hepatitis B** | Before chemotherapy/surgery | Raised enzymes, diabetes | Fitness, drug choice |
+| **Group and cross-match** | Anaemic, bleeding, or before surgery | | Blood ready for transfusion/surgery |
+
+> [!UGANDA]
+> At a **general hospital or HC IV** you can do the core staging set before referral: **biopsy, Hb, creatinine, renal ultrasound, CXR and HIV status**. Sending her to UCI with these results (and the histology report) avoids repeat tests and speeds treatment. MRI/CT, cystoscopy under EUA and radiotherapy planning are done at **UCI/Mulago** and a few regional cancer centres.
+
+### Step 5: Putting it together
+
+**Model one-line summary**: "A 48-year-old P6, HIV-positive on TLD with suppressed viral load, never screened, with 5 months of post-coital bleeding and offensive discharge; a 4.5 cm exophytic cervical growth involving the upper vagina, right parametrium thickened not reaching the side wall, left free; Hb 8.9 g/dL, creatinine 82 µmol/L, kidneys normal on ultrasound, CXR clear; biopsy: squamous cell carcinoma."
+
+**Problem list**
+
+1. Invasive squamous cell carcinoma of the cervix, **FIGO IIB** (clinical).
+2. Anaemia (Hb 8.9 g/dL): below the radiotherapy target.
+3. HIV on ART (suppressed): continue ART; check CD4.
+4. Offensive discharge and pain: symptom control.
+5. Social: distance to UCI, money, caregiver.
+
+**Working diagnosis and plan**: cervical cancer FIGO stage IIB → refer to UCI for **concurrent chemoradiation** (EBRT 45–50 Gy in 25 fractions + weekly cisplatin 40 mg/m² + brachytherapy, total ≤56 days); transfuse to Hb ≥10; metronidazole for odour; analgesia; link to palliative care and counselling.
+
+**Worked example 1: staging from the examination**
+
+> A 42-year-old: 3 cm exophytic tumour confined to the cervix; vagina free; both parametria soft on rectovaginal examination; kidneys normal on ultrasound; CXR clear.
+
+| Finding | Stage reasoning |
+|---|---|
+| Visible tumour, 3 cm, confined to the cervix | Stage IB (visible = at least IB); **≥2 and <4 cm = IB2** |
+| Parametria free, vagina free | Not II |
+| No hydronephrosis, CXR clear | Not IIIB/IVB |
+
+- **Stage IB2** → options: **radical hysterectomy + pelvic lymphadenectomy** (open approach) or **primary chemoradiation**. If MRI/CT or surgery later shows **positive pelvic nodes** she becomes **IIIC1r** (imaging) or **IIIC1p** (pathology) and needs chemoradiation.
+
+**Worked example 2: how one finding changes the stage**
+
+| Same 4 cm tumour, plus... | FIGO 2018 stage | Treatment intent |
+|---|---|---|
+| Nothing else, confined to the cervix | **IB3** (≥4 cm) | Chemoradiation (preferred) |
+| Upper-vaginal involvement, parametria free | **IIA2** | Chemoradiation |
+| Right parametrium thickened, **gap** to side wall | **IIB** | Chemoradiation |
+| Tumour reaches the **lower third of the vagina** | **IIIA** | Chemoradiation |
+| Parametrium **fixed to the side wall**, or **hydronephrosis** on ultrasound (even with free parametria) | **IIIB** | Chemoradiation if kidneys can be drained and renal function allows; otherwise palliation |
+| Enlarged **pelvic nodes** on CT | **IIIC1r** | Chemoradiation |
+| Enlarged **para-aortic nodes** on CT | **IIIC2r** | Extended-field chemoradiation |
+| Biopsy-proven **bladder mucosa** tumour at cystoscopy | **IVA** | Chemoradiation (fistula risk) or palliation |
+| Lung or liver metastases, supraclavicular node | **IVB** | Palliative chemotherapy/RT and supportive care |
+
+> [!PEARL]
+> When in doubt between two stages, **FIGO says assign the lower stage**. And remember the two traps: **hydronephrosis = IIIB regardless of tumour size**, and **bullous oedema of the bladder is not IVA**.
+
+**Worked example 3: can she have cisplatin?**
+
+> A 55-year-old, weight 50 kg, creatinine 150 µmol/L, bilateral hydronephrosis.
+
+- **Cockcroft–Gault** (women): creatinine clearance ≈ (140 − age) × weight (kg) × 1.04 ÷ creatinine (µmol/L) = 85 × 50 × 1.04 ÷ 150 ≈ **29 mL/min**.
+- Below about 50 mL/min → **no cisplatin** as it stands. Stage is **IIIB** (hydronephrosis). Options: **nephrostomy** then re-check renal function and proceed with chemoradiation, or radiotherapy alone/carboplatin per the oncologist, or palliation if frail and that is her wish. Exact cut-offs vary between oncology units.
+
 ## Differential diagnosis
 
 | Condition | Distinguishing features | Key investigation |
@@ -170,18 +315,7 @@ HIV depletes CD4 cells and impairs cell-mediated immunity, so HPV persists, mult
 
 ### Work-up of invasive cancer (staging and fitness)
 
-| Test | What you are looking for | Why |
-|---|---|---|
-| **Biopsy** | Histological type, grade | Confirms diagnosis — needed before any treatment |
-| **EUA ± cystoscopy ± proctoscopy** | Tumour size, vaginal and parametrial extent, bladder/rectal mucosa | Clinical FIGO staging |
-| **FBC** | Anaemia (common, worsens radiotherapy outcome — tumour hypoxia) | Transfuse to Hb ≥10 g/dL during radiotherapy |
-| **Urea, creatinine, electrolytes** | Obstructive uropathy | Stage IIIB; cisplatin eligibility |
-| **Renal/abdominal ultrasound** | **Hydronephrosis** (→ IIIB), liver metastases, ascites | Cheap staging tool in Uganda |
-| **Chest X-ray** | Lung metastases (IVB) | Staging |
-| **HIV test, CD4, viral load** | HIV co-infection | ART optimisation; tolerance of chemoradiation |
-| **CT / MRI pelvis-abdomen** (UCI, Mulago, private) | Tumour size (MRI best), nodes (IIIC), metastases | Refines staging and radiotherapy planning |
-| **LFTs, random blood sugar** | Fitness for chemotherapy/surgery | |
-| **Pregnancy test** | Pregnancy | Changes management completely |
+The full staging and fitness table (biopsy, FBC, creatinine, renal ultrasound/IVU, CXR, EUA with cystoscopy/proctoscopy, MRI/CT, HIV, LFTs), with what each result does to the stage and treatment and where it is available in Uganda, is in **Clinical workup, Step 4**. Worked staging examples are in **Step 5**.
 
 ## FIGO 2018 staging (with 2019 corrigendum)
 
@@ -381,3 +515,60 @@ Screening can stop after 50 (general) or 65 (WLWH) if the last two screens were 
 - **Ablation eligibility — "SEEN"**: **S**CJ visible, **E**ctocervical, **E**xtent <75%, **N**o suspicion of cancer.
 - **Cryotherapy — "3-5-3"**: freeze 3 minutes, thaw 5, freeze 3.
 - **Chemoradiation — "45–50 / 40 / 56"**: EBRT 45–50 Gy, cisplatin 40 mg/m² weekly, finish within 56 days.
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| HPV 16 and 18 | Cause about **70%** of cervical cancers |
+| HPV clearance | About **90%** of infections cleared within **1–2 years** |
+| CIN → invasion | Usually **10–20 years** (faster with HIV) |
+| HIV | About **6 times** the risk of cervical cancer |
+| Screening (WHO 2021), general population | From **30**, HPV DNA every **5–10 years** (VIA/cytology every 3 years); can stop after **50** if the last two screens were negative |
+| Screening (WHO 2021), women living with HIV | From **25**, HPV DNA every **3–5 years**; screen, triage and treat; can stop after **65** if the last two were negative |
+| After treatment of pre-cancer | Re-test at **12 months** |
+| VIA | **3–5% acetic acid**, read at **1 minute** |
+| Thermal ablation | **≥100 °C**, **20–30 s** per application |
+| Cryotherapy | **3 min freeze – 5 min thaw – 3 min freeze**; ice-ball **4–5 mm** beyond the lesion |
+| Ablation cut-off | Lesion **<75%** of the ectocervix, SCJ fully visible, no canal extension, no suspicion of cancer |
+| HPV vaccine (Uganda) | **Single dose** for **10-year-old** girls (since 2025); HIV/immunocompromised **at least 2 doses** (ideally 3); 0.5 mL IM deltoid |
+| WHO targets | **90-70-90** by 2030; elimination threshold **<4 per 100,000** women |
+| FIGO IA1 / IA2 | Invasion **<3 mm** / **≥3 and <5 mm** |
+| FIGO IB1 / IB2 / IB3 | **<2 cm** / **≥2 and <4 cm** / **≥4 cm** |
+| FIGO IIA1 / IIA2 | **<4 cm** / **≥4 cm** (upper two-thirds of vagina) |
+| FIGO IIIB | Pelvic side wall **or hydronephrosis/non-functioning kidney** |
+| FIGO IIIC1 / IIIC2 | Pelvic nodes / para-aortic nodes |
+| EBRT | **45–50 Gy in 25 fractions** (5 weeks) |
+| Concurrent cisplatin | **40 mg/m² IV weekly × 5–6**; withhold if creatinine clearance below about **50 mL/min** |
+| Brachytherapy (HDR) | e.g. **24–28 Gy in 3–4 fractions** |
+| Overall treatment time | **≤56 days** |
+| Hb during radiotherapy | Keep **≥10 g/dL** |
+| Heavy tumour bleeding | **Tranexamic acid 1 g IV 8-hourly**, vaginal pack + catheter, haemostatic RT |
+| Oral morphine (opioid-naive) | **2.5–5 mg every 4 hours** + same dose for breakthrough; always a laxative |
+| Offensive discharge | **Metronidazole 400 mg PO 8-hourly** (or topically in packs) |
+| Late presentation in Uganda | About **80%** of women at UCI have stage IIB or worse |
+| 5-year survival (with treatment) | Stage I **80–95%**, II **60–75%**, III **30–45%**, IVA **15–20%**, IVB **<10%** |
+
+### Classic exam traps
+
+- **"VIA was negative so she does not have cancer."** Wrong: a **symptomatic** woman is **diagnosed, not screened**; persistent PCB needs colposcopy and biopsy (adenocarcinoma can hide in the canal).
+- **Staging a 2 cm tumour with hydronephrosis as stage I or II.** Wrong: hydronephrosis or a non-functioning kidney = **IIIB**, whatever the tumour size (unless another cause).
+- **Calling bullous oedema of the bladder IVA.** Wrong: IVA needs **biopsy-proven mucosal** invasion.
+- **Ablating a suspicious lesion because it is "VIA positive".** Wrong: a growth or ulcer is **suspicious for cancer** → biopsy and refer; ablation destroys the diagnosis.
+- **Biopsying the necrotic centre.** Wrong: take the punch biopsy from the **edge** of the growth.
+- **Forgetting the rectovaginal examination.** Wrong: it is the only bedside way to assess the **parametria** (IIB vs IIIB).
+- **Starting cisplatin without checking the kidneys.** Wrong: check **creatinine and renal ultrasound** first; drain obstructed kidneys before curative chemoradiation.
+- **Choosing surgery for IB3 or IIB.** Wrong: locally advanced disease (IB3–IVA) gets **concurrent chemoradiation**; avoid surgery + radiation "double treatment".
+
+### Questions seniors ask
+
+- **How do you assess the parametrium?** Rectovaginal examination (ideally EUA): thickened with a gap to the side wall = IIB; reaching the side wall = IIIB. MRI where available.
+- **What is the minimum staging workup you can do before referral?** Biopsy, Hb, urea/creatinine, renal ultrasound, CXR, HIV status (± CD4/VL), and a careful speculum, bimanual and rectovaginal examination.
+- **This woman has a 3 cm tumour and left hydronephrosis: what stage and what treatment?** IIIB; concurrent chemoradiation if renal function allows (nephrostomy if needed), otherwise radiotherapy alone or palliation.
+- **Why give cisplatin with radiotherapy, and what do you monitor?** Radiosensitiser, improves survival; weekly creatinine and electrolytes (Mg, K), FBC, hearing, emesis.
+- **Why must treatment finish within 56 days?** Tumour cells repopulate during gaps; each extra day reduces local control.
+- **How do you stop heavy bleeding from a cervical tumour?** Resuscitate, TXA 1 g IV, tight vaginal pack + urinary catheter, transfuse, urgent haemostatic radiotherapy; embolisation/ligation where available.
+- **Why is renal failure the commonest cause of death?** Parametrial and side-wall spread compresses both ureters → obstructive uropathy.
+- **What would you tell a woman with stage IVB disease?** Honest explanation of the diagnosis; aims of care (comfort, bleeding, odour and pain control); oral morphine is safe and free; link to palliative care and hospice the same day; involve family if she wishes.

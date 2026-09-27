@@ -105,6 +105,31 @@
       "id": "scd-f21",
       "front": "Partner is AS and the woman is SS. Risk to the baby?",
       "back": "**50% SS (disease), 50% AS (trait)**. If the partner is AA, all children are AS."
+    },
+    {
+      "id": "scd-f22",
+      "front": "What bloods do you send in the first 5 minutes for a pregnant woman with SCD in crisis?",
+      "back": "**FBC and reticulocytes** (compare with baseline Hb), **group and cross-match with antibody screen**, **mRDT/blood smear**, **blood cultures if febrile**, U&E and LFTs where available. Plus urine dipstick/culture, SpO₂, and a CXR if any chest sign. **Analgesia within 30 minutes** is given at the same time."
+    },
+    {
+      "id": "scd-f23",
+      "front": "Why can a positive sickling (solubility) test not diagnose sickle cell disease?",
+      "back": "It is positive in **both trait (HbAS) and disease (HbSS)**. The genotype needs **Hb electrophoresis or HPLC** (woman and partner). A woman with trait should not be put on the SCD protocol."
+    },
+    {
+      "id": "scd-f24",
+      "front": "HbSC woman, baseline Hb 11 g/dL, now 7 g/dL with a tender enlarging spleen, tachycardia and high reticulocytes. Diagnosis and action?",
+      "back": "**Splenic sequestration** (a fall of 4 g/dL). **Urgent transfusion** aiming to restore, not exceed, baseline (blood returns from the spleen as it resolves), senior and haematology input. HbSC is **not** mild in pregnancy."
+    },
+    {
+      "id": "scd-f25",
+      "front": "Day 2 of a painful crisis at 32 weeks: T 38.5 °C, cough, RR 28, SpO₂ 92%, basal crackles. What do you do?",
+      "back": "Suspect **acute chest syndrome**: senior help, **oxygen to 94–98%**, **CXR** (with shielding) for a new infiltrate, cultures, **ceftriaxone 2 g IV daily + azithromycin 500 mg daily**, analgesia enough to breathe deeply, incentive spirometry, careful fluids, LMWH, cross-match for **top-up or exchange transfusion**, CTG. Delivery does not treat ACS."
+    },
+    {
+      "id": "scd-f26",
+      "front": "How often should SpO₂ and RR be checked during an SCD crisis admission, and why?",
+      "back": "At least **4-hourly** (continuous if falling), with daily chest auscultation, because **ACS often develops 1–3 days into a painful crisis**, especially with opioids and rib/back pain. A falling SpO₂ is the earliest sign."
     }
   ],
   "mcqs": [

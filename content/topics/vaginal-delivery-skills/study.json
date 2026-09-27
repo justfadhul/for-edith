@@ -21,7 +21,12 @@
     { "id": "vd-f18", "front": "Why ask the mother to pant at crowning?", "back": "So the head delivers **slowly between contractions**, allowing the perineum to stretch and reducing tears." },
     { "id": "vd-f19", "front": "Which technique of perineal repair causes least pain?", "back": "**Continuous non-locking** sutures for all layers (vs interrupted), with rapidly absorbable synthetic material (Cochrane evidence)." },
     { "id": "vd-f20", "front": "A woman has severe perineal pain and tachycardia 2 hours after repair. What must you exclude?", "back": "**Vulval/paravaginal haematoma** (can conceal a large blood loss). Examine; large or expanding needs evacuation in theatre." },
-    { "id": "vd-f21", "front": "Suture gauge: which is thinner, 2-0 or 3-0?", "back": "**3-0 is thinner** (more zeros, more slender)." }
+    { "id": "vd-f21", "front": "Suture gauge: which is thinner, 2-0 or 3-0?", "back": "**3-0 is thinner** (more zeros, more slender)." },
+    { "id": "vd-f22", "front": "List the \"fourth-stage sweep\" checks after the placenta is delivered, in order.", "back": "**Uterine tone → measured blood loss → placenta and membranes (3 vessels) → perineum, vagina, cervix in good light → rectal exam → vital signs (shock index) → bladder → baby.** Then tone and bleeding every 15 min for 2 h." },
+    { "id": "vd-f23", "front": "On the membranes you see a blood vessel running to a torn hole at the edge. Significance?", "back": "A **succenturiate lobe** has probably been retained. Call a senior; uterotonic; **manual exploration** under analgesia with antibiotics; watch for PPH." },
+    { "id": "vd-f24", "front": "Uterus firm, but bleeding continues after delivery. Most likely cause and action?", "back": "**Trauma** (cervical, vaginal or perineal tear) or retained tissue. Examine in good light with a speculum, find the apex, call a senior for cervical/high tears; IV access and **TXA 1 g IV within 3 h** of birth." },
+    { "id": "vd-f25", "front": "Before a normal delivery, which findings mean you should call a senior rather than proceed alone?", "back": "Malpresentation, head ≥2/5 at full dilatation, moulding +++, abnormal FHR, suspected big baby/shoulder dystocia risk, previous CS or OASI, twins, maternal exhaustion, bleeding or BP ≥160/110." },
+    { "id": "vd-f26", "front": "How do you measure (not guess) blood loss at delivery, and what thresholds trigger the PPH bundle?", "back": "**Calibrated under-buttock drape**, or weigh pads/linen (1 g ≈ 1 mL). Trigger at **≥500 mL**, or **≥300 mL plus an abnormal vital sign** (WHO/FIGO/ICM 2025); shock index ≥0.9 is abnormal." }
   ],
   "mcqs": [
     {

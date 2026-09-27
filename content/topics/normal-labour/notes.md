@@ -4,12 +4,16 @@ summary: Labour is regular painful contractions that cause progressive cervical 
 highYield:
   - "Labour = regular painful contractions + progressive cervical change. Contractions without cervical change are false labour (or latent phase), not an emergency."
   - "WHO 2018 - active first stage starts at 5 cm; the older modified WHO partograph (still widely used in Uganda) starts active phase at 4 cm with alert line at 1 cm/hour."
+  - "Admission: first 5 minutes = pulse, BP, temperature, FHR after a contraction, and ask about bleeding, liquor colour, fetal movements and urge to push."
+  - "Adequate contractions = 3-5 in 10 minutes lasting 40-60 s; >5 in 10 minutes is tachysystole. Normal FHR 110-160 bpm."
+  - "Always write descent in fifths next to station - a head 3/5 palpable with \"station +2\" is caput, not descent."
+  - "Slow progress in a multipara with good contractions is obstruction until proved otherwise - no oxytocin; catheterise, rehydrate, senior review."
   - "Cardinal movements - Engagement, Descent, Flexion, Internal rotation, Extension, Restitution, External rotation, Expulsion (Every Decent Fetus Is Exceptionally Rotated Every Expulsion)."
   - "Well-flexed vertex presents the suboccipitobregmatic diameter (9.5 cm) - the smallest - which is why occipito-anterior labour is normal labour."
   - "AMTSL - oxytocin 10 IU IM within 1 minute of birth (after excluding a second twin), controlled cord traction with counter-traction, then uterine tone checks/massage every 15 minutes for 2 hours."
   - "If oxytocin is unavailable - misoprostol 600 micrograms orally (Uganda Clinical Guidelines); never give ergometrine to a woman with hypertension or pre-eclampsia."
   - "Delay cord clamping 1-3 minutes in a vigorous baby; dry, skin-to-skin, breastfeed within 1 hour, vitamin K 1 mg IM, tetracycline eye ointment, chlorhexidine cord care."
-  - "Second stage - WHO allows up to about 3 hours in first labours and 2 hours in subsequent labours if mother and baby are well; FHR every 5 minutes."
+  - "Second stage - WHO allows up to about 3 hours in first labours and 2 hours in subsequent labours if mother and baby are well; FHR every 5 minutes. Retained placenta = not delivered by 30 minutes."
 ---
 
 ## In a nutshell
@@ -197,6 +201,118 @@ After the baby is born, the uterus contracts down sharply. The placental site sh
   - Lower abdominal ridge + tender lower segment + haematuria -> impending rupture -> stop oxytocin, emergency CS.
 - **Common student mistakes**: doing VEs too often (infection) or not at all; plotting the first VE in the latent phase on the alert line; forgetting the FHR after a contraction; forgetting to palpate for a second twin before giving oxytocin; pulling on the cord before the uterus has contracted (uterine inversion); leaving the mother unobserved in the first hour after birth.
 
+## Clinical workup
+
+This is the **admission-in-labour workup** as it is done at the admission desk of a Ugandan labour ward (Mengo, Mulago/Kawempe, or a busy HC IV), followed by how you **reassess progress** at every review. The whole thing should take 15–20 minutes for a well woman, and the first 5 minutes decide whether she is a routine admission or an emergency.
+
+### Step 0: First 5 minutes
+
+Before the detailed history, do a rapid **"is anyone in danger?"** check, because women often arrive late, after hours of labour at home or at a lower facility.
+
+1. **Look at her**: is she pushing, bleeding, fitting, pale, breathless, exhausted or confused? Is there a **cord or a limb at the introitus**?
+2. **Vital signs at once**: pulse, BP, temperature, respiratory rate. Calculate the **shock index** (pulse ÷ systolic BP): **≥0.9 is abnormal** and needs escalation.
+3. **Fetal heart**: listen for a full minute immediately after a contraction with a Pinard or Doppler. Normal is **110–160 bpm**.
+4. **Quick abdominal look**: scar? Bandl's ring? Full bladder? Obvious transverse lie?
+5. **Ask four questions**: "Are you bleeding? Has water broken, and what colour? Is the baby moving? Do you feel like pushing?"
+
+| If you find... | Do this now (then call a senior) |
+|---|---|
+| Head visible / urge to push | Move to the delivery couch, open the pack, draw up **oxytocin 10 IU**, prepare the newborn corner |
+| Bleeding more than a show | **No digital VE**; two large-bore IV lines, Hb, group and crossmatch; think abruption, praevia, rupture |
+| BP ≥160/110, or fits | MgSO₄ loading dose and an antihypertensive per protocol (see the pre-eclampsia topic) |
+| FHR <110 or >160 | Left lateral, IV fluids, stop any oxytocin, VE to exclude cord prolapse, call a senior |
+| Cord at the introitus / felt on VE | Knee-chest or exaggerated Sims position, push the presenting part up, fill the bladder, emergency CS |
+| Temperature ≥38°C, pulse >120 | Look for chorioamnionitis/malaria/sepsis; cultures if possible; antibiotics |
+| Shock index ≥0.9, pale, collapsed | ABC, two IV lines, fluids, think rupture or abruption |
+
+> [!REDFLAG]
+> A multigravida arriving from home after a long labour, dehydrated, with a tender lower segment and a high head is **obstructed labour until proved otherwise**. Do not start oxytocin; rehydrate, catheterise, give antibiotics and prepare for caesarean section.
+
+### Step 1: Focused history
+
+Use this checklist when you admit a woman (the table in *Clinical acumen* explains more). Each item is here because a particular answer changes the plan.
+
+- [ ] **Gestational age** (LNMP, early scan, SFH): <37 weeks → preterm labour pathway (steroids if 28–34 weeks, neonatal team).
+- [ ] **Parity**: P5+ → higher PPH and rupture risk; oxytocin augmentation only after senior review.
+- [ ] **Onset, frequency and strength of pains**: how long she has really been labouring (hours at home count).
+- [ ] **Membranes**: time of rupture and liquor colour. **>18 h** → infection risk and GBS prophylaxis; **meconium** → closer fetal monitoring; **blood** → APH.
+- [ ] **Bleeding**: more than a show means **no VE** until praevia is excluded.
+- [ ] **Fetal movements**: reduced → check FHR at once; absent FHR = IUFD pathway.
+- [ ] **Pre-eclampsia symptoms**: headache, blurred vision, epigastric pain.
+- [ ] **Fever, dysuria, foul discharge**: chorioamnionitis, UTI, malaria.
+- [ ] **Previous deliveries**: previous CS or myomectomy (TOLAC only where there is a theatre), big baby, shoulder dystocia, PPH, retained placenta, stillbirth, 3rd/4th-degree tear.
+- [ ] **ANC card**: visits, **HIV status and last viral load**, syphilis, Hb, blood group/Rh, sickle status, IPTp, Td doses, scan reports (placenta site, number of babies).
+- [ ] **Medical conditions and drugs**: hypertension (no ergometrine), diabetes, cardiac disease (careful fluids), asthma, sickle cell disease.
+- [ ] **Referral note** if referred in: time of referral, drugs given (MgSO₄, antibiotics, oxytocin), and the partograph from the referring unit.
+- [ ] **Birth companion and PPFP choice**: respectful care; postpartum IUD/implant counselling.
+
+### Step 2: Focused examination
+
+**General** (document positives and negatives): general condition, pallor, jaundice, **hydration** (dry tongue, sunken eyes), oedema, pulse, BP, temperature, RR.
+
+**Abdomen**, between contractions:
+
+| What | Normal finding to document | Abnormal finding that changes the plan |
+|---|---|---|
+| Inspection | Longitudinal ovoid, no scars | CS scar, Bandl's ring, distended bladder, "hour-glass" shape |
+| Fundal height | Consistent with dates | Large for dates (twins, polyhydramnios, macrosomia); small (FGR) |
+| Lie / presentation | Longitudinal, cephalic | Breech, transverse or oblique lie |
+| Position | Back on one side (LOA/ROA) | Limbs all over the front (OP) |
+| **Descent (fifths)** | 3/5 or less and falling | 5/5 or 4/5 in active labour with strong contractions (CPD) |
+| **Contractions** in 10 min | 3–5, each 40–60 s | ≤2 (inadequate) or >5 (tachysystole); continuous pain (abruption) |
+| FHR (1 min, after a contraction) | 110–160, regular | <110, >160, slowing after contractions |
+| Tenderness | None between contractions | Tender lower segment (obstruction), tender tense uterus (abruption) |
+
+**Vaginal examination** (consent, chaperone, sterile gloves; **never with APH** until praevia excluded): vulva (liquor, bleeding, warts, oedema, FGM), **cervix** (dilatation in cm, effacement, consistency, application, oedema), **membranes and liquor colour**, **presenting part and position** (fontanelles and sutures), **station, caput, moulding**, **cord presentation/prolapse**, and a brief clinical pelvimetry.
+
+> [!PEARL]
+> Always write **descent in fifths (abdomen) next to station (VE)**. "Cervix 6 cm, head 3/5, station 0, caput ++, moulding ++" tells a senior that the "low" head on VE is mostly caput: think CPD.
+
+### Step 3: Bedside tests
+
+| Test | How / when | What you do with it |
+|---|---|---|
+| **Partograph / LCG** | Start in the **active phase** (4 cm on the modified WHO partograph; 5 cm on the LCG) | The core bedside "test" of labour progress; see the partograph topic |
+| **Intermittent auscultation** (Pinard / hand-held Doppler) | Every 30 min in the active first stage (WHO: 15–30 min); every 5 min in the second stage | Abnormal FHR → intrauterine resuscitation, VE, senior review |
+| **Urine dipstick** | On admission and each void | Protein ≥2+ with BP ≥140/90 → pre-eclampsia workup; ketones → oral/IV fluids; nitrites/leucocytes + fever → UTI |
+| **HemoCue / Hb** | On admission if no recent Hb | Hb <11 → anaemia; **<7 severe** → group and crossmatch, deliver in a unit with blood |
+| **HIV rapid test** | If status unknown, or last negative test >3 months ago | Positive → start TLD now, infant prophylaxis, avoid unnecessary ARM/episiotomy |
+| **Syphilis (dual HIV/syphilis RDT)** | If not done in ANC | Reactive → benzathine penicillin; examine and treat the baby |
+| **Malaria RDT** | If febrile | Positive → treat malaria; fever may still be chorioamnionitis |
+| **Random blood sugar (glucometer)** | Diabetes, prolonged fasting, vomiting | Hypoglycaemia → dextrose; hyperglycaemia → sliding scale per protocol |
+| **Bedside clotting test** | Suspected abruption, IUFD, PPH | Clot not formed by 7 min (or breaks down easily) → coagulopathy; fresh blood/FFP |
+| **Bladder scan by palpation / catheter** | Suprapubic fullness, slow descent | Empty the bladder, then reassess descent |
+
+### Step 4: Laboratory & imaging
+
+Normal labour is a **clinical** diagnosis; the lab is for risk and safety, not to confirm labour.
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Hb / FBC** | All admissions without a recent Hb; anyone with bleeding, pallor, fever | Hb ≥11 g/dL; WBC up to ~25 × 10⁹/L is normal in labour. Hb <7 = severe anaemia; platelets <100 = think HELLP/DIC | Severe anaemia: crossmatch, deliver where blood is available, active PPH prevention. Available at HC IV (HemoCue) and all hospitals |
+| **Blood group & Rh, crossmatch** | Not on ANC card; any high-risk woman (previous CS, APH, grand multipara, anaemia) | Rh negative; antibodies | Rh negative → anti-D within 72 h if baby Rh positive (cord blood group). Crossmatch at HC IV/hospital; HC III must refer |
+| **HIV and syphilis RDT** | Unknown status or retest due | Reactive | ART, infant prophylaxis; penicillin for mother and baby. Available at all levels (HC III+) |
+| **Urinalysis (dipstick) ± microscopy/culture** | Admission; fever or dysuria | Proteinuria, ketones, nitrites | Pre-eclampsia pathway; hydration; antibiotics. Dipstick everywhere; culture only at regional/national referral |
+| **Malaria RDT / blood smear** | Fever | Positive | Antimalarial (IV artesunate if severe). RDT available at all levels |
+| **Blood glucose** | Diabetes, fasting, IUFD | Hypo- or hyperglycaemia | Dextrose or insulin; neonatal glucose monitoring |
+| **LFTs, creatinine, platelets** | BP ≥140/90 with symptoms or proteinuria | Raised ALT/AST, creatinine >90 µmol/L, low platelets | Severe pre-eclampsia/HELLP → MgSO₄ and delivery plan. Regional/national referral hospitals |
+| **Bedside ultrasound** | Uncertain presentation, suspected twins, no FHR heard, APH (placenta site) | Cephalic singleton with FHR; or breech/twins/IUFD/praevia | Changes mode of delivery. Available at most HC IVs and hospitals (depends on a trained person) |
+| **CTG** | High-risk labour only (not routine for low-risk women, WHO 2018) | Normal vs suspicious/pathological trace | Available at Mengo, Mulago/Kawempe and some regional referrals; not at HC III/IV |
+
+### Step 5: Putting it together
+
+**Model one-line summary**: "A 24-year-old G2P1 at 39 weeks, HIV-negative, Hb 11.8, in **active first stage** (cervix 5 cm, head 2/5, LOA), mother and fetus well, with no risk factors."
+
+**Problem list** for a typical admission: (1) active labour at term; (2) any risk factor you found (e.g. previous CS, anaemia, HIV, prolonged ROM, grand multiparity); (3) plan for AMTSL and newborn care; (4) PPFP choice.
+
+**Working diagnosis**: always state *stage and phase of labour*, *parity*, *gestation*, *presentation/position*, and *maternal and fetal condition*: "Multigravida at term in the active first stage, cephalic LOA, mother and fetus in good condition."
+
+> [!EXAM]
+> **Worked example 1: is she in labour?** A 20-year-old primigravida at 40 weeks has had contractions for 6 hours. At 10:00: 2 contractions in 10 min lasting 20 s, cervix 2 cm, 30% effaced, head 4/5. At 14:00: 2 contractions in 10 min, cervix still 2 cm. **Interpretation**: no cervical change over 4 hours with weak, infrequent contractions = **false labour or early latent phase**. Mother and fetus well → do not start a partograph, do not augment; give analgesia and fluids, and either observe or discharge home with danger signs and a plan to return.
+
+> [!EXAM]
+> **Worked example 2: reassessing progress.** A P3 was admitted at 4 cm at 08:00 (head 3/5, 3 contractions/10 min). At 12:00 the cervix is 5 cm, head 3/5, **moulding ++, caput ++**, contractions 4 in 10 min lasting 50 s, bladder full. **Interpretation**: only 1 cm in 4 hours, the partograph is past the **alert line** and heading for the action line; contractions are **adequate**, so poor powers is not the cause; a **multipara** with good contractions, no descent and increasing moulding = **suspect CPD/obstruction**. Action: catheterise, rehydrate, full senior assessment; **no oxytocin**; prepare for caesarean section if descent does not improve (at an HC III: refer now).
+
 ## Differential diagnosis
 
 | Condition | Distinguishing features | Key investigation / action |
@@ -213,18 +329,12 @@ After the baby is born, the uterus contracts down sharply. The placental site sh
 
 ## Investigations
 
-Normal labour is a **clinical** diagnosis. These are what you check on admission.
+Normal labour is a **clinical** diagnosis. The admission tests (Hb, group and Rh, HIV and syphilis, urinalysis, malaria RDT, glucose, ultrasound, CTG) are set out, with Ugandan availability, in the **Step 4 table** of the Clinical workup above. Two practical points not covered there:
 
 | Test | What you are looking for | Why |
 |---|---|---|
-| **Haemoglobin** (HemoCue or FBC) | Anaemia (Hb below 11 g/dL; severe below 7) | Tolerance of blood loss; need for group and crossmatch |
-| **Blood group and Rh** (if not in ANC card) | Rh negative | Anti-D after delivery if baby Rh positive; crossmatch if at risk |
-| **HIV test** (if unknown or last test over 3 months) | Positive result | Start ART immediately, infant prophylaxis, feeding counselling |
-| **Syphilis (RPR/SD Bioline dual test)** | Reactive | Treat mother and baby |
-| **Urinalysis** | Protein (pre-eclampsia), ketones (dehydration/starvation), glucose, nitrites | Hydration and hypertension screening |
-| **Malaria RDT** (if febrile) | Positive | Treat; fever in labour is not always chorioamnionitis |
-| **Random blood glucose** | Diabetes/hypoglycaemia | Known diabetes or prolonged fasting |
-| **Ultrasound** (if available and indicated) | Presentation, number of fetuses, placenta site, FHR | Confirm uncertain presentation, exclude twins, placenta praevia |
+| **Cord blood group** (baby of an Rh-negative mother) | Baby Rh positive | Decides whether the mother needs anti-D within 72 hours |
+| **Repeat HIV test in labour** (if last negative test was >3 months ago, or in the third trimester in high-risk women) | Recent seroconversion | Acute infection carries the highest transmission risk; start ART and enhanced infant prophylaxis |
 
 ## Management
 
@@ -402,3 +512,49 @@ On examination she is in good general condition, afebrile, **pulse 88, BP 118/72
 - **Progress problems**: the "3 Ps" (Powers, Passenger, Passage) plus Psyche.
 - **Newborn care**: "**D**ry, **S**kin-to-skin, **D**elay cord clamp, **B**reastfeed, **V**itamin K, **E**yes, **C**ord care" = "Do Some Deliveries, Babies Very Easily Cry".
 - **Pelvis**: "**In**let **T**ransverse, **Out**let **A**P": the head enters sideways and leaves face-down.
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Term | 37+0 to 41+6 weeks |
+| Active phase starts | **4 cm** (modified WHO partograph) / **5 cm** (WHO 2018, LCG) |
+| Alert line / action line | Starts at 4 cm, **1 cm/h**; action line **4 h to the right** |
+| Adequate contractions | **3–5 in 10 min**, each **40–60 s**; >5 in 10 min = tachysystole |
+| Normal FHR | **110–160 bpm**; every 30 min in first stage, every 5 min in second stage |
+| VE frequency | **Every 4 h** in the active first stage (sooner only if indicated) |
+| Maternal observations (partograph) | Pulse 30-min, BP 4-h, temperature 2-h, urine every void |
+| Second stage (WHO 2018) | Up to about **3 h** nullipara, **2 h** multipara |
+| Third stage | Prolonged/retained placenta if **>30 min** |
+| Prolonged rupture of membranes | **>18 h** |
+| AMTSL uterotonic | **Oxytocin 10 IU IM within 1 min** (after excluding a second twin) |
+| No oxytocin available | **Misoprostol 600 mcg orally** |
+| Fourth-stage checks | Tone, bleeding, pulse, BP **every 15 min for 2 h** |
+| Normal blood loss | **<500 mL** |
+| Delayed cord clamping | **1–3 min** (not before 1 min) in a vigorous baby |
+| Vitamin K | **1 mg IM** (0.5 mg preterm/LBW) |
+| Well-flexed vertex diameter | Suboccipitobregmatic **9.5 cm** |
+| Engagement | **≤2/5** of the head palpable abdominally |
+
+### Classic exam traps
+
+- **"She has a show and ruptured membranes, so she is in labour."** → Wrong. Labour = **regular painful contractions + cervical change**. A show and ROM support it but do not define it.
+- **"Slow progress in a multipara: start oxytocin."** → Wrong. Poor powers are uncommon in a multipara; slow progress is **obstruction until proved otherwise**, and oxytocin can rupture her uterus.
+- **"Station +2 on VE, so the head is low."** → Only if the abdomen agrees. **3/5 palpable with "station +2" = caput**, not descent.
+- **"Plot the first VE at 2 cm on the partograph."** → Wrong. The partograph starts in the **active phase** (4 cm modified WHO / 5 cm LCG); latent-phase findings go in the notes.
+- **"Give oxytocin as soon as the baby is born."** → Almost: first **palpate the abdomen to exclude a second twin**, then give it within 1 minute.
+- **"Ergometrine is a good alternative to oxytocin for everyone."** → Wrong. **Contraindicated in hypertension, pre-eclampsia and cardiac disease**; misoprostol 600 mcg orally is the Uganda alternative.
+- **"Suction every baby's mouth and nose at birth."** → Wrong. **Dry first**; suction only if secretions block the airway.
+- **"Cervix dilating at less than 1 cm/h means she needs augmentation."** → WHO 2018: slower dilatation **alone** is not an indication to intervene if mother and baby are well; look for a cause first.
+
+### Questions seniors ask
+
+1. **"Is she in labour, and how do you know?"** Regular painful contractions (e.g. 3 in 10 min lasting 40 s) with cervical change on two examinations, or a cervix already ≥4–5 cm and effaced.
+2. **"Why do you check the abdomen before the VE?"** To know lie, presentation and **descent in fifths**, so you can interpret station correctly and not mistake caput for descent.
+3. **"What will make you call me during this labour?"** FHR <110 or >160 or late decelerations, thick meconium, bleeding, fever ≥38°C, BP ≥160/110 or fits, crossing the action line (or an LCG alert), signs of obstruction, or a cord prolapse.
+4. **"What is the first thing you do after the baby is born?"** Dry and assess breathing; palpate for a second twin; **oxytocin 10 IU IM within 1 minute**.
+5. **"The placenta is not out after 30 minutes. What now?"** Empty the bladder, repeat oxytocin 10 IU IM, retry CCT; if still retained, manual removal under analgesia with prophylactic antibiotics; treat any bleeding as PPH.
+6. **"Why does a full bladder matter in labour?"** It impedes descent in the first and second stages and causes uterine atony (PPH) after birth.
+7. **"How much blood did she lose, and how do you know?"** Estimate by a calibrated drape or by weighing pads; **≥500 mL is PPH** and triggers the E-MOTIVE bundle.

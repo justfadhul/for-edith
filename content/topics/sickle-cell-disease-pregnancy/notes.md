@@ -3,10 +3,14 @@ title: Sickle Cell Disease in Pregnancy
 summary: Pregnancy (a hypercoagulable, high-oxygen-demand state with extra anaemia and infection risk) makes sickle cell crises more frequent and dangerous and damages the placenta, so women with SCD need pre-conception planning, folic acid 5 mg, malaria prevention, penicillin and vaccination, aspirin, thromboprophylaxis, serial growth scans, and delivery at 38–40 weeks in a warm, well-hydrated, well-oxygenated labour.
 highYield:
   - SCD (HbSS, HbSC, HbS/β-thalassaemia) raises maternal death, pre-eclampsia, VTE, infection, preterm birth, growth restriction and stillbirth several-fold; crises are most common in the third trimester and the puerperium.
+  - A sickling (solubility) test cannot tell AS from SS; the genotype needs Hb electrophoresis or HPLC, for her and for her partner (SS × AS gives a 50% chance of an affected baby).
   - Give folic acid 5 mg daily before conception and throughout pregnancy; do NOT give routine iron (only if ferritin shows deficiency). In Uganda remember malaria chemoprevention and an ITN.
+  - Folic acid 5 mg antagonises IPTp-SP, so units use daily proguanil 200 mg, or monthly SP with folic acid withheld for 1–2 weeks after each dose. Follow the unit protocol, but never leave her without malaria prevention.
   - Stop hydroxyurea (hydroxycarbamide) at least 3 months before conception (and ACE inhibitors and iron chelators); continue penicillin V prophylaxis and update vaccines.
   - Aspirin 75 mg daily from 12 weeks; LMWH during any antenatal admission and postnatally (7 days after vaginal birth, 6 weeks after caesarean section, RCOG).
   - Painful crisis gets analgesia within 30 minutes (paracetamol, then morphine; NSAIDs only between 12 and 28 weeks; avoid pethidine), fluids, oxygen if SpO₂ is below 95%, and a search for infection and obstetric causes.
+  - The crisis workup is FBC with reticulocytes compared with her baseline Hb, mRDT, urinalysis and culture, blood cultures if febrile, group and cross-match, SpO₂ and RR 4-hourly, and a CXR for any chest sign.
+  - Falling Hb with very low reticulocytes means an aplastic crisis (parvovirus B19, check the fetus for anaemia); high reticulocytes mean haemolysis, malaria or sequestration.
   - Acute chest syndrome (fever or chest symptoms plus a new CXR infiltrate) is the leading killer; give oxygen, antibiotics (cephalosporin + macrolide), analgesia, incentive spirometry and early transfusion/exchange.
   - Routine prophylactic transfusion is not recommended; transfuse for acute anaemia (Hb below 6 g/dL or a fall of 2 g/dL or more from baseline), ACS, stroke or multi-organ failure.
   - Serial growth scans every 4 weeks from 24 weeks; deliver at 38+0 to 40+0 weeks; in labour keep her warm, hydrated and oxygenated, with continuous CTG and regional analgesia.
@@ -156,6 +160,135 @@ Sickling in the **uteroplacental circulation** reduces placental blood flow, cau
   5. Over-hydrating (pulmonary oedema, especially with pre-eclampsia or cardiac disease); monitor fluid balance.
   6. Forgetting thromboprophylaxis after delivery.
 
+## Clinical workup
+
+The commonest scenario on the ward is a pregnant woman with SCD who arrives **in pain**. The workup has three aims, in this order: **control the pain fast**, **find what is dangerous** (acute chest syndrome, severe anaemia, sepsis, stroke, an obstetric emergency), and **find the trigger** (malaria, infection, dehydration, cold).
+
+### Step 0: First 5 minutes
+
+1. **ABCDE and vital signs**: RR, **SpO₂**, pulse, BP, temperature, GCS, and a **pain score** (0–10). Listen to the **fetal heart**.
+2. **Analgesia within 30 minutes of arrival**: paracetamol 1 g plus **morphine 2.5–5 mg IV** (or SC) titrated every 20–30 minutes for severe pain. Do not wait for the doctor's full clerking or the lab results. **No pethidine.**
+3. **Oxygen** if SpO₂ is **below 95%** (RCOG uses 94%).
+4. **IV access** with blood taken at the same time: **FBC, reticulocytes, group and cross-match (with antibody screen), mRDT/blood smear, blood cultures if febrile**, U&E and LFTs where available.
+5. **Warm fluids**: oral if she can drink; otherwise IV 0.9% saline or Ringer's lactate. Keep her warm.
+6. **Call a senior now** if any of the following:
+   - **SpO₂ below 95%, RR above 24, chest pain, new cough or crackles**: acute chest syndrome.
+   - **Hb below 6 g/dL, or 2 g/dL or more below her baseline**, or an enlarging spleen or liver: acute anaemia.
+   - **Temperature 38.0 °C or more with tachycardia or hypotension**: sepsis. Give **ceftriaxone 2 g IV** after cultures; do not wait for the mRDT.
+   - **Weakness, facial droop, speech change, fits or severe headache**: stroke or eclampsia (check BP and urine protein).
+   - **Constant abdominal pain, a hard tender uterus, bleeding or an abnormal fetal heart**: abruption.
+
+### Step 1: Focused history
+
+- [ ] **Genotype** (SS, SC, S/β-thal) and how it was confirmed (electrophoresis/HPLC, not a sickling test). HbSC and S/β-thal carry sequestration risk.
+- [ ] **Baseline (steady-state) Hb**: from her SCD clinic book. Every Hb today is interpreted against it.
+- [ ] **This pain**: site, onset, severity, is it **like her usual crises**? Atypical pain = look for another cause (abruption, labour, pyelonephritis, cholecystitis, appendicitis, HELLP, ectopic in early pregnancy).
+- [ ] **Analgesia already taken** (at home or at the HC): type, dose and time. Avoids overdose and guides the next dose.
+- [ ] **Trigger**: fever, rigors (malaria), cold exposure, dehydration or vomiting, recent travel, dysuria, cough.
+- [ ] **Chest symptoms**: cough, chest pain, breathlessness. ACS often starts 1–3 days after a painful crisis.
+- [ ] **Neurological symptoms**: weakness, speech disturbance, headache, visual change.
+- [ ] **Obstetric symptoms**: gestational age, contractions, bleeding, liquor, **fetal movements**.
+- [ ] **Past severe events**: previous ACS, stroke, ICU, sequestration. Predict a severe course.
+- [ ] **Transfusion history and alloantibodies**: warns the lab to start cross-matching early.
+- [ ] **Current medicines**: folic acid 5 mg, penicillin V, aspirin, malaria chemoprevention, LMWH, **hydroxyurea** (still taking it?), iron (should not be routine).
+- [ ] **Allergies** (penicillin, opioids).
+
+### Step 2: Focused examination
+
+| Area | Look for | Key positives and negatives to document |
+|---|---|---|
+| **General** | Pallor, **jaundice**, dehydration, distress, temperature | "Pale, mildly jaundiced, dry mucosae, T 38.4 °C" |
+| **Vital signs** | RR, SpO₂, pulse, **BP relative to her usual low baseline** | "RR 20, SpO₂ 97% on air, P 108, BP 118/72 (booking 100/60)" |
+| **Chest** | Crackles, bronchial breathing, dullness at the bases, reduced air entry; **splinting** from rib or back pain | "Chest clear, good air entry at both bases" (repeat every 4 hours) |
+| **Abdomen** | **Spleen** (usually impalpable in adult HbSS; palpable and enlarging with falling Hb = sequestration), liver size and tenderness, RUQ tenderness, **renal angle tenderness** | "Spleen not palpable, liver 2 cm, no renal angle tenderness" |
+| **Obstetric** | SFH (IUGR), lie, presentation, **uterine tone and tenderness**, contractions, fetal heart | "SFH 30 cm at 32 weeks, uterus soft, non-tender, FHR 146" |
+| **Pain sites** | Tender, swollen bones and joints; hips (AVN) | Matches her usual crisis pattern? |
+| **Legs** | Calf swelling (DVT), leg ulcers | DVT and PE mimic ACS |
+| **Neurological** | Focal deficit, neck stiffness, GCS | "No focal deficit, GCS 15" |
+
+### Step 3: Bedside tests
+
+| Test | What it tells you |
+|---|---|
+| **Pulse oximetry** (on arrival, then at least 4-hourly; continuous if falling) | A falling SpO₂ is the earliest sign of ACS |
+| **Pain score** (every 30 minutes until controlled) | Guides analgesia titration |
+| **mRDT** (± blood smear) | Malaria is the commonest trigger in Uganda. A positive HRP2 mRDT may stay positive for weeks after treatment |
+| **HemoCue Hb** | A quick comparison with baseline while the FBC is pending |
+| **Urine dipstick** | Nitrites/leucocytes (UTI, pyelonephritis), protein (pre-eclampsia, sickle nephropathy), blood (papillary necrosis). Specific gravity is unreliable for hydration because SCD impairs urine concentration |
+| **RBS** | Hypoglycaemia in a sick, vomiting woman |
+| **Fetal heart / CTG** (CTG after 28 weeks) | Fetal compromise from maternal hypoxia, anaemia or abruption |
+| **Point-of-care ultrasound** | Fetal heart, liquor, placenta; spleen size if you are trained |
+| **Incentive spirometer** | Start it now (10 breaths every 2 hours while awake); poor effort = pain limiting breathing |
+
+> [!EXAM]
+> A **sickling test (sodium metabisulphite) or solubility test is positive in both HbAS and HbSS**, so it cannot diagnose sickle cell disease. The genotype needs **Hb electrophoresis or HPLC**. A woman with trait (AS) should not be put on the SCD protocol.
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **FBC** | Booking, each trimester, every crisis (daily if severe) | Hb vs baseline; **fall of 2 g/dL or more, or Hb below 6 g/dL** = acute anaemia; raised WBC is common in crisis (not always infection) | Transfusion decision. All hospitals, most HC IVs |
+| **Reticulocyte count** | Every acute anaemia; booking | Usually raised at baseline in HbSS; **very low = aplastic crisis**; high = haemolysis/sequestration/malaria | Separates the causes of acute anaemia (see Step 5). Hospital laboratories |
+| **Blood film** | Acute anaemia, fever | Sickle cells, target cells, Howell–Jolly bodies, **malaria parasites**, macrocytes (folate deficiency) | Confirms malaria and folate problems |
+| **LDH, bilirubin** | Acute anaemia, jaundice | Rising = haemolysis (malaria, hyperhaemolysis, delayed transfusion reaction); LDH also rises in HELLP | Haemolysis vs sequestration vs HELLP. Regional/national referral mostly |
+| **Group and cross-match with antibody screen** (extended phenotype where possible) | Every admission, early | Alloantibodies = delay | Warn the blood bank early; request HbS-negative, **ABO, Rh (C, c, E, e) and Kell**-matched blood where available |
+| **Blood cultures** | Temperature 38.0 °C or more | Pneumococcus, *Salmonella*, gram-negatives | Antibiotic choice; asplenia makes sepsis rapid. Regional/national referral |
+| **Urine culture** | Booking, each trimester, any crisis | Significant bacteriuria | Treat ASB/UTI (a crisis trigger) |
+| **Chest X-ray** (with abdominal shielding) | Any chest pain, cough, fever with tachypnoea, **SpO₂ below 95%** | **New infiltrate = acute chest syndrome**; effusion; oedema | ACS protocol: oxygen, ceftriaxone + macrolide, transfusion. The fetal dose is tiny; do not withhold it |
+| **Blood gas** | SpO₂ below 94% or distress | Hypoxaemia, acidosis | HDU/ICU, exchange transfusion. Few referral units |
+| **U&E / creatinine, LFTs** | Booking, crises | Sickle nephropathy; raised ALT/bilirubin (hepatic crisis, cholecystitis, HELLP) | Drug dosing (NSAIDs), fluid plan, pre-eclampsia baseline |
+| **Urine protein:creatinine ratio** | Booking; new hypertension | Proteinuria from nephropathy (baseline) vs new pre-eclampsia | Interpret later BP/proteinuria against baseline |
+| **Parvovirus B19 serology** | Aplastic crisis | IgM positive | **Fetal anaemia risk**: ultrasound for hydrops, MCA Doppler where available |
+| **Hb electrophoresis / HPLC** (woman and partner) | Pre-conception or booking | Genotype, HbF % | Confirms SCD; partner counselling. Mulago/CPHL and some regional hospitals |
+| **Serum ferritin** | Booking (if iron considered) | Low = true iron deficiency; high = overload (or inflammation) | Iron only if deficient |
+| **Echocardiography** | Booking if breathless or known heart/lung disease | **TR jet velocity above 2.5 m/s** = pulmonary hypertension | Very high maternal risk: joint cardiac/obstetric care. Referral hospitals |
+| **Leg Doppler ± CTPA/V/Q** | Leg swelling, pleuritic pain with a clear CXR | DVT, PE | Treatment-dose LMWH. CTPA only at national referral / private centres |
+| **Obstetric ultrasound** | Dating, anomaly scan (18–22 weeks), **growth every 4 weeks from 24 weeks**; crisis with abdominal pain | IUGR, oligohydramnios, abnormal umbilical artery Doppler; retroplacental clot (ultrasound misses many abruptions) | Timing of delivery; closer fetal surveillance |
+| **Retinal exam** | Booking (especially HbSC) | Proliferative retinopathy | Ophthalmology referral |
+
+### Step 5: Putting it together
+
+**Model one-line summary**
+> "A 24-year-old G2P1 with HbSS (baseline Hb 8.0 g/dL, previous ACS in 2023) at 32 weeks, admitted with a vaso-occlusive crisis of the back and thighs triggered by malaria, now on day 2 with a new fever, cough, SpO₂ 92% on air and right basal crackles."
+
+**Problem list**
+1. **Acute chest syndrome** (suspected, to confirm on CXR) complicating a vaso-occlusive crisis.
+2. Malaria (mRDT positive) as the trigger.
+3. **Acute-on-chronic anaemia**: Hb 6.4 g/dL (fall of 1.6 g/dL from baseline) with high reticulocytes (haemolysis).
+4. Pregnancy at 32 weeks: fetal wellbeing, growth, VTE risk.
+
+**Working diagnosis**: HbSS in pregnancy with acute chest syndrome following a malaria-triggered painful crisis.
+
+#### Worked example 1: the crisis blood panel
+
+| Result (day 1) | Her baseline | Interpretation |
+|---|---|---|
+| Hb **6.4 g/dL** | 8.0 | Fall of 1.6 g/dL: below the 2 g/dL transfusion trigger, but close; repeat daily |
+| Reticulocytes **high** (above her usual) | Raised | Marrow is responding: **haemolysis**, not aplasia |
+| LDH and bilirubin **raised** | | Haemolysis (malaria + sickling) |
+| WBC 18 × 10⁹/L | | Common in crisis; does not by itself prove bacterial infection |
+| Platelets 250 × 10⁹/L, ALT normal | | Argues against HELLP |
+| mRDT **positive** | | **Trigger found**: treat malaria (IV artesunate if severe) |
+| Urine: nitrites negative | | UTI unlikely |
+
+**Day 2**: T 38.5 °C, cough, RR 28, **SpO₂ 92%** on air, right basal crackles. **CXR: new right lower-lobe infiltrate.** This is **acute chest syndrome**.
+
+**Action**: call the senior and anaesthetist; **oxygen to SpO₂ 94–98%**; **IV ceftriaxone 2 g daily + azithromycin 500 mg daily** (or erythromycin); continue antimalarials; analgesia enough to breathe deeply; **incentive spirometry**; careful fluids with a balance chart; LMWH; **cross-match**: top-up transfusion now that she is hypoxic with a falling Hb, **exchange transfusion** if she worsens or has multilobar disease (Mulago/major centres); CTG. **Delivery does not treat ACS.**
+
+#### Worked example 2: two acute anaemias
+
+| | Woman X (HbSS, 26 weeks) | Woman Y (HbSC, 30 weeks) |
+|---|---|---|
+| Hb (baseline) | **5.2 g/dL** (7.5) | **7.0 g/dL** (11.0) |
+| Reticulocytes | **Very low** | High |
+| Spleen | Not palpable | **Palpable, tender, enlarging** |
+| Other | Flu-like illness last week | Tachycardic, hypotensive |
+| **Diagnosis** | **Aplastic crisis** (probable parvovirus B19) | **Splenic sequestration** |
+| **Action** | Transfuse (Hb below 6 and a fall of more than 2); parvovirus serology; **fetal scan for hydrops / MCA Doppler** | **Urgent transfusion** (aim to restore, not exceed, baseline: blood returns from the spleen); senior and haematology input |
+
+> [!PEARL]
+> Note woman Y: an Hb of 7.0 g/dL "looks like" an ordinary SCD Hb, but for her (HbSC, baseline 11) it is a **fall of 4 g/dL**. Always write the **baseline next to today's Hb** in your notes.
+
 ## Differential diagnosis
 
 ### Pain in a pregnant woman with SCD
@@ -187,22 +320,12 @@ Sickling in the **uteroplacental circulation** reduces placental blood flow, cau
 
 ## Investigations
 
+The complete test list (booking, crisis and fetal surveillance), with interpretation and Ugandan availability, is in **Clinical workup, Step 4** above. Two routine items it does not list:
+
 | Test | What you are looking for | Why |
 |---|---|---|
-| **Hb electrophoresis / HPLC** (woman and **partner**) | Genotype; baseline HbS and HbF % | Confirms diagnosis, guides counselling |
-| **FBC with reticulocytes** at booking and each trimester (and in any crisis) | Baseline Hb, acute falls, reticulocyte response | Detect acute anaemia; plan transfusion |
-| **Blood film** | Sickle cells, target cells, Howell–Jolly bodies, malaria parasites | |
-| **Serum ferritin** | True iron deficiency versus overload | Decides whether to give iron |
-| **Blood group and red cell antibody screen**; extended phenotype if possible | Alloantibodies | Safe cross-match; HDFN risk |
-| **Renal function, urine protein:creatinine ratio** | Sickle nephropathy | Baseline for pre-eclampsia |
-| **LFTs, bilirubin, LDH** | Haemolysis, hepatic involvement | |
-| **Echocardiography** (TR jet velocity) where available | **Pulmonary hypertension** (TR velocity above 2.5 m/s) | PHT carries very high maternal mortality |
-| **Retinal examination** | Proliferative retinopathy (especially HbSC) | |
-| **Urine culture** at booking and each trimester | Asymptomatic bacteriuria | UTI triggers crises |
-| **Malaria test** with any fever | Malaria | Crisis trigger |
-| **HIV, syphilis, HBsAg, hepatitis C** (if transfused) | Infections | Routine and transfusion-related |
-| **Ultrasound**: dating, anomaly scan, **growth scans every 4 weeks from 24 weeks**, liquor, umbilical artery Doppler | IUGR, oligohydramnios | Placental insufficiency |
-| **In a crisis**: SpO₂, CXR (with abdominal shielding) if chest symptoms, blood culture, urinalysis, mRDT, FBC, retics, LFTs, U&E, blood gas if hypoxic | ACS, infection, acute anaemia | |
+| **HIV, syphilis, HBsAg, hepatitis C** (if transfused) | Infections | Routine triple-elimination testing and transfusion-related infection |
+| **Umbilical artery Doppler** (when growth falls off) | Raised resistance, absent/reversed end-diastolic flow | Placental insufficiency: guides timing of delivery |
 
 ## Management
 
@@ -410,3 +533,55 @@ Inheritance (Punnett squares)
   S  |  AS  |  AS  |    S | AS  |  SS  |
       100% trait           50% trait, 50% SCD
 ```
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Uganda: trait / SCD in infants (Uganda Sickle Surveillance Study) | About **13%** / about **0.7%** |
+| Folic acid | **5 mg** once daily, before conception and throughout (lifelong in SCD) |
+| Penicillin V | **250 mg twice daily** (some protocols 500 mg); allergy: erythromycin 250 mg twice daily |
+| Aspirin | **75 mg** at night from **12 to 36 weeks** |
+| Hydroxyurea | Stop **at least 3 months** before conception |
+| Malaria chemoprevention (unit-dependent) | **Proguanil 200 mg daily**, or monthly IPTp-SP from 13 weeks with folic acid withheld **1–2 weeks** after each dose; ITN always |
+| Analgesia timing | Within **30 minutes** of arrival; reassess every **30 minutes** |
+| Morphine | **2.5–5 mg IV** (or 5–10 mg SC), repeat every **20–30 min** until controlled |
+| Paracetamol | **1 g** 6-hourly (max 4 g/day) |
+| NSAIDs | Only **12–28 weeks** |
+| Oxygen | If SpO₂ **below 95%** (RCOG 94%); ACS target **94–98%** |
+| Oral fluids | About **3 L/day** |
+| Incentive spirometry | **10 breaths every 2 hours** while awake |
+| Fever / ACS antibiotics | **Ceftriaxone 2 g IV daily** (+ **azithromycin 500 mg daily** or erythromycin 500 mg 6-hourly for ACS) |
+| Severe malaria | **IV artesunate 2.4 mg/kg** at 0, 12, 24 h, then daily |
+| Transfusion triggers | Hb **below 6 g/dL** or fall of **2 g/dL or more** from baseline; ACS, stroke, multi-organ failure |
+| Post-transfusion Hb ceiling | About **10–11 g/dL** (avoid hyperviscosity) |
+| Blood matching | HbS-negative; **ABO, Rh (C, c, E, e), Kell** where possible |
+| Pulmonary hypertension on echo | TR jet velocity **above 2.5 m/s** |
+| Growth scans | Every **4 weeks from 24 weeks** |
+| Delivery | **38+0 to 40+0 weeks**; SCD alone is not an indication for CS |
+| LMWH | Every antenatal admission; postnatal **7 days** (vaginal) / **6 weeks** (CS) (RCOG); e.g. enoxaparin 40 mg SC daily |
+| Genetics | SS × AA = **100% AS**; SS × AS = **50% SS**; AS × AS = **25% SS** |
+
+### Classic exam traps
+
+- **"Give routine FeFo like every other mother."** Wrong: SCD patients are usually iron-replete or overloaded. **Folic acid 5 mg**, iron only if ferritin is low.
+- **"Give IPTp-SP with folic acid 5 mg."** Wrong: high-dose folate antagonises SP. Use **proguanil daily** or **withhold folic acid 1–2 weeks after SP**, per protocol.
+- **"Pethidine for crisis pain."** Wrong: norpethidine causes **seizures**. Use **morphine**.
+- **"Diclofenac at 34 weeks."** Wrong: NSAIDs only **12–28 weeks** (ductus closure, oligohydramnios).
+- **"Hb 7 g/dL, she is always anaemic, no action."** Wrong until you compare with **her baseline**: a fall of 2 g/dL or more is an emergency.
+- **"A positive sickling test confirms SCD."** Wrong: it is positive in **trait (AS)** too; confirm with **electrophoresis/HPLC**.
+- **"Transfuse every pregnant woman with SCD prophylactically."** Wrong: **not routine**; transfuse for specific indications.
+- **"Deliver her by CS because she has SCD" or "deliver to treat ACS."** Wrong: CS for **obstetric indications**; delivery does not treat ACS.
+
+### Questions seniors ask
+
+1. **"What is her baseline Hb?"** Always know it; every decision about acute anaemia depends on the fall from baseline.
+2. **"How long did it take her to get analgesia?"** It should be **under 30 minutes**; delays cause suffering and hypoventilation is a risk once large doses are finally given.
+3. **"What was her SpO₂ and RR this morning, and what did the chest sound like?"** The daily ACS screen: 4-hourly SpO₂ and RR, auscultate the bases, incentive spirometry.
+4. **"Her Hb has fallen from 7.5 to 5.2 and the reticulocytes are very low. What is it?"** **Aplastic crisis**, probably parvovirus B19: transfuse, send serology, scan the fetus for anaemia/hydrops.
+5. **"What is your malaria prevention plan for her?"** Proguanil 200 mg daily with folic acid 5 mg (or SP with folic acid withheld after each dose per protocol) and an ITN; **no SP** if she is on co-trimoxazole.
+6. **"When do you transfuse, and what blood do you ask for?"** Hb below 6 g/dL or fall of 2 g/dL or more, ACS, stroke, multi-organ failure; HbS-negative, ABO/Rh (C, c, E, e)/Kell-matched, antibody-screened; do not exceed about 10–11 g/dL.
+7. **"How will she deliver?"** 38+0 to 40+0 weeks, vaginal unless obstetric indication; warm, hydrated, oxygenated (SpO₂ monitoring), continuous CTG, epidural encouraged, avoid prolonged labour, active third stage.
+8. **"What happens after delivery?"** Crisis risk stays high for 1–2 weeks; LMWH 7 days (vaginal) or 6 weeks (CS), incentive spirometry, folic acid and penicillin, progestogen-only contraception (DMPA may reduce crises).

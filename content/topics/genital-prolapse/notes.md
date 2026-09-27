@@ -10,6 +10,9 @@ highYield:
   - "Manchester (Fothergill) repair = cervical amputation + cardinal ligament shortening + anterior repair. It preserves the uterus, but risks cervical stenosis and incompetence, so it suits women who have completed their family."
   - "Procidentia with a decubitus ulcer: admit, reduce the prolapse and keep it reduced with a daily vaginal pack (oestrogen cream where available), treat infection, check for hydronephrosis, and biopsy any ulcer that does not heal, before definitive surgery."
   - "NICE advises against transvaginal mesh for anterior or posterior wall repair outside research. Sacrocolpopexy (mesh via the abdomen) is the most durable operation for vault prolapse."
+  - "Record POP-Q as a 3 × 3 grid (Aa, Ba, C / gh, pb, tvl / Ap, Bp, D) in cm from the hymen on maximum strain; only tvl is measured at rest."
+  - "In every advanced prolapse check the post-void residual (over about 100–150 mL is incomplete emptying), U&E and a renal ultrasound for hydronephrosis before planning surgery."
+  - "Reduce the prolapse and ask her to cough before surgery: a leak means occult stress incontinence that the repair may unmask."
 ---
 
 ## In a nutshell
@@ -182,6 +185,147 @@ This is the international standard (ICS/IUGA). The **hymen is the reference poin
    - not checking the **residual urine** or the **kidneys**
    - calling every vaginal mass a prolapse (it could be a **fibroid polyp or chronic inversion**)
 
+## Clinical workup
+
+Most women with prolapse are worked up calmly in the gynae clinic or on the ward before a surgical camp. The workup answers: **Which compartments are down, and how far (POP-Q or degree)? Is the bladder emptying and are the kidneys safe? Is there an ulcer or bleeding that could be cancer? What does she want (fertility, sex), and is she fit for which treatment?**
+
+### Step 0: First 5 minutes
+
+Usually there is no emergency, but check for the four situations that turn prolapse into one:
+
+1. **Irreducible, oedematous, ulcerated or gangrenous procidentia**: admit, bed rest with the foot of the bed raised, analgesia, gentle reduction (after reducing oedema) and a pack.
+2. **Acute urinary retention** (a painful palpable bladder, overflow dribbling): **catheterise now** and measure the volume drained.
+3. **Signs of obstructive uropathy or sepsis**: fever, loin pain, confusion, reduced urine output, vomiting in an elderly woman with procidentia. Check vitals, RBS, and send **U&E urgently**; start IV fluids and antibiotics for pyelonephritis if septic.
+4. **Heavy bleeding** from an ulcer or the cervix: pressure, pack, Hb, and think of **carcinoma**.
+
+Also check **vital signs, pallor, hydration and mental state**, because many of these women are elderly and frail.
+
+### Step 1: Focused history
+
+| Ask | Why it changes the plan |
+|---|---|
+| **The bulge**: how long, worse when standing or at the end of the day, reducible, always out? | Severity and reducibility; always out suggests stage III–IV |
+| **Voiding**: hesitancy, poor stream, **pushing the bulge back to void**, incomplete emptying, recurrent UTI | Urethral kinking and retention: check the residual and the kidneys |
+| **Leakage on cough or sneeze** (and whether it got better as the prolapse got worse) | SUI or **occult SUI**: test with the prolapse reduced; may need a continence procedure |
+| **Urgency, frequency, nocturia** | OAB or UTI; do not promise that surgery cures urgency |
+| **Bowels**: straining, incomplete evacuation, **splinting or digitating** | Rectocele or enterocele: posterior repair is indicated only if symptomatic |
+| **Bleeding or blood-stained discharge; postmenopausal bleeding** | Decubitus ulcer vs **cervical or endometrial cancer** |
+| **Sexually active? Pain? Wishes for the future?** | Colpocleisis vs reconstructive surgery; avoid levator plication in sexually active women |
+| **Wants more children?** | Conservative or uterus-preserving surgery; avoid Manchester repair and hysterectomy |
+| **Parity, birth weights, home or long births, instruments** | Explains the mechanism; counselling |
+| **Menopause; any oestrogen use** | Atrophy: vaginal oestrogen before a pessary or surgery |
+| **Chronic cough (TB, cooking smoke, COPD), constipation, heavy loads, weight** | Modifiable "pushers": fix them or the prolapse recurs |
+| **Comorbidity and medicines** (hypertension, diabetes, heart or lung disease, anticoagulants) | Fitness for anaesthesia; pessary or colpocleisis for the frail |
+| **Previous hysterectomy or repair** | Vault prolapse; recurrence; scarring |
+| **Can she return for follow-up?** | A pessary needs reviews every 3–6 months; a woman who cannot return may be safer with surgery |
+
+### Step 2: Focused examination
+
+**General**: BMI, pallor, **chest** (cough, wheeze, signs of TB or COPD), BP, frailty.
+
+**Abdomen**: a **palpable bladder**, **renal angle tenderness**, pelvic or abdominal masses and **ascites** (secondary prolapse), hernias.
+
+**Pelvic examination** (consent, a chaperone, empty bladder first, good light):
+
+| Step | What you document |
+|---|---|
+| **Inspect at rest, then on strain/cough** | Anything visible at the introitus; **atrophy**; ulcer (site, size, edge); **urine leak on cough**; gaping introitus and perineal body length |
+| **Sims speculum, left lateral** (Cusco hides the walls) | Posterior blade retracting the **posterior** wall: **anterior wall and cervix** descend on straining. Rotate to retract the **anterior** wall: **posterior wall** (rectocele, enterocele). Withdraw slowly while she strains to see the **apex** descend |
+| **Leading edge of each compartment** | In cm relative to the **hymen** (POP-Q) or as a degree |
+| **Reduce the prolapse and ask her to cough** | **Occult SUI** |
+| **Standing examination** if the story is bigger than the findings | Reproduces the maximum descent |
+| **Bimanual** | Uterine size and mobility, fundal level, adnexal masses; **cervical elongation** (fundus high, cervix long) |
+| **Rectovaginal** | **Rectocele** (rectum into the vagina) vs **enterocele** (bowel between your fingers above it); anal sphincter tone |
+| **Cervix and any ulcer** | VIA or cytology; **biopsy** anything hard, raised, friable or not healing |
+| **Pelvic floor contraction** ("squeeze and lift") | Oxford grade 0–5; baseline for PFMT |
+
+### Step 3: Bedside tests
+
+| Test | What you want | Why |
+|---|---|---|
+| **Post-void residual** (in–out catheter or bladder scan, straight after she voids) | **Over about 100–150 mL** = incomplete emptying | Retention from kinking: catheterise, check the kidneys; residual urine causes UTIs |
+| **Urine dipstick** | Nitrites, leucocytes, blood, glucose | UTI (send culture, treat before surgery); glucose = undiagnosed diabetes |
+| **Cough stress test with the prolapse reduced** | Leak from the meatus | **Occult SUI**: counsel, or add a continence procedure |
+| **Pregnancy test** (premenopausal women) | hCG | Before a pessary fitting or surgery |
+| **HemoCue / Hb** | Anaemia | Ideally Hb above 10 g/dL before surgery |
+| **Random blood sugar** | Diabetes | Healing, infection risk |
+| **VIA** (visual inspection with acetic acid) | Acetowhite lesion | Cervical screening before hysterectomy or Manchester repair |
+| **HIV RDT** (if unknown) | Status | Healing, counselling, ART |
+| **Trial pessary fitting** (if she chooses one) | Retained on straining, walking and squatting; a finger fits between ring and wall; she can **void** with it in | Confirms the right size before discharge |
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Urine microscopy and culture** | Dipstick positive, retention, before surgery | Pyuria, organism | Treat per culture (e.g. nitrofurantoin 100 mg 12-hourly for 5 days) before surgery. Culture at regional/national referral hospitals |
+| **Urea, creatinine, electrolytes** | Procidentia, retention, hydronephrosis, all older women before surgery | Raised creatinine | **Obstructive uropathy**: reduce and pack or catheterise, then recheck; anaesthetic and drug dosing (avoid NSAIDs and nitrofurantoin). Regional/national referral; limited at HC IV |
+| **Renal and bladder ultrasound** | Procidentia, high residual, raised creatinine, loin pain | **Hydronephrosis**, small kidneys, bladder stones | Hydronephrosis usually resolves after reduction and surgery; persistent obstruction needs urology. Available at most HC IVs and hospitals |
+| **Pelvic ultrasound** | Before surgery; **postmenopausal bleeding**; bimanual abnormal | Fibroids, adnexal mass, **endometrial thickness** (thickened in PMB = sample) | Choice of operation; excludes pathology before colpocleisis |
+| **Endometrial sampling** | PMB, thickened endometrium, before colpocleisis | Hyperplasia or cancer | Cancer changes the whole plan (staging, oncology) |
+| **Biopsy of an ulcer or lesion** | Ulcer not healed after about 2 weeks of reduction and packing, or looks suspicious | Squamous carcinoma vs decubitus ulcer | Carcinoma = oncology, not prolapse surgery. Histology at regional/national referral hospitals |
+| **Cervical screening (VIA / cytology / HPV)** | Before hysterectomy or Manchester repair | Pre-invasive disease | Treat first or change the operation |
+| **FBC, blood group and cross-match** | Before surgery | Anaemia | Correct anaemia; blood available for hysterectomy |
+| **Chest X-ray, ECG** | Older women, chronic cough, cardiac history | TB, COPD, cardiac disease | Fitness for anaesthesia; treat the cause of raised intra-abdominal pressure |
+| **Urodynamics** | Before a continence procedure when the diagnosis is unclear (mixed symptoms, previous surgery) | SUI vs detrusor overactivity, voiding dysfunction | Selects who benefits from a continence operation. National referral and a few private centres only |
+
+### Step 5: Putting it together
+
+**Model one-line summary**: "A 62-year-old para 8, 12 years postmenopausal, with a **complete procidentia (POP-Q stage IV)**, a 2 × 3 cm decubitus ulcer, a **post-void residual of 250 mL** and **bilateral mild hydronephrosis**, with a chronic cough from cooking smoke."
+
+**Problem list**:
+1. Uterovaginal prolapse, POP-Q stage IV (apical, anterior and posterior)
+2. Decubitus ulcer (carcinoma not yet excluded)
+3. Incomplete bladder emptying with bilateral hydronephrosis
+4. Chronic cough (cooking smoke; exclude TB)
+5. Atrophy; fitness for surgery to be assessed
+
+**Working diagnosis and plan**: procidentia with ulcer and obstructive uropathy → admit, reduce and daily oestrogen pack, catheter, urine culture, U&E, sputum for TB, biopsy if the ulcer has not healed by about 2 weeks; then vaginal hysterectomy with McCall culdoplasty and anterior and posterior repair (or colpocleisis if frail and not sexually active).
+
+#### Worked example 1: recording POP-Q
+
+POP-Q is written as a **3 × 3 grid**. All points except **tvl** are measured **on maximum strain**, in cm relative to the **hymen (0)**: above = minus, below = plus.
+
+| Point | Where it is | Normal range |
+|---|---|---|
+| **Aa** | Anterior wall, **3 cm** above the hymen (near the urethrovesical junction) | −3 (normal) to +3 |
+| **Ba** | Most dependent part of the rest of the anterior wall | −3 (normal) up to +tvl |
+| **C** | The cervix (or the vault after hysterectomy) | About −tvl (normal) to +tvl |
+| **D** | Posterior fornix (omitted after hysterectomy) | Deep in the pelvis normally |
+| **Ap / Bp** | Posterior wall equivalents of Aa and Ba | As for Aa / Ba |
+| **gh** (genital hiatus) | Middle of the urethral meatus to the posterior hymen | cm |
+| **pb** (perineal body) | Posterior hymen to the mid-anal opening | cm |
+| **tvl** (total vaginal length) | Depth of the vagina **at rest**, with the prolapse reduced | cm |
+
+**Example A**: a 45-year-old P5 with a bulge on standing.
+
+```
+  Aa  0 | Ba +1 | C  -6
+  gh  4 | pb  3 | tvl 9
+  Ap -3 | Bp -3 | D  -8
+```
+
+- The most distal point is **Ba at +1** (within 1 cm of the hymen): **stage II, anterior compartment (cystocele)**.
+- The apex is well supported (C −6); the posterior wall is normal.
+- **Plan**: PFMT for at least 16 weeks, or a ring pessary; if she chooses surgery, an **anterior colporrhaphy** (no need for hysterectomy, because the apex is well supported).
+
+**Example B**: the 62-year-old above, tvl 9 cm.
+
+```
+  Aa +3 | Ba +7 | C  +8
+  gh  6 | pb  2 | tvl 9
+  Ap +3 | Bp +6 | D  +7
+```
+
+- C is +8, which is at least **tvl − 2 = +7**: **stage IV (procidentia)**, all three compartments.
+- A wide hiatus (gh 6) and a short perineal body (pb 2) suggest a **perineal deficiency** (Level III), so add a perineorrhaphy.
+
+> [!PEARL]
+> A **large gap between C and D** (the cervix much lower than the posterior fornix) suggests **cervical elongation** rather than true uterine descent. A Manchester repair (which amputates the cervix) suits this.
+
+#### Worked example 2: the "cured" cystocele that leaks
+
+A 58-year-old with a stage III cystocele reports that her leaking on cough stopped as the bulge got bigger. With the prolapse reduced by the posterior blade of the Sims speculum, a cough produces a jet of urine from the meatus. **Interpretation**: **occult stress incontinence**, masked by urethral kinking. **Plan**: counsel that repair may unmask leakage; consider a continence procedure at the same time or as a second stage, and teach PFMT.
+
 ## Differential diagnosis
 
 | Condition | Distinguishing features | Key investigation |
@@ -198,18 +342,7 @@ This is the international standard (ICS/IUGA). The **hymen is the reference poin
 
 ## Investigations
 
-| Test | What you are looking for | Why |
-|---|---|---|
-| **Urinalysis and MSU culture** | UTI | Treat before surgery; residual urine causes infection |
-| **Post-void residual** (catheter or bladder scan) | Over about 100–150 mL | Retention from urethral kinking |
-| **Renal and bladder ultrasound** | **Hydronephrosis**, renal size, bladder stones | Procidentia can obstruct the ureters |
-| **Urea, creatinine, electrolytes** | Renal impairment | Obstructive uropathy; anaesthetic safety |
-| **Pelvic ultrasound** | Uterine or adnexal pathology, endometrial thickness | Plan surgery; PMB |
-| **Cervical screening (VIA / Pap / HPV)** | Pre-invasive disease | Before hysterectomy or Manchester repair |
-| **Biopsy of an ulcer or suspicious lesion** | Carcinoma | Decubitus ulcer vs cancer |
-| **FBC, RBS, HIV, blood group** | Anaemia, diabetes, fitness | Pre-operative work-up |
-| **Chest X-ray / ECG** (older women, cough) | TB, COPD, cardiac disease | Fitness; the cause of raised pressure |
-| **Urodynamics** (where available) | SUI vs detrusor overactivity | Before a continence procedure |
+The full test-by-test table (urine culture, U&E, renal and pelvic ultrasound, endometrial sampling, biopsy, cervical screening, pre-operative bloods, chest X-ray and ECG, urodynamics), with Ugandan availability, is in **Step 4 of the Clinical workup** above, and the ward tests (post-void residual, dipstick, occult SUI cough test, VIA) are in **Step 3**. Remember that the diagnosis and staging of prolapse are **clinical** (Sims speculum and POP-Q): investigations look for **complications** (retention, hydronephrosis, UTI), **other pathology** (cancer, endometrial disease) and **fitness for surgery**.
 
 ## Management
 
@@ -373,3 +506,45 @@ This is the international standard (ICS/IUGA). The **hymen is the reference poin
 - **Manchester = "ACP"**: **A**mputate the cervix, **C**ardinal ligaments plicated, **P**lus anterior repair.
 - **POP-Q: "the hymen is zero"**. Above is minus, below is plus. Stage II is ±1 around the hymen.
 - **DeLancey: "Suspend, Attach, Fuse"**. Levels I, II and III.
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| POP-Q reference point | The **hymen = 0**; above minus, below plus; all at **maximum strain** except tvl |
+| Aa / Ap | **3 cm** above the hymen; range −3 to +3 |
+| Stage I / II / III / IV | Leading edge **< −1** / **−1 to +1** / **> +1 but < tvl − 2** / **≥ tvl − 2** (complete eversion) |
+| Post-void residual suggesting incomplete emptying | **Over about 100–150 mL** |
+| Supervised PFMT before judging success (NICE) | **At least 16 weeks** |
+| PFMT regimen | **8–12 slow maximal contractions** (held up to 10 s), **3 times a day**, plus fast contractions and "the knack" |
+| Pessary review | **2–4 weeks** after fitting, then every **3–6 months** |
+| Decubitus ulcer | Most heal in **1–3 weeks** with reduction and daily packing; **biopsy if not healed after about 2 weeks** |
+| Vaginal oestrogen before surgery | **4–6 weeks** if atrophic; estriol 0.1% cream **0.5 g nightly for 2–3 weeks, then twice weekly** |
+| Hb before surgery | Ideally **above 10 g/dL** |
+| Ureter distance from the cervix | About **1.5–2 cm** lateral |
+| Pack and catheter after vaginal hysterectomy/repair | About **24 hours** (longer after extensive anterior repair) |
+| After surgery | No heavy lifting or intercourse for about **6 weeks**; review at **6 weeks** |
+| Weight loss advised | If **BMI over 30** |
+
+### Classic exam traps
+
+- **Using a Cusco speculum.** It hides the walls; use a **Sims speculum in the left lateral position** with her straining.
+- **Operating on the grade, not the symptoms.** Asymptomatic stage II needs no surgery.
+- **Doing an anterior repair alone when the apex is down.** Missed apical prolapse is the main cause of recurrence: support the vault.
+- **Calling every ulcer "decubitus".** Biopsy any ulcer that is suspicious or has not healed after about 2 weeks: it may be carcinoma.
+- **Forgetting the kidneys and residual** in procidentia (hydronephrosis, retention, renal failure).
+- **Manchester repair for a young woman who wants more children.** No: cervical stenosis and incompetence; use conservative or uterus-preserving options.
+- **Promising dryness after repair.** Test for **occult SUI** with the prolapse reduced first.
+- **Colpocleisis without checking sexual wishes and the endometrium.** No future intercourse; exclude uterine pathology first.
+
+### Questions seniors ask
+
+- **How do you record POP-Q?** Nine measurements in a 3 × 3 grid (Aa, Ba, C / gh, pb, tvl / Ap, Bp, D), in cm relative to the hymen on maximum strain, tvl at rest; the stage comes from the most distal point.
+- **How do you tell an enterocele from a rectocele?** Rectovaginal examination: bowel between the fingers above the rectum = enterocele; the rectum bulging into the vagina = rectocele.
+- **What investigations before surgery for procidentia?** Urine culture, U&E, renal ultrasound, post-void residual, FBC and cross-match, cervical screening, pelvic ultrasound, and biopsy of any non-healing ulcer.
+- **What three questions choose the operation?** Does she want more children? Is she sexually active? Is she fit for anaesthesia?
+- **How do you manage a decubitus ulcer?** Admit, reduce, daily pack with oestrogen cream, treat infection, biopsy if not healed in about 2 weeks, then definitive surgery.
+- **How do you fit a pessary safely?** The largest comfortable size, retained on straining and walking, a finger's space, able to void; review in 2–4 weeks then every 3–6 months with vaginal oestrogen.
+- **How do you suspect cervical elongation?** The fundus is at its normal level on bimanual examination, the cervix is long, and on POP-Q point C is much lower than point D.

@@ -10,6 +10,10 @@ highYield:
   - Minute ventilation rises about 40–50% through tidal volume (progesterone), PaCO₂ falls to about 4 kPa (30 mmHg) and FRC falls about 20%. A pregnant woman desaturates fast.
   - GFR and renal plasma flow rise about 50%, so a 'normal' creatinine of 90 µmol/L in pregnancy is actually abnormal.
   - Pregnancy is hypercoagulable (fibrinogen and factors VII, VIII and X up; protein S down), so VTE risk is about 5-fold, highest postpartum.
+  - Do a urine hCG in every woman of reproductive age with abdominal pain, bleeding, collapse, or before a drug, X-ray or operation. Positive hCG + pain + shock means ruptured ectopic until proven otherwise.
+  - "Pregnancy normal ranges to quote: creatinine 35–70 µmol/L, PaCO₂ about 4 kPa, HCO₃⁻ 18–22 mmol/L, fibrinogen 4–6 g/L, ALP up 2–4 times, albumin 28–37 g/L."
+  - Never physiological in pregnancy are RR above 20/min, SpO₂ below 95%, resting HR above 100, a diastolic murmur, raised ALT/AST and unilateral leg swelling.
+  - A pregnant woman can lose up to about 30% of her blood volume before BP falls. Shock index (HR ÷ SBP) 0.9 or more is worrying and 1.4 or more is critical.
 ---
 
 ## In a nutshell
@@ -205,6 +209,129 @@ The one thing never to forget: **"normal" values change in pregnancy.** A creati
   - Hb: 10.5–11 in the second trimester may be mild dilution, but **below 11 is still treated** as anaemia in Uganda (WHO cut-off), and below 10 is almost always true anaemia.
 - **Haemorrhage physiology pitfall:** because of the expanded blood volume, a pregnant woman can lose **1,000–1,500 mL (up to about 30% of blood volume) before BP falls**. **Tachycardia and a narrowing pulse pressure come first**; hypotension is a late, pre-arrest sign. Use the **shock index** (HR ÷ systolic BP): **0.9 or more is worrying, 1.4 or more is critical**.
 
+## Clinical workup
+
+This topic has two practical workups that you will use every day: **(A) confirming and dating a pregnancy**, and **(B) deciding whether a symptom, sign or result in a pregnant woman is normal physiology or disease**. Both follow the same steps.
+
+### Step 0: First 5 minutes
+
+1. **Is she pregnant?** Any woman aged about 12–50 with abdominal pain, bleeding, collapse, vomiting, or who needs a drug, X-ray or operation gets a **urine hCG** now. It takes 5 minutes and costs very little.
+2. **Vital signs, read with pregnancy norms:**
+
+| Sign | Normal in pregnancy | Pathological: act now |
+|---|---|---|
+| Heart rate | Up 10–20 bpm (roughly 80–95/min) | **Above 100/min at rest**: bleeding, sepsis, anaemia, PE, thyroid, cardiac disease |
+| Blood pressure | Lower in the 2nd trimester (nadir 20–24 weeks) | **140/90 or more** = hypertension; **160/110 or more** = severe; hypotension = late sign of shock |
+| Respiratory rate | **Unchanged** (12–20/min) | **Above 20/min** is abnormal: PE, pneumonia, pulmonary oedema, sepsis, DKA |
+| SpO₂ | 95% or more | **Below 95%** is never physiological |
+| Temperature | Up to about 0.5°C higher early on | **38.0°C or more** = fever |
+| Shock index (HR ÷ SBP) | 0.7–0.9 | **0.9 or more** worrying; **1.4 or more** critical |
+
+3. **Positive hCG + pain or bleeding + tachycardia or shock index 0.9 or more** → treat as a **ruptured ectopic** until proven otherwise: call for help, two large-bore cannulae, group and cross-match, urgent scan or straight to theatre if unstable.
+4. **From 20 weeks, never leave her supine**: left lateral tilt (15–30°) or manual uterine displacement before you examine, resuscitate or transfer.
+
+### Step 1: Focused history
+
+**(A) Confirming and dating a pregnancy**
+
+| Ask | Why: the answer that changes the plan |
+|---|---|
+| **First day of LNMP**; was it a normal period? | Naegele's EDD. A light "period" may have been bleeding in early pregnancy, so dates are uncertain → early scan |
+| **Cycle length and regularity** | Long cycles: add (cycle length − 28) days. Irregular → scan dating |
+| **Contraception** (DMPA, implant, pill, IUD) and **breastfeeding** | Amenorrhoea may be the method, not a pregnancy; IUD in situ → higher ectopic risk |
+| **Pain, bleeding, shoulder-tip pain, fainting** | Ectopic or miscarriage → urgent scan, not routine booking |
+| **Severe vomiting** | Twins, **molar pregnancy**, hyperemesis → early scan, hCG, U&E |
+| **Previous ectopic, PID, tubal surgery, infertility** | Ectopic risk → locate the pregnancy by TVS |
+| **Drugs** | Teratogens (valproate, warfarin, ACE inhibitors, methotrexate, isotretinoin) → switch now; folic acid **5 mg** if on antiepileptics or previous NTD |
+
+**(B) Is this symptom physiological?** For every symptom ask: **onset** (gradual = more likely physiological; sudden = pathology), **severity** (does it stop her from normal activity?), **associated features** (the "red-flag companions" below), and **trend** (getting worse week by week?).
+
+| Symptom | Reassuring (physiological) companions | Red-flag companions (pathology) |
+|---|---|---|
+| Breathlessness | Gradual, on talking or mild exertion, no cough | Sudden, at rest, orthopnoea, PND, chest pain, haemoptysis, palpitations |
+| Swelling | Both ankles, evening, settles overnight | Face or hands, headache, visual symptoms (pre-eclampsia); one leg (DVT) |
+| Palpitations | Brief, no syncope | Syncope, chest pain, known RHD, sustained HR above 100 |
+| Vomiting | First trimester, eating and drinking something | Dehydration, weight loss, after 16 weeks (look for malaria, UTI, hepatitis, molar pregnancy) |
+| Itching | Localised, with rash, stretch-mark area | **Palms and soles, no rash** (intrahepatic cholestasis) |
+| Headache | Mild, early pregnancy, responds to paracetamol | After 20 weeks, severe, with visual disturbance or epigastric pain (pre-eclampsia) |
+| Discharge | White, non-offensive, non-itchy | Itch, odour, colour, or watery (ruptured membranes) |
+
+### Step 2: Focused examination
+
+**General:** pallor, jaundice, oedema (where?), pulse character, JVP, thyroid (modest symmetrical enlargement can be normal; a nodule is not).
+
+**Cardiorespiratory:** a **soft ejection systolic flow murmur** is found in most pregnant women and is normal. **A diastolic murmur, a loud (grade 3 or more) murmur, a displaced heaving apex, basal crepitations or an irregular pulse are never physiological.** Chest: clear, normal RR.
+
+**Abdomen:** fundal height against the landmarks (**12 weeks** just above symphysis, **16** halfway to umbilicus, **20–22** at umbilicus, **36** at xiphisternum); linea nigra and striae; fetal heart with Doppler from 10–12 weeks, Pinard from about 20 weeks.
+
+**Pelvic (only when indicated):** speculum for bleeding source, os open or closed, bluish cervix (Chadwick's); bimanual for uterine size (hen's egg 6 weeks, orange 8, grapefruit 12), softening, **adnexal tenderness or mass, cervical excitation** (ectopic).
+
+**Legs:** calf size and tenderness on both sides (DVT is commoner on the **left**).
+
+**Document** for a normal early pregnancy: "Pulse 88, BP 108/64, RR 16, SpO₂ 98%, no pallor, soft ejection systolic murmur only, uterus about 8 weeks' size, soft, non-tender, no adnexal mass, os closed."
+
+### Step 3: Bedside tests
+
+| Test | Normal in pregnancy | What an abnormal result means |
+|---|---|---|
+| **Urine hCG** (detects about 20–25 IU/L) | Positive from about the missed period | Negative with strong suspicion → repeat in 1 week or serum β-hCG; very high hCG can cause a false negative (hook effect) in a mole |
+| **Urine dipstick** | Trace glucose or protein can be normal | **Protein 1+ or more with BP 140/90** → pre-eclampsia workup; **nitrites/leucocytes** → UTI; **ketones** 2+ or more with vomiting → dehydration/hyperemesis |
+| **HemoCue Hb** | **11 g/dL or more** (10.5 or more acceptable in the 2nd trimester) | Below 11 anaemia; below 7 severe |
+| **Pulse oximetry** | **95% or more** | Below 95% = pathology (PE, pneumonia, pulmonary oedema) |
+| **RBS** | Fasting tends lower in early pregnancy | High → formal FBS/OGTT (glycosuria alone is not enough) |
+| **Doppler / Pinard** | FHR **110–160 bpm** | Not heard when expected → ultrasound |
+| **Bedside clotting test** (2 mL in a plain glass tube) | Clot by about 7 minutes (pregnancy is hypercoagulable) | **No clot by 7 minutes** or a clot that breaks up → coagulopathy/DIC |
+| **Point-of-care ultrasound** (if trained) | Intrauterine sac, fetal heart | Empty uterus + free fluid in the pouch of Douglas/Morison's pouch + positive hCG → ruptured ectopic |
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected (normal pregnancy) / abnormal finding | How it changes management (and Ugandan availability) |
+|---|---|---|---|
+| **Serum quantitative β-hCG** | Pregnancy of unknown location, suspected ectopic or mole, follow-up after miscarriage/GTD | Detectable 8–11 days after conception; **rises 63% or more in 48 h** in a viable early IUP; peaks at 8–10 weeks. **Above the discriminatory zone (about 1,500–3,500 IU/L) with an empty uterus on TVS** = ectopic or complete miscarriage | Decides between expectant follow-up, methotrexate, or surgery. Regional/national referral and private labs |
+| **Transvaginal ultrasound** | Early pregnancy with pain or bleeding; dating | Sac about 4.5–5 weeks, yolk sac about 5.5, **cardiac activity about 6 weeks**; CRL dates to ±5–7 days at 7–14 weeks | Location, viability, number, dates. Hospitals and some HC IVs (transabdominal much more common; sees things about 1 week later) |
+| **Dating / anatomy ultrasound (transabdominal)** | At least once **before 24 weeks** | Singleton or twins, placenta site, anomalies | Scan EDD replaces LNMP EDD if they differ by more than 5–7 days (1st trimester) or 10–14 days (2nd trimester). Most HC IVs and hospitals |
+| **FBC** | Booking, anaemia, infection, pre-eclampsia | **Hb 11 g/dL or more**; **WCC up to about 15 × 10⁹/L** (higher in labour and after steroids); platelets 150–400 (gestational thrombocytopenia usually above 100) | Platelets **below 100** → HELLP, ITP, DIC. Hb high for gestation in a hypertensive woman → poor plasma expansion (pre-eclampsia). HC IV and hospital |
+| **Creatinine and urea** | Hypertension, sepsis, vomiting, before nephrotoxic drugs | **Creatinine 35–70 µmol/L**; above about 77–80 suspicious; **above 90 clearly abnormal**. Urea 2–4.5 mmol/L | A "normal" non-pregnant creatinine may mean renal impairment in pregnancy → pre-eclampsia with severe features, sepsis, dehydration. Hospital labs |
+| **LFTs** | Vomiting after 16 weeks, jaundice, itching, pre-eclampsia | **ALP up 2–4× (placental), albumin low (28–37 g/L)** are normal. **ALT/AST above about 35 IU/L are abnormal** | Raised transaminases → HELLP, AFLP, cholestasis (with bile acids), viral hepatitis. Hospital labs |
+| **Fibrinogen, PT/APTT** | PPH, abruption, IUFD, HELLP | **Fibrinogen 4–6 g/L**; PT/APTT normal or slightly short | **Fibrinogen below 2 g/L in PPH = severe coagulopathy** → blood products early. Regional/national referral only; use the bedside clotting test elsewhere |
+| **ABG** | Breathlessness, asthma, sepsis, DKA | **pH about 7.42–7.44, PaCO₂ about 4.0 kPa (30 mmHg), HCO₃⁻ 18–22 mmol/L** | PaCO₂ of 5.3 kPa or more = respiratory fatigue → HDU/ICU. Mainly national referral/ICU |
+| **TFTs** | Hyperemesis, goitre, palpitations, known thyroid disease | TSH lower in 1st trimester (about 0.1–2.5 mU/L); **free** T4 normal (total T4 up with TBG) | Low TSH with high hCG in hyperemesis is usually **transient gestational thyrotoxicosis**: do not start antithyroid drugs without a senior. Regional/national referral |
+| **75 g OGTT** | 24–28 weeks if risk factors | Fasting below 5.1 mmol/L normal; GDM if fasting 5.1 or more, 1 h 10.0 or more, or 2 h 8.5 or more | Insulin resistance of late pregnancy unmasks GDM. Regional/national referral |
+| **D-dimer, ESR, CRP** | Rarely useful | **All rise in normal pregnancy** | A positive D-dimer does not diagnose VTE: go straight to **compression Doppler ultrasound** (and CTPA/V/Q where available) if clinical suspicion |
+| **ECG / echocardiogram** | Palpitations, murmur with symptoms, breathlessness at rest | ECG may show **left axis deviation, T inversion in III, ectopics** normally | Echo for any diastolic murmur (mitral stenosis) or suspected peripartum cardiomyopathy. Echo at regional/national referral (e.g. Uganda Heart Institute, Mulago) |
+
+### Step 5: Putting it together
+
+**Model one-line summary (physiology vs pathology):**
+
+> "Mrs N., 27-year-old G2P1 at **32 weeks**, with **2 weeks of gradual breathlessness on exertion**. No orthopnoea, chest pain or cough. Pulse 92, BP 112/70, **RR 16**, **SpO₂ 98%**, soft ejection systolic murmur only, chest clear, ankle oedema only, Hb 11.4 g/dL. **Impression: physiological breathlessness of pregnancy**; no evidence of cardiac or respiratory disease."
+
+**Problem list** (for the same patient): 1) breathlessness, likely physiological; 2) ankle oedema with normal BP and urine; 3) routine ANC due (IPTp, Hb recheck). **Working diagnosis:** normal singleton pregnancy at 32 weeks with physiological symptoms. **Plan:** reassure, safety-net (come back at once with breathlessness at rest, chest pain, swelling of the face or one leg, or headache).
+
+**Worked example 1: reading an ABG in a pregnant woman**
+
+| | Patient X (well, 30 weeks) | Patient Y (asthma attack, 30 weeks) |
+|---|---|---|
+| pH | 7.44 | 7.38 |
+| PaCO₂ | 4.0 kPa (30 mmHg) | **5.4 kPa (41 mmHg)** |
+| HCO₃⁻ | 20 mmol/L | 22 mmol/L |
+| Interpretation | **Normal compensated respiratory alkalosis of pregnancy** | PaCO₂ looks "normal" for a non-pregnant adult but is **high for pregnancy**: she is **tiring**. Escalate to HDU/ICU and call the anaesthetist |
+
+**Worked example 2: "normal" results that are abnormal in pregnancy**
+
+A 34-week woman with BP 150/96 mmHg has: **creatinine 92 µmol/L**, **ALT 68 IU/L**, **ALP 310 IU/L**, **platelets 96 × 10⁹/L**, Hb 13.4 g/dL, albumin 29 g/L.
+
+- Creatinine 92 is within many non-pregnant ranges but **clearly abnormal in pregnancy** (normal 35–70) → renal involvement.
+- ALT 68 is **abnormal** (transaminases do not rise in normal pregnancy).
+- ALP 310 is **expected** (placental ALP rises 2–4×): do not chase it.
+- Platelets 96 are **below 100** → not gestational thrombocytopenia in this context.
+- Hb 13.4 at 34 weeks is **high for gestation** → poor plasma expansion (haemoconcentration).
+- Albumin 29 g/L is within the normal pregnancy range.
+- **Conclusion:** pre-eclampsia with severe features (renal, hepatic and haematological involvement), possible evolving HELLP → admit, MgSO₄, control BP, plan delivery (see the pre-eclampsia topic).
+
+> [!PEARL]
+> When you present any pregnant woman's results, say the pregnancy-normal range out loud: "Her creatinine is 92, which is **high for pregnancy** where we expect 35 to 70." It shows the consultant you know the physiology and stops the team being falsely reassured.
+
 ## Differential diagnosis
 
 ### Amenorrhoea in a woman of reproductive age
@@ -228,16 +355,7 @@ Wrong dates, **twins**, **molar pregnancy**, **polyhydramnios**, **fibroids**, *
 
 ## Investigations
 
-| Test | What you are looking for | Why |
-|---|---|---|
-| **Urine hCG** (rapid strip; detects about 20–25 IU/L) | Positive from about the day of the missed period (about 14 days after conception) | Cheap, fast, and available at every level of care |
-| **Serum quantitative β-hCG** | Positive 8–11 days after conception; **doubles about every 48 hours** (rises at least about 63% in 48 hours) in early viable pregnancy; peaks at 8–10 weeks | Pregnancy of unknown location, ectopic, molar pregnancy, follow-up after miscarriage or GTD |
-| **Transvaginal ultrasound (TVS)** | Gestational sac about 4.5–5 weeks; yolk sac about 5.5 weeks; **fetal pole with cardiac activity about 6 weeks**; CRL (the most accurate dating, ±5–7 days at 7–14 weeks) | Location (intrauterine vs ectopic), viability, number, dating |
-| **Transabdominal ultrasound** | Sac visible about 1 week later than TVS | Available in most Ugandan HC IV/hospitals |
-| **Doppler fetal heart** | Heard from about **10–12 weeks** | Positive sign |
-| **Pinard stethoscope** | Fetal heart from about **20 weeks** (18–24) | Positive sign; standard tool in Ugandan labour wards |
-| **FBC, urea and creatinine, LFTs** (interpreting in pregnancy) | Use pregnancy ranges: Hb 11 or more; WCC up to about 15; creatinine about 35–70 µmol/L; ALP up 2–4 times; albumin lower | Avoid over- or under-diagnosing disease |
-| **ABG** (if unwell) | pH about 7.44, PaCO₂ about 4 kPa, HCO₃⁻ about 18–22 | A "normal" non-pregnant PaCO₂ in a pregnant woman may mean respiratory fatigue |
+All the tests (urine and serum hCG, TVS and transabdominal ultrasound, Doppler and Pinard, FBC, renal and liver tests, clotting, ABG, TFTs and OGTT), with their **normal pregnancy ranges** and what an abnormal result changes, are in **Clinical workup, Steps 3 and 4** above. The two rules to carry away: **urine hCG first** in any woman of reproductive age, and **interpret every result against pregnancy-specific ranges**.
 
 ## Management
 
@@ -349,3 +467,59 @@ Roughly **half again**: **plasma volume** (40–50%), **cardiac output** (30–5
 **Fetal heart detection "10–20" rule:** Doppler at about **10** weeks, Pinard at about **20** weeks.
 
 **Fundal height "12–16–20–36":** symphysis at 12 weeks, halfway at 16, umbilicus at 20 (to 22), xiphisternum at 36.
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Urine hCG positive | About the day of the missed period (strip detects about 20–25 IU/L) |
+| Serum β-hCG | Detectable 8–11 days after conception; rises **63% or more in 48 h** in a viable IUP; peaks **8–10 weeks** |
+| Discriminatory zone (TVS) | hCG about **1,500–3,500 IU/L** |
+| TVS milestones | Sac **4.5–5 weeks**; yolk sac **5.5 weeks**; cardiac activity **6 weeks** |
+| Fetal heart | Doppler **10–12 weeks**; Pinard about **20 weeks** |
+| Quickening | **18–20 weeks** (primigravida); **16–18 weeks** (multigravida) |
+| Fundal landmarks | 12 weeks symphysis; 16 halfway; **20–22 umbilicus**; **36 xiphisternum** |
+| Naegele's rule | LNMP + 7 days − 3 months + 1 year (+ 280 days) |
+| Re-date by scan if LNMP differs by | More than **5–7 days** (1st trimester) or **10–14 days** (2nd trimester) |
+| Plasma volume / red cell mass | Up **40–50%** / up **20–30%** |
+| Cardiac output | Up **30–50%**; up to **60–80%** in labour and just after delivery |
+| Heart rate | Up **10–20 bpm**; above 100 at rest is abnormal |
+| Hb (anaemia cut-off) | Below **11 g/dL** |
+| WCC | Up to about **15 × 10⁹/L**; up to about 25 in labour |
+| Fibrinogen | **4–6 g/L**; below 2 g/L in PPH = severe coagulopathy |
+| GFR | Up about **50%**; creatinine **35–70 µmol/L** |
+| ABG | pH about **7.44**, PaCO₂ about **4.0 kPa (30 mmHg)**, HCO₃⁻ **18–22 mmol/L** |
+| FRC / O₂ consumption | Down about **20%** / up about **20%** |
+| Uterine blood flow at term | About **500–750 mL/min** |
+| Weight gain (normal BMI) | **11–16 kg** |
+| Aortocaval compression | From about **20 weeks**: tilt **15–30° left** |
+| Perimortem CS | Deliver within **4–5 minutes** of arrest if no ROSC (uterus at or above umbilicus) |
+
+### Classic exam traps
+
+- **"Hb 10.5 g/dL at 28 weeks is just dilution, so no treatment."** → Physiological haemodilution is real, but in Uganda (WHO) **below 11 g/dL is anaemia** and is treated and investigated.
+- **"PaCO₂ 5.3 kPa is normal."** → Normal for a non-pregnant adult, but **high for pregnancy** (normal about 4 kPa): in an asthmatic it signals **respiratory fatigue**.
+- **"Creatinine 90 µmol/L is normal."** → In pregnancy creatinine should be **35–70**; 90 is **clearly abnormal** (think pre-eclampsia, sepsis, dehydration).
+- **"Raised ALP means liver disease."** → ALP rises **2–4×** from the placenta. It is **ALT/AST** that should never rise.
+- **"Breathlessness in pregnancy is physiological."** → Only with a **normal RR, SpO₂ and examination**. A raised RR or low SpO₂ is pathology (PE, pneumonia, pulmonary oedema, mitral stenosis).
+- **"Positive D-dimer, so she has a PE."** → D-dimer rises in normal pregnancy. Use **compression Doppler / imaging**.
+- **"Glycosuria means diabetes."** → The renal threshold falls in pregnancy; diagnose GDM only by **blood glucose (OGTT)**.
+- **"BP is normal, so she is not bleeding much."** → Pregnant women keep their BP until about 30% blood loss: **tachycardia and a rising shock index come first**.
+
+### Questions seniors ask
+
+**Name the positive signs of pregnancy.** Fetal heart heard, fetal parts or movements felt by the examiner, and the fetus seen on ultrasound. Everything else (including hCG) is presumptive or probable.
+
+**The hCG is 2,800 IU/L and the TVS shows an empty uterus. What do you think?** hCG is above the discriminatory zone, so an intrauterine sac should usually be visible: **ectopic pregnancy** (or a complete miscarriage) until proven otherwise. Check for an adnexal mass and free fluid; if she is stable, repeat hCG in 48 hours with a senior plan; if unstable, theatre.
+
+**Why does a pregnant woman desaturate so quickly?** FRC falls about 20% and O₂ consumption rises about 20%, so her oxygen reserve is small and used up fast: pre-oxygenate and protect the airway early.
+
+**Which murmur in pregnancy worries you?** Any **diastolic** murmur, a murmur of grade 3 or more, or any murmur with symptoms. In Uganda think **rheumatic mitral stenosis**: get an echo.
+
+**When does a woman with heart disease decompensate, and why?** At **28–32 weeks** (cardiac output near peak), **in labour**, and **immediately after delivery** (autotransfusion of about 500 mL from the contracting uterus).
+
+**Why must she lie tilted to the left?** From about 20 weeks the supine uterus compresses the IVC and aorta, cutting venous return and cardiac output by up to 25–30%: supine hypotension and fetal distress.
+
+**Why are pregnant women prone to VTE, and when is the risk highest?** Virchow's triad: stasis (venous compression, progesterone), hypercoagulability (fibrinogen, VII, VIII, X up; protein S down) and vessel injury at delivery. Risk is about 5-fold, **highest postpartum**, especially after CS.

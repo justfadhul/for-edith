@@ -10,6 +10,10 @@ highYield:
   - "Breech: offer ECV from 36 weeks (nulliparous) or 37 weeks (multiparous). Assisted breech means hands off until the umbilicus, then Lovset for the arms and Mauriceau–Smellie–Veit or Burns–Marshall for the head."
   - "Cord prolapse: do not handle the cord, keep the presenting part up (manually, knee–chest, or bladder filled with 500–750 mL saline), give terbutaline 0.25 mg SC and do a category 1 CS."
   - "Shoulder dystocia (HELPERR): call for help, McRoberts plus suprapubic pressure first, then internal manoeuvres or delivery of the posterior arm. Never use fundal pressure."
+  - "Mulago standards for every obstructed labour: IV fluids, IV antibiotics, vital-sign monitoring, catheter, group and cross-match, and delivery within 2 hours of diagnosis."
+  - "Always pair the vaginal station with the fifths palpable: 3/5 or more palpable in the second stage means not engaged, whatever the VE says."
+  - "Adequate contractions are 3 or more in 10 minutes lasting over 40 seconds; weak contractions with no signs of obstruction suggest inefficient uterine action, not obstruction."
+  - "On VE the posterior fontanelle is a triangle with 3 sutures (occiput) and the anterior fontanelle a diamond with 4 sutures; an easily felt anterior fontanelle means a deflexed head."
 ---
 
 ## In a nutshell
@@ -191,6 +195,155 @@ Anything that lets the baby move freely, or stops the head settling into the pel
    - pulling on a breech
    - calling a face a breech
 
+## Clinical workup
+
+This is the order in which you actually work up a woman in prolonged or possibly obstructed labour, from the moment she comes through the labour-ward door (often a referral from an HC III after a long labour at home). The aim is to answer four questions quickly: **Is she (or is she about to be) ruptured or septic? Is this obstruction or just slow labour? What is presenting, and in which position? Is the baby alive?**
+
+### Step 0: First 5 minutes
+
+1. **Look at her from the door.** Exhausted, restless, dehydrated, bearing down with no progress, or ominously quiet after hours of pain? Is there blood or meconium on the pad?
+2. **ABC and vital signs**: pulse, BP, respiratory rate, temperature, SpO₂ if available. Work out the **shock index** (HR ÷ SBP). **≥0.9 is abnormal**; **≥1.4 needs urgent resuscitation and blood**. A pulse over 100–110 with fever means sepsis or dehydration until proven otherwise; tachycardia with hypotension after a long labour means **rupture or haemorrhage** until proven otherwise.
+3. **Quick abdominal look and feel**: a **Bandl's ring**, a tender lower segment, fetal parts just under the skin, or contractions that have suddenly stopped. Any of these: **call the senior and theatre now**.
+4. **Listen to the fetal heart** (Pinard or Doppler) for a full minute after a contraction. Absent or <110 / >160 bpm changes the urgency and the plan.
+5. **Call for help** early: the senior midwife, the doctor on call, the anaesthetist and theatre. **Stop any oxytocin** running (and ask about herbal "medicine to push").
+6. **Start at once, in parallel** (the Mulago standards):
+   - left lateral position; oxygen if distressed or shocked
+   - **two large-bore cannulae (16–18 G)**, and take blood for **Hb, group and cross-match (at least 2 units)**, U&E and blood culture if febrile
+   - **Ringer's lactate or 0.9% saline 1 L fast**, then titrate (**at least 1.5 L** before and during surgery)
+   - **Foley catheter 14–16 F**: note the **colour and volume** of the urine
+   - **first dose of IV antibiotics** (per the drug table)
+7. **At an HC III**: do all of the above, write a referral note with the partograph or LCG, and **refer immediately with a midwife escort**. Do not wait for a "trial" of anything.
+
+> [!REDFLAG]
+> The clock starts at diagnosis: the Mulago standard is **delivery within 2 hours**. Everything in Steps 1–4 is done **while** the team prepares theatre, not before.
+
+### Step 1: Focused history
+
+Take it while the cannula goes in. Each item has a reason.
+
+| Ask | Why it changes the plan |
+|---|---|
+| **Age, parity, height** | Adolescent or primigravida under ~150 cm: contracted pelvis likely. **Multipara**: obstruction means **malpresentation or a big baby** (she has proven her pelvis), and she is at higher rupture risk. |
+| **Time labour started; time membranes ruptured; colour of liquor** | Hours of bladder compression predict **fistula**; ROM >18 hours plus fever means chorioamnionitis; meconium is a fetal warning. |
+| **Where she laboured; who examined her; any injections or herbs** | Herbal oxytocics or unsupervised oxytocin plus obstruction is the classic Ugandan route to **rupture**. |
+| **Pushing for how long?** | A long second stage with no delivery points to obstruction, DTA or a persistent OP. |
+| **Sudden severe pain, then contractions stopped; feeling faint** | **Uterine rupture** until proven otherwise. |
+| **Fetal movements** | Absent movements suggest IUFD, which changes the mode of delivery (CS vs destructive delivery). |
+| **Passing urine? Blood in it?** | **Haematuria** = bladder compression (fistula warning) or rupture involving the bladder; anuria = dehydration or AKI. |
+| **Previous CS or uterine surgery** | A scarred uterus plus obstruction: **highest rupture risk**, go to theatre. |
+| **Previous births: biggest baby, prolonged labours, instrumental births, stillbirths** | Predicts CPD; the biggest previous baby "tests" the pelvis. |
+| **ANC card: scan (lie, placenta), Hb, HIV, syphilis, blood group** | Praevia (no VE until excluded), anaemia (tolerates bleeding poorly), PMTCT plan, anti-D. |
+| **Fever, rigors, foul liquor** | Sepsis: broaden antibiotics, prepare for a sick baby. |
+
+### Step 2: Focused examination
+
+**General**: level of consciousness, **pallor**, **dehydration** (dry tongue, sunken eyes), **ketotic breath**, temperature, pulse, BP, RR, and oedema (pre-eclampsia coexists).
+
+**Abdomen** (between contractions):
+
+| Look / feel for | Document as |
+|---|---|
+| **Lie and presentation** | Longitudinal cephalic / breech; transverse or oblique lie (head in a flank, empty pelvis) |
+| **Fifths of the head palpable** above the brim (Crichton method) | e.g. "3/5 palpable". **3/5 or more in the second stage = not engaged**, even if the vaginal station seems low |
+| **Bandl's ring** | Level relative to the umbilicus (e.g. "2 fingerbreadths below the umbilicus"); a rising ring is imminent rupture |
+| **Lower segment** | Tender? Stretched? |
+| **Bladder** | Distended suprapubic swelling, often pushed up above the symphysis |
+| **Contractions** (hand on the fundus for 10 min) | Number in 10 min and duration: **≥3 in 10 min lasting >40 s = adequate**; tonic uterus that never relaxes = danger |
+| **Fetal heart** | Rate after a contraction; absent, <110 or >160 bpm |
+| **Signs of rupture** | Fetal parts under the skin, uterus felt as a separate mass, peritonism, absent FHR, shock |
+
+**Vulva and vagina** (only after placenta praevia is excluded by the ANC scan or history; wash hands, sterile gloves, one examiner):
+
+| Feel for | Obstruction pattern |
+|---|---|
+| Vulva, vagina | **Oedematous vulva**; **hot, dry vagina**; foul liquor or meconium |
+| Cervix | Dilatation; **oedematous anterior lip, loosely applied** to the head |
+| Caput | Grade 0 to 3+ (size of the scalp swelling) |
+| **Moulding** | 0 separated, 1+ touching, 2+ overlapping but reducible, **3+ overlapping and not reducible** |
+| **Station** | cm above or below the spines, always **paired with the fifths palpable** |
+| **Position** (sutures, fontanelles, denominator) | See the table below |
+| Cord or limb | Prolapsed cord, prolapsed arm (**never pull**) |
+| Pelvis (clinical pelvimetry) | Sacral promontory reachable, prominent ischial spines, subpubic arch narrower than 2 fingers, intertuberous diameter under 4 knuckles |
+
+**How to find the position on VE**
+
+| Landmark | What you feel | What it tells you |
+|---|---|---|
+| **Sagittal suture** | The long suture between the parietal bones | Its direction: transverse = OT; oblique = OA/OP; AP = direct OA/OP |
+| **Posterior fontanelle (lambda)** | Small **triangle**, **3 sutures** (Y shape) | Marks the **occiput** (the denominator). Felt anteriorly = OA |
+| **Anterior fontanelle (bregma)** | Large **diamond**, **4 sutures** | Easily felt = **deflexed head**; felt anteriorly = **OP**; felt centrally with orbital ridges = **brow** |
+| Face | Mouth with hard gums, nose, malar bones (a **triangle**) | Denominator **mentum**: MA vs MP |
+| Breech | Anus and ischial tuberosities in a **straight line**, sacrum, meconium on the glove | Denominator **sacrum**; feet felt = footling |
+| Shoulder | Ribs, scapula, axilla (its closed apex points to the side of the fetal head), a hand | Denominator **acromion**; transverse lie |
+
+### Step 3: Bedside tests
+
+| Test | What you want | Why |
+|---|---|---|
+| **Urine via the catheter**: volume and colour | Volume drained, **blood-staining**, then hourly output (target **≥30 mL/h**) | Haematuria = fistula warning; oliguria = dehydration, sepsis or haemorrhage |
+| **Urine dipstick** | **Ketones**, blood, protein | Ketosis confirms dehydration/starvation; proteinuria + high BP = pre-eclampsia |
+| **HemoCue / Hb** | Baseline Hb | Anaemic women tolerate rupture and PPH poorly; request more blood |
+| **Random blood sugar** | Hypoglycaemia after a long starvation labour | Treat before theatre |
+| **Bedside clotting test** | Clot in a plain glass tube by 7 minutes | No clot = coagulopathy (rupture, abruption, sepsis): escalate, fresh blood/FFP |
+| **HIV and syphilis RDT** (if not known) | Status | PMTCT for the baby; universal precautions |
+| **Fetal heart** by Doppler/Pinard (CTG rarely available) | Rate, decelerations | Fetal distress raises urgency; absent FHR changes the delivery route |
+| **Partograph / LCG** | Alert or action line crossed; 3+ moulding and descent plotted | Documents the diagnosis; send it with the referral |
+| **Point-of-care ultrasound** (if at hand, **never delaying theatre**) | Lie, presentation, FHR, placenta, free fluid | Confirms IUFD, malpresentation, praevia, rupture |
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **FBC / Hb** | Every woman, with the cannula | Low Hb; high WBC (with fever = infection; labour alone can raise WBC) | Cross-match more units; supports sepsis treatment. Available at HC IV and above |
+| **Group and cross-match (≥2 units)** | Every woman | Blood group; Rh status | Blood ready for CS/rupture/PPH; anti-D if Rh-negative with an Rh-positive baby. Blood banks at HC IV are unreliable; regional and national referral hospitals usually have blood |
+| **U&E, creatinine** | Long labour, oliguria, sepsis, rupture | High urea/creatinine (AKI), low K⁺ or Na⁺ | Fluid plan; **gentamicin dose adjustment or avoidance**. Mostly regional/national referral only |
+| **Blood culture** | Temperature ≥38 °C or rigors | Organism and sensitivity | Tailor antibiotics after delivery. National/regional referral; often unavailable |
+| **High vaginal swab / placental swab** | Foul liquor, chorioamnionitis | Organism | Guides antibiotics for mother and baby (limited availability) |
+| **Ultrasound** (formal) | Doubt about lie, presentation, fetal life or placenta, when it will not delay delivery | Malpresentation, IUFD, praevia, free fluid, fetus outside the uterus | Confirms rupture or IUFD; excludes praevia before VE. Available at most HC IVs and hospitals |
+| **Coagulation (PT/APTT, fibrinogen, platelets)** | Rupture, abruption, sepsis, a failed bedside clotting test | Prolonged times, platelets <100, fibrinogen <2 g/L | Blood products; senior anaesthetist. Regional/national referral only |
+| **Serum lactate / blood gas** | Septic shock | Lactate raised | Severity marker; rarely available outside national referral ICUs |
+
+### Step 5: Putting it together
+
+**Model one-line summary**: "A 19-year-old primigravida at term, referred after 30 hours of labour, **exhausted, febrile and tachycardic**, with the head **3/5 palpable**, a **Bandl's ring**, **moulding 3+**, an oedematous cervix at 8 cm in ROT, fetal tachycardia and **blood-stained urine**: obstructed labour with impending rupture, chorioamnionitis and fetal distress."
+
+**Problem list**:
+1. Obstructed labour (cause: CPD with a deflexed ROT head)
+2. Impending uterine rupture (Bandl's ring, tender lower segment)
+3. Chorioamnionitis / sepsis
+4. Dehydration and ketosis
+5. Fetal distress (live fetus)
+6. High fistula risk (haematuria)
+
+**Working diagnosis and plan**: obstructed labour in a live fetus → **resuscitate, catheterise, antibiotics, cross-match, emergency CS within 2 hours**, catheter for 14 days.
+
+#### Worked example 1: confirming obstruction and naming the position
+
+A 22-year-old P0+0 at term, 10 hours in the active phase, pushing for 2 hours.
+
+- **Abdomen**: cephalic, **3/5 palpable**, strong contractions **4 in 10 min lasting 50 s**, bladder palpable above the symphysis, no Bandl's ring. FHR 150.
+- **VE**: fully dilated, **station +1**, **caput 2+**, **moulding 3+** (the parietal bones overlap and cannot be reduced), **sagittal suture transverse**, a **diamond with 4 sutures on the mother's right**, the triangle on her left.
+
+**Interpretation**:
+- The posterior fontanelle (occiput) is on her left and the sagittal suture is transverse: **LOT**.
+- The anterior fontanelle is easily felt: the head is **deflexed**.
+- "Station +1" but **3/5 palpable** means the head is **not engaged**; the low station is **caput and moulding** lying to you.
+- Strong contractions + no descent + moulding 3+ = **obstruction, not DTA**. DTA requires the head **at or below the spines with no obstruction** (≤1/5 palpable).
+- **Plan**: no oxytocin, no ventouse; resuscitate, catheterise and do a **CS**. Warn the surgeon about an **impacted head** (a push-from-below assistant ready).
+
+#### Worked example 2: the multipara with an arm in the vagina
+
+A 34-year-old P6 arrives from home with an arm hanging from the vulva, labour for 18 hours. Pulse 124, BP 96/60 (shock index 1.3), temperature 38.4 °C.
+
+- **Abdomen**: uterus **wider than long**, head in the left flank, no presenting part in the pelvis, **Bandl's ring** halfway to the umbilicus, **no fetal heart**.
+- **VE**: cervix 9 cm, ribs and a **closing axilla** pointing to her left, the arm prolapsed, oedematous vulva.
+
+**Interpretation**: **neglected shoulder presentation (transverse lie), IUFD, impending (or actual) rupture and sepsis** in a grand multipara. Shock index >0.9 = significant compromise: look hard for rupture (tender uterus, free fluid on POCUS). **Do not pull the arm.**
+**Plan**: two cannulae, fluids, cross-match, catheter, **IV ampicillin + gentamicin + metronidazole** (or ceftriaxone + metronidazole per protocol), senior obstetrician. **CS (or laparotomy if ruptured)** is usually safest; decapitation only in expert hands with no rupture. Catheter 14 days; watch for PPH.
+
+> [!EXAM]
+> The examiner will ask you to "present the VE". Always give all seven: **dilatation, cervical state (oedema, application), station, position, caput, moulding, liquor**, and then the **fifths palpable**. A student who says "8 cm" and stops has missed the diagnosis.
+
 ## Differential diagnosis
 
 | Condition | Distinguishing features | Key investigation or clue |
@@ -205,19 +358,12 @@ Anything that lets the baby move freely, or stops the head settling into the pel
 
 ## Investigations
 
-Do not delay delivery waiting for investigations in obstructed labour. Send them as you prepare for theatre.
+Do not delay delivery waiting for investigations in obstructed labour. Send them as you prepare for theatre. The full test-by-test table (FBC, cross-match, U&E, cultures, ultrasound, coagulation, with Ugandan availability) is in **Step 4 of the Clinical workup** above. Two points that the table does not cover:
 
 | Test | What you are looking for | Why |
 |---|---|---|
-| **Hb / FBC** | Anaemia; raised WBC | Tolerance of blood loss; sepsis |
-| **Blood group and cross-match (at least 2 units)** | | Risk of PPH and rupture |
-| **Urinalysis or dipstick** | Ketones, **blood**, protein | Dehydration, bladder injury, pre-eclampsia |
-| **Urea, creatinine, electrolytes** | AKI, hypokalaemia, hyponatraemia | Electrolyte derangements are common in obstructed labour in Uganda |
-| **Random blood sugar** | Hypoglycaemia (starvation), or diabetes if the baby is macrosomic | |
-| **Blood culture** (if febrile) and a **high vaginal swab** | Organisms | Guide antibiotics for sepsis |
-| **HIV test** (if unknown), syphilis | | PMTCT for the baby |
-| **Ultrasound** (if available and it will not delay care) | Presentation, fetal heart, placenta site, fetal anomaly, free fluid | Confirms malpresentation, fetal death, praevia |
-| **Pelvimetry (clinical)** | Sacral promontory reached, prominent spines, narrow subpubic arch (fewer than 2 fingers), intertuberous diameter (fewer than 4 knuckles) | Contracted pelvis |
+| **Clinical pelvimetry** (antenatally, or at the first VE) | Sacral promontory reached, prominent spines, narrow subpubic arch (fewer than 2 fingers), intertuberous diameter (fewer than 4 knuckles) | Suggests a contracted pelvis; it predicts but does not prove CPD, so labour progress is still the real test |
+| **Serial partograph / LCG review** | Crossing the alert or action line; rising moulding and caput with no descent | The partograph is the diagnostic "investigation" for prolonged and obstructed labour |
 
 ## Management
 
@@ -451,3 +597,47 @@ Suspect it when the head delivers and then **retracts against the perineum ("tur
 - **Breech: "Hands off, back up, arms by Lovset, head by MSV."**
 - **Face vs breech on VE:** the face makes a **triangle** (mouth and malar bones) and the breech makes a **line** (anus and ischial tuberosities).
 - **"Chin to the back = CS."** A mentoposterior face will not deliver.
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Delivery after diagnosis of obstructed labour (Mulago standard) | **Within 2 hours** |
+| Resuscitation fluid | **Ringer's lactate or 0.9% saline 1 L fast**, then **at least 1.5 L** peri-operatively; urine **≥30 mL/h** |
+| Catheter after prolonged/obstructed labour or haematuria | **7–14 days** (many fistula units: 14 days); oral fluids 3–4 L/day |
+| Adequate contractions | **≥3 in 10 min**, each **>40 s** |
+| Not engaged | **≥3/5 palpable** abdominally |
+| Moulding 3+ | Bones **overlap and cannot be reduced** |
+| Presenting diameters | Well-flexed vertex **9.5 cm**; OP (occipitofrontal) **11.5 cm**; brow (mentovertical) **13.5 cm**; face (submentobregmatic) **9.5 cm** |
+| Fontanelles | Anterior = **diamond, 4 sutures**; posterior = **triangle, 3 sutures** |
+| Antibiotics (infected / prolonged ROM) | **Ampicillin 2 g IV 6-hourly + gentamicin 5 mg/kg IV daily + metronidazole 500 mg IV 8-hourly** (or ceftriaxone 1–2 g IV daily + metronidazole, per local protocol) |
+| Oxytocin in the third stage | **10 IU IM/slow IV**; oxytocin **in labour is contraindicated** |
+| ECV | From **36 weeks (nullip) / 37 weeks (multip)**; ~**50%** success; terbutaline **0.25 mg SC** |
+| Cord prolapse bladder filling | **500–750 mL saline**; category 1 CS within **30 min** |
+| Favourable EFW for vaginal breech | About **2.0–3.8 kg** |
+| McRoberts alone resolves shoulder dystocia | Up to about **90%** |
+| Shock index | **≥0.9 abnormal; ≥1.4 urgent** |
+
+### Classic exam traps
+
+- **"Poor progress, so start oxytocin."** Wrong until you have excluded obstruction: check contractions, fifths palpable, moulding and caput. Oxytocin + obstruction = rupture.
+- **Trusting station alone.** A head at "0 station" with **3/5 palpable** is not engaged. Caput and moulding make it feel low.
+- **Contractions stopping = labour improving.** No: exhaustion (secondary inertia) or **rupture**.
+- **Dead baby = no emergency.** The mother can still rupture and become septic; she still needs resuscitation and delivery.
+- **Ventouse on a face** or instruments on a brow. Never; mentoposterior face and persistent brow at term = **CS**.
+- **Pulling a prolapsed arm** or pulling on a breech before the umbilicus. Never.
+- **Calling it deep transverse arrest** when the head is 3/5 palpable. DTA is at or below the spines **without** obstruction; high OT with moulding 3+ is obstruction.
+- **Fundal pressure in shoulder dystocia.** Never; McRoberts plus suprapubic pressure first.
+
+### Questions seniors ask
+
+- **How do you tell obstruction from inefficient uterine action?** Obstruction: **strong** contractions, no descent, moulding 3+, caput, oedematous cervix, Bandl's ring, haematuria. Inefficient action: **weak** contractions (fewer than 3 in 10 min, <40 s) without those signs.
+- **What are the six Mulago standards?** IV fluids, IV antibiotics, maternal vital-sign monitoring, bladder catheterisation, group and cross-match, delivery within 2 hours.
+- **How do you know the head is deflexed?** The **anterior fontanelle** (diamond, 4 sutures) is easily felt; in a well-flexed head you feel only the posterior fontanelle.
+- **Why catheterise before theatre and for 14 days after?** To empty the bladder (safer CS, less bladder injury), measure output and haematuria, and rest the ischaemic bladder base so a fistula may be prevented or heal.
+- **When would you consider craniotomy instead of CS?** Dead fetus, cephalic, cervix fully dilated, head **3/5 or less** above the brim, no rupture, skilled operator.
+- **What does a Bandl's ring mean?** The pathological retraction ring between the thick upper and the thinned lower segment: **imminent rupture**, go to theatre now.
+- **A multipara is obstructed. What is the likely cause?** A malpresentation (shoulder, brow, face) or a big baby; she has proven her pelvis.
+- **What are the first two manoeuvres in shoulder dystocia?** McRoberts and suprapubic pressure, after calling for help.

@@ -3,12 +3,15 @@ title: "Partograph & Labour Monitoring Tools"
 summary: The partograph (and its successor, the WHO Labour Care Guide) is a one-page graphic record of maternal condition, fetal condition and labour progress that turns observations into early warnings. Plot correctly, recognise alert/action lines or LCG alert thresholds early, and act (refer, augment or deliver) before labour becomes obstructed or the baby becomes hypoxic.
 highYield:
   - "Modified WHO partograph - starts in active phase at 4 cm; alert line = 1 cm/hour from 4 cm; action line is 4 hours to the right of the alert line."
+  - "The first active-phase VE is plotted ON the alert line at that dilatation (e.g. 6 cm), with the real clock time written below."
   - "Crossing the alert line at an HC III = refer; reaching the action line = full reassessment and a decision (augment, deliver, or CS)."
   - "Cervix plotted as X, descent (fifths palpable) as O; contractions shaded - dots under 20 s, diagonal lines 20-40 s, solid over 40 s."
   - "Liquor codes - I intact, C clear, M meconium, B blood-stained, A absent. Moulding - 0, +, ++, +++."
   - "Frequencies (modified partograph) - FHR, contractions and pulse every 30 min; BP every 4 h; temperature every 2 h; VE every 4 h; urine each void."
   - "WHO Labour Care Guide (2020) starts at 5 cm and uses alert thresholds - e.g. no progress at 5 cm for 6 h, 6 cm 5 h, 7 cm 3 h, 8 cm 2.5 h, 9 cm 2 h; second stage 3 h (nullipara) or 2 h (multipara)."
   - "Normal FHR baseline 110-160 bpm; listen for a full minute immediately after a contraction; late decelerations are an alert."
+  - "X rising but O not falling, with moulding +++ and a big caput = CPD/obstruction - act (CS) even before the action line."
+  - "Oxytocin augmentation - 2.5 IU in 500 mL at 10 drops/min, up by 10 drops/min every 30 min to 60; stop if >5 contractions in 10 min or fetal distress."
   - "Uganda's MoH adopted the LCG with the Essential Maternal and Newborn Clinical Care Guidelines 2022; many wards still use the modified WHO partograph - learn both."
 ---
 
@@ -291,6 +294,111 @@ WHO 2018 does **not recommend admission CTG or continuous CTG for low-risk women
 - Writing values but not writing an **assessment and plan** when an alert appears.
 - Filling the partograph after delivery.
 
+## Clinical workup
+
+For this skill topic, the "workup" is **how you review a labouring woman and turn what you find into a correct partograph/LCG entry and a decision**. Do it in the same order every time: *look at the woman, look at the chart, examine, plot, interpret, plan*.
+
+### Step 0: First 5 minutes
+
+Every review (and every handover) starts with a quick safety check **before** you touch the chart:
+
+1. **Is the mother well?** Colour, distress, bleeding, fits, urge to push. Pulse now (not the last recorded value).
+2. **Is the baby well?** Listen to the FHR for a full minute **straight after a contraction**, with a hand on the mother's radial pulse.
+3. **Is anything running?** Oxytocin drip (rate, concentration), MgSO₄, IV fluids. If there are **>5 contractions in 10 min** or FHR is abnormal, **stop the oxytocin now**.
+4. **Look at the chart**: when was the last VE, FHR, BP, temperature and urine? Is any value already beyond the **alert line**, the **action line**, or an **LCG alert threshold** without a written plan?
+5. **Call a senior at once** for: FHR <110 or >160 or late decelerations, cord prolapse, thick meconium, bleeding, BP ≥160/110 or fits, maternal pulse ≥120, crossing the **action line**, or signs of obstruction.
+
+> [!REDFLAG]
+> An empty partograph is itself a red flag. If the last FHR was recorded 2 hours ago, the baby has effectively not been monitored for 2 hours; listen now and document the time honestly.
+
+### Step 1: Focused history
+
+What the chart needs from the woman and the notes (each item changes how you plot or interpret):
+
+- [ ] **Time regular contractions started** → latent vs active labour; whether to start the partograph now.
+- [ ] **Time and colour of rupture of membranes** → write it at the top; >18 h = infection watch (temperature, antibiotics per protocol); meconium = closer FHR watch.
+- [ ] **Parity and previous labours** → a slow multipara is **obstruction until proved otherwise**.
+- [ ] **Previous caesarean** → any oxytocin needs senior approval; watch for scar pain, bleeding, maternal tachycardia and FHR loss.
+- [ ] **Drugs already given** (misoprostol for induction, oxytocin, pethidine, MgSO₄, antibiotics) and **when** → tachysystole risk; neonatal depression after recent pethidine.
+- [ ] **Urge to push, bleeding, headache, fever** since the last review → may bring the next VE forward.
+- [ ] **Referral partograph** from a lower facility → transfer the times and findings, do not start again "fresh".
+
+### Step 2: Focused examination
+
+Examine in the **order the chart is filled**, and always abdomen **before** VE:
+
+| Order | Examination | What to record | Key abnormal finding |
+|---|---|---|---|
+| 1 | Pulse, BP, temperature | Pulse every 30 min, BP 4-hourly, temperature 2-hourly (modified WHO partograph) | Pulse ≥120; BP ≥140/90; temperature ≥38°C (LCG alert ≥37.5°C) |
+| 2 | **Descent in fifths** (abdominal) | O on the cervicograph | Head still 4/5–5/5 in active labour |
+| 3 | **Contractions** by palpation for **10 full minutes** | Number of boxes shaded; dots <20 s, diagonal 20–40 s, solid >40 s | ≤2 in 10 min (inadequate) or >5 (tachysystole) |
+| 4 | **FHR** for 60 s after a contraction | Dot on the FHR graph | <110, >160, late decelerations |
+| 5 | **VE** (every 4 h, or sooner if indicated) | X for dilatation; liquor (I, C, M, B, A); moulding (0 to +++); position; station; caput | Cervix not advancing; moulding +++; thick meconium; cord felt; oedematous cervix |
+| 6 | Bladder and urine | Volume, protein, acetone | Full bladder; ketones; protein; haematuria (obstruction) |
+
+> [!PEARL]
+> The descent O and the dilatation X tell different stories. **X rising but O not falling** (e.g. 8 cm but head still 3/5) means the cervix is opening around a head that is not coming down: think CPD or malposition, not "good progress".
+
+### Step 3: Bedside tests
+
+| Tool | How | What it adds |
+|---|---|---|
+| **Pinard / hand-held Doppler** | 60 s after a contraction, maternal pulse palpated at the same time | Baseline FHR and decelerations; avoids counting the maternal pulse |
+| **Watch with a second hand** | For contractions and the FHR | Accurate counts; never estimate |
+| **Urine dipstick** | Each void | Protein (pre-eclampsia), acetone (dehydration/ketosis), blood (obstruction) |
+| **Measuring jug / catheter** | Measure each void | Low output in dehydration, obstruction, or pre-eclampsia |
+| **HemoCue** | If pale, bleeding or known anaemia | Plan for blood before delivery |
+| **Bedside ultrasound** | Position uncertain, FHR not heard, suspected malpresentation | Confirms OP/OT, breech, twins or IUFD |
+| **CTG** (where available) | High-risk labour or abnormal intermittent auscultation | Continuous trace; not for routine low-risk women (WHO 2018) |
+
+### Step 4: Laboratory & imaging
+
+Most monitoring is at the bedside; the laboratory is used when the chart raises a question.
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Hb / FBC** | Admission if no recent Hb; bleeding; prolonged labour; fever | Hb ≥11 g/dL; raised WBC is normal in labour, so interpret with fever and clinical signs | Anaemia → crossmatch and deliver where blood is available. HemoCue at HC III/IV; FBC at hospitals |
+| **Group and crossmatch** | Crossed the action line, planned augmentation in a high-risk woman, CS likely | Blood ready | Needed before CS; HC III must refer (no blood) |
+| **Malaria RDT / smear** | Temperature ≥37.5°C (LCG alert) or ≥38°C | Positive | Treat malaria; still look for chorioamnionitis |
+| **Urinalysis / culture** | Protein ++ or fever | Proteinuria; infection | Pre-eclampsia workup or antibiotics. Culture only at regional/national referral |
+| **Platelets, LFTs, creatinine** | BP ≥140/90 with protein or symptoms | Low platelets, raised ALT/AST or creatinine | Severe pre-eclampsia/HELLP → MgSO₄, delivery plan. Regional/national referral |
+| **Ultrasound** | Slow progress with uncertain position, suspected malpresentation, FHR not found | OP/OT, brow, breech, IUFD | Explains slow progress; changes mode of delivery. Most HC IVs and hospitals, operator-dependent |
+| **CTG** | Abnormal IA, oxytocin augmentation, previous CS, meconium (where available) | Normal / suspicious / pathological | Expedite delivery if pathological. Mengo, Mulago/Kawempe, some regional hospitals only |
+| **Cord blood gas** | After delivery of a compromised baby (national referral only) | Acidosis | Documents intrapartum hypoxia; rarely available in Uganda |
+
+### Step 5: Putting it together
+
+**Model one-line summary from a chart**: "Mrs A., P0+0 at 40 weeks, admitted at 4 cm at 08:00; now at 12:00 she is 5 cm, head 4/5, moulding ++, contractions 3 in 10 lasting 30 s, FHR 140, liquor clear; she has **crossed the alert line** and is **one hour from the action line**, mother and fetus well."
+
+**Problem list**: (1) slow active phase (alert line crossed); (2) inadequate contractions; (3) moulding ++ (watch for CPD); (4) mother and fetus currently well.
+
+**Working diagnosis**: "Prolonged active phase in a primigravida, probably due to inadequate uterine activity, CPD not yet excluded."
+
+**How to read the lines (the geometry).** The alert line rises 1 cm per hour from the first active-phase plot, so the alert line reaches **dilatation *d* at (*d* − 4) hours after the start** (for a 4 cm start). The action line reaches the same dilatation **4 hours later**. So a woman who is at dilatation *d* at time *t*:
+
+- is **on or left of the alert line** if she reached *d* on time (normal);
+- is **between the lines** if she is up to 4 h behind;
+- is **at or beyond the action line** if she is 4 h or more behind.
+
+> [!EXAM]
+> **Worked example 1: crossing the lines.** Admitted at **08:00 at 4 cm** (X on the alert line at 08:00). The alert line reaches 5 cm at 09:00 and 10 cm at 14:00; the action line reaches 5 cm at 13:00 and 10 cm at 18:00.
+> - **12:00: VE 5 cm**, head 4/5, 3 contractions in 10 min each 30 s (diagonal shading), moulding +, liquor clear, FHR 136. She is **3 h right of the alert line**, **1 h before the action line**.
+> - **Interpretation**: slow progress with **inadequate contractions** (not 3–5 lasting >40 s), no marked moulding, fetus well.
+> - **Plan**: at an **HC III, refer now** (alert line crossed). At hospital: rehydrate, empty the bladder, mobilise, **ARM** if membranes intact (and no contraindication), senior review; if still inadequate at the action line and no CPD → **oxytocin augmentation**; reassess in 2–4 h.
+
+> [!EXAM]
+> **Worked example 2: obstruction before the action line.** A P4 is admitted at **10:00 at 6 cm** (X on the alert line at 6 cm). At **14:00**: cervix **7 cm**, head **3/5**, **moulding +++**, **caput ++**, 4 contractions in 10 min each 50 s (solid shading), urine has blood, FHR 164.
+> - **Plot**: the alert line reached 7 cm at 11:00, so she is 3 h behind (between the lines).
+> - **Interpretation**: adequate powers, a head that is **not descending**, **non-reducible moulding**, haematuria and fetal tachycardia in a **multipara** = **obstructed labour / CPD**. You do **not** wait for the action line.
+> - **Plan**: no oxytocin; catheterise, IV fluids, antibiotics, crossmatch, **emergency caesarean section** (or immediate referral with an escort from an HC III).
+
+> [!EXAM]
+> **Worked example 3: the FHR and the LCG.** On the LCG, a primigravida has been at **7 cm since 09:00**; it is now 12:00 (3 h at 7 cm = **LCG cervical alert**). The FHR baseline is 145, but after each contraction it falls to 105 and returns to baseline about 40 s after the contraction has ended.
+> - **Interpretation**: a **late deceleration** (circle "L": an LCG alert) plus a **progress alert**.
+> - **Plan**: intrauterine resuscitation (stop oxytocin, left lateral, IV fluids, VE to exclude cord prolapse and assess), listen over the next 3 contractions; persistent late decelerations with a cervix at 7 cm → **caesarean section**. Write the **assessment and plan** in the shared decision-making section.
+
+**Oxytocin arithmetic you must be able to do**: 2.5 IU in 500 mL = **5 mIU/mL**. With a **20-drop/mL** giving set, 10 drops/min = 0.5 mL/min = **2.5 mIU/min**. Record the IU/L and drops/min on the chart every 30 minutes.
+
 ## Management
 
 ### What to do when the partograph or LCG gives an alert
@@ -395,3 +503,46 @@ WHO 2018 does **not recommend admission CTG or continuous CTG for low-risk women
 - **Plotting symbols**: "**X marks the cervix, O is the head**" (O looks like the round head going down).
 - **Frequencies**: "**30-30-30, 2, 4, 4**": FHR, contractions and pulse every 30 min; temperature every 2 h; BP and VE every 4 h.
 - **Slow progress**: "**3 Ps + P**": Powers, Passenger, Passage, and Plot (check the plot is right).
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Start modified WHO partograph | Active phase, **cervix ≥4 cm**; first X **on the alert line** |
+| Start LCG | **5 cm** |
+| Alert line | **1 cm/h** from the first active-phase plot |
+| Action line | **4 h to the right** of the alert line |
+| FHR (first stage / second stage) | **Every 30 min** / **every 5 min** (after each contraction); normal **110–160 bpm** |
+| Contractions and maternal pulse | **Every 30 min** (contractions counted over 10 min) |
+| BP / temperature / VE | **4-hourly / 2-hourly / 4-hourly** (modified WHO partograph) |
+| Contraction shading | Dots **<20 s**, diagonal **20–40 s**, solid **>40 s** |
+| Adequate contractions | **3–5 in 10 min**, each >40 s |
+| LCG cervical alerts | 5 cm **≥6 h**, 6 cm **≥5 h**, 7 cm **≥3 h**, 8 cm **≥2.5 h**, 9 cm **≥2 h** |
+| LCG second-stage alert | **≥3 h** nullipara, **≥2 h** multipara |
+| LCG maternal alerts | Pulse **<60 or ≥120**; SBP **<80 or ≥140**; DBP **≥90**; temperature **<35.0 or ≥37.5°C** |
+| LCG contraction alerts | **≤2 or >5** per 10 min; duration **<20 or >60 s** |
+| Oxytocin augmentation start | **2.5 IU in 500 mL at 10 drops/min**, increase by 10 drops/min every **30 min**, max 60 drops/min |
+| Stop oxytocin if | **>5 contractions in 10 min**, contraction **>60 s**, or fetal distress |
+
+### Classic exam traps
+
+- **"Admitted at 6 cm: plot the X at 6 cm above the zero-hour mark."** → Wrong. The first active-phase X goes **on the alert line** at 6 cm; write the real clock time beneath.
+- **"Plot descent as station."** → Wrong. Descent is plotted as **fifths palpable abdominally** (O); station can be fooled by caput.
+- **"She hasn't reached the action line, so obstruction can wait."** → Wrong. Moulding +++, a high head and haematuria mean **act now**, wherever the X is.
+- **"Crossed the alert line at an HC III: wait for the action line."** → Wrong. At a facility without theatre, the alert line **is** the referral line.
+- **"Slow progress → oxytocin."** → Only after excluding obstruction and malpresentation, and only where CS is available; **multiparas and previous CS need senior review**.
+- **"Listen to the FHR between contractions."** → Wrong. Listen during the end of a contraction and **for 60 s after it**, or you will miss late decelerations.
+- **"Start the partograph at 2 cm to be safe."** → Wrong. Starting in the latent phase labels normal women as slow and drives unnecessary interventions.
+- **"A Doppler reading of 88 bpm is fetal bradycardia."** → Check the **maternal pulse** first; you may be counting the mother.
+
+### Questions seniors ask
+
+1. **"Where is she relative to the lines?"** State the time at which the alert line reached her current dilatation, and so how many hours she is behind (0 = on the alert line; ≥4 = at or beyond the action line).
+2. **"Why is she slow?"** Go through the 3 Ps plus the plot: contractions (count them), passenger (position, moulding, caput, descent), passage (pelvis), and whether the chart was started correctly.
+3. **"What does moulding +++ mean?"** Overlapping skull bones that cannot be reduced: CPD until proved otherwise.
+4. **"How did you record these contractions?"** Number of boxes = number in 10 min; shading by duration (dots <20 s, diagonal 20–40 s, solid >40 s).
+5. **"What is your oxytocin rate in mIU/min?"** 2.5 IU/500 mL = 5 mIU/mL; with 20 drops/mL, 10 drops/min ≈ 2.5 mIU/min.
+6. **"What would make you stop the oxytocin?"** More than 5 contractions in 10 min, a contraction lasting over 60 s, abnormal FHR, or signs of obstruction or rupture.
+7. **"What is the difference between the partograph and the LCG?"** The LCG starts at 5 cm, replaces the alert/action lines with time-at-each-centimetre alerts, adds supportive care, and requires a written assessment and plan for every alert.

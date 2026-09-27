@@ -3,11 +3,15 @@ title: Pre-eclampsia & Eclampsia
 summary: Pre-eclampsia is a placenta-driven, multisystem endothelial disease of pregnancy (hypertension ≥140/90 after 20 weeks plus proteinuria or organ/placental dysfunction). It kills through stroke, eclampsia, HELLP, pulmonary oedema and abruption; MgSO₄, prompt control of severe BP and timely delivery are what save lives.
 highYield:
   - Pre-eclampsia = new BP ≥140/90 after 20 weeks + proteinuria (PCR ≥30 mg/mmol or dipstick ≥2+) OR maternal organ dysfunction OR uteroplacental dysfunction (FGR).
-  - Severe hypertension (≥160/110) is an emergency - treat within 30–60 minutes (nifedipine IR 10 mg oral, hydralazine IV, or labetalol IV) to prevent stroke.
+  - Proteinuria is not required for the diagnosis, and the amount of proteinuria does not grade severity - platelets, liver, kidney, brain, lungs and BP do.
+  - Severe hypertension (≥160/110, confirmed within 15 min) is an emergency - treat within 30–60 minutes (nifedipine IR 10 mg oral, hydralazine 5 mg IV, or labetalol 20 mg IV); aim for 140–150/90–100.
   - MgSO₄ Pritchard (Uganda) - 4 g of 20% IV over 5–10 min + 10 g of 50% IM (5 g each buttock); then 5 g IM every 4 h in alternate buttocks for 24 h after delivery or last fit.
   - Before every MgSO₄ dose - RR ≥16/min, patellar reflexes present, urine ≥30 mL/h (≥100 mL in 4 h). Antidote - calcium gluconate 1 g (10 mL of 10%) IV over 10 min.
+  - Any fit after 20 weeks is eclampsia until proven otherwise - left lateral, airway, oxygen, MgSO₄ loading dose, then check glucose and mRDT.
   - HELLP = Haemolysis (LDH ≥600 IU/L), Elevated Liver enzymes (AST ≥70 IU/L), Low Platelets (<100 × 10⁹/L).
-  - Delivery is the only cure. Eclampsia - deliver within 12 h of stabilisation; pre-eclampsia without severe features - deliver at 37 weeks.
+  - Severe-feature bloods - platelets <100, AST/ALT >70 IU/L, creatinine >90 µmol/L; bedside clotting test with no clot at 7 min = coagulopathy.
+  - Delivery is the only cure. Eclampsia - deliver within 12 h of stabilisation; severe PE ≥34 weeks - within 24 h; pre-eclampsia without severe features - deliver at 37 weeks.
+  - Spinal anaesthesia with platelets ≥75–80 × 10⁹/L; transfuse platelets if <50 before caesarean or <20 at any time.
   - Aspirin 75–150 mg at night from 12 weeks (before 16–20 weeks) to 36 weeks for high-risk women; calcium 1.5–2 g/day where dietary intake is low.
   - Avoid ergometrine in hypertensive women; restrict IV fluids to about 80 mL/h (1 mL/kg/h) - pulmonary oedema kills.
 ---
@@ -185,6 +189,153 @@ Other associations: molar pregnancy (pre-eclampsia before 20 weeks), IVF, new pa
 - **Postpartum does not mean safe.** Many eclamptic fits and strokes occur in the first 48–72 hours after birth. Keep measuring BP, continue MgSO₄ for 24 hours and do not stop antihypertensives abruptly.
 - **Common student mistakes:** forgetting to check the MgSO₄ monitoring chart; recording BP without checking the cuff size; calling 1+ protein "severe"; giving **ergometrine** for the third stage (it causes severe hypertension and stroke); forgetting fetal assessment; forgetting to plan **postnatal BP follow-up and aspirin in the next pregnancy**.
 
+
+## Clinical workup
+
+This is the order in which a senior works up a woman with raised BP after 20 weeks on a Ugandan antenatal or labour ward. The aim is to answer four questions quickly: **Is she fitting or about to fit? Is the BP severe? Which organs are involved? Is the baby coping?**
+
+### Step 0: First 5 minutes
+
+1. **Is she fitting, post-ictal or drowsy?** If yes, this is **eclampsia until proven otherwise**: shout for help, protect her from injury, **left lateral**, clear the airway, suction, **oxygen**, and give the **MgSO₄ loading dose** (Pritchard: 4 g of 20% IV over 5–10 min + 10 g of 50% IM). Then follow the eclampsia algorithm below.
+2. **Vital signs**: BP (correct cuff, seated or left lateral), pulse, **RR**, **SpO₂**, temperature, GCS. Count the **RR before any MgSO₄** so you have a baseline.
+3. **Is the BP severe (≥160 systolic and/or ≥110 diastolic)?** Repeat within **15 minutes**. If confirmed, give an **acute antihypertensive now** (nifedipine IR 10 mg orally or hydralazine 5 mg IV slowly) with the aim of treating within **30–60 minutes**.
+4. **Ask the three "imminent eclampsia" questions**: headache? visual disturbance? epigastric/RUQ pain? And **check reflexes and clonus**. Any one of these with hypertension = severe features → **MgSO₄ now**.
+5. **Quick look for the killers**: breathlessness/SpO₂ <95%/crackles (**pulmonary oedema**), vaginal bleeding with a hard tender uterus (**abruption**), bruising or oozing from puncture sites (**DIC**).
+6. **Two bedside checks for every fit**: **blood glucose** and **mRDT** (hypoglycaemia and cerebral malaria are the great Ugandan mimics).
+7. **Start the bundle**: IV access (16–18 G), draw bloods (below), **catheter with hourly urine output**, fluid restriction to **80 mL/h**, calcium gluconate at the bedside, and **FHR**.
+8. **Call**: the senior midwife and medical officer immediately; the obstetrician and anaesthetist if severe or eclamptic. At HC II/III: loading dose + first antihypertensive, then **refer with an escort and the next 5 g IM dose**.
+
+> [!REDFLAG]
+> Do not delay MgSO₄ or the antihypertensive to wait for lab results, a scan or a senior. Bloods are drawn **while** you treat.
+
+### Step 1: Focused history
+
+| Ask | Why it matters (what answer changes the plan) |
+|---|---|
+| **Gestational age** (LNMP, earliest scan, fundal height at booking) | <20 weeks → think **molar pregnancy** or chronic hypertension. <34 weeks → **steroids**; <32 weeks → MgSO₄ also gives **fetal neuroprotection**. ≥37 weeks → deliver |
+| **Headache** (severity, site, relieved by paracetamol?) | Severe or persistent = **severe feature**, cerebral irritation → MgSO₄ and plan delivery |
+| **Visual disturbance** (blurring, flashing lights, scotomata, blindness) | Severe feature (PRES, retinal vasospasm). Sudden blindness = cortical blindness or retinal detachment |
+| **Epigastric / RUQ pain, nausea, vomiting** | Liver involvement / **HELLP** / subcapsular haematoma. Changes the bloods you send (LFT, LDH, film) and urgency |
+| **Breathlessness, orthopnoea, cough** | Pulmonary oedema → stop IV fluids, sit up, oxygen, furosemide |
+| **Fetal movements** | Reduced → FGR, abruption or IUFD; changes timing and mode of delivery |
+| **Vaginal bleeding, constant abdominal pain** | **Abruption** → coagulopathy risk; deliver |
+| **Urine output, swelling of face/hands** | Oliguria = renal involvement; sudden facial oedema = warning sign |
+| **Any fit, loss of consciousness; fever, rigors, neck stiffness** | Eclampsia vs **cerebral malaria**, meningitis, epilepsy |
+| **Drugs already given** (at referring facility: MgSO₄ time and dose, hydralazine, nifedipine, diazepam, fluids) | Avoid double-loading MgSO₄; know when the next dose is due; count fluids already given |
+| **Past history**: previous PE/eclampsia/HELLP, chronic hypertension, kidney disease, diabetes, SLE, sickle cell, **HIV** | Superimposed disease; recurrence; drug choice |
+| **Asthma, heart disease** | Avoid **labetalol**; caution with fluids |
+| **ANC**: booking BP, urine results, aspirin/calcium | Booking BP ≥140/90 → chronic hypertension; missed prevention (audit) |
+| **Parity, previous CS, current contractions** | Mode of delivery and likelihood of a quick vaginal birth |
+
+### Step 2: Focused examination
+
+**General**
+- GCS, restlessness, confusion; pallor (haemolysis, anaemia), **jaundice** (HELLP, AFLP, malaria); **bruising, petechiae, oozing** from cannula sites (DIC, low platelets).
+- **Oedema**: face, hands, sacrum (sudden generalised oedema is more worrying than ankle oedema).
+- Weight (for fluid calculation, 1 mL/kg/h).
+
+**Vital signs, done properly**
+- **BP** with the correct cuff (large cuff if mid-arm circumference >33 cm), arm at heart level, **Korotkoff V** for diastolic, repeated. Record the arm and the position.
+- Pulse, **RR**, **SpO₂**, temperature (fever → think malaria/sepsis/chorioamnionitis).
+
+**Systems**
+- **Chest**: basal crackles, raised JVP (pulmonary oedema, fluid overload).
+- **Abdomen**: **epigastric/RUQ tenderness** (liver), **fundal height** (small for dates → FGR/oligohydramnios), uterine **tone and tenderness** (abruption), lie, presentation, engagement, **FHR** for a full minute.
+- **Neurological**: **patellar reflexes** (brisk, normal or absent: absent on MgSO₄ = toxicity), **ankle clonus** (≥3 beats = cerebral irritability), focal deficits (stroke), neck stiffness (meningitis), fundoscopy if you can (papilloedema, haemorrhages).
+- **Vaginal examination**: only when delivery is planned: **Bishop score** decides misoprostol/Foley vs ARM + oxytocin vs CS. Look for blood (abruption) and liquor colour.
+
+**Document the key negatives**: "no headache, no visual symptoms, no epigastric pain, no clonus, chest clear, uterus soft and non-tender, FHR 140 regular".
+
+### Step 3: Bedside tests
+
+| Test | How / what to look for | What it changes |
+|---|---|---|
+| **Urine dipstick** | Protein: trace, 1+, 2+, 3+, 4+ (roughly 0.3, 1, 3 and ≥10–20 g/L for 1+ to 4+; varies by brand). **≥2+ is significant; 1+ needs confirming**. Also look for blood, nitrites/leucocytes (infection or catheter contamination) and ketones | Confirms pre-eclampsia; a **clean-catch midstream** sample avoids false positives from blood, liquor or discharge |
+| **Hb (HemoCue) / packed cell volume** | High Hb (haemoconcentration: leaky capillaries) or a falling Hb (haemolysis, abruption) | Severity; blood cross-match |
+| **Random blood sugar** | <3 mmol/L = hypoglycaemia | Fit differential; **AFLP** (hypoglycaemia + jaundice + coagulopathy) |
+| **mRDT** | Positive → treat malaria (IV artesunate if severe) **as well as** MgSO₄ | Cerebral malaria and eclampsia can coexist |
+| **Bedside clotting test** (WHO) | 2 mL venous blood in a plain dry glass tube, hold in the fist to keep it warm; tip it gently every minute from 4 minutes. **No clot by 7 minutes, or a soft clot that breaks up = coagulopathy** | Low platelets/DIC → FFP, platelets, avoid spinal anaesthesia; decide urgency. Available at every level |
+| **Hourly urine output** (Foley + urometer or measuring jug) | <30 mL/h (<100 mL in 4 h) | Withhold/halve MgSO₄; renal involvement; do **not** respond with big fluid boluses |
+| **MgSO₄ checks (R-R-U)** before every dose | RR ≥16, patellar reflexes present, urine ≥30 mL/h | Give, withhold or reduce the dose |
+| **SpO₂** | <95% on air | Pulmonary oedema; stop fluids, furosemide |
+| **FHR** (Pinard/Doppler) ± **CTG** | Bradycardia after a fit (usually recovers in 3–5 min), late decelerations, reduced variability | Fetal compromise → expedite delivery once mother is stable |
+| **Point-of-care ultrasound** | Viability, presentation, liquor, placental site, retroplacental clot (a normal scan does **not** exclude abruption) | IUFD → vaginal delivery preferred; breech/transverse → CS planning |
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Full blood count** (Hb, platelets, WBC) | At diagnosis; twice weekly if non-severe; 6–12-hourly in severe disease/HELLP and 24–48 h postpartum. HC IV (often), all hospitals | **Platelets <100 × 10⁹/L** = severe feature; <150 falling = watch; Hb falling = haemolysis/bleeding | Platelets <100 → HELLP work-up and deliver; **≥75–80** for spinal; **<50 before CS** → transfuse platelets |
+| **Blood film** | If platelets low or Hb falling. Hospital labs | **Schistocytes** (fragmented red cells), polychromasia | Confirms **microangiopathic haemolysis** (the "H" of HELLP) |
+| **LDH** | Suspected HELLP. Mainly regional/national referral and private labs | **≥600 IU/L** = haemolysis | Completes HELLP diagnosis; often unavailable, so use film + bilirubin + falling Hb as proxies |
+| **LFTs: AST/ALT, bilirubin** | At diagnosis and with any epigastric pain. Regional/national referral; some HC IVs | **AST or ALT >70 IU/L** (≥2× normal) = severe; raised unconjugated bilirubin = haemolysis | Severe features → deliver. Very high (>1,000) → think viral hepatitis |
+| **Creatinine, urea, electrolytes** | At diagnosis; daily in severe disease; before continuing MgSO₄ if oliguric. Hospitals | Normal in pregnancy **35–70 µmol/L**; **>90 µmol/L** = renal involvement; potassium high in AKI | Reduce/withhold MgSO₄ (renally excreted); AKI → deliver, strict fluids, nephrology at referral |
+| **Uric acid** | Optional | Raised | Supports diagnosis only; does **not** decide management |
+| **Clotting: PT/INR, APTT, fibrinogen** | Platelets <100, abruption, bleeding, before surgery. Regional/national referral (bedside clotting test elsewhere) | Prolonged PT/APTT, **fibrinogen <2 g/L** (normal in pregnancy 4–6) | DIC → FFP, cryoprecipitate; general vs regional anaesthesia |
+| **Blood group & cross-match** | Everyone with severe disease or planned delivery. HC IV with blood bank upward | | 2 units ready: abruption and PPH risk |
+| **Blood slide (if mRDT unavailable or negative with fever)** | Fever, fit, jaundice | Parasites | Treat malaria in parallel |
+| **Urine PCR** (or 24-h urine protein) | Dipstick 1+ or equivocal. Referral labs only; not needed if dipstick ≥2+ | **≥30 mg/mmol** (≥300 mg/24 h) | Confirms proteinuria; amount does **not** grade severity |
+| **Obstetric ultrasound** | All: at diagnosis, then every 2 weeks if expectant. HC IV (often), hospitals | EFW <10th centile (FGR), oligohydramnios, presentation, placenta | FGR/oligohydramnios → closer surveillance or delivery; presentation → mode |
+| **Umbilical artery Doppler** | FGR or expectant management <34 weeks. Regional/national referral | Raised resistance; **absent or reversed end-diastolic flow (AEDF/REDF)** | AEDF/REDF → steroids and deliver (usually CS) |
+| **CTG** | In labour or antenatal surveillance where available. Referral hospitals, some HC IVs | Reduced variability, late decelerations | Fetal compromise → expedite |
+| **Serum magnesium** | Oliguria, rising creatinine, or signs of toxicity. Rarely available (national referral/private) | Therapeutic **2–3.5 mmol/L** | Guides dosing; otherwise rely on clinical R-R-U checks |
+| **Chest X-ray** | Breathless, crackles, SpO₂ <95%. Hospitals | Bat-wing shadowing, effusions | Confirms pulmonary oedema (treat clinically first) |
+| **CT head** | Focal signs, GCS not recovering, fits despite MgSO₄, first fit >48 h postpartum. Regional/national referral, private | Haemorrhage, infarct, CVT, PRES | Neurosurgical referral; changes the diagnosis |
+| **sFlt-1/PlGF ratio** | Not available in Ugandan public facilities | Ratio **≤38** rules out PE for 1 week | Triage only (UK/Europe) |
+
+> [!UGANDA]
+> At an HC III you may have only a **BP machine, a dipstick, a glucometer, an mRDT and a glass tube for the bedside clotting test**. That is enough to diagnose severe pre-eclampsia, give MgSO₄ and nifedipine, and refer. **Do not wait for LFTs to refer.** At HC IV you usually add FBC, creatinine, grouping and a scan; LDH, clotting profile and Doppler are mostly at regional and national referral hospitals (Mengo, Mulago, Kawempe).
+
+### Step 5: Putting it together
+
+**Model one-line summary**
+
+> "A 24-year-old G2P1 at 33 weeks with **pre-eclampsia with severe features** (BP 168/112, headache, platelets 88), currently on Pritchard MgSO₄ with R-R-U checks normal, BP controlled to 148/96 on nifedipine, fetus alive and cephalic with EFW on the 8th centile, for steroids and delivery."
+
+**Problem list**
+1. Severe hypertension: controlled / uncontrolled (what drugs, how many doses).
+2. Seizure prophylaxis: MgSO₄ started at (time), next dose due at (time), toxicity checks.
+3. Organ involvement: blood (platelets), liver (AST/ALT, pain), kidney (creatinine, urine output), brain (symptoms, clonus), lungs (SpO₂).
+4. Fetus: GA, EFW/FGR, liquor, Doppler/FHR, steroids given?
+5. Delivery plan: timing, mode, Bishop score, anaesthesia (platelets), blood available.
+6. Postpartum plan: MgSO₄ for 24 h, BP, repeat bloods, oxytocin (not ergometrine).
+
+**Working diagnosis**: name the category precisely: "pre-eclampsia **with/without** severe features" ± "HELLP" ± "eclampsia", with the gestation and fetal status. If an alternative is still open (malaria, AFLP), say so.
+
+#### Worked example 1: a PET bloods panel
+
+| Result | Value | Interpretation |
+|---|---|---|
+| Hb | 9.6 g/dL (was 11.8 last week) | Falling: haemolysis or bleeding |
+| Platelets | 64 × 10⁹/L | **<100 = severe**; below 75–80 → spinal not advised |
+| AST / ALT | 186 / 140 IU/L | **>70 = elevated liver enzymes** |
+| LDH | 910 IU/L | **≥600 = haemolysis** |
+| Bilirubin | 32 µmol/L (mainly unconjugated) | Haemolysis |
+| Creatinine | 98 µmol/L | **>90 = renal involvement** |
+| Glucose | 5.2 mmol/L | Normal: argues against AFLP |
+| Film | Schistocytes | Microangiopathy |
+
+**Reading it:** all three HELLP criteria (H: LDH ≥600 + schistocytes; EL: AST ≥70; LP: platelets <100) are met = **complete HELLP**, with renal involvement. Normal glucose and only mildly raised bilirubin make AFLP less likely; transaminases in the hundreds (not thousands) make viral hepatitis less likely. **Action:** treat as severe PE (MgSO₄, BP control; check urine output before each dose because of the raised creatinine), **deliver** (after steroids only if <34 weeks and she is stable, within 24–48 h), group and cross-match, platelets ready, bedside clotting test/clotting profile, **general anaesthesia or platelet transfusion** if CS is needed, repeat bloods 6–12-hourly.
+
+> [!NOTE]
+> Some units also use the **Mississippi classification** of HELLP by platelet nadir (class 1 ≤50, class 2 >50–100, class 3 >100–150 × 10⁹/L). The lower the platelets, the higher the risk of bleeding and DIC. Thresholds differ slightly between classifications; the Tennessee thresholds above are the ones in these notes.
+
+#### Worked example 2: MgSO₄ toxicity check at the 4-hourly dose
+
+| Check | Found | Rule |
+|---|---|---|
+| RR | 12/min | **<16 → withhold** |
+| Patellar reflexes | Absent | **Absent → withhold** |
+| Urine output | 60 mL in 4 h | **<100 mL in 4 h → withhold/reduce** |
+
+**Reading it:** this is **magnesium toxicity** until proven otherwise, probably from reduced renal excretion (oliguria). **Action:** do **not** give the dose; call for help; oxygen, check airway and SpO₂; **calcium gluconate 1 g (10 mL of 10%) IV over 10 min** if breathing is depressed or stops (WHO MCPC specifies it for respiratory arrest; many units give it once RR is falling below 12, so follow your protocol), with bag-mask ventilation if needed; check creatinine and serum Mg if available. Restart MgSO₄ (often at a reduced dose) only when reflexes return, RR ≥16 and urine output ≥30 mL/h. If she has had a spinal, test the **biceps** reflex instead.
+
+#### Worked example 3: reading the urine
+
+- Dipstick **1+** on a midstream sample, BP 146/94 at 32 weeks, bloods normal → **gestational hypertension with possible proteinuria**: confirm with a **urine PCR** (≥30 mg/mmol = pre-eclampsia) or repeat dipstick. If PCR is unavailable, many Ugandan units repeat a clean-catch dipstick and treat persistent 1+ with caution.
+- Dipstick **3+** with BP 150/100 and no symptoms, normal bloods → **pre-eclampsia without severe features** (3+ does **not** make it severe on modern criteria), for monitoring and delivery at 37 weeks.
+- Dipstick **1+** with platelets 70 → **pre-eclampsia with severe features** (the platelets decide severity, not the protein).
+
 ## Differential diagnosis
 
 ### Of hypertension in pregnancy
@@ -227,24 +378,14 @@ Other associations: molar pregnancy (pre-eclampsia before 20 weeks), IVF, new pa
 
 ## Investigations
 
-| Test | What you are looking for | Why |
+The full test list (with what each result means and where it is available in Uganda) is in **Step 3** and **Step 4** of the Clinical workup above. What the table does not show is **how often to repeat** the tests:
+
+| Situation | Maternal tests | Fetal tests |
 |---|---|---|
-| **Urine dipstick** (every visit) | Protein ≥2+ (1+ needs confirming) | Diagnosis |
-| Urine PCR or 24-h protein | ≥30 mg/mmol or ≥300 mg/24 h | Confirms proteinuria |
-| **FBC** | **Platelets <100**, Hb (haemoconcentration or haemolysis) | Severity, HELLP, safety of spinal anaesthesia |
-| Blood film | Schistocytes (fragmented red cells) | Microangiopathic haemolysis |
-| **LFTs** (AST, ALT, bilirubin) and **LDH** | AST/ALT >70 IU/L, LDH ≥600 IU/L | HELLP, liver involvement |
-| **Creatinine, urea, electrolytes** | Creatinine >90 µmol/L | Renal involvement; MgSO₄ dosing |
-| Uric acid | Raised | Supports diagnosis; weak predictor |
-| Clotting (PT, APTT, fibrinogen) or bedside clotting time | Prolonged; fibrinogen low | If platelets low, abruption, or before surgery |
-| **Blood group & cross-match** | | Ready for delivery/PPH |
-| Random blood sugar, **mRDT/blood smear** | Hypoglycaemia, malaria | Fits differential; AFLP |
-| **Obstetric ultrasound** | Growth (EFW), liquor volume, placenta (abruption), presentation | FGR and timing of delivery |
-| Umbilical artery Doppler (where available) | Raised resistance, absent/reversed end-diastolic flow | Fetal compromise → timing |
-| CTG / intermittent auscultation | Reduced variability, decelerations | Fetal well-being |
-| sFlt-1/PlGF ratio (not routinely available in Uganda) | Ratio <38 rules out pre-eclampsia for 1 week | Triage of suspected cases |
-| Chest X-ray / SpO₂ | Pulmonary oedema | If breathless |
-| CT head | Haemorrhage, CVT | Focal signs, atypical fits, fit after 48 h postpartum |
+| Gestational hypertension | BP twice weekly to 4-hourly (inpatient); urine dipstick at each check; FBC, LFT, creatinine at diagnosis and if any symptom | FHR each review; growth scan at diagnosis |
+| Pre-eclampsia without severe features | BP 4-hourly; urine daily; **FBC, LFT, creatinine twice weekly** | Fetal movements chart; FHR each shift; **growth and liquor scan every 2 weeks**; Doppler where available |
+| Severe pre-eclampsia / on MgSO₄ | BP, pulse every 15–30 min until stable, then hourly; **RR, reflexes, urine output hourly** (before every IM dose at least); bloods **daily**, or **6–12-hourly** if HELLP | FHR every 30 min (continuous CTG where available) |
+| Postpartum | BP 4-hourly for at least 3 days; repeat FBC, LFT, creatinine **24–48 h after delivery** | Neonatal review (MgSO₄ hypotonia, prematurity) |
 
 ## Management
 
@@ -473,3 +614,62 @@ Management rests on **five pillars**: (1) control severe hypertension, (2) preve
 - **Acute antihypertensives: "No Hurry? Labetalol"** - **N**ifedipine, **H**ydralazine, **L**abetalol. **Methyldopa is "Maintenance only"**.
 - **Drugs to avoid: "ACE, ARB, Atenolol, Ergometrine, Excess fluids"**.
 - **Eclampsia delivery clock**: "**12 hours** for a fit, **24 hours** for severe, **37 weeks** for mild".
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Hypertension in pregnancy | **≥140/90** on two readings (4 h apart if non-severe) |
+| Severe hypertension | **≥160/110**, confirmed within 15 min; treat within **30–60 min** |
+| Acute BP target | **140–150 / 90–100**; maintenance ~**135/85**; diastolic not below 80 |
+| Significant proteinuria | Dipstick **≥2+**; PCR **≥30 mg/mmol**; **≥300 mg/24 h** |
+| HELLP thresholds | LDH **≥600 IU/L**, AST **≥70 IU/L**, platelets **<100 × 10⁹/L** |
+| Renal severe feature | Creatinine **>90 µmol/L** (pregnancy normal 35–70); urine **<30 mL/h** |
+| Nifedipine IR (acute) | **10 mg orally**, repeat 10–20 mg after 20–30 min; ~30–40 mg in the first hour |
+| Hydralazine (acute) | **5 mg IV slowly**, repeat 5–10 mg every 20–30 min; max **20 mg** per episode (check local protocol) |
+| Labetalol IV | **20 mg**, then 40, 80, 80 mg every 10 min; max **300 mg** |
+| Methyldopa | 250–750 mg **8-hourly**, max 3 g/day (maintenance only) |
+| Nifedipine MR | 20–40 mg **12-hourly**, max 120 mg/day |
+| MgSO₄ Pritchard loading | **4 g of 20% IV** over 5–10 min + **10 g of 50% IM** (5 g each buttock + 1 mL 2% lignocaine) = 14 g |
+| MgSO₄ Pritchard maintenance | **5 g of 50% IM every 4 h**, alternate buttocks |
+| MgSO₄ Zuspan | **4 g IV** over 5–20 min, then **1 g/h** |
+| Recurrent fit on MgSO₄ | **2 g of 20% IV** over 5 min |
+| MgSO₄ duration | **24 h after delivery or last fit**, whichever is later |
+| Making 20% MgSO₄ | **8 mL of 50% + 12 mL water** = 20 mL (4 g) |
+| MgSO₄ checks | RR **≥16**, reflexes present, urine **≥30 mL/h** (≥100 mL/4 h) |
+| Serum Mg | Therapeutic **2–3.5 mmol/L**; reflexes lost 4–5; respiratory depression 6–7.5; arrest >12 |
+| Antidote | **Calcium gluconate 1 g (10 mL of 10%) IV over 10 min** |
+| Diazepam (only if no MgSO₄) | **10 mg IV** over 2 min; rectal 20 mg |
+| Fluid limit | **80 mL/h (1 mL/kg/h)** total |
+| Steroids (24/28–34 weeks) | **Dexamethasone 6 mg IM 12-hourly × 4** |
+| Platelets and anaesthesia | Spinal **≥75–80**; transfuse **<50 before CS**, **<20** always |
+| Delivery timing | Eclampsia **≤12 h**; severe PE ≥34 weeks **≤24 h**; non-severe **37+0 weeks** |
+| Bedside clotting test | No clot by **7 min** = coagulopathy |
+| Aspirin prevention | **75–150 mg nocte**, 12 → 36 weeks |
+| Calcium prevention | **1.5–2 g/day** elemental from 20 weeks |
+| Postpartum BP peak | Days **3–6**; review within **1 week** of discharge |
+| Recurrence | About **15%** (higher after early severe disease/HELLP) |
+
+### Classic exam traps
+
+- **"3+ proteinuria = severe pre-eclampsia."** Wrong: severity is judged by BP ≥160/110, symptoms, bloods, lungs and fetus, not the number of pluses.
+- **"No proteinuria, so it cannot be pre-eclampsia."** Wrong: new hypertension + low platelets, raised transaminases/creatinine, neurological signs or FGR is pre-eclampsia.
+- **"Give methyldopa for BP 170/115."** Wrong: methyldopa takes hours. Give **nifedipine IR 10 mg orally or hydralazine 5 mg IV**.
+- **"MgSO₄ is the antihypertensive."** Wrong: it prevents fits; you still need an antihypertensive to prevent stroke.
+- **"Diazepam first for an eclamptic fit."** Wrong: **MgSO₄** is first line; diazepam only if MgSO₄ is unavailable.
+- **"She is oliguric, give 2 L of fluid."** Wrong: oliguria is renal vasospasm. Restrict to 80 mL/h (at most one small bolus); pulmonary oedema kills.
+- **"Rush to caesarean for fetal bradycardia during the fit."** Wrong: stabilise the mother first; FHR usually recovers in 3–5 min.
+- **"Ergometrine for the third stage."** Wrong: **oxytocin 10 IU IM**; ergometrine causes hypertensive crisis and stroke.
+
+### Questions seniors ask
+
+1. **What would you do in the first 5 minutes for BP 170/115 with headache?** Repeat BP within 15 min, call for help, nifedipine IR 10 mg orally (or hydralazine 5 mg IV), MgSO₄ loading dose, IV access and bloods, catheter, fluid restriction, FHR, plan delivery.
+2. **Which bloods do you send, and why each?** FBC (platelets, HELLP, anaesthesia), LFT and LDH (HELLP/liver), creatinine (kidney, MgSO₄ dosing), clotting/bedside clotting test (DIC, abruption), group & cross-match (PPH), glucose and mRDT (fit mimics).
+3. **You find RR 12 and absent reflexes at the 4-hourly check. What do you do?** Withhold the dose, call for help, oxygen, calcium gluconate 1 g IV over 10 min if respiration is depressed or she stops breathing, ventilate, check urine output and creatinine.
+4. **Why can't she have a spinal?** Platelets below 75–80 × 10⁹/L risk a spinal/epidural haematoma; use general anaesthesia with care to blunt the intubation pressor response, or transfuse platelets.
+5. **How do you tell HELLP from AFLP?** AFLP has **hypoglycaemia**, more jaundice, marked coagulopathy and often less hypertension; HELLP has haemolysis (LDH ≥600, schistocytes) and thrombocytopenia with milder coagulopathy. Both need delivery.
+6. **When does MgSO₄ stop, and why keep watching BP after delivery?** 24 h after delivery or the last fit. BP peaks on days 3–6 and up to a third of eclamptic fits are postpartum.
+7. **She is 30 weeks with severe PE and stable. What is the plan?** MgSO₄ (also fetal neuroprotection <32 weeks), BP control, steroids, deliver after 48 h if stable at a centre with NICU, or sooner for any maternal or fetal deterioration.
+8. **What will you tell her before discharge?** Danger signs, BP check within 1 week, 6-week review, aspirin from 12 weeks next pregnancy, lifelong cardiovascular risk, avoid combined oestrogen contraception while hypertensive.

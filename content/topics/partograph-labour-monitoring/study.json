@@ -105,6 +105,31 @@
       "id": "pg-f21",
       "front": "Does WHO recommend admission or continuous CTG for low-risk women?",
       "back": "**No.** It increases caesarean and instrumental births without improving newborn outcomes. Use intermittent auscultation."
+    },
+    {
+      "id": "pg-f22",
+      "front": "Admitted at 4 cm at 08:00. At what times does the alert line, and then the action line, reach 5 cm?",
+      "back": "Alert line: **09:00** (1 cm/h). Action line: **13:00** (4 h later). So 5 cm at 12:00 = alert line crossed, 1 h before the action line."
+    },
+    {
+      "id": "pg-f23",
+      "front": "Correct order of examination at each partograph review?",
+      "back": "Maternal **vitals** → **descent in fifths** (abdomen) → **contractions** for 10 min → **FHR** for 60 s after a contraction → **VE** (every 4 h) → bladder/urine. Abdomen always **before** VE."
+    },
+    {
+      "id": "pg-f24",
+      "front": "Cervix going from 6 to 8 cm but head still 3/5 with moulding +++. Interpretation?",
+      "back": "X rising but O not falling: the cervix is opening around a head that is **not descending**. Think **CPD / malposition**; senior review, no oxytocin, likely CS."
+    },
+    {
+      "id": "pg-f25",
+      "front": "Oxytocin 2.5 IU in 500 mL at 10 drops/min with a 20-drop/mL set: dose in mIU/min?",
+      "back": "5 mIU/mL × 0.5 mL/min = **2.5 mIU/min**."
+    },
+    {
+      "id": "pg-f26",
+      "front": "On the LCG a woman has been at 7 cm for 3 h, and the FHR drops after each contraction and recovers late. What do you do?",
+      "back": "Two alerts: **cervical (7 cm ≥3 h)** and **late decelerations**. Intrauterine resuscitation (stop oxytocin, left lateral, IV fluids, VE for cord prolapse), senior review; persistent late decelerations at 7 cm → **caesarean section**. Write an assessment and plan."
     }
   ],
   "mcqs": [

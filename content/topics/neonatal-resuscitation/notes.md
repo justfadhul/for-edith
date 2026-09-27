@@ -3,11 +3,15 @@ title: "Neonatal Resuscitation"
 summary: About 1 in 10 newborns needs help to start breathing and about 3-6 in 100 need bag-and-mask ventilation. Prepare before every birth, dry and stimulate, and if the baby is not breathing, start effective bag-and-mask ventilation within the Golden Minute; ventilation (not suction, not drugs) is the single most important intervention.
 highYield:
   - "Golden Minute - a baby who is not breathing well after drying and stimulation must be receiving bag-and-mask ventilation within 60 seconds of birth."
+  - "Prepare before every birth - helper identified, warm area, towels and hat, bag tested, masks size 1 and 0, suction, stethoscope, clock."
   - "Effective ventilation = gentle chest rise at 40 breaths per minute (acceptable 30-60) using a size 1 mask for term and size 0 for preterm babies; start with room air for term babies."
   - "If the chest does not rise - improve ventilation - reapply the mask, reposition the head (slightly extended), clear the airway, open the mouth, squeeze harder."
   - "Heart rate is the best indicator of response - normal is 100 or above; below 100 means continue ventilating and call for help; below 60 despite 30 seconds of effective ventilation means chest compressions (3 - 1) where advanced care is available."
+  - "Gasping is NOT breathing - ventilate."
   - "Suction only if the airway is blocked (secretions or meconium and the baby is not crying); no routine deep suction and no routine tracheal suction for meconium."
   - "Delay cord clamping 1-3 minutes in babies who breathe; if the baby needs ventilation and the setup does not allow ventilating on the cord, clamp and cut and move to the resuscitation area."
+  - "Adrenaline is 1:10,000 (0.1 mg/mL) at 0.1-0.3 mL/kg IV (0.01-0.03 mg/kg); to make it, dilute 1 mL of 1:1,000 in 9 mL saline."
+  - "After resuscitation - check temperature (36.5-37.5), glucose (treat below 2.6 mmol/L with 10% dextrose 2 mL/kg), breathing and tone every 15 min for 2 h; SCBU if lethargic, poor suck or seizures."
   - "APGAR is recorded at 1 and 5 minutes but is NEVER used to decide whether to start resuscitation."
   - "Stop if no heart rate after 10 minutes of effective ventilation (WHO); consider stopping if heart rate stays below 60 with no breathing after 20 minutes."
 ---
@@ -260,6 +264,109 @@ Based on ILCOR/AHA NRP 2020 and WHO; follow the protocol of your SCBU.
 - **"If the HR stays slow despite a good chest rise"**, think: pneumothorax, diaphragmatic hernia, hypovolaemia (pale, poor perfusion after APH), congenital heart disease, or too little time.
 - **Common student mistakes**: forgetting to dry and remove the wet towel; mask covering the eyes; over-extending the neck; ventilating too fast (over 60/min) or with big squeezes (lung injury); stopping ventilation to check the HR repeatedly; not calling for help early; forgetting the time of birth; not recording the resuscitation.
 
+## Clinical workup
+
+In neonatal resuscitation the "workup" happens in three time zones: **before the birth** (anticipate and prepare), **at the birth** (the rapid assessment that drives the HBB Action Plan) and **after resuscitation** (a structured newborn assessment that decides whether the baby stays with the mother or goes to the SCBU). The first two are measured in seconds, so the order must be automatic.
+
+### Step 0: First 5 minutes
+
+**Before birth (the "first 5 minutes" start before the baby is born):**
+
+1. **Is resuscitation likely?** Preterm, thick meconium, abnormal FHR, prolonged/obstructed labour, breech, twins, maternal fever, pethidine in the last few hours, APH. If yes, **a second skilled person is at the birth**.
+2. **Equipment check** (takes 1 minute): warm area, 2–3 dry towels and a hat, **bag tested** against your palm, **masks size 1 and 0**, suction bulb, stethoscope, clock, cord clamps and scissors.
+
+**At birth, second by second:**
+
+| Time | Assessment | Action |
+|---|---|---|
+| **0 s** | Note the time of birth | Start the clock |
+| **0–30 s** | Crying? Breathing? Tone? | **Dry thoroughly**, remove the wet cloth, keep warm |
+| **~30 s** | Not crying: airway blocked? | Position (slight extension); **suction only if secretions or meconium block the airway** |
+| **~30–60 s** | Breathing well after rubbing the back? | If not breathing or **gasping** → clamp/cut the cord, **ventilate by 60 s** at 40/min |
+| **60 s onwards** | **Chest rising?** | If not → improve ventilation (mask, head, airway, mouth, squeeze harder) |
+| **After 1 min of ventilation** | **Heart rate** (stethoscope, 6 s × 10) | ≥100: continue until breathing. <100: continue, improve, call for help. <60 after 30 s of effective ventilation: compressions (where trained) |
+| **1 and 5 min** | APGAR (recorded, not used to decide) | Document; repeat every 5 min until ≥7 (up to 20 min) |
+
+> [!REDFLAG]
+> **Gasping is not breathing.** A baby who is gasping, floppy and pale at birth is in **secondary apnoea**: ventilate at once. Do not stop ventilating to listen to the heart yourself; the helper checks the heart rate.
+
+### Step 1: Focused history
+
+Ask these (from the mother, the midwife and the partograph), ideally **before** the birth; each answer changes what you prepare or do afterwards:
+
+- [ ] **Gestational age** → preterm: size 0 mask, plastic wrap/hat, lower oxygen, CPAP, SCBU.
+- [ ] **FHR pattern and liquor** (late decelerations, bradycardia, thick meconium) → skilled helper present; possible HIE and meconium aspiration.
+- [ ] **Length of labour and second stage; obstructed labour; instrumental delivery** → asphyxia, birth trauma (subgaleal haemorrhage after vacuum).
+- [ ] **Maternal fever ≥38°C, ROM >18 h, foul liquor, chorioamnionitis** → neonatal sepsis: antibiotics after resuscitation.
+- [ ] **Maternal drugs**: pethidine/morphine within about 4 h, MgSO₄, general anaesthesia → respiratory depression and hypotonia: **ventilate** (naloxone is not routinely recommended).
+- [ ] **APH, abruption, cord accident, fetomaternal bleed** → hypovolaemia: pale baby, poor perfusion; volume 10 mL/kg.
+- [ ] **Maternal diabetes** → hypoglycaemia, macrosomia, shoulder dystocia (brachial plexus injury).
+- [ ] **Maternal HIV (viral load), syphilis, hepatitis B, Rh-negative** → prophylaxis and post-resuscitation care plan.
+- [ ] **Known anomalies** on scan (diaphragmatic hernia, gastroschisis, hydrops) → special handling.
+
+**After resuscitation, record exactly**: time of birth, time ventilation started, how long, heart rate response, when spontaneous breathing started, APGARs, drugs, and who was present. This record is used in SCBU and in perinatal death reviews.
+
+### Step 2: Focused examination
+
+**At birth** (during the HBB steps): **breathing** (crying / regular / gasping / apnoea), **heart rate**, **tone** (flexed vs floppy), **colour** (central cyanosis vs pallor; colour alone is unreliable in the first minutes).
+
+**After resuscitation** (once breathing and HR ≥100, within the first hour, then repeated):
+
+| System | What to look for | Normal to document | Abnormal → action |
+|---|---|---|---|
+| **Vital signs** | RR, HR, temperature, SpO₂ (if oximeter) | RR 40–60, HR 100–160 (at rest), temperature 36.5–37.5°C, pre-ductal SpO₂ 85–95% by 10 min, then ≥90% once stable | RR >60, grunting, indrawing → oxygen/CPAP; temperature <36.5 → skin-to-skin/warm; >37.5 → avoid overheating, think sepsis |
+| **Neurology (Sarnat)** | Alertness, tone, suck, Moro, seizures | Alert, flexed, good suck | Lethargy, hypotonia, weak suck = **moderate HIE**; stupor, flaccid = **severe** → SCBU |
+| **Respiratory** | Air entry, symmetry, meconium | Equal air entry | Asymmetry + sudden deterioration → pneumothorax; scaphoid abdomen → diaphragmatic hernia |
+| **Circulation** | Capillary refill, pallor, pulses | CRT <3 s, pink | Pale, CRT ≥3 s after APH → hypovolaemia: saline 10 mL/kg |
+| **Head** | Caput, cephalhaematoma, boggy swelling crossing sutures | Caput only | **Subgaleal haemorrhage** (after vacuum): swelling crossing suture lines, falling Hb → urgent SCBU |
+| **Birth trauma** | Arm movement, clavicle | Symmetrical | Erb's palsy (after shoulder dystocia), clavicle fracture |
+| **Anomalies** | Full top-to-toe examination | None | Refer as appropriate |
+| **Feeding** | Rooting, attaching at the breast | Suckling well | Poor suck → expressed breast milk by cup/NGT, check glucose |
+
+### Step 3: Bedside tests
+
+| Test | When | Normal / threshold | What you do |
+|---|---|---|---|
+| **Heart rate** (stethoscope; cord pulse) | After 1 min of ventilation, then every 1–2 min during resuscitation | **≥100** normal; **<100** slow; **<60** compressions (after 30 s of effective ventilation) | Drives each step of the algorithm |
+| **Pulse oximetry** (right hand, pre-ductal) | Hospital, when ventilating or giving oxygen | 60–65% at 1 min rising to **85–95% at 10 min** | Titrate oxygen; avoid hyperoxia |
+| **Temperature** | On admission to the newborn corner and every 15–30 min after resuscitation | **36.5–37.5°C** | Hypothermia → skin-to-skin, hat, warm room; avoid overheating |
+| **Blood glucose** (glucometer, heel prick) | All resuscitated babies, preterm/LBW, poor feeders, babies of diabetic mothers | Uganda/WHO practice: treat if **<2.6 mmol/L** (NICE uses 2.0 mmol/L in the first 48 h; check your unit protocol) | 10% dextrose 2 mL/kg IV, then maintenance; or feed/EBM by NGT |
+| **Weight** | After stabilisation | ≥2,500 g | LBW → KMC, feeding plan, gentamicin dose adjusted |
+| **APGAR** | 1 and 5 min (every 5 min until ≥7, up to 20 min) | 7–10 | A low 5- or 10-min score predicts HIE; document |
+| **HIV DNA PCR (DBS)** | HIV-exposed baby, per national schedule | | Infant prophylaxis starts regardless of the result |
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Blood glucose (lab or glucometer)** | Every resuscitated baby, repeated | <2.6 mmol/L (local threshold) | Dextrose bolus and infusion; frequent feeds. Glucometer at HC IV and hospitals (often absent at HC III: feed early and refer) |
+| **Blood culture** | Sepsis risk factors or signs, before antibiotics | Growth | Guides antibiotic choice and duration. Regional/national referral hospitals only; do not delay antibiotics to get one |
+| **FBC** (Hb, WCC, platelets) | Pale baby, suspected sepsis, subgaleal haemorrhage | Hb normally about 14–20 g/dL at birth; low Hb = blood loss; low platelets = sepsis/DIC | Transfusion; antibiotics. HC IV and hospitals |
+| **CRP** | Suspected sepsis (serial at 24–48 h) | Rising CRP supports infection | Helps decide on stopping antibiotics after 48 h. Regional/national referral |
+| **Serum electrolytes, calcium, creatinine** | Moderate/severe HIE, seizures, oliguria | Low sodium (SIADH), low calcium, raised creatinine (AKI) | Fluid restriction; correct calcium; adjust gentamicin. Regional/national referral |
+| **Bilirubin** | Jaundice (more likely after bruising or sepsis) | Above phototherapy line for age | Phototherapy. SCBUs at Mengo, Mulago/Kawempe, regional referrals |
+| **Blood gas (cord or arterial)** | Severe asphyxia at a tertiary centre | pH <7.0 or base deficit ≥12 = significant acidosis | Supports HIE diagnosis; rarely available in Uganda |
+| **Chest X-ray** | Persistent respiratory distress, suspected pneumothorax, meconium aspiration, diaphragmatic hernia | Pneumothorax, patchy infiltrates, bowel in the chest | Chest drain, oxygen/CPAP, surgery. Hospitals with radiology |
+| **Cranial ultrasound** | Preterm, suspected intracranial haemorrhage, severe HIE | IVH, oedema | Prognosis and counselling. National referral / some regional hospitals |
+| **Lumbar puncture** | Seizures with suspected sepsis, once stable | Meningitis | Antibiotic dose and duration (meningitic doses) |
+
+### Step 5: Putting it together
+
+**Model one-line summary**: "A term male, 3.1 kg, born after prolonged second stage with thick meconium, **not breathing at birth**, ventilated from 50 s, HR 80 at 1 min of ventilation rising to 140 by 3 min, spontaneous breathing at 5 min, **APGAR 2, 6, 8**; now lethargic with a weak suck: **moderate perinatal asphyxia with possible moderate HIE**."
+
+**Problem list**: (1) perinatal asphyxia / possible HIE; (2) possible meconium aspiration; (3) risk of hypoglycaemia, hypothermia and seizures; (4) sepsis risk (if ROM >18 h or maternal fever); (5) feeding difficulty; (6) communication with the mother.
+
+**Working diagnosis**: name the **severity** (mild/moderate/severe HIE by Sarnat), the **complications** (seizures, aspiration, hypoglycaemia) and the **risk factors** (sepsis).
+
+> [!EXAM]
+> **Worked example 1: scoring the APGAR.** At 1 minute a baby is blue all over (0), HR 80 (1), grimaces to suction (1), some flexion (1), weak irregular breathing (1): **APGAR 4 at 1 min**. At 5 minutes: body pink with blue hands and feet (1), HR 140 (2), cries on stimulation (2), active movement (2), strong cry (2): **APGAR 9 at 5 min**. **Interpretation**: moderately depressed at 1 minute, good response by 5 minutes. **Key point**: the ventilation decision was made at 30–60 seconds on "not breathing", not on the APGAR.
+
+> [!EXAM]
+> **Worked example 2: after resuscitation.** A 2.2 kg baby born at 35 weeks needed 3 minutes of bag-and-mask ventilation. At 1 hour: temperature **35.8°C**, RR 64 with mild grunting, SpO₂ 88% in air, glucose **2.1 mmol/L**, poor suck, mother had ROM for 30 hours. **Interpretation**: **hypothermia, hypoglycaemia, respiratory distress** and **sepsis risk** (prolonged ROM) in a late-preterm LBW baby after asphyxia. **Action**: skin-to-skin/KMC or warmer; **10% dextrose 2 mL/kg IV** then maintenance 60 mL/kg/day, recheck glucose in 30 min; oxygen (CPAP if available) to SpO₂ 90–95%; blood culture if available, then **ampicillin 50 mg/kg 12-hourly + gentamicin** (3 mg/kg 24-hourly for LBW per local protocol); SCBU admission (from an HC III/IV: refer with the mother, baby kept warm).
+
+> [!EXAM]
+> **Worked example 3: heart rate that won't rise.** In a hospital, a term baby is ventilated with good chest rise for 30 s but the HR is **50**. **Interpretation**: HR <60 despite effective ventilation → **chest compressions 3:1** with 100% oxygen, recheck after 60 s; if still <60, **adrenaline 1:10,000 0.1–0.3 mL/kg IV** via UVC. If the chest had **not** been rising, the right answer would be **improve ventilation first** (MR SOPA), not compressions.
+
 ## Management
 
 ### 1. The algorithm (HBB-based, with advanced extension)
@@ -383,3 +490,48 @@ The baby who needed ventilation is at risk of **hypoxic-ischaemic injury, hypogl
 - **Heart rate thresholds**: "**100 is normal, 60 is compressions**".
 - **APGAR**: Appearance, Pulse, Grimace, Activity, Respiration.
 - **Adrenaline**: "**0.1 to 0.3 mL/kg IV of 1 in 10,000**" ("point-one to point-three").
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Babies needing help to breathe / bag-mask ventilation | About **10%** / about **3–6%**; compressions or drugs **<1%** |
+| Golden Minute | Ventilation started **within 60 s** of birth |
+| Ventilation rate | **40 breaths/min** (30–60 acceptable), "squeeze-two-three" |
+| Mask size | **Size 1 term**, **size 0 preterm/small** |
+| Starting gas | **Room air (21%)** for term and ≥35 weeks; 21–30% below 35 weeks |
+| HR thresholds | **≥100 normal**; **<100** continue and improve ventilation, call help; **<60** after 30 s of effective ventilation → compressions |
+| Compressions | Two-thumb, lower third of sternum, depth **one-third of AP chest**, **3:1** (90 compressions + 30 breaths/min), 100% O₂, recheck after **60 s** |
+| Adrenaline 1:10,000 (0.1 mg/mL) | **0.01–0.03 mg/kg IV (0.1–0.3 mL/kg)**, every 3–5 min; ET **0.05–0.1 mg/kg (0.5–1 mL/kg)** |
+| Making 1:10,000 | **1 mL of 1:1,000 + 9 mL normal saline** |
+| Volume | **Normal saline 10 mL/kg** over 5–10 min |
+| Pre-ductal SpO₂ targets | 60–65% at 1 min → **85–95% at 10 min** |
+| Normal temperature | **36.5–37.5°C** |
+| Hypoglycaemia | Treat if **<2.6 mmol/L** (local; NICE 2.0) → **10% dextrose 2 mL/kg IV** |
+| Day-1 maintenance fluid | **10% dextrose 60 mL/kg/day** |
+| Phenobarbital (seizures) | **20 mg/kg** IV load (+10 mg/kg to 40 mg/kg total); maintenance **5 mg/kg/day** |
+| Stop resuscitation (WHO) | **No HR after 10 min** of effective ventilation; **HR <60 and no breathing after 20 min** |
+| APGAR timing | **1 and 5 min** (every 5 min until ≥7, up to 20 min) |
+
+### Classic exam traps
+
+- **"Wait for the 1-minute APGAR before starting resuscitation."** → Wrong. By 1 minute a non-breathing baby should already be **ventilated**.
+- **"Suction every baby, especially through meconium."** → Wrong. Suction **only if the airway is blocked**; no routine tracheal suction for meconium in a non-vigorous baby: **ventilate**.
+- **"The baby is gasping, so he is breathing."** → Wrong. **Gasping = not breathing**: ventilate.
+- **"HR is 50: start chest compressions immediately."** → Only after **30 s of ventilation that moves the chest**. If the chest is not rising, **fix ventilation first** (MR SOPA).
+- **"Give oxygen by face mask to a non-breathing baby."** → Wrong. Blow-by oxygen does nothing; **ventilate with room air**.
+- **"Use 1:1,000 adrenaline at 0.1 mL/kg."** → Dangerous tenfold overdose. Neonatal adrenaline is **1:10,000**.
+- **"Rub, slap, hold upside down."** → Wrong. Stimulate by **rubbing the back 2–3 times** or flicking the soles.
+- **"Baby breathing now, so he can go home tomorrow like any other."** → Wrong. A ventilated baby needs **temperature, glucose, breathing and neurological monitoring** (every 15 min for 2 h, then for 24 h) and SCBU if not normal.
+
+### Questions seniors ask
+
+1. **"What did you do in the first 30 seconds?"** Noted the time, dried thoroughly, removed the wet towel, kept warm, assessed crying and breathing.
+2. **"When did you start ventilating, and how do you know it worked?"** Before 60 s; gentle chest rise with each breath and a **rising heart rate**.
+3. **"The chest isn't rising. What next?"** Reapply the mask, reposition the head, clear the airway, open the mouth, squeeze harder (MR SOPA; alternative airway in hospital).
+4. **"What is his heart rate and how did you measure it?"** Stethoscope over the left chest, count for 6 s × 10 (the cord pulse can underestimate).
+5. **"What are you worried about in the first 24 hours after resuscitation?"** HIE and seizures, hypoglycaemia, hypothermia, sepsis, feeding difficulty, respiratory distress (meconium aspiration, pneumothorax).
+6. **"How would you grade his encephalopathy?"** Sarnat: mild (hyper-alert, normal tone), moderate (lethargic, hypotonic, weak suck, seizures), severe (stupor, flaccid, absent suck).
+7. **"When would you stop?"** No heart rate after 10 minutes of effective ventilation, or HR <60 without breathing after 20 minutes, with a senior, and with honest, supportive communication with the family.

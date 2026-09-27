@@ -100,6 +100,31 @@
       "id": "cs-f20",
       "front": "What must every woman know before discharge after CS?",
       "back": "Why she had the CS; the **type of uterine incision**; the **plan for her next birth** (HC IV/hospital; TOLAC vs ERCS); **spacing ≥18–24 months** and contraception (PPIUD, implant, BTL); danger signs; and review at 6 days and 6 weeks."
+    },
+    {
+      "id": "cs-f21",
+      "front": "List the pre-op sign-off items before a woman leaves the ward for an emergency CS.",
+      "back": "1. **Indication and urgency category** written, with the decision time\n2. **Consent** (plus separate BTL/PPIUD consent)\n3. **Anaesthetic review** (airway, fasting, platelets, clotting, anticoagulants)\n4. **Hb and group & cross-match** (2 units; 4+ for praevia, abruption, rupture, accreta)\n5. Two **16–18 G cannulae**\n6. **Foley catheter**\n7. **Antacid prophylaxis**\n8. **Antibiotic within 60 min before incision**\n9. **HIV status** and eMTCT plan\n10. **Neonatal resuscitator** called\n11. **WHO Surgical Safety Checklist**, with a repeat FHR check (and VE if fully dilated) in theatre"
+    },
+    {
+      "id": "cs-f22",
+      "front": "How do you perform and interpret the bedside clotting test?",
+      "back": "Put **2 mL of venous blood** in a small, clean, dry **plain glass tube**, hold it in your closed fist to keep it warm, tip it after **4 min**, then every minute. **No clot by 7 min**, or a soft clot that breaks down, means **coagulopathy** (e.g. DIC in abruption). Consequence: **no spinal**; prepare fresh whole blood/FFP and expect PPH."
+    },
+    {
+      "id": "cs-f23",
+      "front": "Day-1 post-CS ward review: what do you check?",
+      "back": "**Vital signs** (pulse, BP, temp, RR), then the **6 Ps**: **P**ulse/BP/temp, **P**ain, **P**allor, **P**ee (urine ≥30 mL/h, colour, catheter), **P**ad (lochia amount and smell), **P**ins (calves). Plus the **fundus** (firm, at or below the umbilicus), abdomen (distension, bowel sounds), **wound** (dressing off at 24–48 h), chest, breasts and baby, mobilisation, eating, and the **drug chart** (analgesia, thromboprophylaxis, no unnecessary antibiotics)."
+    },
+    {
+      "id": "cs-f24",
+      "front": "Causes of fever after CS, by typical day (the \"W\" list).",
+      "back": "**Wind** (chest/atelectasis): day 1–2\n**Womb** (endometritis): day 2–5\n**Water** (UTI, catheter): day 3–5\n**Wound** (SSI): **day 4–7**\n**Walking** (DVT/PE): day 5 onwards\n**Weaning** (breast engorgement/mastitis): day 3 onwards\n**Wonder drugs / drip** (drug fever, cannula phlebitis): any time\nIn Uganda, always add **malaria** (RDT or smear)."
+    },
+    {
+      "id": "cs-f25",
+      "front": "Define surgical site infection (SSI) and its three levels. How do you manage a superficial SSI after CS?",
+      "back": "Infection **within 30 days** of surgery. **Superficial incisional** (skin and fat), **deep incisional** (fascia and muscle), **organ/space** (endometritis, pelvic abscess).\nSuperficial SSI: **pus swab for culture before antibiotics**, **open the wound at the point of discharge** (remove 1–2 sutures) to drain, daily dressing, antibiotics only if there is **cellulitis or systemic illness**, guided by culture (Ugandan isolates are often ceftriaxone-resistant). Report clusters to IPC."
     }
   ],
   "mcqs": [

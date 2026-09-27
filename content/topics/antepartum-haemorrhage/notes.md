@@ -6,10 +6,14 @@ highYield:
   - "Never do a digital vaginal examination in APH until placenta praevia is excluded by ultrasound (or in theatre with everything ready for CS)."
   - "Praevia: painless, causeless, recurrent bright-red bleeding; soft non-tender uterus; high head or malpresentation; fetus usually fine."
   - "Abruption: painful bleeding, tense 'woody' tender uterus, shock out of proportion to visible loss, fetal distress or death; watch for DIC and renal failure."
+  - "Shock out of proportion to visible loss = concealed abruption or rupture: calculate the shock index (≥0.9 abnormal), mark the fundus and re-measure."
+  - "Abruption is a clinical diagnosis: a normal ultrasound does not exclude it. Do a 20-minute clotting test on arrival and repeat every 2–4 hours."
+  - "Low-lying placenta = edge <20 mm from the internal os on ultrasound after 16 weeks; praevia = covers the os. Transvaginal scan is safe and most accurate; rescan at 32 weeks."
   - "Abruption with a dead fetus: resuscitate, correct coagulopathy, and aim for vaginal delivery (ARM + oxytocin). Abruption with a live, distressed, viable fetus: urgent CS."
+  - "Planned CS: uncomplicated praevia at 36+0–37+0 weeks; suspected PAS at 35+0–36+6 weeks in a tertiary centre with 4–6 units of blood and consent for hysterectomy."
   - "Vasa praevia triad: rupture of membranes, painless bleeding, then acute fetal distress. It is fetal blood, so the baby exsanguinates quickly; emergency CS."
-  - "Previous CS plus anterior low-lying placenta or praevia = suspect placenta accreta spectrum; risk rises steeply with each previous CS."
-  - "Give steroids (dexamethasone 6 mg IM 12-hourly × 4) if delivery is likely before 34 weeks, and anti-D if Rh-negative."
+  - "Previous CS plus anterior low-lying placenta or praevia = suspect placenta accreta spectrum (about 3%, 11%, 40% and over 60% with 0, 1, 2 and 3+ previous CS)."
+  - "Give steroids (dexamethasone 6 mg IM 12-hourly × 4) if delivery is likely before 34 weeks, and anti-D within 72 h if Rh-negative."
 ---
 
 ## In a nutshell
@@ -182,6 +186,121 @@ The vessels are **fetal**, unprotected by Wharton's jelly or placenta. When the 
 > [!EXAM]
 > "A woman at 34 weeks presents with painless vaginal bleeding. What will you NOT do?" **Digital vaginal examination.** Then: "What will you do?" Resuscitate, assess mother and fetus, ultrasound for placental site, group and cross-match, and expectant or active management according to gestation and severity.
 
+## Clinical workup
+
+Every APH is assessed in the same order: **mother first, then fetus, then cause**, and always **without a digital VE** until the placenta has been located.
+
+### Step 0: First 5 minutes
+
+1. **Look at the woman and at the pads**: conscious level, pallor, sweating; how much blood, fresh or dark, clots, still flowing?
+2. **Vital signs and shock index** (HR ÷ SBP): **≥0.9 abnormal, ≥1.4 urgent**. A "normal" BP in a woman with pre-eclampsia may already be low for her.
+3. **Call for help** if bleeding is heavy, SI ≥0.9, the uterus is tense or the fetal heart is abnormal: senior midwife and doctor, anaesthetist; alert theatre and the blood bank.
+4. **Left lateral tilt**, oxygen if shocked, **two 14–16G cannulae**; draw FBC, **group and cross-match**, a **20-minute clotting tube**, U&E. Warmed crystalloid, then blood.
+5. **Quick abdominal check**: soft or woody? tender? fundal height (**mark it with a pen**). **Fetal heart** by Doppler or Pinard.
+6. **Say it out loud**: "No digital vaginal examination until praevia is excluded." Put it in the notes.
+7. **Decide the lane**: massive bleeding or maternal shock → resuscitate and **deliver** (usually emergency CS; vaginal delivery for abruption with IUFD if the mother can be stabilised); a live distressed viable fetus → category 1 CS; stable → full workup below.
+
+> [!REDFLAG]
+> Deliver or refer **now**, not after the workup, if: SI ≥1.4 or SBP <90 despite fluids; ongoing heavy bleeding; tense tender uterus with an abnormal or absent fetal heart; bleeding at membrane rupture with fetal bradycardia (vasa praevia); signs of uterine rupture; blood that does not clot.
+
+### Step 1: Focused history
+
+- [ ] **Gestational age** (LNMP, earliest scan) → viable? steroids? timing of delivery.
+- [ ] **Amount, colour, clots, number of pads, recurrence** → severity (RCOG grade); recurrent painless bright bleeds = praevia.
+- [ ] **Pain**: none, constant, colicky, back pain, sudden tearing then relief → praevia vs abruption vs labour vs rupture.
+- [ ] **Fetal movements** → reduced or absent suggests abruption or vasa praevia.
+- [ ] **Trigger**: coitus, trauma (boda-boda, assault), rupture of membranes, labour → cervical lesion/praevia; abruption; vasa praevia.
+- [ ] **Previous placental scan** (anomaly scan placental site) → known praevia or low-lying placenta changes everything.
+- [ ] **Previous CS, number and type, myomectomy** → praevia, **PAS**, rupture.
+- [ ] **Hypertension, headache, visual symptoms** → pre-eclampsia behind an abruption.
+- [ ] **In labour**: duration, oxytocin, misoprostol, **herbal medicine** → rupture.
+- [ ] **Previous APH or abruption, parity, twins** → recurrence and risk.
+- [ ] **Blood group/Rh, last Hb, HIV status, sickle cell** → anti-D, transfusion, PMTCT plan.
+- [ ] **Discharge, postcoital bleeding, last cervical screening** → local causes, cervical cancer.
+
+### Step 2: Focused examination
+
+**General**: pallor, peripheral perfusion, oedema, pulse, BP, RR, SpO₂, temperature, SI; **urine output** once catheterised.
+
+**Abdomen**:
+- **Tone and tenderness** between contractions: soft and non-tender (praevia) vs tense, tender, woody (abruption).
+- **Fundal height** against dates and against your pen mark: rising = concealed bleeding.
+- **Lie, presentation, engagement**: high head or malpresentation → praevia.
+- **Contractions**: frequent small ones (abruption); stopped contractions (rupture).
+- **Fetal parts easily felt, scar tenderness, Bandl's ring, haematuria** → rupture.
+- **Fetal heart**: rate, rhythm; absent in severe abruption.
+
+**Speculum** (only once praevia is excluded, or very gently to see the cervix if no scan is available and bleeding is minor): source of bleeding, cervical lesion (polyp, ectropion, **cancer**), dilatation, liquor, vaginal trauma.
+
+**No digital VE** until praevia has been excluded (or as a double set-up in theatre).
+
+| Document these positives | And these negatives |
+|---|---|
+| Estimated/weighed loss and when it started | "No digital VE performed" |
+| Uterine tone, tenderness, fundal height (with time) | "Uterus soft and non-tender" (or not) |
+| Lie, presentation, FHR | "No signs of rupture" |
+| BP, urine protein | "Clotting test: clot formed at __ min" |
+
+### Step 3: Bedside tests
+
+| Test | How | What it tells you |
+|---|---|---|
+| **Shock index**, pad count / weighing (1 g ≈ 1 mL) | Every set of observations | Severity; SI out of proportion to visible loss = concealed bleeding |
+| **Fetal heart**: Doppler/Pinard, then **CTG** if viable and available | Continuous if abruption suspected | Distress, bradycardia; **sinusoidal pattern** suggests fetal anaemia (vasa praevia) |
+| **Bedside ultrasound** (skilled operator) | Placental site, FH, lie, liquor | Excludes praevia so you can examine; confirms viability; retroplacental clot only sometimes seen |
+| **HemoCue / point-of-care Hb** | | Baseline; will fall further with concealed loss |
+| **20-minute whole blood clotting test** | 2 mL in a dry glass tube | No clot at 20 min = DIC; in abruption **repeat every 2–4 h** |
+| **Urine dipstick** (protein) and BP | | Pre-eclampsia as the cause of abruption |
+| **Urine output** via catheter | Hourly | <30 mL/h = hypovolaemia or AKI |
+| **Apt (alkali denaturation) test** on vaginal blood | Only if it does not delay delivery | Fetal haemoglobin = vasa praevia |
+| **Malaria RDT** if febrile | | Common co-morbidity in Uganda |
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Ultrasound, transabdominal** | Every APH once stable | Placental site and lower edge; fetal viability, lie, growth, liquor | Praevia confirmed → no VE, admit to CEmONC; placenta high → speculum and look for other causes. HC IV if a sonographer is present; all hospitals |
+| **Transvaginal ultrasound** (± colour Doppler) | Placenta low on abdominal scan; suspected vasa praevia | Edge **<20 mm** from os = low-lying; covering os = praevia; vessels over the os = vasa praevia | Plans mode and timing of delivery; TVS is **safe** in praevia. RRH/NRH/private mostly |
+| **PAS signs on ultrasound** (loss of clear zone, lacunae, bladder-wall vascularity) | Praevia or low-lying placenta **over a CS scar** | Suspicious for accreta/increta/percreta | Refer to a tertiary centre (Mulago/Kawempe, Mengo, RRH with specialists); plan CS at 35+0–36+6 weeks with 4–6 units; MRI rarely available |
+| **FBC** | All | Hb; platelets <100 × 10⁹/L (DIC, HELLP) | Transfusion; iron; platelet transfusion if low and bleeding |
+| **Group and cross-match; Rhesus** | All | Group; 2–4 units (4–6 if PAS) | Blood ready; **anti-D** within 72 h if Rh-negative |
+| **PT/APTT, fibrinogen** | Suspected abruption, IUFD, clotting test abnormal | Prolonged times; **fibrinogen <2 g/L** | FFP, cryoprecipitate; fresh whole blood if components unavailable. RRH/NRH, often not at night |
+| **Creatinine, urea, electrolytes; uric acid** | Abruption, pre-eclampsia, oliguria | Rising creatinine (above ~80–90 µmol/L in pregnancy) | AKI: strict fluid balance, avoid overload; renal review |
+| **LFTs** | Hypertension, low platelets | Raised transaminases | HELLP; MgSO₄, delivery |
+| **Kleihauer–Betke** | Rh-negative after APH ≥20 weeks; trauma | Size of fetomaternal haemorrhage | Extra anti-D (UK practice); rarely available in Uganda, where the 1,500 IU vial is used |
+| **CTG** | Viable fetus, all APH | Abnormal trace, sinusoidal pattern | Timing and urgency of delivery. Hospitals; many HC IVs have Doppler only |
+| **Cervical cytology, VIA, biopsy** | Visible cervical lesion | Dysplasia or cancer | Biopsy is safe in pregnancy; refer to gynae-oncology |
+| **HVS / swabs** | Discharge, cervicitis | Infection | Syndromic or targeted treatment |
+
+### Step 5: Putting it together
+
+**Model one-line summary**
+> "A 30-year-old G4P3 with two previous CSs at 33 weeks, with her second painless bright-red APH of about 200 mL, now settled; haemodynamically stable (SI 0.74), soft non-tender uterus, breech, FHR 140; ultrasound shows an anterior major praevia with features suspicious for PAS."
+
+**Problem list**
+1. Major placenta praevia, recurrent APH, currently stable.
+2. Suspected placenta accreta spectrum (two previous CSs, anterior praevia).
+3. Preterm (33 weeks): steroids.
+4. Anaemia (Hb 9.4 g/dL): iron, blood reserved.
+5. Rh status and anti-D; social: distance from hospital.
+
+**Working diagnosis**: *placenta praevia (major, anterior) with suspected PAS, for expectant management and planned CS at 35–36 weeks in a tertiary centre.*
+
+> [!EXAM]
+> **Worked example 1: ultrasound placental localisation.**
+> - Anomaly scan at 20 weeks: "posterior placenta, lower edge 10 mm from internal os." → **Low-lying** (<20 mm). No action now except advice to come in with any bleeding. **Rescan at 32 weeks** (TVS); most will "migrate" as the lower segment forms.
+> - 32-week TVS: edge now **25 mm** from the os, cephalic, no bleeding → no longer low-lying; **vaginal birth can be planned**.
+> - If it had been **covering the os** at 32 weeks → **placenta praevia**: no VE, counsel, admit if it bleeds, **planned CS at 36+0–37+0 weeks** (earlier, 35+0–36+6, if PAS is suspected).
+> - Same report **with a previous CS scar and an anterior placenta** → look actively for **PAS** signs; refer.
+
+> [!EXAM]
+> **Worked example 2: shock index and the concealed bleed.**
+> A woman at 35 weeks with pre-eclampsia arrives with 150 mL of dark blood on her pad. Pulse **124**, BP **100/70** → **SI 1.24**. That is far more shock than 150 mL could cause → **concealed abruption**. Her fundal height, marked at **34 cm** on arrival, is **36 cm** an hour later (still bleeding behind the placenta). Fetal heart absent.
+> Clotting test at arrival: **clot at 12 minutes** (normal, but repeat every 2–4 h). At 4 h: **no clot at 20 minutes**; platelets **68 × 10⁹/L**, fibrinogen **1.5 g/L** → **DIC**. Plan: transfuse (red cells, FFP, cryoprecipitate or fresh whole blood), ARM + oxytocin for vaginal delivery, MgSO₄, urine output hourly, and prepare for PPH.
+
+> [!UGANDA]
+> At a HC III without ultrasound, the workup stops at Step 3: resuscitate, check the fetal heart and BP, **no VE**, first dose of dexamethasone if preterm, and **refer** with an escort, IV running and relatives ready to donate blood. Write in the referral note what you did **not** do (no VE) as well as what you did.
+
 ## Differential diagnosis
 
 | Condition | Distinguishing features | Key investigation |
@@ -198,19 +317,12 @@ The vessels are **fetal**, unprotected by Wharton's jelly or placenta. When the 
 
 ## Investigations
 
-| Test | What you are looking for | Why |
-|---|---|---|
-| **FBC** (Hb, platelets) | Anaemia; low platelets (DIC, HELLP) | Baseline and transfusion needs |
-| **Group and cross-match** (2–4 units; 4–6 if PAS) | Blood availability | Major bleeding is likely |
-| **Rhesus** status | Rh-negative | **Anti-D** within 72 h |
-| **Bedside 20-min clotting test**; PT/APTT/fibrinogen | Coagulopathy | DIC in abruption |
-| **Urinalysis** for protein; LFTs, creatinine, urate | Pre-eclampsia/HELLP; renal function | Common cause of abruption; AKI |
-| **Kleihauer–Betke** (where available) | Fetal cells in maternal blood | Anti-D dosing in Rh-negative women; large FMH in trauma |
-| **Ultrasound** | Placental location (praevia vs low-lying), PAS signs, fetal viability, growth, presentation, liquor, retroplacental clot (insensitive) | Diagnosis of praevia, plan for delivery |
-| **Transvaginal ultrasound with colour Doppler** | Vessels over the os (vasa praevia); distance of placental edge from os | More accurate than transabdominal; safe in praevia |
-| **CTG / fetal heart monitoring** | Distress, sinusoidal pattern | Timing of delivery |
-| **Urine output** (catheter) | <30 mL/h | Renal perfusion |
-| **Malaria test, HIV status** | Co-morbidities | Uganda context |
+The full test table with Ugandan availability is in **Clinical workup, Step 4** above. Key principles:
+
+1. **Ultrasound before any digital VE.** It answers the most important question (where is the placenta?) and confirms fetal life. Transvaginal scanning is safe in praevia.
+2. **A normal scan does not exclude abruption.** Retroplacental clots are often invisible; abruption is diagnosed clinically.
+3. **Serial, not single, tests in abruption**: repeat the 20-minute clotting test every 2–4 h, re-measure the fundal height, and follow Hb and urine output hourly to detect ongoing concealed loss and DIC.
+4. **Don't delay delivery for a test** when the mother is shocked or the fetus is distressed (e.g. Apt test in suspected vasa praevia).
 
 ## Management
 
@@ -388,3 +500,68 @@ Manage according to **fetal viability, fetal condition and maternal condition**.
 - **"Vasa praevia: ROM → bleed → brady."**
 - **Rupture: "SHOCKED"**: **S**car or obstructed labour, **H**aematuria, **O**utlines of fetus easily felt, **C**ontractions cease, **K**nocked-back (receding) presenting part, **E**xcruciating pain then relief, **D**isappearing fetal heart.
 - **"VE = Very Evil"** until praevia is excluded.
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| APH gestation threshold | **≥28 weeks** (Uganda); **≥24+0 weeks** (RCOG). Check your unit's definition |
+| RCOG severity | Spotting; minor **<50 mL**; major **50–1000 mL**, no shock; massive **>1000 mL and/or shock** |
+| Low-lying placenta | Edge **<20 mm** from the internal os (after 16 weeks) |
+| Rescan a low placenta | At **32 weeks** (TVS), and at 36 weeks if still low |
+| Planned CS: praevia | **36+0–37+0 weeks** |
+| Planned CS: suspected PAS | **35+0–36+6 weeks**, 4–6 units, hysterectomy consent |
+| PAS risk with praevia | About **3% / 11% / 40% / >60%** with 0 / 1 / 2 / 3+ previous CS |
+| Frequency | Abruption ~**1%** of pregnancies; praevia ~**1 in 200** at term |
+| Abruption recurrence | About **10%** |
+| Fetal death in abruption | Usually **>50% separation**, maternal loss often **>1.5 L** |
+| DIC in severe abruption | About **10–20%** |
+| Clotting test in abruption | 2 mL in a dry glass tube, **no clot at 20 min** = DIC; repeat **every 2–4 h** |
+| Shock index | **≥0.9 abnormal; ≥1.4 urgent** |
+| Cross-match | **2–4 units** (4–6 if PAS or massive bleeding) |
+| Dexamethasone | **6 mg IM 12-hourly × 4** if delivery likely before 34 weeks |
+| MgSO₄ neuroprotection | **<32 weeks**: 4 g IV over 20–30 min, then 1 g/h |
+| Anti-D | Within **72 h**: 1,500 IU (300 µg) IM (usual Ugandan vial) or 500 IU + Kleihauer (UK) |
+| TXA | **1 g IV over 10 min**, repeat once after 30 min if bleeding (major haemorrhage/PPH) |
+| Vasa praevia | Fetal blood volume **80–100 mL/kg**; planned CS at **34–36 weeks** if diagnosed antenatally |
+| Urine output | **≥30 mL/h** |
+| Catheter after bladder repair (rupture) | **7–14 days** |
+
+### Classic exam traps
+
+- **"Do a VE to assess the cervix."** Never, until praevia is excluded by ultrasound.
+- **"The scan is normal, so it isn't an abruption."** Ultrasound misses most retroplacental clots; abruption is clinical.
+- **"BP 110/70, so she isn't shocked."** Look at the pulse and shock index; in a pre-eclamptic woman this BP may already be low.
+- **"Only 150 mL on the pad."** In abruption the visible loss underestimates the real loss; mark and re-measure the fundus.
+- **"Tocolyse the abruption to gain time for steroids."** No tocolysis in suspected abruption or heavy bleeding.
+- **"Abruption with IUFD needs an urgent CS."** Usually no: resuscitate, correct clotting and aim for vaginal delivery (ARM + oxytocin); CS for maternal indications.
+- **"Couvelaire uterus → hysterectomy."** No; it usually contracts.
+- **Forgetting anti-D, steroids and the high risk of PPH** after both praevia and abruption.
+
+### Questions seniors ask
+
+**What will you NOT do in this woman with APH, and why?**
+A digital VE, because a finger through the os into a praevia can cause torrential bleeding.
+
+**How do you tell praevia from abruption at the bedside?**
+Pain and uterine tone: painless with a soft uterus and a high or malpresenting part = praevia; painful, tense, tender uterus with fetal distress and shock out of proportion = abruption.
+
+**Her pad shows 150 mL but her pulse is 124. What is going on?**
+Concealed haemorrhage, most likely abruption (or rupture). Resuscitate, cross-match, clotting test, mark the fundal height and prepare to deliver.
+
+**What is a low-lying placenta, and what will you do about it at 20 weeks?**
+Edge less than 20 mm from the internal os; advise her to come in with any bleeding and rescan at 32 weeks by TVS.
+
+**When would you deliver a woman with placenta praevia?**
+Immediately if bleeding is heavy or she or the fetus is compromised; otherwise a planned CS at 36+0–37+0 weeks (35+0–36+6 if PAS is suspected).
+
+**Why do you repeat the clotting test in abruption?**
+DIC can develop over hours, especially with fetal death; repeat every 2–4 h and correct with blood products or fresh whole blood.
+
+**What must every Rh-negative woman with APH receive?**
+Anti-D within 72 hours (1,500 IU IM where that vial is stocked), plus a Kleihauer where available.
+
+**What would make you suspect vasa praevia?**
+Bleeding at membrane rupture with a well mother and sudden fetal bradycardia or a sinusoidal trace; deliver by immediate CS.

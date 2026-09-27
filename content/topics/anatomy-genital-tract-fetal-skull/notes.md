@@ -10,6 +10,10 @@ highYield:
   - The main uterine supports are the cardinal (transverse cervical/Mackenrodt's) and uterosacral ligaments plus levator ani. The round and broad ligaments are not significant supports.
   - The pudendal nerve (S2–S4) passes behind the ischial spine and supplies the perineum. Uterine pain in the first stage travels via T10–L1.
   - The ovarian artery comes from the aorta (L2). The right ovarian vein drains into the IVC and the left into the left renal vein. Ovarian lymph drains to the para-aortic nodes.
+  - Engagement means the biparietal diameter (9.5 cm) has passed the brim, which is 2/5 or less of the head palpable abdominally. Abdominal fifths cannot be fooled by caput, so believe the abdomen over the VE station.
+  - Moulding is graded 0 to +3. Moulding +3 (bones overlapping and irreducible) with a high head (3/5 or more palpable) means CPD or obstruction, so do a CS, not oxytocin or ventouse.
+  - Clinical pelvimetry is adequate if the sacral promontory is not reached, the sacrum is hollow, the spines are not prominent, the subpubic angle admits 2 fingers and the intertuberous diameter admits 4 knuckles.
+  - The best evidence of an adequate pelvis is a previous vaginal delivery of a good-sized baby. X-ray pelvimetry is not recommended routinely.
 ---
 
 ## In a nutshell
@@ -314,6 +318,127 @@ About **10 cm** long, running in the upper free border of the broad ligament. Th
 - **Pitfall:** pushing a brow presentation through with oxytocin. It will not deliver: 13 cm will not pass a 10–11 cm pelvis.
 - **Surgery:** at CS, reflect the **bladder** down from the lower segment and make the incision **transverse in the LUS**. For lateral extensions, **place the fingers under the broad ligament and identify the ureter**.
 
+## Clinical workup
+
+The applied workup of this topic is the **"passage and passenger" assessment**: can this head get through this pelvis? You do it on every woman admitted in labour, again whenever progress is slow, and always before an instrumental delivery or augmentation. It is also the workup that tells you **when to stop and do a caesarean section** before the uterus ruptures or a fistula forms.
+
+### Step 0: First 5 minutes
+
+On arrival in labour (or when called to a "slow labour"):
+
+1. **Vital signs:** pulse, BP, temperature, RR. A woman in **obstructed labour** is often **tachycardic, dehydrated (dry tongue, ketones), febrile** and exhausted.
+2. **Fetal heart** with Doppler or Pinard (110–160 bpm), listening through and after a contraction.
+3. **Quick abdominal look and feel** for the emergencies that change everything:
+   - **Bandl's ring**, a tense tender lower segment, a distended bladder → **obstructed labour**.
+   - Sudden pain then contractions stop, fetal parts easily felt, shock → **uterine rupture**.
+   - Transverse lie with ruptured membranes or a prolapsed arm or cord → emergency CS.
+4. **Any vaginal bleeding before delivery?** **No digital VE** until placenta praevia is excluded (scan or examination in theatre).
+5. **If obstruction or rupture is suspected: call for help now**, two large-bore cannulae, Hb and group and cross-match, IV fluids, catheter, **stop any oxytocin**, and prepare theatre.
+
+### Step 1: Focused history
+
+| Ask | Why: the answer that changes the plan |
+|---|---|
+| **Parity and previous deliveries**: vaginal? size of the biggest baby? instrumental? | **A previous vaginal delivery of a 3.5 kg or bigger baby is the best proof of an adequate pelvis.** A primigravida has an "untested pelvis" |
+| **Previous obstructed labour, stillbirth in labour, CS for "CPD" or "failure to progress", fistula** | Suggests a small pelvis. Previous CS for CPD → usually a repeat CS (discuss with a senior) |
+| **Type of previous CS incision** (classical or lower segment) | Classical scar → rupture risk too high for labour |
+| **Childhood rickets, polio, TB spine, limp; pelvic or hip fracture** (boda boda accidents) | Bony deformity → contracted or asymmetric pelvis |
+| **Age** (adolescent) and **height** | Adolescent and under 150 cm → immature or small pelvis |
+| **Onset of labour, time of rupture of membranes, liquor colour, time pushing** | Prolonged labour and long ROM → infection, fistula risk, moulding |
+| **Estimated gestation and size** (GDM, big previous babies) | Macrosomia → relative CPD, shoulder dystocia |
+| **Previous 3rd/4th degree tear, FGM** | Perineal plan (episiotomy, repair by an experienced person) |
+
+### Step 2: Focused examination
+
+**General:** height (**below 150 cm** is a risk marker), gait and limp, spinal deformity, signs of rickets (bowed legs), hydration, pallor.
+
+**Abdominal (the passenger from above):**
+
+1. Lie, presentation, and **estimated fetal weight** (clinical estimate, SFH).
+2. **Fifths of the head palpable above the brim** (5/5 free; **2/5 or less = engaged**). This is the **most reliable measure of descent** because caput cannot fool it.
+3. Contractions: frequency per 10 minutes and duration.
+4. Bladder (distended?), Bandl's ring, tenderness of the lower segment.
+
+**Vaginal examination: the passenger** (after hand hygiene, consent, and with a chaperone):
+
+| Feature | How to assess | Normal / reassuring | Worrying |
+|---|---|---|---|
+| **Cervix** | Dilatation, effacement, application | Well applied, dilating at about 1 cm/h in active labour | **Oedematous, loosely applied**, stalled dilatation |
+| **Presenting part** | Vertex, face, brow, breech | Vertex | **Brow** (anterior fontanelle + supraorbital ridges + root of nose) |
+| **Position** | Follow the sagittal suture to a fontanelle; **count its sutures (3 = posterior, 4 = anterior)** | OA (small Y-shaped posterior fontanelle anteriorly) | OP; sagittal suture still transverse at or below the spines in the second stage (deep transverse arrest) |
+| **Attitude** | Which fontanelle is easiest to feel | Only the posterior fontanelle felt (well flexed, 9.5 cm) | Anterior fontanelle easily felt (deflexed, 11.5 cm) |
+| **Station** | Bony leading part relative to the ischial spines | Descending with time (−2 → 0 → +2) | No descent; station "low" only because of **caput** |
+| **Moulding** | Parietal bones at the sagittal suture; occipital bone at the lambdoid suture | 0 or +1 | **+3 (overlapping, irreducible)** |
+| **Caput** | Scalp oedema over the presenting part | None or small | Large caput with a high head |
+| **Liquor** | Colour and smell | Clear | Meconium, blood, offensive |
+
+**Vaginal examination: the passage (clinical pelvimetry)**, best done at the first VE in labour or at 36 weeks:
+
+| Feature | Technique | Adequate | Suggests a contracted pelvis |
+|---|---|---|---|
+| **Diagonal conjugate** | Try to reach the sacral promontory with the middle finger | **Promontory not reached** (diagonal conjugate about 12.5 cm or more) | Promontory easily reached |
+| **Sacral curve** | Run the fingers down the sacrum | Hollow, well curved | Flat or forward-projecting sacrum |
+| **Side walls** | Sweep laterally | Parallel | Converging |
+| **Ischial spines** | Feel both | Blunt, not prominent (interspinous about 10 cm or more) | **Prominent, close together** (android) |
+| **Sacrospinous ligament** | Fingers from spine to sacrum | Admits **2 fingers or more** | Narrow |
+| **Subpubic angle** | Two fingers under the pubic arch | Admits **2 fingers** (about 90°) | Narrow (below 2 fingers) |
+| **Intertuberous diameter** | Closed fist between the ischial tuberosities (outside) | **4 knuckles** (about 8.5 cm or more) | Fewer than 4 knuckles |
+| **Coccyx** | Press backwards | Mobile | Fixed, forward-angled |
+
+> [!EXAM]
+> In the OSCE, describe pelvimetry in the order **inlet → cavity → mid-pelvis → outlet**: promontory, sacral curve and side walls, spines and sacrospinous ligament, then subpubic angle, intertuberous diameter and coccyx. Finish with "**clinically adequate pelvis**" or "**clinically contracted at the ... level**".
+
+### Step 3: Bedside tests
+
+| Test | What you look for | How it changes the plan |
+|---|---|---|
+| **Partograph** (start in active labour, cervix 4 cm or more on the modified WHO partograph) | Cervicograph against the alert and action lines; descent in fifths ("O"); **moulding** and liquor with each VE | Crossing the **action line** → full clinician assessment for CPD. **Dilatation stalling + no descent + moulding +3 = obstruction** → CS, not oxytocin |
+| **Doppler / Pinard FHR** | 110–160 bpm; decelerations after contractions | Fetal distress with obstruction → urgent CS |
+| **Urine** (catheter or void) | **Ketones** (dehydration), **blood** (bladder compression in obstruction), volume | Haematuria in labour = bladder under pressure → obstruction until proven otherwise; catheterise |
+| **HemoCue Hb** | Baseline before likely CS | Below 7 g/dL → blood ready before theatre |
+| **Bedside ultrasound** (if trained) | Fetal spine and **orbits** show position (orbits anterior = OP); presentation; FHR | Confirms OP, face or brow when the VE is unclear because of caput |
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management (and Ugandan availability) |
+|---|---|---|---|
+| **Obstetric ultrasound** | Uncertain presentation (brow, face, breech), high head at term in a primigravida, suspected macrosomia or placenta praevia | Presentation, position, estimated fetal weight, placental site, liquor | Brow at term or praevia → CS; macrosomia → senior plan. HC IV (often) and all hospitals |
+| **Intrapartum ultrasound for head position** | Second stage, before instrumental delivery if position unclear | Occiput position (OA/OP/OT) | Wrong position is a common cause of failed ventouse. Mainly referral hospitals |
+| **Hb and group and cross-match** | Obstructed labour, likely CS, previous CS | Hb; blood available | Anaemia plus likely haemorrhage → have 2 units ready. HC IV and hospitals |
+| **Full blood count, blood culture** | Prolonged labour with fever | Raised WCC (interpret with labour norms), bacteraemia | Sepsis antibiotics (ampicillin + gentamicin ± metronidazole). Culture at regional/national referral |
+| **Urea and electrolytes, creatinine** | Prolonged obstructed labour, dehydration, oliguria | Raised creatinine (above about 90 µmol/L in pregnancy), low potassium | Fluid resuscitation, catheter, watch renal function. Hospital labs |
+| **X-ray / CT pelvimetry** | **Not routine** (no proven benefit); occasionally after a pelvic fracture or before planning birth with known deformity | Measured diameters | Rarely changes practice; labour itself is the best pelvimeter. CT at national referral/private centres |
+| **Dye test (methylene blue) / examination under anaesthesia** | Leaking urine after obstructed labour | Fistula site and size | Continuous catheter for 10–14 days (small fresh fistula may heal); referral to a fistula repair centre (e.g. Mulago, Kitovu Hospital, or regional fistula camps) |
+
+### Step 5: Putting it together
+
+**Model one-line summary:**
+
+> "Ms A.T., 17-year-old primigravida, **height 146 cm**, at term, **in labour for 14 hours**, membranes ruptured 9 hours ago with clear liquor. Pulse 108, T 37.6°C, ketones 2+. **Head 3/5 palpable**, cervix **7 cm for the last 4 hours** (crossed the action line), **oedematous**, OT position, station −1, **moulding +3, caput ++**. Pelvimetry: promontory reached, spines prominent, subpubic angle 1.5 fingers. FHR 150 with no decelerations."
+
+**Problem list:** 1) arrest of the active phase with signs of **cephalopelvic disproportion**; 2) contracted pelvis clinically (adolescent, short stature); 3) maternal dehydration and early infection risk (tachycardia, ROM 9 hours); 4) fistula and uterine rupture risk.
+
+**Working diagnosis:** "Obstructed labour secondary to **CPD** in a primigravida with a clinically contracted pelvis." **Plan:** no oxytocin; IV fluids, catheter, antibiotics, Hb and cross-match; **emergency lower-segment CS**; keep the catheter for 10–14 days after delivery.
+
+**Worked example 1: reading a head that "looks low"**
+
+| Finding | Reading |
+|---|---|
+| VE: "vertex at station +2" | Sounds as if the head is deep in the pelvis |
+| But: **large caput ++**, **moulding +3**, sutures hard to feel | The fingertip is on **scalp oedema**, not bone |
+| Abdomen: **head 3/5 palpable** | The widest diameter has **not** passed the brim, so the head is **not engaged** |
+| **Conclusion** | The head is high and obstructed. **Not suitable for ventouse** (needs 1/5 or less palpable and bony station at or below the spines). Deliver by CS |
+
+**Worked example 2: OP or deep transverse arrest, and what the anatomy tells you**
+
+A multipara has been fully dilated for 2 hours (pushing for 1 hour). The head is **0/5–1/5 palpable**, bony station **+1**, the **sagittal suture is transverse**, moulding +1, contractions 4 in 10 minutes.
+
+- The head is **engaged and at or below the spines** with little moulding, so this is **not obstruction**. It is a **deep transverse arrest**: the head has failed to rotate at the mid-pelvis (often an android pelvis with prominent spines or weak pelvic floor rotation).
+- Management: an experienced operator may try **ventouse** (with a posterior/OP cup placed at the flexion point, allowing autorotation) or manual rotation; otherwise CS. Compare this with example 1, where the head was **3/5 palpable with +3 moulding**: that is obstruction, and any vaginal attempt would be dangerous.
+
+> [!PEARL]
+> The abdominal **fifths** tell you where the **bone** is; the VE station can be fooled by caput. When the two disagree, **believe the abdomen** and assume the head is higher than it feels.
+
 ## Differential diagnosis
 
 ### What is the presenting part on VE?
@@ -339,14 +464,7 @@ About **10 cm** long, running in the upper free border of the broad ligament. Th
 
 ## Investigations
 
-| Test | What you are looking for | Why |
-|---|---|---|
-| **Clinical pelvimetry** (VE) | Diagonal conjugate, spines, sacral curve, subpubic angle, intertuberous diameter | A bedside estimate of pelvic adequacy (limited predictive value; labour itself is the best test) |
-| **Abdominal palpation in fifths** | Head engaged (2/5 or less) | Correlates with the VE station |
-| **Partograph** | Cervicograph crossing the action line, moulding, descent | Detects CPD/obstruction early |
-| **Ultrasound** | Presentation, position (orbits, spine), biparietal diameter, placenta | Confirms an uncertain presentation (brow, face, breech) |
-| **X-ray / CT pelvimetry** | Pelvic diameters | **Not recommended routinely** (it does not improve outcomes); occasionally used after a pelvic fracture |
-| **Cystoscopy / dye test** (methylene blue) | Vesicovaginal fistula | Assessment of fistula after obstructed labour |
+The investigations for this topic are mostly **clinical**: abdominal fifths, VE with clinical pelvimetry, and the partograph. They are set out, with their interpretation and Ugandan availability, in **Clinical workup, Steps 2–4** above. Remember that **X-ray or CT pelvimetry is not recommended routinely** (it does not improve outcomes), and that **labour itself is the best test of the pelvis**. After obstructed labour, a **methylene blue dye test** (with cystoscopy at a fistula centre) assesses a suspected vesicovaginal fistula.
 
 ## Management
 
@@ -455,3 +573,59 @@ This lecture underpins management in labour and surgery. The practical applicati
 - **Ovarian veins: "Right goes Right to the IVC, Left takes a Left turn to the renal vein."**
 - **Tube parts, medial to lateral: "In Is A Fine tube"** = **In**terstitial, **Is**thmus, **A**mpulla, **F**imbriae (with the infundibulum). Ectopics are commonest in the **A**mpulla.
 - **Uterine supports: "a CUP holds the uterus"**: **C**ardinal, **U**terosacral, **P**ubocervical ligaments, sitting on the **P**elvic floor (levator ani). The round and broad ligaments are not supports.
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Inlet diameters | AP (obstetric conjugate) **about 11 cm** (10.5–11); oblique **12 cm**; transverse **13 cm** (widest) |
+| Diagonal conjugate | About **12.5 cm**; obstetric conjugate ≈ diagonal − **1.5 cm** |
+| Interspinous diameter | About **10 cm**: the narrowest part; station 0 |
+| Outlet diameters | AP **13 cm** (coccyx back; widest); intertuberous **11 cm** |
+| Subpubic angle (gynaecoid) | About **90°** (admits 2 fingers) |
+| Suboccipitobregmatic (flexed vertex) | **9.5 cm** |
+| Suboccipitofrontal (partly flexed) | **10 cm** |
+| Occipitofrontal (deflexed / OP) | **11.5 cm** |
+| Mentovertical (brow) | **13–13.5 cm**: no vaginal delivery at term |
+| Submentobregmatic (face) | **9.5 cm** |
+| Biparietal / bitemporal | **9.5 cm** / **8 cm** |
+| Moulding reduces the engaging diameter by | Up to about **1 cm** |
+| Anterior / posterior fontanelle closure | About **18 months** / about **6–8 weeks** |
+| Engaged | Head **2/5 or less** palpable abdominally |
+| Ventouse prerequisite | Head **1/5 or less** palpable; bony station at or below the spines |
+| Uterine artery crosses the ureter | **1.5–2 cm lateral** to the cervix, at the internal os |
+| Pudendal nerve | **S2–S4**; block just medial and posterior to the **ischial spine** |
+| Labour pain pathways | First stage **T10–L1**; second stage **S2–S4** |
+| Lidocaine without adrenaline (max) | **3 mg/kg** (about 200 mg) |
+| Mediolateral episiotomy | About **60°** from the midline at crowning |
+| Catheter after obstructed labour | **10–14 days** |
+| Scar rupture risk | Lower segment about **0.5–1%**; classical about **4–9%** |
+
+### Classic exam traps
+
+- **"The pelvic inlet is widest AP."** → The inlet is widest **transversely** (13 cm); the **outlet** is widest AP. That is why the head enters OT and delivers OA.
+- **"The fontanelle I feel is large, so it is the posterior one near the symphysis: OA."** → **Count the sutures**: 4 = anterior (diamond), 3 = posterior (Y). Feeling the anterior fontanelle easily means **deflexion/OP**, not OA.
+- **"The head is at +2, so ventouse is fine."** → Check the **abdominal fifths**. A big caput can reach +2 while the bony head is still 3/5 palpable. Ventouse needs **1/5 or less** palpable.
+- **"Poor progress, so start oxytocin."** → First exclude **obstruction** (moulding +3, high head, Bandl's ring, haematuria). Oxytocin into an obstructed uterus causes **rupture**.
+- **"Brow presentation: augment and wait."** → Mentovertical 13–13.5 cm exceeds every pelvic diameter: **CS at term** unless it converts spontaneously.
+- **"The round and broad ligaments hold the uterus up."** → The **cardinal and uterosacral ligaments** and **levator ani** are the supports.
+- **"The ureter runs above the uterine artery."** → The ureter runs **under** it ("water under the bridge"), 1.5–2 cm lateral to the cervix.
+- **"Cephalhaematoma crosses the sutures."** → **Caput** and **subgaleal haemorrhage** cross sutures; a cephalhaematoma is **limited by them**.
+
+### Questions seniors ask
+
+**How do you know the head is engaged?** Abdominally, **2/5 or less** is palpable above the brim; vaginally, the bony leading part is at or near the spines. Engagement means the biparietal diameter (9.5 cm) has passed the inlet.
+
+**Show me how you do clinical pelvimetry.** Promontory (not reached), sacral curve (hollow), side walls (parallel), spines (not prominent), sacrospinous ligament (2 fingers), subpubic angle (2 fingers, about 90°), intertuberous diameter (4 knuckles), coccyx (mobile).
+
+**On VE you feel a diamond-shaped fontanelle anteriorly. What is the position, and why does it matter?** The anterior fontanelle anteriorly means **occipito-posterior** with **deflexion**: the occipitofrontal diameter (11.5 cm) presents, so expect a longer labour, backache and a higher chance of instrumental delivery or CS.
+
+**What are the signs of obstructed labour?** Prolonged labour, **head 3/5 or more palpable** at full dilatation, **moulding +3**, large caput, oedematous cervix, **Bandl's ring**, haematuria, maternal tachycardia, fever and dehydration, and fetal distress.
+
+**Where can you injure the ureter at CS?** Under the uterine artery 1.5–2 cm lateral to the cervix (lateral extensions, uterine artery ligation), at the **pelvic brim**, and near the **infundibulopelvic ligament**.
+
+**Why do we keep a catheter for 10–14 days after obstructed labour?** Prolonged compression of the bladder base between head and pubis causes ischaemic necrosis. Continuous drainage rests the bladder and can let a small early fistula heal.
+
+**Why does the head rotate to OA?** The occiput is the first part to meet the gutter-shaped **levator ani**, which guides it forwards; the **outlet is widest AP**, so the head's longest diameter aligns AP to exit.
