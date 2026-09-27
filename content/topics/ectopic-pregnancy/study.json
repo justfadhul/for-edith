@@ -105,6 +105,31 @@
       "id": "ect-f21",
       "front": "Expectant management criteria for tubal ectopic",
       "back": "Stable, **pain-free**, mass **<35 mm no heartbeat**, **hCG low and falling** (NICE offers it at ≤1,000 IU/L, consider 1,000–1,500; RCOG <1,500), can return; hCG days 2, 4, 7 (≥15% fall each)."
+    },
+    {
+      "id": "ect-f22",
+      "front": "PUL: hCG 800 IU/L at 0 h and 1,040 IU/L at 48 h. Interpret and act.",
+      "back": "Rise of **30%** (below 63%): **suboptimal**, so **suspect ectopic**. Senior review and repeat **TVUS within 24 h**; safety-net advice."
+    },
+    {
+      "id": "ect-f23",
+      "front": "Stable woman: empty uterus on TVUS, 24 mm adnexal mass, no heartbeat, hCG 2,400 IU/L. Options (NICE)?",
+      "back": "hCG is above the discriminatory zone, so this is an **ectopic**. With hCG **1,500–5,000 IU/L**, offer a **choice of methotrexate 50 mg/m² IM or surgery**. In most Ugandan hospitals, surgery (salpingectomy) is the safer default."
+    },
+    {
+      "id": "ect-f24",
+      "front": "Positive pregnancy test, pulse 124, BP 90/60, free fluid in Morison's pouch. Next steps?",
+      "back": "**Ruptured ectopic.** Call theatre and anaesthetist, O₂, two 14–16 G cannulae, **crossmatch 4 units**, warmed crystalloid 500 mL–1 L, permissive hypotension (SBP 80–90), catheter, consent and **emergency laparotomy + salpingectomy**. No formal scan, no vigorous bimanual."
+    },
+    {
+      "id": "ect-f25",
+      "front": "Tests required before giving methotrexate for ectopic",
+      "back": "**FBC, LFTs, creatinine**, baseline **serum hCG**, **group and Rhesus**, and a TVUS confirming **no intrauterine pregnancy**. Abnormal results mean surgery instead."
+    },
+    {
+      "id": "ect-f26",
+      "front": "Is a normal BP reassuring in a young woman with suspected ectopic?",
+      "back": "**No.** Young women compensate until about **30–40% blood loss**, then BP falls suddenly. Use pulse, pallor, a **shock index of 0.9 or more** (critical 1.4) and a **falling Hb**; some are bradycardic from peritoneal blood."
     }
   ],
   "mcqs": [

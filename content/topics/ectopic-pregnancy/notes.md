@@ -4,12 +4,16 @@ summary: An ectopic pregnancy implants outside the endometrial cavity, over 95% 
 highYield:
   - "Every woman of reproductive age with abdominal pain, abnormal bleeding or collapse needs a pregnancy test. A positive test with an empty uterus means ectopic until proven otherwise."
   - "Classic triad: amenorrhoea of 6–8 weeks, abdominal pain (often before the bleeding) and scanty dark vaginal bleeding. Shoulder-tip pain and fainting mean haemoperitoneum."
+  - "Young women keep their BP until late: tachycardia, pallor, a falling Hb and a shock index of 0.9 or more (critical at 1.4) matter more than a normal BP."
   - "Ruptured and unstable: resuscitate and operate at the same time. The definitive resuscitation is clamping the bleeding tube (laparotomy, then salpingectomy). Do not wait for the BP to normalise."
-  - "Discriminatory zone: once serum hCG is above about 1,500 IU/L (up to 3,500 by some authorities), a transvaginal scan should see an intrauterine sac."
+  - "Shocked + positive pregnancy test + peritonism = theatre. Crossmatch 4 units; do not send her for a formal scan or do a vigorous bimanual."
+  - "Discriminatory zone: once serum hCG is above about 1,500 IU/L (up to 3,500 by some authorities), a transvaginal scan should see an intrauterine sac (about 6,500 IU/L for a transabdominal scan)."
+  - "PUL hCG at 0 and 48 h: rise over 63% suggests an IUP; fall over 50% suggests a failing pregnancy; anything in between needs senior review and TVUS within 24 h."
   - "Methotrexate 50 mg/m² IM single dose (NICE first-line): stable, no significant pain, unruptured, mass under 35 mm, no heartbeat, hCG under 1,500 IU/L (can be offered up to 5,000), no intrauterine pregnancy, able to follow up. Check hCG on days 4 and 7 and expect a fall of 15% or more."
+  - "Surgery if significant pain, mass 35 mm or more, fetal heartbeat, hCG 5,000 IU/L or more, or she cannot return. In most Ugandan hospitals laparotomy and salpingectomy remain standard."
   - "Salpingectomy if the other tube is healthy; salpingotomy if the other tube is damaged or absent and she wants fertility. After salpingotomy, follow hCG because trophoblast can persist."
-  - "Main risk factor in Uganda: tubal damage from PID (chlamydia, gonorrhoea, post-abortal and postpartum sepsis). Recurrence is about 10%, so scan early in every future pregnancy."
-  - "Give anti-D to Rh-negative women having surgery; offer contraception and counselling after."
+  - "Main risk factor in Uganda: tubal damage from PID (chlamydia, gonorrhoea, post-abortal and postpartum sepsis). Recurrence is about 10%, so scan early (6–7 weeks) in every future pregnancy."
+  - "Give anti-D to Rh-negative women having surgery; offer contraception and counselling after. No villi in an 'abortion' aspirate means think ectopic."
 ---
 
 ## In a nutshell
@@ -132,7 +136,7 @@ highYield:
 
 ### Examination
 
-1. **General:** **pallor**, cold clammy peripheries, restlessness. **Pulse** (tachycardia, or occasionally bradycardia), **BP** (including a postural drop), capillary refill, respiratory rate, urine output, **shock index** (≥ 1 is worrying).
+1. **General:** **pallor**, cold clammy peripheries, restlessness. **Pulse** (tachycardia, or occasionally bradycardia), **BP** (including a postural drop), capillary refill, respiratory rate, urine output, **shock index** (0.9 or more abnormal; 1.4 or more critical).
 2. **Abdomen:**
    - lower abdominal tenderness, usually unilateral;
    - **guarding and rebound**;
@@ -151,7 +155,7 @@ highYield:
 ### Red flags
 
 > [!REDFLAG]
-> - **Shock:** pulse over 100–110, systolic BP under 90, shock index ≥ 1, cold peripheries, confusion, air hunger.
+> - **Shock:** pulse over 100–110, systolic BP under 90, shock index 0.9 or more, cold peripheries, confusion, air hunger.
 > - **Syncope, shoulder-tip pain, abdominal distension, shifting dullness.** These mean haemoperitoneum.
 > - **Hb falling** on serial checks, or **free fluid in Morison's pouch** on FAST scan. The bleed is large.
 > - **Pregnancy after tubal ligation or with an IUD**, plus pain.
@@ -178,6 +182,112 @@ highYield:
   - Forgetting anti-D and contraception counselling.
   - Presenting "BP normal" as reassurance.
 
+
+## Clinical workup
+
+The two questions that drive everything are: **"Is she pregnant?"** and **"Is she bleeding into her abdomen?"** The workup below is how the gynae emergency team at Mulago, Kawempe or Mengo would approach a woman of reproductive age with abdominal pain, abnormal bleeding or collapse.
+
+### Step 0: First 5 minutes
+
+1. **Look and feel:** pale, sweaty, cold peripheries, restless or drowsy, air hunger? A distended abdomen?
+2. **Vitals now:** pulse, BP, respiratory rate, SpO₂, temperature, capillary refill, level of consciousness. **Shock index** (pulse ÷ systolic BP): **0.9 or more abnormal; 1.4 or more critical**. A normal BP does not reassure; occasionally she is **bradycardic** from peritoneal blood.
+3. **Urine pregnancy test immediately** (catheter specimen if she cannot void). It takes 3–5 minutes and decides the pathway.
+4. **If shocked or peritonitic:**
+   - **Shout for help**; call the **theatre, anaesthetist and lab** now ("ruptured ectopic, theatre now").
+   - Oxygen 10–15 L/min, lie flat, legs raised, keep warm.
+   - **Two large-bore cannulae (14–16 G)**; draw **Hb, grouping & crossmatch (4 units)**, bedside clotting test.
+   - **Warmed crystalloid 500 mL–1 L**, then reassess; **permissive hypotension** (systolic about 80–90 mmHg, conscious) until the tube is clamped. Transfuse early.
+   - Catheterise; brief consent; **straight to theatre**. Do not wait for a formal scan.
+5. **At HC III or a HC IV without a working theatre:** pregnancy test, two lines, fluids, **call ahead and refer with an escort** and blood-donor relatives.
+
+> [!REDFLAG]
+> Positive pregnancy test **plus any of**: shock index 0.9 or more, fainting, shoulder-tip pain, abdominal distension, guarding or rebound, Hb falling, or free fluid in Morison's pouch = **ruptured ectopic until proven otherwise**. Senior and theatre now.
+
+### Step 1: Focused history
+
+| Ask | Why (what changes the plan) |
+|---|---|
+| **LMP and regularity; was the last period normal?** | 6–8 weeks of amenorrhoea is typical, but about a third have no clear amenorrhoea (ectopic bleeding mistaken for a period). |
+| **Pain: site, onset, character; pain or bleeding first?** | **Unilateral pain before scanty bleeding** = ectopic; bleeding then central cramps = miscarriage. |
+| **Shoulder-tip pain, fainting, dizziness, urge to defaecate** | Haemoperitoneum: urgent theatre. |
+| **Bleeding: amount, colour, tissue** | Scanty dark "prune-juice" bleeding suggests ectopic; a decidual cast can mimic POC. |
+| **Previous ectopic, PID/STI, tubal ligation, IUD in situ, infertility treatment, pelvic surgery** | Raise pre-test probability; pregnancy with an IUD or after ligation is ectopic until proven otherwise. |
+| **Previous CS** | Caesarean scar pregnancy. |
+| **Any earlier scan showing an intrauterine pregnancy?** | A confirmed IUP makes ectopic very unlikely (except heterotopic after ovulation induction). |
+| **Fever, dysuria, diarrhoea, vomiting, migratory pain** | Alternatives: PID, UTI, gastroenteritis, appendicitis; but always the pregnancy test first. |
+| **Blood group, HIV status, allergies, last meal** | Anti-D; anaesthesia and surgery planning. |
+| **Fertility wishes, living children, state of the other tube if known** | Salpingectomy vs salpingotomy; counselling. |
+| **Distance from the hospital, phone, ability to return** | Decides whether methotrexate or expectant care is even an option. |
+
+### Step 2: Focused examination
+
+1. **General:** pallor, cold clammy peripheries, pulse, BP (including a **postural drop** if she is not shocked), capillary refill, RR, urine output.
+2. **Abdomen:** tenderness (usually unilateral), **guarding, rebound**, **distension and shifting dullness**, rarely Cullen's sign.
+3. **Speculum:** dark blood, **os closed** (open os with tissue points to miscarriage); a ballooned, barrel-shaped cervix with heavy bleeding suggests a **cervical ectopic** (do not attempt evacuation).
+4. **Bimanual** (gently, **once**, and **not in a shocked woman**):
+   - **cervical motion tenderness**;
+   - adnexal tenderness or mass;
+   - fullness in the pouch of Douglas;
+   - uterus slightly bulky but **smaller than dates**.
+
+**Document:** "pale, pulse X, BP Y, shock index Z; abdomen soft/guarded, shifting dullness present/absent; os closed, dark blood; cervical excitation present; right adnexal tenderness; uterus 6-week size."
+
+### Step 3: Bedside tests
+
+| Test | What it tells you |
+|---|---|
+| **Urine hCG** | Detects about 25 IU/L. **Negative essentially excludes ectopic** (rare chronic ectopic excepted). Positive + pain = ectopic pathway. |
+| **HemoCue / bedside Hb** | Baseline and trend; a **falling Hb** on repeat is more telling than one value. |
+| **Bedside clotting test** | No clot by 7 minutes = coagulopathy after massive bleeding. |
+| **FAST / point-of-care ultrasound** | **Free fluid in Morison's pouch** or the splenorenal space = large haemoperitoneum: theatre. Empty uterus + free fluid in a woman with a positive test is enough. |
+| **Culdocentesis or paracentesis** (where no ultrasound) | **Non-clotting blood** = haemoperitoneum. A negative tap does **not** exclude ectopic. |
+| **Urine dipstick, mRDT** | Only to look for co-existing problems; never instead of the hCG. |
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Hb / FBC** | Everyone (Hb at all levels; FBC at HC IV and above) | Low or falling Hb; platelets and WBC as baseline before methotrexate | Transfusion; a falling Hb in a "stable" woman means ongoing bleeding → surgery |
+| **Group, Rhesus, crossmatch** | Everyone; **4 units if ruptured** (HC IV and above) | Rh-negative | Blood ready for theatre; **anti-D** after surgery |
+| **Transvaginal ultrasound** (TVUS) | Stable woman with positive hCG. TVUS mainly at regional/national referral and private units; **transabdominal** at most HC IVs | **Empty uterus**; adnexal mass separate from the ovary (**tubal ring / "bagel"**, "blob"); sac with yolk sac or embryo ± **heartbeat**; **echogenic free fluid**; **pseudosac** (central fluid without a double decidual ring); IUP (excludes ectopic in most) | Locates the pregnancy; mass size (35 mm cut-off), heartbeat and free fluid choose surgery vs methotrexate vs expectant |
+| **Serum quantitative hCG** | PUL; considering methotrexate or expectant care; after salpingotomy. Referral hospitals and private labs; costly | Level vs **discriminatory zone** (TVUS about 1,500–2,000, up to 3,500 IU/L; transabdominal about 6,500 IU/L); 48 h trend | Above the zone with an empty uterus = ectopic (or recent complete miscarriage); **under 1,500** allows methotrexate; **5,000 or more** favours surgery |
+| **Repeat hCG at 48 h** | PUL | **Rise over 63%** (IUP likely); **fall over 50%** (failing); **in between** (suspect ectopic) | Rescan in 7–14 days; urine test in 2 weeks; or senior review and TVUS within 24 h |
+| **Serum progesterone** | Where available (few units) | Under 20 nmol/L suggests a failing pregnancy | Supports, but does not locate |
+| **LFTs, creatinine, FBC** | **Before methotrexate** (referral hospitals) | Must be normal | Abnormal = methotrexate contraindicated → surgery |
+| **HIV, syphilis, (chlamydia/gonorrhoea where available)** | Everyone | Positive | Linkage; treat her and her partner (PID is the main cause) |
+| **Histology of the tube** | After surgery, where available | Chorionic villi | Confirms the diagnosis; excludes trophoblastic disease |
+
+### Step 5: Putting it together
+
+**Model one-line summary:**
+> "A 24-year-old P1+0 with 7 weeks of amenorrhoea, 1 day of right iliac fossa pain followed by scanty dark bleeding, and one fainting episode; pulse 118, BP 96/60 (**shock index 1.2**), pale, with right iliac fossa guarding, **positive urine hCG**, closed os and free fluid in Morison's pouch on FAST. **Working diagnosis: ruptured right tubal ectopic pregnancy with haemoperitoneum.**"
+
+**Problem list:**
+1. Suspected ruptured ectopic with haemorrhagic shock.
+2. Anaemia (HemoCue 7.8 g/dL).
+3. Rhesus status and HIV status unknown.
+4. Future fertility and contraception.
+
+**Plan:** resuscitate, crossmatch 4 units, emergency laparotomy and salpingectomy, inspect the other tube, anti-D if Rh-negative, counselling.
+
+**Worked example 1: a stable woman with hCG above the discriminatory zone.**
+A 29-year-old at 6 weeks, mild left pain, pulse 84, BP 118/76. TVUS: **empty uterus**, **24 mm left adnexal mass separate from the ovary, no heartbeat**, a small amount of fluid in the pouch of Douglas. Serum hCG **2,400 IU/L**.
+- hCG is **above the discriminatory zone** and the uterus is empty: this is an **ectopic**, not a PUL.
+- Mass under 35 mm, no heartbeat, pain mild, hCG **between 1,500 and 5,000 IU/L**: NICE says **offer a choice of methotrexate or surgery**.
+- In most Ugandan hospitals (no methotrexate, uncertain follow-up), **laparotomy or laparoscopy and salpingectomy** is the safer choice. If she lives near a referral centre with methotrexate and reliable hCG, she could have **50 mg/m² IM** with hCG on days 4 and 7.
+
+**Worked example 2: interpreting serial hCG in a PUL.**
+A stable woman at 5 weeks, TVUS shows nothing in or outside the uterus. hCG at 0 h is **800 IU/L**.
+
+| hCG at 48 h | Change | Interpretation | Action |
+|---|---|---|---|
+| **1,400 IU/L** | Rise of 75% (over 63%) | Likely developing IUP | Rescan in 7–14 days, or when hCG passes about 1,500–2,000 IU/L |
+| **1,040 IU/L** | Rise of 30% (suboptimal) | **Suspect ectopic** | Senior review and repeat TVUS **within 24 h** |
+| **820 IU/L** | Plateau | **Suspect ectopic** | As above |
+| **350 IU/L** | Fall of 56% (over 50%) | Failing pregnancy (miscarriage) | Urine pregnancy test in 2 weeks; return if positive or symptoms |
+
+Calculate the change as **(new − old) ÷ old × 100**. Every woman on a PUL pathway goes home with **written safety-net advice**: return at once with pain, shoulder-tip pain, fainting or heavy bleeding.
+
 ## Differential diagnosis
 
 | Condition | Distinguishing features | Key investigation |
@@ -194,18 +304,14 @@ highYield:
 
 ## Investigations
 
+The core tests (urine and serum hCG, Hb, crossmatch, TVUS, FAST, pre-methotrexate bloods) are laid out with when to order them and how they change management in the **Step 4 table** of *Clinical workup*. Additional points:
+
 | Test | What you are looking for | Why |
 |---|---|---|
-| **Urine hCG** (bedside) | Positive | First step; available at every level |
-| **Hb / FBC** (HemoCue at the bedside) | Anaemia, falling Hb | Degree of blood loss; transfusion need |
-| **Group & crossmatch (4 units if ruptured)**, Rhesus | Blood; Rh-negative | Transfusion; **anti-D** |
-| **Transvaginal ultrasound** (or transabdominal if TVUS is unavailable) | **Empty uterus**; **adnexal mass separate from the ovary** ("**bagel/tubal ring**" sign, "blob" sign), sac with yolk sac or embryo ± heartbeat; **free fluid** (echogenic = blood) in the pouch of Douglas or Morison's pouch; **pseudosac** (central fluid in the uterus without a double decidual ring) | Location, size, heartbeat, rupture: all drive the management choice |
-| **FAST scan** | Free fluid in Morison's pouch or the splenorenal space | Large haemoperitoneum; go to theatre |
-| **Serum quantitative hCG** (± repeat at 48 hours) | Level vs discriminatory zone; trend (rise under 63%, plateau or slow fall) | PUL work-up; selecting methotrexate or expectant management; follow-up |
-| **Serum progesterone** (where available) | Very low (under 20 nmol/L suggests a failing pregnancy) | Supports but does not locate the pregnancy |
 | **Culdocentesis** (needle into the pouch of Douglas through the posterior fornix) or **abdominal paracentesis** | **Non-clotting blood** (clotted blood in the peritoneum lyses) | Where no ultrasound is available. A positive tap supports haemoperitoneum. A **negative tap does not exclude ectopic.** |
-| **Pre-methotrexate:** FBC, **LFTs, renal function (creatinine)**, baseline hCG | Normal values | Methotrexate is hepatotoxic, renally cleared and myelotoxic |
-| **Histology** of the tube / evacuated tissue | Chorionic villi | Confirms the diagnosis; excludes gestational trophoblastic disease |
+| **Serum progesterone** (where available) | Very low (under 20 nmol/L suggests a failing pregnancy) | Supports but does not locate the pregnancy |
+| **Serial Hb** | A fall of 1–2 g/dL or more in a "stable" woman | Ongoing intra-abdominal bleeding: move to surgery |
+| **Histology** of the tube or evacuated tissue | Chorionic villi | Confirms the diagnosis; excludes gestational trophoblastic disease |
 
 > [!PEARL]
 > **Culdocentesis:** blood aspirated from the peritoneum **does not clot**, because it has already clotted and been defibrinated by peritoneal movement. If the aspirated blood **clots in the syringe**, you probably hit a vessel.
@@ -438,3 +544,49 @@ Check **hCG on days 2, 4 and 7**. If it falls by **15% or more** each time, chec
 **Classic presentation: "A-P-B" (Amenorrhoea, Pain, Bleeding), with Pain before Bleeding**
 
 **Ruptured ectopic: "Clamp is the cure": laparotomy is resuscitation.**
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Tubal share of ectopics | Over **95%**; ampulla about 70–80% |
+| Typical presentation | **6–8 weeks** of amenorrhoea |
+| Urine hCG sensitivity | About **25 IU/L** |
+| Shock index | **0.9 or more** abnormal; **1.4 or more** critical |
+| Crossmatch for ruptured ectopic | **4 units** |
+| Permissive hypotension target | Systolic about **80–90 mmHg**, conscious, until the tube is clamped |
+| Discriminatory zone | TVUS about **1,500–2,000 IU/L** (up to 3,500); transabdominal about **6,500 IU/L** |
+| PUL 48 h hCG | Rise **over 63%** = IUP likely; fall **over 50%** = failing; in between = suspect ectopic |
+| Methotrexate first-line | hCG **under 1,500**, mass **under 35 mm**, no heartbeat, no pain, no IUP, can return |
+| Methotrexate or surgery (choice) | hCG **1,500–5,000 IU/L** |
+| Surgery indicated | Mass **35 mm or more**, heartbeat, hCG **5,000 or more**, significant pain, rupture |
+| Methotrexate dose | **50 mg/m² IM** single dose |
+| Methotrexate success | hCG fall of **15% or more** between **day 4 and day 7** |
+| Avoid pregnancy after methotrexate | **3 months** |
+| Expectant management | hCG **1,000 IU/L or below** (NICE offers; consider up to 1,500) and falling |
+| After salpingotomy | hCG at **7 days**, then weekly; up to **1 in 5** need further treatment |
+| Transfusion trigger post-op | Hb **under 7 g/dL** or symptomatic |
+| Recurrence | About **10%**; early scan at **6–7 weeks** next time |
+
+### Classic exam traps
+
+- **"BP is 110/70, so she is not bleeding much."** Wrong: young women compensate until 30–40% blood loss. Look at the pulse, pallor, shock index and a **falling Hb**.
+- **"Resuscitate until stable, then operate."** Wrong: in a ruptured ectopic, **clamping the tube is the resuscitation**; do both together.
+- **"Fever and bilateral tenderness: treat as PID."** Wrong until the **pregnancy test** is negative.
+- **"Empty uterus + positive test after bleeding = complete miscarriage."** Wrong without a previous IUP: it is a **PUL/ectopic**.
+- **"The hCG is low, so it cannot be ruptured."** Wrong: ectopics can rupture at **any hCG level**.
+- **"Negative culdocentesis excludes ectopic."** Wrong: only a positive (non-clotting blood) tap is useful.
+- **"Give ibuprofen for separation pain after methotrexate."** Wrong: **avoid NSAIDs** (reduce methotrexate clearance); use paracetamol.
+- **"Do an MVA to see if there are villi."** Wrong in a PUL: you may end a **viable IUP**.
+
+### Questions seniors ask
+
+- **What is your first investigation in a young woman with abdominal pain?** A **urine pregnancy test**, at every level of care.
+- **What is the discriminatory zone and why does it matter?** The hCG (about 1,500–2,000 IU/L on TVUS) above which an intrauterine sac should be seen; an empty uterus above it strongly suggests ectopic.
+- **How do you interpret a 48 h hCG?** Rise over 63% = likely IUP; fall over 50% = failing pregnancy; in between = suspect ectopic, senior review and TVUS within 24 h.
+- **Who can have methotrexate?** Stable, no significant pain, unruptured, mass under 35 mm, no heartbeat, hCG under 1,500 (up to 5,000 as a choice), no IUP, normal FBC/LFTs/renal function, able to return.
+- **What will you look at in theatre besides the ruptured tube?** The **other tube and both ovaries**: their state decides salpingectomy vs salpingotomy and her fertility counselling.
+- **What if there is no blood in the bank?** Resuscitate with crystalloid, ask relatives to donate, and consider **autotransfusion** of fresh, uncontaminated haemoperitoneum filtered through gauze into citrate.
+- **What do you tell her before discharge?** It was not her fault; about 10% recurrence; **early scan at 6–7 weeks** next pregnancy; contraception of choice; STI treatment for her and her partner; anti-D if Rh-negative.

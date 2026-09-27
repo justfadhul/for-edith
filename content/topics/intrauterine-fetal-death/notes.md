@@ -4,11 +4,16 @@ summary: Intrauterine fetal death (IUFD) is the death of the fetus in the uterus
 highYield:
   - "Diagnosis is made by real-time ultrasound showing no fetal cardiac activity, ideally confirmed by a second operator. Absent heart sounds on Pinard or Doppler alone are not enough."
   - "First assess the mother: BP and urine protein (pre-eclampsia), abdominal pain and a hard uterus (abruption), fever (chorioamnionitis), and FBC with platelets, clotting and fibrinogen (DIC)."
+  - "DIC screen: platelets, PT/APTT and fibrinogen where available; everywhere, a bedside clotting test (2 mL in a plain glass tube, no clot by 7 minutes = coagulopathy). Fibrinogen under 2 g/L is a danger sign."
+  - "DIC risk with a retained dead fetus is about 10% within 4 weeks and up to about 30% after, and higher and faster with abruption or sepsis."
   - "Deliver urgently if there is sepsis, pre-eclampsia, abruption, ruptured membranes or coagulopathy. Otherwise she may choose expectant care (about 85–90% labour within 2–3 weeks), with clotting checked twice weekly after 48 hours."
   - "Vaginal birth is recommended for most. Caesarean section for a dead baby adds maternal risk now and in every later pregnancy."
   - "Induction: mifepristone 200 mg orally, then misoprostol after 24–48 hours. Reduce the misoprostol dose as gestation rises: 14–28 weeks, 400 µg (WHO) or 200 µg (FIGO) every 4–6 hours; after 28 weeks, 25 µg vaginally every 6 hours or 25 µg orally every 2 hours (FIGO). Use lower doses with a uterine scar."
+  - "Wait at least 4 hours after the last misoprostol dose before starting oxytocin. Never give 200 µg misoprostol in the third trimester."
   - "Fresh stillbirth (skin intact) usually means death in labour, which is a quality-of-care signal. Macerated stillbirth (skin peeling) means death before labour."
-  - "After birth: examine the baby and placenta, send tests for the cause, give anti-D if Rh-negative, suppress lactation (cabergoline 1 mg once, not in pre-eclampsia), and provide respectful bereavement care and an MPDSR review."
+  - "Take the Kleihauer and syphilis test before delivery; the examination of the baby and placenta (plus histology) is the most informative cause-finding step in Uganda."
+  - "After birth: give anti-D within 72 h if Rh-negative, suppress lactation (cabergoline 1 mg once within 24 h, not in pre-eclampsia), and provide respectful bereavement care and an MPDSR review."
+  - "Follow-up at about 6 weeks: results, OGTT and antiphospholipid antibodies if indicated, early booking and aspirin 75–150 mg from 12 weeks where placental disease was the cause."
 ---
 
 ## In a nutshell
@@ -193,6 +198,114 @@ Most causes end in **fetal hypoxia and acidosis**, either **chronically** (the p
   - Forgetting anti-D and lactation suppression.
   - Talking about "the fetus" instead of **using the baby's name** if the parents have chosen one.
 
+
+## Clinical workup
+
+The usual story on a Ugandan ward: a woman arrives at the labour suite or ANC clinic saying **"the baby has stopped moving"**, and the midwife cannot find the fetal heart. The workup has two parallel tracks: **confirm the death** (gently, without announcing it prematurely) and **make sure the mother is safe** (pre-eclampsia, abruption, sepsis, DIC, uterine rupture).
+
+### Step 0: First 5 minutes
+
+1. **Vitals:** pulse, **BP**, temperature, respiratory rate, SpO₂; shock index (pulse ÷ systolic BP: **0.9 or more abnormal, 1.4 or more critical**).
+2. **Look for the four killers:**
+   - **BP 160/110 or more**, headache, visual symptoms, epigastric pain, or a fit: severe pre-eclampsia/eclampsia → **MgSO₄** loading dose and antihypertensive now.
+   - **Constant pain, woody-hard tender uterus, bleeding, shock**: abruption → two large-bore cannulae, crossmatch, fluids, bedside clotting test.
+   - **Fever 38 °C or more, tachycardia, offensive liquor**: chorioamnionitis → **ampicillin 2 g IV + gentamicin 5 mg/kg IV** now.
+   - **Previous CS with scar pain, fetal parts easily felt, shock, or labour that has stopped suddenly**: uterine rupture → resuscitate, theatre.
+3. **Bleeding from drip sites, gums or urine?** DIC: bedside clotting test, blood (fresh whole blood is often what is available), senior now.
+4. **If stable,** she can go to a quiet, private space while you arrange the ultrasound. **Do not tell her "the baby has died" on the basis of a Pinard or Doppler.** Say you are "having difficulty hearing the heartbeat" and that a scan will check.
+
+### Step 1: Focused history
+
+| Ask | Why (what changes the plan) |
+|---|---|
+| **When did you last feel the baby move? Were movements reducing?** | Dates the death (longer retention = more DIC risk; maceration grade); reducing movements suggest placental insufficiency. |
+| **Gestational age:** LMP, early scan, fundal height at booking | Decides the **misoprostol dose** and whether this is a stillbirth (28 weeks or more) or managed as a late abortion. |
+| **Pain, bleeding, hard uterus** | Abruption: DIC risk, resuscitation, prompt delivery (ARM + oxytocin). |
+| **Headache, visual disturbance, epigastric pain, swelling** | Pre-eclampsia / HELLP: MgSO₄, antihypertensives, and **no cabergoline** later. |
+| **Fever, offensive discharge, leaking liquor (how long?)** | Chorioamnionitis: antibiotics and urgent delivery; ruptured membranes rule out expectant care. |
+| **Previous CS, myomectomy or uterine surgery; how many scars; classical?** | **Lower misoprostol doses or Foley + oxytocin**; hospital with theatre; CS considered only for classical or more than two scars. |
+| **Itching, thirst, known diabetes, malaria episodes, IPTp, bed net** | Cholestasis, diabetes, malaria as causes. |
+| **ANC card: syphilis, HIV, Hb, blood group, BP trend, IPTp doses** | Infectious and hypertensive causes; anti-D; eMTCT. |
+| **Trauma, domestic violence** | Abruption; safeguarding. |
+| **Herbs or local oxytocics, drugs, alcohol** | Hyperstimulation or toxic causes. |
+| **Previous stillbirths, FGR, pre-eclampsia** | Recurrent causes; APS; next-pregnancy plan. |
+| **Who is with her? Religious or cultural wishes?** | Breaking the news, seeing the baby, burial plans. |
+
+### Step 2: Focused examination
+
+1. **General:** pallor, jaundice, oedema, **bruising or oozing from puncture sites or gums**, temperature, pulse, BP.
+2. **Urine:** dipstick for **protein**, glucose, nitrites.
+3. **Abdomen:**
+   - **Fundal height** vs dates (often smaller if death was days ago or FGR).
+   - Lie, presentation, engagement (fifths palpable).
+   - **Tenderness, woody hardness** (abruption); **scar tenderness**; fetal parts unusually easy to feel (rupture).
+   - Fetal heart on Pinard or Doppler: **absent = suggestive only**.
+4. **Speculum / vaginal examination** (if in labour, bleeding or membranes ruptured; **not** if praevia is possible until a scan has excluded it):
+   - liquor colour and smell; bleeding; cord prolapse;
+   - **Bishop score** (chooses misoprostol vs Foley vs ARM + oxytocin);
+   - a soft, collapsing skull with overlapping bones suggests maceration.
+
+**Document:** BP, protein, temperature, fundal height, uterine tone and tenderness, scar status, Bishop score, and signs of bleeding.
+
+### Step 3: Bedside tests
+
+| Test | What it tells you |
+|---|---|
+| **Point-of-care ultrasound** | **Absent cardiac activity** over at least a few minutes of real-time scanning, ideally confirmed by a second operator. Also: presentation, placental site (praevia?), retroplacental clot, liquor volume, overlapping skull bones (Spalding), scalp oedema. |
+| **Bedside clotting test** | 2 mL of blood in a plain glass tube held in the hand: **no clot by 7 minutes**, or a clot that breaks down = coagulopathy. Repeat before and during induction if abnormal or at risk. |
+| **Urine dipstick** | Protein (pre-eclampsia), glucose (diabetes), nitrites (UTI). |
+| **HemoCue / bedside Hb** | Anaemia; baseline for PPH. |
+| **RBS** | Diabetes (a very high RBS points to the cause). |
+| **mRDT** | Malaria (treat; a possible cause). |
+| **Rapid syphilis and HIV tests** | Start **benzathine penicillin** on a reactive syphilis test; eMTCT linkage. |
+| **Partograph / Labour Care Guide review** | If the death happened in labour (fresh stillbirth): where did monitoring or action fail? This feeds the MPDSR review. |
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Formal obstetric ultrasound** | Everyone to confirm (HC IV and above; second operator where possible) | No cardiac activity; Spalding's sign; placental position; abruption clot (often not seen) | Confirms the diagnosis; praevia changes the mode of delivery |
+| **FBC with platelets** | Everyone (HC IV and above) | Low Hb; **platelets under 100** (DIC, HELLP); raised WBC (sepsis) | Transfusion; blood products; urgent delivery |
+| **PT/APTT, fibrinogen** | Everyone, where available (regional/national referral); **repeat twice weekly** if expectant beyond 48 h | Prolonged PT/APTT; **fibrinogen under 2 g/L** | DIC: correct with fresh whole blood, FFP, platelets or cryoprecipitate before and during delivery; avoid IM injections and spinal/epidural |
+| **Group, Rhesus, crossmatch, antibody screen** | Everyone | Rh-negative; red cell antibodies | Blood ready for PPH; anti-D; isoimmunisation as a cause (hydrops) |
+| **Kleihauer–Betke** | Rh-negative women and any suspected fetomaternal haemorrhage; **before delivery** (referral hospitals only) | Fetal cells in maternal blood | Cause (large FMH); sizes the anti-D dose |
+| **Creatinine, LFTs, urate** | Hypertension, sepsis or suspected HELLP (HC IV some; hospitals) | Raised creatinine or transaminases | HELLP/pre-eclampsia management; gentamicin dosing |
+| **Syphilis serology** (RPR/VDRL + TPHA) | Everyone | Positive | Benzathine penicillin for her and her partner |
+| **Blood cultures, HVS** | Febrile women (referral hospitals) | Organism | Antibiotic choice |
+| **Bile acids, glucose / HbA1c, TFTs** | If symptoms or risk factors | Raised | Cholestasis, diabetes, thyroid disease as causes |
+| **Placental histology, swabs; baby examination; postmortem or genetics** | After birth; histology at referral hospitals; baby and placenta examination everywhere | Infarcts, retroplacental clot, chorioamnionitis, malaria pigment, anomalies | Cause and recurrence plan (see *Investigations*) |
+
+### Step 5: Putting it together
+
+**Model one-line summary:**
+> "A 27-year-old G2P1 at 32 weeks with absent fetal movements for 3 days; BP 150/100, **protein 2+**, afebrile, uterus soft and non-tender, no scar; **IUFD confirmed on ultrasound by two operators**, cephalic, fundal placenta; platelets 88 × 10⁹/L, **bedside clotting time 9 minutes**. **Working diagnosis: IUFD at 32 weeks with pre-eclampsia and evolving coagulopathy (DIC).**"
+
+**Problem list:**
+1. IUFD at 32 weeks (confirmed).
+2. Pre-eclampsia (BP 150/100, proteinuria): control BP; MgSO₄ if severe features develop; **no cabergoline**.
+3. Coagulopathy: correct before and during delivery.
+4. Cause to find (likely placental insufficiency from pre-eclampsia; syphilis, malaria, diabetes to exclude).
+5. Bereavement, anti-D, contraception, follow-up.
+
+**Plan:** crossmatch and fresh whole blood/FFP; induce **now** (not expectant) with **misoprostol 25 µg vaginally every 6 hours** (or 25 µg orally every 2 hours), oxytocin later (at least 4 hours after the last misoprostol); AMTSL with TXA ready; avoid IM injections and spinal while clotting is abnormal.
+
+**Worked example 1: confirming IUFD properly.**
+- A midwife cannot find the FHR with a Doppler. A **maternal pulse of 110** can be mistaken for a fetal heart rate, and obesity or polyhydramnios can hide a live one.
+- **Confirmation:** real-time ultrasound, looking at the **fetal heart for at least a few minutes**, with colour Doppler if available; **second operator** to confirm.
+- Supporting (not diagnostic) findings: **Spalding's sign** (overlapping skull bones, about 5–7 days), scalp oedema, collapsed body, absent movement.
+- Only then break the news, in private, with a warning shot and clear words.
+
+**Worked example 2: interpreting a DIC screen.**
+
+| Result | Normal in pregnancy | Her value | Interpretation |
+|---|---|---|---|
+| Platelets | 150–400 × 10⁹/L | **88** | Low: DIC or HELLP |
+| Fibrinogen | Rises to **4–6 g/L** | **1.6 g/L** | **Under 2 g/L = severe coagulopathy** (a "normal-looking" 2.5 g/L is already low for pregnancy) |
+| PT / APTT | Unchanged or slightly shorter | Prolonged | Consumption of clotting factors |
+| Bedside clotting test | Clots within 7 min | **No clot at 9 min** | Confirms coagulopathy where no lab exists |
+
+**Action:** involve a senior and the blood bank; give **fresh whole blood or FFP (plus cryoprecipitate or platelets where available)**; deliver **vaginally** where possible (the fastest way to stop the tissue factor source is delivery); active third stage with **oxytocin 10 IU** and **TXA 1 g IV** if PPH; avoid IM injections, spinal or epidural; repeat the tests after delivery.
+
 ## Differential diagnosis
 
 When fetal heart sounds cannot be heard:
@@ -211,15 +324,7 @@ When fetal heart sounds cannot be heard:
 
 ### To assess maternal safety (now)
 
-| Test | Looking for | Why |
-|---|---|---|
-| **FBC with platelets** | Anaemia, thrombocytopenia, raised WBC | DIC, HELLP, sepsis |
-| **Clotting:** PT/APTT, **fibrinogen**; **bedside clotting time** | Prolonged times; fibrinogen under 2 g/L; clot not formed by 7 minutes | **DIC**. Repeat **twice weekly** if expectant beyond 48 hours. |
-| **Group & crossmatch; Rhesus** | Blood for PPH; Rh-negative | Transfusion; anti-D |
-| **Renal and liver function, urate** | Raised creatinine, transaminases | Pre-eclampsia / HELLP, sepsis |
-| **Urinalysis** (protein, glucose, nitrites) | Proteinuria, glycosuria, UTI | Pre-eclampsia, diabetes, infection |
-| **Blood cultures, HVS** (if febrile) | Organism | Sepsis |
-| **Malaria RDT / blood slide** | Parasitaemia | Treat; possible cause |
+The maternal-safety tests (FBC and platelets, PT/APTT and fibrinogen, bedside clotting test, group and crossmatch, renal and liver function, urinalysis, cultures, malaria test) are set out with their timing and how they change management in the **Step 3 and Step 4 tables** of *Clinical workup*. Remember to **repeat clotting twice weekly** if she chooses expectant care beyond 48 hours, and again before and during induction if it was abnormal.
 
 ### To find the cause
 
@@ -466,3 +571,50 @@ When fetal heart sounds cannot be heard:
 - **I**nvestigations (baby, placenta, bloods)
 - **E**xamine and document (fresh vs macerated), **E**MTCT / syphilis treatment
 - **S**urveillance (MPDSR) and **S**ix-week follow-up
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Stillbirth threshold (Uganda / WHO comparison) | **28 weeks** or more (ICD: 22 weeks or 500 g) |
+| Fresh vs macerated | Fresh = death within about **12 h** (usually intrapartum); macerated = more than about 12–24 h |
+| Spalding's sign | About **5–7 days** after death |
+| DIC risk | About **10% within 4 weeks**; up to about **30%** after |
+| Bedside clotting test | No clot by **7 minutes** = coagulopathy |
+| Fibrinogen | Normal in pregnancy **4–6 g/L**; **under 2 g/L** = severe coagulopathy |
+| Spontaneous labour if expectant | **85–90% within 2–3 weeks** |
+| Clotting checks if expectant beyond 48 h | **Twice weekly** |
+| Mifepristone | **200 mg orally** once, then misoprostol **24–48 h** later |
+| Misoprostol 14–28 weeks | **400 µg** SL/vaginal every **4–6 h** (WHO) or **200 µg** every 4–6 h (FIGO) |
+| Misoprostol 27–28 weeks | **100 µg** every **4 h** (FIGO) |
+| Misoprostol over 28 weeks | **25 µg** vaginally every **6 h** or **25 µg** orally every **2 h** (FIGO) |
+| 25 µg oral solution | 1 × 200 µg tablet in **200 mL** water → give **25 mL** |
+| Oxytocin after misoprostol | Wait **at least 4 h** |
+| Oxytocin (WHO MCPC) | 2.5 IU in 500 mL, start **10 drops/min**, increase by 10 every **30 min**, max **60 drops/min** |
+| Anti-D (Rh-negative) | Within **72 h**: UK **500 IU** + Kleihauer; the Ugandan vial usually stocked is 1,500 IU |
+| Cabergoline | **1 mg** orally once within **24 h** (not in pre-eclampsia) |
+| Aspirin next pregnancy (placental disease) | **75–150 mg** nightly from **12 weeks** |
+| Follow-up | About **6 weeks** |
+
+### Classic exam traps
+
+- **"No FHR on Doppler, so tell her the baby has died."** Wrong: confirm with **real-time ultrasound**, ideally by a second operator.
+- **"The fetus is dead, so there is no hurry."** Wrong if she has **pre-eclampsia, abruption, sepsis, ruptured membranes or DIC**: these need urgent delivery.
+- **"Do a CS to spare her labour."** Wrong: vaginal birth for most; a scar adds risk in every future pregnancy.
+- **"Use 200 µg misoprostol at 36 weeks because the baby is dead anyway."** Wrong: dose **falls** with gestation; 25 µg in the third trimester; hyperstimulation and rupture risk.
+- **"Start oxytocin an hour after misoprostol."** Wrong: wait **at least 4 hours**.
+- **"Fibrinogen 2.5 g/L is normal."** Wrong in pregnancy: normal is 4–6 g/L, so 2.5 is already falling; under 2 is severe.
+- **"Give cabergoline to every woman after stillbirth."** Wrong: **avoid in hypertension/pre-eclampsia**.
+- **"Take the Kleihauer after delivery."** Wrong: take it **before delivery** to detect a fetomaternal haemorrhage as the cause.
+
+### Questions seniors ask
+
+- **How did you confirm the death?** Real-time ultrasound showing no cardiac activity, confirmed by a second operator; Doppler alone is not enough.
+- **What four maternal conditions must you exclude at once?** Pre-eclampsia, abruption, sepsis/chorioamnionitis and DIC (plus uterine rupture if scarred).
+- **What is your DIC screen?** Platelets, PT/APTT, fibrinogen where available, and a bedside clotting test everywhere; repeat twice weekly if expectant beyond 48 h.
+- **Which misoprostol dose for this gestation?** 14–28 weeks: 400 µg (WHO) or 200 µg (FIGO) every 4–6 h; over 28 weeks: 25 µg vaginally 6-hourly or orally 2-hourly; lower with a scar.
+- **Fresh or macerated, and why does it matter?** Fresh = intrapartum death (look at labour care and the partograph); macerated = antepartum cause.
+- **What investigations would you send to find the cause?** Examination of the baby and placenta with histology, syphilis, HIV, malaria, glucose, Kleihauer (before delivery), bile acids and LFTs if itchy, antiphospholipid antibodies at 6 weeks; postmortem if accepted.
+- **What does she need before discharge?** Anti-D if Rh-negative, lactation suppression, contraception discussion, bereavement support, MPDSR notification, and a 6-week appointment.

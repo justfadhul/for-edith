@@ -105,6 +105,31 @@
       "id": "mva-f21",
       "front": "Which contraceptive can be inserted at the end of an uncomplicated MVA?",
       "back": "**Copper IUD / LNG-IUS** (MEC 1 after first-trimester abortion); implants and injectables also immediately. Not IUD after septic abortion (MEC 4)."
+    },
+    {
+      "id": "mva-f22",
+      "front": "Pre-MVA checklist: five things to confirm before the aspirator is used",
+      "back": "1) **Indication** (e.g. incomplete abortion under 12 weeks; ectopic excluded) 2) **Stable** or resuscitation running; IV antibiotics already given if septic 3) **Hb and Rhesus group** 4) **Consent** + analgesia given 30–60 min before 5) **Bimanual: size and position**; aspirator charged and vacuum tested."
+    },
+    {
+      "id": "mva-f23",
+      "front": "Uterine size at which the fundus becomes just palpable above the symphysis pubis",
+      "back": "About **12 weeks**. A uterus clearly palpable abdominally (about **14 weeks or more**) is beyond routine MVA: use misoprostol 400 µg every 3 h."
+    },
+    {
+      "id": "mva-f24",
+      "front": "MVA aspirate shows no villi and no sac. What must you consider and do?",
+      "back": "Incomplete evacuation, a complete abortion already passed, or an **ectopic pregnancy**. Check vitals and abdomen, **ultrasound** and **serum hCG** (repeat at 48 h); do not discharge without an ectopic safety-net."
+    },
+    {
+      "id": "mva-f25",
+      "front": "Post-MVA monitoring: what, how often, for how long?",
+      "back": "**Pulse, BP, bleeding and pain every 15 minutes for 30–60 minutes.** Rising pulse or falling BP = haemorrhage, perforation or haematometra."
+    },
+    {
+      "id": "mva-f26",
+      "front": "Consent for MVA: the risks to mention",
+      "back": "**Bleeding, infection, incomplete evacuation (needing a repeat), cervical injury, uterine perforation (under 1 in 1,000)**, and pain; alternatives are misoprostol or expectant care. Offer contraception."
     }
   ],
   "mcqs": [

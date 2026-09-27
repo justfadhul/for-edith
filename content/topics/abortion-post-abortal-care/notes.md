@@ -3,12 +3,17 @@ title: Abortion & Post-Abortion Care
 summary: Abortion is the loss or termination of a pregnancy before fetal viability (28 weeks in Ugandan practice). Classify it by bleeding, pain, the cervical os, uterine size and tissue passed. Resuscitate first, then evacuate the uterus with MVA or misoprostol, treat sepsis aggressively, and never let a woman leave without post-abortion contraception.
 highYield:
   - "Classify by the os and the uterus: os closed + size = dates means threatened; os open means inevitable or incomplete; os closed + small uterus + bleeding settled means complete; os closed + fetus dead and retained means missed."
+  - "Stability first: shock index (pulse ÷ systolic BP) of 0.9 or more is abnormal and 1.4 or more is critical. Two large-bore cannulae, 1 L crystalloid, then reassess."
+  - "The speculum is the key examination: look at the os, remove products from the os with sponge forceps, and look for tears, burns, tenaculum marks or foreign bodies."
   - "Incomplete abortion with uterine size under 14 weeks: MVA, or misoprostol 600 µg orally once, or 400 µg sublingually once (WHO 2022). Sharp curettage (D&C) is obsolete."
   - "Uterus 14 weeks or more: misoprostol 400 µg sublingual, vaginal or buccal every 3 hours until expulsion, then check for retained tissue."
+  - "Missed miscarriage on ultrasound: CRL 7 mm or more with no heartbeat, or mean sac diameter 25 mm or more with no embryo. Below these cut-offs, rescan in 7–14 days."
+  - "Missed abortion under 14 weeks (WHO 2022): mifepristone 200 mg orally, then misoprostol 800 µg 1–2 days later; misoprostol 800 µg alone if no mifepristone."
   - "Septic abortion: resuscitate, give IV antibiotics at once (ampicillin 2 g IV 6-hourly + gentamicin 5 mg/kg IV daily + metronidazole 500 mg IV 8-hourly), then evacuate within hours. Retained infected tissue is the source, so evacuation is the source control."
   - "Bradycardia and hypotension out of proportion to the blood loss mean cervical shock: remove the products from the os with sponge forceps."
-  - "Fertility returns within 2 weeks of an abortion. Offer contraception before discharge; almost every method, including an IUD, can start the same day unless there is sepsis."
-  - "Post-abortion care is legal in Uganda, is a right, and must never be withheld or delayed while you ask how the abortion happened."
+  - "Closed os + empty uterus + positive pregnancy test with no previously confirmed intrauterine pregnancy is a pregnancy of unknown location (possible ectopic), not a complete abortion."
+  - "After unsafe abortion give tetanus toxoid 0.5 mL IM (± tetanus immunoglobulin 250 IU); give anti-D within 72 h to Rh-negative women after surgical evacuation or loss at 12 weeks or more."
+  - "Fertility returns within 2 weeks of an abortion. Offer contraception before discharge; almost every method, including an IUD, can start the same day unless there is sepsis. PAC is legal in Uganda and must never be delayed."
 ---
 
 ## In a nutshell
@@ -153,6 +158,120 @@ Other terms you will meet:
   - Discharging without FP.
   - Not examining the removed tissue.
 
+
+## Clinical workup
+
+This is the order in which a senior on the Mulago or Mengo gynae emergency ward works up a woman with **bleeding in early pregnancy**. Steps 0–3 happen within the first 15–30 minutes; she should not wait for a scan or a lab result before resuscitation or before POC are removed from the os.
+
+### Step 0: First 5 minutes
+
+1. **Look at her from the door.** Is she pale, sweating, confused, gasping, lying in a pool of blood? If yes, **shout for help** (midwife, intern, anaesthetist) and go straight to resuscitation.
+2. **Vitals now:** pulse, BP, respiratory rate, temperature, SpO₂, capillary refill, level of consciousness (AVPU).
+3. **Calculate the shock index** (pulse ÷ systolic BP): **0.9 or more = abnormal, escalate; 1.4 or more = critical** (resuscitate and get blood). Remember young women keep their BP until late.
+4. **Two large-bore cannulae (16–18 G)**; draw blood for **Hb, grouping & crossmatch, bedside clotting test, mRDT, HIV and syphilis** at the same time.
+5. **Start fluids** if shocked: **1 L warmed Ringer's lactate or normal saline quickly**, then reassess. Lie her flat, legs raised, oxygen if SpO₂ is low or she is shocked.
+6. **Quick speculum at the bedside** if bleeding is heavy or she is bradycardic: **remove POC from the os with sponge forceps**. This is both diagnostic and treatment (cervical shock).
+7. **Fever 38 °C or more, rigors or foul discharge?** Take cultures if possible but **give the first IV antibiotic doses within the hour**.
+8. **Heavy bleeding and evacuation not immediately possible?** Give a uterotonic: **misoprostol 400 µg oral/sublingual** or **ergometrine 0.2 mg IM** (not if hypertensive).
+
+> [!REDFLAG]
+> Call a senior at once for: **shock index 1.4 or more**, systolic BP under 90, **bradycardia with hypotension**, peritonism or distension, fever with hypotension or confusion, bleeding from drip sites, or **closed os with abdominal pain and signs of shock** (ruptured ectopic until proven otherwise).
+
+### Step 1: Focused history
+
+| Ask | Why (what changes the plan) |
+|---|---|
+| **LMP and gestational age**; any earlier scan showing an intrauterine pregnancy (IUP)? | A previously confirmed IUP makes ectopic much less likely. No previous scan + closed os + empty uterus = PUL, not "complete abortion". |
+| **Amount of bleeding**: pads per hour, clots, "flooding" | 1 pad or more soaked in under an hour = heavy; prepare for MVA and blood. |
+| **Tissue passed?** Did she bring it? | Seeing a complete sac supports complete abortion; if she brought tissue, **inspect it**. |
+| **Pain type**: midline cramps vs one-sided, shoulder-tip pain, fainting | Cramps = uterus expelling; unilateral pain or collapse = ectopic. |
+| **Fever, rigors, offensive discharge, days since the event** | Sepsis: antibiotics first, evacuation within hours. Late presentation (3 days or more) raises sepsis risk. |
+| **Any interference** (tablets, herbs, insertion, "a procedure")? Ask privately and gently. | Unsafe abortion: broaden cover, tetanus prophylaxis, look for perforation, foreign body or drug toxicity. |
+| **Previous CS or uterine surgery** | Caution with repeated misoprostol at larger uterine sizes; perforation risk at MVA. |
+| **Blood group if known, HIV status, sickle cell, bleeding disorder** | Anti-D; ART linkage; transfusion planning. |
+| **Medical illness and allergies** (asthma, hypertension, penicillin allergy) | Ergometrine contraindicated in hypertension; antibiotic choice. |
+| **Tetanus immunisation** | Td ± tetanus immunoglobulin after an unsafe procedure. |
+| **Was the pregnancy wanted? Current contraception? Plans for future pregnancy?** | Opens PAC counselling and guides the FP method you offer. |
+
+### Step 2: Focused examination
+
+1. **General:** pallor, jaundice (haemolysis, clostridial sepsis), dehydration, temperature, pulse, BP, RR, capillary refill, urine output. Document the **shock index**.
+2. **Chest and heart** briefly: tachypnoea may mean sepsis, acidosis or ARDS.
+3. **Abdomen:**
+   - Is the uterus palpable above the symphysis (roughly 12 weeks or more)? Fundal height in weeks.
+   - **Tenderness, guarding, rebound, distension, absent bowel sounds** = peritonitis (perforation, bowel injury, ruptured ectopic, pelvic abscess).
+4. **Speculum (the key step):**
+   - **Os open or closed?** Width of the os.
+   - **POC in the os or vagina?** Remove them now with sponge forceps and keep them to inspect.
+   - Amount and **smell** of the blood; pus.
+   - **Cervical tears, tenaculum marks, burns, foreign bodies** (stick, catheter, herbs) = instrumentation.
+   - Other sources: cervical polyp, ectropion, growth.
+5. **Bimanual:**
+   - **Uterine size in weeks** (this, not LMP, decides MVA vs misoprostol), consistency, tenderness.
+   - **Cervical motion tenderness**, adnexal mass or tenderness, fullness in the pouch of Douglas.
+
+**Document the key negatives:** "os closed/open, no POC in os, no offensive discharge, no cervical injury, uterus X weeks, non-tender, adnexae free, no peritonism".
+
+### Step 3: Bedside tests
+
+| Test | What it tells you |
+|---|---|
+| **Urine pregnancy test (hCG)** | Confirms pregnancy. May stay positive for **2–4 weeks** after complete abortion, so a positive test does not mean retained tissue. |
+| **HemoCue / bedside Hb** | Baseline; **Hb under 7 g/dL** or ongoing shock = transfuse. |
+| **Bedside clotting test** | 2 mL of blood in a plain glass tube held in the hand: **no clot by 7 minutes**, or a clot that breaks down, suggests **DIC** (sepsis, prolonged retention of a dead fetus). |
+| **mRDT for malaria** | Fever plus pregnancy loss: treat malaria if positive, **but still examine the pelvis** for sepsis. |
+| **RBS** | Septic or confused women; hypoglycaemia after quinine. |
+| **Urine dipstick** | Nitrites/leucocytes (UTI); blood; ketones (dehydration). |
+| **Point-of-care ultrasound** (if you are trained) | Free fluid in the abdomen or pouch of Douglas (ruptured ectopic or perforation), retained products, fetal heartbeat. |
+| **Inspect the tissue she passed or you removed** | Float it in saline: villi look fluffy and fronded; a complete sac supports complete abortion; vesicles suggest mole. |
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Hb / full blood count** | Everyone (HC III+ for Hb; FBC at HC IV and hospitals) | Low Hb; **WBC raised** in sepsis; **platelets under 100** suggest DIC | Transfusion; supports sepsis; triggers a clotting screen |
+| **Blood group, Rhesus D, crossmatch** | Everyone (HC IV and above can crossmatch) | Rh-negative | Anti-D within 72 h after surgical evacuation or loss at 12 weeks or more; blood ready if heavy bleeding |
+| **Pelvic ultrasound** (TVUS if available) | Unsure of the type, closed os, suspected missed abortion, ectopic, mole or perforation. Available at most HC IVs (abdominal) and all referral hospitals | Viable IUP (threatened); **CRL 7 mm or more with no heartbeat or MSD 25 mm or more with no embryo** (missed); heterogeneous retained products; **empty uterus** ± adnexal mass/free fluid; snowstorm (mole) | Confirms the type; an empty uterus without a prior IUP → **serial hCG** and ectopic pathway; below the cut-offs → rescan in 7–14 days |
+| **Serum β-hCG** (quantitative) | PUL, suspected ectopic or mole. Mainly regional/national referral and private labs | Suboptimal rise or plateau (ectopic); very high (mole); falling by at least 50% in 48 h (failing pregnancy) | Decides discharge vs ectopic management |
+| **HIV and syphilis tests** | Everyone (all levels) | Positive | ART and PMTCT linkage; benzathine penicillin; syphilis explains second-trimester loss |
+| **Blood culture, high vaginal swab** | Septic abortion, before antibiotics if it causes no delay. Referral hospitals only in most of Uganda | Gram-negatives, anaerobes, *Clostridium* | Narrows antibiotics if she is not improving |
+| **Urea, creatinine, electrolytes** | Sepsis, shock, oliguria, on gentamicin. HC IV (some) and hospitals | Rising creatinine = AKI | Adjust or stop gentamicin; fluid balance; dialysis referral |
+| **Clotting screen** (PT, APTT, fibrinogen) | Septic shock, bleeding from sites, abnormal bedside test. Regional/national referral | Prolonged PT/APTT, **fibrinogen under 2 g/L** | Fresh frozen plasma, platelets; senior and anaesthetist involvement |
+| **Bilirubin, LFTs** | Jaundice, suspected clostridial sepsis or haemolysis | Raised unconjugated bilirubin | Supports haemolysis; consider early hysterectomy if the uterus is necrotic |
+| **Erect chest X-ray / abdominal X-ray** | Peritonism after an unsafe procedure | **Gas under the diaphragm**, foreign body | Laparotomy |
+| **Histology of tissue** | Where available (referral hospitals), especially if mole suspected or no villi seen | Chorionic villi (confirms IUP); hydropic villi (mole) | Molar pregnancy → hCG follow-up; no villi → think ectopic |
+
+### Step 5: Putting it together
+
+**Model one-line summary:**
+> "A 26-year-old P2+1 at 11 weeks by dates with 1 day of heavy bleeding and cramps, **haemodynamically stable** (pulse 100, BP 110/70, shock index 0.9, afebrile), Hb 9.5 g/dL, with an **open os, POC in the os** and a **9-week-size non-tender uterus**. **Working diagnosis: incomplete abortion, not septic, no evidence of interference.**"
+
+**Problem list:**
+1. Incomplete abortion, uterine size under 14 weeks.
+2. Mild-moderate anaemia (Hb 9.5 g/dL).
+3. Rhesus status unknown.
+4. Needs contraception (PAC).
+
+**Plan:** POC removed from the os; MVA under paracervical block after ibuprofen (or misoprostol 600 µg orally if she prefers and can return); group and Rhesus; HIV/syphilis; iron; FP method before discharge.
+
+**Worked example 1: using the speculum to classify.**
+
+| Speculum and bimanual findings | Classification | Next step |
+|---|---|---|
+| Os **closed**, small amount of blood from the os, uterus = dates, non-tender | **Threatened** (confirm a viable IUP on scan) | Reassure, paracetamol, return advice. No misoprostol, no MVA. |
+| Os **open**, membranes bulging or no tissue passed yet, uterus = dates | **Inevitable** | Evacuate (MVA or misoprostol by uterine size). |
+| Os **open**, tissue in the os, uterus smaller than dates | **Incomplete** | Remove POC; MVA or misoprostol 600 µg oral. |
+| Os **closed**, bleeding settled, uterus small and firm, **she saw a sac pass or a previous scan showed an IUP** | **Complete** | No evacuation; PAC package. |
+| Os **closed**, bleeding settled, uterus empty on scan, **no prior IUP** | **PUL** (not "complete") | Serial hCG 48 h apart; ectopic safety-net. |
+| Os open, **offensive pus**, tender bulky uterus, fever | **Septic** | Antibiotics within 1 h, evacuate within hours. |
+| Os open, **tenaculum marks and a cervical tear**, peritonism | **Septic, induced, with possible perforation** | Antibiotics, resuscitation, erect CXR, laparotomy. |
+
+**Worked example 2: interpreting a scan report.**
+A 30-year-old at 10 weeks by dates has spotting. Os closed. Scan: intrauterine sac, **MSD 18 mm, no embryo**.
+- This is **below** the 25 mm cut-off, so you **cannot yet diagnose missed miscarriage** (dates may be wrong).
+- Plan: **rescan in 7–14 days**. If she then has MSD 25 mm or more with no embryo, or an embryo with **CRL 7 mm or more and no heartbeat**, diagnose missed miscarriage and offer mifepristone + misoprostol, misoprostol alone, or MVA.
+- Never give misoprostol "to be safe" on a single borderline scan: you might end a viable pregnancy.
+
 ## Differential diagnosis
 
 | Condition | Distinguishing features | Key investigation |
@@ -167,17 +286,11 @@ Other terms you will meet:
 
 ## Investigations
 
-| Test | What you are looking for | Why |
-|---|---|---|
-| **Urine hCG (pregnancy test)** | Positive or negative | Confirms pregnancy. It may stay positive for 2–4 weeks after a complete abortion. |
-| **Hb / full blood count** | Anaemia; white cell count; platelets | Transfusion need; sepsis; DIC |
-| **Blood group & crossmatch** | ABO / Rhesus D | Transfusion; anti-D for Rh-negative women |
-| **Pelvic ultrasound** (transvaginal if available) | Retained products, viable IUP, empty uterus, adnexal mass, free fluid, foreign body, molar pattern | Decides the type and excludes ectopic and mole |
-| **Malaria test (mRDT or blood slide)** | Parasitaemia | Common co-existing cause of fever and pregnancy loss |
-| **HIV and syphilis tests** | Positive result | PAC is a chance to link her to care. Syphilis causes second-trimester loss. |
-| **In sepsis:** blood culture (before antibiotics, if possible), high vaginal swab, urea/creatinine and electrolytes, clotting (or bedside clotting time), bilirubin, lactate if available | Organisms; kidney injury; DIC; haemolysis | Guides antibiotics and supportive care |
-| **Erect chest X-ray / abdominal X-ray** | Gas under the diaphragm; foreign body | Perforation of uterus or bowel |
-| **Histology of evacuated tissue** (where available) | Chorionic villi; molar change | Confirms an intrauterine pregnancy; excludes mole |
+The full test list, with when to order each one and how it changes management, is in the **Step 4 table** of *Clinical workup* above. Three extra points:
+
+- **Urine hCG may stay positive for 2–4 weeks** after a complete abortion. Do not use a positive test alone to diagnose retained tissue; persisting positivity beyond 3–4 weeks with symptoms suggests retained tissue, ectopic or gestational trophoblastic disease.
+- **In septic abortion**, add **lactate** where available (a raised lactate supports septic shock) and repeat Hb and creatinine after 24 h.
+- **Histology** is worth sending whenever the tissue looks abnormal (vesicles), no villi were seen, or there have been recurrent losses.
 
 > [!PEARL]
 > **Bedside clotting time.** Put 2 mL of venous blood in a plain glass tube and hold it in your hand. If it has **not clotted by 7 minutes** (or clots and then breaks down easily), suspect coagulopathy. This works at any HC IV without a laboratory.
@@ -403,3 +516,47 @@ The PAC consortium model has **5 elements**:
 
 **PAC = "C-C-T-F-R"**
 **C**ommunity, **C**ounselling, **T**reatment, **F**amily planning, **R**eproductive health services.
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Abortion definition (Uganda / WHO) | Before **28 weeks** / before 22 weeks or under 500 g |
+| Shock index | **0.9 or more** abnormal; **1.4 or more** critical |
+| Transfusion trigger | Hb **under 7 g/dL**, or still shocked after 1–2 L crystalloid |
+| Missed miscarriage on scan | **CRL 7 mm or more** with no heartbeat, or **MSD 25 mm or more** with no embryo |
+| Incomplete abortion, uterus under 14 weeks | MVA, or misoprostol **600 µg oral once** or **400 µg SL once** |
+| Incomplete abortion, uterus 14 weeks or more | Misoprostol **400 µg SL/vaginal/buccal every 3 h** until expulsion |
+| Missed abortion under 14 weeks | **Mifepristone 200 mg** orally, then **misoprostol 800 µg** 1–2 days later (or misoprostol 800 µg alone) |
+| Uterotonic while awaiting evacuation | Misoprostol **400 µg** oral/SL or ergometrine **0.2 mg IM** |
+| Septic abortion antibiotics | **Ampicillin 2 g IV 6-hourly + gentamicin 5 mg/kg IV daily + metronidazole 500 mg IV 8-hourly** |
+| IV antibiotics until | Fever-free **48 h**, then oral to complete 7–14 days |
+| Paracervical block | Lidocaine 1% up to **20 mL**; max **4.5 mg/kg** (plain) |
+| Tetanus after unsafe abortion | **Td 0.5 mL IM** ± **TIG 250 IU IM** |
+| Anti-D (Rh-negative) | Within **72 h**; UK 250 IU before 20 weeks; the Ugandan vial usually stocked is 1,500 IU |
+| Bedside clotting test | No clot by **7 minutes** = coagulopathy |
+| Follow-up after misoprostol | **7–14 days** |
+| Return of ovulation | As early as **8–10 days** |
+
+### Classic exam traps
+
+- **"Positive hCG + bleeding = miscarriage."** Wrong: closed os + empty uterus with no previous IUP is a **PUL, possibly ectopic**. Do serial hCG.
+- **"Bradycardia and hypotension, so give more fluids and wait for theatre."** Wrong: this is **cervical shock**. Remove POC from the os with sponge forceps now.
+- **"Septic abortion: give antibiotics for 48 h to cool her off, then evacuate."** Wrong: start antibiotics, then **evacuate within hours**; the retained tissue is the source.
+- **"Use the LMP to decide MVA vs misoprostol."** Wrong: **uterine size** on bimanual decides (under 14 vs 14 weeks or more).
+- **"Fever after an abortion is malaria."** Wrong until you have **examined the pelvis**: septic abortion first.
+- **"Oxytocin is the best drug for a first-trimester incomplete abortion."** Wrong: few oxytocin receptors before about 20 weeks; use **misoprostol**.
+- **"Insert an IUD at the time of MVA for septic abortion."** Wrong: **MEC 4**. Offer an implant, injectable or pills instead.
+- **"A small retained rim on the day-10 scan needs MVA."** Wrong if she is well: manage by **symptoms and examination**, not the scan alone.
+
+### Questions seniors ask
+
+- **What is the first thing you do for a woman bleeding heavily at 10 weeks?** Assess ABC and vitals, calculate the shock index, two large-bore cannulae with bloods, fluids, and a speculum to remove POC from the os.
+- **How do you tell inevitable from incomplete abortion?** Both have an open os; in incomplete, **some tissue has already passed** and the uterus is usually smaller than dates.
+- **What makes you suspect an induced (unsafe) abortion?** Tenaculum marks, cervical tears, burns, foreign bodies, a very sick woman after an apparently "simple" miscarriage, or peritonism.
+- **When would you do a laparotomy in septic abortion?** Peritonitis, suspected perforation or bowel injury, pelvic abscess, gas under the diaphragm, or no improvement 24–48 h after antibiotics and evacuation.
+- **What are the scan criteria for missed miscarriage?** CRL 7 mm or more with no heartbeat, or MSD 25 mm or more with no embryo; below that, rescan in 7–14 days.
+- **What must she leave with?** A contraceptive method (if she wants one), HIV/syphilis results or linkage, anti-D if Rh-negative and indicated, danger-sign advice and a follow-up date.
+- **When is an empty uterus reassuring?** Only if a previous scan showed an IUP, or she passed a sac you saw, or hCG falls appropriately.

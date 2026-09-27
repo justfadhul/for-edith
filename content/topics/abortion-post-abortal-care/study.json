@@ -105,6 +105,31 @@
       "id": "ab-f21",
       "front": "Uterotonic options for heavy bleeding in incomplete abortion while awaiting evacuation",
       "back": "**Ergometrine 0.2 mg IM** (avoid in hypertension) or **misoprostol 400 µg oral/SL**; remove POC from os; resuscitate."
+    },
+    {
+      "id": "ab-f22",
+      "front": "Shock index: how is it calculated and what are the obstetric cut-offs?",
+      "back": "**Pulse ÷ systolic BP.** **0.9 or more** = abnormal, escalate; **1.4 or more** = critical, resuscitate and get blood. BP falls late in young women."
+    },
+    {
+      "id": "ab-f23",
+      "front": "Ultrasound criteria for diagnosing missed miscarriage",
+      "back": "**CRL 7 mm or more with no heartbeat**, or **mean sac diameter 25 mm or more with no embryo**. Below these, **rescan in 7–14 days** before acting."
+    },
+    {
+      "id": "ab-f24",
+      "front": "Speculum signs that an abortion was instrumented (unsafe)",
+      "back": "**Tenaculum marks**, cervical **tears**, **burns**, **foreign bodies** (stick, catheter, herbs), offensive discharge. Change the plan: broad antibiotics, tetanus prophylaxis, look for perforation."
+    },
+    {
+      "id": "ab-f25",
+      "front": "Bedside clotting test: how to do it and what is abnormal?",
+      "back": "2 mL venous blood in a **plain glass tube**, held in the hand. **No clot by 7 minutes** (or a clot that breaks down) = coagulopathy (think DIC in septic abortion)."
+    },
+    {
+      "id": "ab-f26",
+      "front": "Closed os, bleeding settled, empty uterus on scan, no previous scan. Is this a complete abortion?",
+      "back": "**No: it is a pregnancy of unknown location.** Accept 'complete' only if a prior scan showed an IUP, a sac was seen passing, or hCG falls appropriately. Do **serial hCG 48 h apart** and give ectopic safety-net advice."
     }
   ],
   "mcqs": [

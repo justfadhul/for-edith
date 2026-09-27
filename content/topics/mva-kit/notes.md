@@ -4,12 +4,16 @@ summary: MVA uses a hand-held 60 mL aspirator that creates a vacuum of about 60 
 highYield:
   - "The Ipas-type aspirator holds 60 mL and generates a vacuum of about 60–66 cm Hg (24–26 inches Hg). Cannulae come in 4–12 mm; pick one about equal to the uterine size in weeks, adjusted to how far the os is open."
   - "Indications: incomplete, inevitable and missed abortion; induced abortion where legal; endometrial biopsy; evacuation of a small molar pregnancy. Uterine size up to about 12 weeks (WHO allows vacuum aspiration up to 14 weeks with skill and the right cannula)."
+  - "Before you start: vitals stable (or resuscitation under way), Hb and Rhesus group known, IV antibiotics already running if septic, ectopic excluded, and a bimanual exam for uterine SIZE and POSITION."
+  - "Septic abortion is not a contraindication: start IV antibiotics first, then do MVA within hours. Suspected ectopic or perforation IS a reason not to aspirate."
   - "Paracervical block: 1% lidocaine (lignocaine) up to 20 mL (maximum 4.5 mg/kg plain). Aspirate before every injection. Give ibuprofen 400–800 mg orally 30–60 minutes before."
+  - "Closed cervix (missed abortion): prime with misoprostol 400 µg sublingually 1 hour or vaginally 3 hours before MVA."
   - "Signs of completion: red or pink foam, no more tissue in the cannula, a gritty feel, and the uterus gripping the cannula."
   - "Never push the plunger while the cannula is still in the uterus. Detach first, so you never push air or contents back into the uterus."
   - "Perforation signs: the cannula passes further than the uterine size allows, sudden pain, loss of resistance, or fat or bowel in the aspirate. Stop, and observe or do a laparotomy."
-  - "Processing: keep wet, then clean with detergent and water, then high-level disinfection (boil 20 min, or 0.5% chlorine or 2% glutaraldehyde for 20 min) or sterilisation. Prepare 0.5% chlorine from JIK (3.5%) as 1 part JIK to 6 parts water."
   - "Always examine the aspirated tissue: villi and a sac confirm an intrauterine pregnancy. If there is no tissue, think incomplete evacuation, ectopic or mole."
+  - "After MVA: pulse, BP, bleeding and pain every 15 minutes for 30–60 minutes; anti-D within 72 h if Rh-negative; contraception (IUD can go in at once unless septic)."
+  - "Processing: keep wet, then clean with detergent and water, then high-level disinfection (boil 20 min, or 0.5% chlorine or 2% glutaraldehyde for 20 min) or sterilisation. Prepare 0.5% chlorine from JIK (3.5%) as 1 part JIK to 6 parts water."
 ---
 
 ## In a nutshell
@@ -175,6 +179,114 @@ Rules of thumb:
   - Not looking at the tissue.
   - Leaving the instruments to dry with blood on them.
   - Forgetting FP.
+
+
+## Clinical workup
+
+For a skill like MVA, the "workup" is the **pre-procedure assessment** (is MVA the right operation, for this woman, now?), the **preparation** (consent, analgesia, kit check) and the **post-procedure checks**. On a Ugandan gynae ward the MVA is often done within an hour of admission, so this has to be quick, but no step can be skipped.
+
+### Step 0: First 5 minutes
+
+1. **Is she stable?** Pulse, BP, respiratory rate, temperature, SpO₂, level of consciousness. Calculate the **shock index** (pulse ÷ systolic BP): **0.9 or more abnormal, 1.4 or more critical**.
+2. **If shocked:** call for help, two large-bore cannulae (16–18 G), bloods (Hb, group and crossmatch), **1 L crystalloid quickly**, then reassess. **Remove POC from the os with sponge forceps** at the bedside; this may stop the bleeding and reverse cervical shock. MVA follows **as soon as she is stabilising**, because the retained tissue is the cause of the bleeding.
+3. **If febrile (38 °C or more), with foul discharge or a tender uterus:** give the first doses of **IV ampicillin + gentamicin + metronidazole** now; MVA follows within hours.
+4. **Heavy bleeding and the MVA room not ready?** Uterotonic: **misoprostol 400 µg oral/sublingual** or **ergometrine 0.2 mg IM** (not if hypertensive).
+5. **Stop and rethink** if there is **one-sided pain, shoulder-tip pain, a closed os with an empty uterus, or peritonism**: this may be an ectopic or a perforation, and MVA is the wrong operation.
+
+### Step 1: Focused history
+
+| Ask | Why (what changes the plan) |
+|---|---|
+| **LMP; any scan** | Expected uterine size and cannula size; a prior scan showing an IUP makes an ectopic unlikely. |
+| **Bleeding volume, dizziness, fainting** | Resuscitate first; urgency of the procedure. |
+| **Tissue passed; interference; fever** | Septic: IV antibiotics before MVA. Instrumentation: higher risk of perforation already present, so examine the abdomen carefully first. |
+| **Pain pattern** (midline cramps vs unilateral, shoulder-tip) | Unilateral pain or collapse = ectopic: do not aspirate. |
+| **Previous CS, myomectomy, fibroids, uterine anomaly, previous difficult evacuation** | Distorted or scarred uterus: experienced provider, ultrasound guidance if available. |
+| **Bleeding disorder, anticoagulants** | Correct coagulopathy; do it in hospital with blood ready. |
+| **Allergies** (lidocaine, iodine, NSAIDs, penicillin) | Analgesia, antiseptic and antibiotic choice. |
+| **Asthma, peptic ulcer, renal disease** | Avoid NSAIDs; use paracetamol. |
+| **Blood group / Rhesus, HIV status** | Anti-D; opt-out HIV testing and linkage. |
+| **Contraceptive plans** | Have the IUD kit or implant ready so it can be given in the same visit. |
+
+### Step 2: Focused examination
+
+1. **General:** pallor, temperature, pulse, BP, shock index.
+2. **Abdomen:** is the uterus palpable above the symphysis? **Guarding, rebound or distension** means perforation, abscess or ectopic: do not proceed without senior review.
+3. **Speculum:** os open or closed and how wide; POC in the os (remove them); offensive discharge; tears, burns, tenaculum marks or foreign bodies.
+4. **Bimanual (the essential safety step):**
+   - **Uterine size in weeks** (predicts cannula size and expected depth).
+   - **Position: anteverted or retroverted.** An unrecognised retroverted uterus is the classic set-up for perforation.
+   - Consistency, tenderness, cervical motion tenderness, adnexal masses.
+
+**How to size the uterus on bimanual (commonly taught comparisons; practice varies):**
+
+| Uterine size | What you feel |
+|---|---|
+| Non-pregnant | Small, firm, like a pear |
+| About 6 weeks | Slightly enlarged, soft (like a hen's egg to a small orange) |
+| About 8 weeks | Like an orange |
+| About 10 weeks | Like a grapefruit; fills much of the pelvis |
+| About 12 weeks | Fills the pelvis; fundus **just palpable above the symphysis pubis** |
+| About 14 weeks or more | Easily palpable abdominally: beyond routine MVA; use misoprostol |
+
+A full bladder, obesity, fibroids or a retroverted uterus make sizing less accurate. Always compare the **uterine size with the dates**: smaller suggests incomplete or missed abortion; larger suggests mole, twins, fibroids or wrong dates.
+
+### Step 3: Bedside tests
+
+| Test | Why |
+|---|---|
+| **HemoCue / bedside Hb** | Baseline. Severe anaemia (under 7 g/dL) or shock: transfuse and have blood ready. |
+| **Urine pregnancy test** | Confirms pregnancy if not already known. |
+| **Bedside clotting test** (2 mL in a plain glass tube; no clot by 7 minutes = abnormal) | Septic or long-retained pregnancy: suspect DIC before instrumenting. |
+| **mRDT** | Fever: co-existing malaria, but it never excuses you from treating sepsis. |
+| **Point-of-care ultrasound** (if available and you are trained) | Retained products vs empty uterus; free fluid; confirms size before and completeness after. |
+| **Aspirator vacuum test** | Close the valves, pull the plunger until the arms lock, wait a few minutes, then open the valves: a rush of air means it holds the vacuum. Recharge before use. |
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Hb / FBC** | Everyone (Hb at HC III; FBC at HC IV and above) | Anaemia; raised WBC in sepsis; low platelets | Transfuse; supports sepsis; check clotting before MVA |
+| **Blood group and Rhesus D** | Everyone before or at the procedure (HC IV and above) | Rh-negative | **Anti-D within 72 h** after surgical evacuation (UK 250 IU before 20 weeks; the Ugandan vial usually stocked is 1,500 IU) |
+| **Crossmatch** | Heavy bleeding, Hb under 7 g/dL, suspected mole or coagulopathy (HC IV and above) | | Blood ready in the room before you start |
+| **HIV and syphilis tests** | Everyone (all levels; opt-out) | Positive | Linkage to ART; treat syphilis |
+| **Pelvic ultrasound** | Uncertain diagnosis, closed os, suspected ectopic, mole or perforation; after MVA if no villi seen. Abdominal scan at most HC IVs; TVUS mainly at referral hospitals | Retained products; empty uterus ± adnexal mass or free fluid; snowstorm (mole) | Confirms MVA is appropriate; an empty uterus with no villi → ectopic pathway; mole → electric vacuum at a hospital |
+| **Serum β-hCG** | No villi in the aspirate, suspected ectopic or mole (mainly referral hospitals and private labs) | Rising or plateauing hCG after MVA | Ectopic or failed procedure; very high hCG = mole |
+| **Renal function, clotting screen** | Septic abortion, oliguria, abnormal bedside clotting (regional/national referral) | Raised creatinine; prolonged PT/APTT, low fibrinogen | Gentamicin dose; blood products before evacuation |
+| **Histology** | Where available, especially if vesicles or no villi seen | Villi (confirms IUP); hydropic villi (mole) | Mole → hCG follow-up |
+
+### Step 5: Putting it together
+
+**A. The pre-procedure checklist (say it aloud before you start):**
+
+1. **Indication confirmed:** e.g. incomplete abortion, uterus under 12 weeks, ectopic excluded.
+2. **Prerequisites met:** vitals stable or resuscitation running; Hb and group known; IV antibiotics already given if septic; bladder emptied; **ibuprofen 400–800 mg given 30–60 minutes ago**; prophylactic antibiotic per local policy (e.g. doxycycline 200 mg or metronidazole 500 mg orally once).
+3. **Consent:** what MVA is; that it takes 5–10 minutes of aspiration; pain relief (block + NSAID + talking); risks (**bleeding, infection, incomplete evacuation, perforation under 1 in 1,000**, cervical injury); alternatives (misoprostol, expectant); contraception offered; questions answered; written consent and a chaperone.
+4. **Equipment check:** aspirator assembled, O-ring lubricated, **valves closed, plunger arms locked, vacuum tested**; cannulae of the expected size and one size either side; dilators, tenaculum, speculum, sponge forceps; antiseptic; lidocaine 1% drawn up (**maximum 4.5 mg/kg**); strainer, clear dish, water or vinegar and light; emergency drugs (oxytocin, misoprostol, ergometrine, atropine, diazepam), IV fluids, oxygen; FP supplies; processing buckets ready.
+
+**B. Model one-line summary:**
+> "A 22-year-old P1+1 at 10 weeks by dates with an incomplete abortion, **stable** (pulse 92, BP 116/74, afebrile), Hb 10.4 g/dL, Rh-positive, HIV-negative. Os open with POC; **uterus 8-week size, anteverted**, non-tender, adnexae free. **Plan: MVA with an 8 mm cannula** under paracervical block after ibuprofen 800 mg; she has chosen a **copper IUD** after the procedure."
+
+**C. Post-procedure checks:**
+
+| Check | Normal | Worry if |
+|---|---|---|
+| **Tissue (inspect it)** | Villi (white, fluffy, frond-like), decidua, sac; amount matches the gestation | **No villi** (incomplete, already passed, or **ectopic**); **vesicles** (mole); **fat, omentum or bowel** (perforation) |
+| **Vitals every 15 min for 30–60 min** | Pulse and BP stable | Rising pulse, falling BP: haemorrhage, perforation or haematometra |
+| **Bleeding** | Light, like a period | Brisk bleeding: re-aspirate, uterotonic, check the cervix |
+| **Pain** | Cramps settling with analgesia | Severe or increasing pain with an enlarged tender uterus (**haematometra**) or peritonism (**perforation**) |
+| **Before discharge** | Walking, passing urine, eating | |
+| **Given before she leaves** | Anti-D if Rh-negative; contraception; analgesia; danger signs; follow-up in 1–2 weeks | |
+
+**Worked example 1: inspecting the aspirate.**
+MVA for "incomplete abortion" at 7 weeks yields only 10 mL of blood clot. Floated in water against a light: **no villi, no sac**.
+- Interpretation: either the POC were already passed (complete abortion), the evacuation was incomplete, or **this is an ectopic pregnancy**.
+- Next: check vitals and the abdomen, arrange an **ultrasound** (adnexal mass, free fluid) and a **serum hCG**, repeat in 48 h. Do not discharge her without an ectopic safety-net.
+
+**Worked example 2: a retroverted uterus.**
+Bimanual before MVA: 9-week-size uterus, **retroverted**. The os is partly open.
+- Apply the tenaculum to the **posterior lip** (or anterior with firm traction) to **straighten the uterocervical angle**; direct the cannula **posteriorly** along the axis of the uterus; expect the fundus at about 9–10 cm.
+- If the cannula advances beyond the expected depth without resistance: **stop, suspect perforation**, and follow the perforation pathway.
 
 ## Procedure step by step
 
@@ -398,3 +510,48 @@ Close the valves, then pull the plunger until the arms **L**ock. Check they lock
 **Chlorine dilution: "3.5 over 0.5, minus 1 = 6"**
 
 **Perforation: "Too deep, too easy, too painful, too fatty"**
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Aspirator capacity | **60 mL** |
+| Vacuum | About **60–66 cm Hg** (24–26 in Hg) |
+| Cannula sizes | **4–12 mm** (4, 5, 6, 7, 8, 9, 10, 12) |
+| Cannula rule | Size in mm ≈ **uterine size in weeks** |
+| Routine upper limit | About **12 weeks'** uterine size (WHO: up to 14 with skill and the right cannula) |
+| Pre-procedure NSAID | **Ibuprofen 400–800 mg** orally 30–60 min before |
+| Lidocaine for block | **1%** (10 mg/mL), up to **20 mL**; max **4.5 mg/kg** plain |
+| Block sites | 1–2 mL at 12 o'clock (tenaculum), then **4 and 8 o'clock**, 1.5–3 cm deep, 3–5 mL each |
+| Wait after block | **2–3 minutes** |
+| Cervical priming | Misoprostol **400 µg SL 1 h** or **vaginally 3 h** before |
+| Prophylactic antibiotic (WHO) | Doxycycline 200 mg or metronidazole 500 mg orally, once before |
+| Perforation risk | **Under 1 in 1,000** |
+| Post-procedure monitoring | Every **15 min** for **30–60 min** |
+| Vasovagal bradycardia | **Atropine 0.5 mg IV** if persistent |
+| Anti-D | Within **72 h** if Rh-negative |
+| HLD | Boil **20 min**; or 0.5% chlorine or 2% glutaraldehyde **20 min** |
+| Autoclave | 121 °C, **30 min** wrapped / 20 min unwrapped |
+| 0.5% chlorine from JIK 3.5% | **1 part JIK : 6 parts water** |
+
+### Classic exam traps
+
+- **"The os is open, so bimanual is unnecessary."** Wrong: you need **size and position** before any instrument goes in; a missed retroversion causes perforations.
+- **"Septic abortion is a contraindication to MVA."** Wrong: give IV antibiotics, then MVA is the **source control**.
+- **"Push the plunger to clear a blocked cannula."** Wrong: **never push the plunger while connected to a cannula in the uterus** (air embolism). Withdraw and clear with forceps.
+- **"The aspirator stopped sucking, so the uterus is empty."** Wrong: check it is not **full, clogged, outside the os, or uncharged**. Completion needs foam, grit, grip and cramps.
+- **"20 mL of 1% lidocaine is always safe."** Wrong for a woman under about 45 kg: the maximum is **4.5 mg/kg** (18 mL for 40 kg).
+- **"Boil or disinfect the instruments straight after use."** Wrong: **clean first** (detergent and a soft brush); HLD fails on dirty instruments.
+- **"No tissue was obtained, so she can go home."** Wrong: no villi = think **ectopic**; scan and serial hCG.
+
+### Questions seniors ask
+
+- **What do you check before you pick up the aspirator?** Stable vitals, confirmed indication, ectopic excluded, antibiotics if septic, Hb and group, consent, analgesia given, bimanual size and position, and a charged, tested aspirator.
+- **How do you choose the cannula?** About the uterine size in weeks; in incomplete abortion the largest that passes the open os comfortably.
+- **How do you know the uterus is empty?** Red or pink foam, no more tissue, a gritty feel, the uterus gripping the cannula, and more cramping.
+- **What do you see when you float the aspirate?** Villi (fluffy, frond-like), decidua and the sac; vesicles mean a mole; fat or bowel mean perforation.
+- **The cannula goes to 14 cm in a 10-week uterus. What now?** Stop, withdraw, no further suction; monitor vitals and abdomen, antibiotics and a uterotonic; laparotomy if unstable, peritonitic, or fat or bowel was aspirated.
+- **She becomes pale with a pulse of 44 as you apply the tenaculum. Why and what do you do?** Vasovagal reaction: stop traction, lie her flat with legs up, oxygen, fluids, remove any POC from the os, **atropine 0.5 mg IV** if bradycardia persists.
+- **What must happen before she leaves?** Vitals checked for 30–60 min, anti-D if Rh-negative, contraception, analgesia, danger signs and a 1–2 week review.
