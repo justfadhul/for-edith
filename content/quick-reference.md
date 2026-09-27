@@ -91,7 +91,7 @@ summary: A high-yield cheat-sheet for the Ugandan labour ward and obstetric ward
 | Indication | Gestation | Regimen |
 |---|---|---|
 | **Incomplete miscarriage** | <13 weeks | **600 mcg orally** once, or **400 mcg sublingually** once |
-| **Missed miscarriage** (early fetal demise) | <13 weeks | **800 mcg vaginally** (or 600 mcg sublingually); repeat after 3 h if needed (max 2 doses) |
+| **Missed miscarriage** (early fetal demise) | <14 weeks | **WHO 2022 preferred: mifepristone 200 mg orally, then misoprostol 800 mcg vaginally/sublingually 1–2 days later.** Misoprostol alone (FIGO): **800 mcg vaginally** (or 600 mcg sublingually); repeat after 3 h if needed (max 2 doses) |
 | Cervical priming before MVA / surgical evacuation | <13 weeks | **400 mcg sublingually 1 h** or **vaginally 3 h** before the procedure |
 | Termination (legal indication) / incomplete abortion with a uterus ≥13–14 weeks | **13–24 weeks** | **400 mcg vaginally, sublingually or buccally every 3 h** until expulsion (WHO 2022) |
 | Fetal death | **14–28 weeks** | **400 mcg vaginally/sublingually every 4–6 h** (WHO 2022, ideally after mifepristone 200 mg) or **200 mcg every 4–6 h** (FIGO). Use the lower dose nearer 28 weeks (FIGO: **100 mcg every 4 h at 27–28 weeks**) and with a uterine scar |
@@ -107,9 +107,9 @@ summary: A high-yield cheat-sheet for the Ugandan labour ward and obstetric ward
 
 | Indication | Regimen | Duration |
 |---|---|---|
-| **Puerperal sepsis / maternal sepsis / septic abortion** | **Ampicillin 2 g IV 6-hourly + gentamicin 5 mg/kg IV once daily + metronidazole 500 mg IV 8-hourly** (alternative: ceftriaxone 2 g IV daily + metronidazole 500 mg IV 8-hourly) | IV until afebrile for 48 h (WHO MCPC), then oral (e.g. amoxicillin + metronidazole) to complete about 7 days in total; longer if an abscess or complicated infection, per local protocol. Evacuate retained products; drain pus |
+| **Puerperal sepsis / maternal sepsis / septic abortion** | **Ampicillin 2 g IV 6-hourly + gentamicin 5 mg/kg IV once daily + metronidazole 500 mg IV 8-hourly** (alternative: ceftriaxone 1–2 g IV daily + metronidazole 500 mg IV 8-hourly) | IV until afebrile for 48 h (WHO MCPC), then oral (e.g. amoxicillin + metronidazole) to complete about 7 days in total; longer if an abscess or complicated infection, per local protocol. Evacuate retained products; drain pus |
 | **PPROM** | **Erythromycin 250 mg orally 6-hourly** | **10 days** or until labour. **Avoid co-amoxiclav** (NEC) |
-| **Intrapartum GBS prophylaxis** (preterm labour, ROM >18 h, fever, previous GBS baby) | **Benzylpenicillin 3 g (5 MU) IV**, then **1.5–1.8 g (2.5–3 MU) 4-hourly**; or **ampicillin 2 g IV then 1 g 4-hourly**; allergy: **clindamycin 900 mg IV 8-hourly** | Until delivery |
+| **Intrapartum GBS prophylaxis** (preterm labour, ROM >18 h, fever, previous GBS baby) | **Benzylpenicillin 3 g (5 MU) IV**, then **1.5–1.8 g (2.5–3 MU) IV 4-hourly**; or **ampicillin 2 g IV then 1 g 4-hourly**; allergy: **clindamycin 900 mg IV 8-hourly** | Until delivery |
 | **Chorioamnionitis** | **Ampicillin 2 g IV 6-hourly + gentamicin 5 mg/kg IV daily** (+ metronidazole 500 mg IV 8-hourly if CS) | **Deliver**. Stop after vaginal birth if well; after CS continue until 48 h afebrile |
 | **Caesarean section prophylaxis** | **Cefazolin 2 g IV** (3 g if >120 kg) or **ampicillin 2 g IV**, single dose **15–60 min before skin incision** (Uganda often uses ceftriaxone 1–2 g IV) | Single dose (repeat if >4 h surgery or blood loss >1.5 L) |
 | **Pyelonephritis in pregnancy** | Admit; **ceftriaxone 1–2 g IV daily** (or ampicillin + gentamicin) | Until afebrile 24–48 h, then oral to complete **10–14 days**; urine culture; repeat culture after treatment |
@@ -121,10 +121,10 @@ summary: A high-yield cheat-sheet for the Ugandan labour ward and obstetric ward
 
 | Situation | Dose | Timing |
 |---|---|---|
-| **After delivery of an Rh-positive baby** | **300 mcg (1,500 IU) IM** (UK: 500 IU + Kleihauer test) | **Within 72 hours** (some benefit up to 10 days) |
-| Routine antenatal prophylaxis (where available) | **300 mcg (1,500 IU) IM** at **28 weeks** (or 500 IU at 28 and 34 weeks) | |
-| Sensitising event **<12 weeks** (miscarriage, ectopic, evacuation) | **50 mcg (250 IU) IM** | Within 72 h |
-| Sensitising event **≥12 weeks** (APH, ECV, abdominal trauma, IUFD, amniocentesis) | **300 mcg (1,500 IU) IM** (UK ≥20 weeks: 500 IU + Kleihauer) | Within 72 h |
+| **After delivery of an Rh-positive baby** | **Uganda (usual vial): 1,500 IU (300 mcg) IM**. **UK: 500 IU IM + Kleihauer** to guide extra doses | **Within 72 hours** (some benefit up to 10 days) |
+| Routine antenatal prophylaxis (where available) | **1,500 IU (300 mcg) IM** at **28 weeks** (single-dose regimen), or **500 IU at 28 and 34 weeks** (UK two-dose regimen) | |
+| Sensitising event **before 20 weeks** (surgical evacuation, ectopic, molar pregnancy, miscarriage ≥12 weeks, APH, trauma) | **UK: 250 IU (50 mcg) IM** (before 12 weeks only after surgical evacuation, ectopic, molar pregnancy or heavy/repeated bleeding). **Uganda**: the vial usually stocked is **1,500 IU (300 mcg) IM**, which is also acceptable | Within 72 h |
+| Sensitising event **20 weeks or more** (APH, ECV, abdominal trauma, IUFD, amniocentesis) | **UK: 500 IU IM + Kleihauer** to guide extra doses. **Uganda (usual vial): 1,500 IU (300 mcg) IM** | Within 72 h |
 
 > [!UGANDA]
 > Anti-D is expensive and not always stocked in public facilities. Check the blood group at booking, counsel Rh-negative women early, and **plan purchase before delivery**. Check the baby's cord blood group.
@@ -276,7 +276,7 @@ Shoulders:   Bisacromial 12 cm (reduces to ~9.5 cm with compression)
 | **Hypertension in pregnancy** | ≥140/90 on two occasions; **severe ≥160/110** |
 | **Anaemia in pregnancy** | Hb <11 g/dL; severe <7 g/dL |
 | **Fever** | ≥38.0°C |
-| **Prolonged labour** | Active phase >12 h (Uganda) or crossing the action line; prolonged second stage: **WHO 2018 / Labour Care Guide ≥3 h nulliparous, ≥2 h parous**; older/ACOG-style teaching uses >2 h primigravida (>3 h with epidural) and >1 h multipara (>2 h with epidural) |
+| **Prolonged labour** | Active phase >12 h (Uganda) or crossing the action line; prolonged second stage: **WHO 2018 / Labour Care Guide ≥3 h nulliparous, ≥2 h parous**; NICE/RCOG-style (and older ACOG) teaching, common on Ugandan wards, uses >2 h primigravida (>3 h with epidural) and >1 h multipara (>2 h with epidural) |
 | **Puerperium** | 6 weeks after delivery |
 | **Maternal death** | Death during pregnancy or **within 42 days** of its end, from any cause related to or aggravated by pregnancy (not accidental). Late maternal death: 42 days to 1 year |
 | **Perinatal death** | Stillbirth + early neonatal death (first 7 days) |
