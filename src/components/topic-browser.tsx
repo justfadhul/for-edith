@@ -60,8 +60,8 @@ export function TopicBrowser({ topics }: { topics: TopicSummary[] }) {
         const wt = filtered.filter((t) => t.week === w);
         if (!wt.length) return null;
         return (
-          <section key={w} className="mt-8">
-            <h2 className="mb-3 font-serif text-xl font-semibold">
+          <section key={w} id={`week-${w}`} className="mt-8 scroll-mt-32">
+            <h2 className="mb-3 h-section">
               <span className="text-brand">Week {w}</span> · {WEEK_THEMES[w]}
             </h2>
             <div className="grid gap-3 md:grid-cols-2">
@@ -83,7 +83,7 @@ function TopicCard({ t, status, saved }: { t: TopicSummary; status?: TopicStatus
       <div className="flex items-center gap-2">
         <StatusDot status={status} />
         <KindChip kind={t.kind} />
-        <span className="text-xs text-ink-3 capitalize">{t.discipline}</span>
+        {t.discipline !== "skills" && <span className="text-xs capitalize text-ink-3">{t.discipline}</span>}
         {saved && <Bookmark size={14} className="ml-auto fill-brand text-brand" />}
       </div>
       <h3 className="mt-2 font-semibold leading-snug group-hover:text-brand">{t.title}</h3>
@@ -116,8 +116,8 @@ function Pill({ active, onClick, children }: { active: boolean; onClick: () => v
     <button
       onClick={onClick}
       className={clsx(
-        "shrink-0 rounded-full border px-3 py-1.5 text-sm font-medium transition",
-        active ? "border-brand bg-brand text-brand-ink" : "border-line bg-surface text-ink-2 hover:bg-surface-2",
+        "shrink-0 rounded-lg border px-2.5 py-1 text-[13px] font-medium transition",
+        active ? "border-brand-line bg-brand-soft text-brand" : "border-line bg-surface text-ink-2 hover:bg-surface-2",
       )}
     >
       {children}

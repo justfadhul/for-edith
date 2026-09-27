@@ -127,7 +127,7 @@ export function QuizBuilder({ topics }: { topics: TopicLite[] }) {
         </div>
 
         <div className="card space-y-5 p-5">
-          <h2 className="font-serif text-lg font-semibold">Build your own</h2>
+          <h2 className="h-section">Build your own</h2>
           <Field label="Mode">
             <Seg value={mode} onChange={setMode} options={[["practice", "Practice: instant feedback"], ["exam", "Mock exam: timed"]]} />
           </Field>
@@ -251,8 +251,8 @@ function Seg<T extends string | number>({ value, onChange, options }: { value: T
           key={String(v)}
           onClick={() => onChange(v)}
           className={clsx(
-            "rounded-lg border px-3 py-1.5 text-sm font-medium",
-            value === v ? "border-brand bg-brand text-brand-ink" : "border-line bg-surface text-ink-2 hover:bg-surface-2",
+            "rounded-lg border px-2.5 py-1 text-[13px] font-medium",
+            value === v ? "border-brand-line bg-brand-soft text-brand" : "border-line bg-surface text-ink-2 hover:bg-surface-2",
           )}
         >
           {label}

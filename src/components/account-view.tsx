@@ -115,7 +115,7 @@ export function AccountView() {
                 onClick={() => applyTheme(t)}
                 className={clsx(
                   "rounded-lg border px-3 py-1.5 text-sm font-medium capitalize",
-                  theme === t ? "border-brand bg-brand text-brand-ink" : "border-line bg-surface text-ink-2",
+                  theme === t ? "border-brand-line bg-brand-soft text-brand" : "border-line bg-surface text-ink-2",
                 )}
               >
                 {t}

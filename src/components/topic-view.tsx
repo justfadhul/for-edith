@@ -30,9 +30,9 @@ export function TopicActions({ slug }: { slug: string }) {
               "flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-sm font-medium transition",
               status === s.v
                 ? s.v === "done"
-                  ? "bg-good text-white"
+                  ? "bg-brand text-white"
                   : s.v === "in_progress"
-                    ? "bg-warn text-white"
+                    ? "bg-lilac text-white"
                     : "bg-surface-2"
                 : "text-ink-3 hover:text-ink",
             )}
@@ -56,7 +56,7 @@ export function TopicActions({ slug }: { slug: string }) {
             key={n}
             onClick={() => setConfidence(slug, n)}
             aria-label={`Confidence ${n} of 5`}
-            className={clsx("h-6 w-6 rounded-full border text-xs font-bold", (t?.confidence ?? 0) >= n ? "border-brand bg-brand text-brand-ink" : "border-line")}
+            className={clsx("h-6 w-6 rounded-full border text-xs font-bold", (t?.confidence ?? 0) >= n ? "border-brand-line bg-brand-soft text-brand" : "border-line")}
           >
             {n}
           </button>
@@ -243,15 +243,15 @@ export function TopicTabs({
                     key={c.id}
                     onClick={() => setCaseIdx(i)}
                     className={clsx(
-                      "shrink-0 rounded-full border px-3 py-1.5 text-sm font-medium",
-                      i === caseIdx ? "border-brand bg-brand text-brand-ink" : "border-line bg-surface",
+                      "shrink-0 rounded-lg border px-2.5 py-1 text-[13px] font-medium",
+                      i === caseIdx ? "border-brand-line bg-brand-soft text-brand" : "border-line bg-surface",
                     )}
                   >
                     {state.cases[c.id]?.completed && "✓ "}Case {i + 1}
                   </button>
                 ))}
               </div>
-              <h3 className="mb-3 font-serif text-xl font-semibold">{cases[caseIdx].title}</h3>
+              <h3 className="mb-3 h-section">{cases[caseIdx].title}</h3>
               <CaseRunner key={cases[caseIdx].id} c={cases[caseIdx]} topic={slug} />
             </>
           )}

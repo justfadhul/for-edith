@@ -1,12 +1,12 @@
 import type { Metadata, Viewport } from "next";
-import { Inter, Fraunces } from "next/font/google";
+import { Inter, Instrument_Serif } from "next/font/google";
 import "./globals.css";
 import { StudyProvider } from "@/lib/store/study-store";
-import { SiteHeader, BottomNav } from "@/components/nav";
+import { Sidebar, TopBar, BottomNav, CommandMenu } from "@/components/nav";
 import { ServiceWorkerRegister } from "@/components/sw-register";
 
 const sans = Inter({ variable: "--font-sans-var", subsets: ["latin"] });
-const serif = Fraunces({ variable: "--font-serif-var", subsets: ["latin"], weight: ["500", "600", "700"] });
+const serif = Instrument_Serif({ variable: "--font-serif-var", subsets: ["latin"], weight: "400", style: ["normal", "italic"] });
 
 export const metadata: Metadata = {
   title: { default: "For Edith: Obs & Gyn", template: "%s · For Edith" },
@@ -21,8 +21,8 @@ export const viewport: Viewport = {
   initialScale: 1,
   viewportFit: "cover",
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#fbf7f5" },
-    { media: "(prefers-color-scheme: dark)", color: "#141013" },
+    { media: "(prefers-color-scheme: light)", color: "#fcfbfb" },
+    { media: "(prefers-color-scheme: dark)", color: "#111113" },
   ],
 };
 
@@ -37,9 +37,13 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       </head>
       <body className="min-h-dvh">
         <StudyProvider>
-          <SiteHeader />
-          <main className="mx-auto w-full max-w-6xl px-4 pb-28 pt-4 sm:px-6 lg:pb-16">{children}</main>
+          <Sidebar />
+          <div className="lg:pl-60">
+            <TopBar />
+            <main className="mx-auto w-full max-w-6xl px-4 pb-28 pt-5 sm:px-6 lg:px-10 lg:pb-16">{children}</main>
+          </div>
           <BottomNav />
+          <CommandMenu />
           <ServiceWorkerRegister />
         </StudyProvider>
       </body>

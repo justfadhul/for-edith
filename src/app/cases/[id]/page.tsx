@@ -41,7 +41,7 @@ export default async function CasePage(props: PageProps<"/cases/[id]">) {
           {topic.title}
         </Link>
       </nav>
-      <h1 className="mb-5 font-serif text-3xl font-semibold leading-tight">{c.title}</h1>
+      <h1 className="mb-5 h-display">{c.title}</h1>
       <CaseRunner c={c} topic={topic.slug} />
       <div className="mt-8 flex flex-wrap justify-between gap-3">
         <Link href={`/topics/${topic.slug}`} className="btn btn-outline">

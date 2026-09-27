@@ -39,7 +39,7 @@ export function Timetable({ sessions, titles }: { sessions: Session[]; titles: R
         const days = [0, 1, 2, 3, 4].map((d) => (w - 1) * 7 + d);
         return (
           <section key={w} className="mb-10">
-            <h2 className="mb-3 font-serif text-xl font-semibold">
+            <h2 className="mb-3 h-section">
               <span className="text-brand">Week {w}</span> · {WEEK_THEMES[w]}
             </h2>
             <div className="space-y-3">

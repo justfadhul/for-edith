@@ -41,8 +41,8 @@ export function FlashcardsHub() {
             key={w}
             onClick={() => setWeek(w)}
             className={clsx(
-              "shrink-0 rounded-full border px-3 py-1.5 text-sm font-medium",
-              week === w ? "border-brand bg-brand text-brand-ink" : "border-line bg-surface text-ink-2",
+              "shrink-0 rounded-lg border px-2.5 py-1 text-[13px] font-medium",
+              week === w ? "border-brand-line bg-brand-soft text-brand" : "border-line bg-surface text-ink-2",
             )}
           >
             {w === "all" ? "All weeks" : `Week ${w}`}

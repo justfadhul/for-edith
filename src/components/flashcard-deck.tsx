@@ -100,7 +100,7 @@ export function FlashcardDeck({ cards, newLimit = 20, emptyHint }: { cards: Deck
     return (
       <div className="card p-8 text-center">
         <PartyPopper className="mx-auto text-brand" size={36} />
-        <h3 className="mt-3 font-serif text-xl font-semibold">{reviewed ? "Session complete!" : "All caught up"}</h3>
+        <h3 className="mt-3 h-section">{reviewed ? "Session complete!" : "All caught up"}</h3>
         <p className="mt-1 text-ink-2">
           {reviewed ? `You reviewed ${reviewed} card${reviewed === 1 ? "" : "s"}. ` : ""}
           {stats.mastered}/{stats.total} cards mastered (interval ≥ 3 weeks).

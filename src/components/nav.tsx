@@ -1,79 +1,221 @@
 "use client";
 
 import Link from "next/link";
-import { usePathname } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import clsx from "clsx";
-import { BookOpen, CalendarDays, Home, Layers, ListChecks, Search, UserRound, Zap, Stethoscope } from "lucide-react";
+import {
+  BookOpen,
+  CalendarDays,
+  CornerDownLeft,
+  Home,
+  Layers,
+  ListChecks,
+  Search,
+  Sparkles,
+  Stethoscope,
+  Timer,
+  UserRound,
+  Zap,
+} from "lucide-react";
+import { TOPICS, WEEKS, WEEK_THEMES } from "@/content/curriculum";
 import { useStudy } from "@/lib/store/study-store";
 
-const NAV = [
+const STUDY = [
+  { href: "/", label: "Today", icon: Home },
+  { href: "/topics", label: "Topics", icon: BookOpen },
+  { href: "/flashcards", label: "Flashcards", icon: Layers },
+  { href: "/quiz", label: "Quiz", icon: ListChecks },
+  { href: "/cases", label: "Cases", icon: Stethoscope },
+];
+const REFERENCE = [
+  { href: "/schedule", label: "Timetable", icon: CalendarDays },
+  { href: "/quick-reference", label: "Quick reference", icon: Zap },
+];
+const MOBILE = [
   { href: "/", label: "Today", icon: Home },
   { href: "/topics", label: "Topics", icon: BookOpen },
   { href: "/flashcards", label: "Cards", icon: Layers },
   { href: "/quiz", label: "Quiz", icon: ListChecks },
   { href: "/cases", label: "Cases", icon: Stethoscope },
-  { href: "/schedule", label: "Timetable", icon: CalendarDays },
-  { href: "/quick-reference", label: "Quick ref", icon: Zap },
 ];
 
-const MOBILE = ["/", "/topics", "/flashcards", "/quiz", "/cases"];
+const openCommand = () => window.dispatchEvent(new Event("open-command"));
 
 function isActive(pathname: string, href: string) {
   return href === "/" ? pathname === "/" : pathname.startsWith(href);
 }
 
-export function SiteHeader() {
+export function Logo({ compact = false }: { compact?: boolean }) {
+  return (
+    <Link href="/" className="flex items-center gap-2.5">
+      <span className="relative grid h-8 w-8 place-items-center rounded-[9px] bg-gradient-to-br from-brand to-lilac text-white shadow-[inset_0_1px_0_rgb(255_255_255/0.3)]">
+        <span className="font-serif text-[19px] italic leading-none">E</span>
+        <Sparkles size={10} className="absolute -right-1 -top-1 text-brand" fill="currentColor" />
+      </span>
+      {!compact && (
+        <span className="leading-tight">
+          <span className="h-logo block whitespace-nowrap">For Edith</span>
+          <span className="hidden whitespace-nowrap text-[11px] text-ink-3 sm:block lg:block">Obs &amp; Gyn · UCU</span>
+        </span>
+      )}
+    </Link>
+  );
+}
+
+function NavItem({ href, label, icon: Icon, pathname }: { href: string; label: string; icon: typeof Home; pathname: string }) {
+  const active = isActive(pathname, href);
+  return (
+    <Link
+      href={href}
+      className={clsx(
+        "group flex h-8 items-center gap-2.5 rounded-md px-2 text-[13.5px] font-medium transition",
+        active ? "bg-surface text-ink shadow-[0_0_0_1px_var(--line),0_1px_2px_rgb(0_0_0/0.04)]" : "text-ink-2 hover:bg-surface-3/70 hover:text-ink",
+      )}
+    >
+      <Icon size={16} className={clsx(active ? "text-brand" : "text-ink-3 group-hover:text-ink-2")} strokeWidth={active ? 2.2 : 1.8} />
+      {label}
+    </Link>
+  );
+}
+
+export function Sidebar() {
+  const pathname = usePathname();
+  const { state, sync } = useStudy();
+  return (
+    <aside className="fixed inset-y-0 left-0 z-40 hidden w-60 flex-col border-r border-line bg-surface-2 lg:flex">
+      <div className="flex h-14 items-center px-4">
+        <Logo />
+      </div>
+      <div className="px-3">
+        <button
+          onClick={openCommand}
+          className="flex h-8 w-full items-center gap-2 rounded-md border border-line bg-surface px-2 text-[13px] text-ink-3 shadow-[0_1px_2px_rgb(0_0_0/0.03)] hover:border-line-strong"
+        >
+          <Search size={14} /> Search
+          <span className="ml-auto flex gap-0.5">
+            <span className="kbd">⌘</span>
+            <span className="kbd">K</span>
+          </span>
+        </button>
+      </div>
+      <nav className="mt-4 flex-1 space-y-5 overflow-y-auto px-3 pb-4">
+        <div className="space-y-0.5">
+          {STUDY.map((n) => (
+            <NavItem key={n.href} {...n} pathname={pathname} />
+          ))}
+        </div>
+        <div>
+          <div className="mb-1 px-2 text-[11px] font-medium text-ink-3">Reference</div>
+          <div className="space-y-0.5">
+            {REFERENCE.map((n) => (
+              <NavItem key={n.href} {...n} pathname={pathname} />
+            ))}
+          </div>
+        </div>
+        <div>
+          <div className="mb-1 px-2 text-[11px] font-medium text-ink-3">Weeks</div>
+          <div className="space-y-0.5">
+            {WEEKS.map((w) => {
+              const wt = TOPICS.filter((t) => t.week === w);
+              const done = wt.filter((t) => state.topics[t.slug]?.status === "done").length;
+              return (
+                <Link
+                  key={w}
+                  href={`/topics#week-${w}`}
+                  title={WEEK_THEMES[w]}
+                  className="flex h-8 items-center gap-2.5 rounded-md px-2 text-[13px] text-ink-2 hover:bg-surface-3/70 hover:text-ink"
+                >
+                  <span
+                    className={clsx(
+                      "grid h-4 w-4 place-items-center rounded-[4px] text-[9px] font-bold",
+                      done === wt.length ? "bg-brand text-white" : "bg-brand-soft text-brand",
+                    )}
+                  >
+                    {w}
+                  </span>
+                  <span className="truncate">{WEEK_THEMES[w]}</span>
+                  <span className="ml-auto text-[11px] tabular-nums text-ink-3">
+                    {done}/{wt.length}
+                  </span>
+                </Link>
+              );
+            })}
+          </div>
+        </div>
+      </nav>
+      <div className="border-t border-line p-3">
+        <Link href="/account" className="flex items-center gap-2.5 rounded-md p-1.5 hover:bg-surface-3/70">
+          <span className="grid h-7 w-7 place-items-center rounded-full bg-lilac-soft text-[12px] font-semibold text-lilac">
+            {(state.settings.displayName || "Edith")[0]}
+          </span>
+          <span className="min-w-0 flex-1 leading-tight">
+            <span className="block truncate text-[13px] font-medium">{state.settings.displayName || "Edith"}</span>
+            <span className="block truncate text-[11px] text-ink-3">
+              {sync.email ? (sync.status === "error" ? "Sync error" : "Synced") : "Saved on this device"}
+            </span>
+          </span>
+          <span className={clsx("h-2 w-2 rounded-full", sync.status === "synced" ? "bg-good" : sync.status === "error" ? "bg-bad" : "bg-line-strong")} />
+        </Link>
+      </div>
+    </aside>
+  );
+}
+
+const TITLES: Record<string, string> = {
+  "/": "Today",
+  "/topics": "Topics",
+  "/flashcards": "Flashcards",
+  "/quiz": "Quiz",
+  "/cases": "Cases",
+  "/schedule": "Timetable",
+  "/quick-reference": "Quick reference",
+  "/search": "Search",
+  "/account": "Account",
+};
+
+export function TopBar() {
   const pathname = usePathname();
   const { sync } = useStudy();
+  const section = "/" + (pathname.split("/")[1] ?? "");
+  const topic = pathname.startsWith("/topics/") ? TOPICS.find((t) => pathname === `/topics/${t.slug}`) : null;
   return (
-    <header className="sticky top-0 z-30 border-b border-line bg-bg/85 backdrop-blur supports-[backdrop-filter]:bg-bg/70">
-      <div className="mx-auto flex h-14 max-w-6xl items-center gap-3 px-4 sm:px-6">
-        <Link href="/" className="flex items-center gap-2 font-serif text-lg font-semibold tracking-tight">
-          <span className="grid h-8 w-8 place-items-center rounded-full bg-brand text-brand-ink text-sm">E</span>
-          <span>
-            For Edith <span className="hidden text-ink-3 font-sans text-sm font-normal sm:inline">· Obs &amp; Gyn</span>
-          </span>
-        </Link>
-        <nav className="ml-4 hidden items-center gap-1 lg:flex">
-          {NAV.map((n) => (
-            <Link
-              key={n.href}
-              href={n.href}
-              className={clsx(
-                "rounded-lg px-3 py-2 text-sm font-medium transition",
-                isActive(pathname, n.href) ? "bg-brand-soft text-brand" : "text-ink-2 hover:bg-surface-2",
-              )}
-            >
-              {n.label}
-            </Link>
-          ))}
+    <header className="sticky top-0 z-30 border-b border-line bg-bg/85 backdrop-blur-md supports-[backdrop-filter]:bg-bg/70">
+      <div className="mx-auto flex h-14 max-w-6xl items-center gap-3 px-4 sm:px-6 lg:px-10">
+        <div className="lg:hidden">
+          <Logo />
+        </div>
+        <nav className="hidden min-w-0 items-center gap-1.5 text-[13px] lg:flex">
+          <span className="text-ink-3">For Edith</span>
+          <span className="text-ink-3">/</span>
+          {topic ? (
+            <>
+              <Link href="/topics" className="text-ink-3 hover:text-ink">
+                Topics
+              </Link>
+              <span className="text-ink-3">/</span>
+              <span className="truncate font-medium">{topic.title}</span>
+            </>
+          ) : (
+            <span className="font-medium">{TITLES[section] ?? ""}</span>
+          )}
         </nav>
         <div className="ml-auto flex items-center gap-1">
-          <Link href="/search" aria-label="Search" className="grid h-10 w-10 place-items-center rounded-full text-ink-2 hover:bg-surface-2">
-            <Search size={20} />
+          <button onClick={openCommand} aria-label="Search" className="grid h-9 w-9 place-items-center rounded-lg text-ink-2 hover:bg-surface-2 lg:hidden">
+            <Search size={19} />
+          </button>
+          <Link href="/schedule" aria-label="Timetable" className="grid h-9 w-9 place-items-center rounded-lg text-ink-2 hover:bg-surface-2 lg:hidden">
+            <CalendarDays size={19} />
           </Link>
-          <Link
-            href="/schedule"
-            aria-label="Timetable"
-            className="grid h-10 w-10 place-items-center rounded-full text-ink-2 hover:bg-surface-2 lg:hidden"
-          >
-            <CalendarDays size={20} />
+          <Link href="/quick-reference" aria-label="Quick reference" className="grid h-9 w-9 place-items-center rounded-lg text-ink-2 hover:bg-surface-2 lg:hidden">
+            <Zap size={19} />
           </Link>
-          <Link
-            href="/quick-reference"
-            aria-label="Quick reference"
-            className="grid h-10 w-10 place-items-center rounded-full text-ink-2 hover:bg-surface-2 lg:hidden"
-          >
-            <Zap size={20} />
+          <Link href="/account" aria-label="Account & settings" className="relative grid h-9 w-9 place-items-center rounded-lg text-ink-2 hover:bg-surface-2 lg:hidden">
+            <UserRound size={19} />
+            {sync.status === "synced" && <span className="absolute right-1.5 top-1.5 h-2 w-2 rounded-full bg-good ring-2 ring-bg" />}
           </Link>
-          <Link
-            href="/account"
-            aria-label="Account & settings"
-            className="relative grid h-10 w-10 place-items-center rounded-full text-ink-2 hover:bg-surface-2"
-          >
-            <UserRound size={20} />
-            {sync.status === "synced" && <span className="absolute right-2 top-2 h-2 w-2 rounded-full bg-good" />}
-            {sync.status === "error" && <span className="absolute right-2 top-2 h-2 w-2 rounded-full bg-bad" />}
+          <Link href="/quiz?mode=exam" className="btn btn-outline hidden min-h-0 py-1.5 text-[13px] lg:inline-flex">
+            <Timer size={14} /> Mock exam
           </Link>
         </div>
       </div>
@@ -84,23 +226,140 @@ export function SiteHeader() {
 export function BottomNav() {
   const pathname = usePathname();
   return (
-    <nav className="safe-bottom fixed inset-x-0 bottom-0 z-30 border-t border-line bg-surface/95 backdrop-blur lg:hidden">
-      <div className="mx-auto grid max-w-lg grid-cols-5">
-        {NAV.filter((n) => MOBILE.includes(n.href)).map((n) => {
+    <nav className="safe-bottom fixed inset-x-0 bottom-0 z-30 border-t border-line bg-surface/90 backdrop-blur-md lg:hidden">
+      <div className="mx-auto grid max-w-lg grid-cols-5 px-1">
+        {MOBILE.map((n) => {
           const active = isActive(pathname, n.href);
           const Icon = n.icon;
           return (
-            <Link
-              key={n.href}
-              href={n.href}
-              className={clsx("flex flex-col items-center gap-0.5 py-2 text-[11px] font-medium", active ? "text-brand" : "text-ink-3")}
-            >
-              <Icon size={22} strokeWidth={active ? 2.4 : 1.8} />
-              {n.label}
+            <Link key={n.href} href={n.href} className="flex flex-col items-center gap-1 pb-1.5 pt-2 text-[10.5px] font-medium">
+              <span className={clsx("grid h-7 w-12 place-items-center rounded-full transition", active ? "bg-brand-soft text-brand" : "text-ink-3")}>
+                <Icon size={19} strokeWidth={active ? 2.3 : 1.8} />
+              </span>
+              <span className={active ? "text-ink" : "text-ink-3"}>{n.label}</span>
             </Link>
           );
         })}
       </div>
     </nav>
+  );
+}
+
+// ── ⌘K command menu ─────────────────────────────────────────
+interface Command {
+  id: string;
+  label: string;
+  hint: string;
+  href: string;
+  icon: typeof Home;
+}
+
+const COMMANDS: Command[] = [
+  ...[...STUDY, ...REFERENCE].map((n) => ({ id: n.href, label: n.label, hint: "Go to", href: n.href, icon: n.icon })),
+  { id: "mock", label: "Start a mock progressive test", hint: "Action", href: "/quiz?mode=exam", icon: Timer },
+  { id: "search", label: "Full-text search of all notes", hint: "Action", href: "/search", icon: Search },
+  { id: "account", label: "Account & settings", hint: "Go to", href: "/account", icon: UserRound },
+  ...TOPICS.map((t) => ({ id: t.slug, label: t.title, hint: `Week ${t.week}`, href: `/topics/${t.slug}`, icon: BookOpen })),
+];
+
+export function CommandMenu() {
+  const router = useRouter();
+  const [open, setOpen] = useState(false);
+  const [q, setQ] = useState("");
+  const [sel, setSel] = useState(0);
+  const inputRef = useRef<HTMLInputElement>(null);
+
+  const close = useCallback(() => {
+    setOpen(false);
+    setQ("");
+    setSel(0);
+  }, []);
+
+  useEffect(() => {
+    const onOpen = () => setOpen(true);
+    const onKey = (e: KeyboardEvent) => {
+      if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === "k") {
+        e.preventDefault();
+        setOpen((o) => !o);
+      } else if (e.key === "/" && !(e.target as HTMLElement)?.closest("input, textarea")) {
+        e.preventDefault();
+        setOpen(true);
+      }
+    };
+    window.addEventListener("open-command", onOpen);
+    window.addEventListener("keydown", onKey);
+    return () => {
+      window.removeEventListener("open-command", onOpen);
+      window.removeEventListener("keydown", onKey);
+    };
+  }, []);
+
+  useEffect(() => {
+    if (open) requestAnimationFrame(() => inputRef.current?.focus());
+  }, [open]);
+
+  const results = useMemo(() => {
+    const words = q.toLowerCase().split(/\s+/).filter(Boolean);
+    const list = words.length ? COMMANDS.filter((c) => words.every((w) => `${c.label} ${c.hint}`.toLowerCase().includes(w))) : COMMANDS;
+    const extra: Command[] = q.trim().length > 1 ? [{ id: "fts", label: `Search notes for “${q.trim()}”`, hint: "Full text", href: `/search?q=${encodeURIComponent(q.trim())}`, icon: Search }] : [];
+    return [...list.slice(0, 12), ...extra];
+  }, [q]);
+
+  const go = (c?: Command) => {
+    if (!c) return;
+    close();
+    router.push(c.href);
+  };
+
+  if (!open) return null;
+  return (
+    <div className="fixed inset-0 z-50 flex items-start justify-center bg-ink/20 px-3 pt-[12vh] backdrop-blur-[2px]" onMouseDown={close}>
+      <div className="w-full max-w-xl overflow-hidden rounded-xl border border-line bg-surface shadow-pop" onMouseDown={(e) => e.stopPropagation()}>
+        <div className="flex items-center gap-2 border-b border-line px-4">
+          <Search size={16} className="text-ink-3" />
+          <input
+            ref={inputRef}
+            value={q}
+            onChange={(e) => {
+              setQ(e.target.value);
+              setSel(0);
+            }}
+            onKeyDown={(e) => {
+              if (e.key === "ArrowDown") {
+                e.preventDefault();
+                setSel((s) => Math.min(results.length - 1, s + 1));
+              } else if (e.key === "ArrowUp") {
+                e.preventDefault();
+                setSel((s) => Math.max(0, s - 1));
+              } else if (e.key === "Enter") go(results[sel]);
+              else if (e.key === "Escape") close();
+            }}
+            placeholder="Jump to a topic, page or action…"
+            className="h-12 flex-1 bg-transparent text-[15px] outline-none placeholder:text-ink-3 focus-visible:shadow-none"
+          />
+          <span className="kbd">esc</span>
+        </div>
+        <ul className="max-h-[55vh] overflow-y-auto p-1.5">
+          {results.map((c, i) => {
+            const Icon = c.icon;
+            return (
+              <li key={c.id}>
+                <button
+                  onMouseEnter={() => setSel(i)}
+                  onClick={() => go(c)}
+                  className={clsx("flex w-full items-center gap-3 rounded-lg px-3 py-2 text-left text-[14px]", i === sel ? "bg-brand-soft" : "")}
+                >
+                  <Icon size={16} className={i === sel ? "text-brand" : "text-ink-3"} />
+                  <span className="flex-1 truncate">{c.label}</span>
+                  <span className="text-[11px] text-ink-3">{c.hint}</span>
+                  {i === sel && <CornerDownLeft size={13} className="text-ink-3" />}
+                </button>
+              </li>
+            );
+          })}
+          {!results.length && <li className="px-3 py-6 text-center text-sm text-ink-3">Nothing matches.</li>}
+        </ul>
+      </div>
+    </div>
   );
 }

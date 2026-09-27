@@ -17,7 +17,7 @@ export function CaseList({ groups }: { groups: Group[] }) {
       {groups.map((g) =>
         g.cases.length ? (
           <section key={g.week}>
-            <h2 className="mb-3 font-serif text-xl font-semibold">
+            <h2 className="mb-3 h-section">
               <span className="text-brand">Week {g.week}</span> · {g.theme}
             </h2>
             <div className="grid gap-3 md:grid-cols-2">

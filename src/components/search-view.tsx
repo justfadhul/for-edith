@@ -47,6 +47,9 @@ export function SearchView() {
 
   useEffect(() => {
     inputRef.current?.focus();
+    const initial = new URLSearchParams(window.location.search).get("q");
+    // eslint-disable-next-line react-hooks/set-state-in-effect -- prefill from ?q= (command menu)
+    if (initial) setQ(initial);
     fetch("/data/search")
       .then((r) => r.json())
       .then(setIndex)
@@ -73,7 +76,7 @@ export function SearchView() {
 
   return (
     <div className="mx-auto max-w-3xl">
-      <h1 className="mb-4 font-serif text-3xl font-semibold">Search</h1>
+      <h1 className="mb-4 h-display">Search</h1>
       <input
         ref={inputRef}
         className="input text-lg"

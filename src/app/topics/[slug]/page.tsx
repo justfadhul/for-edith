@@ -34,7 +34,7 @@ export default async function TopicPage(props: PageProps<"/topics/[slug]">) {
 
   return (
     <article>
-      <nav className="mb-3 flex items-center gap-2 text-sm text-ink-3">
+      <nav className="mb-3 flex items-center gap-2 text-sm text-ink-3 lg:hidden">
         <Link href="/topics" className="hover:text-brand">
           Topics
         </Link>
@@ -45,14 +45,14 @@ export default async function TopicPage(props: PageProps<"/topics/[slug]">) {
       <header className="mb-5">
         <div className="flex flex-wrap items-center gap-2">
           <KindChip kind={topic.kind} />
-          <span className="chip capitalize">{topic.discipline}</span>
+          {topic.discipline !== "skills" && <span className="chip capitalize">{topic.discipline}</span>}
           {c.wordCount > 0 && (
             <span className="chip">
               <Clock size={12} /> {Math.max(1, Math.round(c.wordCount / 200))} min read
             </span>
           )}
         </div>
-        <h1 className="mt-2 font-serif text-3xl font-semibold leading-tight sm:text-4xl">{topic.title}</h1>
+        <h1 className="mt-2 h-display">{topic.title}</h1>
         <p className="mt-2 max-w-3xl text-lg text-ink-2">{c.summary}</p>
         <p className="mt-2 text-sm text-ink-3">
           {topic.faculty.join(" · ")}
@@ -83,7 +83,7 @@ export default async function TopicPage(props: PageProps<"/topics/[slug]">) {
       })()}
 
       {c.highYield.length > 0 && (
-        <section className="card mb-6 border-brand/40 bg-brand-soft/60 p-5">
+        <section className="card blush mb-6 !border-brand-line p-5">
           <h2 className="flex items-center gap-2 font-semibold text-brand">
             <Sparkles size={18} /> High-yield: must know
           </h2>
