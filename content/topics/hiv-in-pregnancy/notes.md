@@ -332,6 +332,7 @@ All other HEIs are **low-risk**.
 | Birth to 6 weeks, **2.0–2.49 kg** | **10 mg (1 mL)** | **10 mg (1 mL)** |
 | Birth to 6 weeks, **2.5 kg or more** | **15 mg (1.5 mL)** | **15 mg (1.5 mL)** |
 | **6 to 12 weeks** | **20 mg (2 mL)** | Not given (AZT stops at 6 weeks) |
+| Extended NVP only (mother still non-suppressed): **12 weeks to 6 months** / **6–9 months** / **9 months to end of breastfeeding** | **25 mg** / **30 mg** / **40 mg** (WHO age bands; confirm with the national paediatric chart) | Not given |
 | Below 2.0 kg | mg/kg dosing per national paediatric chart; discuss with the paediatrician | |
 
 > [!DRUG]

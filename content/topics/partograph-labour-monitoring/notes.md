@@ -368,7 +368,7 @@ WHO 2018 does **not recommend admission CTG or continuous CTG for low-risk women
 
 ### Model presentation using the partograph
 
-"Mrs B.N., 26 years, G2P1, at 40 weeks, in labour. She was admitted at 08:00 at **5 cm**, plotted on the alert line. At 12:00 she was **7 cm**, head 2/5, moulding +, liquor clear, contractions **3 in 10 lasting 40 seconds**, FHR 130-145 throughout, pulse 80-90, BP 120/70, afebrile, passing urine without ketones. She is to the **left of the alert line**. **Assessment: normal progress with mother and fetus in good condition. Plan: continue monitoring, next VE at 16:00 or sooner if indicated, supportive care, prepare for AMTSL.**"
+"Mrs B.N., 26 years, G2P1, at 40 weeks, in labour. She was admitted at 08:00 at **5 cm**, plotted on the alert line. At 12:00 she was **9 cm**, head 1/5, moulding +, liquor clear, contractions **4 in 10 lasting 45 seconds**, FHR 130-145 throughout, pulse 80-90, BP 120/70, afebrile, passing urine without ketones. She is **on the alert line** (the alert line runs from 5 cm at 08:00 to 9 cm at 12:00). **Assessment: normal progress with mother and fetus in good condition. Plan: continue monitoring, re-examine when she has an urge to push or if any alert appears, supportive care, prepare for delivery and AMTSL.**"
 
 ### Viva questions (with answers)
 

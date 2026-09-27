@@ -331,7 +331,7 @@ As soon as **any** criterion is lost, start another method.
 - **Postpartum pre-eclampsia**: BP ≥140/90 with symptoms or proteinuria; MgSO₄ if severe features; antihypertensives (**nifedipine**, **methyldopa** is less preferred postpartum because it can worsen depression, **labetalol**, **enalapril**); review BP at days 3–5 and at 6 weeks.
 - **VTE prophylaxis / treatment**: early mobilisation and hydration for all; LMWH (e.g. **enoxaparin 40 mg SC daily**) for high-risk women (CS plus other risk factors) for 10 days to 6 weeks; treatment doses for confirmed DVT/PE (warfarin is compatible with breastfeeding).
 - **Urinary retention**: if she hasn't voided within 6 h or has a palpable bladder, **catheterise**; if the residual is more than about 500 mL, leave an indwelling catheter for 24–48 h.
-- **Anaemia**: Hb <11 g/dL → oral iron (ferrous sulphate 200 mg twice to three times daily) + folic acid for 3 months; Hb <7 g/dL or symptomatic → consider transfusion (or IV iron where available).
+- **Anaemia** (postpartum anaemia is usually defined as Hb <10 g/dL, e.g. RCOG; many Ugandan units treat below 11 g/dL): oral iron (ferrous sulphate 200 mg twice to three times daily) + folic acid for 3 months; Hb <7 g/dL or symptomatic → consider transfusion (or IV iron where available).
 
 ## Complications
 

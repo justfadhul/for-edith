@@ -96,7 +96,7 @@ The one thing never to forget: **the amount of blood you see is not the amount s
 - The **lower segment has few muscle fibres**, so it contracts poorly. This is why praevia also causes **PPH after delivery**, even after a CS.
 - The bleeding is **maternal blood**, so the fetus is usually fine unless the mother is in shock.
 - A placenta in the lower segment **takes up space** in the pelvis, so the head stays **high and unengaged** and malpresentations (breech, transverse lie) are common.
-- **PAS**: where the placenta implants on a **CS scar**, the decidua is deficient and villi invade myometrium. The risk of accreta with praevia rises with each previous CS: roughly **3% after 1 CS, 11% after 2, 40% after 3, over 60% after 4 or more**.
+- **PAS**: where the placenta implants on a **CS scar**, the decidua is deficient and villi invade myometrium. The risk of accreta with praevia rises with each previous CS: roughly **3% with no previous CS, 11% after 1 previous CS, 40% after 2, and over 60% after 3 or more** (Silver 2006: 3%, 11%, 40%, 61% and 67% at the first, second, third, fourth and fifth-or-more CS).
 
 ### Placental abruption: why painful, why shock, why DIC
 
@@ -363,7 +363,7 @@ Manage according to **fetal viability, fetal condition and maternal condition**.
 5. *Why does abruption cause DIC?* Release of thromboplastin (tissue factor) from the damaged decidua and clot, activating the coagulation cascade and consuming factors.
 6. *Management of abruption with IUFD?* Resuscitate, correct clotting, ARM + oxytocin for vaginal delivery; CS only for maternal indications.
 7. *When is a low-lying placenta rechecked?* If it is low-lying or praevia at the anomaly scan, repeat at **32 weeks** (and at 36 weeks if still low), by transvaginal scan.
-8. *Risk of PAS?* Rises with number of previous CSs when praevia is present (about 3%, 11%, 40%, over 60%).
+8. *Risk of PAS?* Rises with number of previous CSs when praevia is present (about 3% with none, 11% after 1, 40% after 2, over 60% after 3 or more).
 
 **Praevia vs abruption, the classic viva table:**
 

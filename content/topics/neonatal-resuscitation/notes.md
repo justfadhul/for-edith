@@ -1,6 +1,6 @@
 ---
 title: "Neonatal Resuscitation"
-summary: About 1 in 10 newborns needs help to start breathing and about 1 in 100 needs bag-and-mask ventilation. Prepare before every birth, dry and stimulate, and if the baby is not breathing, start effective bag-and-mask ventilation within the Golden Minute; ventilation (not suction, not drugs) is the single most important intervention.
+summary: About 1 in 10 newborns needs help to start breathing and about 3-6 in 100 need bag-and-mask ventilation. Prepare before every birth, dry and stimulate, and if the baby is not breathing, start effective bag-and-mask ventilation within the Golden Minute; ventilation (not suction, not drugs) is the single most important intervention.
 highYield:
   - "Golden Minute - a baby who is not breathing well after drying and stimulation must be receiving bag-and-mask ventilation within 60 seconds of birth."
   - "Effective ventilation = gentle chest rise at 40 breaths per minute (acceptable 30-60) using a size 1 mask for term and size 0 for preterm babies; start with room air for term babies."

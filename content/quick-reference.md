@@ -73,7 +73,7 @@ summary: A high-yield cheat-sheet for the Ugandan labour ward and obstetric ward
 | Calcium gluconate | | 1 g IV over 10 min | For MgSO₄ toxicity (and massive transfusion) |
 
 > [!UGANDA]
-> **WHO 2023 / E-MOTIVE bundle for PPH**: measure blood loss with a **calibrated drape**; trigger at **≥300 mL + abnormal signs** or **≥500 mL**; then immediately and together: **E**arly detection, **M**assage the uterus, **O**xytocic drugs, **T**ranexamic acid, **IV** fluids, **E**xamination (genital tract, placenta) and **E**scalation.
+> **WHO 2023 / E-MOTIVE bundle for PPH**: measure blood loss with a **calibrated drape**; trigger at **≥500 mL** (WHO 2023), or at **≥300 mL + any abnormal vital sign** (WHO/FIGO/ICM 2025 consolidated guideline); then immediately and together: **E**arly detection, **M**assage the uterus, **O**xytocic drugs, **T**ranexamic acid, **IV** fluids, **E**xamination (genital tract, placenta) and **E**scalation.
 
 ## 4. Antenatal corticosteroids
 
@@ -93,9 +93,9 @@ summary: A high-yield cheat-sheet for the Ugandan labour ward and obstetric ward
 | **Incomplete miscarriage** | <13 weeks | **600 mcg orally** once, or **400 mcg sublingually** once |
 | **Missed miscarriage** (early fetal demise) | <13 weeks | **800 mcg vaginally** (or 600 mcg sublingually); repeat after 3 h if needed (max 2 doses) |
 | Cervical priming before MVA / surgical evacuation | <13 weeks | **400 mcg sublingually 1 h** or **vaginally 3 h** before the procedure |
-| Fetal death / termination (legal indication) | **13–24 weeks** | **400 mcg vaginally, sublingually or buccally every 3 h** until expulsion |
-| Fetal death | **25–28 weeks** | **200 mcg vaginally/sublingually every 4 h** |
-| Fetal death | **>28 weeks** | **25–50 mcg vaginally every 4–6 h** (or per protocol) |
+| Termination (legal indication) / incomplete abortion with a uterus ≥13–14 weeks | **13–24 weeks** | **400 mcg vaginally, sublingually or buccally every 3 h** until expulsion (WHO 2022) |
+| Fetal death | **14–28 weeks** | **400 mcg vaginally/sublingually every 4–6 h** (WHO 2022, ideally after mifepristone 200 mg) or **200 mcg every 4–6 h** (FIGO). Use the lower dose nearer 28 weeks (FIGO: **100 mcg every 4 h at 27–28 weeks**) and with a uterine scar |
+| Fetal death | **>28 weeks** | **25 mcg vaginally every 6 h** or **25 mcg orally every 2 h** (FIGO). WHO MCPC: if no response after 2 doses, 50 mcg every 6 h; **never more than 50 mcg per dose** |
 | **Induction of labour, live fetus at term** | ≥37 weeks | **25 mcg vaginally every 6 h** or **25 mcg orally every 2 h** (oral solution) |
 | **PPH prevention** | After birth | **600 mcg orally** |
 | **PPH treatment** | After birth | **800 mcg sublingually** |
@@ -271,7 +271,7 @@ Shoulders:   Bisacromial 12 cm (reduces to ~9.5 cm with compression)
 | **Low birth weight** | **<2,500 g** (VLBW <1,500 g; ELBW <1,000 g) |
 | **PROM / PPROM** | Rupture of membranes before labour at ≥37 / <37 weeks |
 | **Prolonged rupture of membranes** | >18 hours (UK >24 h) |
-| **Primary PPH** | Blood loss **≥500 mL within 24 h** of birth (any route); **severe ≥1,000 mL**; or any loss causing haemodynamic compromise |
+| **Primary PPH** | Blood loss **≥500 mL within 24 h** of birth (any route); **severe ≥1,000 mL**; or any loss causing haemodynamic compromise. WHO/FIGO/ICM 2025: also diagnose at **≥300 mL plus any abnormal vital sign** |
 | **Secondary PPH** | Abnormal bleeding from **24 h to 12 weeks** postpartum (WHO: up to 6 weeks) |
 | **Hypertension in pregnancy** | ≥140/90 on two occasions; **severe ≥160/110** |
 | **Anaemia in pregnancy** | Hb <11 g/dL; severe <7 g/dL |

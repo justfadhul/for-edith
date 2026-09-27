@@ -335,7 +335,7 @@
         },
         {
           "prompt": "At 11:00: 8 cm, head 2/5, membranes ruptured at 10:00 with clear liquor, moulding +, contractions 4 in 10 lasting 45 s, FHR 132-148. Interpret.",
-          "answer": "X at 8 cm at 11:00 is **to the left of the alert line** (the alert line is at 8 cm at 11:00, so she is on or just left of it). Descent is progressing (O at 2/5). Liquor **C**, moulding **+**. Contractions solid shaded. **Normal progress, mother and baby well.**"
+          "answer": "X at 8 cm at 11:00 is **on the alert line** (the alert line rises from 4 cm at 07:00 to 8 cm at 11:00), which is normal progress; only a plot to the **right** of the alert line signals delay. Descent is progressing (O at 2/5). Liquor **C**, moulding **+**. Contractions solid shaded. **Normal progress, mother and baby well.**"
         },
         {
           "prompt": "What is the plan now?",
@@ -343,7 +343,7 @@
         },
         {
           "prompt": "How would you present her on the ward round?",
-          "answer": "'Mrs J.M., 25, G2P1 at 39 weeks, in active labour, plotted at 4 cm at 07:00, now 8 cm at 11:00 with the head 2/5, left of the alert line, clear liquor, mild moulding, adequate contractions, normal FHR and maternal observations. Assessment: normal progress. Plan: continue monitoring, anticipate delivery within 2 hours, AMTSL.'"
+          "answer": "'Mrs J.M., 25, G2P1 at 39 weeks, in active labour, plotted at 4 cm at 07:00, now 8 cm at 11:00 with the head 2/5, on the alert line, clear liquor, mild moulding, adequate contractions, normal FHR and maternal observations. Assessment: normal progress. Plan: continue monitoring, anticipate delivery within 2 hours, AMTSL.'"
         }
       ],
       "takeaway": "Plot the first active-phase VE on the alert line, record every section (fetal, progress, maternal), and always end with an assessment and plan."

@@ -222,7 +222,7 @@ The polyhydramnios also causes **preterm labour and PPROM**. Without treatment, 
 |---|---|---|
 | **Iron** (ferrous sulphate 200 mg = 60 mg elemental) + **folic acid 400 mcg** | 1 tablet daily throughout pregnancy (many clinicians give **twice daily** in twins or if Hb <11) | Twins have a greater iron and folate requirement. Treat anaemia with **120 mg elemental iron daily** |
 | **Calcium** | 1.5–2 g elemental daily | Pre-eclampsia prevention in low-calcium diets |
-| **Low-dose aspirin** | **75–150 mg at night from 12 weeks until 36 weeks** | Multiple pregnancy is a **moderate risk factor**; give if there is **one more** moderate risk factor (e.g. first pregnancy, age ≥40, BMI ≥35). Many clinicians give aspirin to all twin pregnancies in high-burden settings |
+| **Low-dose aspirin** | **75–150 mg at night from 12 weeks until 36 weeks** (NICE NG133 continues it until birth; many LMIC protocols stop at 36 weeks) | Multiple pregnancy is a **moderate risk factor**; give if there is **one more** moderate risk factor (e.g. first pregnancy, age ≥40, BMI ≥35). Many clinicians give aspirin to all twin pregnancies in high-burden settings |
 | IPTp-SP | Monthly from 13 weeks | As for all pregnant women in Uganda (not with cotrimoxazole) |
 | Td vaccine, ITN, deworming (mebendazole after first trimester) | Routine | |
 

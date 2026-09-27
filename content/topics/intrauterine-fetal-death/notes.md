@@ -6,7 +6,7 @@ highYield:
   - "First assess the mother: BP and urine protein (pre-eclampsia), abdominal pain and a hard uterus (abruption), fever (chorioamnionitis), and FBC with platelets, clotting and fibrinogen (DIC)."
   - "Deliver urgently if there is sepsis, pre-eclampsia, abruption, ruptured membranes or coagulopathy. Otherwise she may choose expectant care (about 85–90% labour within 2–3 weeks), with clotting checked twice weekly after 48 hours."
   - "Vaginal birth is recommended for most. Caesarean section for a dead baby adds maternal risk now and in every later pregnancy."
-  - "Induction: mifepristone 200 mg orally, then misoprostol after 24–48 hours. Reduce the misoprostol dose as gestation rises: 14–28 weeks, 400 µg (WHO) or 200 µg (FIGO) every 4–6 hours; after 28 weeks, 25–50 µg vaginally every 4–6 hours. Use lower doses with a uterine scar."
+  - "Induction: mifepristone 200 mg orally, then misoprostol after 24–48 hours. Reduce the misoprostol dose as gestation rises: 14–28 weeks, 400 µg (WHO) or 200 µg (FIGO) every 4–6 hours; after 28 weeks, 25 µg vaginally every 6 hours or 25 µg orally every 2 hours (FIGO). Use lower doses with a uterine scar."
   - "Fresh stillbirth (skin intact) usually means death in labour, which is a quality-of-care signal. Macerated stillbirth (skin peeling) means death before labour."
   - "After birth: examine the baby and placenta, send tests for the cause, give anti-D if Rh-negative, suppress lactation (cabergoline 1 mg once, not in pre-eclampsia), and provide respectful bereavement care and an MPDSR review."
 ---
@@ -321,7 +321,7 @@ When fetal heart sounds cannot be heard:
 | **14–28 weeks** | **Misoprostol 400 µg sublingually or vaginally every 4–6 hours** (after mifepristone, or alone) | **WHO Abortion care guideline 2022** (IUFD 14–28 weeks). No fixed maximum number of doses; use clinical judgement. |
 | 13–26 weeks (alternative) | **Misoprostol 200 µg** vaginally, sublingually or buccally **every 4–6 hours** | FIGO misoprostol-only regimens |
 | 18–26 weeks (alternative) | **Misoprostol 100 µg** vaginally **every 6 hours** (up to 4 doses) | Misoprostol-for-IUFD review regimen (more conservative) |
-| **27–28 weeks** | **Misoprostol 100 µg** vaginally every 4–6 hours | FIGO 2017/2023 |
+| **27–28 weeks** | **Misoprostol 100 µg** vaginally, sublingually or buccally **every 4 hours** | FIGO 2017/2023 |
 | **Over 28 weeks (third trimester)** | **Misoprostol 25 µg vaginally every 6 hours**, **or 25 µg orally every 2 hours** (FIGO); **25–50 µg vaginally every 4 hours**, up to 6 doses (review regimens) | Doses like those used for term labour induction. **Stop misoprostol once in active labour.** |
 | **Previous CS (any gestation)** | **Lower doses, no dose escalation**; consider a **Foley catheter** (16–18 F, balloon 30–60 mL) for ripening, then **oxytocin** | Senior decision; hospital with theatre; watch for scar pain, bleeding, maternal tachycardia |
 
@@ -332,7 +332,7 @@ When fetal heart sounds cannot be heard:
 - **Wait at least 4 hours after the last misoprostol dose** before starting oxytocin, to avoid hyperstimulation.
 
 > [!DRUG]
-> **Misoprostol tablets come as 200 µg.** For a 25 µg dose, you must divide it. Dissolve 1 × 200 µg tablet in 200 mL of water and give **25 mL orally** (= 25 µg), or use purpose-made 25 µg vaginal tablets where available. **Never give 200 µg to a woman in the third trimester**: the risk of hyperstimulation and uterine rupture is real, especially with a scar.
+> **Misoprostol tablets come as 200 µg.** For a 25 µg dose, you must divide it. Dissolve 1 × 200 µg tablet in 200 mL of water and give **25 mL orally** (= 25 µg; discard the unused solution after 24 hours), or use purpose-made 25 µg vaginal tablets where available. **Never give 200 µg to a woman in the third trimester**: the risk of hyperstimulation and uterine rupture is real, especially with a scar.
 
 > [!UGANDA]
 > Uganda Clinical Guidelines follow WHO/FIGO principles: misoprostol dose tailored to gestation, avoid high doses in the third trimester and in scarred uteri, and deliver at a facility able to do CS and transfuse. **Mifepristone is not consistently stocked in public facilities**, so misoprostol-alone regimens are usual. Check your hospital's protocol and write the **dose in micrograms with the route and interval** every time.
@@ -406,7 +406,7 @@ When fetal heart sounds cannot be heard:
 ## Ward-round & exam pearls
 
 **Model presentation:**
-> "Mrs A, a 29-year-old G3P2, both previous babies alive and delivered vaginally, at 34 weeks by an early scan, presented with **absent fetal movements for 2 days**. She is **normotensive, BP 118/72, urine protein negative, afebrile**, with no abdominal pain or bleeding. Fundal height 31 cm; no FHS on Doppler. **Ultrasound, confirmed by 2 sonographers, shows no fetal cardiac activity with overlapping skull bones.** Hb 11.4 g/dL, platelets 210, **bedside clotting time 5 minutes**, RPR **positive**, TPHA pending, HIV negative, RBS 5.8 mmol/L, Rh-positive. **Impression: IUFD at 34 weeks, likely macerated, possibly due to syphilis.** Plan: she and her husband opted for induction today with **misoprostol 25 µg vaginally 6-hourly**, then oxytocin as needed; analgesia; examine the baby and placenta; send placenta for histology; **benzathine penicillin 2.4 MU IM weekly for 3 doses** and partner treatment once TPHA is confirmed; **cabergoline 1 mg** after delivery; bereavement support; MPDSR review; follow-up at 6 weeks."
+> "Mrs A, a 29-year-old G3P2, both previous babies alive and delivered vaginally, at 34 weeks by an early scan, presented with **absent fetal movements for 2 days**. She is **normotensive, BP 118/72, urine protein negative, afebrile**, with no abdominal pain or bleeding. Fundal height 31 cm; no FHS on Doppler. **Ultrasound, confirmed by 2 sonographers, shows no fetal cardiac activity with overlapping skull bones.** Hb 11.4 g/dL, platelets 210, **bedside clotting time 5 minutes**, RPR **positive**, TPHA pending, HIV negative, RBS 5.8 mmol/L, Rh-positive. **Impression: IUFD at 34 weeks, likely macerated, possibly due to syphilis.** Plan: she and her husband opted for induction today with **misoprostol 25 µg vaginally 6-hourly**, then oxytocin as needed; analgesia; examine the baby and placenta; send placenta for histology; **benzathine penicillin 2.4 MU IM weekly for 3 doses** (start now on the reactive test; do not wait for the TPHA) and partner treatment; **cabergoline 1 mg** after delivery; bereavement support; MPDSR review; follow-up at 6 weeks."
 
 **Viva questions and answers:**
 
