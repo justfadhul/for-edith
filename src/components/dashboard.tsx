@@ -84,11 +84,29 @@ export function Dashboard({ topics, sessions, cases }: { topics: TopicSummary[];
           <h1 className="h-display !text-[clamp(2.5rem,1.8rem+2.6vw,3.5rem)] !leading-none">
             {greeting(now)}, <em>{name}</em>
           </h1>
-          <p className="max-w-xl text-[15px] leading-relaxed text-ink-2">
-            {info.phase === "before" && `Your rotation starts in ${-info.dayIndex} day${info.dayIndex === -1 ? "" : "s"}. A head start now makes week 1 much easier.`}
-            {info.phase === "during" && (nextSession?.day === info.dayIndex ? "You have teaching today. Read the management first, then test yourself." : "No teaching left today. A good time for flashcards and a case.")}
-            {info.phase === "after" && "The rotation timetable is complete. Keep revising, or set your own start date in Settings."}
-          </p>
+          <RotationBar
+            info={info}
+            hydrated={hydrated}
+            weekDone={WEEKS.map((w) => {
+              const wt = topics.filter((t) => t.week === w);
+              return wt.length ? wt.filter((t) => state.topics[t.slug]?.status === "done").length / wt.length : 0;
+            })}
+            next={
+              nextSession
+                ? {
+                    href: `/topics/${nextSession.topic}`,
+                    title: bySlug[nextSession.topic!]?.title ?? nextSession.title,
+                    when:
+                      nextSession.day === info.dayIndex
+                        ? `today ${nextSession.time.split("–")[0]}`
+                        : nextSession.day === info.dayIndex + 1
+                          ? `tomorrow ${nextSession.time.split("–")[0]}`
+                          : `${formatDay(addDays(info.start, nextSession.day), { weekday: "short", day: "numeric", month: "short" })} ${nextSession.time.split("–")[0]}`,
+                    mode: nextSession.mode,
+                  }
+                : null
+            }
+          />
         </div>
         <Countdown info={info} done={done} total={topics.length} hydrated={hydrated} />
       </section>
@@ -258,6 +276,58 @@ function greeting(now: number) {
   if (!now) return "Hello";
   const h = new Date(now).getHours();
   return h < 12 ? "Good morning" : h < 17 ? "Good afternoon" : "Good evening";
+}
+
+/** Six week segments filling as the rotation goes by (or by topics done afterwards), plus the next session. */
+function RotationBar({
+  info,
+  hydrated,
+  weekDone,
+  next,
+}: {
+  info: ReturnType<typeof rotationInfo>;
+  hydrated: boolean;
+  weekDone: number[];
+  next: { href: string; title: string; when: string; mode: string } | null;
+}) {
+  const byTime = info.phase !== "after";
+  const fill = (i: number) =>
+    !hydrated ? 0 : byTime ? Math.min(1, Math.max(0, (info.dayIndex + 1 - i * 7) / 5)) : weekDone[i];
+  const label =
+    info.phase === "before"
+      ? `Starts in ${-info.dayIndex} day${info.dayIndex === -1 ? "" : "s"}`
+      : info.phase === "during"
+        ? `Day ${Math.min(40, info.dayIndex + 1)} of 40`
+        : "Rotation complete · topics revised";
+  return (
+    <div className="flex max-w-xl flex-col gap-2 pt-1">
+      <div className="grid grid-cols-6 gap-1.5" role="img" aria-label={label}>
+        {weekDone.map((_, i) => (
+          <div key={i} className="flex flex-col gap-1">
+            <div className="h-1.5 overflow-hidden rounded-full bg-surface-3">
+              <div className="h-full rounded-full bg-brand transition-all" style={{ width: `${fill(i) * 100}%` }} />
+            </div>
+            <span className={clsx("text-[11px] tabular-nums", info.week === i + 1 ? "font-semibold text-brand-text" : "text-ink-3")}>W{i + 1}</span>
+          </div>
+        ))}
+      </div>
+      <div className="flex flex-col gap-1 text-[13px] text-ink-2 sm:flex-row sm:flex-wrap sm:items-center sm:gap-x-2">
+        <span className="font-medium text-ink">{label}</span>
+        {next && (
+          <>
+            <span className="hidden text-ink-3 sm:inline">·</span>
+            <Link href={next.href} className="inline-flex min-w-0 items-center gap-1.5 hover:text-brand">
+              <span className="h-1.5 w-1.5 shrink-0 rounded-full bg-brand" />
+              Next: <span className="truncate font-medium text-ink">{next.title}</span>
+              <span className="text-ink-3">
+                {next.when} · {next.mode}
+              </span>
+            </Link>
+          </>
+        )}
+      </div>
+    </div>
+  );
 }
 
 function Countdown({ info, done, total, hydrated }: { info: ReturnType<typeof rotationInfo>; done: number; total: number; hydrated: boolean }) {
