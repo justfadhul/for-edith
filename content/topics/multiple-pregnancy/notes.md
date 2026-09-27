@@ -2,13 +2,17 @@
 title: Multiple Pregnancy
 summary: Twins are common in Uganda and high-risk for mother and babies. Chorionicity (not zygosity) determines the risks, so establish it by ultrasound in the first trimester (lambda vs T sign), then give enhanced ANC, watch for preterm labour, pre-eclampsia, anaemia, TTTS and growth discordance, and plan delivery in a hospital with theatre and an experienced team ready to manage the second twin and PPH.
 highYield:
-  - Chorionicity decides risk. Dichorionic = lambda (twin-peak) sign; monochorionic diamniotic = T sign. Best seen at 11–14 weeks.
+  - Chorionicity decides risk. Dichorionic = lambda (twin-peak) sign; monochorionic diamniotic = T sign. Best seen at 11–14 weeks; if uncertain, manage as MC.
   - All dizygotic twins are DCDA. Monozygotic twins split at 0–3 days = DCDA, 4–8 days = MCDA (commonest MZ type), 8–12 days = MCMA, >13 days = conjoined.
-  - TTTS affects 10–15% of MCDA twins - unbalanced placental vascular anastomoses; donor oligohydramnios/stuck twin, recipient polyhydramnios and heart failure. Quintero staging; laser ablation at 16–26 weeks.
+  - Scan surveillance - DC every 4 weeks from 20 weeks; MC every 2 weeks from 16 weeks (DVP, bladders, EFW, Doppler).
+  - Discordance = (larger EFW − smaller EFW) ÷ larger EFW × 100; ≥25% (some use ≥20%) is significant - divide by the LARGER twin.
+  - TTTS affects 10–15% of MCDA twins - unbalanced placental vascular anastomoses; donor DVP <2 cm (stuck twin), recipient DVP >8 cm and heart failure. Quintero staging; laser ablation at 16–26 weeks.
+  - Twins need extra iron/folate (Hb at booking, 20–24 and 28 weeks) and aspirin 75–150 mg from 12 weeks if one more pre-eclampsia risk factor (many give it to all twins).
   - Timing (NICE) - uncomplicated DCDA at 37+0 weeks, MCDA at 36+0 weeks, MCMA by CS at 32+0–33+6 weeks, triplets at 35+0 weeks.
   - Vaginal birth is reasonable if twin 1 is cephalic; CS if twin 1 is non-cephalic, MCMA, or triplets.
+  - Twin labour needs theatre, 2 units cross-matched, IV access, both FHRs monitored and two neonatal resuscitation sets.
   - After twin 1 - NO oxytocic; check the lie of twin 2, stabilise it longitudinally, check the FHR, then ARM when the presenting part enters the pelvis. Oxytocin infusion if contractions are weak.
-  - Give the third-stage uterotonic only after the LAST baby; prepare for PPH (overdistended uterus).
+  - Give the third-stage uterotonic only after the LAST baby; prepare for PPH (overdistended uterus) with a prophylactic oxytocin infusion.
   - Locked twins - twin 1 breech, twin 2 cephalic, chins interlock. Prevent by CS when twin 1 is breech.
 ---
 
@@ -171,6 +175,137 @@ The polyhydramnios also causes **preterm labour and PPROM**. Without treatment, 
 - **Discordant growth in DC twins** is usually placental insufficiency of one placenta; in MC twins it is sFGR (unequal placental sharing) or TTTS.
 - **Common student mistakes**: forgetting to palpate for a second baby before giving oxytocin; giving ergometrine or oxytocin after twin 1; calling "same sex = identical"; forgetting that pre-eclampsia risk means **aspirin** may be indicated; not preparing **two neonatal resuscitation sets**; forgetting iron and folate.
 
+
+## Clinical workup
+
+Twins present to you in two ways: at **ANC** (large for dates, or a scan report saying "twins") and on the **labour ward** (in labour, bleeding, hypertensive, or after one baby has already been born somewhere else). The workup always answers: **How many babies? What chorionicity? Is the mother safe (BP, Hb, bleeding)? Are both babies well and growing equally? Where, when and how will they be born?**
+
+### Step 0: First 5 minutes
+
+1. **Vital signs and shock index** (HR ÷ SBP; **≥0.9** abnormal): twins mean more **APH, PPH and anaemia**. BP for **pre-eclampsia** (commoner and earlier in twins); temperature (PPROM, chorioamnionitis).
+2. **Is she bleeding?** Antepartum: think **praevia** (no VE until scan) or **abruption**. Postpartum: **atonic PPH** → call for help, massage, oxytocin (only once all babies are out), TXA, the E-MOTIVE bundle.
+3. **Has a baby already been born?** A woman arriving after delivering one baby at home or at an HC III with a large uterus = **retained second twin**: **no oxytocic**, check lie and FHR of twin 2, prepare to deliver (see the red flag box in Management).
+4. **Is she in labour, and how far?** Contractions, bearing down, visible presenting part. Late preterm or term twins in advanced labour are delivered **where you are**, with help called: two resuscitation sets, oxytocin drawn up but **not** given.
+5. **Both fetal hearts**: two examiners or a Doppler/ultrasound, identifying which heart belongs to which twin. **Twin 2 bradycardia after twin 1** = expedite.
+6. **Quick bedside scan** (if available) for **number, presentation of twin 1, lie of twin 2, placental site**: this decides vaginal birth vs caesarean.
+7. **Call**: the most experienced obstetrician available, midwife, anaesthetist (theatre may be needed for twin 2), and the neonatal team. **IV access (16–18 G)**, Hb and **group and cross-match 2 units**.
+8. At HC II/III with undiagnosed twins in early labour: **refer** (twins should be born where there is theatre). If delivery is imminent, deliver twin 1, **no oxytocic**, and refer at once if twin 2 is transverse or delayed.
+
+> [!REDFLAG]
+> Before giving the third-stage uterotonic after any birth, **palpate the abdomen**. A uterus that is still large after the baby is out is a second twin until proven otherwise.
+
+### Step 1: Focused history
+
+| Ask | Why it matters (what answer changes the plan) |
+|---|---|
+| **Dating**: LNMP, earliest scan (use the **larger twin's CRL** for dating) | Delivery dates depend on GA (DCDA 37, MCDA 36 weeks); steroids if preterm |
+| **Has any scan reported chorionicity?** At what gestation? | The whole care pathway depends on it; a report after 20 weeks is less reliable. **Unknown = manage as MC** |
+| **Family history of twins** (mother's side), **fertility treatment** (clomiphene, IVF) | DZ likelihood; triplets after treatment |
+| **Hyperemesis** in the first trimester | Supports multiple pregnancy (higher hCG) |
+| **Rapidly increasing abdominal size, breathlessness, tightness** (16–26 weeks) | **Polyhydramnios** → in MC twins, **TTTS** (urgent specialist scan) |
+| **Headache, visual symptoms, epigastric pain, swelling** | **Pre-eclampsia** (earlier and more severe) |
+| **Tiredness, dizziness, breathlessness**; iron/folate adherence | **Anaemia** (greater demand) |
+| **Contractions, leaking, pelvic pressure** before 37 weeks | **Preterm labour/PPROM** → steroids, MgSO₄ <32 weeks, transfer |
+| **Bleeding** (painless or painful) | Praevia (large placental area) or abruption |
+| **Fetal movements** | Hard to judge with two, but a change matters (fetal death, sFGR) |
+| **Previous CS, previous PPH, parity** | Mode of delivery; PPH preparedness |
+| **HIV status, syphilis, Rh group** | eMTCT plan; anti-D |
+| **Aspirin, calcium, IPTp** taken? | Pre-eclampsia and malaria prevention |
+| **Distance from hospital, money, support** | Admission near term (e.g. 36 weeks); birth preparedness |
+
+### Step 2: Focused examination
+
+**General**
+- Pallor (Hb), **BP**, oedema, weight; signs of heart failure or breathlessness (polyhydramnios, anaemia).
+
+**Abdomen**
+- **Symphysis-fundal height larger than dates** by ≥3–4 cm; a globular abdomen.
+- **Palpation**: count the **poles** (two heads, or three or more poles), **multiple small parts**, a head that seems **small for the size of the uterus**. State the **lie and presentation of each twin** and which one is lower (twin 1 = the presenting twin).
+- **Liquor**: tense, shiny uterus with a fluid thrill = polyhydramnios.
+- **Auscultation**: **two fetal hearts** heard at the same time by two people at different points, differing by **≥10 bpm**, supports twins but is **not reliable alone**: confirm by ultrasound.
+- Uterine tenderness (abruption, chorioamnionitis), contractions.
+
+**Vaginal examination** (in labour, after praevia is excluded)
+- Dilatation, membranes, presenting part of **twin 1**, station, cord.
+
+**In the second stage after twin 1 is born**
+- Palpate again: **lie and presentation of twin 2**, stabilise it longitudinally, **FHR of twin 2**, then a **VE** (membranes, presenting part, cord).
+
+**Document the key negatives**: "BP 118/72, no pallor, SFH 38 cm at 32 weeks, twin 1 cephalic 3/5, twin 2 breech, two FHRs 140 and 128, uterus soft and non-tender, no bleeding".
+
+### Step 3: Bedside tests
+
+| Test | How / what to look for | What it changes |
+|---|---|---|
+| **Point-of-care ultrasound** | Number of fetuses, **presentation of twin 1**, **lie of twin 2**, viability, placental site, gross liquor difference | Mode of delivery (**twin 1 non-cephalic → CS**); praevia → no VE; big liquor difference in MC twins → TTTS |
+| **FHR of both twins** (Pinard/Doppler; dual-channel CTG where available) | Two different rates, each identified (label twin 1 and twin 2) | Fetal well-being; make sure you are not counting the same heart twice (check the maternal pulse too) |
+| **Hb (HemoCue)** | **<11 g/dL** anaemia; **<7** severe | Iron, transfusion planning, PPH reserve |
+| **Urine dipstick** | Protein (pre-eclampsia), nitrites/leucocytes (UTI), glucose | PE work-up; treat UTI (preterm labour trigger) |
+| **BP** at every visit | ≥140/90 | Pre-eclampsia pathway |
+| **RBS** | Raised | GDM screen (commoner in twins) |
+| **mRDT** | Positive | Treat malaria (preterm labour, anaemia) |
+| **Bedside clotting test** | No clot by 7 min | Abruption, retained dead twin, pre-eclampsia with bleeding |
+| **Partograph** | As for singletons, from active labour | Labour progress for twin 1; the inter-twin interval is recorded separately |
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **First-trimester scan** (number, viability, **chorionicity/amnionicity**, CRL dating, NT) | **11–14 weeks** (ideally; any first scan). HC IV (sometimes), regional/national referral, private | **Lambda sign** = DC; **T sign** = MCDA; no membrane = MCMA; different sexes = DZ (DC) | Sets the surveillance schedule and delivery date. **Uncertain = manage as MC** |
+| **Anomaly scan** | **18–22 weeks**. Regional/national referral, private | Cardiac and neural tube anomalies (commoner in MZ twins) | Counselling; place of birth |
+| **Growth scans**: EFW each twin, **deepest vertical pocket (DVP)**, bladders, umbilical artery Doppler | **DC: every 4 weeks from 20 weeks. MC: every 2 weeks from 16 weeks.** Regional/national referral; basic EFW at many HC IVs | **Discordance ≥25%** (≥20% is used by some) or one twin **<10th centile** = significant; DVP **<2 cm** donor / **>8 cm** recipient = TTTS | Doppler surveillance, fetal medicine referral, steroids, earlier delivery |
+| **MCA peak systolic velocity** (MCA-PSV) Doppler | MC twins from about 20 weeks; any single fetal death in MC twins. Specialist centres only | Classic criteria: **>1.5 MoM** in one twin (anaemia) and **<1.0 MoM** in the other (polycythaemia) = **TAPS** (newer criteria use the difference between the twins) | Fetal medicine referral; delivery planning |
+| **Full blood count / Hb** | **Booking, 20–24 weeks and 28 weeks** (more often if low), and before delivery. All HC IVs and hospitals | Hb <11 (twin demand for iron and folate) | Treat with 120 mg elemental iron daily; plan blood for delivery |
+| **Blood group, Rh, antibody screen** | Booking; **group and cross-match 2 units** for delivery. HC IV with blood bank upward | Rh negative | Anti-D; blood ready for PPH |
+| **HIV, syphilis, HBsAg** | Booking and retest per protocol. All levels (rapid tests) | Positive | eMTCT; infant prophylaxis for **both** babies |
+| **Urine culture** | Booking or symptoms. Referral labs | Asymptomatic bacteriuria | Treat (preterm labour trigger) |
+| **OGTT** (75 g) | 24–28 weeks if risk factors/available. Hospitals | Fasting ≥5.1, 1 h ≥10.0, 2 h ≥8.5 mmol/L (WHO 2013) | GDM management |
+| **Pre-eclampsia bloods** (FBC, LFT, creatinine) | If hypertensive or proteinuric. Hospitals | Platelets <100, AST >70, creatinine >90 | Severe PE pathway; delivery |
+| **Clotting profile / fibrinogen** | Single fetal death (baseline and periodically), abruption. Regional/national referral | Falling fibrinogen, prolonged PT/APTT (rare) | DIC risk; plan delivery |
+| **Ultrasound on admission in labour** | Every twin labour. HC IV and above | Presentation of both; lie of twin 2 | Mode of delivery; manoeuvres for twin 2 |
+| **Placental examination** (± histology) | After every twin birth. Histology at referral hospitals | Number of placentas; **thin translucent membrane** (MC) vs thick opaque (DC) | Confirms chorionicity; audit; counselling for future |
+
+> [!UGANDA]
+> Most Ugandan women with twins are first diagnosed on a **third-trimester scan** or in labour, when chorionicity can no longer be read reliably. Ask for an **early scan (before 14 weeks)** when you suspect twins at booking; if a woman arrives later with uncertain chorionicity, **treat as MC** (2-weekly scans at a referral hospital, delivery at 36 weeks) unless the twins are clearly of **different sexes** or there are **two separate placentas**.
+
+### Step 5: Putting it together
+
+**Model one-line summary**
+
+> "A 30-year-old G4P3 at 32+2 weeks with a **DCDA twin pregnancy** (lambda sign at 12 weeks), twin 1 cephalic, twin 2 breech, **growth discordance of 12%**, normal liquor and Dopplers, Hb 9.8 g/dL, BP normal, for iron optimisation, 4-weekly growth scans and planned vaginal birth at 37+0 weeks."
+
+**Problem list**
+1. Multiple pregnancy: number, **chorionicity/amnionicity** (and how reliably known), GA.
+2. Fetal: growth of each twin, discordance, liquor (DVP each sac), Dopplers, presentations.
+3. Maternal: anaemia, BP/pre-eclampsia, GDM, preterm labour/PPROM risk.
+4. Delivery plan: date (by chorionicity), place (theatre, blood, two neonatal teams), mode (presentation of twin 1), plan for twin 2.
+5. Postpartum: PPH prevention, breastfeeding two babies, KMC, family planning.
+
+**Working diagnosis**: always state number + chorionicity + amnionicity + GA + complication, e.g. "MCDA twins at 22 weeks with Quintero stage II TTTS" or "DCDA twins at 35 weeks, twin 1 cephalic, in early labour".
+
+#### Worked example 1: reading a chorionicity scan
+
+| Scan finding at 12 weeks | Interpretation |
+|---|---|
+| Two gestational sacs, thick membrane with a **triangular tongue of placenta at its base** | **Lambda sign → DCDA** |
+| One placental mass, **thin membrane meeting it at a right angle** | **T sign → MCDA** |
+| One placental mass, **no dividing membrane**, cords close together | **MCMA** (confirm; plan CS at 32–33+6 weeks) |
+| Scan at 26 weeks: "single placenta, thin membrane, same sex" | **Cannot be sure** (two placentas can fuse and the lambda sign fades): **manage as MC** |
+
+#### Worked example 2: calculating growth discordance
+
+EFW twin 1 = **2,400 g**; EFW twin 2 = **1,800 g**.
+
+**Discordance = (larger − smaller) ÷ larger × 100 = (2,400 − 1,800) ÷ 2,400 × 100 = 600 ÷ 2,400 × 100 = 25%.**
+
+**Reading it:** 25% is **significant** (the threshold used in these notes is ≥25%, with some units acting at ≥20%). Next: is the smaller twin **<10th centile** (sFGR)? What is the **umbilical artery Doppler** of the small twin? What is the **chorionicity**? In DC twins, increase surveillance (Doppler every 1–2 weeks) and deliver when the small twin's Doppler deteriorates or at the planned date, balancing prematurity for the healthy twin; give steroids if delivery before 34 weeks is likely. In MC twins, refer to fetal medicine (sFGR or TTTS). **Remember to divide by the LARGER twin's weight**, not the smaller one (600 ÷ 1,800 = 33% is a common exam error).
+
+#### Worked example 3: MC twins with unequal liquor
+
+MCDA twins at 20 weeks: twin A DVP **1.5 cm**, bladder visible; twin B DVP **9 cm**, large bladder; Dopplers normal; no hydrops.
+
+**Reading it:** DVP **<2 cm** in one sac and **>8 cm** in the other in MC twins = **TTTS, Quintero stage I** (donor bladder still visible). (Some fetal medicine centres use **>10 cm after 20 weeks** for the recipient; follow the referral centre.) **Action:** urgent referral to a fetal medicine specialist, weekly (or more frequent) scans to detect progression to stage II (donor bladder not visible), counselling on laser ablation (16–26 weeks; not routinely available in Uganda) or amnioreduction for symptomatic polyhydramnios, and steroids when viability approaches.
+
 ## Differential diagnosis
 
 ### Of "uterus large for dates"
@@ -196,18 +331,17 @@ The polyhydramnios also causes **preterm labour and PPROM**. Without treatment, 
 
 ## Investigations
 
-| Test | What you are looking for | Why |
+Each test, its interpretation and where it is available in Uganda is in **Step 3** and **Step 4** of the Clinical workup above. The table below puts the main ones on a **timeline** so you can see what should have been done by the time you meet her:
+
+| Gestation | DCDA twins | MC twins (or chorionicity uncertain) |
 |---|---|---|
-| **Ultrasound at 11–14 weeks** | Number of fetuses, **chorionicity/amnionicity** (lambda/T sign), viability, dating (use the **larger** twin's CRL), nuchal translucency | Determines the entire care plan |
-| **Anomaly scan at 18–22 weeks** | Structural anomalies (more common in MZ twins: heart, neural tube) | Counselling, planning |
-| **Growth scans** | DC: every **4 weeks from 20 weeks**. MC: every **2 weeks from 16 weeks** (deepest pocket, bladders, EFW, Doppler; MCA-PSV from 20 weeks) | Detect TTTS, sFGR, discordance |
-| **Hb / FBC** | Anaemia | Booking, **20–24 weeks** and **28 weeks** (more often if low) |
-| Blood group, Rh, antibody screen | Rh negative | Anti-D planning |
-| HIV, syphilis, hepatitis B | | Routine ANC; eMTCT |
-| **BP and urine protein** every visit | Pre-eclampsia | Higher risk |
-| OGTT (where risk factors/available) | GDM | Higher risk |
-| Urine culture | Asymptomatic bacteriuria | Preterm labour trigger |
-| **Ultrasound on admission in labour** | Presentation of both twins; confirm lie of twin 2 after delivery of twin 1 | Plan mode and manoeuvres |
+| **11–14 weeks** | Dating (larger CRL), **chorionicity**, NT; booking bloods (Hb, group, HIV, syphilis, HBsAg), urine | Same; **label the twins** |
+| **16 weeks** | | Start **2-weekly scans**: DVP each sac, bladders (TTTS) |
+| **18–22 weeks** | Anomaly scan | Anomaly scan (include the fetal heart) |
+| **20 weeks onwards** | **Growth scan every 4 weeks** (EFW, DVP, discordance) | **Every 2 weeks**: EFW, DVP, bladders, umbilical artery Doppler; **MCA-PSV** where available (TAPS) |
+| **20–24 and 28 weeks** | **Hb** (more often if low); OGTT if indicated | Same |
+| **Every visit** | BP, urine protein, symptoms of preterm labour | Same, plus rapid abdominal growth or breathlessness (TTTS) |
+| **Before delivery** | Presentation scan, Hb, **group and cross-match** | Same |
 
 ## Management
 
@@ -406,3 +540,57 @@ Continuing beyond these dates increases the risk of **stillbirth**. Earlier deli
 - **Maternal complications of twins: "HAPPI PPH"**: **H**yperemesis, **A**naemia, **P**re-eclampsia, **P**reterm labour, **I**ncreased malpresentation/operative delivery, **P**olyhydramnios, **P**raevia/abruption, **H**aemorrhage postpartum.
 - **TTTS donor vs recipient: "Donor Dries, Recipient Receives (too much)"**: the donor is dry (oligohydramnios, small bladder, FGR); the recipient is flooded (polyhydramnios, big bladder, heart failure).
 - **Twin 2 steps: "No Oxy, Palpate, Stabilise, Listen, Examine, Rupture, Push"**.
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| MZ twinning rate | About **3.5–4 per 1,000** (constant worldwide) |
+| DZ twinning in sub-Saharan Africa | Often around **18–28 per 1,000** births |
+| MZ split timing | **0–3 days** DCDA; **4–8** MCDA; **8–12** MCMA; **≥13** conjoined |
+| Proportion of MZ twins | DCDA ~25–30%; MCDA ~70–75%; MCMA ~1–2% |
+| Chorionicity scan | **11–14 weeks**; membrane thick >2 mm (DC) vs thin <2 mm (MC) |
+| Two fetal hearts | Heard simultaneously, differing by **≥10 bpm** |
+| Scan schedule | DC **4-weekly from 20 weeks**; MC **2-weekly from 16 weeks** |
+| Discordance | **(larger − smaller) ÷ larger × 100**; significant **≥25%** (some ≥20%) |
+| sFGR | One twin EFW **<10th centile** |
+| TTTS liquor | Donor DVP **<2 cm**; recipient **>8 cm** (some centres >10 cm after 20 weeks) |
+| TTTS incidence | **10–15%** of MCDA twins |
+| TTTS laser window | **16–26 weeks** |
+| TAPS (classic) | MCA-PSV **>1.5 MoM** one twin, **<1.0 MoM** the other |
+| Co-twin death, MC survivor | Death ~**15%**, neurological injury ~**25%** (DC ~3% and ~2%) |
+| Hb checks | Booking, **20–24 weeks**, **28 weeks** |
+| Iron | Ferrous sulphate 200 mg (60 mg elemental) + folic acid 400 mcg daily; treatment **120 mg elemental/day** |
+| Aspirin | **75–150 mg nocte from 12 weeks** to 36 weeks (NICE: until birth) |
+| Planned birth (NICE NG137) | DCDA **37+0**; MCDA **36+0**; MCMA **32+0–33+6 (CS)**; triplets **35+0** |
+| Preterm twins | About **half** born before 37 weeks |
+| Steroids | Dexamethasone **6 mg IM 12-hourly × 4** if birth likely at 24 (28)–34 weeks |
+| Blood for twin delivery | **Group and cross-match 2 units**, 16–18 G cannula |
+| Twin 2: wait before oxytocin | About **10 min** without effective contractions → oxytocin infusion (e.g. **2.5–5 IU in 500 mL**, titrated; check unit protocol) |
+| Inter-twin interval | Traditionally aim **≤30 min** if twin 2 is not continuously monitored |
+| Third stage | **Oxytocin 10 IU IM/IV after the last baby** + infusion **20–40 IU in 1 L** |
+| Locked twins | About **1 in 1,000** twin deliveries |
+
+### Classic exam traps
+
+- **"Same-sex twins are identical."** Wrong: same-sex DCDA twins may be DZ or MZ; only **different-sex** proves DZ, and only **MC** proves MZ.
+- **"DCDA means non-identical."** Wrong: about a quarter of MZ twins are DCDA (split in days 0–3).
+- **"Give oxytocin 10 IU IM after twin 1 as part of AMTSL."** Wrong: this can trap twin 2. **No uterotonic until the last baby is born.**
+- **"Discordance = difference ÷ smaller twin."** Wrong: divide by the **larger** twin's EFW.
+- **"Twins = elective caesarean."** Wrong: if twin 1 is **cephalic**, planned vaginal birth is reasonable (Twin Birth Study); CS for non-cephalic twin 1, MCMA and triplets.
+- **"Chorionicity can be read on a 30-week scan."** Unreliable: the lambda sign fades; if in doubt **manage as MC**.
+- **"Deliver immediately after an MC co-twin death to protect the survivor."** Wrong: the damage happens at the moment of death; immediate delivery does not prevent it and adds prematurity.
+- **"Cerclage or progesterone prevents preterm birth in twins."** Wrong: routine cerclage, progesterone and bed rest do **not** help.
+
+### Questions seniors ask
+
+1. **How do you diagnose twins clinically, and how do you confirm them?** Large for dates, multiple poles and parts, a small head for the uterine size, two FHRs differing by ≥10 bpm; **confirm by ultrasound**, with chorionicity at 11–14 weeks.
+2. **What is the chorionicity, and why does it matter?** DC vs MC decides scan frequency, delivery date and specific risks (TTTS, TAPS, sFGR and co-twin death in MC; cord entanglement in MCMA).
+3. **Calculate the discordance for 2,400 g and 1,800 g.** (2,400 − 1,800) ÷ 2,400 = **25%**: significant; check for sFGR and Doppler.
+4. **What do you prepare before a twin delivery?** Experienced obstetrician, theatre ready, anaesthetist aware, IV access, 2 units cross-matched, both FHRs monitored, **two neonatal resuscitation sets**, labelled cord clamps, oxytocin infusion ready but not running, ultrasound to hand.
+5. **Twin 1 delivered; twin 2 is transverse with intact membranes and a normal FHR. What next?** Stabilise, **ECV** to a longitudinal lie; if it fails, an experienced obstetrician performs **internal podalic version and breech extraction**; otherwise **caesarean section**.
+6. **Why are twins at risk of PPH, and how do you prevent it?** Overdistended uterus, large placental bed, anaemia, long labour, operative delivery. Oxytocin 10 IU after the last baby, **prophylactic oxytocin infusion**, close monitoring for 1–2 h, TXA if bleeding.
+7. **MCDA twins at 20 weeks with DVP 1.5 cm and 9 cm: what is it?** **TTTS** (Quintero I if the donor bladder is visible): urgent fetal medicine referral, close scans, laser (16–26 weeks) or amnioreduction where laser is unavailable.
+8. **When should uncomplicated twins be delivered?** DCDA 37+0, MCDA 36+0, MCMA 32+0–33+6 by CS, triplets 35+0 (NICE NG137).

@@ -105,6 +105,31 @@
       "id": "mp-f21",
       "front": "What is TAPS and how is it diagnosed?",
       "back": "**Twin anaemia-polycythaemia sequence**: tiny anastomoses in MC twins → one anaemic, one polycythaemic, **without** liquor discordance. Diagnosed by **MCA peak systolic velocity** Doppler."
+    },
+    {
+      "id": "mp-f22",
+      "front": "EFW twin 1 = 2,400 g, twin 2 = 1,800 g. Calculate the discordance. Is it significant?",
+      "back": "**(2,400 − 1,800) ÷ 2,400 × 100 = 25%** → **significant** (≥25%; some units act at ≥20%). Check whether the small twin is <10th centile (sFGR), its umbilical artery Doppler and the chorionicity. Divide by the **larger** twin (600 ÷ 1,800 = 33% is the classic error)."
+    },
+    {
+      "id": "mp-f23",
+      "front": "A woman has twins on a 28-week scan, same sex, one placental mass, and chorionicity was never assessed. How do you manage her?",
+      "back": "**Manage as monochorionic** (the higher-risk assumption): 2-weekly scans (DVP, bladders, EFW, Doppler) at a referral centre, watch for TTTS/sFGR/TAPS, and plan delivery at **36+0 weeks**. Only different sexes or two separate placentas reliably prove DC this late."
+    },
+    {
+      "id": "mp-f24",
+      "front": "Checklist before a planned vaginal twin delivery?",
+      "back": "Scan for **presentation of both twins**; experienced obstetrician; **theatre** and anaesthetist ready; **16–18 G IV access**, Hb, **group and cross-match 2 units**; monitor **both FHRs**; **two neonatal resuscitation sets** and labelled cord clamps; oxytocin infusion **prepared but not running**; ultrasound to hand for twin 2."
+    },
+    {
+      "id": "mp-f25",
+      "front": "How do you confirm on the ward that you are hearing two different fetal hearts?",
+      "back": "Two examiners listen **simultaneously** at different points of the abdomen; rates differing by **≥10 bpm** suggest two hearts. Check the **maternal pulse** too. It is unreliable alone: **confirm by ultrasound**."
+    },
+    {
+      "id": "mp-f26",
+      "front": "TTTS liquor criteria and where the TTTS work-up is done in Uganda?",
+      "back": "MC twins with donor **DVP <2 cm** and recipient **DVP >8 cm** (some centres >10 cm after 20 weeks). Quintero stage by donor bladder, Dopplers, hydrops, death. Specialist scans at **regional/national referral** or private centres; laser (16–26 weeks) is **not routinely available in Uganda**, so amnioreduction, steroids and timely delivery are the usual options."
     }
   ],
   "mcqs": [

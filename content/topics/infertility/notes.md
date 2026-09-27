@@ -10,6 +10,10 @@ highYield:
   - Letrozole 2.5 mg daily on days 3–7 (up to 7.5 mg) is first-line ovulation induction in PCOS; clomiphene 50 mg daily on days 2–6 (up to 150 mg), with ultrasound monitoring and for no more than 6 months, is the alternative.
   - Never start ovulation induction until you know the tubes are patent and the semen is adequate.
   - Hydrosalpinx halves IVF success — salpingectomy or proximal tubal occlusion before IVF.
+  - Semen analysis comes first and is the cheapest test — 2–7 days of abstinence, to the lab within 1 hour at body temperature; repeat an abnormal result after about 3 months (spermatogenesis takes about 74 days).
+  - Time the mid-luteal progesterone 7 days before the expected period (day 28 of a 35-day cycle); a low "day-21" value in a long cycle is usually mistimed, so repeat before calling it anovulation.
+  - Oligo/amenorrhoea needs hormones, not a progesterone — FSH, LH and oestradiol on days 2–5, prolactin, TSH, testosterone and a pregnancy test; FSH above 25 IU/L (repeated) under 40 means POI, low FSH/LH/E2 means WHO group I.
+  - On HSG, free bilateral spill means patent tubes; club-shaped tubes without spill are hydrosalpinges (IVF after salpingectomy); cornual block may be spasm (confirm by laparoscopy and dye); beaded pipe-stem tubes suggest genital TB.
 ---
 
 ## In a nutshell
@@ -175,6 +179,155 @@ Hypothalamus --GnRH (pulsatile)--> Pituitary --FSH/LH--> Ovary --oestradiol/prog
 > [!EXAM]
 > **How to present an infertile couple:** "Mr and Mrs O, married 4 years, have been trying to conceive for 3 years — secondary infertility. Mrs O is 29, P1+1; her last pregnancy 4 years ago ended in an incomplete abortion treated by D&C at a private clinic, complicated by fever and lower abdominal pain for 2 weeks. Her cycles are regular, 28 days, normal flow. Mr O is 35, has no children, was treated for urethral discharge twice. Examination of Mrs O: BMI 24, no hirsutism, bimanual shows a fixed retroverted uterus with bilateral adnexal thickening. Mr O: normal testes and vasa. My impression is secondary infertility, most likely tubal factor from post-abortal sepsis; differentials include Asherman's syndrome and male factor. Plan: semen analysis, mid-luteal progesterone, HSG, HIV/syphilis tests for both, counsel together."
 
+## Clinical workup
+
+Infertility is an **outpatient, couple-based** workup spread over one or two menstrual cycles. The skill is to order the tests **in the right sequence and at the right time of the cycle**, so that within about 2–3 months you can answer the four questions (eggs, tubes, womb, sperm) and not waste her fertile time. A good first visit ends with a **semen analysis request, a correctly timed progesterone, an HSG date, and basic screening for both partners**.
+
+### Step 0: First 5 minutes
+
+Infertility clinics are not usually emergencies, but a few things must be checked before you start a long history:
+
+1. **Is she pregnant now?** A late or missed period in a woman "trying for years" is common. Do a **urine pregnancy test** if her period is late or cycles are irregular. **Positive with pain or bleeding** → **ectopic pregnancy until proven otherwise** (damaged tubes): vitals, ultrasound, senior review today.
+2. **Is she on (or just off) ovulation induction or IVF?** Abdominal distension, pain, breathlessness, vomiting or reduced urine → **OHSS**: vitals, weight, girth, urine output, **haematocrit** and electrolytes, and admit if severe.
+3. **Neuro-endocrine red flags**: galactorrhoea with **headache or visual field loss** (pituitary macroadenoma, urgent MRI/referral); rapid virilisation (androgen-secreting tumour).
+4. **Safety**: ask the woman, **alone**, whether she is safe at home. Infertility-related **intimate partner violence** and **depression/suicidal thoughts** are common; they change today's plan.
+5. **Baseline vitals and BMI** for both partners: BP, weight, height, **BMI** (under 19 or over 30 changes the plan: weight change can restore ovulation, and many units ask for weight loss before ovulation induction when BMI is well above 30, though cut-offs vary).
+
+> [!REDFLAG]
+> Same-day senior review for: a positive pregnancy test with pain or bleeding (ectopic), suspected severe OHSS, visual field loss with galactorrhoea, or disclosure of violence or suicidal intent.
+
+### Step 1: Focused history
+
+See the couple together, then each alone (confidential questions: previous pregnancies with other partners, STIs, HIV, violence). The full question tables are under **Clinical acumen**; this is the minimum checklist with the decision each answer drives:
+
+| Ask | Why: the answer that changes the plan |
+|---|---|
+| **Her age; duration of trying** | 12 months or more → investigate; **6 months if she is 35 or older**; at 38–40 refer early for ovarian reserve and ART |
+| **Primary or secondary; outcome of each pregnancy** | Secondary after abortion, D&C, septic delivery or CS → **HSG early** (tubes, Asherman's) |
+| **Cycle length and regularity** | **21–35 days and regular** → probably ovulating: confirm with mid-luteal progesterone **timed to her cycle**. **Oligo/amenorrhoea** → skip the progesterone and do **hormones** (FSH, LH, E2, prolactin, TSH, testosterone) |
+| **Scanty periods after curettage or sepsis** | Asherman's → HSG/hysteroscopy |
+| **Heavy periods, pressure symptoms** | Fibroids → ultrasound for a cavity-distorting fibroid |
+| **Progressive dysmenorrhoea, deep dyspareunia** | Endometriosis → laparoscopy |
+| **PID, STIs, pelvic surgery, TB** | Tubal disease likely → HSG ± laparoscopy; TB → endometrial biopsy |
+| **Hirsutism, acne, weight gain** | PCOS → testosterone, ultrasound, glucose |
+| **Galactorrhoea, drugs (antipsychotics, metoclopramide)** | Prolactin |
+| **Hot flushes, amenorrhoea under 40** | FSH (POI) |
+| **Coital frequency; are they living together; any sexual dysfunction** | Many "infertile" couples rarely have intercourse; vaginismus or erectile dysfunction needs different care |
+| **Contraception (DMPA)** | Return of fertility can take up to about 10 months after the last injection: may simply need time |
+| **The man: children before, mumps orchitis, undescended testes, urethral discharge, scrotal surgery, anabolic steroids/testosterone, heat, erectile or ejaculatory problems** | Guides semen analysis interpretation and male hormones |
+| **HIV status of both** | Serodiscordance → ART with suppressed viral load (U = U), PrEP, timed intercourse, sperm washing where available |
+| **What has been tried (herbs, healers, previous "tuboplasty")**, money available | Realistic plan; honest counselling about IVF costs |
+
+### Step 2: Focused examination
+
+**Woman**
+
+- **General**: BMI, BP, **hirsutism** (upper lip, chin, chest, linea alba), acne, **acanthosis nigricans**, thyroid, **galactorrhoea** (express gently), secondary sexual characteristics (Tanner stage), **visual fields** if prolactin is likely high.
+- **Abdomen**: scars (CS, laparotomy, appendicectomy), masses (fibroid uterus, ovarian mass).
+- **Pelvis**: vulva and vagina (vaginismus, septum); **speculum** (cervix, discharge, **VIA** if due); **bimanual**: uterine size and contour (**fibroids**), **mobility** (a **fixed retroverted uterus** suggests adhesions from PID or endometriosis), **adnexal thickening or tenderness**, nodules in the pouch of Douglas (endometriosis).
+- **Document key negatives**: "no hirsutism, no galactorrhoea, uterus normal size, mobile, adnexa free".
+
+**Man** (examine him; do not assume)
+
+- General: virilisation, **gynaecomastia** (Klinefelter, steroids), BMI.
+- **Testes**: volume with an orchidometer (normal about **15–25 mL**; small soft testes = testicular failure), consistency, masses.
+- **Vas deferens**: palpable **on both sides**? (absent = congenital bilateral absence of the vas).
+- **Epididymis**: thickening or cysts (previous epididymitis, obstruction).
+- **Varicocele**: examine **standing** with Valsalva ("bag of worms").
+- Penis: hypospadias, discharge; hernia scars.
+
+### Step 3: Bedside tests
+
+| Test | What it tells you |
+|---|---|
+| **Urine pregnancy test** | Before any HSG, any drug, and in any woman with a late period |
+| **BMI and waist circumference** | Weight management target (BMI 19–30); PCOS metabolic risk |
+| **BP** | Hypertension (PCOS, pre-pregnancy optimisation) |
+| **Urine dipstick** | Glycosuria (diabetes), leucocytes/nitrites (UTI) |
+| **Random blood sugar** | Diabetes (PCOS, obesity); both partners if at risk |
+| **Rapid HIV and syphilis tests (both partners)** | Safer conception plan; treat syphilis before pregnancy |
+| **HemoCue / Hb** | Anaemia (heavy periods, fibroids) to correct before pregnancy or surgery |
+| **VIA** (if due) | Cervical screening should be up to date before fertility treatment |
+| **Transvaginal ultrasound in clinic** (where available) | Fibroids and their relation to the cavity, polycystic ovaries (**≥20 follicles per ovary** or volume **≥10 mL**), endometrioma, **hydrosalpinx** (tubular fluid-filled adnexal structure), and **follicle tracking** during ovulation induction (a leading follicle of about 18 mm or more is mature) |
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Semen analysis** (2–7 days' abstinence, delivered within 1 hour at body temperature) | **First test for every couple**, before any invasive test on the woman | WHO 2021 lower reference limits: volume **1.4 mL**, concentration **16 million/mL**, total **39 million**, total motility **42%**, progressive **30%**, vitality **54%**, normal forms **4%** | Normal → focus on the woman. Abnormal → **repeat after about 3 months** (sooner if azoospermic/severe), male hormones, lifestyle; severe → IUI/IVF/ICSI. Available in most general/regional hospital labs and private labs |
+| **Mid-luteal progesterone** | Regular cycles; **7 days before the expected period** (day 21 of 28, day 28 of 35) | **>30 nmol/L** confirms ovulation. Lower: check timing and repeat | Ovulatory → look at tubes and semen; anovulatory → hormone workup and ovulation induction. Regional/national referral and private labs |
+| **FSH, LH, oestradiol (days 2–5)** | Oligo/amenorrhoea; age ≥35 (reserve) | High FSH (**>25 IU/L** repeated, under 40) = POI (WHO III); low FSH/LH/E2 = WHO I; normal FSH with high LH:FSH = PCOS pattern | Chooses treatment: letrozole/clomiphene only work in WHO II; donor eggs for POI; gonadotrophins for WHO I. Regional/private labs |
+| **Prolactin, TSH** | Oligo/amenorrhoea, galactorrhoea, before ovulation induction | Raised prolactin (repeat, unstressed); abnormal TSH | Cabergoline/bromocriptine, MRI pituitary; levothyroxine. Regional/private |
+| **Testosterone (± SHBG)** | Hirsutism, suspected PCOS | Mildly raised = PCOS; **very high** or rapid virilisation = tumour | Tumour workup; supports Rotterdam criterion |
+| **AMH / antral follicle count** | Age ≥35, before IVF, suspected low reserve or PCOS | Low = fewer eggs; high = PCOS | Predicts response to stimulation (not natural fertility); urgency of referral. AMH mainly private labs in Kampala |
+| **Pelvic ultrasound (TVUS)** | All women | Fibroids, polyps, endometrioma, hydrosalpinx, polycystic ovaries | Myomectomy/hysteroscopy before treatment; salpingectomy for hydrosalpinx before IVF. HC IV (basic) upwards |
+| **HSG** | Tubal assessment in all (after normal semen analysis); **days 6–10** of the cycle, pregnancy excluded | Free bilateral spill = patent; block, hydrosalpinx, loculated spill, beaded tubes, cavity defects | See Step 5 for interpretation. Screen for chlamydia or give **antibiotic prophylaxis (e.g. doxycycline)**; not with active pelvic infection. Regional/national referral and private radiology |
+| **Laparoscopy and dye** | History of PID, endometriosis or pelvic surgery, abnormal/equivocal HSG | Tubal patency, peri-tubal adhesions, endometriosis | **Gold standard**; diagnose and treat at once. Few national referral and private centres |
+| **HyCoSy / saline sonohysterography** | Where available, instead of HSG or to define cavity lesions | Tubal spill, polyps, submucous fibroids | No radiation. Mainly private/specialist centres |
+| **Hysteroscopy** | Suspected Asherman's, polyp, submucous fibroid, septum | Adhesions, lesions | Diagnose **and** treat. Limited centres |
+| **Endometrial biopsy (histology + GeneXpert)** | Suspected genital TB | Granulomas, MTB detected | Anti-TB therapy (2RHZE/4RH); tubes rarely recover |
+| **HIV, syphilis, hepatitis B; Hb, blood group, sickle status (both as relevant)** | All | Positive results | ART/PrEP and safer conception; treat syphilis; preconception care |
+| **Glucose/HbA1c, lipids** | PCOS, obesity | Diabetes, dyslipidaemia | Metabolic care before pregnancy |
+| **Cervical screening** | If due | VIA/HPV positive | Treat before fertility treatment |
+| **Male FSH, LH, testosterone; scrotal ultrasound; karyotype** | Abnormal or azoospermic semen analysis | See "Tests for the man" below | Obstructive vs non-obstructive azoospermia; ICSI, sperm retrieval or donor sperm |
+
+> [!UGANDA]
+> At **HC III/IV** you can take the history, examine both partners, do a pregnancy test, rapid HIV/syphilis tests, Hb, VIA and (sometimes) an ultrasound, start folic acid and lifestyle advice, treat STIs in both, and **refer with a semen analysis request**. Semen analysis, hormones and **HSG** are at **general/regional referral hospitals and private facilities**; laparoscopy, hysteroscopy, AMH, IUI and IVF are at **national referral and private fertility centres** (public IVF at Mulago Specialised Women and Neonatal Hospital since 2025). Costs are paid out of pocket: order tests in a sensible sequence and avoid repeats.
+
+### Step 5: Putting it together
+
+**Model one-line summary**: "Mr and Mrs K: she is 31, P1+1, with 3 years of secondary infertility after a septic incomplete abortion treated by D&C; regular 28-day cycles; bimanual shows a fixed retroverted uterus. He is 36, treated twice for urethral discharge; normal testes and vasa. Semen analysis normal; day-21 progesterone 42 nmol/L; HSG shows bilateral hydrosalpinges with no spill."
+
+**Problem list**
+
+1. Secondary infertility, 3 years.
+2. **Tubal factor**: bilateral distal tubal occlusion with hydrosalpinges (post-infective).
+3. Ovulating (progesterone 42 nmol/L); semen normal.
+4. Psychosocial and financial burden.
+
+**Working diagnosis**: secondary infertility due to post-infective bilateral distal tubal disease. **Plan**: counsel the couple together; realistic options are **IVF** (with **laparoscopic salpingectomy or proximal tubal occlusion first**, because hydrosalpinx fluid halves IVF success), adoption or acceptance; ovulation induction would be useless; warn about ectopic risk if she conceives; folic acid; treat both for any STI.
+
+**Worked example 1: interpreting a "day-21" progesterone**
+
+| Scenario | Result | Interpretation | Next step |
+|---|---|---|---|
+| Regular 28-day cycle, sample on day 21, period came on day 28 | **45 nmol/L** | Ovulation confirmed (>30) | Move on to tubes and semen |
+| Regular **35-day** cycle, sample taken on day 21 | **8 nmol/L** | **Mistimed**: day 21 of a 35-day cycle is around ovulation, before the luteal peak | **Repeat on day 28** (7 days before the expected period); e.g. 38 nmol/L on day 28 = ovulating |
+| Regular 28-day cycle, correctly timed | **18 nmol/L** | Equivocal: below the >30 nmol/L cut-off. Many labs treat roughly 16–30 nmol/L as "repeat" rather than proof of anovulation (thresholds vary by lab) | Repeat next cycle, confirm timing (was the period 7 days later?) ± follicle tracking |
+| Cycles every 45–90 days | (No point doing "day 21") | Oligo-ovulation is clinically obvious | FSH/LH/E2 days 2–5, prolactin, TSH, testosterone, ultrasound → e.g. PCOS → letrozole after semen and tubes are checked |
+| Amenorrhoea | FSH 48 IU/L on two occasions, age 34 | **POI** (WHO III) | Counsel; donor-egg IVF; HRT for bone and heart |
+
+**Worked example 2: reading an HSG report**
+
+| HSG finding | What it means | Next step |
+|---|---|---|
+| Normal triangular cavity, **free bilateral peritoneal spill** | Tubes patent | Tubal factor unlikely (HSG can miss adhesions/endometriosis) |
+| **Bilateral cornual (proximal) block**, no tubes seen | True block **or spasm**/debris | Confirm with **laparoscopy and dye** (or repeat) before labelling; tubal cannulation or IVF |
+| **Bilateral dilated, club-shaped tubes with no spill** | **Bilateral hydrosalpinges** (distal occlusion, post-PID) | **IVF**, with **salpingectomy or proximal occlusion first**; surgery (salpingostomy) only for mild disease in younger women |
+| One tube patent with spill, the other blocked | At least one patent tube | Natural conception or ovulation induction/IUI possible if needed |
+| Spill present but **loculated** (contrast pooling around the tube) | **Peri-tubal adhesions** | Laparoscopy (adhesiolysis) |
+| **Beaded, rigid "pipe-stem" tubes**, calcification, irregular small cavity | **Genital TB** | Endometrial biopsy (histology, GeneXpert), chest X-ray; anti-TB therapy; IVF only if the endometrium is healthy |
+| **Filling defect** in the cavity | Submucous fibroid or polyp | Ultrasound/hysteroscopy → resection |
+| **Irregular cavity with multiple filling defects**, poor filling | **Asherman's** (intrauterine adhesions) | Hysteroscopic adhesiolysis + oestrogen |
+
+**Worked example 3: reading a semen analysis against WHO 2021**
+
+> Mr O, 38, 3 days' abstinence, delivered in 40 minutes: volume **2.8 mL**; concentration **9 million/mL**; total **25 million**; total motility **35%**; progressive motility **20%**; vitality **62%**; normal forms **2%**.
+
+| Parameter | Result | Lower reference limit | Verdict |
+|---|---|---|---|
+| Volume | 2.8 mL | 1.4 mL | Normal |
+| Concentration | 9 million/mL | 16 million/mL | **Low (oligozoospermia)** |
+| Total number | 25 million | 39 million | **Low** |
+| Total motility | 35% | 42% | **Low** |
+| Progressive motility | 20% | 30% | **Low (asthenozoospermia)** |
+| Vitality | 62% | 54% | Normal |
+| Normal forms | 2% | 4% | **Low (teratozoospermia)** |
+
+- **Interpretation**: **oligo-astheno-teratozoospermia (OAT)**, moderate (not severe: concentration is above 5 million/mL, so karyotype is not yet indicated).
+- **Next step**: history and examination of him (steroids, heat, smoking, alcohol, varicocele, testicular volume), treat any infection, lifestyle changes, **repeat the analysis after about 3 months** (spermatogenesis takes about 74 days); **FSH, LH, testosterone** if it stays abnormal. If it persists: **IUI** with washed sperm is possible for mild male factor; moderate–severe OAT → **IVF/ICSI**. Remember these limits are the **5th centile of fertile men**, not a pass/fail mark.
+- **Contrast**: **azoospermia with low volume (<1.4 mL)** and **impalpable vasa** → congenital bilateral absence of the vas (CFTR testing; sperm retrieval + ICSI). Azoospermia with **small testes and high FSH** → non-obstructive (karyotype; micro-TESE or donor sperm).
+
 ## Differential diagnosis (of the cause)
 
 | Condition | Distinguishing features | Key investigation |
@@ -197,22 +350,7 @@ Hypothalamus --GnRH (pulsatile)--> Pituitary --FSH/LH--> Ovary --oestradiol/prog
 
 ### Tests for the woman
 
-| Test | What you are looking for | Why / how |
-|---|---|---|
-| **Mid-luteal serum progesterone** | **>30 nmol/L** confirms ovulation (lower values may still indicate ovulation — repeat, check timing) | Taken **7 days before the expected period** (day 21 of 28; day 28 of 35); for irregular cycles repeat weekly until menses |
-| **Early follicular FSH, LH, oestradiol** (day 2–5) | High FSH → poor ovarian reserve/POI; LH:FSH >2 suggests PCOS; low all → WHO I | Classifies anovulation |
-| **Prolactin, TSH** | Hyperprolactinaemia, thyroid disease | Treatable causes of anovulation — do in oligo/amenorrhoea or galactorrhoea |
-| **Testosterone (± SHBG)** | Hyperandrogenism (PCOS); very high → tumour | For hirsutism/PCOS |
-| **AMH / antral follicle count** | Ovarian reserve (low = fewer eggs; high = PCOS) | Predicts response to stimulation, not natural fertility |
-| **Transvaginal ultrasound** | Fibroids, polyps, endometrioma, hydrosalpinx, polycystic ovaries, follicle tracking | Cheap and widely available |
-| **Hysterosalpingography (HSG)** | Tubal patency (free spill), hydrosalpinx, cavity defects (fibroids, polyps, adhesions, anomalies) | Done in the **early follicular phase — days 6–10**, after menses stop and **before ovulation** (avoids irradiating an early pregnancy); screen for chlamydia or give **antibiotic prophylaxis** (e.g. doxycycline) because it can flare PID; avoid if active pelvic infection |
-| **Laparoscopy and dye (chromopertubation)** | Tubal patency, peri-tubal adhesions, endometriosis — and allows treatment at the same time | **Gold standard**; for women with a history of PID, endometriosis or pelvic surgery, or an abnormal HSG |
-| **HyCoSy / saline sonohysterography** | Tubal patency and cavity with ultrasound | No radiation; where available |
-| **Hysteroscopy** | Adhesions, polyps, submucous fibroids, septum | Diagnose **and** treat |
-| **Endometrial biopsy** (histology, GeneXpert) | Genital TB | If TB suspected |
-| **HIV, syphilis, hepatitis B; Hb, blood group, sickle status** | Co-morbidity; preconception care | Preparation for a healthy pregnancy |
-| **Glucose/HbA1c, lipids** | Metabolic risk in PCOS | Long-term health |
-| **Cervical screening** | Pre-cancer | Should be up to date before fertility treatment |
+All the tests for the woman (mid-luteal progesterone, day 2–5 hormones, prolactin, TSH, testosterone, AMH, ultrasound, HSG, laparoscopy and dye, HyCoSy, hysteroscopy, endometrial biopsy for TB, infection and metabolic screening, cervical screening), with timing, interpretation, effect on management and Ugandan availability, are in **Clinical workup, Step 4**. How to read a progesterone result and an HSG report is shown in **Step 5**.
 
 ### Tests for the man
 
@@ -412,3 +550,58 @@ Hypothalamus --GnRH (pulsatile)--> Pituitary --FSH/LH--> Ovary --oestradiol/prog
 - **Clomiphene — "50 up to 150, days 2–6, 6 months max, scan the first."**
 - **Letrozole — "2.5, 3 to 7, up to 7.5."**
 - **Rotterdam — "2 of 3: Oligo, Hairy, Cysty."**
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Definition of infertility | No clinical pregnancy after **≥12 months** of regular unprotected intercourse (investigate at **6 months** if she is **≥35** or there is an obvious cause) |
+| Chance of conception | About **20%** per cycle; **80%** in 1 year; **90%** in 2 years |
+| Fertile window | The **5 days before** ovulation **and the day of** ovulation; advise intercourse **every 2–3 days** |
+| LH surge to ovulation | About **36 hours** |
+| Luteal phase | Fixed at about **14 days** |
+| Mid-luteal progesterone | **7 days before the expected period**; **>30 nmol/L** confirms ovulation |
+| HSG timing | **Days 6–10** (after the flow, before the egg), pregnancy excluded, antibiotic prophylaxis or chlamydia screen |
+| Semen collection | **2–7 days** abstinence; to the lab **within 1 hour** at body temperature; repeat abnormal after about **3 months** |
+| Spermatogenesis | About **74 days** (about 3 months including transport) |
+| WHO 2021 semen limits | Volume **1.4 mL**; concentration **16 million/mL**; total **39 million**; total motility **42%**; progressive **30%**; vitality **54%**; normal forms **4%** |
+| Karyotype/Y-microdeletion | Concentration **<5 million/mL** or non-obstructive azoospermia |
+| Normal testicular volume | About **15–25 mL** |
+| POI | Amenorrhoea **<40 years** with **FSH >25 IU/L** (repeated) |
+| PCOS ultrasound | **≥20 follicles per ovary** or ovarian volume **≥10 mL** (or raised AMH in adults) |
+| Letrozole | **2.5 mg** PO daily **days 3–7** (or 2–6); increase by 2.5 mg per cycle to max **7.5 mg** |
+| Clomiphene | **50 mg** PO daily **days 2–6**; increase to max **150 mg**; ultrasound tracking at least in the first cycle; **≤6 months**; twins about **5–10%** |
+| Metformin (PCOS) | Build up to **500 mg 8-hourly** (1.5 g/day) or 850 mg 12-hourly |
+| hCG trigger | **5,000–10,000 IU IM** when the leading follicle is about **18 mm** or more |
+| Cabergoline | **0.25 mg twice weekly** (0.5 mg/week), titrated monthly |
+| Bromocriptine | **1.25 mg at night** with food, up to 2.5 mg 8–12-hourly |
+| Folic acid | **400 micrograms** daily (**5 mg** if BMI ≥30, diabetes, epilepsy on drugs, sickle cell, previous NTD) |
+| Weight loss in PCOS | **5–10%** often restores ovulation; target BMI **19–30** |
+| DMPA | Return of fertility can take up to about **10 months** after the last injection |
+| Unexplained infertility (NICE) | Try for a total of **2 years**, then IVF |
+| Genital TB | **2 months RHZE + 4 months RH** |
+| OHSS | Severe if haematocrit **>45%**; LMWH e.g. **enoxaparin 40 mg SC daily**; avoid NSAIDs |
+
+### Classic exam traps
+
+- **Giving clomiphene "to try" at the first visit.** Wrong: check **semen** and **at least one patent tube** first; ovulation induction with blocked tubes or azoospermia wastes time and risks ectopic and multiple pregnancy.
+- **"Day-21 progesterone" in a 35-day cycle.** Wrong: take it **7 days before the expected period** (day 28); a low day-21 value in a long cycle is usually mistimed.
+- **Ordering a progesterone in amenorrhoea.** Wrong: she is obviously not ovulating; do **FSH, LH, E2, prolactin, TSH, testosterone** and a pregnancy test.
+- **Doing an HSG before a semen analysis.** Wrong: the semen analysis is cheap, non-invasive and should come first.
+- **Clomiphene or letrozole for WHO group I or III.** Wrong: both need an intact hypothalamic–pituitary axis and a working ovary; group I needs gonadotrophins (hMG) or pulsatile GnRH, group III needs donor eggs.
+- **Testosterone for a man with a low sperm count.** Wrong: it suppresses FSH/LH and switches off spermatogenesis.
+- **Labelling bilateral cornual block on HSG as definite tubal occlusion.** Wrong: it may be **spasm**; confirm with laparoscopy and dye.
+- **Treating a WHO semen value just below the limit as sterility.** Wrong: the limits are the **5th centile of fertile men**; repeat after 3 months and interpret the whole picture.
+
+### Questions seniors ask
+
+- **What four questions does the infertility workup answer?** Is she ovulating? Are the tubes open? Is the cavity normal? Is the semen normal? (And is intercourse actually happening?)
+- **When do you take the mid-luteal progesterone, and what confirms ovulation?** Seven days before the expected period (day 21 of 28, day 28 of 35); >30 nmol/L.
+- **When is HSG done, and what precautions?** Days 6–10, after excluding pregnancy, with chlamydia screening or antibiotic prophylaxis; never with active pelvic infection.
+- **Give the WHO 2021 semen reference limits.** 1.4 mL, 16 million/mL, 39 million total, 42% total motility, 30% progressive, 54% vitality, 4% normal forms.
+- **Azoospermia with normal testes and normal FSH: what is likely?** Obstruction (post-infective or CBAVD): check the vasa, then sperm retrieval (PESA/TESA) + ICSI or reconstruction.
+- **HSG shows bilateral hydrosalpinges: what do you tell the couple?** Natural conception is very unlikely; the realistic option is IVF after salpingectomy or proximal tubal occlusion (hydrosalpinx halves IVF success); ectopic risk is high if she conceives.
+- **Why is letrozole first-line in PCOS?** Higher ovulation and live-birth rates than clomiphene, mostly mono-follicular, no anti-oestrogenic effect on the endometrium (2023 PCOS guideline).
+- **What would you do for a 38-year-old with 1 year of infertility?** Investigate both partners now (she qualified at 6 months), include ovarian reserve (FSH/AMH/antral follicle count), and refer early for assisted reproduction rather than months of oral drugs.

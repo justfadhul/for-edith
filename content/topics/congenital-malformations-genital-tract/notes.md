@@ -10,6 +10,9 @@ highYield:
   - "Septate vs bicornuate depends on the external fundal contour (flat or minimally indented = septate; a cleft = bicornuate), shown on 3D ultrasound or MRI. Only the septate uterus is treated by hysteroscopic resection."
   - "A non-communicating rudimentary horn pregnancy ruptures, often in the second trimester, with catastrophic haemorrhage. Excise a functional non-communicating horn."
   - "ASRM 2021 classification has 9 categories: Müllerian agenesis, cervical agenesis, unicornuate, didelphys, bicornuate, septate, longitudinal vaginal septum, transverse vaginal septum, complex anomalies."
+  - "Primary amenorrhoea: investigate if no periods by about 15 with normal breasts (older texts 16) or by 13 with no breast development; always do a pregnancy test first."
+  - "Breasts? Pain? Hair? Breasts + cyclical pain = outflow obstruction; breasts, no pain, normal hair = MRKH (46,XX); breasts, no pain, scant hair = CAIS (46,XY); no breasts = Turner, Swyer or hypothalamic."
+  - "A normal hymenal ring above which the vagina ends blindly means the block is higher (transverse septum): get an MRI for level and thickness before surgery, and suppress menses as a bridge (norethisterone 5 mg 2–3 times daily)."
 ---
 
 ## In a nutshell
@@ -175,6 +178,136 @@ The ovaries come from the **genital ridge**, not the Müllerian ducts. So in MRK
    - not checking pubic hair and inguinal regions (CAIS)
    - forgetting the renal scan
 
+## Clinical workup
+
+Most of these patients are adolescent girls with **primary amenorrhoea**, sometimes with **cyclical pain, a pelvic mass or urinary retention**; a smaller group are women worked up for **recurrent miscarriage, preterm birth, malpresentation or infertility**, and a few are **newborns with ambiguous genitalia**. The workup answers: **Is she pregnant? Is there an emergency (retention, infection, a ruptured horn, a salt-wasting baby)? Are the ovaries working (breasts)? Is blood trapped (cyclical pain), and where exactly is the block? Is there a uterus, and what is the karyotype? Are the kidneys normal?**
+
+### Step 0: First 5 minutes
+
+1. **Vital signs** (pulse, BP, temperature) and **pain score**. Give analgesia early.
+2. **Urine pregnancy test** in every girl or woman with amenorrhoea or a pelvic mass, however young and whatever she or her family says. Ask for it privately.
+3. **Acute urinary retention** in a pubertal girl without periods: **catheterise** (gently; the urethra is stretched over the mass) and record the volume. Then **look at the hymen**: haematocolpos until proven otherwise.
+4. **Fever with pelvic pain** and a known or suspected obstruction (especially after someone has "tapped" the mass): **pyocolpos or pyometra**. Blood culture if available, **IV ceftriaxone 1 g daily + metronidazole 500 mg 8-hourly**, and plan surgical drainage.
+5. **Pregnant with a known unicornuate uterus, abdominal pain and shock**: **ruptured rudimentary horn pregnancy**. Two large-bore cannulae, cross-match, fluids and **laparotomy**.
+6. **Newborn with ambiguous genitalia who is vomiting, dehydrated or collapsed** (often at 1–3 weeks): **salt-wasting CAH**. Check glucose and electrolytes, send 17-OH progesterone before treatment if possible, give **IV saline, glucose and hydrocortisone** per the paediatric protocol, and call the paediatrician. **Do not assign sex at the bedside.**
+7. **Privacy and consent**: an adolescent is examined with a chaperone, and a guardian's consent plus her own assent; explain every step.
+
+### Step 1: Focused history
+
+| Ask | Why it changes the plan |
+|---|---|
+| **Age; when did breasts and pubic hair start; growth spurt** | Breasts = working ovaries (oestrogen): the cause is **anatomical or CAIS**. No breasts = **gonadal or hypothalamic** (Turner, Swyer, low weight, Kallmann) |
+| **Primary amenorrhoea definition** | Investigate if **no periods by about 15 with normal breasts** (older texts say 16), or **by 13 with no breast development**; earlier if there is cyclical pain or a mass |
+| **Cyclical (monthly) lower abdominal or back pain** | **Blood is made but trapped**: imperforate hymen, transverse septum, cervical agenesis, or a functional non-communicating horn |
+| **Urinary retention, frequency, constipation, pain on defecation** | Mass effect of a haematocolpos |
+| **Periods regular but worsening one-sided pain and a mass** | **OHVIRA** or a functional non-communicating horn: an obstruction can coexist with normal periods |
+| **Sexual activity; tampons; pain or failure at intercourse** | Short or blind vagina (MRKH, CAIS, septum); a longitudinal septum; decides whether a speculum is appropriate |
+| **Obstetric history**: miscarriages (trimester), preterm births, breech or transverse lies, retained placenta, cervical insufficiency | **Septate** (first-trimester and recurrent loss), **bicornuate/unicornuate** (mid-trimester loss, preterm birth, malpresentation) |
+| **Infertility; heavy dysmenorrhoea** | Septate uterus; **endometriosis** from long-standing obstruction |
+| **Kidney problems, UTIs; back or spine problems; hearing** | Renal agenesis/ectopia; **MURCS** (type II MRKH) |
+| **Sense of smell, weight change, exercise, chronic illness** | Kallmann syndrome, hypothalamic amenorrhoea |
+| **Family history** of amenorrhoea, infertility or "girls with hernias" | Familial CAIS (X-linked) |
+| **Previous surgery**: hernia repair (testes found?), "cutting" of the hymen, aspiration of a mass | CAIS; re-closure or pyocolpos |
+| **Who knows, and what she wants to know** | Staged, confidential disclosure; marriage pressure |
+
+### Step 2: Focused examination
+
+**General**: height and weight (BMI), **Turner features** (short stature, webbed neck, widely spaced nipples, wide carrying angle), spine (scoliosis), hearing.
+
+**Tanner staging**: breasts **and** pubic and axillary hair separately. **Normal breasts with scant pubic and axillary hair = CAIS** until proven otherwise.
+
+**Abdomen**: **suprapubic mass** (haematocolpos or haematometra, or a distended bladder: re-examine after catheterising), tenderness, **inguinal hernias or masses** (testes in CAIS).
+
+**Genitalia** (gentle, chaperoned, lithotomy or frog-leg position):
+
+| Look for | Interpretation |
+|---|---|
+| Clitoral size, labial fusion, position of the urethral opening | Virilisation: DSD (CAH, 5-alpha reductase deficiency) |
+| **Tense, bulging, bluish membrane** that bulges more on Valsalva; no separate hymenal ring | **Imperforate hymen** with haematocolpos |
+| Normal hymen with a **short blind vagina** behind it and **no bulge** | **Transverse septum** (mass above it on rectal exam), **MRKH** or **CAIS** (no mass) |
+| Vaginal length, measured gently with a moistened **cotton-tipped swab** (never force a speculum in a girl who is not sexually active) | Short blind pouch = agenesis or septum |
+| Speculum (sexually active only) | **Longitudinal septum**, **two cervices** (didelphys), a unilateral **bulge in the lateral vaginal wall** (obstructed hemivagina) |
+| **Rectal (rectoabdominal) examination** | Cystic mass anteriorly = **haematocolpos** (and its lower level: close to the introitus or high); **no uterus** palpable = MRKH or CAIS |
+
+### Step 3: Bedside tests
+
+| Test | What you want | Why |
+|---|---|---|
+| **Urine pregnancy test** | hCG | Always first in amenorrhoea or a pelvic mass |
+| **Catheter volume** (if retention) | Volume drained; does the mass shrink? | A mass that persists after emptying the bladder is haematocolpos/metra (or another mass) |
+| **Urine dipstick** | Nitrites, leucocytes, blood | UTI from retention; renal anomaly clues |
+| **Point-of-care (transabdominal) ultrasound** | Distended vagina or uterus full of echogenic fluid; is there a uterus? kidneys present? | Confirms haematocolpos quickly; **no uterus** points to MRKH/CAIS |
+| **Hb / HemoCue** | Anaemia | Before surgery; long-standing obstruction |
+| **Random blood sugar and electrolytes** (neonate) | Hypoglycaemia, **low Na⁺, high K⁺** | **Salt-wasting CAH** |
+| **Vaginal length by swab** | Blind short vagina | Agenesis vs septum |
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Pelvic ultrasound** (transabdominal; transperineal in adolescents; transvaginal if sexually active) | Every case, first line | Haematocolpos ± haematometra; uterus absent (MRKH/CAIS) or present; horns; ovaries (present in MRKH) | Diagnosis and urgency. Widely available (HC IV and above) |
+| **Renal ultrasound** | **Always** | Renal agenesis, pelvic or horseshoe kidney, hydronephrosis | About **30–40%** association in MRKH and unicornuate uterus; protect a single kidney; OHVIRA side |
+| **MRI pelvis** | Transverse septum (level, thickness), cervical agenesis, obstructed hemivagina, rudimentary horns, before any reconstructive surgery | Exact anatomy | Surgical planning; the first operation is the best chance. **Kampala only** (Mulago and private), costly |
+| **3D ultrasound** | Septate vs bicornuate | External fundal contour | Only the septate uterus is resected hysteroscopically. Limited to specialist and private units |
+| **Karyotype** | No uterus (MRKH vs CAIS); no breasts (Turner, Swyer); ambiguous genitalia | 46,XX / 46,XY / 45,X | Settles MRKH vs CAIS; gonadectomy decisions (Swyer at diagnosis, CAIS after puberty). Limited availability in Uganda (national referral, research or private laboratories); costly and slow |
+| **FSH, LH, oestradiol** | Absent or poor breast development; suspected gonadal failure | **High FSH** = gonadal failure (Turner, Swyer); **low FSH/LH** = hypothalamic/pituitary | Directs to karyotype or pituitary work-up. Regional/national referral and private labs |
+| **Testosterone** | No uterus with a blind vagina | **Male range** = CAIS; female range = MRKH | Supports the karyotype result |
+| **Prolactin, TSH** | Primary amenorrhoea without an anatomical cause | Raised | Treat the endocrine cause |
+| **17-OH progesterone, electrolytes, glucose** | Newborn with ambiguous genitalia | Raised 17-OHP; low Na⁺, high K⁺ | **CAH**: hydrocortisone ± fludrocortisone; paediatric endocrinology. 17-OHP mainly at national referral/private labs |
+| **HSG** | Infertility work-up | Cavity shape | **Cannot see the outer contour**, so cannot tell septate from bicornuate |
+| **Hysteroscopy ± laparoscopy** | Recurrent loss or infertility with a suspected septum; endometriosis | Septum, cavity, fundal contour, endometriosis | Diagnosis and treatment in one sitting at referral and private centres |
+| **Spine X-ray, audiology** | MRKH | Vertebral anomalies, hearing loss | Type II MRKH (MURCS) |
+| **Cervical length scans** in pregnancy | Known bicornuate/unicornuate uterus or previous mid-trimester loss | Short cervix | Cerclage and/or vaginal progesterone |
+
+### Step 5: Putting it together
+
+**Model one-line summary**: "A 14-year-old with **primary amenorrhoea, normal breasts and pubic hair (Tanner 4)**, 4 months of **cyclical pain**, **acute urinary retention**, a 20-week suprapubic mass and a **bulging bluish membrane at the introitus**; pregnancy test negative, ultrasound showing a **haematocolpos**, both kidneys normal: imperforate hymen."
+
+**Problem list**:
+1. Primary amenorrhoea with outflow obstruction (imperforate hymen)
+2. Haematocolpos with mild haematometra
+3. Acute urinary retention (catheterised)
+4. Anxiety and family fear of pregnancy or tumour
+
+**Working diagnosis and plan**: imperforate hymen → catheter, analgesia, **cruciate or elliptical hymenotomy under anaesthesia with drainage** (no needle aspiration), follow-up for normal menses and stenosis.
+
+#### Worked example 1: primary amenorrhoea with cyclical pain
+
+Two 15-year-olds, both with normal breasts and pubic hair, monthly pain and no periods. Both pregnancy tests are negative.
+
+| | Girl A | Girl B |
+|---|---|---|
+| Introitus | **Bulging bluish membrane**, bulges more on Valsalva | **Normal hymenal ring**, pink, no bulge |
+| Swab | Cannot pass | Enters a **blind vagina about 3 cm** long |
+| Rectal exam | Large tense cystic mass low in the pelvis | Tense mass **higher up** |
+| Ultrasound | Haematocolpos reaching the introitus | Haematocolpos above a short lower vagina |
+| Kidneys | Normal | Normal |
+| **Diagnosis** | **Imperforate hymen** | **Transverse vaginal septum** (mid-vagina) |
+| **Next step** | Hymenotomy with drainage | **MRI** for level and thickness; **menstrual suppression** (norethisterone 5 mg 2–3 times daily) as a bridge; **septum resection** with end-to-end anastomosis by an experienced surgeon, then dilators |
+
+A **third pattern**: normal breasts, cyclical pain, a **normal-length vagina ending without a cervix**, and haematometra on scan = **cervical agenesis**: MRI and specialist referral.
+
+> [!REDFLAG]
+> Doing a "hymenotomy" on Girl B would not reach the blood and would scar the lower vagina. **Look before you cut**: a normal hymenal ring means the block is higher.
+
+#### Worked example 2: primary amenorrhoea without pain
+
+Two 17-year-olds with normal breasts, no cyclical pain and a **short blind vagina**. Ultrasound in both: **no uterus**.
+
+| | Girl C | Girl D |
+|---|---|---|
+| Pubic and axillary hair | **Normal** | **Scant** |
+| Inguinal regions | Normal | **Bilateral inguinal swellings** (previous "hernia repair" as a child) |
+| Ovaries on scan | **Present** | Not seen; gonads in the groins |
+| Testosterone | Female range | **Male range** |
+| Karyotype | **46,XX** | **46,XY** |
+| Kidneys | **Right renal agenesis** | Normal |
+| **Diagnosis** | **MRKH** (type II if renal/spinal anomalies) | **CAIS** |
+| **Plan** | Staged counselling; **vaginal dilators first line**; spine and hearing check; no HRT needed; motherhood via IVF with her own eggs and a gestational carrier, or adoption | Staged, sensitive disclosure; dilators; **gonadectomy usually after puberty**, then oestrogen replacement; MDT |
+
+> [!EXAM]
+> "Breasts? Pain? Hair?" Breasts + pain = obstruction. Breasts + no pain + normal hair = MRKH. Breasts + no pain + no hair = CAIS. No breasts = Turner, Swyer or hypothalamic.
+
 ## Differential diagnosis
 
 ### Primary amenorrhoea with normal breast development
@@ -203,19 +336,11 @@ Haematocolpos or haematometra, **pregnancy**, ovarian cyst or tumour (dermoid, g
 
 ## Investigations
 
-| Test | What you are looking for | Why |
-|---|---|---|
-| **Pregnancy test (urine β-hCG)** | Pregnancy | Always first in amenorrhoea |
-| **Pelvic ultrasound** (transabdominal or transperineal in adolescents; transvaginal if sexually active) | Uterus present or absent, haematocolpos or haematometra, horns, ovaries | First-line, cheap, widely available |
-| **3D ultrasound** | External fundal contour; septum length | Separates septate from bicornuate |
-| **MRI pelvis** (gold standard for complex anomalies) | Level and thickness of a septum, cervix, rudimentary horns, obstruction, kidneys | Surgical planning |
-| **Renal ultrasound** (always) | Agenesis, pelvic or horseshoe kidney | About 30–40% association in MRKH or unicornuate uterus |
-| **Karyotype** | 46,XX vs 46,XY vs 45,X | MRKH vs CAIS vs Turner or Swyer |
-| **FSH, LH, oestradiol, testosterone, prolactin, TSH** | Ovarian function; male-range testosterone in CAIS | Amenorrhoea work-up |
-| **HSG** | Cavity shape | Infertility work-up. Cannot see the outside of the uterus. |
-| **Hysteroscopy ± laparoscopy** | Cavity and external contour; endometriosis | Diagnosis and treatment (septum) |
-| **Spine X-ray, audiology** | MURCS associations | Type II MRKH |
-| **Newborn with ambiguous genitalia**: 17-OH progesterone, electrolytes, glucose, karyotype, pelvic US | CAH, salt wasting | Emergency assessment |
+The full test-by-test table (pelvic, renal and 3D ultrasound, MRI, karyotype, hormones, 17-OH progesterone, HSG, hysteroscopy and laparoscopy, MURCS screening and cervical-length scans), with Ugandan availability, is in **Step 4 of the Clinical workup** above; the ward tests are in **Step 3**. Three rules to remember:
+
+1. **Pregnancy test first** in any amenorrhoea or pelvic mass.
+2. **Always scan the kidneys** (about 30–40% association in MRKH and unicornuate uterus).
+3. **Define the anatomy fully (MRI for anything above the hymen) before the first operation**, because the first operation is the best chance.
 
 ## Management
 
@@ -381,3 +506,45 @@ Haematocolpos or haematometra, **pregnancy**, ovarian cyst or tumour (dermoid, g
 - **OHVIRA spells it out**: **O**bstructed **H**emi**V**agina + **I**psilateral **R**enal **A**genesis.
 - **MURCS**: **MÜ**llerian aplasia, **R**enal aplasia, **C**ervicothoracic **S**omite dysplasia.
 - **"Septate = Surgery (hysteroscopic); Bicornuate = Be patient (watch the cervix)."**
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Müllerian anomalies in the general female population | About **5–6%** (about 8% infertile; about 13% recurrent miscarriage; about 25% miscarriage plus infertility) |
+| Imperforate hymen | About **1 in 1,000–2,000** girls |
+| MRKH | About **1 in 4,500–5,000** female births; **second commonest cause of primary amenorrhoea** after gonadal dysgenesis |
+| Renal anomalies with MRKH or unicornuate uterus | About **30–40%** |
+| Septal resorption complete | By about **week 20**; lateral fusion about **weeks 8–12**; Müllerian ducts appear about **week 6** |
+| Investigate primary amenorrhoea | **No periods by about 15 with normal breasts** (older texts 16), or **by 13 with no breast development**; earlier with cyclical pain or a mass |
+| ASRM MAC2021 | **9 categories** |
+| Hymenotomy sutures | Fine absorbable, e.g. **3-0 or 4-0 polyglactin** |
+| Norethisterone (menstrual suppression) | **5 mg orally 2–3 times daily**, continuously |
+| Goserelin (specialist) | **3.6 mg SC every 28 days**; add-back if more than 6 months |
+| Pyocolpos/pyometra | **Ceftriaxone 1 g IV daily + metronidazole 500 mg IV 8-hourly** + drainage; about 7 days in total |
+| Neonatal salt-wasting CAH | **Hydrocortisone 25 mg IV stat**, then 50–100 mg/m²/day in divided doses + IV saline and glucose |
+| Vaginal dilator therapy (MRKH) | About **20–30 min, once or twice daily**, over months |
+| Cervical length surveillance (bicornuate/unicornuate) | From about **16–24 weeks** |
+
+### Classic exam traps
+
+- **Needle-aspirating a haematocolpos.** Never: incomplete drainage and **pyocolpos**. Do a formal hymenotomy.
+- **A "hymenotomy" for a transverse septum.** A normal hymenal ring means the block is higher: MRI and a specialist septum resection.
+- **Labelling a 13-year-old with a pelvic mass as pregnant (or as having a tumour)** without doing a pregnancy test and looking at the hymen.
+- **Using HSG to tell septate from bicornuate.** HSG shows only the cavity; you need the **external contour** (3D ultrasound, MRI or laparoscopy).
+- **Hysteroscopic resection of a bicornuate uterus.** Perforation; only the **septate** uterus is resected, and only after counselling (recurrent loss).
+- **"Regular periods exclude an obstruction."** Not in **OHVIRA** or a functional non-communicating horn.
+- **Forgetting the kidneys** (and spine and hearing in MRKH) or the **pubic hair and groins** (CAIS).
+- **Starting HRT for MRKH.** Not needed: the ovaries work. CAIS needs oestrogen only after gonadectomy.
+
+### Questions seniors ask
+
+- **How do you work up primary amenorrhoea with cyclical pain?** Pregnancy test; Tanner staging; inspect the introitus (bulging membrane vs normal hymen), swab the vaginal length, rectal exam; pelvic and **renal** ultrasound; MRI if the block is above the hymen.
+- **How do you tell MRKH from CAIS?** Pubic and axillary hair (normal vs scant), gonads (ovaries vs inguinal/abdominal testes), testosterone (female vs male range) and the **karyotype** (46,XX vs 46,XY).
+- **Why does a girl with MRKH have normal breasts?** The ovaries come from the genital ridge, not the Müllerian ducts, so oestrogen production is normal.
+- **What is the first-line treatment for vaginal agenesis?** Progressive **dilator therapy** when she is ready; surgery (McIndoe, Vecchietti, Davydov, bowel) if dilation fails or she chooses it.
+- **What is OHVIRA and how is it treated?** Didelphys + obstructed hemivagina + ipsilateral renal agenesis; resect the obstructing vaginal septum, keep the uterus, protect the single kidney.
+- **What is the danger of a non-communicating rudimentary horn?** Horn pregnancy ruptures (often in the second trimester) with massive haemorrhage; excise a functional horn with its tube.
+- **A newborn has ambiguous genitalia. What do you do first?** Do not assign sex; check glucose and electrolytes; send 17-OHP and karyotype; watch for salt-wasting (hydrocortisone, saline); refer to the MDT.
