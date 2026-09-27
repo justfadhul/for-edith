@@ -1,0 +1,400 @@
+---
+title: Manual Vacuum Aspiration (MVA) Kit
+summary: MVA uses a hand-held 60 mL aspirator that creates a vacuum of about 60 cm Hg, transmitted through a plastic cannula, to empty the uterus under paracervical block. It is the WHO-preferred method for uterine evacuation below about 12–14 weeks' uterine size, can be done by trained midwives at HC III/IV, and replaces sharp curettage.
+highYield:
+  - "The Ipas-type aspirator holds 60 mL and generates a vacuum of about 60–66 cm Hg (24–26 inches Hg). Cannulae come in 4–12 mm; pick one about equal to the uterine size in weeks, adjusted to how far the os is open."
+  - "Indications: incomplete, inevitable and missed abortion; induced abortion where legal; endometrial biopsy; evacuation of a small molar pregnancy. Uterine size up to about 12 weeks (WHO allows vacuum aspiration up to 14 weeks with skill and the right cannula)."
+  - "Paracervical block: 1% lidocaine (lignocaine) up to 20 mL (maximum 4.5 mg/kg plain). Aspirate before every injection. Give ibuprofen 400–800 mg orally 30–60 minutes before."
+  - "Signs of completion: red or pink foam, no more tissue in the cannula, a gritty feel, and the uterus gripping the cannula."
+  - "Never push the plunger while the cannula is still in the uterus. Detach first, so you never push air or contents back into the uterus."
+  - "Perforation signs: the cannula passes further than the uterine size allows, sudden pain, loss of resistance, or fat or bowel in the aspirate. Stop, and observe or do a laparotomy."
+  - "Processing: keep wet, then clean with detergent and water, then high-level disinfection (boil 20 min, or 0.5% chlorine or 2% glutaraldehyde for 20 min) or sterilisation. Prepare 0.5% chlorine from JIK (3.5%) as 1 part JIK to 6 parts water."
+  - "Always examine the aspirated tissue: villi and a sac confirm an intrauterine pregnancy. If there is no tissue, think incomplete evacuation, ectopic or mole."
+---
+
+## In a nutshell
+
+- **Manual vacuum aspiration (MVA)** empties the uterus by suction produced with a **hand-held syringe-like aspirator**. It needs no electricity, no theatre and no general anaesthesia.
+- WHO and Uganda MoH recommend **vacuum aspiration** (manual or electric) as the surgical method of choice for uterine evacuation in the first trimester. **Sharp curettage (D&C) should be replaced**, because MVA causes less bleeding, pain, perforation and scarring.
+- In Uganda, MVA is the backbone of **post-abortion care (PAC)** at HC III, HC IV and hospitals. **Trained midwives and clinical officers perform it**, which makes it one of the most important lifesaving skills you will see on your rotation.
+- The procedure is short (5–10 minutes of aspiration), done under **paracervical block + NSAID + verbal support**.
+- **The one thing never to forget:** MVA is not finished when the aspiration stops. You must **examine the tissue**, give **contraception**, and **process the instruments** so the next woman is safe.
+
+## Principles
+
+**How the vacuum works.**
+- When the valves are closed and the plunger is pulled back until its arms lock, the aspirator cylinder holds a **negative pressure of about 60–66 cm Hg**. That is close to the vacuum produced by an electric pump.
+- Pressing the valve buttons open **transfers the vacuum through the cannula** to the uterine cavity.
+- The soft, loosely attached products of conception (POC) and decidua are sucked into the cannula aperture, while the firmer myometrium is not.
+- As the uterus empties, it **contracts down** on the cannula. That is why you feel it "grip" and why bleeding decreases.
+
+**Why MVA is safer than sharp curettage.**
+- The plastic cannula is **blunt and flexible**, so it is less likely to perforate the uterus and does not scrape the basal layer of the endometrium. Stripping the basal layer is what causes **Asherman syndrome** (intrauterine adhesions).
+- It needs little or no cervical dilation for incomplete abortion, because the os is usually already open.
+- Local anaesthesia is enough, so there is no general-anaesthetic risk and no theatre queue.
+
+**Pain physiology (why the paracervical block works).**
+- The uterus and cervix are supplied by the **uterovaginal (Frankenhäuser) plexus**, which lies lateral to the cervix at the cervicovaginal junction.
+- Lidocaine injected at **4 and 8 o'clock** (± 2 and 10 o'clock) bathes this plexus and blocks sensation from the cervix and the lower uterus.
+- The block does not abolish **fundal cramping**, which travels with sympathetic fibres (T10–L1). That is why an NSAID (which cuts prostaglandin-driven cramps) and **"vocal local"** (calm talking) are added.
+
+## Equipment
+
+### The MVA kit (Ipas-type MVA Plus aspirator)
+
+```
+   plunger arms       plunger           cylinder (60 mL)            valve (2 buttons)
+      ||  ______________________________________________   ________
+  ====||=|__________________________________|  O-ring  |=|  []  []  |====> cannula
+      ||   ^collar stop (tab)                             |_valve liner_|
+```
+
+| Part | Function / what to check |
+|---|---|
+| **Cylinder (barrel)** | Holds 60 mL of aspirate. Check for cracks and clarity. |
+| **Plunger with plunger arms** | Pulling it back creates the vacuum. The arms must **lock over the cylinder rim**, or the plunger may spring back into the cylinder. |
+| **O-ring** | Seals the plunger. **Lubricate with a thin film of silicone** so it keeps the vacuum. |
+| **Collar stop (with retainer tab)** | Keeps the plunger from coming out of the cylinder |
+| **Valve with 2 buttons + valve liner + cap** | Closed buttons hold the vacuum; pressing them releases it into the cannula. The liner must be seated correctly. |
+| **Cannulae** (e.g. Ipas EasyGrip) | Sizes **4, 5, 6, 7, 8, 9, 10, 12 mm**, colour-coded. **Dots mark centimetres from the tip**, so you can gauge depth. The aperture(s) near the tip are where tissue enters. |
+| **Adapters** | Connect cannulae from other makers to the aspirator |
+| **Silicone lubricant** | For the O-ring |
+
+### Other instruments and supplies
+
+| Item | Use |
+|---|---|
+| **Speculum** (Cusco's bivalve or Sims) | Expose the cervix |
+| **Single-tooth tenaculum** (or vulsellum / sponge forceps) | Stabilise the cervix and apply traction to straighten the canal |
+| **Sponge-holding forceps** | Remove POC from the os; hold swabs for antiseptic |
+| **Tapered dilators** (Denniston plastic or Pratt/Hegar metal) | Dilate a closed or partly open cervix |
+| **Antiseptic** (povidone-iodine or chlorhexidine) and gallipot, gauze | Cervical and vaginal preparation |
+| **Lidocaine 1%** (plain), **10–20 mL syringe**, long needle (22 G spinal or needle extender) | Paracervical block |
+| **Strainer, clear bowl, water or vinegar, light source** | Examining the tissue |
+| **PPE:** gloves, apron or gown, eye protection | Infection prevention |
+| **Emergency tray:** oxytocin, misoprostol, ergometrine, atropine, IV fluids, oxygen, bag-valve mask, diazepam | Complications |
+| **Contraceptives:** IUD insertion kit, implants, DMPA | Immediate post-abortion family planning |
+| **Processing supplies:** buckets, detergent, soft brush, 0.5% chlorine (JIK), boiler or glutaraldehyde, covered storage container | Instrument processing |
+
+### Choosing the cannula
+
+| Uterine size (weeks) | Suggested cannula (mm) |
+|---|---|
+| 4–6 | 4–7 |
+| 7–9 | 5–10 |
+| 9–12 | 8–12 |
+
+Rules of thumb:
+- **Cannula size ≈ weeks of uterine size.** For **incomplete abortion**, choose the **largest cannula that passes the open os comfortably**.
+- **Too small** a cannula clogs and leaves tissue behind.
+- **Too large** a cannula tears the cervix or needs more dilation.
+
+## Indications & contraindications
+
+### Indications
+
+1. **Incomplete abortion** (the commonest use in Uganda), with uterine size up to about 12 weeks. WHO allows vacuum aspiration up to 14 weeks with an experienced provider.
+2. **Inevitable abortion.**
+3. **Missed abortion / early pregnancy loss** (with or without cervical priming).
+4. **Induced abortion** within the legal indications.
+5. **Septic abortion**, **after IV antibiotics have started**. Infection is **not** a contraindication; evacuation is the treatment.
+6. **Molar pregnancy** in a small uterus. Electric vacuum is preferred for a large mole, with oxytocin running and blood ready.
+7. **Endometrial biopsy** (e.g. with a 4 mm cannula) in abnormal uterine bleeding.
+
+### Contraindications and precautions
+
+| Situation | What to do |
+|---|---|
+| **Uterine size larger than about 12–14 weeks** | Beyond MVA capacity for most providers. Use **misoprostol 400 µg every 3 hours**, then remove residual tissue; or D&E by a skilled provider. |
+| **Suspected ectopic pregnancy** (empty uterus, adnexal mass) | Do not do MVA. Work up for ectopic. |
+| **Haemodynamic instability** | **Resuscitate first**. Remove POC from the os; do MVA as soon as she is stabilising. Do not delay indefinitely, because the retained tissue is the cause of the bleeding. |
+| **Septic abortion** | **Start IV antibiotics first**, then evacuate promptly |
+| **Suspected uterine perforation** or bowel injury | Do not aspirate blindly. Laparotomy or specialist review. |
+| **Known coagulopathy** | Correct it, have blood ready, do it at a hospital |
+| **Distorted cavity** (fibroids, uterine anomaly) or **previous difficult evacuation** | Experienced provider; ultrasound guidance if available |
+| **Allergy to lidocaine** (rare) | Use an NSAID and sedation-based analgesia |
+| **Acute cervicitis** | Treat it, but do not delay an evacuation that is needed |
+
+## Clinical acumen
+
+### Focused history
+
+| Question | Why it matters |
+|---|---|
+| **LMP, uterine size, any scan** | Decides cannula size and whether MVA is appropriate |
+| **How heavy is the bleeding? Any dizziness?** | Decides whether to resuscitate first |
+| **Fever, foul discharge, interference** | Septic abortion needs antibiotics first; instrumentation raises perforation and bowel-injury risk |
+| **Unilateral pain, shoulder-tip pain** | Ectopic: MVA is the wrong operation |
+| **Previous CS, uterine surgery, fibroids** | Scarred or distorted uterus: higher perforation risk |
+| **Bleeding disorders, anticoagulants** | Coagulopathy |
+| **Allergies** (lidocaine, iodine, NSAIDs) | Choice of analgesia and antiseptic |
+| **Asthma, peptic ulcer** | NSAID caution (use paracetamol) |
+| **Contraceptive intention** | Plan an IUD or implant during the same visit |
+| **Last meal** | Rarely matters for MVA under local anaesthesia, but record it in case you need to convert to theatre |
+
+### Examination
+
+- **Vitals** (pulse, BP, temperature, respiratory rate), pallor.
+- **Abdomen:** tenderness or guarding. Peritonitis suggests perforation, an existing abscess or ectopic.
+- **Speculum:** Is the os open? POC in the os? Lacerations or foreign bodies?
+- **Bimanual examination BEFORE the procedure (essential):**
+  - **Uterine size**, which predicts the cannula size and how deep the cannula should go.
+  - **Position:** anteverted or retroverted. **Most perforations happen when the provider does not know the uterus is retroverted** and pushes the cannula anteriorly.
+  - Adnexal masses and tenderness.
+
+### Red flags
+
+> [!REDFLAG]
+> - **Cannula passes beyond the expected depth** (e.g. 12 cm in an 8-week uterus) with **loss of resistance**, **sudden severe pain**, or **yellow fat, omentum or bowel** in the aspirate. This is **perforation**: stop at once.
+> - **Pulse rising and BP falling during or after the procedure.** Think haemorrhage (atony, cervical tear, perforation) or haematometra.
+> - **Circumoral numbness, metallic taste, tinnitus, twitching, then seizures** during the block. This is **lidocaine toxicity** (intravascular injection or overdose).
+> - **Sudden bradycardia, pallor and fainting with cervical traction or dilation.** A **vasovagal** reaction.
+> - **No villi in the aspirate** when you expected them. Consider an **ectopic** or an incomplete procedure.
+> - **Grape-like vesicles** in the aspirate: a **molar pregnancy**. Send for histology and follow hCG.
+
+### Thinking like a clinician
+
+- **Know the uterus before you enter it.** Bimanual exam for size and position is the most important safety step. Use tenaculum traction to **straighten the uterocervical angle**; this protects against perforation more than any other manoeuvre.
+- **Never force.** If the cannula or dilator meets resistance at the internal os, stop and use a smaller size. Consider **misoprostol 400 µg sublingually 1 hour (or vaginally 3 hours) before** for a closed cervix in missed abortion.
+- **When the aspirator stops sucking**, work out why before you blame "completion":
+  - The aspirator is **full** (60 mL): empty it and recharge.
+  - The **cannula is clogged** with tissue: withdraw it and clear it with forceps.
+  - The cannula aperture has **slipped out through the os**: you lose the seal and the vacuum.
+  - The valves were not properly **closed or charged**.
+- **When to abandon and escalate:**
+  - suspected perforation;
+  - bleeding that does not stop with completion and uterotonics;
+  - a uterus larger than you can safely empty;
+  - a patient who cannot tolerate it despite adequate analgesia (convert to theatre with sedation);
+  - suspected mole in a large uterus (move to a hospital with blood and electric suction).
+- **Common student and junior errors:**
+  - Skipping the bimanual exam.
+  - Injecting lidocaine without aspirating first.
+  - Starting before the block has worked (wait 2–3 minutes).
+  - Pushing the plunger while the cannula is still attached inside the uterus.
+  - Not looking at the tissue.
+  - Leaving the instruments to dry with blood on them.
+  - Forgetting FP.
+
+## Procedure step by step
+
+### A. Before the procedure
+
+1. **Counsel and consent.** Explain what MVA is, how long it takes, the pain relief, the risks (bleeding, infection, incomplete evacuation, perforation under 1 in 1,000), and the alternatives (misoprostol). Offer contraception. Obtain written consent.
+2. **Assess:** history, vitals, Hb, blood group and Rhesus, HIV test (opt-out), bimanual exam for **uterine size and position**.
+3. **Resuscitate** if needed. **Antibiotics:**
+   - **IV antibiotics** if septic.
+   - Otherwise follow local policy. WHO recommends **prophylactic antibiotics before surgical abortion**, e.g. **doxycycline 200 mg orally** or **metronidazole 500 mg orally** once before the procedure.
+4. **Pain medication:** **ibuprofen 400–800 mg orally 30–60 minutes before**, ± paracetamol 1 g. Consider **diazepam 5–10 mg orally** for anxiety (monitor her if you give it).
+5. **Ask her to empty her bladder.**
+6. **Prepare and check the aspirator:**
+   - It should be assembled.
+   - The O-ring should be lubricated.
+   - The plunger should be fully inserted.
+   - **Close the valves** (push the buttons down and forward until they lock).
+   - **Pull the plunger back until the arms lock** over the cylinder rim.
+   - **Test the vacuum** before starting. Leave it charged for a few minutes, then open the valves: you should hear a rush of air.
+   - **Recharge it** before use.
+7. **Arrange** the sterile or HLD instruments on a tray, the cannulae in their sizes, and the emergency drugs.
+
+### B. Cervical preparation and paracervical block
+
+8. **Wash your hands, and put on PPE and gloves.** Use a **no-touch technique**: never touch the part of the cannula that enters the uterus.
+9. With her in the **lithotomy position**, insert the **speculum** and visualise the cervix. **Remove any POC from the os** with sponge forceps.
+10. **Clean the cervix and os** with antiseptic-soaked gauze on sponge forceps, in a spiral moving outwards, 2–3 times.
+11. **Paracervical block:**
+    - Draw up **lidocaine 1%, up to 20 mL** (200 mg; do not exceed **4.5 mg/kg** without adrenaline).
+    - Inject **1–2 mL at the tenaculum site** (12 o'clock on the anterior lip), then apply the **tenaculum**.
+    - With gentle traction, find the **cervicovaginal junction** (where smooth cervical epithelium meets the vaginal rugae).
+    - At **4 and 8 o'clock** (± 2 and 10 o'clock), insert the needle **1.5–3 cm deep**. **Aspirate first**, to make sure you are not in a vessel. Then inject **3–5 mL at each site**, moving the needle slowly as you inject.
+    - **Wait 2–3 minutes** for the block to work. Use this time to talk to her.
+
+> [!DRUG]
+> **Lidocaine 1% = 10 mg/mL.** 20 mL = 200 mg, which is safe for women of about 45 kg or more (4.5 mg/kg). For a 40 kg adolescent, the maximum is **18 mL**. Always aspirate before injecting. Toxicity begins with **perioral numbness and tinnitus**; stop immediately.
+
+### C. Dilation (only if needed)
+
+12. Hold **steady traction** on the tenaculum to straighten the canal.
+13. If the os will not admit the chosen cannula, **dilate progressively** with tapered dilators (or with successively larger cannulae), rotating gently. **Never force.** In incomplete abortion, the os is often already open enough.
+
+### D. Aspiration
+
+14. **Insert the cannula** through the os with a gentle rotating motion until it **just touches the fundus**, then **withdraw it about 1 cm**. Note the depth from the dots.
+    - Do **not** use the cannula to "sound" the uterus vigorously.
+    - **Do not attach the aspirator before insertion.**
+15. **Attach the charged aspirator** to the cannula. Hold the tenaculum and the cannula steady so the cannula does not advance as you attach.
+16. **Release the pinch valves** by pressing both buttons. The vacuum transfers to the uterus, and **blood and tissue** appear in the cannula and cylinder.
+17. **Evacuate the uterus:**
+    - **Gently and slowly rotate the cannula 180° in each direction** while moving it **in and out** between the fundus and the internal os.
+    - Do not withdraw the aperture past the os, or you lose the vacuum.
+    - Hold the aspirator by the cylinder, not by the plunger arms.
+18. **Recognise completion:**
+    - **red or pink foam**, and no more tissue entering the cannula;
+    - a **gritty sensation** as the cannula passes over the empty endometrium;
+    - the **uterus contracts and grips the cannula**;
+    - she reports more **cramping**.
+19. When complete or full:
+    - **close the valves**;
+    - **detach the aspirator from the cannula** (or withdraw both together without pushing the plunger);
+    - empty the aspirator into the strainer by opening the valves and pushing the plunger.
+    - **Never push the plunger while the aspirator is connected to a cannula in the uterus.**
+    - If more tissue is suspected, recharge and repeat, or use a second aspirator.
+
+### E. After aspiration
+
+20. **Inspect the tissue:**
+    - Empty it into a **strainer**, rinse it, then float it in **clear water or vinegar in a clear dish, backlit by a light**.
+    - Look for **villi** (white, fluffy, frond-like), **decidua** and the **gestational sac / membranes**. From about 9 weeks you may see fetal parts.
+    - Check that the amount matches the gestational age.
+    - **No villi** means the evacuation is incomplete, the POC were passed earlier, or this is an **ectopic**.
+    - **Vesicles** mean a **molar pregnancy**.
+    - Send tissue for histology where available.
+21. Do any **concurrent procedures**:
+    - **IUD insertion** (if she chose it and there is no sepsis);
+    - repair of a bleeding tenaculum site (pressure or a suture).
+22. **Remove the tenaculum**, check the cervix for bleeding, and remove the speculum.
+23. **Immediately start instrument processing** (soak and keep wet, section G).
+24. **Recovery:**
+    - Monitor **pulse, BP, bleeding and pain every 15 minutes for 30–60 minutes**.
+    - Give analgesia.
+    - Give **anti-D 250 IU IM** if Rh-negative (where available).
+    - Start or confirm **contraception**.
+25. **Discharge advice:**
+    - Expect light bleeding and cramps for up to 1–2 weeks.
+    - **Return with danger signs:** fever, heavy bleeding (1 pad or more per hour), severe or increasing pain, foul discharge, fainting.
+    - Fertility returns within 2 weeks.
+    - Follow-up visit in 1–2 weeks.
+
+### F. Complications during and after the procedure
+
+Covered under **Management** below.
+
+### G. Instrument processing (decontamination, cleaning, HLD, sterilisation)
+
+**Why it matters:** the cannula enters the uterine cavity, so poorly processed instruments transmit **HIV, hepatitis B and C** and bacteria. Processing follows the Uganda IPC sequence.
+
+| Step | How | Key points |
+|---|---|---|
+| **1. Immediately after use: keep wet / decontaminate** | Rinse by drawing clean water through the cannula and aspirator. Then **soak all items in 0.5% chlorine for 10 minutes** (Uganda IPC practice), or at least keep them submerged in water. | **Never let blood and tissue dry on the instruments.** Dried material cannot be cleaned out. |
+| **2. Clean (the most important step)** | **Disassemble the aspirator** (valve, liner, plunger, O-ring). Wash in **warm water with liquid detergent**, using a **soft brush**; flush the cannulae. Rinse in clean water. | HLD and sterilisation **fail if the item is not clean first**. Do not use abrasive powders; they scratch plastic. |
+| **3a. High-level disinfection (HLD)** | **Boiling for 20 minutes** (timed from rolling boil; items fully submerged), **or** soak in **0.5% chlorine for 20 minutes**, **or** in **2% glutaraldehyde (e.g. Cidex) for 20 minutes** | After chemical HLD, **rinse with boiled (sterile) water**. |
+| **3b. Sterilisation** | **Steam autoclave** (121 °C, 106 kPa, **30 minutes** wrapped / 20 minutes unwrapped) for items rated for it (e.g. the aspirator and metal instruments), **or glutaraldehyde 2% for 8–10 hours**. | **Follow the manufacturer's instructions:** many plastic cannulae **must not be autoclaved** because they deform. |
+| **4. Dry and store** | Air-dry, store in an **HLD or sterile covered container**, labelled with the date | Reassemble the aspirator, **lubricate the O-ring**, and **test the vacuum** before the next use |
+
+> [!UGANDA]
+> **Making 0.5% chlorine from JIK (3.5% sodium hypochlorite).** Parts of water = (% concentrate ÷ % desired) − 1 = (3.5 ÷ 0.5) − 1 = **6**.
+> So mix **1 part JIK with 6 parts clean water**, for example 1 cup of JIK in 6 cups of water. Make it fresh **daily**, or sooner if it becomes cloudy or bloody. Chlorine **corrodes metal**, so do not soak metal instruments for longer than the recommended time.
+
+> [!NOTE]
+> The **Spaulding classification** divides equipment into *critical* items (enter sterile tissue: sterilise), *semi-critical* items (contact mucous membranes: HLD at least) and *non-critical* items (intact skin: clean). The MVA cannula passes through the non-sterile cervix into the uterus. WHO accepts **HLD or sterilisation**, while some hospitals sterilise all intrauterine instruments.
+
+## Management
+
+### Managing complications of MVA
+
+| Complication | Recognition | Management |
+|---|---|---|
+| **Vasovagal reaction** ("cervical shock") | Bradycardia, pallor, sweating, fainting during traction or dilation | Stop traction; lie flat with legs raised; oxygen; IV fluids. **Atropine 0.5 mg IV** if bradycardia persists. Remove any POC in the os. |
+| **Incomplete evacuation** | Continuing bleeding or cramps; tissue less than expected; later fever or bleeding | **Re-aspirate** (fresh cannula, check the aspirator), or misoprostol 400–600 µg |
+| **Haemorrhage** | Brisk bleeding during or after the procedure | Check for **retained tissue** (re-aspirate). **Uterine atony:** bimanual massage + **oxytocin 10 IU IM** (or 20 IU in 1 L at 60 drops/min), **misoprostol 400–800 µg**, or **ergometrine 0.2 mg IM** (not in hypertension). **Cervical tear:** pressure or suture. **Perforation or coagulopathy:** see below. Resuscitate, crossmatch. |
+| **Uterine perforation** | Cannula or dilator goes beyond the expected depth, loss of resistance, sudden pain, fat or bowel in the aspirate | **Stop.** Small fundal perforation, stable patient, nothing abnormal aspirated: **admit**, monitor vitals, Hb and abdomen for 24 hours, give **antibiotics** and a **uterotonic**; complete the evacuation later under ultrasound or laparoscopic guidance by an experienced provider. **Laparotomy** if unstable, bowel or omentum aspirated, peritonitis or expanding haematoma. |
+| **Haematometra** (post-abortion syndrome) | Minutes to hours later: severe cramping, **enlarged tender uterus**, little external bleeding | **Re-aspirate** (clots), then a uterotonic |
+| **Lidocaine toxicity** | Perioral numbness, tinnitus, metallic taste, drowsiness, then **seizures**, arrhythmia, arrest | Stop injecting; call for help; **ABC, oxygen**; **diazepam 10 mg IV slowly** (or rectal) for seizures; CPR if arrest; lipid emulsion 20% if available |
+| **Infection / endometritis** | Fever, offensive discharge, uterine tenderness days later | Antibiotics (e.g. **doxycycline 100 mg orally 12-hourly + metronidazole 400 mg orally 8-hourly for 7 days**, or IV if severe). Re-evacuate if tissue is retained. |
+| **Cervical laceration** | Bleeding from the tenaculum site | Pressure with sponge forceps, silver nitrate, or a figure-of-eight absorbable suture |
+| **Continuing pregnancy / failed procedure** | No villi, symptoms continue, rising hCG | Scan; repeat the procedure; exclude ectopic |
+| **Air embolism** (extremely rare) | Sudden collapse, dyspnoea | Prevention: **never push the plunger while connected to a cannula in the uterus.** Left lateral head-down position, oxygen, CPR. |
+| **Missed ectopic** | Empty aspirate, persistent pain, positive hCG | Scan; see *Ectopic pregnancy* |
+
+### Aftercare checklist
+
+1. **Vitals and bleeding** monitored for 30–60 minutes; she can walk and pass urine; pain is controlled.
+2. **Analgesia to take home:** ibuprofen 400 mg 8-hourly or paracetamol 1 g 8-hourly for 2–3 days.
+3. **Anti-D** if Rh-negative (within 72 hours).
+4. **Contraception:**
+   - Any method **immediately** after first-trimester MVA (MEC 1), including an **IUD inserted at the end of the procedure**.
+   - **No IUD if septic** (MEC 4).
+5. **HIV test and linkage**; syphilis screening; **iron** if anaemic.
+6. **Documentation:** indication, uterine size, cannula size, analgesia, estimated blood loss, **tissue findings**, complications, FP method given.
+7. **Follow-up:** 1–2 weeks, and immediately with danger signs.
+
+### What to do where
+
+| Level | MVA-related role |
+|---|---|
+| **HC III** | MVA for uncomplicated incomplete abortion by a trained midwife or clinical officer, under 12 weeks. Refer: sepsis with shock, suspected perforation, uterus over 12 weeks, suspected mole. |
+| **HC IV** | All of the above plus management of complications (transfusion, laparotomy for perforation), second-trimester PAC with misoprostol, and back-up for HC IIIs |
+| **Regional / national referral** | Complex cases: large molar pregnancies (electric vacuum aspiration), D&E, bowel injury, ICU care; training and supervision of MVA providers |
+
+## OSCE checklist
+
+| # | Step | Done |
+|---|---|---|
+| 1 | Greets, introduces self, confirms identity, explains the procedure, **obtains consent**, offers a chaperone | ☐ |
+| 2 | Confirms indication, uterine size and position on **bimanual exam**, checks vitals and Hb, asks about allergies | ☐ |
+| 3 | Gives **ibuprofen 400–800 mg** 30–60 minutes before; bladder emptied | ☐ |
+| 4 | Names and checks the kit: aspirator parts, cannulae, dilators, tenaculum, speculum, sponge forceps, antiseptic, lidocaine | ☐ |
+| 5 | **Assembles, lubricates, charges and tests the aspirator** (valves closed, plunger arms locked) | ☐ |
+| 6 | Hand hygiene, PPE, **no-touch technique** | ☐ |
+| 7 | Inserts the speculum, removes POC from the os, **cleans the cervix** with antiseptic | ☐ |
+| 8 | **Paracervical block:** lidocaine 1% ≤20 mL; 12 o'clock then 4 and 8 o'clock at the cervicovaginal junction; **aspirates before injecting**; waits 2–3 minutes | ☐ |
+| 9 | Applies the tenaculum with **gentle traction** to straighten the canal | ☐ |
+| 10 | Selects the **appropriate cannula**; dilates gently if needed | ☐ |
+| 11 | Inserts the cannula to the fundus, then withdraws 1 cm; **attaches the charged aspirator**; releases the valves | ☐ |
+| 12 | Rotates and moves the cannula in and out **without withdrawing past the os** | ☐ |
+| 13 | States the **4 signs of completion** | ☐ |
+| 14 | Closes the valves, **detaches before emptying**; never pushes the plunger into the uterus | ☐ |
+| 15 | **Inspects the tissue** in water or vinegar against light; states what is expected | ☐ |
+| 16 | Removes instruments, checks for bleeding; monitors vitals | ☐ |
+| 17 | **Instrument processing:** keep wet or soak in 0.5% chlorine → clean → HLD or sterilise → store | ☐ |
+| 18 | **Post-abortion FP** offered; anti-D; danger signs; follow-up; documentation | ☐ |
+| 19 | Communicates empathetically throughout ("vocal local") | ☐ |
+
+## Ward-round & exam pearls
+
+**Model procedure note / presentation:**
+> "MVA done for incomplete abortion at 9 weeks. Uterus 8-week size, anteverted. Ibuprofen 800 mg given 45 minutes before; paracervical block with 1% lidocaine 16 mL. Os open; no dilation needed. **8 mm cannula**; about 60 mL of blood and tissue aspirated. **Villi and decidua seen** on flotation. Completion confirmed by pink foam, gritty sensation and the uterus gripping the cannula. EBL 100 mL; no complications. **Copper IUD inserted.** Vitals stable at 30 minutes. Instruments sent for processing. Review in 2 weeks."
+
+**Viva questions and answers:**
+
+1. *What vacuum does the MVA aspirator produce, and what is its capacity?*
+   About **60–66 cm Hg**; **60 mL**.
+2. *Why is MVA preferred to D&C?*
+   Less blood loss, pain, perforation and Asherman syndrome; no general anaesthesia; can be done by midwives at lower-level units; cheaper.
+3. *Where do you inject a paracervical block, and with what?*
+   Lidocaine 1%, **up to 20 mL** (maximum 4.5 mg/kg). 1–2 mL at the tenaculum site, then **4 and 8 o'clock** at the cervicovaginal junction, 1.5–3 cm deep, aspirating first.
+4. *List the signs that the uterus is empty.*
+   Red or pink foam and no tissue, a gritty sensation, the uterus contracting and gripping the cannula, and increased cramping.
+5. *What would make you suspect perforation?*
+   The instrument passes further than expected without resistance, sudden pain, fat or bowel in the aspirate, or haemodynamic deterioration.
+6. *What are the steps of instrument processing?*
+   Decontaminate / keep wet → clean → HLD (boil 20 minutes, or 0.5% chlorine or 2% glutaraldehyde for 20 minutes) or sterilise (autoclave or glutaraldehyde 8–10 hours) → store.
+7. *How do you make 0.5% chlorine from JIK?*
+   1 part JIK (3.5%) + 6 parts water.
+8. *Can MVA be done in septic abortion?*
+   Yes, **after IV antibiotics are started**. It is source control.
+
+> [!EXAM]
+> Examiners love the **order of processing** ("clean before you disinfect") and the **"never push the plunger into the uterus"** rule. In the OSCE, say each step out loud while you do it on the model, including aspirating before injecting lidocaine.
+
+> [!UGANDA]
+> A study at Mbarara Regional Referral Hospital found that **a large share of women still experience significant pain during MVA**. A study in Northern Uganda found gaps in health workers' MVA knowledge and practice at lower-level facilities. Doing the basics well (a pre-procedure NSAID, a properly placed paracervical block, waiting for it to work, and calm verbal support) is part of quality PAC.
+
+## Mnemonics & memory aids
+
+**Setting up the aspirator: "C-L-O-S-E, then P-U-L-L"**
+Close the valves, then pull the plunger until the arms **L**ock. Check they lock, or the plunger may spring back.
+
+**Signs of completion: "F-G-G-C"**
+- **F**oam (red or pink)
+- **G**ritty feel
+- **G**rip (uterus contracts on the cannula)
+- **C**ramping increases
+
+**Paracervical block: "12, then 4 and 8, aspirate, wait"**
+
+**Processing: "Keep wet, Clean, Kill, Keep" (Soak → Scrub → HLD/Sterilise → Store)**
+
+**Chlorine dilution: "3.5 over 0.5, minus 1 = 6"**
+
+**Perforation: "Too deep, too easy, too painful, too fatty"**

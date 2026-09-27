@@ -1,0 +1,273 @@
+{
+  "slug": "diagnosis-physiological-changes-pregnancy",
+  "flashcards": [
+    { "id": "dpp-f01", "front": "Presumptive, probable and positive signs of pregnancy", "back": "**Presumptive:** amenorrhoea, nausea, breast changes, frequency, quickening, skin changes.\n**Probable:** uterine enlargement, Hegar's, Goodell's, Chadwick's, ballottement, Braxton Hicks, **positive hCG**.\n**Positive:** **fetal heart heard**, **fetal parts or movements felt by the examiner**, **fetus seen on ultrasound**." },
+    { "id": "dpp-f02", "front": "Hegar's, Goodell's and Chadwick's signs", "back": "**Hegar's:** softening of the uterine **isthmus** on bimanual exam (6–10 weeks).\n**Goodell's:** softening of the **cervix** (about 6–8 weeks).\n**Chadwick's:** **bluish discolouration** of the vagina and cervix from congestion (6–8 weeks)." },
+    { "id": "dpp-f03", "front": "Naegele's rule", "back": "EDD = **LNMP + 7 days − 3 months + 1 year** (= LNMP + 280 days). Assumes a regular 28-day cycle; for a longer cycle, add (cycle length − 28) days." },
+    { "id": "dpp-f04", "front": "When does a pregnancy test become positive?", "back": "**Serum β-hCG:** 8–11 days after conception.\n**Urine hCG** (detects about 20–25 IU/L): around the **day of the missed period**." },
+    { "id": "dpp-f05", "front": "hCG kinetics in early pregnancy", "back": "Doubles about every **48 hours** (a rise of at least about 63% in 48 hours suggests a viable IUP), **peaks at 8–10 weeks** (about 100,000 IU/L), then falls to a plateau. Very high in **molar pregnancy and twins**." },
+    { "id": "dpp-f06", "front": "TVS milestones in early pregnancy", "back": "Gestational sac **about 4.5–5 weeks**; yolk sac **about 5.5 weeks**; fetal pole with **cardiac activity about 6 weeks**. Transabdominal scans lag about 1 week behind." },
+    { "id": "dpp-f07", "front": "When can the fetal heart be heard with a Doppler and with a Pinard?", "back": "**Doppler:** about **10–12 weeks**.\n**Pinard stethoscope:** about **20 weeks** (18–24)." },
+    { "id": "dpp-f08", "front": "When does quickening occur?", "back": "**18–20 weeks** in a primigravida; **16–18 weeks** in a multigravida." },
+    { "id": "dpp-f09", "front": "Plasma volume vs red cell mass in pregnancy", "back": "Plasma volume **up 40–50%**; red cell mass **up 20–30%**, giving **physiological haemodilution** (lowest Hb at about 28–34 weeks). WHO: **Hb below 11 g/dL = anaemia** in pregnancy." },
+    { "id": "dpp-f10", "front": "Cardiac output in pregnancy, labour and postpartum", "back": "Up **30–50%** by the second trimester (SV first, then HR +10–20 bpm). A further rise in labour and **immediately after delivery (up to 60–80%)** from autotransfusion, the danger period for heart disease." },
+    { "id": "dpp-f11", "front": "What happens to BP during normal pregnancy?", "back": "It falls in the first half (SVR down), with a **nadir at about 20–24 weeks** (diastolic falls most), and returns to baseline by term. Hypertension before 20 weeks suggests **chronic hypertension** or a **molar pregnancy**." },
+    { "id": "dpp-f12", "front": "Normal ABG in pregnancy", "back": "**Compensated respiratory alkalosis**: pH about 7.42–7.44, **PaCO₂ about 4.0 kPa (30 mmHg)**, **HCO₃⁻ about 18–22 mmol/L**, PaO₂ slightly raised." },
+    { "id": "dpp-f13", "front": "Respiratory changes: which go up, which stay the same, which go down?", "back": "**Up:** tidal volume (30–50%), minute ventilation (40–50%), O₂ consumption (20%).\n**Same:** respiratory rate, vital capacity.\n**Down:** FRC (about 20%), ERV, residual volume, PaCO₂." },
+    { "id": "dpp-f14", "front": "Renal changes in pregnancy", "back": "RPF up 50–80%, **GFR up about 50%**, so **creatinine and urea fall** (creatinine above about 77 µmol/L is suspicious). **Glycosuria** is common. **Hydroureter/hydronephrosis, right more than left**, cause stasis and pyelonephritis risk." },
+    { "id": "dpp-f15", "front": "Coagulation changes in pregnancy", "back": "Up: **fibrinogen** (4–6 g/L), factors **VII, VIII, IX, X**, vWF, PAI-1 and PAI-2.\nDown: **protein S**, fibrinolysis.\nResult: **hypercoagulable**, VTE risk about 5-fold, highest postpartum." },
+    { "id": "dpp-f16", "front": "Aortocaval compression: when, what, and what do you do?", "back": "From **about 20 weeks** the supine uterus compresses the IVC, reducing venous return and CO (up to 25–30%), causing supine hypotension and fetal distress. **Left lateral tilt 15° or manual left uterine displacement.**" },
+    { "id": "dpp-f17", "front": "Which LFT normally rises in pregnancy, and which never should?", "back": "**ALP rises 2–4 times** (placental isoenzyme). **Albumin falls.** **ALT/AST should not rise**; if raised, think HELLP, AFLP, obstetric cholestasis or hepatitis." },
+    { "id": "dpp-f18", "front": "Thyroid function in pregnancy", "back": "**TBG up** means total T4/T3 are up but **free T4 is normal**. **TSH falls in the first trimester** (hCG has TSH-like activity). Use trimester-specific ranges." },
+    { "id": "dpp-f19", "front": "Uterine size and blood flow at term", "back": "About **1,000–1,100 g** (from 50–70 g), capacity about **5 L**. Blood flow **about 500–750 mL/min** (10–15% of CO), which is why PPH can exsanguinate within minutes." },
+    { "id": "dpp-f20", "front": "Why does a pregnant woman stay normotensive despite heavy bleeding?", "back": "Expanded blood volume (about +1.5 L) and sympathetic compensation: she may lose **1–1.5 L (up to about 30%)** before hypotension. **Tachycardia and a rising shock index (HR/SBP of 0.9 or more)** come first; hypotension is a late, pre-arrest sign." }
+  ],
+  "mcqs": [
+    {
+      "id": "dpp-q01",
+      "stem": "A 24-year-old woman presents to a HC IV with 6 weeks of amenorrhoea, mild left iliac fossa pain and spotting. BP 112/70 mmHg, pulse 88 bpm. Urine hCG is positive. What is the MOST appropriate next step?",
+      "options": [
+        "Reassure her and book ANC in 4 weeks",
+        "Pelvic ultrasound (preferably transvaginal) to locate the pregnancy",
+        "Give misoprostol for an incomplete miscarriage",
+        "Treat for PID with ceftriaxone and doxycycline",
+        "Laparotomy immediately"
+      ],
+      "answer": 1,
+      "explanation": "A positive hCG with **pain and bleeding** means **ectopic until proven otherwise**. She is haemodynamically stable, so the next step is an **ultrasound** to find the pregnancy (intrauterine sac, adnexal mass, free fluid). A misses a potential ectopic. C treats a miscarriage that has not been confirmed. D: doxycycline is contraindicated in pregnancy, and PID is unlikely with a positive hCG. E: laparotomy is for an unstable woman or a confirmed ruptured ectopic."
+    },
+    {
+      "id": "dpp-q02",
+      "stem": "A 27-year-old woman's LNMP was 20 January 2025. Her cycles are regular, every 28 days. What is her expected date of delivery?",
+      "options": [
+        "13 October 2025",
+        "20 October 2025",
+        "27 September 2025",
+        "27 October 2025",
+        "3 November 2025"
+      ],
+      "answer": 3,
+      "explanation": "Naegele: **+7 days** gives 27 January; **−3 months** gives 27 October 2024; **+1 year** gives **27 October 2025**. Option B forgets to add 7 days; A subtracts 7 days instead; C and E are arithmetic errors."
+    },
+    {
+      "id": "dpp-q03",
+      "stem": "A 30-year-old G2P1 at 28 weeks complains of feeling breathless when talking and climbing stairs for 3 weeks. RR 16/min, SpO₂ 98% on air, HR 88 bpm, a soft ejection systolic murmur at the left sternal edge, clear chest, no oedema. What is the MOST likely explanation?",
+      "options": [
+        "Physiological dyspnoea of pregnancy from progesterone-driven hyperventilation",
+        "Mitral stenosis",
+        "Pulmonary embolism",
+        "Peripartum cardiomyopathy",
+        "Severe anaemia"
+      ],
+      "answer": 0,
+      "explanation": "Gradual breathlessness with a **normal RR, SpO₂ and HR** and a **soft ejection systolic flow murmur** fits **physiological dyspnoea**: progesterone raises tidal volume and minute ventilation. B: mitral stenosis gives a **diastolic** murmur, often with orthopnoea or crepitations. C: PE gives tachypnoea, tachycardia and hypoxia. D: peripartum cardiomyopathy occurs late in pregnancy or postpartum, with signs of heart failure. E: severe anaemia would give tachycardia and pallor."
+    },
+    {
+      "id": "dpp-q04",
+      "stem": "A 32-week pregnant woman with asthma is in the emergency unit, wheezy and tired. ABG on oxygen: pH 7.38, PaCO₂ 5.4 kPa (41 mmHg), PaO₂ 11 kPa. How should you interpret the PaCO₂?",
+      "options": [
+        "Normal; no concern",
+        "Low, as expected from hyperventilation",
+        "Raised for pregnancy, suggesting respiratory fatigue and impending failure",
+        "Reflects metabolic alkalosis",
+        "Normal for the third trimester only"
+      ],
+      "answer": 2,
+      "explanation": "Normal PaCO₂ in pregnancy is **about 4 kPa (30 mmHg)** because of progesterone-driven hyperventilation. A PaCO₂ of 5.4 kPa is **CO₂ retention** in a pregnant woman having an asthma attack, which means she is **tiring**. Escalate (senior, HDU/ICU, consider ventilation). A and E apply non-pregnant ranges. B is wrong because 5.4 is not low. D: pH 7.38 with a high CO₂ is not metabolic alkalosis."
+    },
+    {
+      "id": "dpp-q05",
+      "stem": "A 26-year-old at 34 weeks has a routine creatinine of 92 µmol/L, reported as 'normal' by the laboratory (non-pregnant range 45–90). BP 150/98 mmHg. What is the correct interpretation?",
+      "options": [
+        "Normal; no further action",
+        "Low; suggests malnutrition",
+        "Expected, because creatinine rises in pregnancy",
+        "Irrelevant to her blood pressure",
+        "Abnormally high for pregnancy, suggesting renal involvement (e.g. pre-eclampsia); she needs further assessment"
+      ],
+      "answer": 4,
+      "explanation": "GFR rises about 50% in pregnancy, so creatinine **falls** (normal about 35–70 µmol/L). A value of **92 µmol/L is abnormal**, and with hypertension it suggests **pre-eclampsia with renal involvement**. A and C apply non-pregnant logic. B is wrong. D ignores the clinical picture."
+    },
+    {
+      "id": "dpp-q06",
+      "stem": "A woman at 36 weeks becomes dizzy, pale and sweaty while lying flat on her back for an ultrasound. BP drops from 118/74 to 86/50 mmHg and the fetal heart slows. What is the FIRST action?",
+      "options": [
+        "Give IV adrenaline",
+        "Start IV fluids and call the anaesthetist",
+        "Turn her onto her left side (or manually displace the uterus to the left)",
+        "Perform emergency caesarean section",
+        "Give oxygen by face mask and continue scanning"
+      ],
+      "answer": 2,
+      "explanation": "This is **supine hypotensive syndrome** from **aortocaval compression**. Relieving the compression with a **left lateral position** or uterine displacement restores venous return within seconds. A, B and D are unnecessary once the cause is removed. E does not treat the cause."
+    },
+    {
+      "id": "dpp-q07",
+      "stem": "A 25-year-old G1 at 30 weeks has Hb 10.7 g/dL, MCV 88 fL and no symptoms. Her booking Hb at 10 weeks was 12.8 g/dL. According to the WHO/Uganda threshold, what is the correct approach?",
+      "options": [
+        "Classify as mild anaemia (Hb below 11 g/dL); continue daily iron–folate, check adherence, exclude malaria and worms, and recheck",
+        "Normal physiological anaemia; no action or supplements needed",
+        "Moderate anaemia requiring admission",
+        "Transfuse 1 unit",
+        "Stop iron because the MCV is normal"
+      ],
+      "answer": 0,
+      "explanation": "Haemodilution explains some of the fall, but WHO defines anaemia in pregnancy as **Hb below 11 g/dL**. At **10.7** she has **mild anaemia**: ensure iron–folate adherence, deworm, exclude malaria, and recheck. A normal MCV does not exclude early iron deficiency (E). B leaves anaemia untreated. C and D overtreat."
+    },
+    {
+      "id": "dpp-q08",
+      "stem": "A woman on postnatal day 5 after caesarean section presents with a painful, swollen left calf. Which physiological change of pregnancy contributes MOST to her risk?",
+      "options": [
+        "Increased GFR",
+        "Respiratory alkalosis",
+        "Reduced plasma volume",
+        "Increased clotting factors (fibrinogen, VII, VIII, X), reduced protein S and reduced fibrinolysis",
+        "Increased insulin resistance"
+      ],
+      "answer": 3,
+      "explanation": "Pregnancy is **hypercoagulable**, with raised procoagulants, reduced protein S and reduced fibrinolysis. Combined with **stasis** (venous compression, immobility) and **vessel injury** (CS), this completes Virchow's triad. The risk is highest **postpartum**, especially after CS. A, B and E do not drive thrombosis. C is false: plasma volume **rises**."
+    },
+    {
+      "id": "dpp-q09",
+      "stem": "A 28-year-old at 12 weeks presents with heavy vaginal bleeding and severe vomiting. The uterus is the size of 20 weeks. BP 150/100 mmHg. No fetal heart is detected by Doppler. What is the MOST likely diagnosis?",
+      "options": [
+        "Twin pregnancy with threatened miscarriage",
+        "Complete hydatidiform mole",
+        "Uterine fibroid in pregnancy",
+        "Pre-eclampsia with a normal pregnancy",
+        "Incomplete miscarriage"
+      ],
+      "answer": 1,
+      "explanation": "Uterus **larger than dates**, **hyperemesis**, **bleeding**, **hypertension before 20 weeks** and **no fetal heart** is the classic picture of a **complete molar pregnancy** (very high hCG). A: twins would usually have fetal hearts. C: a fibroid does not cause early hypertension. D: pre-eclampsia before 20 weeks suggests a mole. E: the uterus is usually smaller than dates."
+    },
+    {
+      "id": "dpp-q10",
+      "stem": "A 22-year-old woman reports amenorrhoea for 10 weeks, but her urine pregnancy test is negative. She had a DMPA injection 14 weeks ago. What is the BEST next step?",
+      "options": [
+        "Diagnose missed miscarriage",
+        "Refer for hysteroscopy",
+        "Start combined oral contraceptive to induce a bleed",
+        "Order serum prolactin and FSH urgently",
+        "Explain that DMPA commonly causes amenorrhoea, confirm the result (first-morning urine or serum hCG), and give her next DMPA dose"
+      ],
+      "answer": 4,
+      "explanation": "**DMPA causes amenorrhoea** in many users. A negative urine hCG is reassuring; confirm with a concentrated sample or serum hCG, then continue contraception (she is within the 4-week grace period for her 13-week injection). A: there is no evidence of pregnancy. B, C and D are unnecessary."
+    },
+    {
+      "id": "dpp-q11",
+      "stem": "A 35-year-old G3P2 at 30 weeks with known rheumatic heart disease presents with orthopnoea, RR 28/min, SpO₂ 90% and bibasal crepitations. Why is she decompensating now?",
+      "options": [
+        "Plasma volume is falling at this stage",
+        "SVR peaks at 30 weeks",
+        "Cardiac output and blood volume are near their peak, so a stenotic valve cannot cope with the increased flow and tachycardia",
+        "Respiratory alkalosis impairs myocardial contractility",
+        "The uterus stops compressing the IVC"
+      ],
+      "answer": 2,
+      "explanation": "Cardiac output rises 30–50% and blood volume about 50% by **28–32 weeks**. In **mitral stenosis**, the increased flow plus a higher heart rate (shorter diastolic filling time) raises left atrial pressure and causes **pulmonary oedema**. The next danger point is **immediately after delivery** (autotransfusion). A and B are false (plasma volume rises and SVR falls). D is not the mechanism. E is false."
+    },
+    {
+      "id": "dpp-q12",
+      "stem": "A primigravida at 26 weeks has 2+ glycosuria on a routine urine dipstick. She has no symptoms. Her BMI is 24 and there is no family history of diabetes. What is the MOST appropriate step?",
+      "options": [
+        "Arrange a blood glucose test (FBS/RBS, or a 75 g OGTT at 24–28 weeks)",
+        "Diagnose GDM and start insulin",
+        "Ignore it; glycosuria in pregnancy is always physiological",
+        "Start metformin",
+        "Restrict all carbohydrates"
+      ],
+      "answer": 0,
+      "explanation": "Increased GFR exceeds the tubular reabsorption of glucose, so **glycosuria is common** in pregnancy. It is **not diagnostic** of diabetes, but persistent or heavy glycosuria is an indication for a **blood test** (she is in the 24–28-week window for an OGTT). B and D treat without a diagnosis. C is dangerous because true GDM would be missed. E is inappropriate."
+    },
+    {
+      "id": "dpp-q13",
+      "stem": "Twenty minutes after a vaginal delivery, a woman who has lost an estimated 1,000 mL of blood has HR 118 bpm and BP 108/70 mmHg. The intern says she is 'stable' because her BP is normal. What is the correct response?",
+      "options": [
+        "Agree; observe hourly",
+        "Give oral iron and review tomorrow",
+        "She is compensating; shock index is about 1.1, so treat as significant PPH now (call for help, IV access, fluids, uterotonics, find the cause)",
+        "Perform a CT scan",
+        "Give furosemide for tachycardia"
+      ],
+      "answer": 2,
+      "explanation": "Expanded blood volume allows a pregnant woman to lose **up to about 30%** before BP falls. **Tachycardia with a shock index (HR/SBP) of about 1.1** signals significant blood loss. **Hypotension is a late sign.** Manage actively now. A and B are dangerous delays. D is irrelevant. E would worsen hypovolaemia."
+    },
+    {
+      "id": "dpp-q14",
+      "stem": "A woman at 34 weeks has itching of her palms and soles without a rash. LFTs: ALP 4 times the non-pregnant upper limit, ALT 180 U/L (normal below 35). Which statement is CORRECT?",
+      "options": [
+        "Both results are physiological",
+        "Raised ALP proves liver disease",
+        "ALT is always raised in the third trimester",
+        "The ALP is not diagnostic of liver disease in pregnancy, but a raised ALT is abnormal and, with itching, suggests intrahepatic cholestasis of pregnancy",
+        "She needs a liver biopsy"
+      ],
+      "answer": 3,
+      "explanation": "**ALP rises 2–4 times physiologically** (placental isoenzyme), so it cannot be used alone. **Transaminases do not rise in normal pregnancy.** With palmar and plantar pruritus this suggests **obstetric cholestasis** (check bile acids). Also consider HELLP and hepatitis. A, B and C are false. E is not indicated."
+    },
+    {
+      "id": "dpp-q15",
+      "stem": "A 19-year-old at 16 weeks has had pyelonephritis (fever, loin pain, pyuria). Which physiological change BEST explains her susceptibility?",
+      "options": [
+        "Increased bladder tone",
+        "Progesterone-induced dilatation of the ureters and renal pelvis, especially on the right, causing urinary stasis",
+        "Decreased GFR",
+        "Acidic urine from respiratory alkalosis",
+        "Reduced glycosuria"
+      ],
+      "answer": 1,
+      "explanation": "Progesterone relaxes ureteric smooth muscle, and the gravid uterus compresses the ureters at the pelvic brim (the right is more affected because of dextrorotation). The resulting **hydroureter causes stasis**, so **asymptomatic bacteriuria ascends to pyelonephritis**. A: bladder tone **falls**. C: GFR **rises**. D: urine is not made more acidic by respiratory alkalosis in a way that causes infection. E: glycosuria **increases** and feeds bacteria."
+    }
+  ],
+  "cases": [
+    {
+      "id": "dpp-c01",
+      "title": "Is she pregnant, and where?",
+      "presentation": "Atim, a 23-year-old P1, attends Mengo casualty with 7 weeks of amenorrhoea and 2 days of lower abdominal pain and brownish spotting. She had an IUD inserted 18 months ago.",
+      "steps": [
+        { "prompt": "What history do you take, and why does each part matter?", "answer": "**LNMP and cycle** (dating); **nature and site of pain**, **shoulder-tip pain**, **fainting** (haemoperitoneum); amount of bleeding and passage of tissue (miscarriage); **IUD** (reduces pregnancy overall, but if pregnancy occurs, the **risk of ectopic is higher**); previous PID or STI; previous ectopic or tubal surgery; symptoms of pregnancy." },
+        { "prompt": "Examination: pulse 96 bpm, BP 110/72 mmHg, mild pallor, tender left iliac fossa without guarding. Speculum: IUD strings visible, closed os, minimal old blood. What test first?", "answer": "**Urine hCG** (it is positive). Then **transvaginal/pelvic ultrasound**, with a **quantitative serum β-hCG** if available. Also **Hb** and **blood group and cross-match**. Avoid vigorous bimanual examination (risk of rupture)." },
+        { "prompt": "The scan shows an empty uterus with an IUD in situ, a 2.5 cm left adnexal mass, and a small amount of free fluid. Serum β-hCG is 2,800 IU/L. Interpret this.", "answer": "An hCG **above the discriminatory zone** (about 1,500–3,500 IU/L) with **no intrauterine sac** and an **adnexal mass plus free fluid** means **left tubal ectopic pregnancy**, probably unruptured or leaking. Differentials (less likely): complete miscarriage, very early IUP (unlikely at this hCG)." },
+        { "prompt": "What is the management at a Ugandan referral hospital?", "answer": "She is stable but has free fluid and pain, so **surgical management** (laparoscopic or open **salpingectomy**) is most common and safest in Uganda. Keep her nil by mouth, secure IV access, and cross-match. Methotrexate is an option only if she is stable, hCG is low (below about 1,500–5,000), there is no fetal heart, the mass is small, and reliable follow-up is possible. Remove the IUD. Give **anti-D** if Rh-negative." },
+        { "prompt": "What counselling and follow-up are needed?", "answer": "Explain the diagnosis and the fertility implications (a remaining tube still allows pregnancy). Recurrence risk is about 10–15%, so she should have an **early scan in any future pregnancy**. Offer contraception. Check the histology." }
+      ],
+      "takeaway": "A positive hCG plus pain or bleeding is an ectopic until proven otherwise. Correlate the hCG with the ultrasound findings using the discriminatory zone."
+    },
+    {
+      "id": "dpp-c02",
+      "title": "When physiology meets heart disease",
+      "presentation": "Nansubuga, a 29-year-old G3P2 at 30 weeks, is brought to a regional referral hospital with 3 days of worsening breathlessness, cough and inability to lie flat. She was told as a teenager that she had a 'heart problem' but never followed up.",
+      "steps": [
+        { "prompt": "What history do you take?", "answer": "Onset and severity of **breathlessness (NYHA class)**, **orthopnoea/PND**, palpitations, haemoptysis, chest pain, leg swelling; rheumatic fever and sore throats in childhood; previous pregnancies (did she decompensate?); penicillin prophylaxis; fever (infective endocarditis, chest infection); anaemia symptoms." },
+        { "prompt": "Examination: HR 124 bpm irregular, RR 30/min, SpO₂ 88%, BP 100/70 mmHg, a mid-diastolic rumble at the apex, loud S1, bibasal crepitations. How do you distinguish this from normal pregnancy?", "answer": "In normal pregnancy RR is **not raised**, SpO₂ is normal, HR rises only by 10–20 bpm, and murmurs are **soft and systolic**. Here there is **tachypnoea, hypoxia, an irregular tachycardia (likely AF), a diastolic murmur and crepitations**, which means **pulmonary oedema from mitral stenosis** (rheumatic). Pregnancy has raised cardiac output and HR, shortening diastolic filling." },
+        { "prompt": "What are your immediate management steps?", "answer": "**Sit her up**, **oxygen** to SpO₂ of 95% or more, IV access, **furosemide 40 mg IV** (repeat as needed), and **rate control** (e.g. a beta-blocker such as metoprolol or propranolol; digoxin if AF). **Anticoagulate** (LMWH) if in AF. ECG, echocardiography, FBC, electrolytes. Left lateral tilt. Involve the **physician, obstetrician and anaesthetist**. Watch for fluid overload: avoid large IV fluid volumes." },
+        { "prompt": "What about delivery planning?", "answer": "Aim for a **vaginal delivery** if she is stable at term (CS for obstetric reasons), with **good analgesia (epidural** where available), a **shortened second stage** (assisted delivery), and **avoid supine positioning**. **Avoid ergometrine**; give **oxytocin slowly** (10 IU IM or a slow infusion rather than a bolus). Give **furosemide after delivery** because of autotransfusion. Consider balloon mitral valvotomy in pregnancy if she is refractory (specialist centre)." },
+        { "prompt": "When is she at highest risk, and what follow-up does she need?", "answer": "Highest risk at **28–32 weeks**, in **labour**, and **immediately postpartum** (autotransfusion of about 500 mL and relief of IVC compression). Follow-up: cardiology, **benzathine penicillin secondary prophylaxis**, valve intervention before any future pregnancy, and effective contraception (a progestogen implant or IUD; avoid oestrogen)." }
+      ],
+      "takeaway": "Normal pregnancy never causes tachypnoea, hypoxia or a diastolic murmur. The rise in cardiac output unmasks rheumatic valve disease at 28–32 weeks and just after delivery."
+    },
+    {
+      "id": "dpp-c03",
+      "title": "The 'stable' bleeding mother",
+      "presentation": "Aber, a 31-year-old P4, delivered at a HC IV 30 minutes ago. The midwife reports that she 'bled a bit' but her BP is 104/68 mmHg, so she is 'stable'. Her pulse is 122 bpm, she is restless and her pads are soaked.",
+      "steps": [
+        { "prompt": "Why can her BP be normal despite significant blood loss?", "answer": "Pregnancy expands blood volume by about 1.2–1.5 L and she is young with a strong sympathetic response. She can lose **up to about 30% (1–1.5 L)** before BP falls. **Tachycardia, restlessness and a high shock index (122/104 ≈ 1.2)** are the early signs; hypotension is a **late, pre-arrest** sign." },
+        { "prompt": "What are your immediate steps?", "answer": "**Call for help**; ABC; **two large-bore IV cannulae**; take blood for **Hb, grouping and cross-match, and a bedside clotting test**; **rub up the uterus**; start **oxytocin 10 IU IV/IM then an infusion** (e.g. 20–40 IU in 1 L normal saline); **tranexamic acid 1 g IV** over 10 minutes (within 3 hours of birth); crystalloid; **empty the bladder**; find the cause (the **4 Ts**: tone, trauma, tissue, thrombin)." },
+        { "prompt": "Which physiological changes help her survive, and which might betray her?", "answer": "**Help:** increased blood volume, **hypercoagulability** (high fibrinogen), and uterine contraction ('living ligatures'). **Betray:** uterine blood flow of about **500–750 mL/min** means she can exsanguinate within minutes; the compensation masks early shock; and if fibrinogen falls below 2 g/L, bleeding worsens (consumption)." },
+        { "prompt": "Her uterus is atonic despite oxytocin. What next at a HC IV?", "answer": "Bimanual uterine compression; **misoprostol 800 µg sublingually**; **ergometrine 0.2 mg IM** if she is **not hypertensive**; check the placenta for completeness and the genital tract for tears; **uterine balloon tamponade** (a condom catheter); transfuse. If bleeding continues, go to theatre (B-Lynch suture, uterine artery ligation, hysterectomy) or **refer with a non-pneumatic anti-shock garment** if not available." },
+        { "prompt": "What follow-up does she need?", "answer": "Monitor vital signs, urine output (at least 30 mL/h) and Hb. Give **iron** (or transfuse if Hb is below 7 g/dL or she is symptomatic). Watch for **Sheehan's syndrome** (failure of lactation, amenorrhoea). Plan a hospital delivery with active management in any future pregnancy, and offer family planning." }
+      ],
+      "takeaway": "The expanded blood volume of pregnancy hides early shock. Treat tachycardia and a shock index of 0.9 or more as haemorrhage and act before the BP falls."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf" },
+    { "title": "Physiology, Maternal Blood (StatPearls)", "source": "NCBI Bookshelf", "url": "https://www.ncbi.nlm.nih.gov/books/NBK557783/" },
+    { "title": "Cardiovascular Physiology of Pregnancy", "source": "Circulation (American Heart Association)", "year": 2014, "url": "https://www.ahajournals.org/doi/10.1161/circulationaha.114.009029" },
+    { "title": "Emerging understanding and measurement of plasma volume expansion in pregnancy", "source": "American Journal of Clinical Nutrition / PMC", "year": 2017, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5701717/" },
+    { "title": "Shock and Pregnancy: Cardiovascular and Respiratory Physiology During Normal Pregnancy", "source": "Medscape eMedicine", "url": "https://emedicine.medscape.com/article/169450-overview" },
+    { "title": "Pregnancy 1: effects on haematological and cardiovascular systems", "source": "Nursing Times", "year": 2023, "url": "https://www.nursingtimes.net/womens-health/pregnancy-1-effects-on-haematological-and-cardiovascular-systems-29-08-2023/" },
+    { "title": "WHO Recommendations on Antenatal Care for a Positive Pregnancy Experience (ultrasound before 24 weeks, ANC model)", "source": "WHO / NCBI Bookshelf", "year": 2016, "url": "https://www.ncbi.nlm.nih.gov/books/NBK409109/" },
+    { "title": "Daily iron and folic acid supplementation during pregnancy (e-Library of Evidence for Nutrition Actions)", "source": "World Health Organization", "url": "https://www.who.int/tools/elena/interventions/daily-iron-pregnancy" }
+  ]
+}

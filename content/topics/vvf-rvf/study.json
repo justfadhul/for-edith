@@ -1,0 +1,279 @@
+{
+  "slug": "vvf-rvf",
+  "flashcards": [
+    { "id": "vvf-f01", "front": "Define obstetric fistula.", "back": "An abnormal communication between the genital tract and the urinary tract (**VVF**, urethrovaginal, vesicouterine, ureterovaginal) or the rectum (**RVF**), arising from childbirth. It is usually ischaemic after prolonged obstructed labour, or iatrogenic at CS or hysterectomy." },
+    { "id": "vvf-f02", "front": "Mechanism of an ischaemic obstetric fistula?", "back": "The impacted fetal head compresses the bladder base, urethra, vagina (and rectum) against the pubis or sacrum, causing **ischaemic pressure necrosis**. The slough separates at **3–10 days**, leaving a hole." },
+    { "id": "vvf-f03", "front": "What does the timing of leakage onset tell you?", "back": "**Immediately after surgery**: direct surgical injury. **3–10 days postpartum**: ischaemic (obstructed labour). **1–3 weeks after hysterectomy or CS**: ureteric injury." },
+    { "id": "vvf-f04", "front": "Continuous leakage but normal voiding: think?", "back": "**Ureterovaginal fistula**. One ureter drains into the vagina; the other still fills the bladder." },
+    { "id": "vvf-f05", "front": "What is Youssef syndrome?", "back": "A **vesicouterine fistula** (usually after CS): **cyclical haematuria (menouria)**, amenorrhoea, and usually **urinary continence**." },
+    { "id": "vvf-f06", "front": "How is the dye test done, and how is it interpreted?", "back": "Instil dilute **methylene blue** (about 100–200 mL) into the bladder via a catheter, with swabs in the vagina. **Blue = VVF.** **Wet but not blue = ureterovaginal** (three-swab test)." },
+    { "id": "vvf-f07", "front": "Double-dye test?", "back": "Oral **phenazopyridine** turns renal urine **orange**. **Methylene blue** in the bladder turns bladder urine **blue**. Orange on the swab = ureteric; blue = bladder; both = combined." },
+    { "id": "vvf-f08", "front": "Goh classification: the site types.", "back": "Distance of the distal edge from the **EUM**: type 1 more than **3.5 cm**, type 2 = 2.5–3.5 cm, type 3 = 1.5 to under 2.5 cm, type 4 under **1.5 cm** (urethral, worst prognosis)." },
+    { "id": "vvf-f09", "front": "Goh size and scarring grades?", "back": "**Size**: a under 1.5 cm, b 1.5–3 cm, c over 3 cm. **Scarring**: i none or mild (vagina over 6 cm), ii moderate or severe fibrosis or a short vagina, iii special (radiation, ureteric, circumferential, previous repair)." },
+    { "id": "vvf-f10", "front": "Waaldijk classification?", "back": "**I**: urethral closing mechanism not involved. **II**: involved (A without or B with (sub)total urethral involvement; a without or b with a circumferential defect). **III**: ureteric or other exceptional fistulae." },
+    { "id": "vvf-f11", "front": "Immediate management of a fresh VVF?", "back": "A **Foley catheter (16–18 F) on continuous free drainage** for **up to 4–6 weeks**, oral fluids **4–5 L a day**, sitz baths and barrier cream, nutrition, iron, treat UTI, physiotherapy, counselling. Small fresh fistulae may close." },
+    { "id": "vvf-f12", "front": "What is the key principle on the timing of repair?", "back": "**Tissue quality, not the calendar.** Traditionally wait about 3 months. Many surgeons repair as soon as the tissues are clean, with no slough or infection. Repair a recognised intra-operative injury immediately." },
+    { "id": "vvf-f13", "front": "Principles of VVF repair?", "back": "Good **exposure**, **wide mobilisation**, **tension-free**, **watertight** closure (dye test), **separate, non-overlapping layers**, a well-vascularised flap (Martius) if scarred, and **uninterrupted bladder drainage** afterwards." },
+    { "id": "vvf-f14", "front": "How long should the catheter stay after a simple VVF repair (WHO 2018)?", "back": "**7–10 days**. Short-term (7-day) catheterisation was as effective as longer drainage for a simple fistula. Complex or urethral repairs usually need about 14 days." },
+    { "id": "vvf-f15", "front": "What is the single most dangerous post-operative event after VVF repair?", "back": "A **blocked catheter**: bladder distension disrupts the repair. Check the flow hourly, keep oral fluids high, and flush gently if it stops." },
+    { "id": "vvf-f16", "front": "Discharge advice after fistula repair?", "back": "No intercourse for about **3 months**, no heavy lifting, pelvic floor exercises, family planning, follow-up at 3 and 6 months, and **elective CS** for any future delivery." },
+    { "id": "vvf-f17", "front": "Components of the obstructed labour injury complex?", "back": "VVF/RVF, urethral loss, vaginal stenosis, **foot drop**, pubic osteitis, amenorrhoea or infertility, dermatitis, bladder stones, depression, divorce and poverty." },
+    { "id": "vvf-f18", "front": "Most important preventive measure after prolonged obstructed labour?", "back": "An **indwelling catheter for 7–14 days** with high oral fluids, plus timely CS so it never gets that far." },
+    { "id": "vvf-f19", "front": "Management of a low RVF after a broken-down fourth-degree tear?", "back": "Repair when the tissues are clean (about 3 months). Convert it to a fourth-degree tear and repair it in layers, including the **anal sphincter**. Bowel preparation, stool softeners and a low-residue diet. A colostomy is for large, high or complex fistulae." },
+    { "id": "vvf-f20", "front": "Name Ugandan fistula services.", "back": "About **29 fistula centres in 24 districts**. Regional and national referral hospitals, **Kitovu Hospital** camps, **TERREWODE** Women's Community Hospital (Soroti), and the **Fistula Foundation Treatment Network** with the MoH. Repair is usually free." }
+  ],
+  "mcqs": [
+    {
+      "id": "vvf-q01",
+      "stem": "A 19-year-old para 1 delivered a stillborn baby after 3 days of labour at home. On day 7 she noticed continuous leakage of urine. She presents on day 12. The speculum shows a 1 cm mid-vaginal VVF with sloughy edges. What is the MOST appropriate initial management?",
+      "options": [
+        "Immediate vaginal repair today",
+        "Continuous Foley catheter drainage with high oral fluid intake, local care and review",
+        "Send her home and book a repair in 6 months",
+        "Urinary diversion (ureterosigmoidostomy)",
+        "Oral antibiotics and pelvic floor exercises only"
+      ],
+      "answer": 1,
+      "explanation": "A **small fresh fistula** should be managed with **continuous catheter drainage** (up to 4–6 weeks), fluids of 4–5 L a day, and perineal care. It may close spontaneously, and the tissues improve for repair. **A** Sloughy, necrotic edges do not hold sutures. **C** Sending her away without a catheter wastes the chance of spontaneous closure. **D** Diversion is only for irreparable fistulae. **E** Pelvic floor exercises do not close a fistula."
+    },
+    {
+      "id": "vvf-q02",
+      "stem": "A 38-year-old had a total abdominal hysterectomy for fibroids. Two weeks later she reports continuous watery vaginal leakage but still passes urine normally. The methylene blue bladder test shows wet vaginal swabs that are not blue. What is the MOST likely diagnosis?",
+      "options": [
+        "Vesicovaginal fistula",
+        "Stress urinary incontinence",
+        "Vaginal cuff infection",
+        "Ureterovaginal fistula",
+        "Vesicouterine fistula"
+      ],
+      "answer": 3,
+      "explanation": "Continuous leakage with **normal voiding**, and **wet but not blue** swabs after hysterectomy, indicate a **ureterovaginal fistula**. **A** A VVF would stain the swabs blue. **B** SUI is effort-related, not continuous. **C** Cuff infection gives a purulent discharge, not urine. **E** There is no uterus after hysterectomy."
+    },
+    {
+      "id": "vvf-q03",
+      "stem": "A 30-year-old who had two previous CS reports monthly blood in her urine since her last CS 8 months ago. She has had no vaginal periods and is continent of urine. What is the MOST likely diagnosis?",
+      "options": [
+        "Vesicouterine fistula (Youssef syndrome)",
+        "Bladder endometriosis",
+        "Asherman syndrome",
+        "Schistosomiasis haematobium",
+        "Bladder carcinoma"
+      ],
+      "answer": 0,
+      "explanation": "**Cyclical haematuria, amenorrhoea and continence** after CS is **Youssef syndrome**. **B** Endometriosis can cause cyclical haematuria, but her vaginal periods would continue. **C** Asherman gives amenorrhoea without haematuria. **D** Schistosomiasis haematuria is not cyclical. **E** Carcinoma is unlikely in a young woman with this cyclical pattern."
+    },
+    {
+      "id": "vvf-q04",
+      "stem": "Three days after a simple VVF repair, the nurse notes no urine in the catheter bag for 2 hours. The patient has lower abdominal discomfort. What is the MOST appropriate immediate action?",
+      "options": [
+        "Give IV furosemide",
+        "Remove the catheter and ask her to void",
+        "Check the tubing for kinks and gently flush the catheter with sterile saline to restore drainage",
+        "Reassure her and review in the morning",
+        "Clamp the catheter to train the bladder"
+      ],
+      "answer": 2,
+      "explanation": "A **blocked catheter** risks bladder distension and **breakdown of the repair**. Restore drainage immediately: check for kinks and gently flush (or replace per the surgeon's protocol). **A** Furosemide makes more urine against a blockage. **B** Early removal endangers the repair. **D** Delay is dangerous. **E** Clamping is contraindicated."
+    },
+    {
+      "id": "vvf-q05",
+      "stem": "According to the WHO 2018 recommendation, what is the appropriate duration of bladder catheterisation after surgical repair of a simple obstetric urinary fistula?",
+      "options": [
+        "24–48 hours",
+        "3 days",
+        "21 days",
+        "42 days",
+        "7–10 days"
+      ],
+      "answer": 4,
+      "explanation": "WHO (2018) recommends **short-term catheterisation (7–10 days)** for simple fistula repair. A trial showed 7 days was as effective as 14, with less infection and cost. **A/B** are too short for bladder healing. **C/D** are unnecessarily long and add infection and cost."
+    },
+    {
+      "id": "vvf-q06",
+      "stem": "A fistula surgeon records: 'distal edge 1 cm from the external urethral meatus, 3.5 cm diameter, dense fibrosis, previous failed repair.' Which statement is MOST accurate?",
+      "options": [
+        "This is Goh type 1ai, with an excellent prognosis",
+        "This is a Goh type 4 fistula with a poor prognosis for continence, and needs a specialist centre",
+        "This can be repaired by any medical officer at an HC IV",
+        "This fistula will close with catheter drainage alone",
+        "Classification has no prognostic value"
+      ],
+      "answer": 1,
+      "explanation": "Under 1.5 cm from the EUM is **type 4**; over 3 cm is **c**; previous repair or dense fibrosis is **ii/iii**. Urethral involvement predicts failure and **residual stress incontinence**, so this is a **complex** fistula for a specialist. **A** Wrong grading. **C** Complex fistulae need expert surgeons. **D** A large, scarred fistula won't close with a catheter. **E** Goh's system predicts closure."
+    },
+    {
+      "id": "vvf-q07",
+      "stem": "During an emergency CS for obstructed labour at an HC IV, the medical officer notices a 2 cm tear in the bladder dome after delivering the baby. What is the BEST management?",
+      "options": [
+        "Close the abdomen and refer for fistula repair in 3 months",
+        "Pack the pelvis and transfer immediately",
+        "Repair the bladder in two layers with absorbable sutures, check it is watertight, and leave a catheter for about 10–14 days",
+        "Insert a suprapubic drain only",
+        "Leave it to heal and remove the catheter after 24 hours"
+      ],
+      "answer": 2,
+      "explanation": "A recognised intra-operative bladder injury should be **repaired immediately** in layers, tested for water-tightness, and drained with a catheter (typically 10–14 days). **A/E** Leaving it guarantees a fistula or urinary peritonitis. **B** Transfer is unnecessary for a simple dome tear and adds risk. **D** A drain alone does not close the defect."
+    },
+    {
+      "id": "vvf-q08",
+      "stem": "Which history finding BEST suggests that a woman's postpartum incontinence is overflow rather than a fistula?",
+      "options": [
+        "Dribbling with a palpably distended bladder and a large residual on catheterisation",
+        "Leakage onset on day 7",
+        "Continuous leakage day and night",
+        "Faeces per vaginam",
+        "Blue dye on vaginal swabs"
+      ],
+      "answer": 0,
+      "explanation": "**Overflow incontinence** (postpartum retention) gives dribbling with a **distended bladder** and a large residual. It is treated with catheter drainage. **B/C** suggest an ischaemic fistula. **D** suggests an RVF. **E** confirms a VVF."
+    },
+    {
+      "id": "vvf-q09",
+      "stem": "A 20-year-old woman had a successful VVF repair 6 months ago. She is now 12 weeks pregnant. What is the MOST appropriate delivery plan?",
+      "options": [
+        "Vaginal delivery with an early episiotomy",
+        "Home delivery with a TBA",
+        "Induction of labour at 37 weeks",
+        "Elective caesarean section at a hospital near term",
+        "Vacuum delivery to shorten the second stage"
+      ],
+      "answer": 3,
+      "explanation": "After fistula repair, **elective CS** protects the repair from breakdown and avoids a repeat obstructed labour. **A/C/E** involve labour, which risks recurrence. **B** Home delivery is dangerous for anyone with this history."
+    },
+    {
+      "id": "vvf-q10",
+      "stem": "Which is the MOST effective health-system intervention to prevent obstetric fistula in Uganda?",
+      "options": [
+        "Routine episiotomy for all primigravidas",
+        "Prophylactic antibiotics after every vaginal delivery",
+        "Pelvic floor exercises in pregnancy",
+        "Routine vaginal packing after delivery",
+        "Skilled attendance with labour monitoring (partograph or LCG) and timely access to caesarean section"
+      ],
+      "answer": 4,
+      "explanation": "Fistula results from **unrelieved obstructed labour**. Recognising prolonged labour and **timely CS** prevents it. **A** Episiotomy does not relieve obstruction. **B** Antibiotics do not prevent pressure necrosis. **C** Pelvic floor exercises help prolapse and SUI, not fistula. **D** Packing is irrelevant."
+    },
+    {
+      "id": "vvf-q11",
+      "stem": "A woman has constant urine leakage since a prolonged labour 4 months ago. The dye test confirms a 2 cm VVF 4 cm from the EUM with clean edges. Her Hb is 7.8 g/dL and urinalysis shows nitrites. What should you do BEFORE surgery?",
+      "options": [
+        "Operate immediately to avoid further delay",
+        "Correct the anaemia and treat the UTI according to culture, then schedule the repair",
+        "Give prophylactic antibiotics for 6 weeks",
+        "Wait another 12 months",
+        "Perform urinary diversion"
+      ],
+      "answer": 1,
+      "explanation": "**Optimise her first**: treat the UTI and correct the anaemia (haematinics, or transfusion if needed), along with nutrition and counselling. Then repair. The fistula (Goh 1bi) is favourable. **A** Anaemia and infection impair healing. **C** Prolonged prophylaxis is unnecessary. **D** There is no reason to wait a year. **E** Diversion is for irreparable fistulae."
+    },
+    {
+      "id": "vvf-q12",
+      "stem": "A woman whose VVF was repaired 3 months ago has a closed fistula (negative dye test) but leaks when she coughs or stands up. The original fistula involved the bladder neck. What is the MOST likely explanation?",
+      "options": [
+        "Recurrent VVF",
+        "Ureterovaginal fistula",
+        "Residual stress urinary incontinence from damage to the urethral closing mechanism",
+        "Overflow incontinence",
+        "Detrusor overactivity from UTI"
+      ],
+      "answer": 2,
+      "explanation": "When the fistula involved the **urethra or bladder neck**, the continence mechanism is damaged, causing **residual SUI** despite closure. It is treated with pelvic floor exercises and a plication or sling procedure. **A** The dye test is negative. **B** Leakage would be continuous. **D** Overflow gives dribbling with a full bladder. **E** Urgency, not effort, would be the trigger."
+    },
+    {
+      "id": "vvf-q13",
+      "stem": "A 25-year-old reports passage of flatus and faecal material per vaginam 2 months after a vaginal delivery complicated by a perineal tear that was 'stitched in the ward'. The speculum shows a 0.5 cm opening just above the posterior fourchette. The anal sphincter is deficient anteriorly. What is the MOST appropriate plan?",
+      "options": [
+        "Immediate repair today in the labour ward",
+        "Diverting colostomy",
+        "Metronidazole only; it will heal",
+        "Vaginal packing",
+        "Delayed layered repair (including the sphincter) when the tissues are healthy, with bowel preparation and stool softeners"
+      ],
+      "answer": 4,
+      "explanation": "This is a **low RVF after an unrecognised or broken-down fourth-degree tear**. The treatment is **delayed layered repair** (convert to a fourth-degree tear, repair the rectal mucosa, **sphincter** and perineum) in theatre with good tissues, bowel preparation and softeners. **A** Repair in a ward with inflamed tissue fails. **B** A colostomy is for high, large or complex RVFs. **C/D** won't close an epithelialised fistula."
+    },
+    {
+      "id": "vvf-q14",
+      "stem": "A woman with a repaired VVF asks when she may resume sexual intercourse. What is the BEST advice?",
+      "options": [
+        "After about 3 months, once healing is confirmed at follow-up",
+        "Immediately after catheter removal",
+        "After 1 week",
+        "Never again",
+        "Only after her next delivery"
+      ],
+      "answer": 0,
+      "explanation": "Abstain for **about 3 months** to allow full healing of the bladder and vaginal repair. **B/C** are too early and risk breakdown. **D** is unnecessary and harmful to her marriage and wellbeing. **E** makes no sense, and a future delivery should be by CS."
+    },
+    {
+      "id": "vvf-q15",
+      "stem": "Which pre-operative finding would MOST strongly lead you to choose an abdominal rather than a vaginal approach for a urinary fistula repair?",
+      "options": [
+        "A 1 cm mid-vaginal VVF",
+        "A juxta-urethral fistula",
+        "Mild vaginal scarring",
+        "A vesicouterine fistula with cyclical haematuria after CS",
+        "A fistula 4 cm from the EUM"
+      ],
+      "answer": 3,
+      "explanation": "**Vesicouterine fistulae** (and high vault or ureteric fistulae) are usually repaired **abdominally**. **A/B/C/E** are all typically approached **vaginally**, the route for most obstetric fistulae."
+    }
+  ],
+  "cases": [
+    {
+      "id": "vvf-c01",
+      "title": "The fresh fistula on the postnatal ward",
+      "presentation": "A 17-year-old para 1+0 is on the postnatal ward of a regional referral hospital, day 8 after a CS for obstructed labour following 2 days of labour at home. The baby was stillborn. The catheter was removed on day 2. Today she is wet all the time and says urine 'just flows'.",
+      "steps": [
+        { "prompt": "What history do you take?", "answer": "- **Onset** of leakage (day 6–8 suggests an ischaemic slough).\n- Continuous vs effort-related.\n- Whether she **voids** at all.\n- **Faecal or flatus leakage**.\n- Fever or loin pain.\n- **Leg weakness** (foot drop).\n- Mood and support: husband, family.\n- Future pregnancy wishes.\n- HIV status and nutrition." },
+        { "prompt": "How do you examine and confirm the diagnosis?", "answer": "- Look for **ammoniacal dermatitis**.\n- Palpate the abdomen for a distended bladder (to exclude overflow).\n- **Sims speculum** in the left lateral position, with a good light: locate the fistula, size it, measure its distance from the EUM, and note slough and scarring.\n- **Dye test**: methylene blue via catheter with a vaginal swab.\n- **Rectal exam** for RVF.\n- Check the foot for dorsiflexion." },
+        { "prompt": "You find a 1.5 cm sloughy VVF 3 cm from the EUM. What is your management now?", "answer": "1. **Re-insert a Foley 16–18 F on free drainage** (never clamp).\n2. Oral fluids **4–5 L a day**; chart input and output.\n3. Sitz baths and zinc oxide cream.\n4. Gentle removal of slough.\n5. Urinalysis and culture, and treat UTI.\n6. Hb, then haematinics.\n7. Nutrition.\n8. Physiotherapy.\n9. **Counselling**: this is common, treatable, and not her fault.\n10. Re-examine weekly for **up to 4–6 weeks**." },
+        { "prompt": "At 5 weeks the fistula is 1 cm with clean edges and has not closed. What next?", "answer": "**Refer to the fistula surgeon or regional centre** (or the next camp) for repair now that the tissues are clean. Classify it (e.g. Goh 2ai). Optimise her Hb, treat any UTI, and give single-dose antibiotic prophylaxis at spinal anaesthesia. Plan a vaginal layered tension-free repair with a dye check." },
+        { "prompt": "What post-operative and discharge instructions will you give?", "answer": "- Catheter for **7–10 days** (simple fistula), checked hourly for flow.\n- Oral fluids of 4–5 L a day.\n- Early ambulation.\n- After removal: timed voiding and pelvic floor exercises.\n- **No intercourse for about 3 months**; no heavy lifting.\n- **Family planning**.\n- **Elective CS** in any future pregnancy.\n- Follow-up at 3 and 6 months.\n- Reintegration support." }
+      ],
+      "takeaway": "A fresh fistula is an opportunity: catheterise continuously with high fluids and good local care. Many small ones close or become ideal for repair. The catheter is the patient."
+    },
+    {
+      "id": "vvf-c02",
+      "title": "Leaking after hysterectomy",
+      "presentation": "A 44-year-old had an emergency peripartum hysterectomy for uterine rupture at a general hospital. Ten days after discharge she returns with continuous clear vaginal leakage, but she says she still 'passes urine like before'. She also has right loin ache.",
+      "steps": [
+        { "prompt": "What is your leading differential, and why?", "answer": "**Right ureterovaginal fistula**: a ureteric injury at hysterectomy (the ureter lies close to the uterine artery and cardinal ligament). **Normal voiding** means the left ureter still fills the bladder. The differential includes a **VVF** (vault) or a combined fistula. Loin ache suggests partial obstruction or hydronephrosis." },
+        { "prompt": "Which bedside test helps, and what are the possible results?", "answer": "The **three-swab (tampon) test** with methylene blue in the bladder:\n- **Wet but not blue**: ureteric.\n- **Blue**: VVF.\n\nA **double-dye test** (oral phenazopyridine plus bladder methylene blue) shows orange (ureteric), blue (bladder), or both." },
+        { "prompt": "What investigations follow?", "answer": "- **Renal ultrasound** (hydronephrosis, urinoma).\n- Urea, creatinine and electrolytes.\n- Urinalysis and culture.\n- **IVU or CT urography** to localise the leak and assess the other kidney.\n- Cystoscopy with retrograde pyelography at a urology or referral centre." },
+        { "prompt": "How is it managed?", "answer": "**Refer to urology / the fistula centre.**\n- Attempt a **retrograde or antegrade ureteric stent (JJ)**. Small injuries may heal over 6 weeks.\n- If obstructed and a stent fails: **percutaneous nephrostomy**, then a **ureteric reimplantation** (ureteroneocystostomy, with a psoas hitch or Boari flap if needed), usually by the **abdominal route**.\n- Treat infection and protect renal function." },
+        { "prompt": "How could this have been prevented?", "answer": "- Identify the ureters during difficult hysterectomy (palpate or visualise, especially near the uterine vessels and cardinal ligament).\n- Clamp close to the uterus.\n- Inspect for injury before closing.\n- Senior help early.\n- Where suspected, give IV methylene blue or indigo carmine, do cystoscopy, and repair immediately if found." }
+      ],
+      "takeaway": "Continuous leakage with normal voiding after pelvic surgery means ureterovaginal fistula until proven otherwise. The dye test is negative, the swabs are wet. It is a urology problem."
+    },
+    {
+      "id": "vvf-c03",
+      "title": "Counselling the rejected woman",
+      "presentation": "A 26-year-old woman from Teso is brought by a community health worker to a fistula outreach camp. She has leaked urine and stool for 4 years since a 3-day labour that ended in a stillbirth. Her husband left her. She walks with a high-stepping gait and has not menstruated since.",
+      "steps": [
+        { "prompt": "What components of the obstructed labour injury complex should you look for?", "answer": "- VVF and **RVF** (combined).\n- Urethral involvement.\n- Vaginal stenosis.\n- **Foot drop** (high-stepping gait).\n- Amenorrhoea: hypothalamic, or Sheehan's if there was PPH.\n- Dermatitis.\n- Bladder stones.\n- Malnutrition.\n- **Depression**, suicidal thoughts, social exclusion." },
+        { "prompt": "Examination shows a 4 cm juxta-urethral VVF with dense fibrosis and a 2 cm mid-rectovaginal fistula. How do you classify it and where should she be treated?", "answer": "A **complex combined fistula**. It is **Goh type 4 (or 3), c, ii** (under about 2.5 cm from the EUM, over 3 cm, dense fibrosis), plus an RVF. She needs a **specialist fistula centre** (e.g. a regional or national referral hospital, or TERREWODE / a partner centre), not a general HC IV." },
+        { "prompt": "What pre-operative preparation is needed?", "answer": "- Nutrition and correction of anaemia.\n- Treat UTI.\n- Deworming, and praziquantel if schistosomiasis is endemic or haematuria is present.\n- **Physiotherapy** for foot drop.\n- **Bowel preparation**, and possibly a **diverting colostomy** for the RVF first.\n- **Psychosocial counselling**.\n- Consent covering realistic outcomes: closure is likely, but continence is less certain; there may be more than one operation; urinary diversion is a last resort." },
+        { "prompt": "How do you counsel her about her future?", "answer": "- **Empathy**: it is not her fault or a curse.\n- Treatment is free.\n- Residual stress incontinence is possible, and further procedures (sling, plication) exist.\n- Abstain from intercourse for about 3 months after repair.\n- If she conceives, she needs **elective CS** at a hospital.\n- Contraception.\n- **Reintegration** programmes: skills and livelihood, peer support, and family mediation where she wishes." }
+      ],
+      "takeaway": "Fistula is a social catastrophe as much as a surgical one. Treat the whole woman: the fistulae, the foot drop, nutrition, mood and reintegration, and route complex cases to specialist centres."
+    }
+  ],
+  "references": [
+    { "title": "WHO recommendation on duration of bladder catheterization after surgical repair of simple obstetric urinary fistula", "source": "World Health Organization", "year": 2018, "url": "https://www.who.int/publications/i/item/9789241550192" },
+    { "title": "Improving care for women with obstetric fistula: new WHO recommendation on duration of bladder catheterisation after the surgical repair of a simple obstetric urinary fistula", "source": "BJOG", "year": 2018, "url": "https://obgyn.onlinelibrary.wiley.com/doi/10.1111/1471-0528.15276" },
+    { "title": "Obstetric fistula: guiding principles for clinical management and programme development", "source": "WHO Regional Office for Africa", "year": 2006, "url": "https://www.afro.who.int/publications/obstetric-fistula-guiding-principles-clinical-management-and-programme-development" },
+    { "title": "FIGO Fistula Surgery Training Manual", "source": "FIGO", "year": 2022, "url": "https://www.figo.org/figo-resources/obstetric-fistula/training/manual" },
+    { "title": "Manual of Obstetric Fistula Surgery, Chapter 1B: Uro-genital fistulas: causes, classification, early management", "source": "GLOWM", "url": "https://www.glowm.com/pdf/Manual%20of%20Obstetric%20Fistual%20Surgery%20chapter%201b.pdf" },
+    { "title": "Comparison of two classification systems for vesicovaginal fistula (Goh vs Waaldijk)", "source": "International Urogynecology Journal", "year": 2012, "url": "https://link.springer.com/article/10.1007/s00192-012-1671-9" },
+    { "title": "Surgical classification of obstetric fistulas (Waaldijk)", "source": "International Journal of Gynecology & Obstetrics", "year": 1995, "url": "https://pubmed.ncbi.nlm.nih.gov/7649321/" },
+    { "title": "Vesicovaginal Fistula", "source": "StatPearls, NCBI Bookshelf", "url": "https://www.ncbi.nlm.nih.gov/books/NBK564389/" },
+    { "title": "Twelve Years of Managing Female Urogenital Fistula in Uganda: Characteristics, Repair Outcomes, and Predictors for Success in a Multicentre Cohort Study", "source": "International Urogynecology Journal", "url": "https://link.springer.com/article/10.1007/s00192-026-06798-y" },
+    { "title": "Obstetric fistulas in Uganda: scoping review using a determinant of health approach", "source": "BMC Pregnancy and Childbirth", "year": 2020, "url": "https://link.springer.com/article/10.1186/s12884-020-02951-7" },
+    { "title": "Post-effects of obstetric fistula in Uganda: a case study of fistula survivors in Kitovu Mission Hospital (Masaka)", "source": "BMC Public Health", "year": 2019, "url": "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-019-7023-7" },
+    { "title": "Obstetric Fistula (Essential Surgery, Disease Control Priorities)", "source": "NCBI Bookshelf", "url": "https://www.ncbi.nlm.nih.gov/books/NBK333495/" },
+    { "title": "The Management of Iatrogenic Ureterovaginal Fistula in a Resource-Limited Setting: A 12-Year Experience at Four Fistula Surgery Centers in Uganda", "source": "PMC", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11747545/" },
+    { "title": "10 facts on obstetric fistula", "source": "World Health Organization", "url": "https://www.who.int/news-room/facts-in-pictures/detail/10-facts-on-obstetric-fistula" },
+    { "title": "Uganda: Fistula Foundation country programme", "source": "Fistula Foundation", "url": "https://fistulafoundation.org/country/uganda/" }
+  ]
+}

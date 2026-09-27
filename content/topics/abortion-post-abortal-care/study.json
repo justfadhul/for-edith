@@ -1,0 +1,486 @@
+{
+  "slug": "abortion-post-abortal-care",
+  "flashcards": [
+    {
+      "id": "ab-f01",
+      "front": "Define abortion as used in Ugandan clinical practice.",
+      "back": "Loss or termination of pregnancy **before fetal viability**, taken as **before 28 weeks** in Uganda (WHO uses <22 weeks or <500 g for international comparison)."
+    },
+    {
+      "id": "ab-f02",
+      "front": "Threatened vs inevitable abortion: the single distinguishing sign?",
+      "back": "The **cervical os**: **closed** in threatened (pregnancy may continue), **open** in inevitable (pregnancy cannot be saved)."
+    },
+    {
+      "id": "ab-f03",
+      "front": "Features of incomplete abortion",
+      "back": "Heavy bleeding, cramping, **open os**, products may be seen in the os, **uterus smaller than dates**, some tissue already passed."
+    },
+    {
+      "id": "ab-f04",
+      "front": "Features of missed abortion",
+      "back": "Dead embryo/fetus retained; loss of pregnancy symptoms, brownish spotting or none, **closed os**, **uterus smaller than dates**; scan: CRL ≥7 mm without heartbeat or MSD ≥25 mm without embryo."
+    },
+    {
+      "id": "ab-f05",
+      "front": "What is cervical shock and its treatment?",
+      "back": "Vagal reflex from products of conception distending the cervical canal → **bradycardia + hypotension out of proportion to blood loss**. Treat by **removing the POC from the os with sponge forceps**, lie flat, IV fluids."
+    },
+    {
+      "id": "ab-f06",
+      "front": "WHO 2022 misoprostol regimen for incomplete abortion, uterine size <14 weeks",
+      "back": "**600 µg orally** single dose **or 400 µg sublingually** single dose. (MVA is the alternative.)"
+    },
+    {
+      "id": "ab-f07",
+      "front": "WHO misoprostol regimen for incomplete abortion ≥14 weeks' uterine size",
+      "back": "**400 µg sublingual, vaginal or buccal every 3 hours** until expulsion (caution/lower doses with a uterine scar)."
+    },
+    {
+      "id": "ab-f08",
+      "front": "WHO preferred regimen for missed abortion <14 weeks",
+      "back": "**Mifepristone 200 mg orally**, then 1–2 days later **misoprostol 800 µg** vaginal/sublingual/buccal. Misoprostol alone 800 µg is the alternative."
+    },
+    {
+      "id": "ab-f09",
+      "front": "Septic abortion: first-line IV antibiotic trio (WHO/Uganda)",
+      "back": "**Ampicillin 2 g IV 6-hourly + gentamicin 5 mg/kg IV 24-hourly + metronidazole 500 mg IV 8-hourly** until fever-free 48 h, then oral to complete 7–14 days."
+    },
+    {
+      "id": "ab-f10",
+      "front": "Why must a septic abortion be evacuated promptly rather than after days of antibiotics?",
+      "back": "Retained necrotic infected tissue is the **source**; antibiotics cannot sterilise it. Evacuation = **source control**. Start antibiotics first, then evacuate within hours."
+    },
+    {
+      "id": "ab-f11",
+      "front": "Organism causing haemolysis, bronze skin, gas in tissues and renal failure after unsafe abortion",
+      "back": "***Clostridium perfringens*** (gas gangrene). May need hysterectomy."
+    },
+    {
+      "id": "ab-f12",
+      "front": "Two extra prophylactic measures after an unsafe (instrumented) abortion",
+      "back": "**Tetanus toxoid 0.5 mL IM** (± tetanus immunoglobulin 250 IU if unimmunised) and **anti-D** if Rh-negative (where available)."
+    },
+    {
+      "id": "ab-f13",
+      "front": "Name the 5 elements of post-abortion care (PAC)",
+      "back": "1) Community & service-provider partnerships 2) Counselling 3) Treatment of incomplete/unsafe abortion & complications 4) Contraceptive/FP services 5) Reproductive & other health services (HIV, STI, cervical screening, GBV)."
+    },
+    {
+      "id": "ab-f14",
+      "front": "How soon can ovulation return after an abortion?",
+      "back": "As early as **8–10 days** – so contraception should be started **before discharge**."
+    },
+    {
+      "id": "ab-f15",
+      "front": "Can an IUD be inserted immediately after MVA for incomplete abortion?",
+      "back": "**Yes** after first-trimester abortion (MEC 1); MEC 2 after second trimester; **NOT after septic abortion (MEC 4)** – delay until infection resolved."
+    },
+    {
+      "id": "ab-f16",
+      "front": "Why is D&C (sharp curettage) no longer recommended?",
+      "back": "WHO: replace with vacuum aspiration. D&C has more **blood loss, pain, perforation, Asherman syndrome**, usually needs GA/theatre. MVA is safer and can be done by midwives."
+    },
+    {
+      "id": "ab-f17",
+      "front": "Maximum dose of lidocaine for paracervical block (plain)",
+      "back": "**4.5 mg/kg** (about 200 mg = **20 mL of 1%** for most adults). Aspirate before injecting."
+    },
+    {
+      "id": "ab-f18",
+      "front": "Bleeding in early pregnancy, closed os, EMPTY uterus on scan, no previous IUP seen – diagnosis?",
+      "back": "**Pregnancy of unknown location** – could be complete miscarriage, very early IUP or **ectopic**. Serial hCG ± repeat scan; safety-net advice."
+    },
+    {
+      "id": "ab-f19",
+      "front": "Why is oxytocin a poor drug for first-trimester uterine evacuation?",
+      "back": "The uterus has **few oxytocin receptors before ~20 weeks**; prostaglandins (misoprostol) act regardless of gestation."
+    },
+    {
+      "id": "ab-f20",
+      "front": "Is PAC legal in Uganda?",
+      "back": "**Yes.** Uganda's abortion law is restrictive and contested, but **post-abortion care is legal, lifesaving and a patient right** – never withhold or delay it, keep confidentiality."
+    },
+    {
+      "id": "ab-f21",
+      "front": "Uterotonic options for heavy bleeding in incomplete abortion while awaiting evacuation",
+      "back": "**Ergometrine 0.2 mg IM** (avoid in hypertension) or **misoprostol 400 µg oral/SL**; remove POC from os; resuscitate."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "ab-q01",
+      "stem": "A 23-year-old P0+1 at 9 weeks presents to a HC IV with light bleeding and mild cramps. Pulse 84, BP 118/74, afebrile. Speculum: closed os, minimal blood. Ultrasound: intrauterine gestational sac with an embryo, CRL 22 mm, heartbeat present. What is the MOST appropriate management?",
+      "options": [
+        "Reassurance, paracetamol, return precautions and continue ANC",
+        "Manual vacuum aspiration",
+        "Misoprostol 400 µg sublingually",
+        "Admit for strict bed rest and progesterone injections",
+        "Ergometrine 0.2 mg IM"
+      ],
+      "answer": 0,
+      "explanation": "This is a **threatened abortion** (closed os, live IUP). Correct: **reassure, analgesia (paracetamol), safety-net advice**, continue ANC; most continue normally. **B/C** would end a live pregnancy – absolutely wrong. **D**: strict bed rest and routine progestogens have no proven benefit in threatened miscarriage and hospital bed rest carries VTE and cost burdens. **E**: ergometrine contracts the uterus and could provoke expulsion; it has no role with a live fetus.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ab-q02",
+      "stem": "A 28-year-old P2+0 at 11 weeks by LMP has had heavy bleeding with clots for 6 hours. Pulse 48, BP 80/50, pale and sweaty. Estimated visible blood loss is moderate. On speculum, tissue is seen protruding through the os. What is the MOST appropriate immediate action?",
+      "options": [
+        "Give atropine and wait for the pulse to recover",
+        "Give misoprostol 600 µg orally and observe",
+        "Transfer immediately to theatre for laparotomy",
+        "Remove the products from the os with sponge forceps while resuscitating",
+        "Perform an urgent ultrasound scan before anything else"
+      ],
+      "answer": 3,
+      "explanation": "Bradycardia with hypotension out of proportion to bleeding and tissue at the os = **cervical shock** (vagal). **Remove the POC with sponge forceps** – usually reverses it within minutes – together with IV fluids and lying flat. **A**: atropine may be used if bradycardia persists but does not treat the cause. **C**: no evidence of intraperitoneal bleeding. **B**: misoprostol takes hours; the os is already open with tissue sitting there. **E**: scanning delays a lifesaving 30-second manoeuvre.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ab-q03",
+      "stem": "A 19-year-old student presents 3 days after 'a procedure' at a private clinic for an unwanted pregnancy of 10 weeks. Temperature 39.2 °C, pulse 124, BP 88/56, offensive vaginal discharge, tender bulky uterus, open os. Abdomen is soft apart from suprapubic tenderness. After starting IV fluids, what is the BEST next sequence?",
+      "options": [
+        "Oral amoxicillin and metronidazole, review in 1 week",
+        "IV ampicillin, gentamicin and metronidazole now, then MVA within hours once antibiotics are running",
+        "IV antibiotics for 48–72 hours until afebrile, then MVA",
+        "Immediate MVA before any antibiotics to remove the source",
+        "Laparotomy and hysterectomy"
+      ],
+      "answer": 1,
+      "explanation": "Septic abortion with septic shock: **IV broad-spectrum antibiotics immediately, then prompt evacuation (source control) within hours**. **A**: oral outpatient therapy is dangerous in septic shock. **C**: waiting days leaves infected necrotic tissue in place – a classic audit failure in Uganda. **D**: evacuating before antibiotics increases bacteraemia; antibiotics take minutes to start. **E**: laparotomy/hysterectomy is for peritonitis, perforation, necrotic uterus or failure to respond – not first-line here.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ab-q04",
+      "stem": "A 32-year-old P3+0 had MVA for septic incomplete abortion yesterday and is on ampicillin, gentamicin and metronidazole. Today she has worsening abdominal distension, absent bowel sounds, generalised rebound tenderness and the MVA aspirate is noted to have smelt faeculent. Erect CXR shows gas under the diaphragm. What is the MOST appropriate management?",
+      "options": [
+        "Continue antibiotics and repeat MVA",
+        "Add IV ceftriaxone and observe 48 hours",
+        "Nasogastric tube and conservative management of ileus",
+        "Refer for CT scan before deciding",
+        "Resuscitate and perform laparotomy"
+      ],
+      "answer": 4,
+      "explanation": "Peritonitis + free gas + faeculent aspirate after an unsafe procedure = **uterine perforation with bowel injury** → **resuscitate and laparotomy** (with surgical team; may need bowel repair/stoma ± hysterectomy). **A/B/C** treat symptoms while bowel contents soil the peritoneum. **D**: CT is unnecessary and unavailable in most units; the diagnosis is clinical + X-ray, and delay is lethal.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ab-q05",
+      "stem": "A 25-year-old at 8 weeks' uterine size has an incomplete abortion. She is stable (pulse 88, BP 120/76, afebrile, Hb 11.2 g/dL), bleeding is moderate, and she lives 2 km away with a phone. The HC III has misoprostol but the only MVA-trained midwife is on leave. What is the MOST appropriate treatment?",
+      "options": [
+        "Refer to the regional hospital for D&C",
+        "Misoprostol 400 µg sublingually every 3 hours until expulsion",
+        "Misoprostol 600 µg orally as a single dose with review in 7–14 days",
+        "Oxytocin 20 IU infusion",
+        "Expectant management with no follow-up"
+      ],
+      "answer": 2,
+      "explanation": "Stable, non-septic incomplete abortion <14 weeks: **misoprostol 600 µg PO single dose** (or 400 µg SL) is WHO-recommended with ~90–96% success; review at 7–14 days. **A**: D&C is obsolete and referral is unnecessary. **B**: the 3-hourly repeat regimen is for ≥14 weeks' uterine size. **D**: oxytocin works poorly in the first trimester (few receptors). **E**: expectant management is an option but must include follow-up and safety-netting.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ab-q06",
+      "stem": "A 30-year-old P2+1 at 17 weeks by dates presents with heavy bleeding; fetus was expelled at home 2 hours ago. Uterus is 16-week size, os open, placenta not delivered. Pulse 100, BP 110/70, afebrile. Which is the MOST appropriate uterotonic regimen to complete the evacuation?",
+      "options": [
+        "Misoprostol 600 µg orally single dose",
+        "Misoprostol 25 µg vaginally 6-hourly",
+        "Misoprostol 400 µg sublingually every 3 hours until the placenta is expelled, then check for retained tissue",
+        "Mifepristone 200 mg and discharge",
+        "Ergometrine 0.5 mg IV every 15 minutes"
+      ],
+      "answer": 2,
+      "explanation": "Uterine size ≥14 weeks: **misoprostol 400 µg SL/PV/buccal every 3 hours** until expulsion, then inspect placenta and remove remaining tissue. **A**: single-dose 600 µg is for <14 weeks. **B**: 25 µg is a third-trimester labour induction dose – far too low here. **D**: mifepristone alone is slow and discharge with a retained placenta and heavy bleeding is unsafe. **E**: wrong dose/route; ergometrine standard is 0.2 mg IM/IV and it can trap the placenta.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ab-q07",
+      "stem": "A 22-year-old presents with vaginal bleeding at 7 weeks by LMP. Urine hCG positive. The bleeding is scanty and dark, and she reports left iliac fossa pain that started 2 days before the bleeding. Speculum: closed os. Pulse 104. What is the MOST important diagnosis to exclude first?",
+      "options": [
+        "Ectopic pregnancy",
+        "Complete abortion",
+        "Threatened abortion",
+        "Cervical ectropion",
+        "Molar pregnancy"
+      ],
+      "answer": 0,
+      "explanation": "Unilateral pain **preceding** scanty dark bleeding, closed os and tachycardia = **ectopic pregnancy until proven otherwise** (the fatal miss). **B/C** are possible but less dangerous and the history fits ectopic better. **D**: ectropion causes painless contact bleeding. **E**: molar pregnancy usually gives uterus larger than dates and hyperemesis, not unilateral pain.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ab-q08",
+      "stem": "A woman had MVA for first-trimester incomplete abortion. She is afebrile, not septic, and wishes to avoid pregnancy for at least 3 years. Which contraceptive option is MOST appropriate to offer before she leaves the procedure room?",
+      "options": [
+        "Advise her to wait 6 weeks before starting any method",
+        "Emergency contraception only",
+        "Fertility-awareness method starting now",
+        "Tubal ligation immediately without prior counselling",
+        "Copper IUD inserted immediately after the MVA"
+      ],
+      "answer": 4,
+      "explanation": "After uncomplicated first-trimester abortion, **immediate IUD insertion is MEC category 1** and ideal for long-acting protection. **A**: ovulation may return within 8–10 days – waiting 6 weeks exposes her to repeat pregnancy. **C**: fertility-awareness methods are unreliable until cycles are regular. **D**: sterilisation requires prior informed, unpressured counselling – not decided in an emergency. **B**: EC is not ongoing contraception.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ab-q09",
+      "stem": "A 26-year-old had septic incomplete abortion evacuated today. She wants an IUD. What is the MOST appropriate advice?",
+      "options": [
+        "Insert a copper IUD now to reduce future infection",
+        "Insert an LNG-IUS now",
+        "IUDs are contraindicated for life after septic abortion",
+        "Defer IUD until infection has resolved; offer an implant or injectable now",
+        "Only condoms are allowed for 6 months"
+      ],
+      "answer": 3,
+      "explanation": "IUD after **septic abortion is MEC 4** – defer until infection resolves; meanwhile **hormonal methods (implant, DMPA, COC) can start immediately (MEC 1)**. **A/B** risk worsening pelvic infection. **C**: the restriction is temporary. **E**: all hormonal methods are safe now.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ab-q10",
+      "stem": "A 34-year-old G4P3 at 12 weeks is found on scan to have an embryo with CRL 30 mm and no cardiac activity. She has only brown spotting and a closed os. She is stable and requests medical management. Mifepristone is available. Which regimen is BEST?",
+      "options": [
+        "Misoprostol 600 µg orally once",
+        "Mifepristone 200 mg orally, then misoprostol 800 µg vaginally/sublingually/buccally 1–2 days later",
+        "Misoprostol 25 µg vaginally 4-hourly",
+        "Oxytocin infusion",
+        "Ergometrine 0.2 mg IM daily for 3 days"
+      ],
+      "answer": 1,
+      "explanation": "Missed abortion <14 weeks: WHO recommends **mifepristone 200 mg then misoprostol 800 µg 1–2 days later** (more effective than misoprostol alone). **A**: 600 µg single dose is the incomplete-abortion regimen; missed abortion needs higher dose as the os is closed and tissue fully attached. **C**: third-trimester induction dose. **D/E**: ineffective in early pregnancy.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "ab-q11",
+      "stem": "A 21-year-old presents with fever 38.8 °C 4 days after passing tissue at home at 9 weeks. The clinician finds a positive malaria RDT and plans to discharge her on artemether-lumefantrine. What is the MOST important omission?",
+      "options": [
+        "Checking her HIV status",
+        "Speculum and bimanual examination for septic abortion",
+        "Giving iron supplements",
+        "Repeating the malaria test by microscopy",
+        "Checking her blood group"
+      ],
+      "answer": 1,
+      "explanation": "Any fever after pregnancy loss is **septic abortion until proven otherwise** – examine the pelvis (offensive discharge, open os, tender uterus). Malaria can co-exist. **A/C/E** are good PAC components but not the dangerous omission. **D**: repeating the malaria test does not address the likely uterine source.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ab-q12",
+      "stem": "A 29-year-old P1+0 is Rhesus D-negative and has MVA for incomplete abortion at 11 weeks. Anti-D is available. What should you do?",
+      "options": [
+        "No anti-D is ever needed before 12 weeks",
+        "Give anti-D only in the next pregnancy",
+        "Give anti-D 1500 IU IV only if Kleihauer is positive",
+        "Give anti-D 250 IU IM within 72 hours",
+        "Give anti-D only if the partner is Rh-positive and she consents to paternity testing"
+      ],
+      "answer": 3,
+      "explanation": "Surgical evacuation in an Rh-negative woman: **anti-D 250 IU IM within 72 h** (before 20 weeks). WHO says anti-D is not needed for *medical* abortion <12 weeks, but instrumentation increases fetomaternal haemorrhage. **A** overgeneralises. **C**: Kleihauer is used after 20 weeks to size the dose. **B**: prophylaxis must be given now. **E**: impractical and not standard – treat all Rh-negative women.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "ab-q13",
+      "stem": "At an HC III, a 20-year-old with septic incomplete abortion at 10 weeks has pulse 130, BP 80/40, confusion and oliguria. The facility has no theatre, blood or IV gentamicin, but has IV fluids, ceftriaxone and metronidazole. What is the BEST action?",
+      "options": [
+        "Start IV fluids, give IV ceftriaxone and metronidazole, remove POC from os, and refer urgently with an escort",
+        "Perform MVA at the HC III immediately and keep her there",
+        "Refer immediately without starting any treatment to save time",
+        "Give oral amoxicillin and observe overnight",
+        "Give misoprostol 600 µg and send home"
+      ],
+      "answer": 0,
+      "explanation": "Septic shock with organ dysfunction needs a higher-level facility, but **stabilise and start antibiotics before transfer**: IV fluids, first-dose antibiotics, remove POC from the os, then urgent escorted referral with a note. **B**: she needs HDU care, blood and theatre backup. **C**: untreated transfer is a common preventable cause of death. **D/E** are dangerously inadequate.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ab-q14",
+      "stem": "Which finding on history/examination MOST strongly suggests that an incomplete abortion was induced with instrumentation?",
+      "options": [
+        "Uterus smaller than dates",
+        "Passage of clots",
+        "Tenaculum marks and a laceration on the anterior lip of the cervix",
+        "Lower abdominal cramping",
+        "Positive urine hCG"
+      ],
+      "answer": 2,
+      "explanation": "**Tenaculum marks/cervical lacerations** (and foreign bodies, vaginal burns) indicate instrumentation – raising risk of sepsis, perforation and tetanus. **A/B/D/E** occur in spontaneous miscarriage too.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ab-q15",
+      "stem": "A 24-year-old at 10 weeks' uterine size with incomplete abortion receives misoprostol 600 µg orally. At review on day 10 she feels well, bleeding is light, she is afebrile, and ultrasound shows a 12 mm heterogeneous endometrial echo. What is the MOST appropriate management?",
+      "options": [
+        "Immediate MVA because of retained products",
+        "Repeat misoprostol 600 µg and review in 1 week",
+        "Order serum hCG daily for a week",
+        "Start IV antibiotics",
+        "Reassure – treatment successful; no further intervention; confirm contraception"
+      ],
+      "answer": 4,
+      "explanation": "Success after misoprostol is judged **clinically**: she is well with light bleeding and a thin (<15 mm) echo is expected – blood/decidua, not necessarily retained products. **A/B** overtreat and expose her to unnecessary procedures. **D**: no signs of infection. **C**: unnecessary; hCG testing at 3–4 weeks only if symptoms persist.",
+      "difficulty": "advanced"
+    }
+  ],
+  "cases": [
+    {
+      "id": "ab-c01",
+      "title": "Heavy bleeding at 10 weeks at a HC IV",
+      "presentation": "A 27-year-old P2+0 is brought to a HC IV in Mukono at 8 pm with heavy per vaginal bleeding and clots for 5 hours at about 10 weeks by LMP. She has soaked 4 pads in the last hour and feels dizzy.",
+      "steps": [
+        {
+          "prompt": "What are your immediate priorities?",
+          "answer": "Call for help; **ABC**; lie flat, legs raised, oxygen; **2 large-bore IV cannulae**; draw blood for **Hb, grouping & crossmatch, malaria test, HIV/syphilis**; **1 L warmed Ringer's/NS** rapidly; vitals every 15 min; catheter for urine output."
+        },
+        {
+          "prompt": "What focused history do you take while resuscitating?",
+          "answer": "LMP and early scan; amount of bleeding and **tissue passed**; pain character (crampy vs unilateral/shoulder-tip); fever/foul discharge; **any interference** (asked privately, non-judgementally); previous CS; contraception and pregnancy intention; Rh group; HIV status; tetanus immunisation."
+        },
+        {
+          "prompt": "Pulse 118, BP 92/60, afebrile, Hb (HemoCue) 8.1 g/dL. Speculum: open os with tissue in the canal; uterus 8-week size, non-tender, no adnexal masses. What is the diagnosis and the immediate step?",
+          "answer": "**Incomplete abortion with haemorrhagic shock (compensating)**, no sepsis. **Remove POC from the os with sponge forceps** immediately; give **misoprostol 400 µg SL** or **ergometrine 0.2 mg IM** (if normotensive) to contract the uterus; continue fluids; crossmatch 1–2 units."
+        },
+        {
+          "prompt": "What definitive treatment and supporting care?",
+          "answer": "**MVA** once resuscitation is under way: **ibuprofen 400–800 mg PO** (if able to swallow) and **paracervical block (lidocaine 1%, ≤20 mL)**; appropriate cannula; examine the tissue (villi confirm IUP). Transfuse if Hb <7 or still unstable. **Anti-D** if Rh-negative. Oral iron."
+        },
+        {
+          "prompt": "Before discharge, what does the complete PAC package include?",
+          "answer": "**Counselling** (what happened, danger signs, fertility returns within 2 weeks); **contraception chosen and started** (e.g. implant or immediate IUD – MEC 1); **HIV test and linkage**, syphilis screen; iron; **follow-up in 1–2 weeks**; community link (VHT)."
+        }
+      ],
+      "takeaway": "Resuscitate and clear the os first; MVA is definitive; PAC is not complete until she leaves with contraception and follow-up."
+    },
+    {
+      "id": "ab-c02",
+      "title": "Fever after an unsafe abortion",
+      "presentation": "An 18-year-old S.4 student is brought by her aunt to a regional referral hospital with fever, lower abdominal pain and foul-smelling discharge 4 days after she 'removed a pregnancy' of about 12 weeks with the help of a local herbalist.",
+      "steps": [
+        {
+          "prompt": "What history is most important and how will you ask it?",
+          "answer": "Alone with her, with privacy and assurance of confidentiality: what was done (instruments, sticks, herbs, drugs – e.g. chloroquine, pessaries), when, bleeding, tissue passed, pain (worsening/generalised?), vomiting, diarrhoea, urine output, jaundice. Tetanus vaccination. LMP, contraception, sexual history (consent – consider defilement; she may be a minor; safeguarding)."
+        },
+        {
+          "prompt": "Temp 39.5 °C, pulse 132, BP 84/50, RR 28, cold extremities, jaundiced. Abdomen: distended, generalised guarding, absent bowel sounds. Speculum: offensive discharge, open os, a laceration of the cervix. What is your assessment?",
+          "answer": "**Septic abortion with septic shock**, probable **uterine perforation with peritonitis** (possible bowel injury); jaundice suggests **haemolysis (clostridial?)** or hepatic dysfunction/sepsis. Differentials for the jaundice: severe malaria, drug toxicity."
+        },
+        {
+          "prompt": "What investigations?",
+          "answer": "FBC, **grouping/crossmatch**, blood culture, HVS, **urea/creatinine/electrolytes**, **bilirubin/LFTs**, **clotting (or bedside clotting time)**, malaria test, HIV, urinalysis, **erect CXR (free gas)**, abdominal/pelvic ultrasound (retained POC, free fluid, collections)."
+        },
+        {
+          "prompt": "Outline management step by step.",
+          "answer": "1) Resuscitate: oxygen, 2 IV lines, crystalloid boluses, catheter, fluid chart. 2) **IV ampicillin 2 g 6-hourly + gentamicin 5 mg/kg daily (adjust for renal function) + metronidazole 500 mg 8-hourly** (or ceftriaxone + metronidazole) immediately. 3) **Tetanus toxoid 0.5 mL IM + TIG 250 IU**. 4) Blood products for DIC. 5) **Laparotomy** (peritonitis + suspected perforation) with surgical team: repair perforation/bowel, peritoneal lavage, evacuate uterus; **hysterectomy** if uterus necrotic/gangrenous. 6) HDU/ICU postoperatively."
+        },
+        {
+          "prompt": "What complications should you anticipate post-operatively and what follow-up?",
+          "answer": "Septic shock, DIC, AKI (sepsis, haemolysis, gentamicin), ARDS, wound sepsis, pelvic abscess, tetanus, death. Later: infertility, chronic pelvic pain. Follow-up: psychosocial support, **contraception** (implant/DMPA now; no IUD while septic), HIV/STI care, school re-entry support, safeguarding referral if a minor."
+        }
+      ],
+      "takeaway": "Unsafe abortion kills through sepsis and hidden visceral injury – antibiotics, source control (evacuation or laparotomy) and tetanus cover, delivered without judgement."
+    },
+    {
+      "id": "ab-c03",
+      "title": "Painless bleeding: is it really a miscarriage?",
+      "presentation": "A 31-year-old G3P2 at 7 weeks by LMP presents to Mengo casualty with 3 days of dark spotting. She says she passed 'something' yesterday. Pregnancy test positive. She has mild left lower abdominal discomfort.",
+      "steps": [
+        {
+          "prompt": "What are the possibilities and what examination findings would help?",
+          "answer": "Complete, incomplete, threatened or missed miscarriage; **ectopic pregnancy**; molar pregnancy. Examine: vitals (tachycardia, postural drop), abdominal tenderness/guarding, speculum (os open/closed, tissue), bimanual (cervical excitation, adnexal mass, uterine size)."
+        },
+        {
+          "prompt": "Vitals normal. Os closed, minimal old blood, uterus bulky, mild left adnexal tenderness, no mass felt. TVUS: empty uterus, endometrium 9 mm, no adnexal mass, no free fluid. No previous scan. Diagnosis?",
+          "answer": "**Pregnancy of unknown location (PUL)** – NOT 'complete abortion', because an IUP was never documented and she has adnexal tenderness. She did not bring the tissue."
+        },
+        {
+          "prompt": "What is your next investigation plan?",
+          "answer": "**Serum hCG now and at 48 hours**. Fall >50% suggests failing pregnancy (complete miscarriage); rise >63% suggests an IUP (rescan when above discriminatory level); a suboptimal rise/plateau or slow fall suggests ectopic. Group and Rh, Hb."
+        },
+        {
+          "prompt": "hCG 1,850 IU/L, and 48 h later 1,920 IU/L; she now has more left-sided pain. What does this mean and what will you do?",
+          "answer": "A **plateauing hCG above the discriminatory zone with an empty uterus = likely ectopic pregnancy**. Admit, repeat TVUS by an experienced sonographer, prepare for laparoscopy/laparotomy or methotrexate if criteria met (see Ectopic topic). Do not evacuate the uterus blindly."
+        },
+        {
+          "prompt": "What should she be told if she had been discharged earlier?",
+          "answer": "**Safety-net advice**: return immediately with worsening one-sided pain, shoulder-tip pain, dizziness/fainting or heavy bleeding; attend for repeat hCG. Document clearly."
+        }
+      ],
+      "takeaway": "Never call it 'complete abortion' without evidence of an IUP or passed sac – an empty uterus is a PUL, and ectopic must be excluded."
+    }
+  ],
+  "references": [
+    {
+      "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://www.differentiatedservicedelivery.org/wp-content/uploads/UCG-2023-Publication-Final-PDF-Version-1.pdf"
+    },
+    {
+      "title": "Abortion care guideline – Incomplete abortion management: Recommendations 35–38",
+      "source": "World Health Organization",
+      "year": 2022,
+      "url": "https://srhr.org/abortioncare/chapter-3/post-abortion-3-5/incomplete-abortion-management-recommendations-35-38-3-5-2/"
+    },
+    {
+      "title": "Abortion care guideline – Recommendation 31: Medical management of missed abortion <14 weeks",
+      "source": "World Health Organization",
+      "year": 2022,
+      "url": "https://srhr.org/abortioncare/chapter-3/abortion-3-4/clinical-services-recommendation-31-medical-management-of-missed-abortion-at-gestational-ages-14-weeks-3-4-3/"
+    },
+    {
+      "title": "Clinical practice handbook for quality abortion care",
+      "source": "World Health Organization",
+      "year": 2023,
+      "url": "https://cdn.who.int/media/docs/default-source/reproductive-health/clinical-practice-handbook-for-quality-abortion-care.pdf?sfvrsn=e82e253c_7"
+    },
+    {
+      "title": "FIGO's updated recommendations for misoprostol used alone in gynecology and obstetrics",
+      "source": "Int J Gynecol Obstet (Morris et al.)",
+      "year": 2017,
+      "url": "https://obgyn.onlinelibrary.wiley.com/doi/full/10.1002/ijgo.12181"
+    },
+    {
+      "title": "A randomized trial of misoprostol compared with manual vacuum aspiration for incomplete abortion (Kampala)",
+      "source": "Obstet Gynecol (Weeks et al.)",
+      "year": 2005,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16135584/"
+    },
+    {
+      "title": "Treatment of incomplete second-trimester abortion with misoprostol by midwives and physicians: randomised equivalence trial in Uganda",
+      "source": "BMJ Global Health / PMC",
+      "year": 2022,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9605879/"
+    },
+    {
+      "title": "Management of abortion complications at a rural hospital in Uganda: a criterion-based audit",
+      "source": "BMC Women's Health",
+      "year": 2015,
+      "url": "https://link.springer.com/article/10.1186/s12905-015-0233-y"
+    },
+    {
+      "title": "Antibiotic susceptibility profiles and determinants of septic abortion among women admitted for abortion care in Ugandan satellite teaching hospitals",
+      "source": "Health Science Reports",
+      "year": 2026,
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/hsr2.72062"
+    },
+    {
+      "title": "Barriers and facilitators in the provision of post-abortion care at district level in central Uganda",
+      "source": "BMC Health Services Research / PMC",
+      "year": 2014,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3903434/"
+    },
+    {
+      "title": "Uptake of intrauterine contraception after medical management of first trimester incomplete abortion in central Uganda",
+      "source": "PLOS One",
+      "year": 2025,
+      "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0310936"
+    },
+    {
+      "title": "Septic Abortion",
+      "source": "MSD Manual Professional Edition",
+      "url": "https://www.msdmanuals.com/professional/gynecology-and-obstetrics/early-pregnancy-disorders/septic-abortion"
+    },
+    {
+      "title": "Misoprostol for Treatment of Incomplete Abortion: An Introductory Guidebook",
+      "source": "Gynuity Health Projects",
+      "url": "https://gynuity.org/assets/resources/clinguide_pacguide_en.pdf"
+    }
+  ]
+}

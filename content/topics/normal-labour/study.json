@@ -1,0 +1,493 @@
+{
+  "slug": "normal-labour",
+  "flashcards": [
+    {
+      "id": "nl-f01",
+      "front": "Define labour.",
+      "back": "Regular, painful uterine contractions that cause **progressive cervical effacement and dilatation**, ending in expulsion of the fetus, placenta and membranes."
+    },
+    {
+      "id": "nl-f02",
+      "front": "When does the active first stage begin (WHO 2018 vs modified WHO partograph)?",
+      "back": "**WHO 2018 / Labour Care Guide: 5 cm.** Modified WHO partograph (still used in many Ugandan units): **4 cm**."
+    },
+    {
+      "id": "nl-f03",
+      "front": "List the 8 cardinal movements of labour in order.",
+      "back": "Engagement, Descent, Flexion, Internal rotation, Extension, Restitution, External rotation, Expulsion."
+    },
+    {
+      "id": "nl-f04",
+      "front": "Which diameter does a well-flexed vertex present and how long is it?",
+      "back": "**Suboccipitobregmatic, 9.5 cm** (the smallest AP diameter)."
+    },
+    {
+      "id": "nl-f05",
+      "front": "Give the diameters presented by a deflexed (OP) head, a brow and a face.",
+      "back": "Deflexed vertex: **occipitofrontal 11.5 cm**. Brow: **mentovertical 13 cm** (undeliverable at term). Face: **submentobregmatic 9.5 cm**."
+    },
+    {
+      "id": "nl-f06",
+      "front": "Clinical definition of engagement?",
+      "back": "The biparietal diameter has passed the pelvic inlet; abdominally **2/5 or less of the head palpable** above the brim."
+    },
+    {
+      "id": "nl-f07",
+      "front": "Why does the fetal head rotate internally?",
+      "back": "The **gutter-shaped levator ani** directs the leading occiput forwards, and the **outlet is widest anteroposteriorly**, so the head turns 45 degrees from LOA to OA."
+    },
+    {
+      "id": "nl-f08",
+      "front": "What is the Ferguson reflex?",
+      "back": "Stretching of the cervix/upper vagina by the presenting part triggers **posterior pituitary oxytocin release**, which strengthens contractions (positive feedback)."
+    },
+    {
+      "id": "nl-f09",
+      "front": "Three components of AMTSL?",
+      "back": "1. **Uterotonic within 1 minute** of birth (oxytocin 10 IU IM). 2. **Controlled cord traction** with counter-traction. 3. **Uterine tone assessment/massage** after the placenta, every 15 min for 2 h."
+    },
+    {
+      "id": "nl-f10",
+      "front": "Uterotonic for AMTSL if oxytocin is unavailable (Uganda)?",
+      "back": "**Misoprostol 600 micrograms orally**, once. (WHO accepts 400-600 mcg; heat-stable carbetocin 100 mcg IM/IV where supplied.)"
+    },
+    {
+      "id": "nl-f11",
+      "front": "Contraindications to ergometrine?",
+      "back": "**Hypertension / pre-eclampsia**, cardiac disease, undelivered second twin (and caution in retained placenta). It causes vasoconstriction and a sustained tonic contraction."
+    },
+    {
+      "id": "nl-f12",
+      "front": "Three signs of placental separation?",
+      "back": "1. Uterus becomes **firm, globular and rises**. 2. **Gush of blood**. 3. **Lengthening of the cord** at the vulva."
+    },
+    {
+      "id": "nl-f13",
+      "front": "What is the purpose of counter-traction during CCT?",
+      "back": "Pushing the uterus up above the symphysis while pulling on the cord **prevents uterine inversion**."
+    },
+    {
+      "id": "nl-f14",
+      "front": "Normal duration of the second stage (WHO 2018)?",
+      "back": "Usually **up to 3 h in first labours** and **up to 2 h in subsequent labours**, provided mother and baby are well."
+    },
+    {
+      "id": "nl-f15",
+      "front": "How often do you auscultate the FHR in the active first stage and the second stage?",
+      "back": "Active first stage: **every 30 min** (WHO: every 15-30 min), for a full minute after a contraction. Second stage: **every 5 min** (or after each contraction)."
+    },
+    {
+      "id": "nl-f16",
+      "front": "How often should a VE be done in a normal active first stage?",
+      "back": "**Every 4 hours**, or sooner if clinically indicated (e.g. urge to push, abnormal FHR, rupture of membranes)."
+    },
+    {
+      "id": "nl-f17",
+      "front": "When should the cord be clamped in a vigorous newborn?",
+      "back": "**Delayed: 1-3 minutes** after birth (not earlier than 1 minute). Clamp immediately only if the baby needs ventilation and cannot be ventilated with the cord intact."
+    },
+    {
+      "id": "nl-f18",
+      "front": "Routine newborn drugs after birth in Uganda?",
+      "back": "**Vitamin K 1 mg IM** (0.5 mg preterm), **tetracycline 1% eye ointment** once, **chlorhexidine 7.1% gel** to the cord stump; plus BCG and OPV-0."
+    },
+    {
+      "id": "nl-f19",
+      "front": "Define a retained placenta and first steps.",
+      "back": "Placenta not delivered **30 minutes** after birth. Empty bladder, repeat **oxytocin 10 IU IM**, repeat CCT; if still retained, **manual removal** with analgesia and IV antibiotics."
+    },
+    {
+      "id": "nl-f20",
+      "front": "What does descent in fifths tell you that station does not?",
+      "back": "It is **not fooled by caput**. A head 3/5 palpable abdominally is not engaged, even if the VE feels something at +2 (that is caput)."
+    },
+    {
+      "id": "nl-f21",
+      "front": "Grades of moulding?",
+      "back": "**0** bones separate; **+** touching; **++** overlapping but reducible; **+++** overlapping, not reducible (suggests CPD)."
+    },
+    {
+      "id": "nl-f22",
+      "front": "Four monitoring questions to ask every time you review a labouring woman?",
+      "back": "Is the **mother** well? Is the **baby** well? Is labour **progressing**? Is the **partograph/LCG** up to date (and is there an alert)?"
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "nl-q01",
+      "stem": "A 22-year-old primigravida at 39 weeks presents to an HC IV with lower abdominal pains for 6 hours. Contractions are 2 in 10 minutes lasting 20 seconds. The cervix is 2 cm, 30% effaced, and 3 hours later it is unchanged. FHR is 140 bpm and she is otherwise well. What is the MOST appropriate management?",
+      "options": [
+        "Supportive care, oral fluids, analgesia and reassessment; she may walk and go home if all is well",
+        "Perform artificial rupture of membranes",
+        "Start oxytocin augmentation",
+        "Refer urgently to a regional referral hospital for caesarean section",
+        "Give IM pethidine and start a partograph at 2 cm"
+      ],
+      "answer": 0,
+      "explanation": "Irregular, short contractions with no cervical change over 3 h is **false labour or early latent phase**. WHO 2018 advises against augmentation or ARM before 5 cm if mother and baby are well. Oxytocin (C) and ARM (B) are unnecessary interventions that raise the risk of hyperstimulation, infection and caesarean. There is no indication for CS (D). The partograph/LCG is not started in the latent phase (E), and plotting at 2 cm would produce a false 'slow labour'.",
+      "difficulty": "core"
+    },
+    {
+      "id": "nl-q02",
+      "stem": "Immediately after a normal vaginal birth of a 3.1 kg baby at an HC III, the midwife is about to give oxytocin. What must be done FIRST?",
+      "options": [
+        "Clamp and cut the cord",
+        "Give misoprostol 600 micrograms orally",
+        "Apply controlled cord traction",
+        "Palpate the abdomen to exclude another fetus",
+        "Massage the uterus vigorously"
+      ],
+      "answer": 3,
+      "explanation": "Before any uterotonic you must **exclude an undiagnosed second twin**, because oxytocin can make the uterus contract tonically around the second baby. Cord clamping (A) should be delayed 1-3 min in a vigorous baby. CCT (C) comes after the uterotonic and a contraction. Misoprostol (B) is only for when oxytocin is unavailable. Vigorous massage before the placenta is out (E) can cause partial separation and bleeding.",
+      "difficulty": "core"
+    },
+    {
+      "id": "nl-q03",
+      "stem": "A 29-year-old P1 has just delivered. She has chronic hypertension and her BP is 158/102 mmHg. There is no oxytocin in the facility's fridge today, but misoprostol and ergometrine are available. Which uterotonic is MOST appropriate for AMTSL?",
+      "options": [
+        "Ergometrine 0.2 mg IM",
+        "Misoprostol 600 micrograms orally",
+        "Oxytocin-ergometrine combination IM",
+        "No uterotonic; physiological third stage",
+        "Misoprostol 1000 micrograms rectally"
+      ],
+      "answer": 1,
+      "explanation": "With no oxytocin, the Uganda Clinical Guidelines recommend **misoprostol 600 mcg orally**. Ergometrine and the oxytocin-ergometrine combination (A, C) are **contraindicated in hypertension** because they cause vasoconstriction and can precipitate stroke or eclampsia. Omitting a uterotonic (D) doubles PPH risk. 1000 mcg rectal (E) is an old PPH *treatment* regimen, not a prevention dose.",
+      "difficulty": "core"
+    },
+    {
+      "id": "nl-q04",
+      "stem": "A 30-year-old P5 is admitted at 6 cm. Four hours later she is still 6 cm despite 4 strong contractions in 10 minutes lasting 50 seconds. The head is 3/5 palpable, moulding is +++ and there is a large caput. Her urine is dark. What is the MOST appropriate next step?",
+      "options": [
+        "Start oxytocin infusion to strengthen contractions",
+        "Rupture membranes and review in 2 hours",
+        "Apply a vacuum extractor",
+        "Encourage her to push",
+        "Prepare for caesarean section (refer if at a facility without theatre) after catheterisation, IV fluids and antibiotics"
+      ],
+      "answer": 4,
+      "explanation": "Strong contractions without progress, a high head, severe moulding and caput in a grand multipara = **obstructed labour**. Management is resuscitation (IV fluids, catheter, antibiotics) and **caesarean section**. Oxytocin (A) in an obstructed multipara can **rupture the uterus**. ARM (B) delays delivery. Pushing (D) before full dilatation is useless and harmful. Vacuum (C) needs full dilatation and a head at 0/5 to 1/5.",
+      "difficulty": "core"
+    },
+    {
+      "id": "nl-q05",
+      "stem": "During the second stage, the head of the baby is delivered. The occiput then turns spontaneously towards the mother's left thigh. What is this movement called and what does it indicate?",
+      "options": [
+        "Internal rotation; the shoulders are entering the pelvis",
+        "External rotation; the posterior shoulder has delivered",
+        "Restitution; the head is realigning with the shoulders, the baby was LOA",
+        "Extension; the occiput is pivoting under the symphysis",
+        "Restitution; the baby was ROA"
+      ],
+      "answer": 2,
+      "explanation": "**Restitution** is the 45-degree untwisting of the neck after the head is born; the occiput returns to the side it came from, so a turn to the mother's left means **LOA**. Internal rotation (A) happens inside the pelvis before crowning. External rotation (B) follows restitution as the anterior shoulder rotates forwards; the shoulders have not delivered yet. Extension (D) occurs as the head is born. ROA (E) would restitute to the right.",
+      "difficulty": "core"
+    },
+    {
+      "id": "nl-q06",
+      "stem": "A primigravida has been fully dilated for 1 hour with the head at 0/5 and good contractions. The FHR is 145 bpm with no decelerations, and she is pushing well. The student proposes an episiotomy 'to speed things up'. What is the BEST response?",
+      "options": [
+        "Disagree; continue supportive care with perineal protection; episiotomy only for a clear indication",
+        "Agree; a midline episiotomy reduces third-degree tears",
+        "Agree; episiotomy is routine for primigravidae",
+        "Disagree; start oxytocin instead",
+        "Disagree; apply fundal pressure to shorten the second stage"
+      ],
+      "answer": 0,
+      "explanation": "WHO 2018 recommends against **routine** or liberal episiotomy. Mother and baby are well and the second stage is within normal limits, so continue with warm compresses and a controlled delivery of the head. Routine episiotomy (C) increases blood loss and pain without benefit. **Midline episiotomy** (B) actually increases the risk of OASI. Oxytocin (D) is not indicated with good contractions. **Fundal pressure** (E) is not recommended; it can cause uterine rupture and fetal injury.",
+      "difficulty": "core"
+    },
+    {
+      "id": "nl-q07",
+      "stem": "Twenty minutes after delivery with AMTSL, the placenta has not delivered. The uterus is well contracted and there is minimal bleeding. The bladder is palpable. What is the MOST appropriate next step?",
+      "options": [
+        "Proceed immediately to manual removal under general anaesthesia",
+        "Give ergometrine 0.5 mg IV",
+        "Pull harder on the cord",
+        "Empty the bladder and repeat controlled cord traction with the next contraction",
+        "Refer to a regional referral hospital"
+      ],
+      "answer": 3,
+      "explanation": "At 20 min the placenta is not yet 'retained' (the cut-off is **30 min**). A full bladder can prevent descent, so **catheterise/empty the bladder** and retry CCT with counter-traction. Manual removal (A) is for a placenta still retained after 30 min or with bleeding. Pulling harder (C) risks cord avulsion and **inversion**. Ergometrine IV (B) can clamp the cervix and trap the placenta; the dose is also wrong. Referral (E) is premature: an HC III can do manual removal.",
+      "difficulty": "core"
+    },
+    {
+      "id": "nl-q08",
+      "stem": "A woman in active labour has an abdominal exam showing the head 3/5 palpable. On VE the student reports 'station +2'. There is a large caput. How should these findings be interpreted?",
+      "options": [
+        "The head is engaged and delivery is imminent",
+        "The student is feeling caput; the head is not engaged",
+        "The abdominal exam is wrong because it is less accurate",
+        "The fetus is in breech presentation",
+        "There is placenta praevia"
+      ],
+      "answer": 1,
+      "explanation": "Abdominal descent in fifths is **not fooled by caput**. 3/5 palpable means the head is not engaged, so the '+2' is swelling of the scalp. This discrepancy, especially with moulding, suggests **CPD**. Option A ignores the abdominal finding; C is backwards (descent in fifths is the more reliable measure when there is caput). Breech (D) would give a soft, irregular presenting part and a head at the fundus. Praevia (E) is not suggested and a VE should not be done if it were suspected.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "nl-q09",
+      "stem": "A baby is born at term, cries immediately and has good tone. What is the recommended timing of cord clamping?",
+      "options": [
+        "Immediately, to reduce polycythaemia",
+        "Within 30 seconds",
+        "Only after the first breastfeed",
+        "After the placenta is delivered",
+        "1 to 3 minutes after birth"
+      ],
+      "answer": 4,
+      "explanation": "WHO recommends **delayed cord clamping, not earlier than 1 minute (1-3 min)** for vigorous babies. It transfers about 80-100 mL of blood, improving iron stores and reducing anaemia in infancy, which matters a lot in Uganda. Immediate clamping (A, B) loses this benefit; polycythaemia is rarely significant. Waiting for the placenta (D) or after breastfeeding (C) is not the standard and can delay care.",
+      "difficulty": "core"
+    },
+    {
+      "id": "nl-q10",
+      "stem": "A P2 at term is 7 cm dilated. Suddenly after spontaneous rupture of membranes, the FHR drops to 80 bpm and stays there for 3 minutes. What is the MOST important immediate action?",
+      "options": [
+        "Start oxytocin to speed up delivery",
+        "Repeat FHR in 30 minutes",
+        "Perform a vaginal examination to check for cord prolapse",
+        "Give oral fluids",
+        "Allow her to push"
+      ],
+      "answer": 2,
+      "explanation": "Sudden prolonged bradycardia after membrane rupture = **cord prolapse until proven otherwise**, so do an **immediate VE**. If present: call for help, elevate the presenting part, knee-chest or Trendelenburg position, fill the bladder, and arrange emergency caesarean. Oxytocin (A) would worsen hypoxia. Waiting 30 min (B) could lose the baby. Oral fluids (D) do nothing for acute hypoxia. Pushing (E) is inappropriate at 7 cm.",
+      "difficulty": "core"
+    },
+    {
+      "id": "nl-q11",
+      "stem": "During CCT, the midwife pulls on the cord without supporting the uterus, and the fundus is no longer palpable abdominally. The woman is suddenly shocked with pulse 130 and BP 80/40, with modest bleeding. What is the MOST likely diagnosis?",
+      "options": [
+        "Acute uterine inversion",
+        "Amniotic fluid embolism",
+        "Uterine atony",
+        "Ruptured uterus",
+        "Cervical tear"
+      ],
+      "answer": 0,
+      "explanation": "Traction on the cord without **counter-traction**, a fundus that cannot be felt, and shock **out of proportion to blood loss** (vagal/neurogenic shock) are classic for **acute uterine inversion**. Atony (C) gives a soft, large, palpable uterus. AFE (B) causes collapse, hypoxia and DIC, not a missing fundus. Rupture (D) is usually in labour, often with previous scars or obstruction. A cervical tear (E) causes bleeding with a contracted uterus.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "nl-q12",
+      "stem": "A primigravida at term is 5 cm dilated. Membranes ruptured 2 hours ago with clear liquor. She is anxious, hungry and wants to walk around. What is the BEST advice?",
+      "options": [
+        "Nil by mouth and bed rest in supine position",
+        "Give an enema and shave the perineum",
+        "Start routine IV fluids and oxytocin",
+        "Allow light food and oral fluids, encourage mobility and upright positions, support with a companion",
+        "Continuous CTG monitoring"
+      ],
+      "answer": 3,
+      "explanation": "WHO 2018 supports **oral fluids and food** in low-risk labour, **mobility and upright positions**, and a **birth companion**. Supine rest (A) causes aortocaval compression and is less comfortable; routine starvation causes ketosis. Routine IV fluids and oxytocin (C) are not recommended. Enema and shaving (B) are outdated with no benefit. Continuous CTG (E) is not recommended for low-risk women and increases caesarean rates without improving outcomes.",
+      "difficulty": "core"
+    },
+    {
+      "id": "nl-q13",
+      "stem": "Examining a placenta after delivery, you see a vessel running across the membranes to a torn edge with no placental tissue attached. The uterus is contracted and bleeding is currently normal. What is the MOST appropriate action?",
+      "options": [
+        "No action; this is a normal finding",
+        "Suspect a retained succenturiate lobe; explore the uterus (manual/instrumental evacuation) with antibiotics and uterotonic cover",
+        "Discharge with oral antibiotics",
+        "Give misoprostol and observe for 6 hours only",
+        "Perform an ultrasound in 6 weeks"
+      ],
+      "answer": 1,
+      "explanation": "Vessels running to a torn membrane edge suggest a **succenturiate (accessory) lobe left behind**, which will cause PPH or sepsis. The uterus must be explored (manual exploration/evacuation) under analgesia with antibiotics and oxytocin. It is not normal (A). Oral antibiotics alone (C), watchful waiting (D) or a delayed scan (E) leave retained tissue that can bleed catastrophically.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "nl-q14",
+      "stem": "At an HC III, a primigravida's partograph crosses the alert line at 6 cm. FHR is normal and she has 3 moderate contractions in 10 minutes. The nearest HC IV is 2 hours away. What is the BEST action?",
+      "options": [
+        "Wait until she reaches the action line, then refer",
+        "Start oxytocin at the HC III",
+        "Tell the family to find their own transport tomorrow",
+        "Perform ARM and wait 4 hours",
+        "Refer now to the HC IV, with the partograph, IV line and escort"
+      ],
+      "answer": 4,
+      "explanation": "At a facility without CS and blood, crossing the **alert line is the trigger to refer** because by the time she reaches the action line she may already be obstructed and transport takes time. Waiting (A) and ARM-and-wait (D) delay care. Oxytocin augmentation (B) needs close monitoring and the ability to perform CS if it fails, so it should be done at the HC IV/hospital. Option C ignores the second delay of the three delays model.",
+      "difficulty": "core"
+    },
+    {
+      "id": "nl-q15",
+      "stem": "A 26-year-old woman living with HIV on TLD, with a suppressed viral load, is in active labour at 6 cm with intact membranes and normal progress. Which intrapartum practice is MOST appropriate?",
+      "options": [
+        "Routine artificial rupture of membranes to speed labour",
+        "Elective episiotomy to shorten the second stage",
+        "Continue ART in labour, avoid unnecessary ARM, episiotomy and instrumental delivery, and give infant prophylaxis after birth",
+        "Stop ART in labour to avoid drug toxicity in the baby",
+        "Immediate caesarean section for all women with HIV"
+      ],
+      "answer": 2,
+      "explanation": "For eMTCT, **continue ART**, minimise procedures that expose the baby to maternal blood and secretions (ARM, episiotomy, instrumental delivery, fetal scalp procedures) and start **infant prophylaxis** soon after birth. Routine ARM (A) and routine episiotomy (B) increase exposure. Stopping ART (D) risks viral rebound and transmission. Caesarean (E) is not indicated for HIV alone with a suppressed viral load.",
+      "difficulty": "core"
+    },
+    {
+      "id": "nl-q16",
+      "stem": "A student is asked why a brow presentation at term usually cannot deliver vaginally while a well-flexed vertex can. What is the BEST explanation?",
+      "options": [
+        "The brow presents the mentovertical diameter (13 cm), which is larger than any pelvic diameter",
+        "The brow presents the suboccipitobregmatic diameter (9.5 cm)",
+        "The brow cannot rotate because the pelvic floor is too strong",
+        "The brow presents the biparietal diameter (9.5 cm)",
+        "Brow presentation causes placental abruption"
+      ],
+      "answer": 0,
+      "explanation": "A brow presents the **mentovertical diameter (about 13 cm)**, which exceeds the pelvic diameters, so labour obstructs unless the head flexes or extends fully. The suboccipitobregmatic (B) is presented by a well-flexed vertex. Pelvic floor strength (C) is not the reason. The biparietal diameter (D) is transverse and is the same in all cephalic presentations. Abruption (E) is unrelated.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "nl-c01",
+      "title": "A primigravida in early labour at Mengo",
+      "presentation": "Ms A.K., 21 years, G1P0 at 39+2 weeks by an early scan, walks into Mengo labour ward at 22:00 with painful tightenings since 18:00 and a blood-stained mucus show. She attended ANC 5 times; HIV negative, Hb 12.1 g/dL, blood group B positive.",
+      "steps": [
+        {
+          "prompt": "What focused history do you take and why?",
+          "answer": "Onset, frequency and strength of contractions (true vs false labour); show, **ruptured membranes and liquor colour** (infection risk, meconium); **vaginal bleeding** (APH, avoid VE); **fetal movements**; symptoms of pre-eclampsia and infection; ANC results (HIV, syphilis, Hb, group); medical history; birth plan and companion."
+        },
+        {
+          "prompt": "Examination: T 36.8, P 84, BP 116/70. Cephalic, LOA, 4/5 palpable, 2 contractions in 10 min lasting 20-25 s, FHR 138 after a contraction. VE: cervix 3 cm, 50% effaced, membranes intact, station -2, no caput or moulding. What is your assessment?",
+          "answer": "**Latent first stage** of labour (below 5 cm, WHO 2018; below 4 cm on the modified WHO partograph). Mother and fetus are well. The head is not yet engaged, which is common in labour but must be watched."
+        },
+        {
+          "prompt": "What is your management plan now?",
+          "answer": "Do **not** start the partograph/LCG yet (record findings in the notes). Supportive care: companion, **oral fluids and light food**, mobility, empty bladder, simple analgesia/massage. **FHR every 30-60 min** in latent phase, reassess with VE in about 4 h or earlier if contractions become strong, membranes rupture or there is bleeding. **No oxytocin or ARM** before 5 cm if all is well."
+        },
+        {
+          "prompt": "At 02:30 she is 6 cm, 90% effaced, membranes ruptured with clear liquor, head 3/5, 3 contractions in 10 min lasting 40 s. How do you document and what are the monitoring frequencies?",
+          "answer": "Start the partograph (plot 6 cm on the alert line; X for cervix, O for descent 3/5) or the LCG from 5 cm. **FHR and contractions every 30 min, pulse every 30 min, BP every 4 h, temperature every 2 h, urine each void, VE every 4 h.** Record liquor as C (clear)."
+        },
+        {
+          "prompt": "At 06:00 she is fully dilated and pushing. How do you conduct the delivery and third stage?",
+          "answer": "Prepare the pack, newborn corner and **oxytocin 10 IU**. Upright/semi-sitting, spontaneous pushing, **FHR every 5 min**. Warm compress; control the head at crowning (pant). Check for cord around neck, await restitution, deliver anterior then posterior shoulder. Dry baby, skin-to-skin, delay cord clamping 1-3 min. **Palpate to exclude a second twin, give oxytocin 10 IU IM within 1 min**, CCT with counter-traction, examine placenta, check tone every 15 min for 2 h, inspect perineum."
+        },
+        {
+          "prompt": "What newborn care and counselling do you give before discharge?",
+          "answer": "Breastfeed within 1 h; vitamin K 1 mg IM, tetracycline eye ointment, chlorhexidine cord gel, BCG and OPV-0; no bath for 24 h; keep warm. Counsel mother on danger signs (bleeding, fever, headache, fits; baby not feeding, fast breathing, yellow, cold), exclusive breastfeeding, **postpartum family planning**, and postnatal visits (day 3, 1-2 weeks, 6 weeks). Discharge after at least 24 h."
+        }
+      ],
+      "takeaway": "Diagnose the stage correctly before charting: latent phase gets supportive care, not intervention. Start the partograph/LCG in active labour, and never forget oxytocin within 1 minute after excluding a second twin."
+    },
+    {
+      "id": "nl-c02",
+      "title": "Slow progress in a multipara at an HC IV",
+      "presentation": "Mrs S.N., 34 years, P6+0, arrives at an HC IV at 10:00 having laboured at home since the previous night. Her last baby weighed 4.1 kg. She looks tired and thirsty.",
+      "steps": [
+        {
+          "prompt": "What key history points make you worried?",
+          "answer": "**Grand multiparity** (P6: risk of rupture and PPH), **prolonged labour at home** (dehydration, infection, obstruction), **increasing birth weights** (macrosomia, CPD, shoulder dystocia). Ask about ROM duration, liquor, fetal movements, bleeding, fever, urine output, previous CS."
+        },
+        {
+          "prompt": "Exam: T 37.9, P 112, BP 110/70, dry tongue. Abdomen: cephalic, head 3/5, strong contractions 5 in 10 min lasting 55 s, a transverse groove is visible across the lower abdomen. FHR 170. VE: cervix 7 cm and oedematous, moulding +++, large caput, meconium-stained liquor, catheter urine is blood-stained. Interpretation?",
+          "answer": "**Obstructed labour** with a **pathological retraction (Bandl's) ring** suggesting **impending uterine rupture**, maternal dehydration and possible chorioamnionitis, and **fetal distress** (FHR 170, meconium)."
+        },
+        {
+          "prompt": "What differentials must you consider?",
+          "answer": "CPD (big baby), malposition (OP/deflexed head), malpresentation (brow, face), hydrocephalus; complications: impending/actual uterine rupture, chorioamnionitis, abruption."
+        },
+        {
+          "prompt": "What is your immediate management at the HC IV?",
+          "answer": "**Call for help.** Left lateral. **Two large-bore IV lines**, Ringer's lactate or normal saline 1 L rapidly then titrate to urine output. Blood for Hb and crossmatch (2 units). **Catheterise** (strict input-output; blood-stained urine suggests bladder injury risk). **Do NOT give oxytocin.** Broad-spectrum IV antibiotics (e.g. ampicillin 2 g IV 6-hourly + gentamicin 5 mg/kg IV once daily + metronidazole 500 mg IV 8-hourly). Consent and prepare for **emergency caesarean section** now."
+        },
+        {
+          "prompt": "What postoperative complications will you watch for?",
+          "answer": "PPH (atony in a grand multipara), sepsis/endometritis and wound infection, **bladder injury and obstetric fistula** (keep catheter 10-14 days after prolonged obstructed labour), thromboembolism, and neonatal HIE/sepsis. Counsel on family planning (she is P7 and may want a long-acting method or tubal ligation with informed consent)."
+        }
+      ],
+      "takeaway": "Slow progress with strong contractions in a multipara is obstruction, not weak labour. Oxytocin can rupture her uterus. Resuscitate and deliver by caesarean."
+    },
+    {
+      "id": "nl-c03",
+      "title": "Third stage at an HC III without oxytocin",
+      "presentation": "At an HC III at night, Ms R.T., 27 years, P1, has a spontaneous vaginal delivery of a 3.4 kg baby. The midwife finds the fridge broken and the oxytocin ampoules have been at room temperature for a week. Misoprostol tablets are available. The mother's BP was 128/80 in labour.",
+      "steps": [
+        {
+          "prompt": "What must you do before giving any uterotonic?",
+          "answer": "**Palpate the abdomen to exclude a second fetus.** Note the time of birth. Ensure the baby is dried, breathing, skin-to-skin."
+        },
+        {
+          "prompt": "Which uterotonic will you give and why?",
+          "answer": "**Misoprostol 600 micrograms orally**, once. Oxytocin that has been out of the cold chain may have lost potency (poor quality oxytocin is a real problem in the region). Misoprostol is heat-stable. Warn about shivering and a mild fever, which are common side effects."
+        },
+        {
+          "prompt": "Describe how you deliver the placenta.",
+          "answer": "Wait for a contraction and signs of separation. Clamp cord close to the perineum, **counter-traction** above the pubis pushing the uterus upwards, steady downward traction on the cord; stop if it does not descend in 30-40 s and retry with the next contraction. Deliver with both hands, twist membranes, then **examine placenta and membranes** for completeness and 3 cord vessels."
+        },
+        {
+          "prompt": "Fifteen minutes after the placenta, the uterus feels soft and she has soaked two pads. What do you do?",
+          "answer": "**Call for help**, **rub up the uterus** (fundal massage) and expel clots, empty the bladder, IV access with 2 large-bore cannulas, start fluids, and follow the PPH protocol: oxytocin 20 IU in 1 L saline IV infusion if good-quality oxytocin is obtainable, otherwise misoprostol 800 micrograms sublingual; **tranexamic acid 1 g IV** over 10 min within 3 h of birth; bimanual compression; refer if not controlled. Check for tears (trauma) and retained tissue."
+        },
+        {
+          "prompt": "What would you document and report?",
+          "answer": "Time of birth, uterotonic, drug and batch, placental completeness, estimated blood loss, vital signs, interventions. Report the **cold-chain failure** to the facility in-charge (drug quality is a facility-level safety issue) and discuss at the MPDSR/quality improvement meeting."
+        }
+      ],
+      "takeaway": "Every woman gets a uterotonic: oxytocin 10 IU IM if good quality, otherwise misoprostol 600 mcg orally. Keep checking tone for 2 hours; early detection of atony saves lives."
+    }
+  ],
+  "references": [
+    {
+      "title": "Uganda Clinical Guidelines 2023: National guidelines for management of common health conditions",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf"
+    },
+    {
+      "title": "Essential Maternal and Newborn Clinical Care Guidelines for Uganda",
+      "source": "Ministry of Health Uganda, Knowledge Management Portal",
+      "year": 2022,
+      "url": "https://library.health.go.ug/sexual-and-reproductive-health/essential-maternal-and-newborn-clinical-care-guidelines-uganda"
+    },
+    {
+      "title": "WHO recommendations: intrapartum care for a positive childbirth experience",
+      "source": "World Health Organization",
+      "year": 2018,
+      "url": "https://www.who.int/publications/i/item/9789241550215"
+    },
+    {
+      "title": "Evidence and recommendations - WHO recommendations: Intrapartum care for a positive childbirth experience (NCBI Bookshelf)",
+      "source": "World Health Organization / NCBI Bookshelf",
+      "year": 2018,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513805/"
+    },
+    {
+      "title": "WHO recommendations: Uterotonics for the prevention of postpartum haemorrhage",
+      "source": "World Health Organization / NCBI Bookshelf",
+      "year": 2018,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK535987/"
+    },
+    {
+      "title": "Joint statement of recommendation for the use of uterotonics for the prevention of postpartum haemorrhage",
+      "source": "FIGO",
+      "year": 2021,
+      "url": "https://www.figo.org/joint-statement-recommendation-uterotonics-prevention-pph"
+    },
+    {
+      "title": "Facility-based active management of the third stage of labour: assessment of quality in six countries in sub-Saharan Africa",
+      "source": "Bulletin of the WHO / PMC",
+      "year": 2015,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4622150/"
+    },
+    {
+      "title": "Early essential newborn care: clinical practice pocket guide",
+      "source": "World Health Organization",
+      "year": 2014,
+      "url": "https://apps.who.int/iris/bitstream/handle/10665/208158/9789290616856_eng.pdf"
+    },
+    {
+      "title": "Incidence and risk factors for clinical omphalitis among neonates in Eastern Uganda using chlorhexidine gel for cord care: a community-cohort study",
+      "source": "BMC Pediatrics",
+      "year": 2025,
+      "url": "https://link.springer.com/article/10.1186/s12887-025-05428-8"
+    },
+    {
+      "title": "Vitamin K and the Newborn Infant (Clinical Report)",
+      "source": "Pediatrics, American Academy of Pediatrics",
+      "year": 2022,
+      "url": "https://publications.aap.org/pediatrics/article/149/3/e2021056036/184866/Vitamin-K-and-the-Newborn-Infant"
+    }
+  ]
+}

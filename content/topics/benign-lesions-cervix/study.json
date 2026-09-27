@@ -1,0 +1,201 @@
+{
+  "slug": "benign-lesions-cervix",
+  "flashcards": [
+    { "id": "blc-f01", "front": "Define the transformation zone (TZ) of the cervix.", "back": "The area between the **original** and the **new (functional) squamocolumnar junction**, where columnar epithelium is being replaced by squamous epithelium (**squamous metaplasia**). Almost all CIN and squamous cancers arise here, so screening must sample it." },
+    { "id": "blc-f02", "front": "What epithelium lines (a) the ectocervix and (b) the endocervix?", "back": "(a) **Non-keratinised stratified squamous** epithelium. (b) A **single layer of mucus-secreting columnar** epithelium arranged in crypts." },
+    { "id": "blc-f03", "front": "What is a cervical ectropion and why does it happen?", "back": "Endocervical **columnar epithelium visible on the ectocervix** (red, velvety area around the os). Caused by **oestrogen** eversion of the cervix — puberty, **pregnancy**, **combined pill**. A physiological variant, not a disease." },
+    { "id": "blc-f04", "front": "Why does an ectropion cause post-coital bleeding and discharge?", "back": "Columnar epithelium is **one cell thick** over fragile capillaries (bleeds on contact) and is **mucus-secreting** (more mucoid discharge)." },
+    { "id": "blc-f05", "front": "When should an ectropion be treated, and how?", "back": "Only if **symptomatic** (troublesome discharge/PCB) **after** a normal screening test and treated infection. Options: switch from COC to progestogen-only method; **ablation** (cryotherapy, thermal ablation, diathermy). Never in pregnancy." },
+    { "id": "blc-f06", "front": "How does a Nabothian cyst form and what is its clinical significance?", "back": "Squamous metaplasia covers the mouth of an endocervical crypt, trapping mucus. It is **benign**, needs **no treatment**, and **marks the transformation zone**." },
+    { "id": "blc-f07", "front": "Which organisms cause mucopurulent cervicitis and why the endocervix?", "back": "**Chlamydia trachomatis** and **Neisseria gonorrhoeae** (also Mycoplasma genitalium, HSV, trichomonas). GC and CT infect **columnar** cells, so they target the endocervix and ectropion." },
+    { "id": "blc-f08", "front": "Uganda syndromic treatment of cervical infection (non-pregnant).", "back": "**Cefixime 400 mg PO stat** (or **ceftriaxone 1 g IM stat**) **+ doxycycline 100 mg PO 12-hourly for 7 days**, usually with **metronidazole 2 g PO stat** for vaginal infection. Treat partner(s), condoms, HIV test, review in 7 days." },
+    { "id": "blc-f09", "front": "What replaces doxycycline for chlamydia cover in pregnancy?", "back": "**Azithromycin 1 g PO single dose** (or erythromycin 500 mg PO 6-hourly for 7 days). Doxycycline is contraindicated in pregnancy and breastfeeding." },
+    { "id": "blc-f10", "front": "What makes the risk assessment for cervical infection positive in syndromic management?", "back": "Any of: **partner with urethral discharge/genital ulcer**, **young age** (under about 21–25), **new partner in the last 3 months**, or **more than one partner**. Positive risk assessment = treat for cervical infection even if the cervix looks normal." },
+    { "id": "blc-f11", "front": "What are the 4 Cs of STI management?", "back": "**Compliance**, **Counselling**, **Condoms**, **Contact tracing** (partner notification and treatment)." },
+    { "id": "blc-f12", "front": "Outpatient treatment of mild–moderate PID.", "back": "**Ceftriaxone 1 g IM stat** + **doxycycline 100 mg PO 12-hourly for 14 days** + **metronidazole 400–500 mg PO 12-hourly for 14 days**. Pregnancy test first; admit if severe, pregnant, TOA or no response in 72 h." },
+    { "id": "blc-f13", "front": "How is a cervical polyp removed in clinic?", "back": "Grasp the base with **sponge-holding (polyp) forceps**, **twist (avulse)** until it detaches, achieve haemostasis (pressure/**silver nitrate**), and **always send for histology**. Refer to theatre if broad-based, large, very vascular or arising high in the canal." },
+    { "id": "blc-f14", "front": "Why assess the endometrium when a post-menopausal woman has a cervical polyp?", "back": "Coexisting **endometrial pathology** (polyps, hyperplasia, cancer) is common and the bleeding may not be from the cervical polyp. Do **TVUS endometrial thickness ± endometrial biopsy**." },
+    { "id": "blc-f15", "front": "What is the main surgical danger of a cervical fibroid?", "back": "It distorts the pelvic anatomy and displaces the **ureters** (and bladder), which lie about 1.5–2 cm lateral to the cervix under the uterine artery — risk of **ureteric injury** and haemorrhage at myomectomy/hysterectomy." },
+    { "id": "blc-f16", "front": "Pyometra in an elderly woman — what must you exclude?", "back": "**Cervical or endometrial cancer** (causing stenosis). Drain (dilate the cervix), give antibiotics and take **biopsies**." },
+    { "id": "blc-f17", "front": "Indications for history- and ultrasound-indicated cerclage (RCOG).", "back": "**History-indicated** at **12–14 weeks**: ≥3 previous mid-trimester losses/preterm births. **Ultrasound-indicated**: previous mid-trimester loss/PTB **and** transvaginal cervical length **≤25 mm before 24 weeks**. Remove at **36–37 weeks**." },
+    { "id": "blc-f18", "front": "How do you tell an ectropion from early cervical cancer by eye?", "back": "Ectropion: **flat, symmetrical around the os, regular border**, velvety/grape-like, no dense acetowhitening. Cancer: **raised or ulcerated, irregular, asymmetric, hard, friable/necrotic**. If unsure — **biopsy**." },
+    { "id": "blc-f19", "front": "What is a positive VIA test?", "back": "After applying **3–5% acetic acid** and waiting **1 minute**: a **dense, well-defined acetowhite lesion touching or near the SCJ**. A cauliflower growth or ulcer = **suspicious for cancer** (biopsy/refer)." },
+    { "id": "blc-f20", "front": "A woman fails a full course of syndromic treatment for cervicitis. Next steps?", "back": "Check **adherence** and whether the **partner was treated**; re-examine; take an **endocervical swab for NAAT/culture and sensitivities** (AMR to doxycycline, azithromycin and cefixime is documented in Uganda); consider PID, HIV, **cancer**, TB/schistosomiasis." }
+  ],
+  "mcqs": [
+    {
+      "id": "blc-q01",
+      "stem": "A 19-year-old university student on the combined oral contraceptive pill attends a clinic in Kampala with occasional post-coital spotting. She is HIV-negative and has one partner of 2 years with no symptoms. Speculum shows a symmetrical, red, velvety area around the external os with a regular border; there is clear mucoid discharge and no mucopus. Which is the MOST likely diagnosis?",
+      "options": ["Acute gonococcal cervicitis", "Cervical intraepithelial neoplasia grade 3", "Cervical ectropion", "Endocervical polyp", "Trichomonas vaginalis infection"],
+      "answer": 2,
+      "explanation": "**C is correct.** A symmetrical, regular-bordered, red velvety area around the os in a young woman on the COC is an **ectropion** — oestrogen-driven eversion of columnar epithelium, which bleeds on contact. **A** is wrong: gonococcal cervicitis gives mucopurulent discharge from the os and an oedematous, friable cervix, and she has no risk factors. **B** is wrong: CIN is usually invisible without acetic acid and does not cause a regular symmetrical red area. **D** is wrong: a polyp is a discrete pedunculated mass protruding from the os. **E** is wrong: trichomonas causes frothy yellow-green discharge, itch and a punctate strawberry cervix.",
+      "difficulty": "core"
+    },
+    {
+      "id": "blc-q02",
+      "stem": "A 24-year-old P1 attends HC IV with yellow vaginal discharge for 10 days. Her husband has had painful micturition with a urethral discharge. She is not pregnant (negative urine hCG) and has no abdominal pain. Speculum shows mucopus from an oedematous, friable cervix; there is no cervical motion tenderness. No laboratory tests are available. What is the MOST appropriate treatment for her?",
+      "options": ["Ceftriaxone 1 g IM stat (or cefixime 400 mg PO stat) + doxycycline 100 mg PO 12-hourly for 7 days + metronidazole 2 g PO stat, and treat the husband", "Metronidazole 2 g PO stat and clotrimazole 500 mg pessary stat", "Amoxicillin 500 mg PO 8-hourly for 5 days", "Ceftriaxone 1 g IM stat + doxycycline 100 mg 12-hourly + metronidazole 400 mg 12-hourly for 14 days, and admit", "Refer for culture and give no treatment until results are available"],
+      "answer": 0,
+      "explanation": "**A is correct.** Mucopus + friable cervix + partner with urethral discharge = **cervical infection** (gonorrhoea/chlamydia). Syndromic treatment covers GC (ceftriaxone/cefixime), CT (doxycycline) and vaginal pathogens (metronidazole), with **partner treatment**. **B** is wrong: it treats only vaginal infection (BV/TV/candida) and leaves GC/CT untreated. **C** is wrong: amoxicillin is not a recommended STI regimen. **D** is wrong: this is a 14-day PID regimen and she has no pain or cervical motion tenderness; admission is not needed. **E** is wrong: syndromic management exists precisely so treatment is not delayed where labs are unavailable.",
+      "difficulty": "core"
+    },
+    {
+      "id": "blc-q03",
+      "stem": "A 27-year-old woman who is 14 weeks pregnant has mucopurulent cervical discharge and her partner has urethral discharge. Which regimen is MOST appropriate?",
+      "options": ["Ceftriaxone 1 g IM stat + doxycycline 100 mg 12-hourly for 7 days", "Ciprofloxacin 500 mg stat + doxycycline 100 mg 12-hourly for 7 days", "Fluconazole 150 mg stat + metronidazole 2 g stat", "Doxycycline 100 mg 12-hourly for 14 days alone", "Ceftriaxone 1 g IM stat (or cefixime 400 mg PO stat) + azithromycin 1 g PO stat"],
+      "answer": 4,
+      "explanation": "**E is correct.** In pregnancy, gonorrhoea is covered with a cephalosporin and chlamydia with **azithromycin 1 g stat** (or erythromycin) because **doxycycline is contraindicated**. **A** and **D** are wrong because they use doxycycline in pregnancy (and D omits gonorrhoea cover). **B** is wrong: ciprofloxacin has high gonococcal resistance, is avoided in pregnancy, and it again uses doxycycline. **C** is wrong: fluconazole is avoided in pregnancy and neither drug covers GC/CT.",
+      "difficulty": "core"
+    },
+    {
+      "id": "blc-q04",
+      "stem": "A 45-year-old P5, never screened, presents to Mengo gynaecology clinic with 4 months of post-coital bleeding. On speculum there is a 3 cm irregular, friable, exophytic growth on the anterior lip of the cervix that bleeds heavily on touch. What is the MOST appropriate next step?",
+      "options": ["Treat syndromically for cervicitis and review in 2 weeks", "Take a punch biopsy of the lesion for histology and refer to gynae-oncology", "Perform VIA and, if positive, offer thermal ablation today", "Avulse the growth with polyp forceps", "Reassure her that this is an ectropion"],
+      "answer": 1,
+      "explanation": "**B is correct.** An irregular, friable, exophytic growth is **suspicious for invasive cancer**; the diagnosis requires **histology**, and she needs staging and referral. **A** is wrong: treating as infection delays a cancer diagnosis. **C** is wrong: VIA is a screening test for women **without** a visible lesion, and ablation is **contraindicated** when cancer is suspected. **D** is wrong: this is not a pedunculated polyp; avulsion would cause haemorrhage and a poor specimen. **E** is wrong: ectropion is flat, regular and symmetrical.",
+      "difficulty": "core"
+    },
+    {
+      "id": "blc-q05",
+      "stem": "A 48-year-old P6 has inter-menstrual spotting. Speculum shows a 1 cm smooth, red, pedunculated mass protruding from the external os; the stalk is thin and visible; VIA of the surrounding cervix is negative. What is the BEST management?",
+      "options": ["Reassure and discharge; polyps never become malignant", "Hysterectomy", "Cryotherapy of the mass", "Avulsion with sponge-holding forceps, haemostasis and histology of the specimen", "Oral tranexamic acid and review in 3 months"],
+      "answer": 3,
+      "explanation": "**D is correct.** A small, thin-stalked endocervical polyp is removed in clinic by **twisting (avulsion)**, haemostasis with pressure/silver nitrate, and **always histology**. **A** is wrong: malignancy is rare but real, and symptoms warrant removal. **B** is wrong: hysterectomy is unnecessarily radical. **C** is wrong: ablation destroys the tissue so no histology is obtained. **E** is wrong: it treats the symptom and leaves the lesion and its histology unknown.",
+      "difficulty": "core"
+    },
+    {
+      "id": "blc-q06",
+      "stem": "A 62-year-old woman presents with 3 weeks of offensive vaginal discharge and low-grade fever. She has been menopausal for 12 years. Ultrasound shows a fluid-filled uterine cavity; the cervical os is pinpoint and cannot be probed in clinic. Which statement about her management is MOST accurate?",
+      "options": ["She needs antibiotics only; the fluid will drain spontaneously", "Hysterectomy should be done immediately without prior drainage", "Cervical dilatation to drain the pyometra, antibiotics, and biopsy of the cervix and endometrium to exclude malignancy", "Insert vaginal clotrimazole pessaries for 6 nights", "This is physiological post-menopausal cervical stenosis; reassure"],
+      "answer": 2,
+      "explanation": "**C is correct.** Pyometra results from **cervical stenosis**; drainage (dilatation) + antibiotics treat it, and in an elderly woman **cervical or endometrial cancer must be excluded** by biopsy. **A** is wrong: a stenosed canal will not drain spontaneously. **B** is wrong: operating on an infected, undiagnosed uterus is dangerous; drain, diagnose, then plan. **D** is wrong: this is not candidiasis. **E** is wrong: stenosis may be common after menopause, but pyometra with fever is not physiological.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "blc-q07",
+      "stem": "A 30-year-old woman with vaginal discharge is found to have lower abdominal pain, temperature 38.2 °C, cervical motion tenderness and bilateral adnexal tenderness. Urine hCG is negative. She is eating and drinking, and there is no peritonism or mass on ultrasound. What is the MOST appropriate treatment?",
+      "options": ["Ceftriaxone 1 g IM stat + doxycycline 100 mg PO 12-hourly for 14 days + metronidazole 400–500 mg PO 12-hourly for 14 days", "Cefixime 400 mg stat + doxycycline 100 mg 12-hourly for 7 days", "Metronidazole 2 g PO stat", "Laparotomy", "Azithromycin 1 g stat only"],
+      "answer": 0,
+      "explanation": "**A is correct.** She has **PID** (cervicitis that has ascended). Mild–moderate PID in a woman tolerating oral drugs is treated as an outpatient with ceftriaxone + **14 days** of doxycycline and metronidazole (anaerobic cover), with review in 72 hours. **B** is wrong: 7 days is the uncomplicated cervicitis regimen and lacks anaerobic cover. **C** is wrong: it misses GC and CT. **D** is wrong: surgery is for a ruptured/unresponsive TOA or diagnostic doubt. **E** is wrong: single-dose azithromycin is inadequate for PID.",
+      "difficulty": "core"
+    },
+    {
+      "id": "blc-q08",
+      "stem": "During routine VIA screening of a 34-year-old woman, you notice several smooth, yellow-white, translucent, dome-shaped blebs on the ectocervix near the os. VIA is negative and she has no symptoms. What should you do?",
+      "options": ["Refer for LEEP", "Take a biopsy of each cyst", "Treat with cryotherapy", "Treat for chlamydia", "Reassure her; these are Nabothian cysts and need no treatment"],
+      "answer": 4,
+      "explanation": "**E is correct.** These are **Nabothian cysts** — benign mucus-retention cysts formed by squamous metaplasia covering crypt openings in the TZ. No treatment is needed. **A**, **B** and **C** are wrong: they are unnecessary interventions for a benign finding in a VIA-negative woman. **D** is wrong: Nabothian cysts are not a sign of infection.",
+      "difficulty": "core"
+    },
+    {
+      "id": "blc-q09",
+      "stem": "A 28-year-old woman has had two courses of syndromic treatment for mucopurulent cervicitis (cefixime, doxycycline, metronidazole) at a HC III. She reports taking all the tablets. Her partner has not been treated. She still has mucopus. What is the MOST important next step?",
+      "options": ["Give a third identical course", "Ensure partner treatment and take an endocervical swab for NAAT/culture and sensitivity", "Perform a hysterectomy", "Give fluconazole 150 mg stat", "Reassure her that chronic cervicitis is normal"],
+      "answer": 1,
+      "explanation": "**B is correct.** The commonest reasons for failure are **re-infection from an untreated partner** and **antimicrobial resistance** (high resistance to doxycycline, azithromycin and cefixime has been reported in Uganda). Treat the partner and obtain a diagnosis with sensitivities. **A** is wrong: repeating the same drugs ignores both causes. **C** is wrong: grossly inappropriate. **D** is wrong: candida does not cause mucopus. **E** is wrong: persistent mucopus needs investigation (and screening for cancer).",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "blc-q10",
+      "stem": "Which of the following BEST explains why Chlamydia trachomatis and Neisseria gonorrhoeae infect the endocervix rather than the vaginal walls?",
+      "options": ["They require the alkaline pH of the vagina", "They are killed by cervical mucus", "They infect keratinised epithelium", "They preferentially infect columnar epithelial cells", "They only infect post-menopausal women"],
+      "answer": 3,
+      "explanation": "**D is correct.** GC and CT are tropic for **columnar** epithelium, which lines the endocervix (and ectropion). This is why ectopy increases susceptibility and why they cause mucopurulent cervicitis. **A** is wrong: the normal vaginal pH is acidic (about 4). **B** is wrong: mucus does not protect against them. **C** is wrong: the vagina is non-keratinised squamous, and the organisms do not favour squamous epithelium. **E** is wrong: they infect sexually active women of any age, most commonly the young.",
+      "difficulty": "core"
+    },
+    {
+      "id": "blc-q11",
+      "stem": "A 36-year-old P3 at 13 weeks' gestation had three previous painless mid-trimester losses at 18–20 weeks, each with little pain before the membranes bulged. There is no infection and the ultrasound is normal. What is the MOST appropriate management?",
+      "options": ["History-indicated (McDonald) cerclage now, with removal at 36–37 weeks", "Bed rest until term", "Emergency cerclage only if she presents with bulging membranes", "Hysterectomy after delivery", "Tocolysis with nifedipine from now until 34 weeks"],
+      "answer": 0,
+      "explanation": "**A is correct.** Three or more previous mid-trimester losses/preterm births is the RCOG indication for **history-indicated cerclage at 12–14 weeks**; it is removed at 36–37 weeks. **B** is wrong: bed rest has no proven benefit and causes thrombosis risk. **C** is wrong: waiting for bulging membranes gives a much poorer outcome. **D** is irrelevant. **E** is wrong: tocolysis does not treat a structurally weak cervix and prolonged use is not recommended.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "blc-q12",
+      "stem": "A 42-year-old woman with a 12-week-size pelvic mass and urinary frequency is found on ultrasound to have a 9 cm fibroid arising from the supravaginal cervix. She has completed her family. What is the MOST important surgical consideration when she undergoes hysterectomy at a regional referral hospital?",
+      "options": ["The ovaries must always be removed", "Spinal anaesthesia is contraindicated", "The ureters may be displaced by the fibroid and must be identified to avoid injury", "The procedure can be done safely at HC III", "A vaginal hysterectomy is always preferred"],
+      "answer": 2,
+      "explanation": "**C is correct.** Cervical fibroids distort pelvic anatomy and displace the **ureters**, which normally run 1.5–2 cm lateral to the cervix under the uterine artery; this is a classic cause of ureteric injury. **A** is wrong: ovaries are conserved in a 42-year-old without ovarian pathology. **B** is wrong: regional anaesthesia is not contraindicated. **D** is wrong: this is complex surgery needing an experienced surgeon at a referral hospital. **E** is wrong: a large cervical fibroid usually makes vaginal hysterectomy difficult.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "blc-q13",
+      "stem": "A 32-year-old woman at 34 weeks' gestation presents with painless vaginal spotting after intercourse. The fetal heart is normal. She has not had an ultrasound this pregnancy. What is the MOST appropriate FIRST step before any speculum or digital examination?",
+      "options": ["Digital vaginal examination to assess the cervix", "Speculum examination and VIA", "Immediate caesarean section", "Syndromic STI treatment", "Ultrasound to locate the placenta"],
+      "answer": 4,
+      "explanation": "**E is correct.** Any bleeding in late pregnancy is **placenta praevia until proven otherwise**; the placenta must be localised before vaginal examination. Once praevia is excluded, a gentle speculum can look for ectropion, polyp, cervicitis or cancer. **A** is wrong and dangerous: a digital examination can provoke massive haemorrhage in praevia. **B** is wrong as the first step, and VIA is not done in pregnancy for routine screening. **C** is wrong: there is no indication. **D** is wrong: it treats a presumed cause without assessment.",
+      "difficulty": "core"
+    },
+    {
+      "id": "blc-q14",
+      "stem": "A 22-year-old woman has a 1-week history of curdy white vaginal discharge with intense vulval itching. Her partner is asymptomatic, she has one partner, and the risk assessment is negative. Speculum shows white plaques on the vaginal walls; the cervix is healthy with no mucopus. She is not pregnant. What is the BEST treatment?",
+      "options": ["Ceftriaxone 1 g IM stat + doxycycline 7 days", "Clotrimazole 500 mg vaginal pessary stat (or fluconazole 150 mg PO stat)", "Metronidazole 2 g PO stat only", "Doxycycline 100 mg 12-hourly for 14 days", "Cryotherapy of the cervix"],
+      "answer": 1,
+      "explanation": "**B is correct.** Curdy discharge, itch, vulvovaginal erythema and a healthy cervix with negative risk assessment = **vulvovaginal candidiasis**, treated with clotrimazole or fluconazole (not in pregnancy). **A** and **D** are wrong: there is no evidence of cervical infection. **C** is wrong: metronidazole treats BV/TV, not candida (in syndromic practice it may be added, but on its own it misses the diagnosis). **E** is wrong and irrelevant.",
+      "difficulty": "core"
+    },
+    {
+      "id": "blc-q15",
+      "stem": "A 26-year-old woman has troublesome mucoid discharge and post-coital spotting. HPV test is negative, NAAT for chlamydia/gonorrhoea is negative, and speculum shows a large ectropion. She has been on the combined pill for 3 years and wants the symptoms to stop. What is the MOST appropriate next step?",
+      "options": ["Radical trachelectomy", "Long-term doxycycline", "Cone biopsy", "Discuss switching to a progestogen-only method and, if symptoms persist, offer ablation (cryotherapy/thermal ablation)", "Tell her ectropion is premalignant and requires LEEP"],
+      "answer": 3,
+      "explanation": "**D is correct.** Once cancer and infection are excluded, a **symptomatic** ectropion may be managed by reducing oestrogen exposure (stopping COC) and, if needed, **ablation**. **A** and **C** are wrong: excisional/radical procedures are for neoplasia. **B** is wrong: there is no infection and antibiotics will not change the epithelium. **E** is wrong: ectropion is physiological, not premalignant.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "blc-c01",
+      "title": "Discharge and a worried husband",
+      "presentation": "Nakato, a 23-year-old P1+0 hairdresser, comes to a HC IV in Wakiso with a 2-week history of yellow vaginal discharge and spotting after sex. She delivered 8 months ago and is using DMPA. Her husband recently travelled and now has pain on passing urine.",
+      "steps": [
+        { "prompt": "What focused history do you take, and why?", "answer": "Character of discharge (mucopurulent vs curdy vs frothy vs fishy) to separate cervical from vaginal causes; **lower abdominal pain, fever, dyspareunia** (PID); **risk assessment** — partner symptoms (positive here), new/multiple partners; **LMP and pregnancy possibility** (DMPA, breastfeeding — affects doxycycline); breastfeeding status; HIV status and last test; cervical screening history; previous STI treatment." },
+        { "prompt": "Examination shows T 36.8 °C, soft non-tender abdomen. Speculum: mucopus from a red, oedematous cervix that bleeds on touching with a swab. No cervical motion or adnexal tenderness. What is your diagnosis and differential?", "answer": "**Acute mucopurulent cervicitis**, most likely gonococcal and/or chlamydial (partner with urethritis = positive risk assessment). Differentials: ectropion with superadded infection, trichomonas (strawberry cervix, frothy discharge), early PID (no — no CMT/adnexal tenderness), and — because she has contact bleeding — CIN/cancer to be excluded once inflammation settles." },
+        { "prompt": "What investigations are useful at a HC IV?", "answer": "**Urine pregnancy test**; HIV test and syphilis rapid test; endocervical swab for **GeneXpert CT/NG** or gram stain if available (not required to start treatment); VIA **after** treatment (inflammation causes false positives) — or an HPV sample." },
+        { "prompt": "She is not pregnant but is breastfeeding. Write the treatment plan.", "answer": "Syndromic treatment of cervical + vaginal infection: **ceftriaxone 1 g IM stat (or cefixime 400 mg PO stat)** + chlamydia cover — as she is breastfeeding, **azithromycin 1 g PO stat** is preferred over doxycycline — + **metronidazole 2 g PO stat** (or 400–500 mg 12-hourly for 7 days to minimise milk levels; brief interruption of breastfeeding after a 2 g dose is sometimes advised). **4 Cs**: compliance, counselling, **condoms**, **contact slip** — the husband is treated with the urethral discharge regimen. Abstain until 7 days after both complete treatment. Review in 7 days." },
+        { "prompt": "At review she is better but still has some post-coital spotting. What now?", "answer": "Re-examine: if cervicitis has resolved, do **VIA/HPV testing**; if an ectropion is present and screening is negative — reassure (DMPA/postpartum). If a lesion is seen or bleeding persists → colposcopy/biopsy at a referral hospital. If mucopus persists → check partner treatment and send swab for culture/sensitivity (AMR)." }
+      ],
+      "takeaway": "Mucopus + friable cervix + symptomatic partner = cervicitis: treat GC and CT syndromically (adjusted for pregnancy/breastfeeding), treat the partner, and screen the cervix once inflammation settles — contact bleeding is never simply 'infection' until the cervix has been screened."
+    },
+    {
+      "id": "blc-c02",
+      "title": "Post-coital bleeding at 45",
+      "presentation": "Mrs Akello, a 45-year-old P6+0 teacher from Lira, is referred to Mengo Hospital gynaecology clinic with 3 months of post-coital bleeding and occasional inter-menstrual spotting. She has never been screened. She is HIV-positive on TLD with a suppressed viral load.",
+      "steps": [
+        { "prompt": "Why is this presentation worrying and what history do you add?", "answer": "PCB in a **45-year-old, never-screened, HIV-positive** woman — cervical cancer must be excluded first (HIV raises the risk several-fold). Ask: offensive/blood-stained discharge, weight loss, back/leg pain, leg swelling, urinary/faecal leakage (advanced disease), menstrual pattern, contraception, partner symptoms, CD4 history, previous STIs." },
+        { "prompt": "Speculum shows a smooth, 1.5 cm, red, pedunculated mass protruding from the os with a thin stalk. The rest of the ectocervix looks healthy. What is your impression and what do you do next?", "answer": "**Endocervical polyp** (differentials: prolapsed submucous fibroid, polypoid carcinoma, ectropion). Do **VIA/HPV testing** of the rest of the cervix, then **avulse** the polyp with sponge-holding forceps (twist), secure haemostasis with pressure/silver nitrate, and put it in **formalin for histology**." },
+        { "prompt": "VIA is positive: a dense acetowhite area at 12 o'clock touching the SCJ, occupying under 50% of the cervix, fully visible, no features of cancer. What is the plan?", "answer": "She is eligible for **ablation**: offer **thermal ablation** (or cryotherapy) in the same visit (screen-and-treat), with counselling. For a woman living with HIV WHO recommends screen–triage–treat where possible (HPV test then VIA triage); follow-up **HPV/VIA at 12 months** after treatment. Had the lesion been large (>75%), extended into the canal or looked suspicious → LEEP or biopsy at a referral centre." },
+        { "prompt": "Histology returns: benign endocervical polyp. What further follow-up does she need?", "answer": "Review the bleeding: if it has stopped, routine care. She needs **post-treatment screening at 1 year**, then regular screening as a woman living with HIV (WHO: every 3–5 years with HPV, or per Uganda programme). Continue ART adherence counselling. If bleeding persists → colposcopy and endometrial assessment." },
+        { "prompt": "How would you present her on the ward round?", "answer": "'Mrs A, 45, P6, HIV-positive virally suppressed, never screened, with 3 months of PCB. Speculum showed a 1.5 cm pedunculated endocervical polyp which was avulsed and sent for histology — benign. VIA was positive with an ablation-eligible lesion, treated with thermal ablation. Plan: repeat HPV/VIA in 12 months, continue ART, return if bleeding recurs.'" }
+      ],
+      "takeaway": "Treating the obvious benign lesion (polyp) is only half the job: the whole cervix must be screened, the polyp must go for histology, and women living with HIV need screen-and-treat plus 12-month follow-up."
+    },
+    {
+      "id": "blc-c03",
+      "title": "The mass that wasn't a polyp",
+      "presentation": "Mrs Namutebi, a 39-year-old P2, attends a regional referral hospital with 6 months of heavy periods, a 'lump' felt at the vaginal opening in the last week, and cramping lower abdominal pain. Hb is 7.2 g/dL.",
+      "steps": [
+        { "prompt": "What are your differentials for a mass at the os with heavy bleeding?", "answer": "**Prolapsed submucous fibroid (fibroid polyp)**, large endocervical polyp, cervical fibroid, polypoid cervical or endometrial cancer/sarcoma, uterine inversion (post-partum — not here), products of conception (check hCG)." },
+        { "prompt": "On speculum a 5 cm firm, pale, smooth mass fills the vagina; its stalk passes through a dilated os into the uterine cavity. What investigations do you do?", "answer": "**Pregnancy test**; **FBC** (Hb 7.2), group and cross-match; **pelvic ultrasound** to confirm the stalk arises from the uterine cavity and to look for other fibroids; renal function if retention; VIA/HPV (if the cervix can be seen) for screening." },
+        { "prompt": "What is the management?", "answer": "**Correct anaemia**: transfuse if symptomatic/very low before surgery, then **ferrous sulphate 200 mg PO 8-hourly** (with folic acid). **Vaginal myomectomy in theatre** under spinal/GA: grasp the fibroid, clamp and ligate the pedicle (or twist off), achieve haemostasis, **histology**. Antibiotics if the mass is necrotic/infected. Do not attempt avulsion in OPD — heavy bleeding from a thick stalk." },
+        { "prompt": "What complications should you anticipate and what follow-up is required?", "answer": "Haemorrhage from the pedicle; **uterine inversion** if traction is excessive; infection; perforation if the base is high; recurrence from other fibroids. Follow-up with histology (exclude leiomyosarcoma), Hb check, and ultrasound for residual fibroids; discuss further fertility or definitive options." }
+      ],
+      "takeaway": "A large, firm, pale 'polyp' with heavy bleeding is often a prolapsed submucous fibroid: image it, correct anaemia, and remove it in theatre with histology — never pull on it in clinic."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions (Abnormal vaginal discharge syndrome; PID)", "source": "Ministry of Health, Uganda", "year": 2023, "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf" },
+    { "title": "Guidelines for the management of symptomatic sexually transmitted infections: Vaginal discharge syndrome", "source": "World Health Organization (NCBI Bookshelf)", "year": 2021, "url": "https://www.ncbi.nlm.nih.gov/books/NBK572663/" },
+    { "title": "Updated recommendations for the treatment of Neisseria gonorrhoeae, Chlamydia trachomatis and Treponema pallidum (syphilis)", "source": "World Health Organization (NCBI Bookshelf)", "year": 2024, "url": "https://www.ncbi.nlm.nih.gov/books/NBK605896/" },
+    { "title": "2023 European (IUSTI/WHO) guideline on the management of vaginal discharge", "source": "IUSTI", "year": 2023, "url": "https://iusti.org/wp-content/uploads/2023/04/IUSTI-vaginal-discharge-guidelines_2023.pdf" },
+    { "title": "Bacterial isolates and antibiotic susceptibility among women with abnormal vaginal discharge attending the gynecology clinic at a tertiary hospital in southwestern Uganda", "source": "BMC Women's Health", "year": 2023, "url": "https://pubmed.ncbi.nlm.nih.gov/37932705/" },
+    { "title": "Pelvic Inflammatory Disease — STI Treatment Guidelines", "source": "US Centers for Disease Control and Prevention", "year": 2021, "url": "https://www.cdc.gov/std/treatment-guidelines/pid.htm" },
+    { "title": "UK national guideline for the management of pelvic inflammatory disease", "source": "BASHH", "year": 2019, "url": "https://www.bashh.org/_userfiles/pages/files/resources/pidupdate2019.pdf" },
+    { "title": "Cervical Polyps", "source": "StatPearls (NCBI Bookshelf)", "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK562185/" },
+    { "title": "Nabothian Cyst", "source": "StatPearls (NCBI Bookshelf)", "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK559047/" },
+    { "title": "Cervical Ectropion", "source": "StatPearls", "url": "https://www.statpearls.com/point-of-care/19233" },
+    { "title": "Abnormal Cervical Appearance: What to Do, When to Worry?", "source": "Mayo Clinic Proceedings", "year": 2011, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3031439/" },
+    { "title": "Cervical Cerclage (Green-top Guideline No. 75)", "source": "Royal College of Obstetricians and Gynaecologists", "year": 2022, "url": "https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/cervical-cerclage-green-top-guideline-no-75/" }
+  ]
+}

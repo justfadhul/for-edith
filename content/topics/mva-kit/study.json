@@ -1,0 +1,457 @@
+{
+  "slug": "mva-kit",
+  "flashcards": [
+    {
+      "id": "mva-f01",
+      "front": "Capacity and vacuum of the Ipas-type MVA aspirator",
+      "back": "**60 mL** capacity; vacuum of about **60–66 cm Hg (24–26 in Hg)** – similar to an electric pump."
+    },
+    {
+      "id": "mva-f02",
+      "front": "Name the parts of the MVA aspirator",
+      "back": "Cylinder, plunger with plunger arms, **O-ring**, collar stop (retainer tab), valve with **two buttons**, valve liner and cap."
+    },
+    {
+      "id": "mva-f03",
+      "front": "Cannula sizes available in a standard MVA kit",
+      "back": "**4, 5, 6, 7, 8, 9, 10 and 12 mm** (colour-coded); dots mark cm from the tip."
+    },
+    {
+      "id": "mva-f04",
+      "front": "Rule of thumb for choosing cannula size",
+      "back": "Cannula (mm) ≈ **uterine size in weeks**; in incomplete abortion choose the **largest that passes the open os comfortably** (too small clogs, too large tears)."
+    },
+    {
+      "id": "mva-f05",
+      "front": "Main indications for MVA",
+      "back": "**Incomplete/inevitable abortion**, missed abortion, induced abortion (legal indications), septic abortion (after antibiotics), small molar pregnancy, endometrial biopsy – uterine size up to ~12 (–14) weeks."
+    },
+    {
+      "id": "mva-f06",
+      "front": "Is septic abortion a contraindication to MVA?",
+      "back": "**No.** Start IV antibiotics first, then evacuate promptly – evacuation is source control."
+    },
+    {
+      "id": "mva-f07",
+      "front": "Paracervical block: drug, volume, maximum dose",
+      "back": "**Lidocaine 1%**, up to **20 mL** (200 mg); maximum **4.5 mg/kg** without adrenaline. Aspirate before every injection."
+    },
+    {
+      "id": "mva-f08",
+      "front": "Paracervical block: injection sites",
+      "back": "1–2 mL at the **tenaculum site (12 o'clock)**, then **4 and 8 o'clock** (± 2 and 10) at the **cervicovaginal junction**, 1.5–3 cm deep; wait 2–3 minutes."
+    },
+    {
+      "id": "mva-f09",
+      "front": "Recommended oral analgesia before MVA",
+      "back": "**Ibuprofen 400–800 mg** orally 30–60 min before (± paracetamol 1 g); WHO advises against routine general anaesthesia."
+    },
+    {
+      "id": "mva-f10",
+      "front": "Four signs that uterine evacuation is complete",
+      "back": "**Red/pink foam** with no more tissue; **gritty sensation**; **uterus contracts/grips** the cannula; **increased cramping**."
+    },
+    {
+      "id": "mva-f11",
+      "front": "Why must you never push the plunger while the cannula is in the uterus?",
+      "back": "It would push **air and aspirate back into the uterus** (risk of air embolism and infection). Detach first, then empty."
+    },
+    {
+      "id": "mva-f12",
+      "front": "Why do you lose vacuum during MVA? (4 causes)",
+      "back": "Aspirator **full**; cannula **clogged**; cannula aperture **withdrawn past the os**; valves not properly closed/charged or worn O-ring."
+    },
+    {
+      "id": "mva-f13",
+      "front": "Signs of uterine perforation during MVA",
+      "back": "Instrument goes **deeper than expected** with **loss of resistance**, **sudden pain**, **fat/omentum/bowel** in aspirate, deteriorating vitals."
+    },
+    {
+      "id": "mva-f14",
+      "front": "How do you examine aspirated tissue and what do you look for?",
+      "back": "Rinse in a strainer, float in **water or vinegar** in a clear dish **backlit**: **villi**, decidua, **gestational sac**/membranes (fetal parts ≥9 wk). No villi → incomplete, already passed, or **ectopic**; vesicles → **mole**."
+    },
+    {
+      "id": "mva-f15",
+      "front": "Sequence of MVA instrument processing",
+      "back": "**Keep wet/decontaminate (0.5% chlorine 10 min) → clean (detergent, soft brush) → HLD or sterilisation → dry & store** covered."
+    },
+    {
+      "id": "mva-f16",
+      "front": "HLD options for MVA instruments",
+      "back": "**Boil 20 min**, or soak in **0.5% chlorine 20 min**, or **2% glutaraldehyde 20 min** (rinse chemicals off with boiled water)."
+    },
+    {
+      "id": "mva-f17",
+      "front": "Sterilisation options for MVA instruments",
+      "back": "**Steam autoclave** (121 °C, 30 min wrapped) for items rated for it (aspirator, metal instruments); **2% glutaraldehyde 8–10 hours**. Many plastic cannulae must NOT be autoclaved."
+    },
+    {
+      "id": "mva-f18",
+      "front": "How to make 0.5% chlorine from JIK (3.5%)",
+      "back": "Parts water = (3.5 ÷ 0.5) − 1 = **6** → **1 part JIK : 6 parts water**; make fresh daily."
+    },
+    {
+      "id": "mva-f19",
+      "front": "What is post-abortion syndrome (haematometra) after MVA?",
+      "back": "Blood/clot accumulates in the uterus minutes–hours later: **severe cramps, enlarged tender uterus, little external bleeding**. Treat by **re-aspiration** + uterotonic."
+    },
+    {
+      "id": "mva-f20",
+      "front": "Early symptoms of lidocaine toxicity",
+      "back": "**Perioral numbness, metallic taste, tinnitus**, light-headedness → twitching → **seizures**, arrhythmia. Stop, ABC, oxygen, diazepam for seizures."
+    },
+    {
+      "id": "mva-f21",
+      "front": "Which contraceptive can be inserted at the end of an uncomplicated MVA?",
+      "back": "**Copper IUD / LNG-IUS** (MEC 1 after first-trimester abortion); implants and injectables also immediately. Not IUD after septic abortion (MEC 4)."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "mva-q01",
+      "stem": "You are assisting a midwife at an HC IV to perform MVA for incomplete abortion. After releasing the valves, blood flows briskly into the aspirator, then flow suddenly stops although tissue is still felt in the uterus. The cylinder is about one-third full. What is the MOST likely cause?",
+      "options": [
+        "The uterus is empty",
+        "The cannula aperture has been withdrawn past the internal os or is clogged",
+        "The aspirator is full",
+        "Uterine perforation has occurred",
+        "The paracervical block has worn off"
+      ],
+      "answer": 1,
+      "explanation": "Loss of vacuum with the cylinder only one-third full suggests **the aperture slipped out through the os (seal lost) or tissue clogged the cannula**. **A**: an empty uterus gives pink foam and a gritty feel, not sudden cessation with tissue remaining. **C**: the cylinder is not full. **D**: perforation is signalled by excessive depth, loss of resistance, pain or abnormal tissue – not simply stopped flow. **E**: analgesia does not affect suction.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mva-q02",
+      "stem": "A 60 kg woman is to have MVA. The clerk draws up 30 mL of 1% lidocaine for the paracervical block. What is the BEST response?",
+      "options": [
+        "Proceed – 30 mL is the standard dose",
+        "Use 30 mL but inject quickly to reduce pain",
+        "Switch to 2% lidocaine 20 mL for a denser block",
+        "Reduce to a maximum of 20 mL (200 mg), aspirate before each injection",
+        "Omit the block and give general anaesthesia"
+      ],
+      "answer": 3,
+      "explanation": "Standard paracervical block is **up to 20 mL of 1% lidocaine (200 mg)**, maximum 4.5 mg/kg plain (270 mg for 60 kg is an absolute ceiling, but 200 mg is the recommended maximum volume). **A/B**: 300 mg exceeds the recommended dose; rapid injection increases toxicity risk. **C**: 2% 20 mL = 400 mg – toxic. **E**: WHO advises against routine GA.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mva-q03",
+      "stem": "During MVA for a 10-week incomplete abortion, the cannula suddenly advances to 14 cm without resistance, the woman cries out in pain, and yellow fatty tissue is seen in the aspirate. She is haemodynamically stable. What is the MOST appropriate management?",
+      "options": [
+        "Stop, and arrange laparotomy to inspect the bowel and repair the perforation",
+        "Continue aspiration gently to complete the evacuation",
+        "Give oxytocin and discharge home after 2 hours",
+        "Switch to a smaller cannula and continue",
+        "Repeat MVA in one week"
+      ],
+      "answer": 0,
+      "explanation": "Fat/omentum in the aspirate = **perforation with possible bowel/omental injury → stop and laparotomy** even if stable. **B/D** could cause further visceral injury. **C/E**: observation alone is only acceptable for a small fundal perforation with nothing abnormal aspirated.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mva-q04",
+      "stem": "Which step in processing MVA instruments is MOST important for successful high-level disinfection?",
+      "options": [
+        "Soaking in 0.5% chlorine for 10 minutes",
+        "Air-drying before storage",
+        "Boiling for 20 minutes",
+        "Autoclaving at 121 °C",
+        "Thorough cleaning with detergent and water after disassembly"
+      ],
+      "answer": 4,
+      "explanation": "**Cleaning** removes the organic material that shields micro-organisms; HLD or sterilisation **fails on dirty instruments**. **A**: decontamination soak reduces risk to handlers but does not replace cleaning. **C/D** are effective only on clean items. **B** is for storage.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mva-q05",
+      "stem": "A nurse prepares 0.5% chlorine solution from JIK (3.5% sodium hypochlorite). How many parts of water should be added to 1 part of JIK?",
+      "options": [
+        "3",
+        "5",
+        "6",
+        "7",
+        "10"
+      ],
+      "answer": 2,
+      "explanation": "Parts water = (% concentrate ÷ % desired) − 1 = (3.5 ÷ 0.5) − 1 = **6**. **A/B** give too-strong solutions (corrosive, wasteful). **D**: 7 is the ratio (3.5/0.5) forgetting to subtract 1 – slightly too weak. **E**: much too weak for HLD.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mva-q06",
+      "stem": "A 26-year-old is 20 minutes post-MVA for missed abortion at 9 weeks. She has severe cramping, pulse 104, and the uterus is palpable at 14-week size and tender, with minimal vaginal bleeding. What is the MOST likely diagnosis and management?",
+      "options": [
+        "Uterine perforation – laparotomy",
+        "Normal post-procedure cramps – ibuprofen only",
+        "Haematometra – re-aspirate the uterus and give a uterotonic",
+        "Septic abortion – IV antibiotics",
+        "Ectopic pregnancy – laparotomy"
+      ],
+      "answer": 2,
+      "explanation": "An enlarging, tender uterus with little external bleeding shortly after MVA = **haematometra (post-abortion syndrome)**; treat by **re-aspiration** of clot + uterotonic. **A**: no signs of perforation (peritonism, abnormal aspirate). **B**: an enlarged tender uterus is not normal. **D**: 20 minutes is too early for sepsis. **E**: villi were presumably obtained at MVA; the uterus is the problem.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mva-q07",
+      "stem": "While injecting a paracervical block, the patient complains of tingling around her lips, a metallic taste and ringing in her ears. What is the MOST appropriate immediate action?",
+      "options": [
+        "Inject the remaining lidocaine quickly and start the procedure",
+        "Give IV atropine 0.5 mg",
+        "Give adrenaline 1 mg IV",
+        "Reassure her that this is anxiety",
+        "Stop injecting, call for help, give oxygen and monitor; be ready to treat seizures with diazepam"
+      ],
+      "answer": 4,
+      "explanation": "These are early signs of **lidocaine toxicity** (probable intravascular injection). **Stop, ABC, oxygen, monitor**, treat seizures with **diazepam**; lipid emulsion if available. **A** worsens toxicity. **C**: adrenaline is for arrest/anaphylaxis. **D**: dangerous dismissal. **B**: atropine treats vagal bradycardia, not toxicity.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mva-q08",
+      "stem": "A 30-year-old with an incomplete abortion at 8 weeks has temperature 38.9 °C, offensive discharge and a tender uterus. BP 110/70, pulse 108. What is the BEST timing of MVA?",
+      "options": [
+        "After starting IV antibiotics, as soon as possible (within hours)",
+        "After 48 hours of IV antibiotics when she is afebrile",
+        "Immediately, before antibiotics, to remove the source",
+        "MVA is contraindicated; use misoprostol only",
+        "Only after she has had 7 days of oral antibiotics"
+      ],
+      "answer": 0,
+      "explanation": "Septic incomplete abortion: **start IV antibiotics, then evacuate promptly** (source control). **C** increases bacteraemia. **B/E**: delay leaves infected necrotic tissue – linked to maternal deaths in Ugandan audits. **D**: infection is not a contraindication; MVA is faster and more reliable than misoprostol in sepsis.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mva-q09",
+      "stem": "Which MVA indication is MOST appropriate for use of a 4 mm cannula?",
+      "options": [
+        "Incomplete abortion at 11 weeks' uterine size",
+        "Missed abortion at 12 weeks",
+        "Molar pregnancy with a 16-week uterus",
+        "Endometrial biopsy in a woman with abnormal uterine bleeding",
+        "Evacuation of retained placenta after term delivery"
+      ],
+      "answer": 3,
+      "explanation": "Small cannulae (e.g. 4 mm) are used for **endometrial biopsy** and very early pregnancy. **A/B** need ~9–12 mm cannulae. **C**: a 16-week mole needs electric vacuum aspiration with larger cannulae at a hospital. **E**: MVA kits are not designed for term retained placenta (manual removal under anaesthesia).",
+      "difficulty": "core"
+    },
+    {
+      "id": "mva-q10",
+      "stem": "A 24-year-old is booked for MVA at 10 weeks. Bimanual examination is skipped because 'the os is open'. The cannula is pushed anteriorly and perforates. What is the MOST likely preventable factor?",
+      "options": [
+        "Using lidocaine 1% instead of 2%",
+        "Not identifying a retroverted uterus and not applying tenaculum traction",
+        "Using ibuprofen before the procedure",
+        "Choosing a plastic rather than metal cannula",
+        "Doing the procedure in a treatment room rather than theatre"
+      ],
+      "answer": 1,
+      "explanation": "Most perforations occur when the **uterine position (retroversion) is unknown** and the **canal is not straightened with tenaculum traction**. **A**: 1% is correct. **C**: NSAIDs are recommended. **D**: plastic cannulae are safer. **E**: MVA is appropriately done in a procedure room.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mva-q11",
+      "stem": "An 8 mm cannula is being used for MVA. Pink foam appears, the uterus grips the cannula and there is a gritty sensation. The aspirate floated in water shows only blood clot and no villi or membranes. The woman had presented with bleeding at 7 weeks and a closed os; no scan was done. What is the MOST appropriate next step?",
+      "options": [
+        "Discharge – the uterus is empty",
+        "Repeat MVA with a larger cannula",
+        "Check serum hCG and arrange ultrasound to exclude ectopic pregnancy",
+        "Give misoprostol 800 µg",
+        "Start methotrexate immediately"
+      ],
+      "answer": 2,
+      "explanation": "No villi from a uterus thought to hold a pregnancy → **complete miscarriage already occurred, or ectopic pregnancy** – check **hCG and ultrasound**. **A** risks missing an ectopic. **B/D**: the uterus is empty by clinical signs. **E**: methotrexate requires a confirmed diagnosis and criteria.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "mva-q12",
+      "stem": "Which statement about the Ipas-type MVA aspirator is CORRECT?",
+      "options": [
+        "Emptying is done by pushing the plunger with the cannula still in the uterus",
+        "The O-ring should be left dry to maintain the seal",
+        "The aspirator should be attached to the cannula before inserting the cannula",
+        "The plunger arms must lock over the cylinder rim when charging",
+        "Glutaraldehyde needs only 5 minutes for sterilisation"
+      ],
+      "answer": 3,
+      "explanation": "When charging, **pull the plunger back until the arms lock** over the rim (otherwise it can spring back). **B**: the O-ring is lubricated with silicone. **C**: insert the cannula first, then attach the charged aspirator. **A**: never push the plunger into the uterus. **E**: glutaraldehyde needs 20 min for HLD and 8–10 hours for sterilisation.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mva-q13",
+      "stem": "During MVA a woman becomes pale and sweaty, and her pulse falls to 44/min as the tenaculum is applied and the cervix dilated. BP 80/50. What is the MOST appropriate immediate management?",
+      "options": [
+        "Continue quickly to finish the procedure",
+        "Laparotomy for suspected perforation",
+        "Give adrenaline 1 mg IM",
+        "Give 20 mL more lidocaine",
+        "Stop traction, lie her flat with legs raised, give oxygen and IV fluids; atropine 0.5 mg IV if bradycardia persists"
+      ],
+      "answer": 4,
+      "explanation": "Bradycardia and hypotension with cervical manipulation = **vasovagal reaction**. **Stop stimulation, lie flat/legs raised, oxygen, fluids, atropine** if needed. **A** worsens vagal stimulation. **C**: adrenaline is for anaphylaxis/arrest. **D** risks toxicity. **B**: no features of perforation.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mva-q14",
+      "stem": "A newly qualified doctor asks which pain-management approach WHO recommends for MVA in the first trimester. Which is BEST?",
+      "options": [
+        "General anaesthesia routinely",
+        "Paracervical block plus NSAID, with verbal support; offer conscious sedation where available",
+        "No analgesia is needed as MVA is painless",
+        "IV morphine 10 mg for all patients",
+        "Paracetamol alone"
+      ],
+      "answer": 1,
+      "explanation": "WHO recommends **NSAIDs + paracervical block**, with non-pharmacological support and sedation where available, and **against routine GA**. **A**: unnecessary risk and cost. **C**: MVA is painful – Ugandan data show under-treated pain. **D**: excessive and requires monitoring. **E**: paracetamol alone is less effective than NSAIDs.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mva-q15",
+      "stem": "Which uterine size is generally the upper limit for MVA in routine practice at an HC III?",
+      "options": [
+        "6 weeks",
+        "8 weeks",
+        "12 weeks",
+        "18 weeks",
+        "22 weeks"
+      ],
+      "answer": 2,
+      "explanation": "MVA is routinely used up to about **12 weeks' uterine size** (WHO: vacuum aspiration up to 14 weeks with skilled providers and appropriate cannulae). **A/B**: too restrictive. **D/E**: require misoprostol ± D&E at a hospital.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "mva-c01",
+      "title": "Routine MVA for incomplete abortion at an HC IV",
+      "presentation": "A 24-year-old P1+1 at 9 weeks by LMP is admitted to an HC IV in Luweero with bleeding and passage of clots. Pulse 92, BP 116/72, temperature 36.8 °C, Hb 10.5 g/dL. Speculum: open os, tissue in the canal. The midwife asks you to help her perform MVA.",
+      "steps": [
+        {
+          "prompt": "What must you do before starting the procedure?",
+          "answer": "Counsel and **consent**; confirm no sepsis/ectopic features; **bimanual exam: uterine size (8 wk) and position**; group & Rh, HIV test; **ibuprofen 400–800 mg PO 30–60 min before**; empty bladder; prepare, **assemble, lubricate, charge and test the aspirator**; lay out cannulae (7–9 mm), tenaculum, speculum, antiseptic, lidocaine, emergency drugs; discuss FP choice (she wants an IUD)."
+        },
+        {
+          "prompt": "Describe the paracervical block.",
+          "answer": "Lidocaine 1%, up to **20 mL**. Inject **1–2 mL at 12 o'clock** and apply tenaculum; with traction, inject **3–5 mL at 4 and 8 o'clock** at the cervicovaginal junction, 1.5–3 cm deep, **aspirating before each injection**; wait **2–3 minutes**, talking to her."
+        },
+        {
+          "prompt": "Describe the aspiration and how you know you're finished.",
+          "answer": "Traction to straighten the canal; insert **8 mm cannula** with rotation to fundus, withdraw 1 cm; attach charged aspirator; release valves; rotate 180° each way and move in and out without leaving the os. **Completion: pink foam, gritty feel, uterus grips cannula, cramping.** Close valves, detach, empty into strainer."
+        },
+        {
+          "prompt": "What do you do with the tissue and what else before she leaves the couch?",
+          "answer": "Float tissue in water/vinegar against light: **villi and decidua** confirm IUP. **Insert copper IUD** (MEC 1). Remove tenaculum, check bleeding. Monitor vitals and bleeding every 15 min for 30–60 min; **anti-D** if Rh-negative; danger signs; follow-up in 2 weeks."
+        },
+        {
+          "prompt": "What happens to the instruments?",
+          "answer": "Immediately **keep wet/soak in 0.5% chlorine 10 min** → disassemble and **clean with detergent and soft brush** → **HLD (boil 20 min, or 0.5% chlorine/2% glutaraldehyde 20 min, rinse with boiled water)** or sterilise per manufacturer → dry, reassemble, lubricate O-ring, store covered."
+        }
+      ],
+      "takeaway": "Safe MVA = know the uterus, block properly, gentle technique, check the tissue, give FP, and process the instruments."
+    },
+    {
+      "id": "mva-c02",
+      "title": "Perforation during MVA",
+      "presentation": "At a busy regional referral hospital, an intern performs MVA on a 35-year-old P5 with incomplete abortion after an unsafe procedure at about 11 weeks. The uterus was thought to be 10-week size. The 9 mm cannula suddenly passes to 15 cm; she screams and the aspirate contains yellow lobulated tissue.",
+      "steps": [
+        {
+          "prompt": "What has happened and what is your immediate action?",
+          "answer": "**Uterine perforation with omentum (or bowel fat) aspirated.** **Stop the procedure immediately**; do not re-insert blindly; call senior; check vitals."
+        },
+        {
+          "prompt": "What examination and investigations?",
+          "answer": "Pulse, BP, abdominal exam (peritonism, distension), Hb, grouping & crossmatch, ultrasound for free fluid/retained POC, erect CXR if bowel injury suspected, renal function."
+        },
+        {
+          "prompt": "Outline definitive management.",
+          "answer": "Resuscitate (IV lines, fluids); **IV broad-spectrum antibiotics** (ceftriaxone/ampicillin + gentamicin + metronidazole); **uterotonic**; **laparotomy** (omentum/bowel aspirated): inspect bowel, repair uterine defect, evacuate the uterus under direct vision, general surgical team for bowel injury; **tetanus toxoid**."
+        },
+        {
+          "prompt": "What factors predisposed to this complication?",
+          "answer": "Grand multiparity, previous unsafe instrumentation (possible pre-existing injury), soft infected uterus, **uterine position not confirmed** (retroverted?), inadequate traction, operator inexperience, underestimated depth (no attention to cannula dots)."
+        },
+        {
+          "prompt": "What should be documented and communicated?",
+          "answer": "Honest disclosure to the patient; clear notes of the event, findings and actions; incident report; audit/learning; PAC follow-up including FP and psychosocial support."
+        }
+      ],
+      "takeaway": "Too deep, too easy, too painful, too fatty – stop, never continue blindly, and go to laparotomy when anything other than POC is aspirated."
+    },
+    {
+      "id": "mva-c03",
+      "title": "The unprocessed MVA kit",
+      "presentation": "On a Monday morning at an HC III, you find two MVA aspirators left in a dry kidney dish with dried blood since the weekend. The chlorine bucket is cloudy and nobody knows when it was made. A woman with incomplete abortion is waiting.",
+      "steps": [
+        {
+          "prompt": "Why is this a problem?",
+          "answer": "Dried blood and tissue cannot be reliably removed; HLD/sterilisation **fails on unclean instruments** → risk of transmitting **HIV, hepatitis B/C** and bacteria; the aspirators may also no longer hold vacuum."
+        },
+        {
+          "prompt": "How do you prepare fresh 0.5% chlorine from JIK?",
+          "answer": "Parts water = (3.5 ÷ 0.5) − 1 = 6 → **1 part JIK to 6 parts clean water**; label with date/time; replace daily or when cloudy/bloody."
+        },
+        {
+          "prompt": "Describe how to reprocess these aspirators.",
+          "answer": "Soak to soften (0.5% chlorine 10 min), **disassemble** (valve, liner, plunger, O-ring), **scrub with detergent and soft brush**, rinse, inspect; **HLD by boiling 20 min or chlorine/glutaraldehyde 20 min** (rinse with boiled water), or sterilise; air dry; reassemble; **lubricate O-ring; test vacuum**. Discard if cracked or not holding vacuum."
+        },
+        {
+          "prompt": "The patient is stable; there is no processed kit available. What are your options?",
+          "answer": "**Misoprostol 600 µg PO or 400 µg SL** (uterine size <14 wk, stable, no sepsis) with review in 7–14 days; or refer to the HC IV if heavy bleeding/sepsis. Do not use an unprocessed kit."
+        },
+        {
+          "prompt": "How would you prevent recurrence?",
+          "answer": "Written processing SOP on the wall; assign responsibility per shift; daily chlorine preparation log; enough kits for rotation; IPC training and supervision; include in facility quality-improvement audit."
+        }
+      ],
+      "takeaway": "Instrument processing is part of the procedure – clean before you disinfect, and never let blood dry on the kit."
+    }
+  ],
+  "references": [
+    {
+      "title": "Clinical practice handbook for quality abortion care",
+      "source": "World Health Organization",
+      "year": 2023,
+      "url": "https://cdn.who.int/media/docs/default-source/reproductive-health/clinical-practice-handbook-for-quality-abortion-care.pdf?sfvrsn=e82e253c_7"
+    },
+    {
+      "title": "Abortion care guideline – Incomplete abortion management: Recommendations 35–38",
+      "source": "World Health Organization",
+      "year": 2022,
+      "url": "https://srhr.org/abortioncare/chapter-3/post-abortion-3-5/incomplete-abortion-management-recommendations-35-38-3-5-2/"
+    },
+    {
+      "title": "Uganda Clinical Guidelines 2023",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://www.differentiatedservicedelivery.org/wp-content/uploads/UCG-2023-Publication-Final-PDF-Version-1.pdf"
+    },
+    {
+      "title": "Knowledge, attitude, and practice of manual vacuum aspiration in managing incomplete abortion at lower-level health facilities of Northern Uganda",
+      "source": "BMC Health Services Research",
+      "year": 2026,
+      "url": "https://link.springer.com/article/10.1186/s12913-026-14706-9"
+    },
+    {
+      "title": "Proportion and factors associated with intra-procedural pain among women undergoing MVA for incomplete abortion at Mbarara Regional Referral Hospital, Uganda",
+      "source": "PMC",
+      "year": 2025,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11827709/"
+    },
+    {
+      "title": "A randomized trial of misoprostol compared with manual vacuum aspiration for incomplete abortion (Kampala)",
+      "source": "Obstet Gynecol (Weeks et al.)",
+      "year": 2005,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16135584/"
+    },
+    {
+      "title": "Medical technologies and abortion care in Eastern Uganda",
+      "source": "PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7613281/"
+    },
+    {
+      "title": "Management of abortion complications at a rural hospital in Uganda: a criterion-based audit",
+      "source": "BMC Women's Health",
+      "year": 2015,
+      "url": "https://link.springer.com/article/10.1186/s12905-015-0233-y"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "slug": "malignant-lesions-cervix",
+  "flashcards": [
+    { "id": "mlc-f01", "front": "Which HPV types cause about 70% of cervical cancers?", "back": "**HPV 16 and 18** (high-risk). HPV 6 and 11 are low-risk and cause genital warts." },
+    { "id": "mlc-f02", "front": "What do HPV E6 and E7 do?", "back": "**E6** binds E6AP and targets **p53** for degradation (no apoptosis, genomic instability, telomerase activation). **E7** inactivates **Rb**, releasing E2F → uncontrolled S-phase entry. Loss of viral **E2** on integration drives their over-expression." },
+    { "id": "mlc-f03", "front": "Differentiate LSIL and HSIL.", "back": "**LSIL** = CIN 1 / HPV effect (lower third of epithelium; usually regresses). **HSIL** = CIN 2 and CIN 3 (two-thirds to full thickness; true pre-cancer — treat)." },
+    { "id": "mlc-f04", "front": "WHO 2021 screening for the general population of women.", "back": "**HPV DNA** primary test from age **30**, every **5–10 years** (VIA/cytology every 3 years where HPV is not available); screen-and-treat or screen-triage-treat; re-test **12 months** after treatment." },
+    { "id": "mlc-f05", "front": "WHO 2021 screening for women living with HIV.", "back": "**HPV DNA** from age **25**, every **3–5 years**, using **screen, triage and treat**; re-test at **12 months** after treatment." },
+    { "id": "mlc-f06", "front": "State the WHO 90-70-90 targets for 2030.", "back": "**90%** of girls fully vaccinated against HPV by 15; **70%** of women screened with a high-performance test by **35 and again by 45**; **90%** of women with pre-cancer treated and with invasive cancer managed. Elimination = incidence **<4 per 100,000** women." },
+    { "id": "mlc-f07", "front": "How is VIA performed and interpreted?", "back": "Apply **3–5% acetic acid**, wait **1 minute**. **Negative**: no acetowhite. **Positive**: dense, well-defined acetowhite lesion touching/adjacent to the SCJ. **Suspicious for cancer**: cauliflower growth or ulcer → biopsy." },
+    { "id": "mlc-f08", "front": "Criteria for a lesion to be eligible for ablation.", "back": "Whole lesion and **SCJ fully visible** (TZ type 1/2); lesion **<75%** of the ectocervix; **no extension into the canal** or vagina; **no suspicion of invasive or glandular disease**; not pregnant. Otherwise → LEEP or biopsy." },
+    { "id": "mlc-f09", "front": "Thermal ablation and cryotherapy technique.", "back": "**Thermal ablation**: probe at **≥100 °C** for **20–30 s** per application, overlapping to cover the TZ. **Cryotherapy**: CO₂/N₂O **double freeze — 3 min freeze, 5 min thaw, 3 min freeze**." },
+    { "id": "mlc-f10", "front": "HPV vaccination in Uganda.", "back": "Target **10-year-old girls**; Uganda moved to a **single dose** in 2025 (WHO 2022 allows 1 or 2 doses for 9–20-year-olds). **Immunocompromised/HIV: at least 2 doses, ideally 3.** 0.5 mL IM deltoid." },
+    { "id": "mlc-f11", "front": "FIGO 2018: define IA1, IA2, IB1, IB2, IB3.", "back": "**IA1** invasion <3 mm deep; **IA2** ≥3 to <5 mm; **IB1** ≥5 mm depth and <2 cm; **IB2** 2 to <4 cm; **IB3** ≥4 cm — all confined to the cervix." },
+    { "id": "mlc-f12", "front": "FIGO 2018 stage for: parametrial involvement; pelvic wall or hydronephrosis; pelvic nodes; para-aortic nodes.", "back": "**IIB**; **IIIB**; **IIIC1**; **IIIC2**." },
+    { "id": "mlc-f13", "front": "FIGO stage IVA vs IVB.", "back": "**IVA**: biopsy-proven invasion of **bladder or rectal mucosa** (bullous oedema alone is not enough). **IVB**: **distant** metastasis (lung, liver, bone, distant nodes)." },
+    { "id": "mlc-f14", "front": "Treatment of stage IB1–IB2 and IIA1 cervical cancer.", "back": "**Radical hysterectomy + bilateral pelvic lymphadenectomy** (ovaries can be conserved) **or** primary chemoradiation. Adjuvant chemoradiation if nodes, parametria or margins positive (Peters)." },
+    { "id": "mlc-f15", "front": "Standard chemoradiation for locally advanced cervical cancer (IB3–IVA).", "back": "**EBRT 45–50 Gy in 25 fractions** + **cisplatin 40 mg/m² IV weekly × 5–6** + **brachytherapy** (e.g. 24–28 Gy in 3–4 HDR fractions); total treatment time **≤56 days**." },
+    { "id": "mlc-f16", "front": "What is removed in a radical (Wertheim) hysterectomy?", "back": "Uterus, cervix, **parametria**, **upper vagina** (about 2 cm) and **pelvic lymph nodes**; ovaries may be conserved in young women with squamous cancer." },
+    { "id": "mlc-f17", "front": "Commonest cause of death in cervical cancer?", "back": "**Renal failure (uraemia)** from bilateral **ureteric obstruction** by parametrial/pelvic wall disease." },
+    { "id": "mlc-f18", "front": "Why keep Hb ≥10 g/dL during radiotherapy?", "back": "Anaemia causes **tumour hypoxia**; hypoxic cells are **radioresistant** (radiation kills via oxygen-dependent free radicals), so local control falls." },
+    { "id": "mlc-f19", "front": "First steps for heavy bleeding from a cervical tumour.", "back": "ABC, 2 large-bore IV lines, group and cross-match, fluids/transfusion; **tranexamic acid 1 g IV 8-hourly**; **tight vaginal pack** + **urinary catheter**; urgent **haemostatic radiotherapy**; embolisation/internal iliac ligation if available." },
+    { "id": "mlc-f20", "front": "Starting oral morphine for cancer pain (opioid-naive, normal renal function).", "back": "Immediate-release oral morphine **2.5–5 mg every 4 hours** + same dose for breakthrough; titrate daily; **always co-prescribe a laxative**; reduce dose/frequency in renal failure. Free in Ugandan public facilities." }
+  ],
+  "mcqs": [
+    {
+      "id": "mlc-q01",
+      "stem": "A 34-year-old HIV-negative woman attends a HC IV for screening. VIA shows a dense, well-defined acetowhite lesion at 3 o'clock touching the SCJ, covering about 30% of the ectocervix; the entire SCJ is visible and there is no growth or ulcer. She is not pregnant. What is the MOST appropriate management?",
+      "options": ["Refer for punch biopsy and await histology before any treatment", "Offer thermal ablation at the same visit (screen-and-treat)", "Perform a total abdominal hysterectomy", "Repeat VIA in 3 years", "Refer to the Uganda Cancer Institute for chemoradiation"],
+      "answer": 1,
+      "explanation": "**B is correct.** A VIA-positive lesion that is fully visible, <75% of the cervix, not entering the canal and not suspicious for cancer is **eligible for ablation**, ideally the **same day** (screen-and-treat) to avoid loss to follow-up. **A** is wrong: biopsy first adds visits and is reserved for suspected cancer or non-eligible lesions. **C** is wrong: hysterectomy is gross over-treatment of pre-cancer. **D** is wrong: a positive test needs treatment, not routine re-screening. **E** is wrong: this is not invasive cancer.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mlc-q02",
+      "stem": "A 29-year-old woman living with HIV (on TLD, viral load suppressed) asks when she should start cervical screening and how often. According to WHO 2021, what is the BEST answer?",
+      "options": ["Start at 30, HPV test every 10 years", "Start at 21, cytology every year", "Start at 35, VIA once in a lifetime", "Start now (from 25), HPV DNA every 3–5 years with triage of positives", "Screening is not needed if the viral load is suppressed"],
+      "answer": 3,
+      "explanation": "**D is correct.** WHO recommends that women living with HIV start screening at **25** with **HPV DNA** every **3–5 years**, using a **screen-triage-treat** approach. **A** is the general-population recommendation (30, every 5–10 years). **B** is a North American cytology schedule, not WHO. **C** is inadequate. **E** is wrong: ART reduces but does not remove the elevated risk of persistent HPV and CIN.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mlc-q03",
+      "stem": "During VIA in a 41-year-old woman, you see an acetowhite lesion that occupies about 80% of the ectocervix and disappears into the endocervical canal; you cannot see its upper limit. There is no growth or ulcer. What is the MOST appropriate management?",
+      "options": ["Refer for LEEP (loop excision) at a hospital with the service", "Treat with cryotherapy today", "Treat with thermal ablation today", "Reassure and repeat in 3 years", "Start chemoradiation"],
+      "answer": 0,
+      "explanation": "**A is correct.** The lesion is **not eligible for ablation** — it covers >75% of the cervix and extends into the canal, so the SCJ and upper lesion cannot be seen. **Excision (LEEP)** removes it and provides histology. **B** and **C** are wrong: ablation cannot reliably reach a lesion in the canal and would under-treat possible occult invasion. **D** is wrong: a positive screen must be managed. **E** is wrong: there is no histological evidence of invasive cancer.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mlc-q04",
+      "stem": "A 50-year-old P8 has a 3 cm cervical tumour confined to the cervix on examination with free parametria. Renal ultrasound shows moderate right hydronephrosis with no stone or other cause. Chest X-ray is clear. Biopsy shows squamous cell carcinoma. What is the FIGO 2018 stage?",
+      "options": ["IB2", "IIA1", "IIB", "IVA", "IIIB"],
+      "answer": 4,
+      "explanation": "**E is correct.** **Hydronephrosis or a non-functioning kidney** (not due to another cause) places the tumour in **stage IIIB**, regardless of its size or parametrial findings on examination — it implies ureteric obstruction by parametrial/pelvic wall disease. **A** would be correct only without hydronephrosis. **B** requires upper vaginal involvement. **C** requires parametrial involvement without hydronephrosis. **D** requires bladder/rectal mucosal invasion.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mlc-q05",
+      "stem": "A 38-year-old P3 has a 2.5 cm squamous cell carcinoma confined to the cervix (FIGO IB2) with no nodal disease on imaging. She is fit, HIV-negative and has completed her family. Which is the MOST appropriate primary treatment?",
+      "options": ["Cone biopsy alone", "Simple (extrafascial) hysterectomy", "Radical hysterectomy with bilateral pelvic lymphadenectomy, conserving the ovaries", "Palliative chemotherapy", "Thermal ablation"],
+      "answer": 2,
+      "explanation": "**C is correct.** For IB1–IB2 (and IIA1), **radical hysterectomy + pelvic lymphadenectomy** (or primary chemoradiation) is standard; surgery in a young woman preserves ovarian function and vaginal elasticity. **A** and **B** are adequate only for IA1 disease. **D** is wrong: she has curable disease. **E** is wrong: ablation is for pre-cancer only.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mlc-q06",
+      "stem": "A 45-year-old woman with FIGO IIB cervical squamous carcinoma is booked for chemoradiation at the Uganda Cancer Institute. Her Hb is 7.8 g/dL and creatinine 85 µmol/L. Which statement is MOST correct?",
+      "options": ["Cisplatin is contraindicated because she has stage II disease", "Transfuse to keep Hb about 10 g/dL or more, because hypoxic tumour cells are radioresistant", "Radical hysterectomy is preferred over chemoradiation for IIB", "Brachytherapy can be omitted if EBRT is given", "Treatment can safely be spread over 12 weeks to reduce side effects"],
+      "answer": 1,
+      "explanation": "**B is correct.** Anaemia causes tumour **hypoxia**, and radiation kills cells mainly through oxygen-dependent free radicals, so correcting Hb improves local control. **A** is wrong: weekly cisplatin 40 mg/m² is standard for IIB with normal renal function. **C** is wrong: parametrial involvement (IIB) is treated with chemoradiation, not surgery. **D** is wrong: brachytherapy is essential — omitting it markedly reduces survival. **E** is wrong: total treatment time should be **≤56 days**; prolongation allows tumour repopulation.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "mlc-q07",
+      "stem": "A 55-year-old woman with known stage IIIB cervical cancer is brought to a general hospital with heavy fresh vaginal bleeding. BP 86/50 mmHg, pulse 124/min, Hb 5.9 g/dL. After calling for help and inserting two large-bore IV cannulae, what is the MOST appropriate next step?",
+      "options": ["Emergency radical hysterectomy", "Cryotherapy to the tumour", "Oral ferrous sulphate and discharge", "Resuscitate with fluids and blood, give tranexamic acid 1 g IV, pack the vagina tightly and insert a urinary catheter, then refer for haemostatic radiotherapy", "Start weekly cisplatin immediately"],
+      "answer": 3,
+      "explanation": "**D is correct.** Tumour haemorrhage is controlled by **resuscitation, tranexamic acid, tight vaginal packing (with a urinary catheter because the pack compresses the urethra)** and then **haemostatic radiotherapy**. **A** is wrong: radical surgery is impossible and dangerous in stage IIIB. **B** is wrong: cryotherapy is for pre-cancer and would not stop bleeding from a large tumour. **C** is wrong: she is in shock. **E** is wrong: chemotherapy has no immediate haemostatic effect and she is unstable.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mlc-q08",
+      "stem": "A 60-year-old woman with advanced cervical cancer has constant severe pelvic pain not relieved by paracetamol 1 g four times a day and ibuprofen. Her creatinine is normal. What is the MOST appropriate next step in pain management?",
+      "options": ["Start immediate-release oral morphine 5 mg every 4 hours with breakthrough doses and a regular laxative", "Increase paracetamol to 2 g four times a day", "Give pethidine 100 mg IM as needed", "Avoid opioids because of the risk of addiction", "Refer for surgical debulking"],
+      "answer": 0,
+      "explanation": "**A is correct.** Following the WHO analgesic ladder, severe pain uncontrolled by non-opioids needs a **strong opioid**: oral morphine 2.5–5 mg 4-hourly with the same dose for breakthrough, titrated daily, **always with a laxative**. Oral morphine is free in Uganda. **B** is wrong: exceeding 4 g/day of paracetamol causes hepatotoxicity. **C** is wrong: pethidine is short-acting with a toxic metabolite and IM injections are unsuitable for chronic pain. **D** is wrong: addiction is not a relevant concern in cancer pain; under-treatment is the real problem. **E** is wrong: debulking has no role in advanced cervical cancer.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mlc-q09",
+      "stem": "A mother asks why her 10-year-old daughter is being offered HPV vaccine at school when she is 'too young for sex'. Which explanation is MOST accurate?",
+      "options": ["The vaccine treats existing HPV infection, so it is given early to clear it", "It is given at 10 because older girls cannot receive it", "It removes the need for cervical screening later in life", "The vaccine is only effective in children under 12 because of the thymus", "The vaccine prevents infection and works best before any exposure to HPV, which is sexually transmitted; young girls also produce a very strong immune response"],
+      "answer": 4,
+      "explanation": "**E is correct.** HPV vaccines are **prophylactic** — they induce neutralising antibodies that prevent infection, so they work best **before sexual debut**, and 9–14-year-olds mount very high antibody responses (which is why fewer doses suffice). **A** is wrong: the vaccine does not treat established infection. **B** is wrong: older girls and women can be vaccinated (catch-up), although benefit falls with prior exposure. **C** is wrong: screening is still needed. **D** is wrong: the thymus explanation is invented.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mlc-q10",
+      "stem": "A 48-year-old woman with FIGO IIIB cervical cancer presents with vomiting, hiccups, reduced urine output and pruritus. Creatinine is 780 µmol/L and ultrasound shows bilateral hydronephrosis. She is weak and bed-bound (ECOG 4). After discussion she says she does not want invasive procedures. What is the MOST appropriate approach?",
+      "options": ["Start cisplatin-based chemoradiation immediately", "Insist on bilateral nephrostomy tubes", "Focus on comfort care: symptom control (antiemetic, analgesia), family support and hospice/home-based palliative care", "Perform an emergency radical hysterectomy", "Start haemodialysis three times weekly indefinitely"],
+      "answer": 2,
+      "explanation": "**C is correct.** She has terminal obstructive uropathy with very poor performance status, and she has declined intervention; **comfort-focused palliative care** respecting her wishes is appropriate. Uraemia can be managed as a relatively peaceful terminal event with good symptom control. **A** is wrong: cisplatin is contraindicated in renal failure and she is too frail. **B** is wrong: nephrostomy is an option for candidates for active treatment, but it cannot be imposed against a competent patient's wishes. **D** is wrong: surgery has no role. **E** is wrong: dialysis is rarely available and not appropriate here.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "mlc-q11",
+      "stem": "A 31-year-old woman, 20 weeks pregnant, is found at antenatal clinic to have a VIA-positive acetowhite lesion with no features of invasion. What is the MOST appropriate management?",
+      "options": ["Perform thermal ablation immediately", "Colposcopy (and biopsy only if invasion is suspected), and defer treatment of pre-cancer until at least 6 weeks postpartum", "Terminate the pregnancy and perform a hysterectomy", "Perform LEEP now to avoid progression", "Tell her that screening results are invalid in pregnancy and discharge her"],
+      "answer": 1,
+      "explanation": "**B is correct.** Pre-cancer progresses slowly; in pregnancy the priority is to **exclude invasion** (colposcopy ± biopsy if suspicious) and to **defer treatment until ≥6 weeks postpartum**. **A** and **D** are wrong: ablation/excision in pregnancy risks bleeding, miscarriage and preterm birth without benefit. **C** is grossly inappropriate for pre-cancer. **E** is wrong: a positive test must be followed up.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "mlc-q12",
+      "stem": "After radical hysterectomy and pelvic lymphadenectomy for stage IB2 cervical cancer, histology shows metastatic carcinoma in two left pelvic lymph nodes with clear margins and parametria. What is the revised stage and MOST appropriate adjuvant management?",
+      "options": ["Stage IB2; no further treatment", "Stage IIB; vaginal brachytherapy alone", "Stage IVB; palliative care only", "Stage IIIC1p; adjuvant concurrent chemoradiation", "Stage IIA1; repeat surgery"],
+      "answer": 3,
+      "explanation": "**D is correct.** Pathologically positive pelvic nodes upstage to **IIIC1p** under FIGO 2018, and positive nodes are a **Peters high-risk** criterion requiring **adjuvant chemoradiation** (pelvic EBRT with concurrent cisplatin). **A** ignores the node status. **B** and **E** mis-stage the disease (parametria are clear). **C** is wrong: pelvic nodes are not distant metastases and the disease is still potentially curable.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "mlc-q13",
+      "stem": "Which molecular event BEST explains why HPV integration into the host genome promotes malignant transformation?",
+      "options": ["Loss of the viral E2 gene, removing repression of E6 and E7, which then inactivate p53 and Rb", "Activation of the viral L1 protein, which causes cell lysis", "Direct insertion of HPV into the BRCA1 gene", "Increased production of viral capsid proteins in basal cells", "Viral induction of oestrogen receptors"],
+      "answer": 0,
+      "explanation": "**A is correct.** Integration typically disrupts **E2**, the viral repressor of E6/E7; over-expressed **E6 degrades p53** and **E7 inactivates Rb**, driving proliferation and genomic instability. **B** is wrong: L1 is the capsid protein (the vaccine antigen) and does not lyse cells. **C** is wrong: HPV integration is not targeted to BRCA1. **D** is wrong: capsid production occurs in superficial differentiated cells during productive infection, not transformation. **E** is invented.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mlc-q14",
+      "stem": "A 42-year-old woman presents to a HC IV with post-coital bleeding. VIA is 'negative', but you notice the cervix is barrel-shaped, hard and enlarged, and it bleeds on touch. What is the MOST appropriate next step?",
+      "options": ["Reassure her because VIA is negative", "Treat for cervicitis and repeat VIA in 3 years", "Offer thermal ablation", "Give tranexamic acid and review in 6 months", "Refer urgently for colposcopy, biopsy (including endocervical sampling) and staging, as endocervical adenocarcinoma is suspected"],
+      "answer": 4,
+      "explanation": "**E is correct.** A **barrel-shaped, hard, bleeding cervix** suggests an **endophytic/endocervical tumour** (often adenocarcinoma) that VIA cannot see; symptomatic women need **diagnostic assessment and biopsy**, not screening reassurance. **A**, **B** and **D** all falsely reassure. **C** is wrong: ablation is contraindicated when cancer is suspected.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "mlc-q15",
+      "stem": "A 36-year-old woman is treated with cryotherapy for a VIA-positive lesion. Which after-care advice is MOST appropriate?",
+      "options": ["She should return in 5 years for re-screening", "Heavy bleeding for 2 weeks is expected and does not need review", "Expect a watery discharge for 2–4 weeks, avoid intercourse (or use condoms) and tampons for about 4 weeks, return if fever, offensive discharge or heavy bleeding, and re-screen at 12 months", "She must have a hysterectomy after 6 months", "She should avoid bathing for a month"],
+      "answer": 2,
+      "explanation": "**C is correct.** Watery discharge is expected after ablation as the necrotic tissue sloughs; abstinence/condoms for about 4 weeks allows healing (and reduces HIV transmission risk); warning signs of infection or haemorrhage need review; WHO recommends **re-testing at 12 months** after treatment. **A** is wrong: post-treatment follow-up is at 12 months. **B** is wrong: heavy bleeding is abnormal. **D** is wrong: ablation is definitive treatment for pre-cancer. **E** is wrong: bathing is fine.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "mlc-c01",
+      "title": "Screen-and-treat at an HIV clinic",
+      "presentation": "Apio, a 32-year-old P3 living with HIV (on TLD for 6 years, viral load undetectable), attends the ART clinic at a HC IV in Soroti. She has never been screened for cervical cancer. The clinic has a GeneXpert machine for HPV testing and a thermal ablation device.",
+      "steps": [
+        { "prompt": "Why is Apio a priority for screening and what does WHO recommend for her?", "answer": "Women living with HIV have about a **6-fold** higher risk of cervical cancer (reduced HPV clearance, faster progression). WHO 2021: **HPV DNA** screening from **25**, every **3–5 years**, using **screen-triage-treat**, re-test at **12 months** after treatment. She is 32 and never screened — screen today." },
+        { "prompt": "How would you counsel her before the test?", "answer": "HPV is a very common sexually transmitted virus that usually clears; persistent infection can cause pre-cancer, which is easily treated; explain **self-sampling** (or clinician sample) for HPV; a positive result does **not** mean cancer; if positive she will have a VIA look and, if suitable, **same-day thermal ablation**; address fears (pain, infidelity) and consent." },
+        { "prompt": "Her HPV test is positive. VIA triage shows an acetowhite lesion at 6–8 o'clock covering about 40% of the cervix, SCJ fully visible, no growth. She is not pregnant. What do you do?", "answer": "The lesion is **eligible for ablation** (fully visible, <75%, not in canal, no suspicion of cancer). Perform **thermal ablation** today: probe at **≥100 °C for 20–30 seconds** per overlapping application to cover the whole TZ. No anaesthesia is usually needed; offer paracetamol." },
+        { "prompt": "What after-care and follow-up does she need?", "answer": "Watery discharge for 2–4 weeks; **no intercourse or tampons for 4 weeks** (condoms if unavoidable — also reduces HIV transmission during healing); return for fever, offensive discharge, heavy bleeding or severe pain. **Re-test (HPV) at 12 months**, then every 3–5 years if negative. Continue ART adherence." },
+        { "prompt": "What if the lesion had entered the canal, or a friable growth had been seen?", "answer": "Canal involvement or >75% coverage → **refer for LEEP** (excision gives histology). A friable growth/ulcer → **suspicious for cancer**: do **not** ablate; take a **punch biopsy** from the edge, check creatinine/renal ultrasound, and refer urgently to a gynae-oncology service." }
+      ],
+      "takeaway": "Screen–triage–treat in one visit: HPV test, VIA to triage, same-day ablation if eligible, LEEP if not, biopsy if cancer is suspected — and re-test women living with HIV at 12 months."
+    },
+    {
+      "id": "mlc-c02",
+      "title": "Offensive discharge and back pain",
+      "presentation": "Mrs Nabirye, a 52-year-old P7 from Jinja, comes to Mengo gynaecology ward with 8 months of post-coital bleeding progressing to continuous offensive blood-stained discharge, low back pain radiating down the left leg and weight loss. She has never been screened. HIV status unknown.",
+      "steps": [
+        { "prompt": "What else do you ask in the history?", "answer": "Urine or faeces per vagina (fistula); urine output, vomiting, hiccups, itching (uraemia); leg swelling; bleeding volume and dizziness (anaemia); bone pain, cough; menstrual/menopausal status; HIV testing history; family support, finances, distance to Kampala (ability to attend UCI); her understanding and wishes." },
+        { "prompt": "On examination she is pale (Hb 7.0 g/dL), with left leg oedema. Speculum: a 6 cm fungating, necrotic growth replacing the cervix, extending to the upper vagina. Rectovaginal: left parametrium thickened and fixed to the pelvic side wall; right parametrium thickened but not reaching the wall. What is your clinical stage and what investigations complete the work-up?", "answer": "Clinically at least **FIGO IIIB** (left pelvic side-wall involvement). Investigations: **punch biopsy from the edge** of the growth; FBC, group and cross-match; **urea, creatinine, electrolytes**; **renal/abdominal ultrasound** (hydronephrosis, liver metastases); **chest X-ray**; **HIV test** (CD4/viral load if positive); CT/MRI if accessible; consider EUA with cystoscopy if bladder invasion suspected." },
+        { "prompt": "Biopsy: squamous cell carcinoma. Creatinine 95 µmol/L; mild left hydronephrosis; CXR clear. HIV-negative. What is the definitive treatment plan?", "answer": "Stage **IIIB** → **concurrent chemoradiation** at UCI: **EBRT 45–50 Gy in 25 fractions** + **weekly cisplatin 40 mg/m²** (renal function adequate) + **HDR brachytherapy** (e.g. 24–28 Gy in 3–4 fractions), all within **56 days**. Transfuse to **Hb ≥10 g/dL**. Nutritional support. Prompt referral with biopsy report and staging results." },
+        { "prompt": "What symptom control do you start today while she waits for UCI?", "answer": "Pain: paracetamol 1 g 6-hourly + **oral morphine 2.5–5 mg 4-hourly** titrated, with a laxative; amitriptyline 12.5–25 mg nocte for sciatic neuropathic pain. Odour: **metronidazole 400 mg PO 8-hourly** ± topical. Bleeding: tranexamic acid 1 g PO 8-hourly. Leg: exclude DVT (Doppler) — elevation. **Link to palliative care** and counsel her and family." },
+        { "prompt": "Six months later she returns with anuria, vomiting and creatinine 900 µmol/L; she never started radiotherapy because of cost and distance. How do you approach this?", "answer": "Bilateral obstructive uropathy — the **commonest cause of death**. Hold an honest family meeting: options are **nephrostomy** (only sensible if active cancer treatment is realistic) versus **comfort care**. Respect her wishes; control nausea (haloperidol), pain (reduce morphine dose/frequency — accumulation in renal failure), itching; hospice/home-based care; spiritual support." }
+      ],
+      "takeaway": "Stage clinically with a rectovaginal examination plus kidney ultrasound, biopsy the edge, refer for chemoradiation within an 8-week treatment window, and start palliative care on the day of diagnosis — most Ugandan women need both."
+    },
+    {
+      "id": "mlc-c03",
+      "title": "Early disease in a young mother",
+      "presentation": "Ms Kemigisha, a 33-year-old P2 teacher from Mbarara, had a VIA-positive lesion that was referred for LEEP because it entered the canal. The LEEP histology shows invasive squamous cell carcinoma with 4 mm depth of invasion, no lymphovascular space invasion, and positive endocervical margin.",
+      "steps": [
+        { "prompt": "What stage is this likely to be and what additional information do you need?", "answer": "Depth 4 mm with no visible lesion = at least **FIGO IA2** (≥3 to <5 mm) — but the margin is **positive**, so the true extent is unknown (it could be IB1). Need: examination/colposcopy, **MRI pelvis** (tumour size, parametria, nodes) or at least clinical examination + ultrasound, CXR, renal function, HIV status, and her **fertility wishes**." },
+        { "prompt": "MRI shows no residual visible tumour and no enlarged nodes. She wants more children. What are the options?", "answer": "For IA2 wanting fertility: **repeat cone to achieve clear margins + pelvic lymphadenectomy**, or **radical trachelectomy + pelvic lymphadenectomy** (removes cervix and parametria, keeps the uterus; a cerclage is placed). If family is complete: **modified radical hysterectomy + pelvic lymphadenectomy** (ovaries conserved). Discuss at the gynae-oncology MDT." },
+        { "prompt": "She chooses modified radical hysterectomy with pelvic lymphadenectomy. What complications will you counsel her about?", "answer": "Bleeding, infection, **ureteric injury/ureterovaginal fistula**, bladder injury and **voiding dysfunction** (autonomic nerve damage — may need a catheter for days to weeks), **lymphocyst**, **lower-limb lymphoedema**, DVT, shortened vagina/dyspareunia; loss of fertility; possible need for adjuvant (chemo)radiation depending on histology." },
+        { "prompt": "Histology: 1.2 cm residual tumour, clear margins and parametria, 0/18 nodes positive. What is the follow-up?", "answer": "No adjuvant treatment needed (no Peters high-risk factors; assess Sedlis intermediate-risk factors — small tumour, likely none). Follow-up every **3–6 months for 2 years**, then 6–12-monthly to 5 years: symptoms, speculum/vault examination, pelvic exam. Report new bleeding, pain, leg swelling promptly. Ovaries conserved — no menopause." }
+      ],
+      "takeaway": "Staging depends on histology depth and margins as well as imaging; in early disease, fertility wishes decide between cone/trachelectomy and radical hysterectomy, and node status decides adjuvant therapy."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions", "source": "Ministry of Health, Uganda", "year": 2023, "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf" },
+    { "title": "The National Cervical Cancer Prevention and Control Strategic Plan 2018–2023", "source": "Ministry of Health, Uganda", "year": 2018, "url": "https://platform.who.int/docs/default-source/mca-documents/policy-documents/plan-strategy/UGA-RH-47-01-PLAN-STRATEGY-2018-eng-Strategic-PlanII-2018-2023-Uganda.pdf" },
+    { "title": "WHO guideline for screening and treatment of cervical pre-cancer lesions for cervical cancer prevention: recommendations and good practice statements", "source": "World Health Organization (NCBI Bookshelf)", "year": 2021, "url": "https://www.ncbi.nlm.nih.gov/books/NBK572318/" },
+    { "title": "WHO guidelines for the use of thermal ablation for cervical pre-cancer lesions", "source": "World Health Organization (NCBI Bookshelf)", "year": 2019, "url": "https://www.ncbi.nlm.nih.gov/books/NBK549186/" },
+    { "title": "Human papillomavirus vaccines: WHO position paper, December 2022", "source": "World Health Organization", "year": 2022, "url": "https://www.who.int/publications/i/item/who-wer9750-645-672" },
+    { "title": "Accelerating the elimination of cervical cancer as a public health problem: towards achieving 90–70–90 targets by 2030", "source": "World Health Organization", "year": 2022, "url": "https://apps.who.int/iris/handle/10665/361138" },
+    { "title": "Revised FIGO staging for carcinoma of the cervix uteri (Bhatla et al.)", "source": "International Journal of Gynecology & Obstetrics", "year": 2019, "url": "https://obgyn.onlinelibrary.wiley.com/doi/full/10.1002/ijgo.12749" },
+    { "title": "Radiation therapy for cervical cancer in Uganda: a practice guideline", "source": "ecancermedicalscience (Uganda Cancer Institute)", "url": "https://ecancer.org/en/journal/article/1999-radiation-therapy-for-cervical-cancer-in-uganda-a-practice-guideline" },
+    { "title": "Treatment compliance among adult cervical cancer patients receiving care at Uganda Cancer Institute: a retrospective data review", "source": "BMC Cancer", "year": 2023, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10324123/" },
+    { "title": "Association Between HIV Infection and Cancer Stage at Presentation at the Uganda Cancer Institute", "source": "Journal of Global Oncology", "year": 2018, "url": "https://ascopubs.org/doi/10.1200/JGO.17.00005" },
+    { "title": "Geographic and demographic patterns of cervical cancer in Africa using GLOBOCAN 2022", "source": "BMC Cancer", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13220435/" },
+    { "title": "Cervical cancer screening policies and implementation in Uganda: a qualitative study", "source": "Archives of Public Health", "year": 2025, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12604249/" },
+    { "title": "Uganda achieves rapid scale-up of cervical screening for women living with HIV", "source": "aidsmap", "year": 2024, "url": "https://www.aidsmap.com/news/jul-2024/uganda-achieves-rapid-scale-cervical-screening-women-living-hiv" },
+    { "title": "Cervical Cancer", "source": "StatPearls", "url": "https://www.statpearls.com/point-of-care/19222" }
+  ]
+}

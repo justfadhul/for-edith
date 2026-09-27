@@ -1,0 +1,477 @@
+{
+  "slug": "hiv-in-pregnancy",
+  "flashcards": [
+    {
+      "id": "hiv-f01",
+      "front": "What is the approximate risk of mother-to-child transmission of HIV without any intervention, and with a suppressed maternal viral load?",
+      "back": "**15–45%** without intervention (higher with prolonged breastfeeding). **Below 1%** when the mother is on ART with a suppressed viral load throughout pregnancy and breastfeeding."
+    },
+    {
+      "id": "hiv-f02",
+      "front": "Name the three periods of MTCT and their approximate contribution (untreated).",
+      "back": "**In utero** 5–10%, **intrapartum** 10–20% (largest single window), **breastfeeding** 5–20%."
+    },
+    {
+      "id": "hiv-f03",
+      "front": "What is 'triple elimination'?",
+      "back": "Integrated elimination of vertical transmission of **HIV, syphilis and hepatitis B**: dual HIV/syphilis test + **HBsAg** at the first ANC visit, with treatment and infant prevention for each."
+    },
+    {
+      "id": "hiv-f04",
+      "front": "What is Uganda's preferred first-line ART for a pregnant woman, and its dose?",
+      "back": "**TLD**: tenofovir DF 300 mg + lamivudine 300 mg + dolutegravir 50 mg, **one tablet orally once daily**, started the same day as diagnosis where possible."
+    },
+    {
+      "id": "hiv-f05",
+      "front": "When should ART be started in a newly diagnosed pregnant woman?",
+      "back": "**The same day** (rapid initiation), after counselling, unless cryptococcal or TB meningitis is suspected (then defer ART by about 4–6 weeks after starting treatment)."
+    },
+    {
+      "id": "hiv-f06",
+      "front": "What is the viral load monitoring schedule for pregnant and breastfeeding women in Uganda?",
+      "back": "Already on ART: VL at the **first ANC visit**. Newly started: VL **3 months after starting**. Then **every 3 months until breastfeeding ends**."
+    },
+    {
+      "id": "hiv-f07",
+      "front": "What VL defines non-suppression and what is the first response?",
+      "back": "**1,000 copies/mL or more**. Respond with **intensive adherence counselling** (about 3 monthly sessions), check interactions, then **repeat VL**. Switch only via the switch committee if still non-suppressed with good adherence."
+    },
+    {
+      "id": "hiv-f08",
+      "front": "Define a high-risk HIV-exposed infant.",
+      "back": "Mother: diagnosed in **late pregnancy, labour or breastfeeding**; on ART **less than 4 weeks** before delivery; **VL 1,000 or more (or unknown)** in the 4 weeks before delivery; or **seroconverted** during pregnancy/breastfeeding."
+    },
+    {
+      "id": "hiv-f09",
+      "front": "Prophylaxis for a LOW-risk HIV-exposed infant?",
+      "back": "**Nevirapine once daily for 6 weeks**: 10 mg (1 mL) if 2.0–2.49 kg, 15 mg (1.5 mL) if 2.5 kg or more. Start within 6 hours of birth."
+    },
+    {
+      "id": "hiv-f10",
+      "front": "Prophylaxis for a HIGH-risk HIV-exposed infant?",
+      "back": "**AZT twice daily + NVP once daily for 6 weeks**, then **NVP alone for another 6 weeks** (12 weeks total). Extend NVP if the mother's VL is still 1,000 or more at about 12 weeks postpartum."
+    },
+    {
+      "id": "hiv-f11",
+      "front": "Infant NVP and AZT doses for a 3.1 kg newborn?",
+      "back": "NVP **15 mg (1.5 mL of 10 mg/mL) once daily**; AZT **15 mg (1.5 mL of 10 mg/mL) twice daily**. From 6 to 12 weeks, NVP 20 mg once daily."
+    },
+    {
+      "id": "hiv-f12",
+      "front": "Uganda EID schedule?",
+      "back": "DNA PCR at **4–6 weeks**, **9 months**, and **6 weeks after complete cessation of breastfeeding**; **rapid antibody test at 18 months**. Any positive PCR: start ART and send a confirmatory DBS."
+    },
+    {
+      "id": "hiv-f13",
+      "front": "Why is an HIV antibody test not used to diagnose infection in a 6-week-old?",
+      "back": "**Maternal IgG antibodies cross the placenta** and can persist up to about 18 months, so the baby tests antibody-positive whether infected or not. DNA PCR detects the virus itself."
+    },
+    {
+      "id": "hiv-f14",
+      "front": "Why must a woman on co-trimoxazole not receive IPTp-SP?",
+      "back": "Both are **sulfonamide antifolates**: combining adds toxicity (Stevens-Johnson syndrome, kernicterus) with no extra benefit. Co-trimoxazole already protects against malaria."
+    },
+    {
+      "id": "hiv-f15",
+      "front": "How does rifampicin affect dolutegravir, and what do you do?",
+      "back": "Rifampicin **induces** DTG metabolism and lowers levels. Give **DTG 50 mg twice daily** (TLD + extra DTG 50 mg) throughout rifampicin and for **2 weeks after** stopping it."
+    },
+    {
+      "id": "hiv-f16",
+      "front": "How should DTG be timed with ferrous sulphate or calcium?",
+      "back": "Take DTG **2 hours before or 6 hours after** iron, calcium, zinc or antacids, or take them together **with food**. Polyvalent cations chelate DTG and reduce absorption."
+    },
+    {
+      "id": "hiv-f17",
+      "front": "Uganda infant feeding recommendation for an HIV-positive mother on ART?",
+      "back": "**Exclusive breastfeeding for 6 months**, then complementary foods with **continued breastfeeding to at least 12 months** (up to 24), stopping gradually. **No mixed feeding** in the first 6 months."
+    },
+    {
+      "id": "hiv-f18",
+      "front": "Why does mixed feeding increase HIV transmission?",
+      "back": "Non-breast-milk foods and fluids **inflame and damage the infant's gut mucosa**, letting HIV in breast milk cross the gut wall. Exclusive breastfeeding keeps the barrier intact."
+    },
+    {
+      "id": "hiv-f19",
+      "front": "Treatment of syphilis detected at ANC (unknown duration)?",
+      "back": "**Benzathine penicillin G 2.4 MIU IM weekly for 3 doses** (single dose if early syphilis). Treat the partner. If penicillin-allergic, erythromycin 500 mg 6-hourly for 14 days and treat the baby after birth."
+    },
+    {
+      "id": "hiv-f20",
+      "front": "PrEP in pregnancy: who, what, how monitored?",
+      "back": "HIV-negative pregnant/breastfeeding women at substantial risk (e.g. partner not suppressed). **Oral TDF/FTC (or TDF/3TC) once daily**, safe in pregnancy and breastfeeding. **HIV test every 3 months**; creatinine where available."
+    },
+    {
+      "id": "hiv-f21",
+      "front": "Intrapartum practices to avoid in an HIV-positive woman?",
+      "back": "Prolonged rupture of membranes, **routine ARM**, **routine episiotomy**, **fetal scalp electrodes/blood sampling**, unnecessary instrumental delivery, prolonged labour, excessive VEs. Continue her ART in labour."
+    },
+    {
+      "id": "hiv-f22",
+      "front": "Is caesarean section routinely indicated for HIV in Uganda?",
+      "back": "**No.** CS is for obstetric indications. Vaginal delivery with ART and infant prophylaxis is standard; CS carries risks of sepsis and haemorrhage in our setting."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "hiv-q01",
+      "stem": "A 24-year-old G2P1 at 16 weeks books at a HC IV. Her HIV rapid test is positive and is confirmed on the national algorithm. She is well, with no headache, cough or fever. What is the MOST appropriate next step?",
+      "options": [
+        "Send CD4 count and start ART when the result returns in 2 weeks",
+        "Start TLD (TDF/3TC/DTG) one tablet once daily today after counselling",
+        "Start zidovudine monotherapy from 28 weeks",
+        "Defer ART until after the first trimester has been confirmed by ultrasound",
+        "Refer to the regional referral hospital for ART initiation"
+      ],
+      "answer": 1,
+      "difficulty": "core",
+      "explanation": "**B is correct.** Uganda practises test-and-treat with **rapid (same-day) ART initiation**; TLD is the preferred first-line regimen in pregnancy. **A**: baseline CD4 is useful (to identify advanced disease) but ART must not wait for it. **C**: AZT monotherapy from 28 weeks is an obsolete 'Option A'-era approach. **D**: she is already in the second trimester and DTG is recommended in all trimesters; delay increases transmission risk. **E**: HC IVs (and HC IIIs) initiate ART; referral wastes time and risks loss to follow-up."
+    },
+    {
+      "id": "hiv-q02",
+      "stem": "A 30-year-old woman on TLD for 4 years is at 20 weeks. She attends ANC and receives ferrous sulphate/folic acid, and is started on co-trimoxazole. The midwife prepares IPTp-SP. What is the BEST action?",
+      "options": [
+        "Give IPTp-SP as scheduled monthly from 13 weeks",
+        "Give IPTp-SP but stop co-trimoxazole during pregnancy",
+        "Give IPTp-SP and co-trimoxazole on alternate days",
+        "Replace co-trimoxazole with weekly chloroquine",
+        "Withhold IPTp-SP; continue co-trimoxazole and give an ITN"
+      ],
+      "answer": 4,
+      "difficulty": "core",
+      "explanation": "**E is correct.** Women on co-trimoxazole **must not receive IPTp-SP**: both are sulfonamide antifolates, so combining them adds toxicity (SJS, kernicterus) without benefit; CTX itself protects against malaria. **A** and **C** combine the two. **B**: CTX also prevents PCP, toxoplasmosis and bacterial infections in PLHIV; it should not be stopped for SP. **D**: chloroquine prophylaxis is not used because of resistance."
+    },
+    {
+      "id": "hiv-q03",
+      "stem": "A 27-year-old P1 delivers a 2.8 kg baby at 39 weeks. She was diagnosed with HIV and started TLD 2 weeks before delivery. What prophylaxis should the baby receive?",
+      "options": [
+        "NVP 15 mg once daily for 6 weeks",
+        "NVP 10 mg once daily for 6 weeks",
+        "AZT 15 mg twice daily + NVP 15 mg once daily for 6 weeks, then NVP alone for a further 6 weeks",
+        "No prophylaxis because the mother is now on ART",
+        "Single-dose NVP at birth only"
+      ],
+      "answer": 2,
+      "difficulty": "core",
+      "explanation": "**C is correct.** The mother received **less than 4 weeks of ART** before delivery, so the infant is **high-risk**: AZT + NVP for 6 weeks, then NVP for 6 more weeks (12 total). **A** is the low-risk regimen. **B** is also the low-risk regimen and the wrong weight band (10 mg is for 2.0–2.49 kg). **D**: maternal ART for 2 weeks has not suppressed the VL. **E**: single-dose NVP is obsolete and inadequate for breastfeeding exposure."
+    },
+    {
+      "id": "hiv-q04",
+      "stem": "A 32-year-old at 30 weeks has been on TLD for 3 years. Her VL at booking (18 weeks) was 3,800 copies/mL. She admits missing doses when her husband is home because she has not disclosed. What is the MOST appropriate management now?",
+      "options": [
+        "Start intensive adherence counselling, address disclosure, and repeat the VL after completing the sessions",
+        "Switch immediately to a second-line protease-inhibitor regimen",
+        "Add efavirenz to her current regimen",
+        "Stop ART until she has disclosed, to prevent resistance",
+        "Plan an elective caesarean section at 36 weeks and continue the current approach"
+      ],
+      "answer": 0,
+      "difficulty": "core",
+      "explanation": "**A is correct.** Non-suppression is most often due to **adherence**; here the barrier (non-disclosure) is obvious. IAC (around 3 sessions), disclosure support and a treatment supporter, then **repeat VL**. **B**: switching without addressing adherence leads to failure of the new regimen, and switches go through the switch committee after a repeat VL. **C**: adding a single drug to a failing regimen breeds resistance. **D**: stopping ART raises VL and transmission risk. **E**: CS is not the answer; suppression is. The infant will be classified high-risk if she is still not suppressed near delivery."
+    },
+    {
+      "id": "hiv-q05",
+      "stem": "A 25-year-old at 34 weeks on TLD is diagnosed with smear-negative pulmonary TB (GeneXpert positive, rifampicin sensitive) and started on RHZE. What change to her ART is required?",
+      "options": [
+        "No change",
+        "Switch TLD to TLE400",
+        "Stop ART until TB treatment is complete",
+        "Add an extra dolutegravir 50 mg so that DTG is taken twice daily, continued for 2 weeks after rifampicin stops",
+        "Double the whole TLD tablet to two tablets twice daily"
+      ],
+      "answer": 3,
+      "difficulty": "core",
+      "explanation": "**D is correct.** Rifampicin induces DTG metabolism, so DTG must be given **50 mg twice daily** during rifampicin and for **2 weeks after**. **A** risks subtherapeutic DTG and resistance. **B**: switching to EFV is unnecessary and EFV is a weaker regimen. **C**: stopping ART in an HIV/TB co-infected pregnant woman increases mortality and MTCT. **E**: doubling TDF and 3TC adds toxicity with no benefit; only DTG needs doubling."
+    },
+    {
+      "id": "hiv-q06",
+      "stem": "A 23-year-old unbooked woman arrives at a HC IV in active labour, 7 cm dilated, membranes intact. A rapid HIV test is positive. What is the MOST appropriate plan?",
+      "options": [
+        "Perform an emergency caesarean section to reduce transmission",
+        "Start TLD now, avoid artificial rupture of membranes and episiotomy, and give the baby AZT + NVP within 6 hours of birth",
+        "Give the mother single-dose nevirapine only",
+        "Wait for a CD4 count before any ART",
+        "Give the baby NVP alone for 6 weeks and start the mother on ART at the postnatal visit"
+      ],
+      "answer": 1,
+      "difficulty": "core",
+      "explanation": "**B is correct.** Diagnosis in labour means a **high-risk infant**: start the mother on TLD immediately, minimise intrapartum exposure (avoid ARM, episiotomy, scalp electrodes, prolonged labour), and give the baby **AZT + NVP** (then NVP to 12 weeks). **A**: at 7 cm, CS offers little benefit and adds maternal risk; not policy in Uganda. **C**: single-dose NVP is obsolete. **D**: never delay ART for CD4. **E**: under-treats a high-risk baby and delays maternal ART."
+    },
+    {
+      "id": "hiv-q07",
+      "stem": "A mother brings her 6-week-old HIV-exposed baby for the first immunisations. The baby is exclusively breastfed and completed NVP prophylaxis. Which test should be done today?",
+      "options": [
+        "Rapid HIV antibody test",
+        "No test until 18 months",
+        "CD4 percentage",
+        "HIV viral load on the baby",
+        "HIV DNA PCR on a dried blood spot or point-of-care platform"
+      ],
+      "answer": 4,
+      "difficulty": "core",
+      "explanation": "**E is correct.** The first **DNA PCR** is due at 4–6 weeks. **A**: maternal antibodies persist until up to 18 months, so an antibody test cannot diagnose infection now. **C**: CD4 is not diagnostic. **D**: VL is used for monitoring treatment, not first-line EID. **B**: waiting would miss infected infants, who have high early mortality without ART."
+    },
+    {
+      "id": "hiv-q08",
+      "stem": "A 28-year-old HIV-positive mother on TLD with a suppressed VL asks how she should feed her newborn. She lives in a village with an unprotected water source. What is the BEST advice?",
+      "options": [
+        "Formula feed exclusively from birth",
+        "Breastfeed and give water and glucose between feeds during hot weather",
+        "Exclusive breastfeeding for 6 months, then complementary foods with continued breastfeeding to at least 12 months while continuing ART",
+        "Breastfeed for 6 weeks then stop abruptly",
+        "Express and heat-treat breast milk for 2 years"
+      ],
+      "answer": 2,
+      "difficulty": "core",
+      "explanation": "**B is correct** (Uganda/WHO). **A**: formula is not AFASS here (unsafe water, cost), so diarrhoea and malnutrition risks outweigh the small transmission risk from a suppressed mother. **B**: mixed feeding damages the infant gut mucosa and increases transmission. **D**: abrupt early cessation deprives the baby of nutrition and immunity and is not recommended. **E**: heat-treating is impractical and not the standard recommendation."
+    },
+    {
+      "id": "hiv-q09",
+      "stem": "A HIV-exposed infant was on AZT + NVP for 6 weeks then NVP for 6 more because the mother's VL at delivery was 9,200 copies/mL. At 12 weeks postpartum the mother's VL is 2,400 copies/mL. She is breastfeeding. What should happen to the infant's prophylaxis?",
+      "options": [
+        "Continue NVP until the mother's VL is suppressed (or until 4 weeks after breastfeeding stops)",
+        "Stop NVP now as 12 weeks are complete",
+        "Restart AZT + NVP for another 12 weeks",
+        "Switch the infant to co-trimoxazole alone",
+        "Stop breastfeeding and stop NVP"
+      ],
+      "answer": 0,
+      "difficulty": "advanced",
+      "explanation": "**A is correct.** Uganda guidance extends **NVP** beyond 12 weeks while the breastfeeding mother remains non-suppressed, until she suppresses or until 4 weeks after breastfeeding ends. **B** leaves the infant unprotected during ongoing high-level exposure. **C**: dual therapy is not required beyond the first 6 weeks. **D**: CTX prevents opportunistic infections but not HIV. **E**: abrupt cessation is harmful and does not replace fixing maternal suppression (IAC, repeat VL, switch committee)."
+    },
+    {
+      "id": "hiv-q10",
+      "stem": "A 21-year-old HIV-negative woman at 26 weeks reports her husband is HIV-positive and has 'not been taking his drugs for months'. What is the MOST appropriate intervention for her?",
+      "options": [
+        "Reassure her; pregnancy reduces the risk of HIV acquisition",
+        "Advise her to avoid breastfeeding",
+        "Start her on TLD immediately",
+        "Offer oral PrEP (TDF/FTC once daily) after a negative HIV test, with retesting every 3 months",
+        "Test her again only at delivery"
+      ],
+      "answer": 3,
+      "difficulty": "core",
+      "explanation": "**D is correct.** She is at substantial risk; **oral PrEP (TDF/FTC or TDF/3TC)** is safe in pregnancy and breastfeeding. HIV test before starting and every 3 months; also support the partner's re-engagement. **A** is false: pregnancy and postpartum **increase** acquisition risk. **C**: full ART is for people with HIV; she is negative. **B**: she is negative; breastfeeding is recommended. **E**: she needs prevention now and retesting per the schedule, not just at delivery."
+    },
+    {
+      "id": "hiv-q11",
+      "stem": "A 29-year-old at 30 weeks is HIV-negative, syphilis-negative, but HBsAg-positive. HBV DNA is 3.5 million IU/mL. What is the MOST appropriate management to reduce vertical transmission?",
+      "options": [
+        "Hepatitis B vaccine to the mother only",
+        "Tenofovir DF 300 mg once daily now, continuing until at least delivery (often to 12 weeks postpartum), plus the infant HBV birth-dose vaccine within 24 hours (± HBIG)",
+        "Elective caesarean section at 38 weeks as the main intervention",
+        "Avoid breastfeeding",
+        "Lamivudine monotherapy from 36 weeks"
+      ],
+      "answer": 1,
+      "difficulty": "advanced",
+      "explanation": "**B is correct.** High HBV DNA (200,000 IU/mL or more) warrants **TDF prophylaxis from about 28 weeks**, plus a **timely birth-dose vaccine** (and HBIG where available). **A**: vaccinating an infected mother is useless. **C**: CS is not recommended for HBV prevention. **D**: breastfeeding is safe with infant vaccination. **E**: TDF is preferred; 3TC alone has a low resistance barrier and starting at 36 weeks is late."
+    },
+    {
+      "id": "hiv-q12",
+      "stem": "A 26-year-old on TLD at 37 weeks has a VL of below 50 copies/mL done 1 month ago. She has spontaneous rupture of membranes with no contractions. Cervix is unfavourable. There are no other complications. What is the BEST plan?",
+      "options": [
+        "Expectant management for up to 72 hours",
+        "Emergency caesarean section because she is HIV-positive",
+        "Discharge home to await labour",
+        "Give IV zidovudine infusion and wait",
+        "Expedite delivery: induce labour promptly (e.g. misoprostol per protocol), continue ART and avoid unnecessary vaginal examinations"
+      ],
+      "answer": 4,
+      "difficulty": "advanced",
+      "explanation": "**E is correct.** In HIV-positive women with term PROM, **delivery should be expedited** to shorten exposure; with a suppressed VL, vaginal birth is appropriate. **A** and **C** prolong exposure and infection risk. **B**: CS is not indicated for HIV alone with a suppressed VL. **D**: IV AZT is not part of Uganda's intrapartum protocol and does not replace expediting delivery."
+    },
+    {
+      "id": "hiv-q13",
+      "stem": "A 34-year-old HIV-positive woman on TLD attends the 6-week postnatal clinic. She wants a contraceptive implant. Which statement is correct?",
+      "options": [
+        "Implants are contraindicated with any ART",
+        "She must switch to efavirenz before the implant is inserted",
+        "DTG does not reduce implant efficacy; the implant is a suitable choice",
+        "She should use condoms only until breastfeeding stops",
+        "DTG and levonorgestrel implant together cause neural tube defects"
+      ],
+      "answer": 2,
+      "difficulty": "core",
+      "explanation": "**C is correct.** DTG has **no clinically significant interaction** with hormonal contraceptives. **A**: false. **B**: it is **efavirenz** that reduces implant levels (the opposite of helpful). **D**: dual protection is sensible, but she need not rely on condoms alone. **E**: contraceptives prevent pregnancy; the DTG NTD signal has largely resolved and does not relate to implants."
+    },
+    {
+      "id": "hiv-q14",
+      "stem": "A 22-year-old tested HIV-negative at booking (12 weeks). At 32 weeks she presents with fever, sore throat, a maculopapular rash and generalised lymphadenopathy. Malaria RDT is negative. What is the MOST important test to request?",
+      "options": [
+        "Repeat HIV test (and HIV RNA/VL if the rapid test is negative and suspicion persists)",
+        "Monospot test only",
+        "Blood culture only",
+        "Throat swab for streptococcus",
+        "Antinuclear antibodies"
+      ],
+      "answer": 0,
+      "difficulty": "advanced",
+      "explanation": "**A is correct.** This is a classic **acute retroviral syndrome**; seroconversion in pregnancy carries a very high MTCT risk because of the huge VL. Antibody tests may still be negative in the window period, so check **HIV RNA** if available. **B**, **C**, **D** consider other causes but miss the most dangerous one. **E** is irrelevant here. This case illustrates why **retesting** is part of eMTCT."
+    },
+    {
+      "id": "hiv-q15",
+      "stem": "A 3.0 kg baby is born to a mother on TLD for 6 years with a VL below 50 copies/mL 2 months ago. What is the correct prophylaxis?",
+      "options": [
+        "NVP 10 mg once daily for 6 weeks",
+        "NVP 20 mg once daily for 12 weeks",
+        "AZT + NVP for 12 weeks",
+        "NVP 15 mg (1.5 mL) once daily for 6 weeks",
+        "No prophylaxis as the VL is suppressed"
+      ],
+      "answer": 3,
+      "difficulty": "core",
+      "explanation": "**D is correct.** Long-term ART with a recent suppressed VL makes the infant **low-risk**: **NVP once daily for 6 weeks**, 15 mg (1.5 mL) for 2.5 kg or more. **B**: 20 mg is the 6–12-week dose and 12 weeks is for high-risk infants. **C**: the high-risk regimen. **A**: 10 mg is for 2.0–2.49 kg. **E**: all HEIs in Uganda receive prophylaxis because breastfeeding exposure continues."
+    }
+  ],
+  "cases": [
+    {
+      "id": "hiv-c01",
+      "title": "New HIV diagnosis at booking",
+      "presentation": "Aisha, 22, G1P0 at 14 weeks, books at a HC IV in Wakiso. Her dual HIV/syphilis test is HIV-positive, syphilis-negative. She is tearful and says her boyfriend does not know her status. She looks well.",
+      "steps": [
+        {
+          "prompt": "What history do you take now, and why?",
+          "answer": "Confirm the result (national serial algorithm). Ask about **symptoms of TB** (cough, fever, night sweats, poor weight gain), **headache/neck stiffness** (cryptococcal meningitis would delay ART), rash/jaundice, other medicines (TB drugs, anticonvulsants), previous HIV tests, partner status and **safety at home** (intimate partner violence risk on disclosure), mental health, support network, and her plans for delivery and feeding."
+        },
+        {
+          "prompt": "What examination and investigations?",
+          "answer": "Weight, BP, pallor, lymph nodes, oral thrush, skin (KS, zoster), chest, neck stiffness; obstetric exam. Tests: **CD4**, HBsAg, Hb, creatinine if available, urinalysis, TB symptom screen (GeneXpert if symptomatic), **CrAg if CD4 200 or below**. ART is **not delayed** for results."
+        },
+        {
+          "prompt": "What treatment do you start today?",
+          "answer": "After counselling: **TLD one tablet once daily** (TDF 300 / 3TC 300 / DTG 50), same day. **Co-trimoxazole 960 mg once daily** (and **no IPTp-SP**). Continue ANC ferrous sulphate/folic acid, **timed 2 h after or 6 h before DTG** or taken with food. ITN. TPT (isoniazid 300 mg + pyridoxine 25 mg daily for 6 months) once TB is excluded. Identify a treatment supporter; plan disclosure and partner testing (assisted partner notification)."
+        },
+        {
+          "prompt": "How will you monitor her during pregnancy?",
+          "answer": "Monthly (or per schedule) adherence checks, TB screen every visit, side effects (DTG: insomnia, headache). **VL 3 months after starting** (about 26 weeks), then every 3 months until breastfeeding ends. Ensure a VL result is available around 34–36 weeks to classify the baby's risk."
+        },
+        {
+          "prompt": "Her VL at 26 weeks is below 50 copies/mL. She delivers a 2.4 kg baby at 38 weeks. What does the baby receive?",
+          "answer": "She has been on ART for more than 4 weeks and is suppressed, so the baby is **low-risk**: **NVP 10 mg (1 mL) once daily for 6 weeks** (2.0–2.49 kg band), started within 6 hours. Breastfeed within 1 hour, exclusively for 6 months. Vitamin K, BCG, OPV-0. **Co-trimoxazole from 6 weeks.** **DNA PCR at 6 weeks, 9 months, 6 weeks after weaning; antibody at 18 months.**"
+        },
+        {
+          "prompt": "What postnatal counselling does she need?",
+          "answer": "Lifelong ART, VL every 3 months while breastfeeding, family planning (DTG has no interaction with implants/DMPA), cervical screening, mother-baby pair follow-up, safe disclosure, and returning with the baby for EID."
+        }
+      ],
+      "takeaway": "Test, treat the same day with TLD, give co-trimoxazole instead of SP, track the VL every 3 months, and let the mother's VL and time on ART decide the baby's prophylaxis."
+    },
+    {
+      "id": "hiv-c02",
+      "title": "Non-suppressed viral load in the third trimester",
+      "presentation": "Grace, 31, P2+0 at 32 weeks, on TLD for 5 years. Her VL at booking (16 weeks) was 12,000 copies/mL; after 3 IAC sessions it is now 8,500 copies/mL. She attends Mengo ANC with a cough of 3 weeks.",
+      "steps": [
+        {
+          "prompt": "What are the likely reasons for her non-suppression?",
+          "answer": "In order: **poor adherence** (stigma, non-disclosure, alcohol, depression, pill fatigue, hyperemesis), **drug interactions** (rifampicin, iron/antacids taken with DTG, anticonvulsants), **malabsorption/vomiting**, and **drug resistance** (less common on DTG). Her cough raises **TB**, which also drives VL up and may involve rifampicin later."
+        },
+        {
+          "prompt": "What do you do about the cough?",
+          "answer": "TB symptom screen is positive: **sputum GeneXpert**, TB LAM if CD4 below 200 or seriously ill, CXR with abdominal shielding. Check SpO₂ (PCP), temperature, weight trend. If TB confirmed, start RHZE by weight; add **DTG 50 mg** so DTG is **twice daily** throughout rifampicin and 2 weeks after. Screen household contacts."
+        },
+        {
+          "prompt": "How do you address the VL?",
+          "answer": "Detailed adherence assessment (pill count, pharmacy refill records), home visit if needed, treatment supporter, **directly observed therapy**, mental health screen. Because she remains non-suppressed after IAC, present her to the **ART switch committee** for a regimen decision (resistance testing where available). Continue TLD meanwhile; never stop ART."
+        },
+        {
+          "prompt": "How does this affect delivery planning and the baby?",
+          "answer": "Her infant will be **high-risk**. Plan facility delivery at a hospital; continue ART in labour; **avoid ARM, episiotomy, scalp electrodes, prolonged ROM**; CS only for obstetric indications (discuss with consultant if VL very high at term). Baby: **AZT + NVP for 6 weeks, then NVP for 6 weeks**, consider birth PCR if available, then routine EID. CTX from 6 weeks."
+        },
+        {
+          "prompt": "At 12 weeks postpartum her VL is 1,900 copies/mL. What now?",
+          "answer": "She is still non-suppressed and breastfeeding, so **continue the infant's NVP** until she is suppressed or 4 weeks after breastfeeding stops. Continue IAC and act on the switch-committee decision. Repeat infant PCR if any symptoms. Keep the **mother-baby pair** closely linked."
+        }
+      ],
+      "takeaway": "A non-suppressed VL is an adherence problem until proven otherwise; fix the barriers, look for TB and interactions, escalate to the switch committee, and treat the baby as high-risk."
+    },
+    {
+      "id": "hiv-c03",
+      "title": "Unbooked mother, positive test in labour",
+      "presentation": "Night shift at a HC IV in Mukono: Sarah, 19, G1, unbooked, arrives in active labour at 6 cm with intact membranes. Opt-out HIV testing in labour is positive (confirmed). She has never tested before.",
+      "steps": [
+        {
+          "prompt": "What are your immediate actions for the mother?",
+          "answer": "Brief, sensitive post-test counselling (full counselling can follow postpartum). **Start TLD now**. Continue labour care with the partograph. **Avoid ARM, routine episiotomy, scalp electrodes and unnecessary VEs**; avoid prolonged labour; active management of the third stage. Test for syphilis and HBsAg if not done."
+        },
+        {
+          "prompt": "Is caesarean section indicated?",
+          "answer": "No. CS is for obstetric indications only. At 6 cm with normal progress, vaginal delivery with maternal ART and enhanced infant prophylaxis is appropriate. Unnecessary CS adds risks of sepsis and haemorrhage."
+        },
+        {
+          "prompt": "The baby is born weighing 3.2 kg. What prophylaxis, and when?",
+          "answer": "**High-risk** (diagnosed in labour). **AZT 15 mg (1.5 mL) twice daily + NVP 15 mg (1.5 mL) once daily for 6 weeks**, then **NVP 20 mg once daily for 6 more weeks**. **Start within 6 hours**, do not wait for the morning. Birth PCR if available. Breastfeed within 1 hour, exclusively."
+        },
+        {
+          "prompt": "What follow-up do mother and baby need?",
+          "answer": "Mother: baseline CD4, CrAg if CD4 200 or below, TB screen, CTX, **VL 3 months after ART start**, then every 3 months while breastfeeding, disclosure and partner testing. Baby: CTX from 6 weeks; **PCR at 6 weeks, 9 months, 6 weeks after weaning; antibody at 18 months**; extend NVP if the mother is still non-suppressed at 12 weeks postpartum."
+        }
+      ],
+      "takeaway": "Diagnosis in labour is an emergency for the baby: start maternal TLD immediately, protect the birth process, and give AZT + NVP within 6 hours."
+    }
+  ],
+  "references": [
+    {
+      "title": "Consolidated Guidelines for the Prevention and Treatment of HIV and AIDS in Uganda (November 2022)",
+      "source": "Ministry of Health Uganda",
+      "year": 2022,
+      "url": "https://dsduganda.com/wp-content/uploads/2023/05/Consolidated-HIV-and-AIDS-Guidelines-20230516.pdf"
+    },
+    {
+      "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://www.differentiatedservicedelivery.org/wp-content/uploads/UCG-2023-Publication-Final-PDF-Version-1.pdf"
+    },
+    {
+      "title": "Management of vertical HIV transmission. WHO updated recommendations on HIV clinical management",
+      "source": "World Health Organization (NCBI Bookshelf)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK620321/"
+    },
+    {
+      "title": "Antiretroviral Management of Infants With In Utero, Intrapartum, or Breastfeeding Exposure to HIV (Perinatal Guidelines)",
+      "source": "NIH / clinicalinfo.hiv.gov",
+      "url": "https://clinicalinfo.hiv.gov/en/guidelines/perinatal/management-infants-utero-intrapartum-breastfeeding-hiv-exposure"
+    },
+    {
+      "title": "Rapid antiretroviral therapy initiation following rollout of point-of-care early infant diagnosis testing, Uganda, 2018–2021",
+      "source": "AIDS Research and Therapy",
+      "year": 2024,
+      "url": "https://link.springer.com/article/10.1186/s12981-024-00613-8"
+    },
+    {
+      "title": "Compliance with maternal HIV retesting for pregnant women attending care in selected health facilities in Namutumba district, Uganda",
+      "source": "BMC Health Services Research",
+      "year": 2025,
+      "url": "https://link.springer.com/article/10.1186/s12913-025-12249-z"
+    },
+    {
+      "title": "Facilitators, barriers and service availability for delivering integrated care for the triple elimination of HIV, syphilis and hepatitis B vertical transmission in Uganda",
+      "source": "BMC Health Services Research",
+      "year": 2025,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12044932/"
+    },
+    {
+      "title": "Implementation of Hepatitis B Screening Into Routine Antenatal Care to Prevent Mother-to-Child Transmission in Rural Western Uganda",
+      "source": "Open Forum Infectious Diseases",
+      "year": 2023,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10496864/"
+    },
+    {
+      "title": "Prevalence of undetectable and suppressed viral load in HIV-infected pregnant women initiating Option B+ in Uganda",
+      "source": "BMC Infectious Diseases (PMC)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8417996/"
+    },
+    {
+      "title": "Uganda records significant reduction in new HIV infections among newborns",
+      "source": "WHO Regional Office for Africa",
+      "url": "https://www.afro.who.int/countries/uganda/photo-story/uganda-records-significant-reduction-new-hiv-infections-among-newborns"
+    },
+    {
+      "title": "Barriers and enablers of adherence to infant nevirapine prophylaxis among 6-week-old HIV exposed infants in Northern Uganda",
+      "source": "PLOS One",
+      "year": 2020,
+      "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0240529"
+    }
+  ]
+}

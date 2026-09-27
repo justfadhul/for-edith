@@ -1,0 +1,477 @@
+{
+  "slug": "partograph-labour-monitoring",
+  "flashcards": [
+    {
+      "id": "pg-f01",
+      "front": "At what cervical dilatation does the modified WHO partograph start? And the WHO Labour Care Guide?",
+      "back": "Modified WHO partograph: **4 cm** (latent phase removed). LCG: **5 cm**."
+    },
+    {
+      "id": "pg-f02",
+      "front": "How is the alert line drawn?",
+      "back": "From **4 cm** at the time of the first active-phase plot, rising at **1 cm per hour** to 10 cm."
+    },
+    {
+      "id": "pg-f03",
+      "front": "Where is the action line and why that distance?",
+      "back": "**4 hours to the right** of (parallel to) the alert line; originally chosen to allow time to refer and to try simple interventions."
+    },
+    {
+      "id": "pg-f04",
+      "front": "Symbols for plotting cervical dilatation and descent?",
+      "back": "Cervix: **X**. Descent (fifths of head palpable abdominally): **O**."
+    },
+    {
+      "id": "pg-f05",
+      "front": "Where do you plot a first active-phase VE of 6 cm?",
+      "back": "**On the alert line** at the 6 cm level, with the actual clock time written below."
+    },
+    {
+      "id": "pg-f06",
+      "front": "How are contractions recorded on the partograph?",
+      "back": "Number in 10 minutes (one box per contraction), shaded by duration: **dots under 20 s, diagonal lines 20-40 s, solid over 40 s**."
+    },
+    {
+      "id": "pg-f07",
+      "front": "Liquor codes on the partograph?",
+      "back": "**I** intact, **C** clear, **M** meconium-stained, **B** blood-stained, **A** absent."
+    },
+    {
+      "id": "pg-f08",
+      "front": "Grades of moulding?",
+      "back": "**0** separate; **+** touching; **++** overlapping, reducible; **+++** overlapping, not reducible."
+    },
+    {
+      "id": "pg-f09",
+      "front": "Monitoring frequencies on the modified WHO partograph?",
+      "back": "FHR, contractions, pulse: **every 30 min**. Temperature: **every 2 h**. BP: **every 4 h**. VE: **every 4 h**. Urine: every void."
+    },
+    {
+      "id": "pg-f10",
+      "front": "LCG cervical alert thresholds (time at each dilatation)?",
+      "back": "**5 cm 6 h; 6 cm 5 h; 7 cm 3 h; 8 cm 2.5 h; 9 cm 2 h** (or longer)."
+    },
+    {
+      "id": "pg-f11",
+      "front": "LCG second-stage alert thresholds?",
+      "back": "**3 h or more in nulliparas; 2 h or more in multiparas.**"
+    },
+    {
+      "id": "pg-f12",
+      "front": "LCG alert thresholds for baseline FHR and decelerations?",
+      "back": "Baseline **below 110 or 160 and above**; **late** decelerations."
+    },
+    {
+      "id": "pg-f13",
+      "front": "LCG maternal alert thresholds (pulse, BP, temperature)?",
+      "back": "Pulse **below 60 or 120+**; SBP **below 80 or 140+**; DBP **90+**; temperature **below 35.0 or 37.5+**."
+    },
+    {
+      "id": "pg-f14",
+      "front": "LCG alert thresholds for contractions?",
+      "back": "**2 or fewer, or more than 5, per 10 min**; duration **under 20 s or over 60 s**."
+    },
+    {
+      "id": "pg-f15",
+      "front": "Name the 7 sections of the LCG.",
+      "back": "1. Identifying info/labour characteristics 2. Supportive care 3. Care of the baby 4. Care of the woman 5. Labour progress 6. Medication 7. Shared decision-making (assessment and plan)."
+    },
+    {
+      "id": "pg-f16",
+      "front": "How do you perform intermittent auscultation correctly?",
+      "back": "Find the fetal back, **feel the maternal pulse simultaneously**, listen through the end of a contraction and **for at least 60 seconds after it**, record baseline, rhythm and decelerations."
+    },
+    {
+      "id": "pg-f17",
+      "front": "What do late decelerations mean?",
+      "back": "The FHR falls after the peak of a contraction and recovers late: **uteroplacental insufficiency / fetal hypoxia**."
+    },
+    {
+      "id": "pg-f18",
+      "front": "Action at an HC III when the partograph crosses the alert line?",
+      "back": "**Refer** to an HC IV/hospital (with the partograph, IV line and escort). Do not wait for the action line."
+    },
+    {
+      "id": "pg-f19",
+      "front": "Starting oxytocin augmentation regimen (WHO MCPC)?",
+      "back": "**2.5 IU in 500 mL** saline/RL at **10 drops/min**, increase by **10 drops/min every 30 min** until 3-5 contractions in 10 min each over 40 s (max 60 drops/min)."
+    },
+    {
+      "id": "pg-f20",
+      "front": "Steps of intrauterine resuscitation for abnormal FHR?",
+      "back": "**Stop oxytocin**, left lateral, IV fluids, VE to exclude cord prolapse and assess progress, treat fever/hypotension/tachysystole, re-listen; if persistent, **expedite delivery**."
+    },
+    {
+      "id": "pg-f21",
+      "front": "Does WHO recommend admission or continuous CTG for low-risk women?",
+      "back": "**No.** It increases caesarean and instrumental births without improving newborn outcomes. Use intermittent auscultation."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "pg-q01",
+      "stem": "A primigravida is admitted to Mengo labour ward at 10:00. VE shows 6 cm dilatation, 80% effaced; the head is 3/5 palpable. The ward uses the modified WHO partograph. Where should the first cervical plot be made?",
+      "options": [
+        "At 6 cm on the alert line, with 10:00 written below",
+        "At 4 cm at 10:00, with the alert line drawn from that point",
+        "At 6 cm at time zero on the left margin, not on any line",
+        "At 6 cm on the action line",
+        "Do not plot until the next VE confirms progress"
+      ],
+      "answer": 0,
+      "explanation": "In the active phase, the first dilatation is plotted **on the alert line** at the corresponding level (6 cm) and the actual time is written below. Plotting at 4 cm (B) misrepresents her dilatation. Plotting at the left margin (C) is only for the old composite partograph's latent phase. The action line (D) is 4 h to the right of the alert line and would falsely suggest delay. Waiting (E) loses the baseline.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pg-q02",
+      "stem": "On a partograph, contractions in the last 10 minutes are recorded as 3 boxes filled with diagonal lines. What does this mean?",
+      "options": [
+        "3 contractions lasting less than 20 seconds each",
+        "3 contractions per hour of moderate strength",
+        "3 contractions lasting more than 40 seconds each",
+        "3 contractions lasting 20-40 seconds each",
+        "Tachysystole"
+      ],
+      "answer": 3,
+      "explanation": "Shading reflects **duration**: dots under 20 s, **diagonal lines 20-40 s**, solid over 40 s. The number of boxes is contractions **per 10 minutes**, not per hour (B). Under 20 s would be dots (A); over 40 s solid (C). Tachysystole (E) is more than 5 contractions in 10 minutes.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pg-q03",
+      "stem": "At an HC III, a G2P1 was plotted on the alert line at 4 cm at 08:00. At 12:00 she is 5 cm, head 3/5, contractions 2 in 10 min lasting 20-30 s, FHR 136, maternal observations normal. The nearest HC IV is 90 minutes away by road. What is the MOST appropriate next step?",
+      "options": [
+        "Continue observation and reassess at 16:00",
+        "Refer to the HC IV now with the partograph, IV line and escort",
+        "Start oxytocin augmentation at the HC III",
+        "Perform ARM and reassess in 4 hours at the HC III",
+        "Encourage pushing"
+      ],
+      "answer": 1,
+      "explanation": "She has crossed the **alert line** (expected 8 cm at 12:00). At a facility without caesarean capability, crossing the alert line is the trigger to **refer**, since the 4-hour window exists for transfer. Waiting (A, D) risks reaching obstruction far from theatre. Oxytocin (C) should be started only where CS is available and continuous monitoring is possible. Pushing (E) before full dilatation is wrong.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pg-q04",
+      "stem": "In a hospital, a primigravida reaches the action line at 7 cm. Contractions are 2 in 10 minutes lasting 25 seconds. Membranes are intact, the head is 2/5, moulding 0, no caput, FHR 140. What is the MOST appropriate management?",
+      "options": [
+        "Immediate caesarean section for failure to progress",
+        "Give pethidine and wait",
+        "Vacuum delivery",
+        "Discharge home and review tomorrow",
+        "ARM followed by oxytocin augmentation with close monitoring, and review in 2-4 hours"
+      ],
+      "answer": 4,
+      "explanation": "The picture is **inadequate contractions** (hypotonic uterine activity) in a primigravida with a descending head and no signs of CPD (no moulding/caput). Appropriate: rehydrate, empty bladder, **ARM and oxytocin augmentation** with close monitoring. CS (A) is premature without a trial of augmentation. Vacuum (C) needs full dilatation. Discharge (D) is dangerous in active labour. Pethidine (B) does not fix inadequate contractions.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pg-q05",
+      "stem": "A G6P5 at 40 weeks is at 7 cm, 4 hours after being plotted at 7 cm on the alert line. Contractions are 4 in 10 minutes lasting 50 seconds. The head is 3/5, moulding +++, caput ++. FHR 150. What is the BEST management?",
+      "options": [
+        "Oxytocin augmentation",
+        "ARM and reassess in 4 hours",
+        "Caesarean section after resuscitation (fluids, catheter, antibiotics)",
+        "Vacuum extraction",
+        "Fundal pressure"
+      ],
+      "answer": 2,
+      "explanation": "No progress despite **adequate contractions**, with moulding +++, caput and a high head in a grand multipara = **CPD/obstructed labour**: resuscitate and deliver by **caesarean section**. Oxytocin (A) risks **uterine rupture**. ARM and waiting (B) delays delivery. Vacuum (D) requires full dilatation and a low head. Fundal pressure (E) is dangerous and not recommended.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pg-q06",
+      "stem": "A student auscultates the FHR with a Doppler and records 118 bpm, while the woman's pulse on the same chart is 118 bpm. What is the MOST important thing to do?",
+      "options": [
+        "Listen again while simultaneously palpating the maternal radial pulse to confirm the source",
+        "Record it as normal and continue",
+        "Start oxytocin",
+        "Diagnose fetal bradycardia and prepare for caesarean",
+        "Give oxygen by mask and wait 30 minutes"
+      ],
+      "answer": 0,
+      "explanation": "An FHR identical to the maternal pulse suggests you may be hearing the **maternal** heart (common with Doppler, especially with maternal tachycardia or IUFD). Always **palpate the maternal pulse simultaneously**. Accepting it (B) could miss fetal death or bradycardia. Oxytocin (C) is irrelevant. Diagnosing bradycardia (D) is premature: 118 is actually within normal range if fetal. Oxygen and waiting (E) do not address the uncertainty.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pg-q07",
+      "stem": "A woman on oxytocin augmentation has 6 contractions in 10 minutes each lasting 70 seconds. The FHR has fallen to 95 bpm and recovers slowly after each contraction. What is the FIRST action?",
+      "options": [
+        "Increase the oxytocin to complete the labour quickly",
+        "Give misoprostol",
+        "Perform a caesarean section immediately without further steps",
+        "Stop the oxytocin infusion and turn her to the left lateral position",
+        "Continue and recheck in 30 minutes"
+      ],
+      "answer": 3,
+      "explanation": "This is **tachysystole with fetal distress**. First **stop oxytocin** (half-life of a few minutes) and do **left lateral positioning**, then IV fluids, VE, and consider tocolysis (terbutaline 250 mcg SC). If the FHR does not recover, expedite delivery. Increasing oxytocin (A) or giving misoprostol (B) worsens hypoxia. Going straight to CS (C) without stopping the cause wastes the chance of recovery (and the CS is safer on a recovered baby). Waiting (E) risks fetal death or uterine rupture.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pg-q08",
+      "stem": "Using the WHO Labour Care Guide, a nulliparous woman was 7 cm at 09:00 and is still 7 cm at 12:00. FHR, maternal observations and contractions are normal. What does this mean?",
+      "options": [
+        "Normal; the LCG allows 5 hours at 7 cm",
+        "Alert threshold reached (3 hours or more at 7 cm): assess, document and plan",
+        "Action line crossed; immediate caesarean section",
+        "Second stage delay",
+        "No significance because the LCG does not track dilatation"
+      ],
+      "answer": 1,
+      "explanation": "The LCG threshold at **7 cm is 3 hours or more**, so this is an **alert**: circle it, reassess (3 Ps, hydration, bladder), write an assessment and plan (e.g. ARM/oxytocin, senior review). The 5-hour threshold (A) applies to 6 cm. The LCG has no action line and an alert does not automatically mean CS (C). She is not in second stage (D). The LCG does track dilatation (E).",
+      "difficulty": "core"
+    },
+    {
+      "id": "pg-q09",
+      "stem": "Which set of LCG findings would ALL be recorded as alerts?",
+      "options": [
+        "FHR 150, pulse 100, temperature 37.2",
+        "Companion present, oral fluids given, pain relief provided",
+        "4 contractions in 10 min, SBP 130, clear liquor",
+        "Moulding +, caput +, occiput anterior",
+        "FHR 165, diastolic BP 92, supine posture"
+      ],
+      "answer": 4,
+      "explanation": "LCG alerts: **FHR 160 or more**, **DBP 90 or more** and **supine posture (SP)** are all alerts. In A all values are normal. In C 4 contractions, SBP 130 and clear liquor are normal. In D moulding and caput alerts are only at +++ and OA is normal. In B all supportive care is given (the alert is 'N').",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pg-q10",
+      "stem": "A partograph shows cervical dilatation at 5 cm, but no descent has been plotted over 8 hours and the column for descent is blank. The midwife says she recorded 'station 0' in the notes. What is the problem?",
+      "options": [
+        "No problem, station is equivalent to descent",
+        "Descent is only plotted in second stage",
+        "Descent should be assessed by abdominal palpation in fifths and plotted as O; station alone can be misleading due to caput",
+        "Descent is plotted as X",
+        "Descent only matters for breech"
+      ],
+      "answer": 2,
+      "explanation": "The partograph records **descent in fifths palpable abdominally, plotted as O**. Station on VE can be falsely reassuring when a big caput forms (A is wrong). Descent is plotted throughout the active phase (B is wrong). X is for the cervix (D). Descent matters for every cephalic labour and is key in recognising CPD (E).",
+      "difficulty": "core"
+    },
+    {
+      "id": "pg-q11",
+      "stem": "A woman at 8 cm has thick green meconium-stained liquor. FHR is 150 with no decelerations. What is the MOST appropriate plan?",
+      "options": [
+        "Record M, increase FHR monitoring (e.g. every 15 min), watch closely for decelerations, prepare for neonatal resuscitation",
+        "Immediate caesarean for meconium alone",
+        "Start oxytocin",
+        "Ignore it because the FHR is normal",
+        "Suction the baby's mouth when the head delivers routinely, before the shoulders"
+      ],
+      "answer": 0,
+      "explanation": "Thick meconium (M3 / M+++ on the LCG) is an alert: it may reflect hypoxia and risks aspiration. With a normal FHR, **continue labour with closer monitoring** and prepare for resuscitation (person skilled in bag-mask present, suction ready). CS for meconium alone (B) is not indicated. Oxytocin (C) is not indicated by meconium. Ignoring it (D) is unsafe. Routine intrapartum oropharyngeal suctioning (E) is **not recommended**; it does not prevent meconium aspiration syndrome.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pg-q12",
+      "stem": "Which is the CORRECT technique for intermittent auscultation in the active first stage?",
+      "options": [
+        "Listen for 15 seconds between contractions and multiply by 4",
+        "Listen during the contraction only",
+        "Listen once every 4 hours at the time of VE",
+        "Listen through the end of a contraction and for at least 1 minute after it, while palpating the maternal pulse",
+        "Listen only when the mother reports reduced movements"
+      ],
+      "answer": 3,
+      "explanation": "Proper IA means listening **for at least 60 seconds after a contraction** (to detect late decelerations) and confirming it is fetal by **palpating the maternal pulse**. 15 s between contractions (A) misses decelerations. During the contraction only (B) is often inaudible and misses recovery. Four-hourly (C) is far too infrequent (should be every 15-30 min). Waiting for symptoms (E) is not monitoring.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pg-q13",
+      "stem": "A multipara (P3) on the LCG has been fully dilated for 2 hours and 10 minutes with the head at 1/5, OA position, good contractions and a normal FHR. What is the BEST interpretation and plan?",
+      "options": [
+        "Normal; continue for another hour",
+        "Second-stage alert (2 h or more in multipara): reassess, and consider assisted vaginal (vacuum) delivery if pushing is ineffective",
+        "Immediate caesarean section",
+        "Start oxytocin at a high rate",
+        "Fundal pressure"
+      ],
+      "answer": 1,
+      "explanation": "The LCG second-stage alert is **2 hours or more in multiparas** (3 h in nulliparas). With the head at 1/5, OA and a normal FHR, she is a good candidate for **vacuum** if she cannot deliver soon. Continuing without review (A) ignores the alert. CS (C) is not first-line with a low OA head. Oxytocin in a multipara in second stage (D) needs senior review and is not the first step here. Fundal pressure (E) is not recommended.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pg-q14",
+      "stem": "Why does WHO no longer recommend using the 1 cm per hour alert line alone to decide on intervention?",
+      "options": [
+        "Because cervical dilatation cannot be measured accurately",
+        "Because it only applies to breech presentation",
+        "Because labour is always faster than 1 cm/hour",
+        "Because partographs are too expensive",
+        "Because many women with normal outcomes dilate more slowly than 1 cm/hour, especially before 5 cm, so the rule leads to unnecessary interventions"
+      ],
+      "answer": 4,
+      "explanation": "Contemporary data show normal labour is often **slower than 1 cm/h** before 5-6 cm, so using this rule alone labels normal women as abnormal and drives oxytocin and caesarean use. Measurement is imperfect (A) but that is not the reason. C is false. Cost (D) is not the reason. It never applied only to breech (B).",
+      "difficulty": "core"
+    },
+    {
+      "id": "pg-q15",
+      "stem": "A woman with a previous caesarean section is on a trial of labour. At 6 cm, her pulse rises from 84 to 124 bpm, she complains of constant lower abdominal pain between contractions, there is fresh vaginal bleeding and the FHR drops to 90 bpm. What is the MOST appropriate action?",
+      "options": [
+        "Increase fluids and review in 1 hour",
+        "Give pethidine for pain",
+        "Suspect uterine rupture: call for help, resuscitate, and perform emergency laparotomy/caesarean",
+        "Start oxytocin because contractions have weakened",
+        "Perform ARM"
+      ],
+      "answer": 2,
+      "explanation": "Maternal tachycardia, constant pain, bleeding and fetal bradycardia in a woman with a uterine scar = **uterine rupture until proven otherwise**: emergency laparotomy. Waiting (A) or analgesia (B) masks the diagnosis. Oxytocin (D) worsens rupture. ARM (E) is irrelevant and delays surgery. This shows why maternal pulse is monitored every 30 minutes on the partograph.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "pg-c01",
+      "title": "Plotting and interpreting a normal partograph",
+      "presentation": "Mrs J.M., 25 years, G2P1, 39 weeks, admitted to Mengo at 07:00 in labour. VE at 07:00: 4 cm, head 4/5, membranes intact, moulding 0. FHR 140. 2 contractions in 10 min lasting 30 s. Pulse 82, BP 118/76, T 36.9.",
+      "steps": [
+        {
+          "prompt": "How do you plot the 07:00 findings?",
+          "answer": "Write 07:00 under the first column. **X at 4 cm on the alert line**, **O at 4/5** for descent. Liquor **I**, moulding **0**. FHR dot at 140. Two contraction boxes shaded with **diagonal lines** (20-40 s). Pulse dot, BP arrow, temperature, and urine results in the maternal section."
+        },
+        {
+          "prompt": "When will you next examine her vaginally and what will you monitor meanwhile?",
+          "answer": "Next VE at **11:00** (4 h) unless indicated earlier. Meanwhile FHR, contractions and pulse every 30 min, temperature every 2 h, BP at 11:00, urine each void. Supportive care: companion, fluids, mobility, empty bladder."
+        },
+        {
+          "prompt": "At 11:00: 8 cm, head 2/5, membranes ruptured at 10:00 with clear liquor, moulding +, contractions 4 in 10 lasting 45 s, FHR 132-148. Interpret.",
+          "answer": "X at 8 cm at 11:00 is **to the left of the alert line** (the alert line is at 8 cm at 11:00, so she is on or just left of it). Descent is progressing (O at 2/5). Liquor **C**, moulding **+**. Contractions solid shaded. **Normal progress, mother and baby well.**"
+        },
+        {
+          "prompt": "What is the plan now?",
+          "answer": "Continue monitoring; expect full dilatation in the next 1-2 h. Prepare the delivery pack, **oxytocin 10 IU** for AMTSL, newborn corner (towels, bag and mask checked). Reassess if urge to push or any alert."
+        },
+        {
+          "prompt": "How would you present her on the ward round?",
+          "answer": "'Mrs J.M., 25, G2P1 at 39 weeks, in active labour, plotted at 4 cm at 07:00, now 8 cm at 11:00 with the head 2/5, left of the alert line, clear liquor, mild moulding, adequate contractions, normal FHR and maternal observations. Assessment: normal progress. Plan: continue monitoring, anticipate delivery within 2 hours, AMTSL.'"
+        }
+      ],
+      "takeaway": "Plot the first active-phase VE on the alert line, record every section (fetal, progress, maternal), and always end with an assessment and plan."
+    },
+    {
+      "id": "pg-c02",
+      "title": "Crossing the action line at an HC IV",
+      "presentation": "Ms P.A., 19 years, primigravida at 40 weeks, admitted to an HC IV at 5 cm at 06:00 (plotted on the alert line). At 10:00 she was 6 cm; at 14:00 she is still 6 cm. Her partograph has now crossed the action line.",
+      "steps": [
+        {
+          "prompt": "What do you do first?",
+          "answer": "Call the senior clinician. **Full reassessment**: maternal condition (hydration, pulse, temperature, BP, urine ketones, bladder), fetal condition (FHR, liquor), contractions (palpate for 10 min), abdominal descent, and VE for cervix, position, caput and moulding."
+        },
+        {
+          "prompt": "Findings: P 104, T 37.4, urine ketones ++, bladder palpable. Contractions 2 in 10 lasting 25 s. Head 3/5, LOA, moulding 0, no caput, membranes intact. FHR 145. What is your interpretation?",
+          "answer": "**Delay in the active first stage due to inadequate uterine activity** (hypotonic contractions) with **dehydration/ketosis** and a full bladder. No features of CPD (no moulding/caput). Fetus well."
+        },
+        {
+          "prompt": "What is your management?",
+          "answer": "Empty the bladder (catheter), **IV Ringer's lactate 1 L** and encourage oral fluids, **ARM** (note liquor colour), then **oxytocin augmentation**: 2.5 IU in 500 mL at 10 drops/min, increasing by 10 drops/min every 30 min to 3-5 contractions in 10 min lasting over 40 s. One-to-one monitoring; FHR every 15-30 min; reassess in 2-4 h. Document the decision."
+        },
+        {
+          "prompt": "Two hours later contractions are 6 in 10 minutes lasting 70 s and FHR is 100 with late decelerations. What now?",
+          "answer": "**Tachysystole with fetal distress**: stop oxytocin, left lateral, IV fluids, VE to exclude cord prolapse and assess progress; consider terbutaline 250 mcg SC. If FHR recovers, restart oxytocin at half the rate later with care. If not, and she is not fully dilated, **emergency caesarean section**; prepare for neonatal resuscitation."
+        },
+        {
+          "prompt": "What lessons does this case teach about monitoring?",
+          "answer": "The partograph identified delay; correcting reversible causes (hydration, bladder) and cautious augmentation is appropriate in a primigravida without CPD. Oxytocin must be titrated with continuous monitoring and **stopped promptly** for tachysystole or fetal distress."
+        }
+      ],
+      "takeaway": "At the action line, look for the cause (3 Ps and maternal state). Augment only where there is no obstruction and CS is available, and stop oxytocin at the first sign of hyperstimulation."
+    },
+    {
+      "id": "pg-c03",
+      "title": "Using the Labour Care Guide: supportive care and alerts",
+      "presentation": "At a regional referral hospital using the LCG, Mrs D.K., 28, G3P2 at 38 weeks, was 5 cm at 08:00. The LCG shows: companion N, oral fluid N, posture SP, FHR 150-158, pulse 92, BP 138/88. At 12:00 she is 7 cm.",
+      "steps": [
+        {
+          "prompt": "Which items are alerts and what do you do about them?",
+          "answer": "**Companion N, oral fluid N, posture SP (supine)** are supportive-care alerts. Invite her chosen companion, offer oral fluids/light food, encourage mobility or left lateral/upright positions. Circle them and document the plan. FHR, pulse and BP are within normal limits (BP near 140/90: repeat and check urine protein)."
+        },
+        {
+          "prompt": "At 15:00 she is still 7 cm. Is this an alert? What next?",
+          "answer": "Yes: **3 h at 7 cm is the LCG alert threshold**. Reassess the 3 Ps: contractions, position (OP?), caput/moulding, descent, bladder, hydration. Write an assessment and plan (e.g. ARM/oxytocin if inadequate contractions; CS if obstruction), with senior review."
+        },
+        {
+          "prompt": "Examination shows ROP position, moulding +, caput +, head 2/5, contractions 3 in 10 lasting 45 s, BP now 146/94, urine protein ++. What are the alerts and your plan?",
+          "answer": "Alerts: **fetal position OP**, **SBP 140 or more, DBP 90 or more, protein ++**. This is likely **pre-eclampsia developing in labour** plus a malposition causing slow progress. Plan: senior review; check for severe features (headache, visual symptoms, epigastric pain; BP 160/110), bloods (FBC/platelets, LFTs, creatinine), BP every 15-30 min; if severe features, **MgSO4** and antihypertensive per protocol. Allow mobilisation/positions to encourage rotation; decide on augmentation vs CS with the obstetrician."
+        },
+        {
+          "prompt": "How would you summarise the LCG status on a ward round?",
+          "answer": "'Mrs D.K., 28, G3P2 at 38 weeks, in active labour on the LCG since 08:00 at 5 cm; now 7 cm for 3 hours (alert), ROP, moulding +, caput +, head 2/5, adequate contractions. New hypertension 146/94 with proteinuria ++ (alert). FHR normal. Supportive care alerts earlier have been corrected. Plan: pre-eclampsia work-up and monitoring, senior decision regarding augmentation vs caesarean.'"
+        }
+      ],
+      "takeaway": "The LCG adds supportive care and structured alerts. Every circled value must lead to an assessment and a written plan, and maternal conditions like pre-eclampsia can appear for the first time in labour."
+    }
+  ],
+  "references": [
+    {
+      "title": "WHO labour care guide: user's manual",
+      "source": "World Health Organization",
+      "year": 2020,
+      "url": "https://www.who.int/publications/i/item/9789240017566"
+    },
+    {
+      "title": "WHO Labour Care Guide (form)",
+      "source": "World Health Organization",
+      "year": 2020,
+      "url": "https://www.who.int/docs/default-source/reproductive-health/maternal-health/who-labour-care-guide.pdf"
+    },
+    {
+      "title": "WHO recommendations: intrapartum care for a positive childbirth experience",
+      "source": "World Health Organization",
+      "year": 2018,
+      "url": "https://www.who.int/publications/i/item/9789241550215"
+    },
+    {
+      "title": "Uganda Clinical Guidelines 2023",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf"
+    },
+    {
+      "title": "Essential Maternal and Newborn Clinical Care Guidelines for Uganda",
+      "source": "Ministry of Health Uganda",
+      "year": 2022,
+      "url": "https://library.health.go.ug/sexual-and-reproductive-health/essential-maternal-and-newborn-clinical-care-guidelines-uganda"
+    },
+    {
+      "title": "WHO Labor Care Guide as the next generation partogram: Revolutionising the quality of care during labor",
+      "source": "PMC",
+      "year": 2021,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8274635/"
+    },
+    {
+      "title": "Labour Care Guide implementation as a decision-making tool for monitoring labour among healthcare providers in Uganda: protocol for a mixed-methods study",
+      "source": "PMC",
+      "year": 2024,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11029502/"
+    },
+    {
+      "title": "Customization and acceptability of the WHO labor care guide to improve labor monitoring among health workers in Uganda",
+      "source": "PLOS Global Public Health",
+      "year": 2024,
+      "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371%2Fjournal.pgph.0002780"
+    },
+    {
+      "title": "Effectiveness of the Modified WHO Labour Care Guide to Detect Prolonged and Obstructed Labour in Rural Mbarara District, Southwestern Uganda",
+      "source": "International Journal of Women's Health / PMC",
+      "year": 2025,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11806744/"
+    },
+    {
+      "title": "Completion of the modified World Health Organization (WHO) partograph during labour in public health institutions of Addis Ababa, Ethiopia",
+      "source": "Reproductive Health",
+      "year": 2013,
+      "url": "https://reproductive-health-journal.biomedcentral.com/articles/10.1186/1742-4755-10-23"
+    },
+    {
+      "title": "FIGO consensus guidelines on intrapartum fetal monitoring: Intermittent auscultation",
+      "source": "International Journal of Gynecology & Obstetrics",
+      "year": 2015,
+      "url": "https://obgyn.onlinelibrary.wiley.com/doi/10.1016/j.ijgo.2015.06.019"
+    },
+    {
+      "title": "Monitoring the condition of the mother during the first stage of labour (Intrapartum Care)",
+      "source": "Bettercare (Perinatal Education Programme)",
+      "url": "https://bettercare.co.za/intrapartum-care/01.html"
+    }
+  ]
+}

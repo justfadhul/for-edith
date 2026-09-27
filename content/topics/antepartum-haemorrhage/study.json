@@ -1,0 +1,294 @@
+{
+  "slug": "antepartum-haemorrhage",
+  "flashcards": [
+    { "id": "aph-f01", "front": "Define antepartum haemorrhage (Uganda vs RCOG).", "back": "Bleeding from or into the genital tract **after the period of viability** and before the birth of the baby: from **28 weeks** in Uganda, from **24+0 weeks** in RCOG guidance." },
+    { "id": "aph-f02", "front": "The three life-threatening causes of APH.", "back": "**Placenta praevia**, **abruptio placentae** and **uterine rupture**. Then vasa praevia and local causes." },
+    { "id": "aph-f03", "front": "The golden rule of APH examination.", "back": "**No digital vaginal examination until placenta praevia is excluded** (ultrasound, or in theatre with everything ready for CS)." },
+    { "id": "aph-f04", "front": "Classic features of placenta praevia.", "back": "**Painless, causeless, recurrent bright-red bleeding**; soft non-tender uterus; **high presenting part / malpresentation**; fetal heart usually normal; shock proportional to visible loss." },
+    { "id": "aph-f05", "front": "Classic features of placental abruption.", "back": "**Painful bleeding** (may be scant or concealed), **tense, tender 'woody' uterus**, fetal distress or death, **shock out of proportion** to visible loss, often with pre-eclampsia or trauma." },
+    { "id": "aph-f06", "front": "Ultrasound definitions: placenta praevia vs low-lying placenta (RCOG 2018).", "back": "After 16 weeks: **praevia** = placenta **covers the internal os**; **low-lying** = placental edge **<20 mm** from the internal os." },
+    { "id": "aph-f07", "front": "Traditional types I–IV of placenta praevia.", "back": "I: in lower segment, not reaching the os. II: reaches the os edge (marginal; **posterior type II is 'dangerous'**). III: covers the closed os partially. IV: completely covers the os (central). III–IV = major." },
+    { "id": "aph-f08", "front": "What is a Couvelaire uterus?", "back": "Blood extravasated into the myometrium (to the serosa) in severe abruption, giving a bruised blue-purple uterus. **Not by itself an indication for hysterectomy**; it usually contracts." },
+    { "id": "aph-f09", "front": "Why does abruption cause DIC?", "back": "The damaged decidua and retroplacental clot release **thromboplastin (tissue factor)** into the maternal circulation, triggering consumption of fibrinogen, platelets and clotting factors, then fibrinolysis." },
+    { "id": "aph-f10", "front": "Management of abruption with a dead fetus.", "back": "Aggressive resuscitation (expect large hidden loss), **check and correct clotting**, **ARM + oxytocin** for **vaginal delivery**; CS only for maternal indications. Prepare for PPH; monitor urine output." },
+    { "id": "aph-f11", "front": "Abruption with a live, distressed, viable fetus: management?", "back": "Resuscitate the mother and perform an **immediate (category 1) caesarean section**, unless vaginal delivery is imminent." },
+    { "id": "aph-f12", "front": "Vasa praevia: the classic triad.", "back": "**Rupture of membranes → painless vaginal bleeding → acute fetal distress** (bradycardia or sinusoidal CTG), with a well mother. It is **fetal blood**." },
+    { "id": "aph-f13", "front": "Vasa praevia diagnosed antenatally: plan?", "back": "Transvaginal colour Doppler diagnosis; consider admission from 30–32 weeks; **steroids from 32 weeks**; **planned CS at 34–36 weeks** before labour/ROM. Survival >95% vs ≥60% mortality if found in labour." },
+    { "id": "aph-f14", "front": "Timing of elective CS for uncomplicated placenta praevia and for suspected PAS (RCOG).", "back": "Praevia: **36+0–37+0 weeks**. Suspected PAS: **35+0–36+6 weeks**, in a tertiary centre with blood and consent for hysterectomy." },
+    { "id": "aph-f15", "front": "Risk of placenta accreta spectrum with praevia by number of previous CSs.", "back": "About **3%** (1 CS), **11%** (2), **40%** (3), **over 60%** (4 or more)." },
+    { "id": "aph-f16", "front": "Antenatal corticosteroid regimen (WHO).", "back": "**Dexamethasone 6 mg IM every 12 h × 4 doses** (or betamethasone 12 mg IM every 24 h × 2) when preterm birth is likely within 7 days, from 24 to 34+6 weeks." },
+    { "id": "aph-f17", "front": "Signs of uterine rupture.", "back": "Previous CS or obstructed labour; sudden severe pain (sometimes relief); **cessation of contractions**; **recession of presenting part**; **fetal parts easily felt**; absent FHR; shock; haematuria; Bandl's ring before rupture." },
+    { "id": "aph-f18", "front": "What is Bandl's ring?", "back": "A **pathological retraction ring** between the thick upper and the thinning lower uterine segment in **obstructed labour**, rising towards the umbilicus. It warns of **impending rupture**." },
+    { "id": "aph-f19", "front": "RCOG APH severity grades.", "back": "**Spotting**; **minor** <50 mL settled; **major** 50–1000 mL without shock; **massive** >1000 mL and/or shock." },
+    { "id": "aph-f20", "front": "Why do praevia and abruption both carry a high risk of PPH?", "back": "Praevia: the placental bed is in the **lower segment, which has little muscle** and contracts poorly. Abruption: **DIC** and a myometrium infiltrated with blood (Couvelaire)." },
+    { "id": "aph-f21", "front": "Anti-D in APH.", "back": "All **Rh-negative non-sensitised** women with APH should receive **anti-D within 72 h** (500 IU UK after 20 weeks with Kleihauer to guide extra dose; commonly 1500 IU/300 µg vial in Uganda)." }
+  ],
+  "mcqs": [
+    {
+      "id": "aph-q01",
+      "stem": "A 32-year-old G4P3 at 33 weeks, with two previous caesarean sections, presents to a HC IV with a second episode of painless bright-red vaginal bleeding, about 150 mL, now stopped. Pulse 86, BP 118/74. The uterus is soft and non-tender; the fetus is breech with FHR 144. What is the MOST important thing to AVOID?",
+      "options": [
+        "Digital vaginal examination",
+        "Group and cross-match",
+        "Intramuscular dexamethasone",
+        "Obstetric ultrasound",
+        "Referral to a hospital with theatre and blood"
+      ],
+      "answer": 0,
+      "explanation": "A is right: this is placenta praevia until proven otherwise (painless, recurrent, soft uterus, malpresentation, previous CS). A **digital VE** may provoke catastrophic haemorrhage. B, C, D and E are all appropriate: cross-match blood, give steroids (she is <34+6 weeks), scan to localise the placenta (and look for **PAS** given two previous CSs), and refer to a CEmONC facility."
+      , "difficulty": "core"
+    },
+    {
+      "id": "aph-q02",
+      "stem": "A 26-year-old para 2 at 35 weeks with BP 158/104 mmHg and 3+ proteinuria presents with sudden constant abdominal pain and a small amount of dark vaginal bleeding. Pulse 124, BP now 110/70. The uterus is hard and tender; the fetal heart cannot be heard on Doppler. What is the MOST likely diagnosis?",
+      "options": [
+        "Placenta praevia",
+        "Vasa praevia",
+        "Uterine rupture",
+        "Placental abruption with concealed haemorrhage",
+        "Cervical ectropion"
+      ],
+      "answer": 3,
+      "explanation": "D is right: pre-eclampsia, sudden pain, a woody-hard tender uterus, **shock out of proportion to the small visible loss** (a 'normal' BP of 110/70 in a previously hypertensive woman with tachycardia is shock) and fetal death = **severe concealed abruption**. A is wrong: praevia is painless with a soft uterus. B is wrong: vasa praevia follows ROM, the mother is well and the bleeding is fetal. C is wrong: rupture usually occurs in labour with a scar or obstruction and easily palpable fetal parts. E is wrong: ectropion doesn't cause pain, shock or fetal death."
+      , "difficulty": "core"
+    },
+    {
+      "id": "aph-q03",
+      "stem": "For the woman in the previous question (severe abruption, fetal death, pulse 124), the bedside clotting test shows a clot at 9 minutes. After resuscitation with 2 L crystalloid and 2 units of blood she is stable. The cervix is 3 cm dilated and the presentation is cephalic. What is the BEST plan for delivery?",
+      "options": [
+        "Immediate caesarean section to deliver the dead fetus",
+        "Amniotomy and oxytocin infusion aiming for vaginal delivery, with continued resuscitation and clotting monitoring",
+        "Wait for spontaneous labour over the next week",
+        "Tocolysis with nifedipine and repeat scan tomorrow",
+        "Misoprostol 800 µg vaginally and discharge home"
+      ],
+      "answer": 1,
+      "explanation": "B is right: with a **dead fetus** and a stabilised mother, the aim is **vaginal delivery**. ARM reduces intrauterine pressure and thromboplastin entry and speeds labour; oxytocin augments it. Keep transfusing, check clotting 2–4-hourly and prepare for PPH. A is wrong: CS in a woman at risk of DIC carries a high surgical risk and is reserved for **maternal indications**. C is wrong: delay increases the risk of DIC. D is wrong: **tocolysis is contraindicated** in abruption. E is wrong: she needs inpatient care and misoprostol is not ideal once labour has started."
+      , "difficulty": "advanced"
+    },
+    {
+      "id": "aph-q04",
+      "stem": "A 28-year-old at 38 weeks in active labour has spontaneous rupture of membranes followed immediately by bright-red vaginal bleeding of about 100 mL. She feels well; pulse 84, BP 120/70. The CTG shows a sudden fetal bradycardia of 70 bpm. What is the MOST appropriate management?",
+      "options": [
+        "Give oxytocin to speed up labour",
+        "Perform ultrasound to localise the placenta before deciding",
+        "Apply the NASG and transfuse the mother",
+        "Kleihauer test on the vaginal blood and await the result",
+        "Category 1 emergency caesarean section with neonatal team ready to give volume or blood"
+      ],
+      "answer": 4,
+      "explanation": "E is right: bleeding at ROM with acute fetal bradycardia and a well mother is **vasa praevia**. The baby is losing its own blood (total volume about 250–300 mL) and may die within minutes. Deliver immediately and be ready to resuscitate and transfuse the neonate. A is wrong: it delays delivery. B and D are wrong: tests waste precious minutes (an Apt/Kleihauer should never delay delivery). C is wrong: the mother is not the one bleeding significantly."
+      , "difficulty": "core"
+    },
+    {
+      "id": "aph-q05",
+      "stem": "A 30-year-old para 6 with one previous CS was given 'herbs' in the village and has laboured for 20 hours. She arrives at a HC IV in shock (pulse 136, BP 76/40). She reports that severe pain suddenly eased an hour ago and contractions have stopped. Fetal parts are easily felt under the skin and no fetal heart is heard. Catheter urine is bloody. What is the MOST appropriate management?",
+      "options": [
+        "Oxytocin infusion to restart labour",
+        "Vacuum extraction",
+        "Resuscitation and immediate laparotomy",
+        "Observe for 6 hours and repeat ultrasound",
+        "Craniotomy (destructive delivery) through the vagina"
+      ],
+      "answer": 2,
+      "explanation": "C is right: this is **uterine rupture** (previous CS, prolonged/obstructed labour, herbal uterotonics, sudden relief of pain, cessation of contractions, easily felt fetal parts, haematuria, shock). Resuscitate and do an **immediate laparotomy** (repair or hysterectomy, and check the bladder). A is dangerous: oxytocin worsens the rupture. B and E are wrong: the fetus is no longer in the birth canal, and vaginal procedures delay life-saving surgery. D is wrong: delay means death from haemorrhage."
+      , "difficulty": "core"
+    },
+    {
+      "id": "aph-q06",
+      "stem": "A 24-year-old at 31 weeks presents with 80 mL of painless vaginal bleeding which has settled. Ultrasound shows a posterior placenta praevia covering the os. Mother and fetus are well. Hb 10.2 g/dL, blood group A Rh-negative, antibody screen negative. Which set of actions is MOST appropriate?",
+      "options": [
+        "Discharge home with a review in 4 weeks",
+        "Immediate caesarean section",
+        "Admit, dexamethasone 6 mg IM 12-hourly × 4, anti-D within 72 h, cross-match, iron, and plan CS at 36–37 weeks",
+        "Admit and start nifedipine tocolysis for 4 weeks",
+        "Induce labour with misoprostol once steroids are complete"
+      ],
+      "answer": 2,
+      "explanation": "C is right: stable preterm praevia calls for **expectant (Macafee-style) management** in a facility with blood and theatre, **steroids** (<34+6 weeks), **anti-D** (Rh-negative), blood available, anaemia correction, and **planned CS at 36+0–37+0 weeks**. A is wrong: after a bleed, a major praevia needs close supervision; in Uganda most are kept in hospital because of distance and transport. B is wrong: there is no maternal or fetal indication to deliver at 31 weeks. D is wrong: long-term tocolysis is not recommended. E is wrong: **vaginal delivery is contraindicated** with a praevia covering the os."
+      , "difficulty": "core"
+    },
+    {
+      "id": "aph-q07",
+      "stem": "Which ultrasound finding best defines a 'low-lying placenta' according to RCOG (2018) after 16 weeks?",
+      "options": [
+        "Placenta covers the internal os completely",
+        "Placenta on the posterior wall of the upper segment",
+        "Placental edge more than 50 mm from the internal os",
+        "Placenta with a succenturiate lobe",
+        "Placental edge less than 20 mm from the internal os without covering it"
+      ],
+      "answer": 4,
+      "explanation": "E is right: **low-lying** = edge <20 mm from the os; **praevia** = covering the os (A). B is a normal site. C is well clear of the os. D is a risk factor for vasa praevia and retained lobe, not a definition of low-lying."
+      , "difficulty": "core"
+    },
+    {
+      "id": "aph-q08",
+      "stem": "A 34-year-old G5P4 with three previous caesarean sections is found at 28 weeks to have an anterior placenta praevia over the scar, with loss of the clear zone and multiple placental lacunae. What is the MOST appropriate plan?",
+      "options": [
+        "Plan vaginal birth after caesarean at term",
+        "Refer to a tertiary centre for planned CS at about 35–36+6 weeks with senior team, 4–6 units of blood and consent for hysterectomy",
+        "Elective CS at 39 weeks at the HC IV",
+        "Manual removal of the placenta at delivery if it does not separate",
+        "No further action as the placenta will migrate upwards"
+      ],
+      "answer": 1,
+      "explanation": "B is right: praevia + three previous CSs + ultrasound signs = **placenta accreta spectrum** (risk about 40% with three CSs). Delivery should be **planned** in a tertiary centre at **35+0–36+6 weeks** with a senior obstetrician and anaesthetist, blood and consent for hysterectomy. A is wrong: vaginal birth is contraindicated. C is wrong: waiting until 39 weeks risks emergency bleeding in labour, and a HC IV lacks the resources. D is wrong: attempting to remove an accreta causes massive haemorrhage. E is wrong: 'migration' occurs mainly with low-lying placentas in mid-pregnancy, not an anterior praevia over a scar at 28 weeks with PAS signs."
+      , "difficulty": "advanced"
+    },
+    {
+      "id": "aph-q09",
+      "stem": "A woman at 36 weeks was knocked by a boda-boda 3 hours ago. She has mild abdominal pain and slight spotting. Vital signs are normal, the uterus is slightly tender, and the CTG is normal. Ultrasound shows a normal fundal placenta with no visible retroplacental clot. What is the MOST appropriate next step?",
+      "options": [
+        "Discharge home because the ultrasound is normal",
+        "Emergency caesarean section",
+        "Give tocolysis and discharge",
+        "Admit for continuous fetal monitoring and maternal observation for at least 24 hours, anti-D if Rh-negative",
+        "Perform an immediate amniotomy"
+      ],
+      "answer": 3,
+      "explanation": "D is right: after trauma, **abruption can evolve over hours** and **ultrasound misses most abruptions**, so a normal scan does not exclude it. Admit for monitoring (CTG and maternal observations), check Rh status and give anti-D, and consider a Kleihauer. A is wrong: false reassurance from the scan. B is wrong: there is no current maternal or fetal indication. C is wrong: tocolysis is contraindicated in suspected abruption. E is wrong: there is no indication for delivery with a normal CTG and a stable mother at this point."
+      , "difficulty": "advanced"
+    },
+    {
+      "id": "aph-q10",
+      "stem": "A 38-year-old para 5 at 30 weeks has recurrent small postcoital bleeding. Ultrasound shows a normal fundal placenta. Speculum examination reveals a friable, exophytic, irregular lesion on the cervix. What is the MOST appropriate next step?",
+      "options": [
+        "Cervical punch biopsy",
+        "Reassure; it is a normal pregnancy ectropion",
+        "Cone biopsy immediately",
+        "Termination of pregnancy",
+        "Wait until 6 weeks after delivery to investigate"
+      ],
+      "answer": 0,
+      "explanation": "A is right: a suspicious cervical lesion in pregnancy must be **biopsied** (a punch biopsy is safe in pregnancy) to exclude **cervical cancer**, which is common in Uganda. B is wrong: ectropion is smooth and regular. C is wrong: a cone biopsy in pregnancy causes haemorrhage and preterm birth, and is reserved for special indications. D is wrong: management depends on the histology, stage and gestation. E is wrong: delay can allow progression."
+      , "difficulty": "core"
+    },
+    {
+      "id": "aph-q11",
+      "stem": "Which statement BEST explains why placenta praevia bleeding is typically painless and recurrent?",
+      "options": [
+        "The placenta is abnormally adherent and does not separate",
+        "It is fetal blood, which does not irritate the uterus",
+        "Hypertension causes spiral artery rupture",
+        "Retroplacental clot causes uterine irritability",
+        "Formation and stretching of the lower segment shears the inelastic placenta off its attachment, without a retroplacental clot"
+      ],
+      "answer": 4,
+      "explanation": "E is right: as the lower segment forms and stretches from the late second trimester, the non-stretching placenta separates, opening **maternal** sinuses. There is no retroplacental clot irritating the myometrium, so it is painless, and it recurs as stretching continues. A describes accreta. B is wrong: praevia bleeding is maternal (vasa praevia is fetal). C and D describe **abruption**."
+      , "difficulty": "core"
+    },
+    {
+      "id": "aph-q12",
+      "stem": "Four hours after delivery of a stillbirth due to severe abruption, a woman at a regional referral hospital has passed only 40 mL of urine in 3 hours despite 3 L of fluid and 3 units of blood. BP 118/76, pulse 94, JVP not raised, lungs clear. Creatinine has risen from 70 to 210 µmol/L. What is the MOST likely explanation?",
+      "options": [
+        "Acute tubular necrosis secondary to hypovolaemia and DIC",
+        "Blocked urinary catheter",
+        "Ongoing hypovolaemia",
+        "Normal postpartum physiology",
+        "Ureteric injury"
+      ],
+      "answer": 0,
+      "explanation": "A is right: severe abruption causes **AKI** (acute tubular necrosis or, in extreme cases, cortical necrosis) through hypoperfusion and microthrombi. Now that she is haemodynamically restored, oliguria with a rising creatinine indicates renal injury. Manage with careful fluid balance (avoid overload), monitoring potassium, and renal referral or dialysis if needed. B should always be checked (flush the catheter), but it doesn't explain the rising creatinine. C is wrong: she is now normotensive, not tachycardic, and adequately filled. D is wrong: postpartum diuresis is expected, not oliguria. E is wrong: there was no surgery."
+      , "difficulty": "advanced"
+    },
+    {
+      "id": "aph-q13",
+      "stem": "A 25-year-old primigravida at 33 weeks presents with mild abdominal pain and a small painful bleed. The uterus is mildly tender between contractions; the CTG is reassuring; she is stable. Ultrasound shows a fundal placenta. She lives 5 km from the hospital. What is the BEST management?",
+      "options": [
+        "Immediate caesarean section",
+        "Discharge with an appointment in 2 weeks",
+        "Admit; dexamethasone; anti-D if Rh-negative; close maternal and fetal monitoring; no tocolysis; plan delivery by 37 weeks or earlier if deterioration",
+        "Nifedipine tocolysis until 37 weeks",
+        "Induce labour today with misoprostol"
+      ],
+      "answer": 2,
+      "explanation": "C is right: a **mild abruption** in a **preterm** pregnancy with a stable mother and a reassuring fetus is managed **conservatively in hospital**: steroids, anti-D, CTG and serial growth scans, and delivery at about 37 weeks or earlier if the mother or fetus deteriorates. A and E are wrong: premature delivery without a maternal or fetal indication. B is wrong: an abruption can extend suddenly. D is wrong: **tocolysis is contraindicated** in abruption."
+      , "difficulty": "advanced"
+    },
+    {
+      "id": "aph-q14",
+      "stem": "A woman at 36 weeks with a known type IV placenta praevia starts bleeding heavily at a regional referral hospital: pulse 128, BP 84/50, fresh blood soaking the bed. The fetal heart is 150. What is the BEST management?",
+      "options": [
+        "Continue conservative management and transfuse",
+        "Vaginal delivery with oxytocin augmentation",
+        "Speculum examination to find the source",
+        "Resuscitate and perform an emergency caesarean section regardless of gestation",
+        "Tocolysis with nifedipine"
+      ],
+      "answer": 3,
+      "explanation": "D is right: **massive APH with maternal shock** is an indication for **delivery by emergency CS**. Delivery is how the bleeding is stopped, and the maternal indication overrides fetal considerations. Prepare for PPH from the lower segment. A is wrong: conservative management is only for a stable mother. B is wrong: vaginal delivery is impossible and dangerous with a complete praevia. C is wrong: it wastes time and adds no information. E is wrong: tocolysis in a shocked, bleeding woman is dangerous."
+      , "difficulty": "core"
+    },
+    {
+      "id": "aph-q15",
+      "stem": "A woman at 34 weeks presents with a small APH. Her pulse is 88/min and BP 112/70 mmHg. The uterus is soft, non-tender and there is a transverse lie. At your HC III there is no ultrasound machine, theatre or blood. What should you do?",
+      "options": [
+        "Perform a gentle digital VE to rule out praevia before deciding",
+        "Secure IV access, check fetal heart and BP, give dexamethasone, and refer urgently with an escort to a CEmONC facility",
+        "Admit at the HC III for bed rest until 37 weeks",
+        "External cephalic version to correct the lie",
+        "Rupture the membranes to stop the bleeding"
+      ],
+      "answer": 1,
+      "explanation": "B is right: painless APH with a soft uterus and malpresentation suggests **placenta praevia**. At a facility with no scan, theatre or blood, resuscitate, give the first steroid dose, and **refer early** with a health worker and referral note, calling ahead. A is wrong: **no digital VE** until praevia is excluded. C is wrong: she needs a facility that can do an emergency CS and transfuse. D is wrong: ECV is contraindicated with APH and praevia. E is wrong: ARM is impossible and dangerous with a praevia."
+      , "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "aph-c01",
+      "title": "Painless bleeding at 32 weeks",
+      "presentation": "A 35-year-old G5P4 at 32 weeks presents to Mengo Hospital labour ward at 20:00 with sudden painless bright-red vaginal bleeding that soaked two pads, starting while she was asleep. She had a CS 3 years ago for fetal distress. She has not had an ultrasound this pregnancy.",
+      "steps": [
+        { "prompt": "What are your immediate actions?", "answer": "Call for help; **ABC**; left lateral position; **two large-bore IV cannulae**; bloods for **FBC, group and cross-match (2–4 units), clotting test, Rh status**; start IV fluids if tachycardic; assess the **amount of bleeding** (look at the pads); check the **fetal heart**. **No digital VE.**" },
+        { "prompt": "What focused history will you take, and why each point?", "answer": "- **Pain?** Painless suggests praevia.\n- **Previous bleeds** (a warning bleed?): recurrence is typical of praevia.\n- **Fetal movements**: fetal well-being.\n- **Previous CS**: praevia and **placenta accreta spectrum** risk.\n- **Coitus or trauma**: triggers.\n- **Headache, BP history**: abruption.\n- **Rh group, Hb, HIV** from the ANC card.\n- **Contractions/ROM**: labour or vasa praevia." },
+        { "prompt": "Examination: pulse 96, BP 116/70, uterus soft and non-tender, fundal height 32 cm, head high and floating, FHR 146 regular. What is your differential and next investigation?", "answer": "Most likely **placenta praevia** (painless, soft uterus, high head, previous CS). Differentials: marginal (mild) abruption, vasa praevia (less likely: no ROM, fetus well), local cervical lesion, show. **Next: ultrasound** (transabdominal ± transvaginal) for placental site and to look for **PAS signs** over the scar. Speculum only after praevia is excluded." },
+        { "prompt": "Scan: anterior major praevia covering the os, no PAS signs; bleeding has stopped. How will you manage her?", "answer": "**Expectant management** in hospital: admit; **dexamethasone 6 mg IM 12-hourly × 4**; **anti-D** if Rh-negative; keep **2 units cross-matched**; **iron + folic acid** (keep Hb ≥10–11); no VE or coitus; thromboprophylaxis (mobilise; LMWH if available and not bleeding); repeat scan; counsel on the need for CS and the risk of PPH; plan **elective CS at 36+0–37+0 weeks** by a senior, with blood available; **emergency CS** if heavy bleeding, shock or fetal distress at any stage." },
+        { "prompt": "At CS she bleeds heavily from the placental bed after delivery of the placenta. What will you do?", "answer": "**Oxytocin 10 IU IV slowly + infusion**, **TXA 1 g IV**, bimanual compression, **placental-bed figure-of-eight haemostatic sutures**, uterine balloon tamponade inserted from above, **bilateral uterine artery ligation**, B-Lynch, and **hysterectomy** if bleeding persists. Transfuse, and correct clotting. The lower segment contracts poorly, so anticipate this before starting." },
+        { "prompt": "How would you present her on the ward round the next day?", "answer": "'Mrs S, a 35-year-old para 5 with one previous CS, now day 1 after emergency/elective CS at 36 weeks for major anterior placenta praevia, complicated by PPH of 1500 mL from the placental bed, controlled with uterotonics, TXA, haemostatic sutures and uterine artery ligation. Transfused 3 units. Now stable, pulse 90, BP 110/70, urine 60 mL/h, uterus firm, lochia normal. Hb 8.6. Plan: iron, thromboprophylaxis, breastfeeding support, family planning counselling, and explain her risks next pregnancy.'" }
+      ],
+      "takeaway": "Painless APH with a soft uterus and a high head is praevia until proven otherwise: no VE, scan, conservative management if stable and preterm, CS at 36–37 weeks, and always expect PPH from the lower segment."
+    },
+    {
+      "id": "aph-c02",
+      "title": "A hard uterus and a silent fetal heart",
+      "presentation": "A 27-year-old para 3 at 34 weeks is referred from a HC III in Luweero to the regional referral hospital with 'bleeding and severe abdominal pain' since morning. She missed several ANC visits. The referral note says BP 170/110 at the HC III, where she received MgSO₄ 4 g IV + 10 g IM.",
+      "steps": [
+        { "prompt": "On arrival: pulse 132, BP 96/60, pale, restless, a small dark clot on the pad. What is your working diagnosis and your immediate actions?", "answer": "**Severe placental abruption with concealed haemorrhage and hypovolaemic shock**, on a background of **pre-eclampsia** (her 'normal' BP is actually a fall from 170/110). Call for help, oxygen, left tilt, **two large-bore IV cannulae**, bloods (**FBC, cross-match 4–6 units, 20-min clotting test, U&E**), warmed crystalloid then **blood early**; catheterise (hourly urine; proteinuria check); continue **MgSO₄ maintenance** (monitor reflexes, RR, urine output)." },
+        { "prompt": "Examination: the uterus is tense, woody-hard and tender, fundal height 38 cm; no fetal heart on Doppler or ultrasound. The clotting test shows no clot at 20 minutes. Interpret.", "answer": "**Grade 3b abruption**: intrauterine fetal death with **coagulopathy (DIC)**. The fundal height above dates shows **concealed bleeding** (mark the fundus and watch it). Blood loss is probably **well over 1.5 L**. Risk of **AKI, PPH and death**." },
+        { "prompt": "How will you manage her delivery and coagulopathy?", "answer": "1. Continue resuscitation: **transfuse** (fresh whole blood is ideal where components are unavailable; FFP, cryoprecipitate and platelets at the RRH if available).\n2. Once stabilising: **ARM** plus **oxytocin infusion** for **vaginal delivery** (usually rapid).\n3. **CS only** if bleeding is uncontrollable, she deteriorates despite resuscitation, or labour fails, and only after correcting clotting as far as possible.\n4. Repeat clotting tests every 2–4 h.\n5. **Antihypertensives** only if BP rises again to ≥160/110 (hydralazine/nifedipine).\n6. Anti-D if Rh-negative." },
+        { "prompt": "What will you anticipate after delivery?", "answer": "**PPH** (DIC plus Couvelaire uterus): active third stage, oxytocin infusion, **TXA 1 g IV**, misoprostol, blood products. **AKI**: strict input/output, creatinine and potassium; avoid fluid overload (pre-eclampsia plus pulmonary oedema risk). **Eclampsia**: continue MgSO₄ for 24 h after delivery. **Sheehan's**. **Infection**. Bereavement support and lactation suppression advice (avoid bromocriptine and cabergoline in hypertension; use supportive measures)." },
+        { "prompt": "What follow-up and counselling will she need?", "answer": "Postnatal BP review (antihypertensives weaned), renal function, Hb/iron; **debrief** and bereavement counselling; **family planning** (spacing ≥2 years); next pregnancy: **early ANC**, **low-dose aspirin 75–150 mg from 12 weeks**, calcium supplementation, BP monitoring, deliver at a hospital, and the recurrence risk of abruption (~10%). Review for MPDSR if this was a near-miss." }
+      ],
+      "takeaway": "In abruption, visible blood lies: treat the shock and the clotting, deliver vaginally if the fetus is dead, and anticipate PPH, renal failure and eclampsia."
+    },
+    {
+      "id": "aph-c03",
+      "title": "Bleeding at membrane rupture",
+      "presentation": "A 30-year-old G2P1 at 39 weeks, conceived by IVF, is in active labour at 5 cm at a private hospital in Kampala. Her anomaly scan report mentions a 'low-lying placenta at 20 weeks' but no follow-up scan was done. Her membranes rupture spontaneously and the midwife notes about 100 mL of fresh blood. Two minutes later the CTG shows a fetal heart of 70 bpm.",
+      "steps": [
+        { "prompt": "What is the most likely diagnosis and why?", "answer": "**Vasa praevia**: **ROM followed immediately by bleeding and acute fetal bradycardia**, with a well mother. Risk factors: **IVF**, **low-lying placenta in the second trimester** (never re-scanned), possibly a velamentous insertion. The blood is **fetal**." },
+        { "prompt": "What is your immediate management?", "answer": "**Category 1 emergency CS** (decision-to-delivery as fast as possible; aim for under 30 min, ideally much less). Call the neonatal team: be ready for **neonatal resuscitation with volume (normal saline 10 mL/kg) and O-negative blood**. Don't waste time on tests. If the cervix is fully dilated and the head is low, the fastest route may be an instrumental delivery." },
+        { "prompt": "What differential should you briefly consider, and how would you distinguish it?", "answer": "- **Placental abruption**: pain, tense uterus, maternal shock.\n- **Praevia/low-lying placenta bleeding**: maternal blood, fetus usually well initially.\n- **Uterine rupture**: previous scar, pain, maternal shock.\n\nThe **Apt test / Kleihauer** on vaginal blood shows fetal haemoglobin, but it must **never delay delivery**." },
+        { "prompt": "What should have been done antenatally to prevent this?", "answer": "A **low-lying placenta at the anomaly scan** should be re-scanned at **32 weeks** (transvaginal), and in women with risk factors (IVF, low-lying, bilobed/succenturiate placenta, velamentous insertion) the **cord insertion** and vessels over the os should be checked with **colour Doppler**. If vasa praevia is diagnosed: **steroids from 32 weeks**, consider admission from 30–32 weeks, and **planned CS at 34–36 weeks** before labour." }
+      ],
+      "takeaway": "Bleeding at membrane rupture with sudden fetal distress is vasa praevia: the baby is bleeding, so deliver within minutes and be ready to transfuse the newborn."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Antepartum Haemorrhage (Safe Mama Uganda clinical resource)", "source": "Ministry of Health Uganda", "url": "https://safemama.health.go.ug/records/resource?id=42" },
+    { "title": "Essential Maternal and Newborn Clinical Care Guidelines for Uganda", "source": "Ministry of Health Uganda", "year": 2022, "url": "https://library.health.go.ug/sites/default/files/resources/Essential%20Maternal%20Newborn%20Care%20Guidelines%202022%20V3.pdf" },
+    { "title": "Antepartum Haemorrhage (Green-top Guideline No. 63)", "source": "Royal College of Obstetricians and Gynaecologists", "year": 2011, "url": "https://www.rcog.org.uk/media/pwdi1tef/gtg_63.pdf" },
+    { "title": "Placenta Praevia and Placenta Accreta: Diagnosis and Management (Green-top Guideline No. 27a)", "source": "Royal College of Obstetricians and Gynaecologists", "year": 2018, "url": "https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/placenta-praevia-and-placenta-accreta-diagnosis-and-management-green-top-guideline-no-27a/" },
+    { "title": "Vasa Praevia: Diagnosis and Management (Green-top Guideline No. 27b)", "source": "Royal College of Obstetricians and Gynaecologists", "year": 2018, "url": "https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/vasa-praevia-diagnosis-and-management-green-top-guideline-27b/" },
+    { "title": "WHO recommendations on antenatal corticosteroids for improving preterm birth outcomes", "source": "World Health Organization (NCBI Bookshelf)", "year": 2022, "url": "https://www.ncbi.nlm.nih.gov/books/NBK585362/" },
+    { "title": "Risk factors for severe abruptio placenta in Mulago Hospital, Kampala, Uganda", "source": "PubMed Central (Mulago Hospital study)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1831945" },
+    { "title": "Placental abruption at near-term and term gestations: pathophysiology, epidemiology, diagnosis, and management", "source": "American Journal of Obstetrics & Gynecology", "year": 2022, "url": "https://www.ajog.org/article/S0002-9378(22)00535-X/fulltext" },
+    { "title": "Abruptio Placentae: Background, Etiology, Pathophysiology", "source": "Medscape eMedicine", "url": "https://emedicine.medscape.com/article/252810-overview" },
+    { "title": "Clinical implications of a Couvelaire uterus with placental abruption: A retrospective study", "source": "PubMed", "year": 2024, "url": "https://pubmed.ncbi.nlm.nih.gov/39056529" },
+    { "title": "Maternal Care: Antepartum haemorrhage", "source": "Bettercare (Perinatal Education Programme)", "url": "https://bettercare.co.za/learn/maternal-care/text/04.html" },
+    { "title": "ALARM International Program: Antepartum Hemorrhage", "source": "Society of Obstetricians and Gynaecologists of Canada (via GLOWM)", "url": "https://www.glowm.com/pdf/AIP%20Chap5%20APH.pdf" }
+  ]
+}

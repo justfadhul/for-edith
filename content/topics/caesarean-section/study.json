@@ -1,0 +1,512 @@
+{
+  "slug": "caesarean-section",
+  "flashcards": [
+    {
+      "id": "cs-f01",
+      "front": "Define the four urgency categories of caesarean section, with target decision-to-delivery intervals.",
+      "back": "**Cat 1**: immediate threat to the life of the woman or fetus. Deliver ASAP, **within 30 min**.\n**Cat 2**: maternal or fetal compromise, not immediately life-threatening. **Within 75 min**.\n**Cat 3**: no compromise but needs early delivery.\n**Cat 4**: elective, at a time to suit the woman and the team."
+    },
+    {
+      "id": "cs-f02",
+      "front": "Which six variables define the Robson Ten-Group Classification?",
+      "back": "**Parity**, **previous CS**, **onset of labour** (spontaneous, induced, CS before labour), **gestational age** (<37 or ≥37 wk), **number of fetuses**, and **presentation/lie**."
+    },
+    {
+      "id": "cs-f03",
+      "front": "Robson Group 5 contains which women?",
+      "back": "All **multiparous women with at least one previous CS**, single cephalic, ≥37 weeks. It is usually the largest contributor to a hospital's CS rate."
+    },
+    {
+      "id": "cs-f04",
+      "front": "When should prophylactic antibiotics be given for CS, and why?",
+      "back": "A **single IV dose within 60 minutes before skin incision** (not after cord clamping). Tissue levels are then present when contamination occurs, which reduces endometritis and wound infection without harming the baby."
+    },
+    {
+      "id": "cs-f05",
+      "front": "WHO/ACOG first-choice antibiotic prophylaxis for CS, and the usual Ugandan practice.",
+      "back": "**Cefazolin 2 g IV** (3 g if ≥120 kg) or **ampicillin 2 g IV**. In Uganda most hospitals give **ceftriaxone 1–2 g IV ± metronidazole 500 mg IV** at induction of anaesthesia. It is a single dose, not a 5-day course."
+    },
+    {
+      "id": "cs-f06",
+      "front": "Why is the lower segment preferred for the uterine incision?",
+      "back": "It is **thin, less vascular and hardly contracts**, so there is less bleeding and better healing. It is covered by loose peritoneum, so the bladder can be pushed down. The later rupture risk is about **0.5%**, versus **4–9%** for a classical scar."
+    },
+    {
+      "id": "cs-f07",
+      "front": "List 5 indications for a classical (upper-segment) CS.",
+      "back": "1. Very preterm with no formed lower segment\n2. Transverse lie, back down, with ruptured membranes or arm prolapse\n3. Large lower-segment fibroid or dense adhesions\n4. Anterior placenta praevia with large vessels / accreta\n5. Invasive cervical cancer\n6. Perimortem CS"
+    },
+    {
+      "id": "cs-f08",
+      "front": "What are the implications of a previous classical CS for the next pregnancy?",
+      "back": "**No labour.** Rupture risk is 4–9%, and rupture can happen before labour. Plan an **elective CS at about 36–37 weeks**, delivered at a hospital. Document this clearly on her card."
+    },
+    {
+      "id": "cs-f09",
+      "front": "Chance of a successful VBAC, and the risk of uterine rupture during TOLAC.",
+      "back": "Success is **72–75%** (85–90% if she has had a previous vaginal birth). Rupture is **about 0.5% (1 in 200)**, rising 2–3 fold with induction or augmentation (RCOG GTG 45)."
+    },
+    {
+      "id": "cs-f10",
+      "front": "Absolute contraindications to a trial of labour after CS.",
+      "back": "Previous **classical, T or J incision**; previous **uterine rupture**; **placenta praevia** or any other indication for CS; a **facility without CS/transfusion capability**. Two or more previous CS is a contraindication in most Ugandan units."
+    },
+    {
+      "id": "cs-f11",
+      "front": "What is the earliest and most consistent sign of uterine scar rupture?",
+      "back": "An **abnormal fetal heart rate** (bradycardia or prolonged/recurrent decelerations). Others: maternal tachycardia/shock, constant pain, shoulder-tip pain, cessation of contractions, loss of station, haematuria, vaginal bleeding."
+    },
+    {
+      "id": "cs-f12",
+      "front": "Which induction agent is contraindicated in a woman with a uterine scar at term?",
+      "back": "**Misoprostol** (and prostaglandins in general, in most guidance), because of the high rupture risk. Use **Foley catheter ripening, then ARM, then cautious oxytocin** at a referral hospital, or offer ERCS."
+    },
+    {
+      "id": "cs-f13",
+      "front": "Difference between scar dehiscence and uterine rupture.",
+      "back": "**Dehiscence**: the scar separates but the **serosa is intact**. It is usually silent, a window found at repeat CS.\n**Rupture**: a **full-thickness** tear into the peritoneal cavity, with haemorrhage and fetal compromise. It is an emergency."
+    },
+    {
+      "id": "cs-f14",
+      "front": "Joel-Cohen vs Pfannenstiel incision.",
+      "back": "**Joel-Cohen**: straight transverse incision about 3 cm above the symphysis, then mostly **blunt** dissection. It is faster, with less blood loss, pain and fever (NICE preferred).\n**Pfannenstiel**: curved incision 2 fingerbreadths above the symphysis, with sharp dissection. Good cosmesis."
+    },
+    {
+      "id": "cs-f15",
+      "front": "Why tilt the woman 15° to the left for CS?",
+      "back": "To relieve **aortocaval compression** by the gravid uterus. Otherwise venous return falls, and with the sympathetic block of a spinal this causes severe hypotension and fetal hypoxia."
+    },
+    {
+      "id": "cs-f16",
+      "front": "Spinal anaesthesia for CS: usual drug and dose, and the commonest complication.",
+      "back": "**Hyperbaric bupivacaine 0.5%, 2–2.5 mL (10–12.5 mg)** ± fentanyl, at L3/4 or L4/5. The commonest complication is **hypotension**: treat with left tilt, IV fluid and **phenylephrine 50–100 µg** or **ephedrine 6 mg** boluses."
+    },
+    {
+      "id": "cs-f17",
+      "front": "When should the urinary catheter be removed after CS?",
+      "back": "Once she is **mobile and ≥12 h after the last spinal dose**. Keep it **7–14 days** after bladder repair or after prolonged obstructed labour with haematuria (to prevent a fistula)."
+    },
+    {
+      "id": "cs-f18",
+      "front": "Five ERAS elements after CS.",
+      "back": "1. **Early oral intake** (drink within hours, eat when hungry)\n2. **Early mobilisation** (6–12 h)\n3. **Early catheter removal**\n4. **Multimodal regular analgesia** (paracetamol + NSAID ± opioid)\n5. **VTE prophylaxis** and no unnecessary post-op antibiotics"
+    },
+    {
+      "id": "cs-f19",
+      "front": "Thromboprophylaxis after emergency CS: drug, dose, duration.",
+      "back": "**Enoxaparin 40 mg SC once daily** (weight 50–90 kg; 20 mg if <50 kg; 60 mg if 91–130 kg), started 4–6 h post-op. Give for **at least 10 days** (6 weeks if high risk). If LMWH is unavailable: **UFH 5000 IU SC 12-hourly**. Plus early mobilisation and hydration."
+    },
+    {
+      "id": "cs-f20",
+      "front": "What must every woman know before discharge after CS?",
+      "back": "Why she had the CS; the **type of uterine incision**; the **plan for her next birth** (HC IV/hospital; TOLAC vs ERCS); **spacing ≥18–24 months** and contraception (PPIUD, implant, BTL); danger signs; and review at 6 days and 6 weeks."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "cs-q01",
+      "stem": "A 29-year-old P1+0 with one previous lower-segment CS is on a trial of scar at a regional referral hospital. She is 6 cm dilated. The midwife calls you: the fetal heart has been 80 bpm for 4 minutes, and the woman complains of constant lower abdominal pain. Her pulse is 118 bpm and her BP is 100/60 mmHg. What is the MOST appropriate action?",
+      "options": [
+        "Classify as Category 3 and review her progress in 2 hours",
+        "Turn her to the left lateral, give oxygen, and continue the trial of scar with auscultation every 15 minutes",
+        "Declare a Category 1 laparotomy/CS for suspected uterine rupture and aim to deliver within 30 minutes",
+        "Classify as Category 2 and request an ultrasound scan to confirm rupture before theatre",
+        "Apply a vacuum extractor to expedite delivery"
+      ],
+      "answer": 2,
+      "explanation": "Sustained fetal bradycardia plus constant pain and maternal tachycardia in a woman with a scar means **uterine rupture until proven otherwise**. This is an immediate threat to life, so it is **Category 1** (within 30 min). Resuscitate while moving to theatre. **A** is wrong: there is compromise, so Category 3 is inappropriate. **B**: intrauterine resuscitation is reasonable for a few seconds, but continuing the trial with a bradycardia and these signs is dangerous. **D**: rupture is a clinical diagnosis, and waiting for a scan wastes minutes the baby does not have. **E**: vacuum requires full dilatation; she is 6 cm.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cs-q02",
+      "stem": "A 25-year-old primigravida is going to theatre for an emergency CS for fetal distress at Mengo Hospital. The anaesthetic officer asks when to give the ceftriaxone. What is the BEST answer?",
+      "options": [
+        "A single IV dose within 60 minutes before the skin incision",
+        "After the cord is clamped, to avoid exposing the baby to the antibiotic",
+        "A 5-day IV course starting after surgery",
+        "Oral amoxicillin for 7 days after discharge",
+        "Only if the membranes have been ruptured for more than 18 hours"
+      ],
+      "answer": 0,
+      "explanation": "Evidence (Cochrane, WHO, NICE, and a Mulago RCT) shows that **pre-incision** prophylaxis reduces endometritis and wound infection compared with dosing after cord clamping, with no neonatal harm. So **A** is correct. **B** is the outdated practice. **C** and **D**: prolonged post-op courses do not prevent SSI and drive resistance (the WHO SSI guideline recommends against them). **E**: every CS needs prophylaxis, not only those with prolonged ROM.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cs-q03",
+      "stem": "A 32-year-old P2+0 (both vaginal births) has a singleton cephalic pregnancy at 38 weeks. She is induced for pre-eclampsia and eventually delivered by CS for fetal distress. In the monthly Robson audit, which group does she belong to?",
+      "options": [
+        "Group 1",
+        "Group 2a",
+        "Group 3",
+        "Group 4a",
+        "Group 5"
+      ],
+      "answer": 3,
+      "explanation": "She is **multiparous without a previous CS**, single cephalic, ≥37 weeks, with **induced** labour. That is **Group 4a**. **Groups 1 and 2** are nulliparous women. **Group 3** is spontaneous labour. **Group 5** requires a previous CS. The final mode of delivery does not change the group: groups are defined by characteristics at admission.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cs-q04",
+      "stem": "A 30-year-old G2P1 books at 16 weeks. Her discharge summary from 2 years ago shows a classical CS at 28 weeks for a transverse lie with ruptured membranes. She wants a normal delivery this time. What is the BEST plan?",
+      "options": [
+        "Trial of labour at a regional referral hospital with continuous monitoring",
+        "Elective repeat CS at about 36–37 weeks, before the onset of labour",
+        "Induction with misoprostol 25 µg at 39 weeks to avoid a long labour",
+        "Await spontaneous labour at her nearest HC IV",
+        "Elective CS at 41 weeks if she has not laboured"
+      ],
+      "answer": 1,
+      "explanation": "A **classical scar** has a 4–9% rupture risk and can rupture **before labour**. TOLAC is contraindicated, so plan an **elective CS at 36–37 weeks** (**B**). **A** and **D** allow labour, which is contraindicated. **C**: misoprostol with any uterine scar at term is contraindicated, and doubly so with a classical scar. **E**: waiting to 41 weeks invites spontaneous labour and rupture.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cs-q05",
+      "stem": "Four hours after an emergency CS for obstructed labour, a 22-year-old is restless. Her pulse is 124 bpm, BP 86/50 mmHg, and she is pale. The abdomen is increasingly distended and tender. The uterus is firm at the umbilicus and the lochia is scanty. The oxytocin infusion is running. What is the MOST appropriate next step?",
+      "options": [
+        "Increase the oxytocin infusion rate and massage the uterus",
+        "Give misoprostol 800 µg sublingually",
+        "Observe and repeat the haemoglobin tomorrow morning",
+        "Start IV ceftriaxone and metronidazole for sepsis",
+        "Resuscitate with IV fluids and blood, and return her to theatre for re-laparotomy"
+      ],
+      "answer": 4,
+      "explanation": "Shock with a **firm uterus and little vaginal bleeding** plus a distending abdomen means **concealed intra-abdominal (or broad-ligament) haemorrhage**, often from a uterine angle extension or a slipped ligature. The treatment is **resuscitation and re-laparotomy** (**E**). **A** and **B** treat atony, but the uterus is contracted. **C** is dangerous delay. **D**: sepsis 4 h post-op is unlikely, and antibiotics do not stop bleeding.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "cs-q06",
+      "stem": "A 28-year-old had an uncomplicated elective CS under spinal anaesthesia 3 hours ago. She is comfortable, has no nausea, and asks for a cup of tea. What is the MOST appropriate response?",
+      "options": [
+        "Keep her nil by mouth until bowel sounds are heard",
+        "Keep her nil by mouth for 24 hours and continue IV fluids",
+        "Allow oral fluids now and a light diet as tolerated",
+        "Allow only IV fluids until she passes flatus",
+        "Insert a nasogastric tube to prevent ileus"
+      ],
+      "answer": 2,
+      "explanation": "ERAS and NICE: women recovering well after CS can **eat and drink when they feel hungry or thirsty**. Early feeding shortens recovery and does not increase ileus. **A, B and D** are outdated rituals that prolong IV fluids, hunger and admission. **E**: an NG tube is only for established obstruction or ileus.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cs-q07",
+      "stem": "A 19-year-old primigravida had a CS for obstructed labour after 2 days in labour at home. She had haematuria on catheterisation. At surgery the bladder was oedematous and high but intact. When should the urinary catheter be removed?",
+      "options": [
+        "At 12 hours, once the spinal has worn off",
+        "After continuous drainage for 7–14 days",
+        "In theatre at the end of the operation",
+        "At 24 hours, if the urine is clear",
+        "Clamp it intermittently and remove it when she feels the urge to void"
+      ],
+      "answer": 1,
+      "explanation": "Prolonged obstructed labour compresses the bladder base between the head and the pubis, which causes **ischaemic pressure necrosis**. A **vesicovaginal fistula** may appear 5–10 days later. **Continuous free drainage for 7–14 days** (**B**) rests the bladder and can prevent or heal a small fistula. **A, C and D** are appropriate after routine CS but not after obstruction with haematuria. **E**: clamping lets the bladder distend, which harms the ischaemic bladder.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "cs-q08",
+      "stem": "A 31-year-old P1+0 with one previous lower-segment CS (for breech) is 41+3 weeks at a regional referral hospital. The cervix is closed, long and firm (Bishop score 3). The fetus is cephalic with normal growth. She strongly wishes to try for a vaginal birth. Which is the BEST option?",
+      "options": [
+        "Misoprostol 25 µg vaginally every 6 hours until labour starts",
+        "High-dose oxytocin infusion from the start to shorten the induction",
+        "Wait until 43 weeks for spontaneous labour",
+        "Counsel her; offer ERCS or mechanical ripening with a Foley catheter, then ARM and cautious oxytocin under senior supervision",
+        "Discharge her to deliver at her local HC III, which is closer to home"
+      ],
+      "answer": 3,
+      "explanation": "Induction with a scar increases the rupture risk 2–3 fold, and **prostaglandins such as misoprostol are contraindicated** (**A**). The safest options are **ERCS or mechanical (Foley) ripening, then ARM and carefully titrated oxytocin** in a hospital with a theatre, after counselling (**D**). **B**: high-dose oxytocin raises the rupture risk. **C**: prolonged post-term pregnancy increases stillbirth. **E**: an HC III cannot do CS, so a woman with a scar must deliver at an HC IV or hospital.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "cs-q09",
+      "stem": "Five minutes after a spinal anaesthetic for elective CS, a 27-year-old becomes nauseated and pale. Her BP is 78/40 mmHg (baseline 120/75) and the FHR is 100 bpm. She is lying flat. What is the MOST appropriate immediate management?",
+      "options": [
+        "Left uterine displacement/tilt, a rapid IV crystalloid bolus and an IV vasopressor (phenylephrine or ephedrine)",
+        "Convert immediately to general anaesthesia",
+        "Give adrenaline 1 mg IV",
+        "Give furosemide 40 mg IV",
+        "Put her in a steep head-down position and wait for the BP to recover"
+      ],
+      "answer": 0,
+      "explanation": "Spinal-induced **hypotension** (sympathetic block plus aortocaval compression) is common and reduces uteroplacental flow, hence the fetal bradycardia. Treat it with **left tilt, fluids and a vasopressor** (**A**). **B**: GA adds airway risk and doesn't treat the cause. **C**: adrenaline 1 mg is a cardiac-arrest dose. **D**: a diuretic worsens hypovolaemia. **E**: steep head-down can spread a hyperbaric spinal higher (a high block) and does not relieve caval compression.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cs-q10",
+      "stem": "On day 3 after an emergency CS for prolonged labour with ruptured membranes for 30 hours, a 24-year-old has a temperature of 38.9 °C and pulse of 112 bpm. Her lochia is foul-smelling and the uterus is tender and subinvoluted. The wound is clean and the malaria RDT is negative. What is the MOST appropriate management?",
+      "options": [
+        "Oral amoxicillin 500 mg 8-hourly and review in a week",
+        "Paracetamol and observation, as post-op fever on day 3 is expected",
+        "Immediate re-laparotomy and hysterectomy",
+        "Artemether-lumefantrine because malaria is common",
+        "IV ampicillin + gentamicin + metronidazole (or ceftriaxone + metronidazole), take cultures, and check for retained products"
+      ],
+      "answer": 4,
+      "explanation": "Fever, foul lochia and a tender subinvoluted uterus after a CS in prolonged labour mean **post-caesarean endometritis (puerperal sepsis)**. Take cultures, then give **IV broad-spectrum antibiotics** until she has been afebrile for 48 hours (**E**). Look for retained products and a pelvic abscess. **A** is inadequate for sepsis. **B**: fever after 48 h is not physiological. **C**: surgery is reserved for abscess, necrotising infection or failure of medical therapy. **D**: the RDT is negative and the uterine signs explain the fever.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cs-q11",
+      "stem": "A 26-year-old at 27 weeks has a transverse lie, back down, with ruptured membranes and a prolapsed fetal arm. The fetus is alive. The lower segment is poorly formed on ultrasound. Which uterine incision is MOST appropriate?",
+      "options": [
+        "Low transverse lower-segment incision through a Pfannenstiel",
+        "Internal podalic version followed by breech extraction",
+        "Vertical upper-segment (classical) incision",
+        "Destructive operation (embryotomy) vaginally",
+        "Push the arm back and await spontaneous version"
+      ],
+      "answer": 2,
+      "explanation": "A back-down transverse lie with ruptured membranes, very preterm, with an **unformed lower segment** is a classic indication for a **classical (vertical upper-segment)** incision (**C**): the fetus cannot be safely extracted through a small transverse incision. **A** risks extension into the uterine vessels and a trapped fetus. **B**: internal podalic version is reserved for a second twin, and it causes rupture in a singleton with ruptured membranes. **D**: the fetus is alive. **E**: a transverse lie with a prolapsed arm will not correct spontaneously and obstructs.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "cs-q12",
+      "stem": "A 34-year-old at 36 weeks has severe pre-eclampsia with HELLP syndrome (platelets 45 × 10⁹/L) and a pathological fetal heart. Her BP is controlled on hydralazine and she has had magnesium sulphate. A Category 2 CS is decided. Which anaesthetic technique is MOST appropriate?",
+      "options": [
+        "Spinal anaesthesia with hyperbaric bupivacaine",
+        "Epidural anaesthesia",
+        "Local infiltration anaesthesia alone",
+        "General anaesthesia with rapid sequence induction and blunting of the pressor response to intubation",
+        "Delay surgery for 24 hours to transfuse platelets until the count exceeds 100"
+      ],
+      "answer": 3,
+      "explanation": "A platelet count below about 75–80 × 10⁹/L is a contraindication to **neuraxial** anaesthesia (**A, B**) because of the risk of spinal/epidural haematoma. **GA with rapid sequence induction** (**D**), with measures to blunt the hypertensive surge at intubation (for example IV labetalol or an opioid), is appropriate. **C**: local infiltration is a last resort when no anaesthetist is available. **E**: the fetus is compromised, and HELLP worsens with time. Delay is dangerous.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "cs-q13",
+      "stem": "A 28-year-old P2+0 had a vaginal birth 5 years ago and then a lower-segment CS 2 years ago for breech presentation. She is now 37 weeks with a cephalic singleton and asks what her chance of a vaginal birth is if she labours. What is the BEST estimate?",
+      "options": [
+        "About 25%",
+        "About 85–90%",
+        "About 50%",
+        "About 72–75%",
+        "Over 99%"
+      ],
+      "answer": 1,
+      "explanation": "Overall VBAC success is 72–75% (**D**), but **a previous vaginal birth** raises it to about **85–90%** (**B**). A non-recurrent indication (breech) is also favourable. **A** and **C** underestimate the chance, which could scare her into an unnecessary ERCS. **E** overstates it: about 1 in 10 still need an emergency CS.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cs-q14",
+      "stem": "During a CS at full dilatation after a 3-hour second stage, the fetal head is deeply impacted in the pelvis and you cannot lift it into the incision. What is the BEST next step?",
+      "options": [
+        "Ask an assistant to push the head up from the vagina while you flex the head and lift it, and call for senior help",
+        "Apply strong fundal pressure while pulling on the baby's shoulders",
+        "Immediately extend the incision into an inverted-T before attempting disimpaction",
+        "Pull firmly on the baby's jaw and neck to lever the head out",
+        "Close the uterus and attempt vaginal ventouse delivery"
+      ],
+      "answer": 0,
+      "explanation": "The **push method** (an assistant disimpacts the head vaginally with a cupped hand) or the **pull method** (reverse breech extraction) are the recognised techniques, and a senior should be called early (**A**). **B**: the shoulders are not accessible, and fundal pressure pushes the head further down. **C**: an inverted-T commits her to CS in all future pregnancies and is only for failed disimpaction. **D**: levering on the jaw or neck causes fetal injury and uterine extensions. **E** is irrational: the head could not be delivered vaginally, which is why she is in theatre.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "cs-q15",
+      "stem": "A 36-year-old P3, weight 82 kg (BMI 34), had an emergency CS in labour complicated by a 1.2 L PPH. Bleeding has now settled. What is the MOST appropriate thromboprophylaxis?",
+      "options": [
+        "No pharmacological prophylaxis; early mobilisation is enough",
+        "Aspirin 75 mg daily for 6 weeks",
+        "Warfarin starting on day 1",
+        "Therapeutic-dose enoxaparin 1 mg/kg twice daily",
+        "Enoxaparin 40 mg SC once daily from 4–6 hours post-op for at least 10 days, plus early mobilisation"
+      ],
+      "answer": 4,
+      "explanation": "She has several VTE risk factors: CS in labour, age >35, obesity and PPH >1 L. By RCOG GTG 37a she needs **prophylactic LMWH (enoxaparin 40 mg for 50–90 kg) for at least 10 days**, started once haemostasis is secure (**E**). **A** under-treats a high-risk woman. **B**: aspirin is not recommended for postpartum VTE prophylaxis. **C**: warfarin is for treatment, not routine prophylaxis. **D** is a treatment dose and would increase bleeding.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "cs-c01",
+      "title": "Obstructed labour at an HC IV",
+      "presentation": "A 19-year-old primigravida at term is brought to an HC IV in Mukono district after 2 days of labour. She pushed at home with a traditional birth attendant for 'many hours'. She is exhausted and dehydrated. Pulse 116 bpm, BP 110/70 mmHg, temp 37.8 °C. She has a tense lower abdomen with a groove running obliquely below the umbilicus. The head is 3/5 palpable, FHR 168 bpm, the vulva is oedematous, and there is dark urine on catheterisation.",
+      "steps": [
+        {
+          "prompt": "What further history do you want, and why?",
+          "answer": "- **Duration of labour and of pushing**, and time of ROM (sepsis risk, obstruction)\n- **Herbs or injections** given at home (herbal oxytocics or oxytocin cause hyperstimulation and rupture)\n- **Fetal movements** (still alive?)\n- **ANC**: HIV status, Hb, blood group, height (short stature suggests a contracted pelvis)\n- **Last meal** (aspiration risk)\n- **Allergies**\n- Any **previous surgery**"
+        },
+        {
+          "prompt": "Interpret the examination findings. What is your diagnosis?",
+          "answer": "**Obstructed labour** with **impending uterine rupture**. The oblique groove is a **Bandl's ring** (a pathological retraction ring). The head is 3/5 palpable after prolonged pushing (no descent), there is maternal tachycardia, low-grade fever and dehydration, fetal tachycardia (compromise or infection), an oedematous vulva, and **haematuria** from bladder compression. On VE, expect 3+ moulding, big caput and an oedematous cervix."
+        },
+        {
+          "prompt": "What are your immediate management steps before theatre?",
+          "answer": "1. Call the MO/obstetrician and anaesthetic officer: **Category 2 CS** (Category 1 if the FHR becomes bradycardic or signs of rupture appear).\n2. **No oxytocin, no fundal pressure, no ventouse** (the head is high).\n3. Two **16–18 G cannulae**; **Hb, cross-match 2 units**, HIV test if unknown.\n4. **Ringer's lactate 1 L fast**, then titrate to urine output.\n5. **Leave the catheter on free drainage.**\n6. Antibiotics: she has a fever and prolonged ROM, so give a **therapeutic regimen**, not just prophylaxis: ampicillin 2 g IV + gentamicin 5 mg/kg IV + metronidazole 500 mg IV (or ceftriaxone 2 g + metronidazole 500 mg IV) before incision.\n7. Metoclopramide 10 mg IV (aspiration prophylaxis). Consent. Left tilt. HBB-trained person for the baby."
+        },
+        {
+          "prompt": "What operative difficulties do you anticipate and how will you avoid them?",
+          "answer": "- **High, oedematous bladder**: open the parietal peritoneum **high**, and identify and push the bladder down gently.\n- **Very thin lower segment**: incise carefully to avoid cutting the baby. **Extend bluntly** and watch the angles (lateral extensions into the uterine vessels and ureter).\n- **Impacted head**: the assistant disimpacts from the vagina (push method) or use reverse breech extraction (pull). Call a senior early.\n- **PPH from atony** after a long labour: oxytocin 10 IU IV, then an infusion of 20 IU in 1 L; TXA if bleeding.\n- **Infection**: careful asepsis, peritoneal toilet."
+        },
+        {
+          "prompt": "At surgery the uterus is intact. A live 3.4 kg male is delivered (Apgar 5 and 8). EBL 800 mL. What is your post-operative plan?",
+          "answer": "- Obs every 15 min for 1 h, then 4-hourly; uterine tone and lochia; **oxytocin infusion 20 IU in 1 L** over 4–8 h.\n- **Catheter on free drainage for 7–14 days** (risk of VVF from pressure necrosis); record fluid balance.\n- **Continue IV antibiotics** (therapeutic course) until afebrile for 48 h, then switch to oral.\n- Analgesia: paracetamol 1 g 6-hourly + diclofenac 50 mg 8-hourly (if renal function is fine) ± tramadol.\n- **Enoxaparin 40 mg SC daily** (or UFH 5000 IU 12-hourly) once haemostasis is secure; early mobilisation.\n- Hb on day 1; iron/folate.\n- Baby: neonatal review for sepsis risk (prolonged ROM, maternal fever), and start breastfeeding."
+        },
+        {
+          "prompt": "What will you tell her before discharge about future pregnancies?",
+          "answer": "She had a CS because the baby's head could not pass (the obstruction may recur if her pelvis is small). She has a **lower-segment scar**. Next time she must **book early and deliver at an HC IV or hospital**, never at home. A trial of scar may be possible depending on the pelvic assessment, but the obstetrician will decide at 36 weeks. **Wait at least 18–24 months before the next pregnancy**, so offer contraception (implant, injectable or LAM). Report urine leakage immediately (a fistula can appear 1–2 weeks later). Give danger signs."
+        }
+      ],
+      "takeaway": "Obstructed labour needs resuscitation, a catheter and antibiotics before a CS. Expect a high bladder and a thin lower segment. Keep the catheter for 7–14 days after haematuria. And send every woman home with a birth plan for next time."
+    },
+    {
+      "id": "cs-c02",
+      "title": "Trial of scar that goes wrong",
+      "presentation": "A 27-year-old P1+0 with one previous emergency LSCS (3 years ago for 'failure to progress') is admitted in spontaneous labour at 39 weeks to a regional referral hospital. On admission she is 4 cm dilated, the head is 3/5 palpable, and FHR is 140 bpm. Six hours later she is still 5 cm dilated with the head 3/5, contractions are 4 in 10 minutes, and she complains of pain over the scar between contractions.",
+      "steps": [
+        {
+          "prompt": "What is your assessment of this trial of scar?",
+          "answer": "The trial is **failing**. Six hours of adequate contractions (4 in 10) have produced only 1 cm of dilatation with **no descent**. The previous indication was a **recurrent** one (failure to progress, possibly CPD), which predicts TOLAC failure. **Scar pain between contractions** is a warning sign of dehiscence. The partograph has crossed the **alert line** and is heading for the action line."
+        },
+        {
+          "prompt": "What would you do now, and what would you NOT do?",
+          "answer": "**Do**: inform the senior, recheck the FHR for a full minute after a contraction, check maternal pulse and BP, look for vaginal bleeding and haematuria, and prepare for a **Category 2 repeat CS** (consent, IV access, cross-match 2 units, antibiotics before incision).\n**Do NOT**: start oxytocin augmentation for poor progress in a scarred uterus with suspected CPD; do not continue 'waiting and seeing'."
+        },
+        {
+          "prompt": "While preparing theatre, the FHR drops to 70 bpm and does not recover. Her pulse rises to 124 bpm and contractions stop. The head is now 4/5 palpable. What has happened and what do you do?",
+          "answer": "**Uterine rupture**: fetal bradycardia, maternal tachycardia, cessation of contractions and **loss of station**. **Category 1 laparotomy**: call everyone, stop any oxytocin, give oxygen, use a second large-bore cannula, cross-match **4 units**, give warm crystalloid, catheterise (look for haematuria), and give antibiotics. Go to theatre immediately; a midline incision is reasonable."
+        },
+        {
+          "prompt": "At laparotomy the scar has ruptured with a lateral extension into the left broad ligament, and the baby is in the abdomen (fresh stillbirth). She is hypotensive despite 2 units of blood. What are the surgical options and how do you choose?",
+          "answer": "- **Repair** the uterus in two layers if the tear is clean, she is stabilising, and she wants more children.\n- **Subtotal (or total) hysterectomy** if the tear is extensive (broad ligament, uterine vessels, cervix), if bleeding cannot be controlled, if the tissues are infected or necrotic, or if she remains unstable.\n\nHere, with a broad-ligament extension and ongoing instability, **hysterectomy is life-saving** (life before fertility). Before closing, identify the **ureter** (at risk in broad-ligament haematomas) and check the **bladder**."
+        },
+        {
+          "prompt": "What post-operative care and follow-up does she need?",
+          "answer": "- HDU monitoring, transfusion to Hb above about 8 g/dL, and a therapeutic antibiotic course; thromboprophylaxis once bleeding is controlled.\n- **Bereavement care**: let her see and hold the baby if she wishes, psychosocial support, and lactation suppression advice (e.g. cabergoline 1 mg single dose if available, a supportive bra).\n- Honest **open disclosure** and counselling (she cannot carry another pregnancy after hysterectomy).\n- **MPDSR**: this perinatal death must be reviewed (audit of TOLAC selection and monitoring, and response time)."
+        }
+      ],
+      "takeaway": "TOLAC needs good selection (a recurrent indication such as CPD lowers success), a partograph, and vigilance. Poor progress in a scarred uterus means CS, not oxytocin. An abnormal FHR with loss of station and cessation of contractions means rupture: Category 1 laparotomy."
+    },
+    {
+      "id": "cs-c03",
+      "title": "Fever on day 3 after CS at Mengo",
+      "presentation": "A 30-year-old P3 is on day 3 after an emergency CS for fetal distress (membranes ruptured 20 hours before surgery). She received ceftriaxone 2 g IV at induction. Today her temperature is 38.6 °C and pulse 108 bpm. She complains of lower abdominal pain and feeling unwell. She is breastfeeding.",
+      "steps": [
+        {
+          "prompt": "What are the possible sources of this post-operative fever? (Think systematically.)",
+          "answer": "Use the **'post-CS fever' checklist: Womb, Wound, Water, Wind, Walking, Wonder drugs, Breasts, and Malaria**.\n- **Womb**: endometritis (commonest after CS in labour with prolonged ROM); retained products; pelvic abscess\n- **Wound**: SSI, haematoma, abscess, necrotising fasciitis\n- **Water**: UTI or catheter-associated infection\n- **Wind**: atelectasis or pneumonia (especially after GA)\n- **Walking**: DVT/PE\n- **Wonder drugs**: drug fever, thrombophlebitis at the cannula site\n- **Breasts**: engorgement or mastitis (usually later)\n- **Malaria** (always in Uganda)"
+        },
+        {
+          "prompt": "What focused examination will you perform?",
+          "answer": "- Vitals including **RR, SpO₂ and BP** (sepsis screen: RR ≥22, SBP ≤100, altered mentation)\n- Pallor; **breasts**; **chest** (crepitations)\n- **Abdomen**: distension, bowel sounds, fundal height (subinvolution), **uterine tenderness**, peritonism\n- **Wound**: remove the dressing and look for erythema, induration, discharge, gaping; gently probe for pus\n- **Lochia**: smell, colour, amount\n- **Calves**: swelling, tenderness\n- **Cannula sites**; urine (catheter still in?)"
+        },
+        {
+          "prompt": "She has foul lochia, a tender bulky uterus, and a wound with 2 cm of surrounding erythema but no discharge. What investigations do you order?",
+          "answer": "- **FBC** (WBC, Hb)\n- **Blood culture** before antibiotics\n- **High vaginal / endocervical swab** for culture and sensitivity\n- **Malaria RDT or blood smear**\n- **Urinalysis and urine culture**\n- **Pelvic ultrasound** (retained products, pelvic collection, wound or rectus sheath haematoma)\n- Renal function and lactate if septic\n- CRP if available"
+        },
+        {
+          "prompt": "Outline your management.",
+          "answer": "**Diagnosis: post-caesarean endometritis with early wound cellulitis.**\n1. **IV antibiotics**: ampicillin 2 g IV 6-hourly + gentamicin 5 mg/kg IV once daily + metronidazole 500 mg IV 8-hourly (or ceftriaxone 2 g IV daily + metronidazole 500 mg IV 8-hourly). Adjust to cultures: Mulago data show many **ceftriaxone-resistant *Klebsiella/E. coli* and MRSA**, so escalate (e.g. to meropenem or vancomycin per culture) if she fails to respond in 48–72 h.\n2. Continue until **afebrile for 48 hours**, then oral (amoxicillin-clavulanate ± metronidazole) to complete about 7 days total for the wound.\n3. **Paracetamol**, fluids, and continue breastfeeding (these antibiotics are compatible).\n4. **Evacuate retained products** if found; **drain** any wound or pelvic collection.\n5. **Thromboprophylaxis** (infection raises the VTE risk)."
+        },
+        {
+          "prompt": "On day 5 of treatment she is still febrile despite antibiotics, and the wound is now draining pus. What do you consider?",
+          "answer": "- **Wound abscess or infected haematoma**: open the wound, drain it, send pus for culture, and dress daily. Secondary closure or healing by secondary intention.\n- **Pelvic or subsheath abscess**: ultrasound; drainage (surgical or guided).\n- **Resistant organism**: change antibiotics according to culture.\n- **Septic pelvic thrombophlebitis** (fever despite antibiotics with no collection): a diagnosis of exclusion, treated with anticoagulation.\n- **Necrotising fasciitis** (pain out of proportion, skin discolouration, crepitus): emergency debridement."
+        }
+      ],
+      "takeaway": "Post-CS fever needs a systematic search (womb, wound, water, wind, walking, drugs, breasts and malaria). Endometritis is commonest after CS in labour with prolonged ROM. Treat it with IV triple therapy, culture-guided escalation (resistance is common in Uganda), and drainage of any collection."
+    }
+  ],
+  "references": [
+    {
+      "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf"
+    },
+    {
+      "title": "Essential Maternal and Newborn Clinical Care Guidelines for Uganda",
+      "source": "Ministry of Health Uganda",
+      "year": 2022,
+      "url": "https://library.health.go.ug/sexual-and-reproductive-health/essential-maternal-and-newborn-clinical-care-guidelines-uganda-may"
+    },
+    {
+      "title": "Caesarean birth (NG192): Recommendations",
+      "source": "National Institute for Health and Care Excellence (NICE)",
+      "year": 2021,
+      "url": "https://www.nice.org.uk/guidance/ng192/chapter/recommendations"
+    },
+    {
+      "title": "Robson Classification: Implementation Manual",
+      "source": "World Health Organization",
+      "year": 2017,
+      "url": "https://www.who.int/publications/i/item/9789241513197"
+    },
+    {
+      "title": "Practice Bulletin No. 199: Use of Prophylactic Antibiotics in Labor and Delivery",
+      "source": "American College of Obstetricians and Gynecologists",
+      "year": 2018,
+      "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2018/09/use-of-prophylactic-antibiotics-in-labor-and-delivery"
+    },
+    {
+      "title": "Reducing the Risk of Venous Thromboembolism during Pregnancy and the Puerperium (Green-top Guideline No. 37a)",
+      "source": "Royal College of Obstetricians and Gynaecologists",
+      "year": 2015,
+      "url": "https://www.rcog.org.uk/media/qejfhcaj/gtg-37a.pdf"
+    },
+    {
+      "title": "Birth After Previous Caesarean Birth (Green-top Guideline No. 45)",
+      "source": "Royal College of Obstetricians and Gynaecologists",
+      "year": 2015,
+      "url": "https://www.researchgate.net/publication/371450668_Birth_After_Previous_Caesarean_Birth_Green-top_Guideline_No_45"
+    },
+    {
+      "title": "Antibiotic prophylaxis for caesarean section at a Ugandan hospital: a randomised clinical trial evaluating the effect of administration time on the incidence of postoperative infections",
+      "source": "BMC Pregnancy and Childbirth",
+      "year": 2015,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4417223/"
+    },
+    {
+      "title": "Ceftriaxone- and ceftazidime-resistant Klebsiella species, Escherichia coli, and MRSA dominate caesarean surgical site infections at Mulago Hospital, Kampala, Uganda",
+      "source": "SAGE Open Medicine (Wekesa et al.)",
+      "year": 2020,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8826261/"
+    },
+    {
+      "title": "Indications and appropriateness of caesarean sections performed in a tertiary referral centre in Uganda: a retrospective descriptive study",
+      "source": "PubMed Central (NCBI)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5398867/"
+    },
+    {
+      "title": "Uterine rupture in a teaching hospital in Mbarara, western Uganda: unmatched case-control study",
+      "source": "Reproductive Health",
+      "year": 2013,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668214/"
+    },
+    {
+      "title": "Risk factors for ruptured uterus in Mulago hospital, Kampala, Uganda",
+      "source": "East African Medical Journal",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18557248/"
+    },
+    {
+      "title": "Caesarean delivery in Uganda: Do non-clinical factors explain the trend?",
+      "source": "Journal of Biosocial Science",
+      "year": 2022,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36226659/"
+    },
+    {
+      "title": "Stillbirth, neonatal and maternal mortality among caesarean births in Kenya and Uganda: a register-based prospective cohort study",
+      "source": "PubMed Central (NCBI)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8987792/"
+    },
+    {
+      "title": "Uganda Demographic and Health Survey 2022: Final Report",
+      "source": "Uganda Bureau of Statistics",
+      "year": 2023,
+      "url": "https://www.unicef.org/uganda/media/16731/file/UDHS-2022-Report.pdf.pdf"
+    },
+    {
+      "title": "Global Guidelines for the Prevention of Surgical Site Infection",
+      "source": "World Health Organization",
+      "year": 2018,
+      "url": "https://www.who.int/publications/i/item/9789241550475"
+    },
+    {
+      "title": "Maternal and neonatal outcomes after caesarean delivery in the African Surgical Outcomes Study: a 7-day prospective observational cohort study (Bishop et al.)",
+      "source": "Lancet Global Health",
+      "year": 2019
+    },
+    {
+      "title": "Maternal morbidity associated with multiple repeat cesarean deliveries (Silver et al.)",
+      "source": "Obstetrics & Gynecology",
+      "year": 2006
+    }
+  ]
+}

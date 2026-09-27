@@ -1,0 +1,476 @@
+{
+  "slug": "pre-eclampsia-eclampsia",
+  "flashcards": [
+    {
+      "id": "pet-f01",
+      "front": "Define pre-eclampsia (ISSHP 2021).",
+      "back": "New hypertension (**≥140/90**) at or after **20 weeks** PLUS ≥1 of: **proteinuria**, **maternal organ dysfunction** (neuro, pulmonary oedema, haematological, hepatic, renal) or **uteroplacental dysfunction** (FGR, abnormal Doppler, stillbirth)."
+    },
+    {
+      "id": "pet-f02",
+      "front": "Thresholds for significant proteinuria?",
+      "back": "Dipstick **≥2+** (1+ needs confirming), urine PCR **≥30 mg/mmol**, or **≥300 mg/24 h**."
+    },
+    {
+      "id": "pet-f03",
+      "front": "What BP defines severe hypertension, and how fast must it be treated?",
+      "back": "**≥160 systolic and/or ≥110 diastolic**, confirmed within 15 min. Treat within **30–60 minutes** to prevent intracerebral haemorrhage."
+    },
+    {
+      "id": "pet-f04",
+      "front": "Pritchard MgSO₄ regimen (Uganda standard)?",
+      "back": "**Loading**: 4 g of 20% IV over 5–10 min + 10 g of 50% IM (5 g each buttock with 1 mL 2% lignocaine) = 14 g. **Maintenance**: 5 g of 50% IM every 4 h, alternate buttocks, for **24 h after delivery or the last fit**."
+    },
+    {
+      "id": "pet-f05",
+      "front": "Zuspan MgSO₄ regimen?",
+      "back": "**4 g IV over 5–20 min**, then **1 g/hour IV infusion** for 24 h after delivery or last fit."
+    },
+    {
+      "id": "pet-f06",
+      "front": "Three checks before every MgSO₄ maintenance dose?",
+      "back": "1. **RR ≥16/min**\n2. **Patellar reflexes present**\n3. **Urine output ≥30 mL/h** (≥100 mL in 4 h)"
+    },
+    {
+      "id": "pet-f07",
+      "front": "Antidote for MgSO₄ toxicity and its dose?",
+      "back": "**Calcium gluconate 1 g (10 mL of 10%) IV slowly over 10 minutes**, plus ventilation support; stop MgSO₄."
+    },
+    {
+      "id": "pet-f08",
+      "front": "Serum Mg levels: therapeutic, loss of reflexes, respiratory depression, cardiac arrest?",
+      "back": "Therapeutic **2–3.5 mmol/L**; reflexes lost **4–5**; respiratory depression **6–7.5**; cardiac arrest **>12 mmol/L**. Order: knees, breathing, heart."
+    },
+    {
+      "id": "pet-f09",
+      "front": "How do you make 20% MgSO₄ for IV loading from 50% ampoules?",
+      "back": "**8 mL of 50% (4 g) + 12 mL water for injection/normal saline = 20 mL of 20%**, given slowly over 5–10 min."
+    },
+    {
+      "id": "pet-f10",
+      "front": "Hydralazine dose for severe hypertension?",
+      "back": "**5 mg IV slowly** (over 2–5 min); recheck BP in 20 min; repeat 5–10 mg every 20–30 min to a **max of 20 mg IV** (WHO alternative: 12.5 mg IM every 2 h)."
+    },
+    {
+      "id": "pet-f11",
+      "front": "Oral nifedipine for acute severe hypertension?",
+      "back": "**Nifedipine immediate-release 10 mg orally** (swallowed, not sublingual); repeat after 20–30 min if still ≥160/110; then nifedipine MR 20 mg 12-hourly."
+    },
+    {
+      "id": "pet-f12",
+      "front": "IV labetalol regimen for severe hypertension?",
+      "back": "**20 mg IV over 2 min**, then **40, 80, 80 mg every 10 min** as needed; **max 300 mg**. Avoid in asthma."
+    },
+    {
+      "id": "pet-f13",
+      "front": "Why is methyldopa not used for acute severe hypertension, and why switch it after delivery?",
+      "back": "**Slow onset** (4–6 h or longer). Postpartum it is linked to **depression**, so switch to nifedipine, amlodipine or enalapril within about 2 days."
+    },
+    {
+      "id": "pet-f14",
+      "front": "HELLP syndrome: components and laboratory thresholds?",
+      "back": "**H**aemolysis (LDH ≥600 IU/L, schistocytes), **E**levated **L**iver enzymes (AST ≥70 IU/L), **L**ow **P**latelets (<100 × 10⁹/L)."
+    },
+    {
+      "id": "pet-f15",
+      "front": "Core pathophysiology of pre-eclampsia in one line?",
+      "back": "Failed trophoblast remodelling of spiral arteries → placental ischaemia/oxidative stress → release of **sFlt-1 and soluble endoglin** (anti-angiogenic) → systemic **endothelial dysfunction**."
+    },
+    {
+      "id": "pet-f16",
+      "front": "Who gets aspirin for prevention, and at what dose?",
+      "back": "One high-risk factor (previous PE, chronic HTN, CKD, SLE/APS, diabetes) or ≥2 moderate (primigravida, age ≥40, interval >10 y, BMI ≥35, family history, multiple pregnancy): **aspirin 75–150 mg at night from 12 weeks (before 16–20) until 36 weeks**."
+    },
+    {
+      "id": "pet-f17",
+      "front": "WHO calcium supplementation for pre-eclampsia prevention?",
+      "back": "**1.5–2.0 g elemental calcium daily** (divided doses) from 20 weeks to delivery in populations with low dietary calcium; take it separately from iron."
+    },
+    {
+      "id": "pet-f18",
+      "front": "Timing of delivery: eclampsia, severe PE ≥34 wk, PE without severe features?",
+      "back": "**Eclampsia**: within 12 h of stabilisation. **Severe PE ≥34 weeks**: once stable (within 24 h). **PE without severe features**: at **37+0 weeks** (HYPITAT)."
+    },
+    {
+      "id": "pet-f19",
+      "front": "Uterotonic of choice for the third stage in pre-eclampsia, and which to avoid?",
+      "back": "**Oxytocin 10 IU IM/IV**. **Avoid ergometrine/Syntometrine**: it causes vasoconstriction, hypertensive crisis and stroke."
+    },
+    {
+      "id": "pet-f20",
+      "front": "Maximum IV/oral fluid intake in severe pre-eclampsia, and why?",
+      "back": "About **80 mL/h (1 mL/kg/h)**. Leaky capillaries and low oncotic pressure mean extra fluid causes **pulmonary oedema**; oliguria is from renal vasospasm, not dehydration."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "pet-q01",
+      "stem": "A 22-year-old primigravida at 36 weeks presents to Mengo Hospital with a severe frontal headache. BP is 168/112 mmHg and 172/114 mmHg 15 minutes later. Urine protein is 2+. She has no IV access yet. What is the MOST appropriate immediate antihypertensive?",
+      "options": [
+        "Methyldopa 500 mg orally",
+        "Enalapril 10 mg orally",
+        "Furosemide 40 mg IV",
+        "Nifedipine immediate-release 10 mg orally",
+        "Atenolol 50 mg orally"
+      ],
+      "answer": 3,
+      "explanation": "Severe hypertension (≥160/110) must be lowered within 30–60 minutes. **Oral immediate-release nifedipine 10 mg** works in 10–20 minutes, needs no IV line, and is widely available in Uganda. **Methyldopa** has a slow onset (hours) and is for maintenance only. **Furosemide** reduces an already depleted intravascular volume and is only for pulmonary oedema. **Enalapril** (ACE inhibitor) is contraindicated antenatally (fetal renal damage). **Atenolol** is slow, not an acute agent, and is associated with FGR.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pet-q02",
+      "stem": "A 27-year-old G2P1 at 34 weeks with severe pre-eclampsia received a Pritchard loading dose of MgSO₄ 4 hours ago. Before the next dose, her RR is 18/min, patellar reflexes are present, and urine output over the last 4 hours is 60 mL. What is the MOST appropriate action?",
+      "options": [
+        "Give the 5 g IM dose as scheduled",
+        "Withhold the maintenance dose, review renal function and resume when urine output improves",
+        "Give calcium gluconate 1 g IV",
+        "Give a 2 L normal saline bolus and then the full dose",
+        "Stop MgSO₄ permanently and switch to diazepam"
+      ],
+      "answer": 1,
+      "explanation": "Urine output is **<100 mL in 4 hours**. Magnesium is renally excreted, so oliguria leads to accumulation and toxicity. **Withhold** (or reduce) the dose, check creatinine, and resume when urine output is ≥30 mL/h. Giving the dose as scheduled risks toxicity. Calcium gluconate is for **toxicity** (respiratory depression/arrest), which is not present. A **2 L bolus** risks pulmonary oedema; oliguria in PE is from renal vasospasm. Diazepam is inferior to MgSO₄ and is used only when MgSO₄ is unavailable.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pet-q03",
+      "stem": "A 24-year-old on MgSO₄ Pritchard maintenance for eclampsia becomes drowsy 2 hours after an IM dose. RR is 8/min and patellar reflexes are absent. SpO₂ is 88%. After stopping MgSO₄ and supporting ventilation, what should be given?",
+      "options": [
+        "Naloxone 0.4 mg IV",
+        "Diazepam 10 mg IV",
+        "Sodium bicarbonate 50 mmol IV",
+        "Hydralazine 5 mg IV",
+        "Calcium gluconate 1 g (10 mL of 10%) IV over 10 minutes"
+      ],
+      "answer": 4,
+      "explanation": "Absent reflexes and respiratory depression indicate **magnesium toxicity**; the antidote is **calcium gluconate 1 g IV slowly over 10 min**, with bag-mask ventilation. **Naloxone** reverses opioids, not magnesium. **Diazepam** would worsen respiratory depression. **Hydralazine** lowers BP and has no role here. **Bicarbonate** does not reverse Mg-induced neuromuscular block.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pet-q04",
+      "stem": "A 19-year-old primigravida at 38 weeks is brought to HC IV after a generalised seizure at home. On arrival she is post-ictal, BP 160/105 mmHg, proteinuria 3+. While you are preparing drugs she has another seizure. What is your FIRST action?",
+      "options": [
+        "Protect her from injury, and after the fit place her in the left lateral position and clear the airway",
+        "Insert a mouth gag to protect her tongue",
+        "Arrange immediate caesarean section",
+        "Give hydralazine 10 mg IV",
+        "Do a lumbar puncture to exclude meningitis"
+      ],
+      "answer": 0,
+      "explanation": "Eclampsia first aid is **ABC**: protect from injury (do not restrain), then left lateral position, suction, oxygen, then MgSO₄. **Nothing should be put in the mouth** (it causes injury). **Caesarean** is only after the mother is stabilised; an eclamptic woman is too unstable for immediate theatre. BP control matters but comes **after** airway and MgSO₄. **LP** is not a first step and is dangerous with raised intracranial pressure.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pet-q05",
+      "stem": "A 30-year-old G3P2 at 33 weeks presents with epigastric pain and vomiting, which the clinician attributed to gastritis. BP is 148/96 mmHg, urine protein 1+. Hb 9.8 g/dL, platelets 68 × 10⁹/L, AST 210 IU/L, LDH 820 IU/L. What is the MOST likely diagnosis?",
+      "options": [
+        "Acute fatty liver of pregnancy",
+        "Viral hepatitis",
+        "HELLP syndrome",
+        "Peptic ulcer disease",
+        "Acute cholecystitis"
+      ],
+      "answer": 2,
+      "explanation": "Haemolysis (LDH >600, falling Hb), elevated AST (>70) and low platelets (<100) with hypertension = **HELLP**; BP and proteinuria may be only modestly raised. **AFLP** features hypoglycaemia, jaundice and coagulopathy, with less haemolysis and thrombocytopenia. **Viral hepatitis** gives much higher transaminases and no haemolysis/thrombocytopenia pattern. **PUD** and **cholecystitis** do not explain haemolysis and thrombocytopenia; calling this 'gastritis' is a classic, dangerous error.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pet-q06",
+      "stem": "A 28-year-old at 37+2 weeks has pre-eclampsia without severe features. BP is 146/94 mmHg on nifedipine MR, bloods are normal and the fetus is well grown. Cervix: Bishop score 3. What is the MOST appropriate plan?",
+      "options": [
+        "Expectant management until 40 weeks",
+        "Induction of labour with cervical ripening (misoprostol or Foley catheter)",
+        "Elective caesarean section today",
+        "Discharge home with weekly review",
+        "Start MgSO₄ and deliver by caesarean within 12 hours"
+      ],
+      "answer": 1,
+      "explanation": "At **≥37 weeks**, pre-eclampsia should be delivered (HYPITAT trial: induction reduces maternal complications without raising the caesarean rate). With an unfavourable cervix, **ripen with misoprostol 25 mcg or a Foley catheter**, then oxytocin. **Waiting** exposes her to the risk of progression. **Caesarean** is for obstetric indications, not pre-eclampsia per se. **Discharge** is unsafe at term with PE in Uganda. The **12-hour** delivery window applies to eclampsia.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pet-q07",
+      "stem": "A 35-year-old para 4 delivers vaginally at a regional referral hospital. She has had pre-eclampsia with severe features managed with MgSO₄ and hydralazine. The midwife prepares the third-stage uterotonic. Which drug should be AVOIDED?",
+      "options": [
+        "Oxytocin 10 IU IM",
+        "Carbetocin 100 mcg IM",
+        "Misoprostol 600 mcg orally",
+        "Ergometrine 0.5 mg IM",
+        "Tranexamic acid 1 g IV if bleeding"
+      ],
+      "answer": 3,
+      "explanation": "**Ergometrine** (and Syntometrine) causes generalised vasoconstriction and can trigger a **hypertensive crisis, stroke or eclampsia**; it is contraindicated in hypertensive disorders. **Oxytocin** is the drug of choice. **Carbetocin** and **misoprostol** do not raise BP significantly and are acceptable alternatives. **TXA** is used for PPH treatment and is not contraindicated.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pet-q08",
+      "stem": "A 23-year-old at 30 weeks with severe pre-eclampsia is on MgSO₄ at a HC IV. BP is controlled at 150/95 on nifedipine. Platelets 160, creatinine 65 µmol/L, AST 30. CTG is reassuring. There is no NICU at the HC IV. What is the MOST appropriate next step?",
+      "options": [
+        "Give dexamethasone and arrange in-utero transfer to a referral hospital with NICU",
+        "Immediate caesarean section at the HC IV",
+        "Stop MgSO₄ and discharge on methyldopa",
+        "Induce labour with oxytocin at the HC IV",
+        "Start expectant management at the HC IV until 37 weeks"
+      ],
+      "answer": 0,
+      "explanation": "She is stable, preterm and her fetus would need neonatal intensive care. The best plan is **corticosteroids** (dexamethasone 6 mg IM 12-hourly × 4) and **in-utero transfer** ('the best incubator is the uterus during transport') to a centre with NICU and HDU, where expectant management or delivery after steroids can occur. **Immediate CS** is not indicated while stable. **Discharge** is unsafe with severe disease. **Induction at the HC IV** gives a 30-week baby without NICU. **Expectant management to 37 weeks** is inappropriate for severe disease.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pet-q09",
+      "stem": "A 26-year-old at 35 weeks with severe pre-eclampsia is oliguric (15 mL/h for 2 hours) after delivery by caesarean section. She has received 3 L of IV fluid in 6 hours. She is now breathless, RR 32/min, SpO₂ 86% with bilateral basal crackles. What is the MOST appropriate immediate management?",
+      "options": [
+        "Give a further 500 mL fluid challenge for oliguria",
+        "Give hydralazine 20 mg IV bolus",
+        "Give calcium gluconate 1 g IV",
+        "Start dopamine infusion",
+        "Sit her up, give oxygen and furosemide 40 mg IV, and stop IV fluids"
+      ],
+      "answer": 4,
+      "explanation": "This is **pulmonary oedema** from fluid overload on top of capillary leak. Treatment: **sit up, oxygen, furosemide 20–40 mg IV, stop fluids**, strict input/output and senior/anaesthetic review. **More fluid** worsens it; oliguria in PE is renal vasospasm. **Calcium gluconate** treats magnesium toxicity, which is not the problem. **Dopamine** has no proven benefit. A **20 mg hydralazine bolus** risks precipitous hypotension; lower BP carefully if severe.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pet-q10",
+      "stem": "A 31-year-old G3P2 books at 10 weeks at an urban HC IV. She had eclampsia at 32 weeks in her last pregnancy. BP today is 118/72 mmHg. What is the MOST appropriate preventive intervention?",
+      "options": [
+        "Methyldopa 250 mg 8-hourly from booking",
+        "MgSO₄ prophylaxis from 28 weeks",
+        "Aspirin 75–150 mg at night from 12 weeks until 36 weeks, plus calcium supplementation",
+        "Vitamin C and E supplements",
+        "Bed rest from 20 weeks"
+      ],
+      "answer": 2,
+      "explanation": "Previous pre-eclampsia/eclampsia is a **high-risk factor**: give **low-dose aspirin from 12 weeks (before 16–20 weeks) until 36 weeks**, and **calcium** where dietary intake is low. **Methyldopa** treats hypertension; she is normotensive. **MgSO₄** is not a long-term prophylactic. **Vitamins C and E** were shown to be ineffective in large trials. **Bed rest** has no proven benefit and increases VTE risk.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pet-q11",
+      "stem": "A 20-year-old at 36 weeks has a fit at a rural HC III that has MgSO₄ but no theatre or IV antihypertensives. BP after the fit is 172/112 mmHg. The nearest HC IV with theatre is 40 km away. What is the BEST course of action?",
+      "options": [
+        "Give the MgSO₄ loading dose and oral nifedipine 10 mg, then refer urgently with an escort and the next dose",
+        "Refer immediately without treatment to save time",
+        "Give diazepam 10 mg IV and observe overnight",
+        "Give MgSO₄ and keep her at the HC III to deliver vaginally",
+        "Give oxytocin to induce labour before referral"
+      ],
+      "answer": 0,
+      "explanation": "At HC III the job is to **stabilise and refer**: MgSO₄ **loading dose** (IM 10 g ± IV 4 g), a **first dose of antihypertensive** (nifedipine 10 mg orally once she can swallow safely), then urgent referral with a health worker, notes and the next MgSO₄ dose. **Diazepam** is inferior and she needs delivery within 12 h. **Referral without treatment** risks further fits and stroke on the way. **Keeping her** at HC III risks death without surgical or HDU backup. **Induction** before stabilisation and at a facility without theatre is unsafe.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pet-q12",
+      "stem": "A 29-year-old with severe pre-eclampsia at 37 weeks needs an emergency caesarean section for fetal distress. Platelets are 58 × 10⁹/L. BP is 150/100 on treatment. Which statement about anaesthesia and preparation is MOST appropriate?",
+      "options": [
+        "Spinal anaesthesia is safe at any platelet count",
+        "Give ergometrine at delivery of the placenta",
+        "Stop MgSO₄ before surgery because it interacts with anaesthesia",
+        "General anaesthesia is preferred and the intubation pressor response must be blunted; arrange platelets for transfusion",
+        "Postpone surgery until platelets exceed 100"
+      ],
+      "answer": 3,
+      "explanation": "Neuraxial anaesthesia is generally considered safe with platelets **≥75–80 × 10⁹/L**; at 58 there is a risk of spinal haematoma, so **general anaesthesia** is used, with measures (e.g. short-acting opioid) to **blunt the hypertensive response to laryngoscopy** (a risk for stroke). **Platelet transfusion** is advised when <50 before CS. MgSO₄ should be **continued** (anaesthetists adjust muscle relaxant doses). **Ergometrine** is contraindicated. **Postponing** surgery for fetal distress is wrong.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pet-q13",
+      "stem": "A 24-year-old on day 4 after a normal delivery presents to Mengo casualty with a severe headache and blurred vision. She had mildly raised BP in labour and was discharged on day 1. BP is 164/110 mmHg, urine protein 2+. What is the MOST appropriate management?",
+      "options": [
+        "Reassure her; pre-eclampsia resolves after delivery",
+        "Treat as postpartum pre-eclampsia with severe features: acute antihypertensive, MgSO₄ and admission",
+        "Give paracetamol and review in the outpatient clinic in a week",
+        "Do a lumbar puncture first",
+        "Start oral methyldopa and discharge"
+      ],
+      "answer": 1,
+      "explanation": "Pre-eclampsia and eclampsia can occur **up to 6 weeks postpartum**, with BP peaking on **days 3–6**. Severe BP with neurological symptoms = **severe features**: control BP (nifedipine IR or hydralazine), give **MgSO₄** for 24 h, admit, and check bloods. **Reassurance** or **paracetamol and review** risks eclampsia or stroke. **LP** is not the first step (think CVT if atypical: CT). **Methyldopa** is slow and is avoided postpartum (depression).",
+      "difficulty": "core"
+    },
+    {
+      "id": "pet-q14",
+      "stem": "A 26-year-old at 32 weeks presents with a generalised seizure, temperature 39.4°C, BP 118/74 mmHg and no proteinuria. She lives in Gulu and has not slept under a net. Blood glucose is 2.4 mmol/L. What is the MOST likely diagnosis?",
+      "options": [
+        "Eclampsia",
+        "Epilepsy",
+        "Postpartum pre-eclampsia",
+        "Cerebral venous sinus thrombosis",
+        "Severe (cerebral) malaria with hypoglycaemia"
+      ],
+      "answer": 4,
+      "explanation": "Fever, normal BP, **no proteinuria** and **hypoglycaemia** in a high-transmission area point to **cerebral malaria** (pregnancy increases susceptibility and hypoglycaemia). Treat with IV artesunate and IV dextrose. **Eclampsia** is less likely with normal BP and no proteinuria (though it can occur with modest BP; if unsure, giving MgSO₄ is reasonable while testing). **Epilepsy** does not explain fever and hypoglycaemia. **CVT** is usually postpartum with focal signs. She has not delivered, so it is not **postpartum**.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pet-q15",
+      "stem": "A 32-year-old with chronic hypertension on enalapril 10 mg daily attends her first ANC visit at 8 weeks. BP is 136/86 mmHg. What is the MOST appropriate change to her medication?",
+      "options": [
+        "Continue enalapril and add aspirin",
+        "Stop all antihypertensives until 20 weeks",
+        "Stop enalapril and switch to methyldopa or nifedipine MR, and start aspirin at 12 weeks",
+        "Switch to losartan",
+        "Add furosemide"
+      ],
+      "answer": 2,
+      "explanation": "**ACE inhibitors** (and **ARBs** like losartan) are fetotoxic in the second and third trimesters (renal failure, oligohydramnios, skull defects), so switch to a pregnancy-safe agent (**methyldopa, nifedipine or labetalol**). Chronic hypertension is a **high-risk factor**, so give **aspirin from 12 weeks**. **Stopping all drugs** risks uncontrolled BP. **Diuretics** reduce plasma volume and are avoided.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "pet-c01",
+      "title": "Eclampsia on arrival at a HC IV",
+      "presentation": "A 17-year-old primigravida at about 36 weeks (unsure of dates, 2 ANC visits) is carried into the maternity unit of a HC IV in Wakiso by her mother. She had a fit at home 1 hour ago and another on the boda boda. On arrival she is drowsy, BP 176/118 mmHg, pulse 110, RR 24, SpO₂ 93% on air. Her face and hands are swollen.",
+      "steps": [
+        {
+          "prompt": "What are your immediate priorities in the first 5 minutes?",
+          "answer": "Call for help (midwife, MO, anaesthetist). **ABC**: left lateral position, clear airway and suction, **oxygen 4–6 L/min**, protect from injury, do not put anything in the mouth. IV access with a 16–18 G cannula, draw bloods. **MgSO₄ Pritchard loading dose now** (4 g of 20% IV over 5–10 min + 5 g of 50% IM into each buttock with 1 mL 2% lignocaine). Check **blood glucose** and an **mRDT**."
+        },
+        {
+          "prompt": "What focused history do you take from her mother while treating?",
+          "answer": "Headache, blurred vision, epigastric pain before the fits (supports eclampsia). Fever, rigors, neck stiffness (malaria, meningitis). Known epilepsy, previous fits, HIV status, drugs. LNMP and ANC records (gestation, previous BP readings). Fetal movements, vaginal bleeding or abdominal pain (abruption), leaking liquor, contractions (labour). Time of the last meal (aspiration risk)."
+        },
+        {
+          "prompt": "BP remains 172/114 after the loading dose. Urine dipstick 3+ protein. Glucose 5.8, mRDT negative. What next?",
+          "answer": "Treat severe BP within 30–60 min: **hydralazine 5 mg IV slowly**, repeat 5–10 mg every 20–30 min to max 20 mg, or **nifedipine IR 10 mg orally** once she is awake enough to swallow. Target 140–150/90–100. **Foley catheter** with hourly urine output; **restrict fluids** to 80 mL/h. Send FBC, LFT, creatinine, clotting time, group & cross-match. Assess the fetus (FHR; expect transient bradycardia after a fit). Monitor BP, RR, reflexes, SpO₂ and GCS every 15–30 min."
+        },
+        {
+          "prompt": "The fetus is cephalic, FHR 150 and regular. Cervix 2 cm, posterior, firm (Bishop 3). She is now awake. How and when should she be delivered?",
+          "answer": "Deliver **within 12 hours** of the fit. With a Bishop score of 3 and a primigravida, vaginal delivery within 12 hours is unlikely; many clinicians would do a **caesarean section** once stable (spinal anaesthesia if platelets ≥75–80). An alternative, if the unit has capacity and she remains stable, is rapid ripening (Foley catheter or misoprostol) with a plan to proceed to CS if not in established labour. Oxytocin 10 IU for the third stage, **no ergometrine**. Inform the neonatal team (possible preterm baby, MgSO₄ hypotonia)."
+        },
+        {
+          "prompt": "Four hours after delivery, her RR is 12/min and patellar reflexes are absent. What do you do?",
+          "answer": "This is **MgSO₄ toxicity**. **Withhold** further MgSO₄, support breathing (oxygen, bag-mask if needed), give **calcium gluconate 1 g (10 mL of 10%) IV over 10 min**. Check urine output and creatinine (renal impairment is the usual cause). When reflexes return and RR ≥16, resume at a reduced dose if still needed. Document and review the monitoring chart."
+        },
+        {
+          "prompt": "What postpartum care and counselling does she need before discharge?",
+          "answer": "Continue MgSO₄ for **24 h after delivery or last fit**. BP 4-hourly; continue oral antihypertensives (nifedipine MR or enalapril; avoid methyldopa postpartum) and wean as BP falls. Repeat FBC, LFT and creatinine. Watch for pulmonary oedema. Discharge when BP <150/100 with symptoms resolved; **BP review within 1 week** and at 6 weeks. Counsel: danger signs, **aspirin from 12 weeks** in the next pregnancy, early ANC, recurrence risk, **long-term cardiovascular risk**. Contraception: avoid combined oestrogen methods while hypertensive; a progestogen implant or IUD is ideal for a 17-year-old."
+        }
+      ],
+      "takeaway": "In eclampsia: ABC, MgSO₄, control BP, check glucose and malaria, restrict fluids, deliver within 12 hours, and watch the RR-Reflex-Urine triad, with calcium gluconate at the bedside."
+    },
+    {
+      "id": "pet-c02",
+      "title": "Epigastric pain at 33 weeks",
+      "presentation": "A 30-year-old G3P2 at 33 weeks presents to Mengo Hospital with epigastric pain and vomiting for 12 hours. She was given omeprazole at a clinic yesterday. BP 152/98 mmHg, pulse 96, afebrile. Urine protein 1+. She has mild RUQ tenderness.",
+      "steps": [
+        {
+          "prompt": "What is your working differential diagnosis?",
+          "answer": "**HELLP syndrome/pre-eclampsia with liver involvement** (top of the list). Others: acute fatty liver of pregnancy, viral hepatitis, severe malaria with haemolysis, cholecystitis, pancreatitis, peptic ulcer, pyelonephritis, placental abruption (pain, but usually uterine)."
+        },
+        {
+          "prompt": "Which investigations do you order, and why?",
+          "answer": "**FBC** (platelets, Hb), **blood film** (schistocytes), **LDH**, **AST/ALT, bilirubin**, **creatinine/urea**, **glucose** (low in AFLP), **clotting** (PT/APTT/fibrinogen or bedside clotting time), **mRDT**, group & cross-match, urine PCR, **ultrasound** (fetal growth, liquor, placenta, liver haematoma), CTG."
+        },
+        {
+          "prompt": "Results: Hb 9.5 g/dL, platelets 72 × 10⁹/L, AST 185 IU/L, LDH 790 IU/L, creatinine 88 µmol/L, glucose 5.2 mmol/L, schistocytes on film. Interpret.",
+          "answer": "**HELLP syndrome**: haemolysis (LDH ≥600, schistocytes, falling Hb), elevated liver enzymes (AST ≥70), low platelets (<100). Normal glucose argues against AFLP. This is **pre-eclampsia with severe features** regardless of BP or proteinuria."
+        },
+        {
+          "prompt": "Outline your management.",
+          "answer": "Admit to HDU. **MgSO₄** (Pritchard). Control BP if ≥160/110 (nifedipine/hydralazine). Fluid restriction 80 mL/h with catheter. **Dexamethasone 6 mg IM 12-hourly × 4** for fetal lungs (33 weeks). **Deliver** once stable, ideally after steroids (24–48 h) if the mother and fetus remain stable, **immediately** if DIC, abruption, liver haematoma or fetal compromise. Crossmatch blood; arrange platelets (transfuse if <50 before CS) and FFP if coagulopathic. Inform anaesthetist (platelets 72: GA may be required) and NICU. Repeat labs 6–12-hourly."
+        },
+        {
+          "prompt": "Twelve hours later she complains of sudden right shoulder-tip pain and becomes pale, pulse 130, BP 90/60. What do you suspect and what do you do?",
+          "answer": "**Subcapsular liver haematoma with rupture** → haemorrhagic shock. Resuscitate (2 large-bore cannulas, warmed fluids, O-negative/crossmatched blood, activate massive transfusion), urgent ultrasound (free fluid), call the **general surgeon** and obstetrician; **laparotomy** with delivery and liver packing. Correct coagulopathy. This is a life-threatening complication with high mortality."
+        }
+      ],
+      "takeaway": "Epigastric pain plus hypertension in late pregnancy is HELLP until proven otherwise; check platelets, LFT and LDH before giving antacids."
+    },
+    {
+      "id": "pet-c03",
+      "title": "New hypertension at a routine ANC visit",
+      "presentation": "A 25-year-old primigravida at 29 weeks attends routine ANC at a HC III near Mukono. BP is 146/94 mmHg, and 144/92 mmHg after 4 hours of rest. She has no symptoms. Urine dipstick: trace protein. Fundal height 27 cm. She lives 25 km from the nearest hospital.",
+      "steps": [
+        {
+          "prompt": "What is the diagnosis at this point, and what features must you look for?",
+          "answer": "**Gestational hypertension** (new BP ≥140/90 after 20 weeks, no significant proteinuria). Look for features that would make it **pre-eclampsia**: proteinuria (confirm with PCR), headache, visual symptoms, epigastric pain, clonus, low platelets, raised creatinine/transaminases, and **FGR** (fundal height 27 cm at 29 weeks is within range but needs a scan)."
+        },
+        {
+          "prompt": "What should be done at the HC III?",
+          "answer": "Refer (non-emergency, same day or within 24 h) to a HC IV/hospital for bloods, ultrasound and a treatment plan, because she lives far away and needs monitoring. Give health education on **danger signs** (headache, blurred vision, epigastric pain, fits, reduced fetal movements, bleeding). Ensure she is on iron/folate; calcium if possible."
+        },
+        {
+          "prompt": "At the hospital: platelets 210, creatinine 60, AST 25, PCR 45 mg/mmol, EFW 50th centile, normal liquor. BP 148/96. How do you classify it and manage it?",
+          "answer": "**Pre-eclampsia without severe features** (proteinuria PCR ≥30). Admit (distance, reliability of follow-up). Start **nifedipine MR 20 mg 12-hourly or methyldopa 250 mg 8-hourly**, target about 135/85. BP 4-hourly, daily urine, bloods twice weekly, fetal movement chart, growth scan every 2 weeks. Plan **delivery at 37 weeks** unless severe features develop. Consider steroids if delivery before 34 weeks becomes likely."
+        },
+        {
+          "prompt": "At 33 weeks she develops BP 166/112 and a headache not relieved by paracetamol. Platelets 130. What is your plan?",
+          "answer": "Now **severe features**. Acute BP control (nifedipine IR 10 mg or hydralazine 5 mg IV), **MgSO₄**, fluid restriction and catheter, **dexamethasone 6 mg IM 12-hourly × 4**, inform NICU. At 33 weeks with neurological symptoms, deliver once stabilised (after steroids if she stabilises quickly and symptoms settle; immediately if BP is uncontrollable, symptoms persist or fetal distress)."
+        },
+        {
+          "prompt": "What long-term advice will you give her at discharge?",
+          "answer": "BP check within 1 week, then at 6 weeks; if still hypertensive at 12 weeks, investigate for chronic hypertension/renal disease. Next pregnancy: early booking, **aspirin 75–150 mg from 12 weeks to 36 weeks**, calcium. Recurrence risk about 15–25%. Pre-eclampsia doubles her lifetime risk of **hypertension, heart disease and stroke**, so she needs annual BP checks and a healthy lifestyle."
+        }
+      ],
+      "takeaway": "Gestational hypertension must be watched for progression; severe features can appear suddenly, and the plan escalates from monitoring to MgSO₄, steroids and delivery."
+    }
+  ],
+  "references": [
+    {
+      "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions (sections 16.3.7 Pre-eclampsia, 16.3.8 Eclampsia)",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf"
+    },
+    {
+      "title": "Essential Maternal and Newborn Clinical Care Guidelines for Uganda",
+      "source": "Ministry of Health Uganda",
+      "year": 2021,
+      "url": "https://library.health.go.ug/sites/default/files/resources/Essential%20Maternal%20and%20Newborn%20Clinical%20Care%20Guidelines%20for%20Uganda%20_October%202021.pdf"
+    },
+    {
+      "title": "Administration patterns of magnesium sulphate for women with preeclampsia and immediate newborn outcomes in Kawempe National Referral Hospital, Uganda: a cohort study",
+      "source": "BMC Pregnancy and Childbirth",
+      "year": 2024,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39543563/"
+    },
+    {
+      "title": "Variations in emergency care for severe pre-eclampsia in Uganda: a national evaluation study",
+      "source": "PMC",
+      "year": 2025,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11833625/"
+    },
+    {
+      "title": "Preeclampsia (StatPearls)",
+      "source": "NCBI Bookshelf",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK570611/"
+    },
+    {
+      "title": "Eclampsia (StatPearls)",
+      "source": "NCBI Bookshelf",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK554392/"
+    },
+    {
+      "title": "Hypertension in pregnancy: diagnosis and management (NICE NG133)",
+      "source": "NICE / NCBI Bookshelf",
+      "year": 2019,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK546004/"
+    },
+    {
+      "title": "WHO recommendations on drug treatment for non-severe hypertension in pregnancy",
+      "source": "World Health Organization",
+      "year": 2020,
+      "url": "https://www.who.int/publications/i/item/9789240008793"
+    },
+    {
+      "title": "Effectiveness of nifedipine, labetalol, and hydralazine as emergency antihypertension in severe preeclampsia: a randomized control trial",
+      "source": "PMC",
+      "year": 2023,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10238817/"
+    },
+    {
+      "title": "Hypertension and Pregnancy Treatment & Management",
+      "source": "Medscape eMedicine",
+      "url": "https://emedicine.medscape.com/article/261435-treatment"
+    },
+    {
+      "title": "The hypertensive disorders of pregnancy: ISSHP classification, diagnosis & management recommendations for international practice",
+      "source": "Pregnancy Hypertension (ISSHP)",
+      "year": 2022
+    },
+    {
+      "title": "WHO recommendations for prevention and treatment of pre-eclampsia and eclampsia",
+      "source": "World Health Organization",
+      "year": 2011
+    }
+  ]
+}

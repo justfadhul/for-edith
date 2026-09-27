@@ -1,0 +1,277 @@
+{
+  "slug": "obstructed-labour-malpresentation",
+  "flashcards": [
+    { "id": "ol-f01", "front": "Define obstructed labour.", "back": "Failure of descent of the presenting part **despite adequate uterine contractions**, because of a mechanical block (disproportion between the fetus and the birth canal)." },
+    { "id": "ol-f02", "front": "List the clinical signs of obstructed labour (maternal and fetal).", "back": "**Maternal**: exhaustion, dehydration, tachycardia, fever, **Bandl's ring**, tender lower segment, distended bladder, **haematuria**, oedematous vulva and cervix.\n\n**Fetal**: head 3/5 or more palpable, **moulding 3+**, big caput, fetal distress or death." },
+    { "id": "ol-f03", "front": "Grade moulding 1+, 2+ and 3+.", "back": "1+ = bones touching. 2+ = overlapping but **reducible**. 3+ = overlapping and **not reducible** (suggests disproportion)." },
+    { "id": "ol-f04", "front": "What is Bandl's ring and why does it matter?", "back": "A **pathological retraction ring**: the rising junction between the thick, retracted upper segment and the over-stretched thin lower segment. It signals **imminent uterine rupture**, so go to theatre now." },
+    { "id": "ol-f05", "front": "The six standards of care for obstructed labour (Mulago audit)?", "back": "1. IV fluids\n2. IV antibiotics\n3. Monitoring of maternal vital signs\n4. Bladder catheterisation\n5. Blood grouping and cross-matching\n6. Delivery within 2 hours of diagnosis" },
+    { "id": "ol-f06", "front": "Why is oxytocin contraindicated in obstructed labour?", "back": "Stronger contractions against a fixed block further thin the lower segment, which leads to **uterine rupture**, especially in multiparas and scarred uteri." },
+    { "id": "ol-f07", "front": "How long should the bladder catheter stay after prolonged or obstructed labour?", "back": "**7–14 days** (many fistula units prefer 14 days), with plenty of oral fluids. The aim is to prevent a fresh VVF, or help one heal." },
+    { "id": "ol-f08", "front": "Presenting diameters: OA vertex, OP (deflexed) vertex, brow, face.", "back": "OA vertex: suboccipitobregmatic **9.5 cm**. OP: occipitofrontal **11.5 cm**. **Brow: mentovertical 13.5 cm** (undeliverable at term). Face: submentobregmatic **9.5 cm**." },
+    { "id": "ol-f09", "front": "Mentoanterior vs mentoposterior face: management?", "back": "**Mentoanterior**: can deliver vaginally (by flexion). No ventouse. **Mentoposterior** (persistent): cannot deliver at term, so **CS**." },
+    { "id": "ol-f10", "front": "Types of breech presentation?", "back": "**Frank** (extended: hips flexed, knees extended; the commonest type). **Complete** (flexed: hips and knees flexed). **Footling/incomplete** (a foot below the buttocks; highest risk of cord prolapse)." },
+    { "id": "ol-f11", "front": "When is ECV offered (RCOG), and how successful is it?", "back": "From **36+0 weeks in nulliparous** and **37+0 weeks in multiparous** women. It succeeds in about **50%** (higher in multiparas). Terbutaline tocolysis improves success. Give anti-D if Rh-negative." },
+    { "id": "ol-f12", "front": "Absolute contraindications to ECV?", "back": "CS indicated anyway (e.g. praevia), APH within 7 days, abnormal CTG, major uterine anomaly, ruptured membranes, multiple pregnancy (except the second twin)." },
+    { "id": "ol-f13", "front": "Lovset's manoeuvre: what for and how?", "back": "Delivering **extended arms** in breech. Hold the pelvis, keep the back anterior, rotate 180 degrees so the posterior shoulder comes anterior below the symphysis, and sweep that arm down. Then rotate 180 degrees back for the other arm." },
+    { "id": "ol-f14", "front": "Mauriceau–Smellie–Veit manoeuvre?", "back": "Delivers the **after-coming head** of a breech by **flexion**. The baby lies on your forearm, with fingers on the malar bones (or in the mouth) to flex the head. The other hand pushes the occiput up and pulls on the shoulders. An assistant gives suprapubic pressure." },
+    { "id": "ol-f15", "front": "Cord prolapse: how do you relieve compression while awaiting CS?", "back": "Manually elevate the presenting part, use the knee–chest or exaggerated Sims position, **fill the bladder with 500–750 mL saline** and clamp (empty it before opening the uterus), and give **terbutaline 0.25 mg SC**. Don't handle the cord." },
+    { "id": "ol-f16", "front": "HELPERR?", "back": "**H**elp, **E**valuate for episiotomy, **L**egs (McRoberts), **P**ressure (suprapubic), **E**nter (Rubin II, Woods screw), **R**emove the posterior arm, **R**oll (all-fours)." },
+    { "id": "ol-f17", "front": "How does McRoberts work?", "back": "Hyperflexing the thighs flattens the lumbosacral angle and rotates the symphysis cephalad, increasing the effective AP diameter of the pelvic outlet. It alone resolves most shoulder dystocias." },
+    { "id": "ol-f18", "front": "Criteria for craniotomy in obstructed labour?", "back": "**Dead fetus**, cephalic, cervix fully dilated (7 cm or more in expert hands), head **3/5 or less above the brim**, **no signs of rupture**, and an experienced operator. Explore the tract afterwards and catheterise." },
+    { "id": "ol-f19", "front": "Transverse lie in labour with a live fetus: management?", "back": "**Caesarean section.** It may need a vertical or classical uterine incision if the lower segment is poorly formed or the back is inferior. Never pull a prolapsed arm. Internal podalic version is only for the second twin." },
+    { "id": "ol-f20", "front": "Obstructed labour injury complex: components?", "back": "VVF and/or RVF, vaginal stenosis and scarring, foot drop (nerve injury), pubic bone damage, secondary amenorrhoea or infertility, and social isolation." }
+  ],
+  "mcqs": [
+    {
+      "id": "ol-q01",
+      "stem": "A 17-year-old primigravida is referred from an HC III after 26 hours of labour. She is exhausted, pulse 124/min, temperature 38.4 °C. The fetal head is 3/5 palpable, the cervix is 7 cm and oedematous, with moulding 3+ and caput 3+. The catheter drains blood-stained urine. FHR 168 bpm. Which is the MOST appropriate plan?",
+      "options": [
+        "Start oxytocin augmentation and reassess in 2 hours",
+        "Perform artificial rupture of membranes and allow 4 more hours",
+        "Resuscitate with IV fluids, give IV antibiotics, keep the catheter, cross-match and perform emergency CS",
+        "Apply a ventouse to expedite delivery",
+        "Refer to the national referral hospital for a specialist opinion"
+      ],
+      "answer": 2,
+      "explanation": "This is **obstructed labour** (moulding 3+, caput, a high head, an oedematous cervix, haematuria) with chorioamnionitis and fetal distress. Management is resuscitation, catheter, antibiotics, cross-match and **CS within 2 hours**. **A** Oxytocin against obstruction risks rupture. **B** She has been in labour for 26 hours; waiting worsens rupture and fistula risk. **D** Ventouse needs full dilatation and an engaged head, so it is contraindicated here. **E** A further referral adds delay; an HC IV or hospital with theatre should operate."
+    },
+    {
+      "id": "ol-q02",
+      "stem": "A para 6 has been in labour at home for 18 hours. She suddenly felt a tearing pain and the contractions stopped. She is pale with BP 80/50 and pulse 130. Fetal parts are easily palpable under the abdominal wall, and no fetal heart is heard. What is the MOST likely diagnosis?",
+      "options": [
+        "Uterine rupture",
+        "Placental abruption",
+        "Uterine inertia from exhaustion",
+        "Placenta praevia",
+        "Amniotic fluid embolism"
+      ],
+      "answer": 0,
+      "explanation": "Sudden pain, then **cessation of contractions**, shock and **fetal parts under the skin** in a grand multipara after long labour is classic **uterine rupture**. **B** Abruption gives a hard, woody, tender uterus with the fetus inside, not easily palpable parts. **C** Inertia does not cause shock or palpable fetal parts. **D** Praevia gives painless bleeding, usually before labour. **E** Amniotic fluid embolism presents with sudden dyspnoea, collapse and DIC, without palpable fetal parts."
+    },
+    {
+      "id": "ol-q03",
+      "stem": "A primigravida at 40 weeks has been in active labour with the cervix at 6 cm for 4 hours. She has 1 contraction in 10 minutes lasting 20 seconds. The head is 2/5 palpable, the position is LOA, moulding is 1+ and there is no caput. Membranes ruptured spontaneously with clear liquor. FHR is normal. What is the BEST next step?",
+      "options": [
+        "Emergency caesarean section for obstructed labour",
+        "Give IV antibiotics and deliver within 2 hours",
+        "Symphysiotomy",
+        "Start oxytocin augmentation with close monitoring",
+        "Discharge and review tomorrow"
+      ],
+      "answer": 3,
+      "explanation": "This is **inefficient uterine action** (weak, infrequent contractions) in a primigravida, **without signs of obstruction** (moulding 1+, no caput, the head descending). Oxytocin augmentation with fetal monitoring is appropriate. **A** There is no obstruction, and CS is premature. **B** Antibiotics are not indicated for clear liquor with a short rupture duration and no infection. **C** Symphysiotomy is for mild CPD with obstruction when CS is unavailable. **E** She is in active labour and needs care now."
+    },
+    {
+      "id": "ol-q04",
+      "stem": "At 7 cm, VE in a multipara reveals the anterior fontanelle, the supraorbital ridges and the root of the nose. The head is 4/5 palpable despite good contractions for 3 hours. What is the MOST appropriate management?",
+      "options": [
+        "Allow labour to continue, expecting spontaneous delivery",
+        "Caesarean section",
+        "Ventouse delivery at full dilatation",
+        "Manual rotation to occipito-anterior",
+        "Oxytocin augmentation"
+      ],
+      "answer": 1,
+      "explanation": "This is a **brow presentation** (mentovertical 13.5 cm) that persists with good contractions and no descent, so it will not deliver vaginally at term. **CS**. **A** A persistent brow obstructs. **C** Instruments are contraindicated on a brow. **D** Manual rotation is for OP or OT malposition, not brow. **E** Oxytocin in an undeliverable presentation risks rupture."
+    },
+    {
+      "id": "ol-q05",
+      "stem": "Shortly after spontaneous rupture of membranes in a woman at 38 weeks with a footling breech, the midwife sees a loop of pulsating cord at the introitus. The cervix is 4 cm. The theatre is ready in 20 minutes. Which action is MOST appropriate while awaiting CS?",
+      "options": [
+        "Push the cord back into the uterus as high as possible",
+        "Apply gentle traction to the legs to expedite delivery",
+        "Ask the mother to push with the next contraction",
+        "Start an oxytocin infusion to speed up dilatation",
+        "Elevate the presenting part manually and place her in the knee–chest position, avoiding handling the cord"
+      ],
+      "answer": 4,
+      "explanation": "Relieve cord compression by **elevating the presenting part**, using the **knee–chest** or exaggerated Sims position, filling the bladder if there is a delay, and giving terbutaline if needed, then a category 1 CS. **A** Handling or manipulating the cord causes vasospasm; only gently replace a cord that is outside the vagina. **B** Breech extraction at 4 cm risks head entrapment. **C** Pushing is useless at 4 cm and compresses the cord. **D** Oxytocin increases contractions and cord compression."
+    },
+    {
+      "id": "ol-q06",
+      "stem": "During delivery of a 4.2 kg baby, the head delivers and then retracts against the perineum. Gentle traction fails. Help has been called. What is the NEXT manoeuvre?",
+      "options": [
+        "Fundal pressure",
+        "Zavanelli manoeuvre",
+        "McRoberts manoeuvre with suprapubic pressure",
+        "Deliberate fracture of the clavicle",
+        "Strong lateral traction on the head"
+      ],
+      "answer": 2,
+      "explanation": "In shoulder dystocia, after calling for help the first-line measures are **McRoberts plus suprapubic pressure**, which resolve most cases. **A** Fundal pressure worsens impaction and risks rupture and brachial plexus injury. **B** and **D** are last-resort salvage manoeuvres. **E** Excessive or lateral traction causes Erb's palsy."
+    },
+    {
+      "id": "ol-q07",
+      "stem": "A 25-year-old nulliparous woman at 36+2 weeks has an uncomplicated singleton frank breech confirmed on ultrasound. The placenta is fundal, liquor is normal and the CTG is reactive. She wishes to avoid CS. What should you offer?",
+      "options": [
+        "Elective CS at 37 weeks",
+        "External cephalic version now, in a facility with theatre access",
+        "Wait for spontaneous version until 41 weeks",
+        "Induction of labour at 37 weeks for vaginal breech birth",
+        "Internal podalic version in labour"
+      ],
+      "answer": 1,
+      "explanation": "RCOG recommends offering **ECV from 36+0 weeks in nulliparous women**. It is about 50% successful and reduces CS. **A** An elective CS without offering ECV denies her the option. **C** Spontaneous version becomes unlikely after 36 weeks in nulliparas, and waiting reduces ECV success. **D** Induction for breech is not first line. **E** Internal podalic version is only for a second twin."
+    },
+    {
+      "id": "ol-q08",
+      "stem": "A multipara is delivering a frank breech at an HC IV. The buttocks and legs have delivered spontaneously and the umbilicus is visible. The arms are not seen. What is the BEST next step?",
+      "options": [
+        "Pull on the legs to deliver the trunk quickly",
+        "Apply fundal pressure",
+        "Rotate the baby to sacrum posterior",
+        "Hold the bony pelvis with the back anterior and perform Lovset's manoeuvre",
+        "Perform an emergency CS"
+      ],
+      "answer": 3,
+      "explanation": "Extended arms are delivered by **Lovset's manoeuvre**: hold the **pelvis** (not the abdomen), keep the back anterior, and rotate so the posterior shoulder comes anterior below the symphysis. **A** Traction causes further arm extension and head deflexion. **B** Fundal pressure is not the technique and may extend the arms. **C** Sacrum posterior risks the chin catching on the symphysis. **E** The breech is half delivered, and CS is no longer possible or appropriate."
+    },
+    {
+      "id": "ol-q09",
+      "stem": "A primigravida at full dilatation has been pushing for 1.5 hours. VE: head at +1 station, 0/5 palpable, sagittal suture transverse, moulding 1+, no caput. Contractions are good and the FHR is normal. What is the MOST appropriate management of this deep transverse arrest?",
+      "options": [
+        "Rotational vacuum delivery (or manual rotation then vacuum) by a skilled operator",
+        "Immediate CS",
+        "Symphysiotomy",
+        "Oxytocin and continued pushing for 3 more hours",
+        "Craniotomy"
+      ],
+      "answer": 0,
+      "explanation": "There are **no features of obstruction** (the head is engaged, moulding 1+, no caput). In deep transverse arrest, **rotational vacuum or manual rotation** by a skilled operator is appropriate. **B** CS is reserved for obstruction or a failed instrumental attempt. **C** Symphysiotomy is obsolete where CS is available and not indicated here. **D** A prolonged second stage risks fistula and fetal hypoxia. **E** Craniotomy is only for a dead fetus."
+    },
+    {
+      "id": "ol-q10",
+      "stem": "Which feature BEST distinguishes a face presentation from a breech on vaginal examination?",
+      "options": [
+        "The presence of meconium on the glove",
+        "A soft presenting part",
+        "Presence of an orifice",
+        "A high presenting part",
+        "The mouth and malar prominences form a triangle, whereas the anus and ischial tuberosities lie in a straight line"
+      ],
+      "answer": 4,
+      "explanation": "The **triangle vs straight line** rule is the classic discriminator. **A** Meconium can be present in both (though it is fresher in breech). **B** Both are soft and oedematous. **C** Both have an orifice (mouth vs anus). **D** Height does not discriminate."
+    },
+    {
+      "id": "ol-q11",
+      "stem": "A woman delivered by CS after 30 hours of obstructed labour. The fetus was stillborn. On day 2 her catheter bag contains light haematuria. What is the MOST important measure to prevent an obstetric fistula?",
+      "options": [
+        "Remove the catheter on day 2 and encourage voiding",
+        "Start oral ciprofloxacin",
+        "Keep the indwelling catheter for 7–14 days with high oral fluid intake",
+        "Perform immediate fistula repair",
+        "Pack the vagina with gauze"
+      ],
+      "answer": 2,
+      "explanation": "Continuous bladder drainage for **7–14 days** after prolonged obstructed labour lets the ischaemic bladder base heal. It prevents, or can close, a small fresh fistula. **A** Early removal loses this protection. **B** Antibiotics do not prevent pressure necrosis. **D** There is no fistula yet, and immediate repair of necrotic tissue fails. **E** Packing does not help and may add injury."
+    },
+    {
+      "id": "ol-q12",
+      "stem": "A para 5 at 39 weeks presents in early labour. The uterus is broad, no fetal pole is felt in the pelvis and the head is in the right flank. Membranes are intact, the cervix is 3 cm and the FHR is normal. What is the BEST management?",
+      "options": [
+        "Artificial rupture of membranes to stabilise the lie",
+        "Caesarean section",
+        "Allow labour and deliver by breech extraction",
+        "Oxytocin augmentation",
+        "Internal podalic version and extraction"
+      ],
+      "answer": 1,
+      "explanation": "A **transverse lie in labour** with a live fetus needs **CS**. (ECV could be tried only before labour or very early with intact membranes by experienced staff, and it is not among the options.) **A** ARM with a transverse lie risks **cord or arm prolapse**. **C** Breech extraction presupposes a breech. **D** Oxytocin leads to neglected shoulder and rupture. **E** Internal podalic version is reserved for a second twin because of the rupture risk."
+    },
+    {
+      "id": "ol-q13",
+      "stem": "In an assisted breech delivery, the nape of the neck is visible. The attendant lets the baby hang, then grasps the ankles and swings the body in an arc over the mother's abdomen while the head delivers slowly. Which manoeuvre is this?",
+      "options": [
+        "Lovset",
+        "Pinard",
+        "Mauriceau–Smellie–Veit",
+        "Burns–Marshall",
+        "Woods screw"
+      ],
+      "answer": 3,
+      "explanation": "**Burns–Marshall** means hanging the baby, then swinging it up by the feet to deliver the after-coming head. **A** Lovset is for the arms. **B** Pinard is for extended legs. **C** MSV uses fingers on the malar bones to flex the head, with the baby on the forearm. **E** Woods screw is a shoulder dystocia manoeuvre."
+    },
+    {
+      "id": "ol-q14",
+      "stem": "At an HC IV in rural Uganda, a cord prolapse is diagnosed at 5 cm. The theatre team will take 45 minutes to arrive. The FHR is 100 bpm. Besides manual elevation, which measure is MOST useful?",
+      "options": [
+        "Fill the bladder with 500–750 mL of normal saline via a Foley catheter and give terbutaline 0.25 mg SC",
+        "Give oxytocin 10 IU IM",
+        "Give IV magnesium sulphate 4 g",
+        "Deliver by vacuum extraction",
+        "Encourage maternal pushing"
+      ],
+      "answer": 0,
+      "explanation": "When delivery will be delayed, **bladder filling** (500–750 mL) keeps the presenting part off the cord, and **terbutaline** reduces contractions. Remember to empty the bladder at CS. **B** Oxytocin worsens compression. **C** MgSO₄ is not the recommended tocolytic here. **D** A vacuum is contraindicated before full dilatation. **E** Pushing at 5 cm is futile."
+    },
+    {
+      "id": "ol-q15",
+      "stem": "A student asks why OP position causes long, painful labour. Which statement is MOST accurate?",
+      "options": [
+        "The fetal head is always flexed, presenting the smallest diameter",
+        "The occiput must rotate only 45 degrees to reach the anterior position",
+        "The head is often deflexed, presenting the occipitofrontal diameter (11.5 cm), and must rotate 135 degrees (the long arc)",
+        "OP position is always associated with a contracted pelvis",
+        "OP position prevents cervical dilatation completely"
+      ],
+      "answer": 2,
+      "explanation": "The **deflexed OP head** presents the **occipitofrontal 11.5 cm** diameter and must travel the **long arc rotation of 135 degrees**, so labour is slow and backache is typical. **A** OP heads tend to be deflexed. **B** 45 degrees is the rotation from OA or oblique anterior positions. **D** OP is commonly associated with android or anthropoid pelvis shapes but is not always due to contraction. **E** The cervix dilates, just more slowly."
+    }
+  ],
+  "cases": [
+    {
+      "id": "ol-c01",
+      "title": "The adolescent referred after 30 hours",
+      "presentation": "An 18-year-old primigravida is brought to Mengo labour suite on a boda boda from a village HC III, where she laboured for 24 hours after 6 hours at home with a TBA. She has had no ANC scan. She is groaning, febrile and says she has not passed urine since morning.",
+      "steps": [
+        { "prompt": "What focused history do you take, and why?", "answer": "- **Duration of labour** and **time of rupture of membranes**: fistula and infection risk.\n- **Any herbs or injections given** (oxytocics): rupture risk.\n- **Fetal movements**.\n- **Urine output and haematuria**.\n- **Sudden pain or cessation of contractions** (rupture).\n- **ANC**: HIV status, Hb, height, gestation.\n- **Allergies**.\n- **Previous uterine surgery** (none in a primigravida, but always ask)." },
+        { "prompt": "Examination: T 38.6 °C, P 126, BP 100/60, dry tongue. Head 3/5 palpable, a groove 3 fingerbreadths below the umbilicus, a tender lower segment, FHR 172. VE: cervix 8 cm, oedematous anterior lip, caput 3+, moulding 3+, foul liquor. What is your diagnosis?", "answer": "**Obstructed labour** with **Bandl's ring (impending rupture)**, **chorioamnionitis**, **dehydration** and **fetal distress**. Likely cause: CPD in an adolescent pelvis, possibly with a deflexed malposition." },
+        { "prompt": "List your immediate management in order.", "answer": "1. Call the senior, anaesthetist and theatre. **No oxytocin.**\n2. Left lateral position and oxygen.\n3. Two large-bore IV lines; bloods for Hb, **group and cross-match 2 units**, U&E and culture.\n4. **Ringer's lactate 1 L fast**, then titrate (at least 1.5 L).\n5. **Foley catheter**: note haematuria and volume.\n6. **IV antibiotics**: ampicillin 2 g plus gentamicin 5 mg/kg plus metronidazole 500 mg (or ceftriaxone plus metronidazole per protocol).\n7. Paracetamol for fever.\n8. **Emergency CS within 2 hours**, with a neonatal team present." },
+        { "prompt": "At CS the head is deeply impacted. How do you deliver it safely?", "answer": "- Ask an assistant to **push the head up from below** (hand in the vagina) while you flex the head.\n- Alternatively, deliver by the **breech first (reverse breech extraction)**.\n- Extend the incision (J or inverted T) rather than tear the lower segment laterally.\n- Anticipate **PPH** (atony, lateral extensions) and have oxytocin and tranexamic acid ready." },
+        { "prompt": "What postoperative orders prevent the major complications?", "answer": "- **Catheter for 14 days** plus oral fluids of at least 3–4 L/day (fistula prevention).\n- Continue **IV antibiotics until 48 hours afebrile**, then oral to complete 5–7 days.\n- Monitor vitals and urine output.\n- Watch for PPH, ileus, wound sepsis and **foot drop**.\n- Thromboprophylaxis.\n- Neonatal sepsis screen for the baby.\n- Counsel on **elective CS in the next pregnancy** and on family planning." }
+      ],
+      "takeaway": "Recognise obstruction by its signs (moulding 3+, caput, Bandl's ring, haematuria), not by dilatation alone. Resuscitate, catheterise, give antibiotics and deliver within 2 hours. Keep the catheter to prevent fistula."
+    },
+    {
+      "id": "ol-c02",
+      "title": "Breech in advanced labour at an HC IV",
+      "presentation": "A 28-year-old para 3 (three previous normal deliveries, largest baby 3.4 kg) arrives at an HC IV at 39 weeks, contracting strongly. The midwife finds a breech at 9 cm with membranes just ruptured and clear liquor. The medical officer is in theatre with another case, and referral would take 2 hours.",
+      "steps": [
+        { "prompt": "What do you assess to decide whether vaginal breech delivery is reasonable?", "answer": "- **Type of breech** (frank or complete is favourable; footling is not).\n- **Exclude cord prolapse** on VE.\n- **EFW** (roughly 2.0–3.8 kg), and whether the head is flexed (clinically or on ultrasound).\n- **Pelvic adequacy**: she has proven with 3.4 kg babies.\n- **Progress**: rapid in a multipara.\n- **FHR**.\n- Whether **skilled help** and a **neonatal resuscitation** set are available.\n\nAt 9 cm in a multipara, transfer is unsafe: she may deliver on the road." },
+        { "prompt": "Describe your preparation.", "answer": "- Call the most experienced person available.\n- Prepare the **resuscitation corner** (bag-mask, warm towels).\n- IV line and an empty bladder.\n- Lithotomy position at the edge of the bed.\n- Oxytocin 10 IU drawn up for the third stage.\n- Episiotomy set and local anaesthetic.\n- Forceps if available.\n- Explain to the mother that she must push when asked." },
+        { "prompt": "The breech delivers to the umbilicus. The arms are extended. What do you do?", "answer": "**Hands off until the umbilicus**, then gently loop the cord down. Hold the **bony pelvis** with thumbs on the sacrum and the back anterior. Perform **Lovset's manoeuvre**: rotate 180 degrees to bring the posterior arm anterior below the symphysis and sweep it down across the face, then rotate back 180 degrees for the other arm." },
+        { "prompt": "How do you deliver the after-coming head?", "answer": "Let the baby hang until the **nape of the neck (hairline)** is visible (**Burns–Marshall**). Then use **Mauriceau–Smellie–Veit**: the baby lies on your forearm, with fingers on the malar bones to flex the head, the other hand on the occiput and shoulders, and **an assistant giving suprapubic pressure**. Deliver **slowly** to avoid sudden decompression. Alternatively, swing the body up by the feet (Burns–Marshall)." },
+        { "prompt": "The baby is floppy at birth. After resuscitation, what do you check in mother and baby?", "answer": "- **Baby**: Apgar, HBB (dry, stimulate, ventilate within the Golden Minute), injuries (humerus or clavicle fracture, brachial plexus palsy, abdominal organ injury, soft-tissue bruising), and hips (breech is a risk factor for DDH, so arrange hip ultrasound or examination).\n- **Mother**: active management of the third stage, tears, PPH.\n- **Documentation**: times and manoeuvres." }
+      ],
+      "takeaway": "Every clinician in Uganda must be able to conduct an assisted breech: hands off until the umbilicus, back anterior, hold the pelvis, Lovset for the arms, MSV or Burns–Marshall for a slow, flexed head."
+    },
+    {
+      "id": "ol-c03",
+      "title": "The head is out but the body won't come",
+      "presentation": "A 34-year-old para 2 with gestational diabetes and an estimated fetal weight of 4.3 kg is delivering at Mengo. After a second stage of 90 minutes, the head delivers slowly and then retracts tightly against the perineum. Routine gentle traction fails.",
+      "steps": [
+        { "prompt": "What is happening, and what must you NOT do?", "answer": "**Shoulder dystocia**: the anterior shoulder is impacted behind the symphysis. **Do not** apply fundal pressure, pull hard, pull laterally, or let the mother keep pushing. **Note the time** of head delivery." },
+        { "prompt": "Outline your first-line actions.", "answer": "**HELPERR**:\n1. **Call for help** (midwives, obstetrician, paediatrician). Stop pushing.\n2. **Evaluate for episiotomy** if you need room for your hand.\n3. **McRoberts**: lay her flat and hyperflex her thighs onto her abdomen (two assistants).\n4. **Suprapubic pressure** from the side of the fetal back, pushing the anterior shoulder towards the fetal chest (continuous, then rocking), with gentle axial traction." },
+        { "prompt": "These fail. What next?", "answer": "**Internal manoeuvres**:\n- Rubin II: press behind the anterior shoulder towards the chest.\n- Woods' screw: press on the front of the posterior shoulder.\n- Reverse Woods.\n\nOr **deliver the posterior arm**: flex it at the elbow and sweep it across the chest. If these fail, move her **onto all fours** and repeat. Salvage options (PAST, clavicle fracture, Zavanelli) are last resorts." },
+        { "prompt": "The baby is delivered by posterior arm extraction. The right arm hangs limp and internally rotated, with the wrist flexed. What is it and what is the prognosis?", "answer": "**Erb's palsy** (C5–C6 brachial plexus injury): the 'waiter's tip' posture. Most recover within weeks to months. Refer for physiotherapy and review. Also check for a fractured clavicle or humerus and for HIE." },
+        { "prompt": "What maternal complications and documentation follow?", "answer": "- **PPH** (atony, trauma).\n- **Third- or fourth-degree tears**: examine carefully.\n- Bladder injury.\n- Debrief the family.\n\nDocument: time of head delivery, time of body delivery, manoeuvres in order and who performed them, which shoulder was anterior, cord gases, and the neonatal condition. Plan counselling for the next pregnancy (recurrence risk; consider elective CS)." }
+      ],
+      "takeaway": "Shoulder dystocia is a drill: help, McRoberts plus suprapubic pressure, then internal rotation or the posterior arm, then all-fours. Never use fundal pressure. Document every step with times."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf" },
+    { "title": "Essential Maternal and Newborn Clinical Care Guidelines for Uganda", "source": "Ministry of Health Uganda", "year": 2021, "url": "https://library.health.go.ug/sites/default/files/resources/Essential%20Maternal%20and%20Newborn%20Clinical%20Care%20Guidelines%20for%20Uganda%20_October%202021.pdf" },
+    { "title": "Improving the quality of obstetric care for women with obstructed labour in the national referral hospital in Uganda: lessons learnt from criteria based audit", "source": "BMC Pregnancy and Childbirth", "year": 2016, "url": "https://link.springer.com/article/10.1186/s12884-016-0949-1" },
+    { "title": "Managing complications in pregnancy and childbirth: a guide for midwives and doctors, 2nd edition", "source": "World Health Organization", "year": 2017, "url": "https://www.who.int/publications/i/item/9789241565493" },
+    { "title": "Essential obstetric and newborn care: 7.2 Obstructed labour", "source": "Médecins Sans Frontières Medical Guidelines", "url": "https://medicalguidelines.msf.org/en/viewport/ONC/english/7-2-obstructed-labour-51417478.html" },
+    { "title": "Risk factors for obstructed labour in Eastern Uganda: a case control study", "source": "PLoS One / PMC", "year": 2020, "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7010384/" },
+    { "title": "Learning from maternal deaths due to uterine rupture: review of cases from peri-urban Uganda", "source": "PMC", "year": 2022, "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9563662/" },
+    { "title": "Management of Breech Presentation (Green-top Guideline No. 20b)", "source": "RCOG / BJOG", "year": 2017, "url": "https://obgyn.onlinelibrary.wiley.com/doi/10.1111/1471-0528.14465" },
+    { "title": "External Cephalic Version and Reducing the Incidence of Term Breech Presentation (Green-top Guideline No. 20a)", "source": "RCOG / BJOG", "year": 2017, "url": "https://obgyn.onlinelibrary.wiley.com/doi/10.1111/1471-0528.14466" },
+    { "title": "Umbilical Cord Prolapse (Green-top Guideline No. 50)", "source": "RCOG", "year": 2014, "url": "https://www.rcog.org.uk/media/3wykswng/gtg-50-umbilicalcordprolapse-2014.pdf" },
+    { "title": "Shoulder Dystocia (Green-top Guideline No. 42)", "source": "RCOG", "url": "https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/shoulder-dystocia-green-top-guideline-no-42/" },
+    { "title": "Education material for teachers of midwifery: Module 3, Managing prolonged and obstructed labour", "source": "World Health Organization", "url": "https://cdn.who.int/media/docs/default-source/mca-documents/maternal-nb/midwifery/midwifery-education-module_3_managing-prolonged-and-obstructed-labour.pdf" }
+  ]
+}

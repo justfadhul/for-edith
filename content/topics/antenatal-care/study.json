@@ -1,0 +1,280 @@
+{
+  "slug": "antenatal-care",
+  "flashcards": [
+    { "id": "anc-f01", "front": "How many ANC contacts does WHO (2016) recommend, and at what gestations?", "back": "**At least 8**: first contact before **12 weeks**, then **20, 26, 30, 34, 36, 38 and 40 weeks** (1 in the first trimester, 2 in the second, 5 in the third). Uganda adopted this in 2018." },
+    { "id": "anc-f02", "front": "IPTp-SP: dose, start, interval and minimum number of doses", "back": "**3 tablets of SP** (1500 mg sulfadoxine / 75 mg pyrimethamine), **directly observed**, from **13 weeks**, at each contact **at least 4 weeks apart**, until delivery. **At least 3 doses.**" },
+    { "id": "anc-f03", "front": "Three contraindications to IPTp-SP", "back": "1. **First trimester** (folate antagonist)\n2. **HIV-positive woman on cotrimoxazole** (already protected; additive sulfa toxicity)\n3. **Sulfonamide allergy** (risk of SJS/TEN)" },
+    { "id": "anc-f04", "front": "Routine iron–folic acid in pregnancy (WHO)", "back": "**30–60 mg elemental iron + 400 µg folic acid daily** throughout pregnancy. Ferrous sulphate 200 mg ≈ 60 mg elemental iron. Prefer 60 mg where anaemia prevalence is 40% or more." },
+    { "id": "anc-f05", "front": "Definition and grading of anaemia in pregnancy (WHO)", "back": "Anaemia is **Hb below 11 g/dL**. Mild 10–10.9, moderate 7–9.9, **severe below 7 g/dL**." },
+    { "id": "anc-f06", "front": "Td vaccination schedule for a woman with no prior doses", "back": "Td1 at first contact, **Td2 at least 4 weeks later** (and at least 2 weeks before delivery), Td3 6 months after Td2, Td4 1 year later, Td5 1 year later. **0.5 mL IM.** 5 doses give lifelong protection." },
+    { "id": "anc-f07", "front": "Deworming in pregnancy", "back": "**Mebendazole 500 mg** single dose (or albendazole 400 mg single dose) **after the first trimester**." },
+    { "id": "anc-f08", "front": "Booking investigations (list them)", "back": "**Hb/FBC, blood group and Rh, HIV, syphilis, HBsAg, urinalysis**, plus an **ultrasound before 24 weeks**. Malaria test if febrile; OGTT at 24–28 weeks if risk factors." },
+    { "id": "anc-f09", "front": "What do you do at EVERY ANC contact?", "back": "Ask about **danger signs** and fetal movements; measure **BP**; **urine dipstick** for protein; weight; pallor/oedema; **fundal height/SFH**; lie and presentation; FHR; give due drugs (IPTp, Td, FeFo); counsel; update the **birth plan**; classify risk." },
+    { "id": "anc-f10", "front": "SFH rule of thumb and when to act", "back": "From 24 weeks, **SFH in cm ≈ gestational age in weeks ± 2 cm**. A difference of more than 2–3 cm means an ultrasound for dates, growth and liquor." },
+    { "id": "anc-f11", "front": "Danger signs to teach every pregnant woman", "back": "Vaginal **bleeding**; **severe headache/blurred vision/fits**; **fever**; **leaking fluid**; **reduced fetal movements**; **severe abdominal pain**; swelling of the face and hands; breathlessness; labour pains before 37 weeks." },
+    { "id": "anc-f12", "front": "Who should get low-dose aspirin in pregnancy, and how?", "back": "Women at **high risk of pre-eclampsia** (previous pre-eclampsia, chronic HTN, diabetes, renal/autoimmune disease, or 2 or more moderate risks). **Aspirin 75 mg (75–150 mg) nightly**, started from **12 weeks and before 20 weeks**, until about 36 weeks or delivery." },
+    { "id": "anc-f13", "front": "WHO calcium supplementation in pregnancy", "back": "Where dietary calcium is low: **1.5–2.0 g elemental calcium daily in 3 divided doses** with meals, to reduce pre-eclampsia. Separate from iron by several hours." },
+    { "id": "anc-f14", "front": "Syphilis in pregnancy: treatment", "back": "Early (under 2 years): **benzathine penicillin G 2.4 MU IM single dose**. Late latent/unknown duration: **2.4 MU IM weekly × 3**. Treat the partner; evaluate and treat the baby." },
+    { "id": "anc-f15", "front": "HBsAg-positive pregnant woman: key actions", "back": "Assess HBV DNA if possible. If **200,000 IU/mL or more** (or HBeAg+), give **tenofovir 300 mg daily from 28 weeks**. Baby: **HepB birth dose within 24 hours** (plus HBIG where available)." },
+    { "id": "anc-f16", "front": "Newly diagnosed HIV at ANC: first steps", "back": "Post-test counselling; **start TLD the same day** (TDF 300/3TC 300/DTG 50 once daily); cotrimoxazole per criteria (so **no SP**); baseline tests; partner testing; adherence support; plan infant prophylaxis and EID." },
+    { "id": "anc-f17", "front": "The 'three delays' model", "back": "Delay 1: **deciding** to seek care. Delay 2: **reaching** care. Delay 3: **receiving** adequate care at the facility. The birth plan and danger-sign counselling target delays 1 and 2." },
+    { "id": "anc-f18", "front": "Components of a birth-preparedness plan", "back": "Place of birth; skilled attendant; birth companion; transport (day and night); money saved; blood donor; mama kit and baby items; knowing danger and labour signs; a decision-maker if the partner is away." },
+    { "id": "anc-f19", "front": "Why is SP given monthly rather than once?", "back": "Each dose clears existing (often silent, placental) parasites and gives about 4–6 weeks of **post-treatment prophylaxis**, so monthly dosing keeps the placenta protected through the second and third trimesters." },
+    { "id": "anc-f20", "front": "Malpresentation found at the 36-week contact: what now?", "back": "Confirm with **ultrasound** (also check placenta and anomalies). **Refer to hospital** for **ECV** if no contraindication, or plan **CS**. Never plan a lower-level or home delivery." }
+  ],
+  "mcqs": [
+    {
+      "id": "anc-q01",
+      "stem": "A 22-year-old primigravida attends her first ANC contact at a HC III at 16 weeks by LNMP. She is HIV-negative, well, and has no drug allergies. Which set of interventions should she receive TODAY?",
+      "options": [
+        "Iron–folic acid only; start IPTp at 20 weeks",
+        "IPTp-SP only, as the other drugs can wait until 20 weeks",
+        "Iron–folic acid, first dose of IPTp-SP (DOT), Td1, mebendazole 500 mg, LLIN, and booking tests",
+        "Iron–folic acid, Td1 and cotrimoxazole prophylaxis",
+        "Booking tests only; treatment starts once results are back"
+      ],
+      "answer": 2,
+      "explanation": "At 16 weeks she is past the first trimester, so she qualifies for **IPTp-SP (from 13 weeks)**, **deworming** (after the first trimester), **Td1**, daily **iron–folate** and an **LLIN**, alongside booking tests. ANC aims to deliver the whole package at every contact to avoid missed opportunities. A delays SP unnecessarily. B omits iron, Td and deworming. D: cotrimoxazole is for HIV-positive women and would contraindicate SP. E wastes the contact; the preventive drugs do not depend on results."
+    },
+    {
+      "id": "anc-q02",
+      "stem": "A 27-year-old G3P2 at 24 weeks, known HIV-positive on TLD and cotrimoxazole 960 mg daily, attends ANC. The midwife asks whether to give IPTp-SP. What is the correct advice?",
+      "options": [
+        "Do not give SP; cotrimoxazole already provides malaria protection and combining sulfa drugs increases toxicity",
+        "Give SP today and monthly until delivery",
+        "Give SP but stop cotrimoxazole for 1 week",
+        "Give SP only if a malaria RDT is positive",
+        "Replace cotrimoxazole with SP for the rest of the pregnancy"
+      ],
+      "answer": 0,
+      "explanation": "Uganda MoH and WHO guidance: **HIV-positive women on cotrimoxazole should not receive SP**. Cotrimoxazole (a sulfonamide–antifolate like SP) gives antimalarial protection, and the combination risks **severe cutaneous reactions and marrow toxicity**. B and C ignore this. D: a positive RDT needs **treatment** (artemether–lumefantrine), not IPTp. E: cotrimoxazole is continued for its opportunistic-infection benefits."
+    },
+    {
+      "id": "anc-q03",
+      "stem": "A 19-year-old G1 at 28 weeks has Hb 8.4 g/dL. She feels tired but has no breathlessness at rest. BP 110/70 mmHg, pulse 92 bpm, temperature 37.9°C. What is the MOST appropriate next step?",
+      "options": [
+        "Transfuse 2 units of packed cells today",
+        "Reassure her; this is physiological haemodilution",
+        "Start folic acid 5 mg daily alone",
+        "Malaria test, blood film and stool microscopy, and start therapeutic iron (about 120 mg elemental iron daily) with folic acid",
+        "Give intravenous iron immediately"
+      ],
+      "answer": 3,
+      "explanation": "Hb 8.4 g/dL is **moderate anaemia** (7–9.9). Physiological haemodilution rarely takes Hb below 10.5–11 (B is wrong). She has a low-grade fever, so **malaria must be excluded**. Look for the **cause** (film, malaria, hookworm) and start **therapeutic iron** (e.g. ferrous sulphate 200 mg twice daily ≈ 120 mg elemental iron) with folic acid. A: transfusion is for severe anaemia (below 7 g/dL near term or decompensated). C: folic acid alone does not treat iron deficiency. E: IV iron is for intolerance, non-response or late presentation."
+    },
+    {
+      "id": "anc-q04",
+      "stem": "A 30-year-old G2P1 at 34 weeks has BP 148/96 mmHg, repeated after rest as 146/94 mmHg. At her 26-week visit BP was 118/74 mmHg. She has no headache or visual symptoms. What is the most important immediate investigation at the ANC clinic?",
+      "options": [
+        "Obstetric ultrasound",
+        "Urine dipstick for protein",
+        "Random blood sugar",
+        "Malaria RDT",
+        "Serum uric acid"
+      ],
+      "answer": 1,
+      "explanation": "New hypertension after 20 weeks is gestational hypertension or **pre-eclampsia**. The key immediate bedside test that separates them is **urine protein**. Proteinuria (or organ dysfunction) makes it pre-eclampsia, which needs admission. A (growth scan) and E (uric acid) are helpful later but do not change today's triage. C and D are not relevant to the new hypertension."
+    },
+    {
+      "id": "anc-q05",
+      "stem": "At a 36-week ANC contact a 25-year-old G2P1 has a firm, round, ballotable mass at the fundus and a soft broad mass above the pelvic brim. FHR is 144 bpm above the umbilicus. What is the BEST plan?",
+      "options": [
+        "Reassure; the baby will turn spontaneously in labour",
+        "Book her for a home delivery with a traditional birth attendant",
+        "Plan vaginal breech delivery at the HC III",
+        "Induce labour today",
+        "Confirm by ultrasound and refer to hospital for ECV or planned caesarean section"
+      ],
+      "answer": 4,
+      "explanation": "The findings suggest **breech presentation** at 36 weeks. Spontaneous version becomes unlikely after 36 weeks (A). Breech needs a **hospital birth**: offer **ECV** (if no contraindication) or a **planned CS**. Ultrasound also checks placental site and anomalies. B and C are unsafe. D: there is no indication for induction."
+    },
+    {
+      "id": "anc-q06",
+      "stem": "A 26-year-old G1 at 30 weeks has a fundal height (SFH) of 25 cm. Dating was by a 10-week ultrasound. She has chronic hypertension. What is the MOST likely explanation and next step?",
+      "options": [
+        "Wrong dates; repeat LNMP history",
+        "Fetal growth restriction; arrange ultrasound for biometry, liquor and umbilical artery Doppler",
+        "Normal variation; review in 4 weeks",
+        "Polyhydramnios; check blood sugar",
+        "Twin pregnancy; refer for scan"
+      ],
+      "answer": 1,
+      "explanation": "SFH is **5 cm below** dates, and the dates are reliable (early scan). With **chronic hypertension**, placental insufficiency makes **FGR** the leading diagnosis. Arrange a **growth scan with liquor and Doppler**. A: dates were confirmed early. C: a difference of more than 3 cm is not normal variation. D and E cause a **large-for-dates** uterus."
+    },
+    {
+      "id": "anc-q07",
+      "stem": "A 23-year-old G1 at 20 weeks has a reactive rapid syphilis test and a positive confirmatory test. She has no symptoms and does not know when she was infected. She has no allergies. What is the correct treatment?",
+      "options": [
+        "Benzathine penicillin G 2.4 MU IM single dose",
+        "Amoxicillin 500 mg 8-hourly for 7 days",
+        "Ceftriaxone 250 mg IM single dose",
+        "Doxycycline 100 mg 12-hourly for 28 days",
+        "Benzathine penicillin G 2.4 MU IM weekly for 3 weeks, and treat her partner"
+      ],
+      "answer": 4,
+      "explanation": "Latent syphilis of **unknown duration** is treated as late latent: **benzathine penicillin G 2.4 MU IM weekly × 3**, and treat the partner. A is for early syphilis (under 2 years). B and C do not reliably treat syphilis. D: **doxycycline is contraindicated in pregnancy** (teeth and bone) and does not treat the fetus."
+    },
+    {
+      "id": "anc-q08",
+      "stem": "A 21-year-old woman books at 10 weeks. Which of the following is NOT appropriate at this visit?",
+      "options": [
+        "Iron–folic acid",
+        "Td vaccine",
+        "HIV, syphilis and HBsAg testing",
+        "Ultrasound to confirm dates and viability",
+        "First dose of IPTp-SP"
+      ],
+      "answer": 4,
+      "explanation": "SP is **not given in the first trimester**. Pyrimethamine is a folate antagonist, and IPTp starts from **13 weeks**. All the other options are standard at an early booking. Early booking is ideal because it allows an accurate dating scan and early folate."
+    },
+    {
+      "id": "anc-q09",
+      "stem": "A 34-year-old G4P3 at 12 weeks had severe pre-eclampsia requiring delivery at 32 weeks in her last pregnancy. BP today is 120/78 mmHg. Which preventive intervention is MOST important to start now?",
+      "options": [
+        "Low-dose aspirin 75 mg (75–150 mg) at night from now until about 36 weeks",
+        "Methyldopa 250 mg 8-hourly",
+        "Magnesium sulphate prophylaxis",
+        "Bed rest at home until 28 weeks",
+        "Salt restriction"
+      ],
+      "answer": 0,
+      "explanation": "Previous pre-eclampsia is a **high-risk factor**. **Low-dose aspirin** started **before 20 weeks** (ideally from 12) reduces recurrence by improving placentation and lowering thromboxane. Calcium is also useful if dietary intake is low. B: she is normotensive, so antihypertensives are not indicated. C: MgSO₄ is for severe pre-eclampsia or eclampsia. D and E do not prevent pre-eclampsia."
+    },
+    {
+      "id": "anc-q10",
+      "stem": "A 28-year-old G2P1 at 32 weeks attends the ANC clinic saying the baby has not moved since yesterday. What should you do FIRST?",
+      "options": [
+        "Book an ultrasound for next week",
+        "Ask her to count kicks for 12 hours at home",
+        "Auscultate the fetal heart (Doppler or Pinard) now and assess the mother's BP and urine",
+        "Give IPTp and reassure",
+        "Induce labour immediately"
+      ],
+      "answer": 2,
+      "explanation": "Reduced fetal movements are a **danger sign** that may precede stillbirth. **Check the fetal heart immediately** and assess the mother for causes (pre-eclampsia, fever, abruption). If the heart is absent, confirm IUFD by ultrasound; if abnormal, refer for monitoring. A and B delay care. D misses the problem. E is premature without assessment."
+    },
+    {
+      "id": "anc-q11",
+      "stem": "A 24-year-old HIV-negative woman at 26 weeks received her first dose of IPTp-SP 3 weeks ago at 23 weeks. She comes today for review. What is the correct action regarding SP?",
+      "options": [
+        "Give SP today because it is a scheduled visit",
+        "Give a double dose to catch up",
+        "Stop IPTp because she already had one dose",
+        "Postpone SP until at least 4 weeks after the last dose (next week or next contact)",
+        "Switch to weekly chloroquine prophylaxis"
+      ],
+      "answer": 3,
+      "explanation": "IPTp-SP doses must be **at least 4 weeks (1 month) apart**. Only 3 weeks have passed, so schedule the next dose once 4 weeks have elapsed. A breaks the interval rule. B is unsafe. C: the target is **3 or more doses**. E: chloroquine prophylaxis is not recommended because of resistance."
+    },
+    {
+      "id": "anc-q12",
+      "stem": "A 17-year-old primigravida, height 146 cm, books at 22 weeks at a HC II. All her booking tests are normal. Where should she be advised to deliver?",
+      "options": [
+        "At home with a trained TBA, because she is low-risk",
+        "At the HC II with the midwife",
+        "At a HC III, which is the nearest facility",
+        "It does not matter as long as she attends ANC",
+        "At a HC IV or hospital that can perform caesarean section"
+      ],
+      "answer": 4,
+      "explanation": "Two risk factors, **age below 18** and **height below 150 cm**, raise the risk of **cephalopelvic disproportion and obstructed labour**. She needs delivery where **CS and blood** are available (HC IV or hospital). A, B and C lack CS capacity. D is false: ANC attendance does not replace an appropriate birth plan."
+    },
+    {
+      "id": "anc-q13",
+      "stem": "A 32-year-old G3P2 at 35 weeks has Hb 6.2 g/dL, is breathless on mild exertion, and has pulse 112 bpm and bilateral basal crepitations. What is the BEST immediate management?",
+      "options": [
+        "Admit, sit her up, give oxygen, and transfuse packed red cells slowly with furosemide 20–40 mg IV; look for and treat the cause",
+        "Oral ferrous sulphate 200 mg 8-hourly and review in 2 weeks",
+        "Intravenous iron infusion as an outpatient",
+        "Emergency caesarean section to cure the anaemia",
+        "Rapid transfusion of 3 units of whole blood"
+      ],
+      "answer": 0,
+      "explanation": "This is **severe anaemia with cardiac decompensation**. She needs admission and slow transfusion of **packed cells** (less volume), with a **diuretic** to prevent pulmonary oedema, and investigation and treatment of the cause (malaria, worms, HIV, sickle cell). B and C are too slow for decompensation. D: delivery does not treat anaemia and she would tolerate PPH badly. E: rapid whole-blood transfusion risks fatal fluid overload."
+    },
+    {
+      "id": "anc-q14",
+      "stem": "A 29-year-old G2P1 at 12 weeks is O Rh-negative. Her partner is Rh-positive. She had a normal delivery 2 years ago at home and received no injections afterwards. What is the most useful next step?",
+      "options": [
+        "Give anti-D now and every month",
+        "Nothing; Rh disease only affects first pregnancies",
+        "Check for anti-D antibodies (indirect Coombs test) and plan anti-D after any sensitising event and after delivery",
+        "Terminate the pregnancy",
+        "Give IV immunoglobulin weekly"
+      ],
+      "answer": 2,
+      "explanation": "She may already be **sensitised** (no anti-D after her last delivery). Check an **antibody screen (indirect Coombs)**. If negative, give **anti-D within 72 hours** of sensitising events and after delivery of an Rh-positive baby (plus routine antenatal prophylaxis where available). If positive, refer for monitoring of fetal anaemia. B is the reverse of the truth: **later** pregnancies are at risk. A, D and E are inappropriate."
+    },
+    {
+      "id": "anc-q15",
+      "stem": "A 26-year-old G1 at 41 weeks + 1 day by a first-trimester scan attends ANC. She is well, with a cephalic presentation, FHR 136 bpm and normal BP. What is the most appropriate plan?",
+      "options": [
+        "Wait until 44 weeks for spontaneous labour",
+        "Offer induction of labour in a facility that can do caesarean section",
+        "Immediate caesarean section",
+        "Send her home and review in 2 weeks",
+        "Castor oil at home"
+      ],
+      "answer": 1,
+      "explanation": "WHO recommends **induction of labour from 41 weeks** in a low-risk pregnancy with reliable dating, because stillbirth and perinatal morbidity rise beyond this. It should be done at a facility with CS capacity. A and D expose her to post-term risks. C: there is no indication for CS. E is unsafe and unproven."
+    }
+  ],
+  "cases": [
+    {
+      "id": "anc-c01",
+      "title": "The late booker: catching up on everything",
+      "presentation": "Nakato, a 20-year-old G1P0 from Mukono, books at a HC IV at 30 weeks. She says she did not come earlier because she had no transport money and feared the HIV test. She has no complaints.",
+      "steps": [
+        { "prompt": "What history do you want, and why?", "answer": "**LNMP** and certainty (dating); **danger signs** (bleeding, headache, fever, leaking); fetal movements; **medical history** (sickle cell, hypertension, heart disease); drug and **sulfa allergy**; any previous tests or ANC elsewhere; **social**: support, partner, IPV screen, transport, money for delivery. Her age (under 20) is itself a risk factor." },
+        { "prompt": "Examination findings: BP 124/78 mmHg, mild pallor, SFH 29 cm, singleton, longitudinal lie, cephalic, 5/5 palpable, FHR 140 bpm. Urine: protein negative. What tests do you send today?", "answer": "**Hb**, **blood group and Rh**, **HIV and syphilis** (dual rapid test), **HBsAg**, urinalysis (done), and **malaria RDT** given the pallor. Request an **ultrasound** (dating is now less accurate at 30 weeks, but it confirms a singleton, placental site, liquor and growth)." },
+        { "prompt": "Results: Hb 9.6 g/dL, HIV negative, syphilis negative, HBsAg negative, RDT negative. What do you give her today?", "answer": "The **catch-up package**: **IPTp-SP 3 tablets DOT** (first dose); **Td1** 0.5 mL IM (Td2 in 4 weeks); **mebendazole 500 mg** single dose; **therapeutic iron** (ferrous sulphate 200 mg twice daily ≈ 120 mg elemental iron + folic acid 400 µg) because she has moderate anaemia; **LLIN**. Counsel on diet (beans, greens, meat, vitamin C with iron; no tea with tablets)." },
+        { "prompt": "How do you counsel her, and what is her birth plan?", "answer": "Danger signs (use teach-back). Birth plan: she is **under 20 and a primigravida**, so she should deliver at the **HC IV** (CS capable). Identify a companion, transport number, savings, blood donor and mama kit. Discuss postpartum family planning and exclusive breastfeeding. Explain why the HIV test matters and that it will be **repeated in the third trimester or labour**." },
+        { "prompt": "Plan her remaining contacts.", "answer": "Contacts at **34, 36, 38 and 40 weeks**: BP and urine every time; **IPTp doses 2 and 3** at 34 and 38 weeks (at least 4 weeks apart); Td2 at 34 weeks; **Hb recheck** at 34 weeks (expect a rise of about 1 g/dL per 2–3 weeks); HIV retest; presentation at 36 weeks; **induction if undelivered at 41 weeks**." }
+      ],
+      "takeaway": "A late booker has missed many opportunities. Deliver the whole package at the first contact (tests, IPTp, Td, deworming, iron, net), treat what you find, and schedule the remaining third-trimester contacts carefully."
+    },
+    {
+      "id": "anc-c02",
+      "title": "Routine visit, silent danger",
+      "presentation": "Apio, a 35-year-old G5P4 at 33 weeks, comes for a routine ANC contact at a HC III. She says she is fine but has 'a little headache' since morning. Her previous BP readings were normal.",
+      "steps": [
+        { "prompt": "What will you check immediately, and why?", "answer": "**BP** (repeat after rest), **urine protein**, and symptoms of severe disease: headache severity, **visual disturbance**, **epigastric/RUQ pain**, vomiting, reduced fetal movements. Also check reflexes (clonus), oedema of the face and hands, and FHR. A headache at 33 weeks is **pre-eclampsia until proven otherwise**." },
+        { "prompt": "BP 164/112 mmHg on repeat, proteinuria 3+, with brisk reflexes. What is the diagnosis and what are your immediate steps at the HC III?", "answer": "**Pre-eclampsia with severe features.** Call for help. Left lateral position; IV access; send FBC if possible; urinary catheter. **MgSO₄ loading dose: 4 g IV slowly over 5–10 minutes (20 mL of 20%) + 10 g IM (5 g of 50% in each buttock)**. Antihypertensive: **nifedipine 10 mg orally** (repeat per protocol) or **hydralazine 5 mg IV** slowly. **Refer urgently** to the HC IV or hospital with a health worker, and phone ahead." },
+        { "prompt": "What should ANC have picked up earlier, and what risk factors does she have?", "answer": "Risk factors: **age 35 or over**, grand multiparity (P4 going on 5). She did not have a high-risk factor for aspirin by herself, but BP and urine should be checked at every contact, and new symptoms should be sought. Grand multiparity also raises her risk of **PPH and malpresentation**, so she should deliver in hospital." },
+        { "prompt": "At the hospital, what definitive management follows?", "answer": "Continue **MgSO₄ 5 g IM 4-hourly** (alternate buttocks) for 24 hours after delivery or the last fit, with monitoring (RR at least 16/min, patellar reflexes present, urine at least 30 mL/h; antidote **calcium gluconate 1 g IV**). Control BP. Give **dexamethasone 6 mg IM 12-hourly × 4** for fetal lung maturity (below 34 weeks), and plan **delivery once stable** (severe pre-eclampsia at 33 weeks: deliver after stabilisation). Use active management of the third stage (oxytocin 10 IU IM), **avoiding ergometrine**." },
+        { "prompt": "What follow-up does she need after delivery?", "answer": "BP monitoring (antihypertensives weaned over days to weeks), review at 6 weeks, family planning (she is grand multiparous; offer long-acting methods or tubal ligation if she desires), and counselling that she has a higher risk of pre-eclampsia next time (**aspirin from 12 weeks**) and of future cardiovascular disease." }
+      ],
+      "takeaway": "BP and urine at every contact are non-negotiable. A 'little headache' in the third trimester is pre-eclampsia until proven otherwise; stabilise with MgSO₄ and antihypertensives before referral."
+    },
+    {
+      "id": "anc-c03",
+      "title": "New HIV diagnosis at booking",
+      "presentation": "Nabirye, a 26-year-old G2P1 at 14 weeks, books at Mengo Hospital ANC. Her dual HIV/syphilis rapid test is HIV-reactive and syphilis-non-reactive. Her first child, now 3 years old, has never been tested.",
+      "steps": [
+        { "prompt": "How do you confirm and communicate the result?", "answer": "Follow the **national HIV testing algorithm** (a confirmatory test with a second assay) before diagnosis. Give **post-test counselling** in private: explain the result, reassure her that with ART **transmission to the baby can be reduced to below 1–2%**, and address disclosure fears and IPV risk." },
+        { "prompt": "What treatment do you start and when?", "answer": "**Same-day ART**: **TLD** (tenofovir 300 mg / lamivudine 300 mg / dolutegravir 50 mg) **one tablet daily**. Start **cotrimoxazole 960 mg daily** per national criteria, which means **no IPTp-SP**. Continue iron–folate, Td1, deworming (she is past the first trimester) and an LLIN. Screen for **TB** symptoms." },
+        { "prompt": "What tests and monitoring follow?", "answer": "Baseline: HBsAg (TLD covers HBV too), creatinine if available, CD4 (advanced disease screen: CrAg if CD4 is low). **Viral load** per the eMTCT schedule (about 3 months after starting ART, and again in late pregnancy/at delivery). Adherence counselling at each visit." },
+        { "prompt": "Who else needs testing?", "answer": "**Index testing**: her **partner** (couple testing and PrEP if he is negative and she is not yet suppressed) and her **3-year-old child**. Children of positive mothers must be tested regardless of age." },
+        { "prompt": "What is the plan for delivery and the baby?", "answer": "Facility delivery. Avoid unnecessary ARM or episiotomy. The baby gets **infant ARV prophylaxis** (nevirapine ± zidovudine according to risk, per national guidelines), **DNA PCR at 6 weeks** (EID), and cotrimoxazole from 6 weeks until HIV is excluded. **Exclusive breastfeeding** for 6 months while the mother continues ART. Postpartum family planning (TLD has no important interactions with implants)." }
+      ],
+      "takeaway": "ANC is the gateway to eMTCT: confirm, counsel and start TLD the same day. Remember that cotrimoxazole replaces SP, and test the partner and existing children."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions (Section 16.1 Antenatal Care)", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf" },
+    { "title": "Essential Maternal and Newborn Clinical Care Guidelines for Uganda", "source": "Ministry of Health Uganda", "year": 2016, "url": "https://library.health.go.ug/sites/default/files/resources/Essential%20Maternal%20&%20Neonatal%20Care%20Clinical%20Guidelines%20-%202016%20fully%20edited.pdf" },
+    { "title": "Management of Malaria in Pregnancy", "source": "Ministry of Health Uganda", "url": "https://library.health.go.ug/file-download/download/public/1181" },
+    { "title": "WHO Recommendations on Antenatal Care for a Positive Pregnancy Experience: Implementation of the ANC guideline (the 2016 WHO ANC model)", "source": "WHO / NCBI Bookshelf", "year": 2016, "url": "https://www.ncbi.nlm.nih.gov/books/NBK409109/" },
+    { "title": "WHO policy brief for the implementation of intermittent preventive treatment of malaria in pregnancy using SP (IPTp-SP)", "source": "World Health Organization", "year": 2014, "url": "https://cdn.who.int/media/docs/default-source/documents/publications/gmp/iptp-sp-updated-policy-brief-24jan2014.pdf?sfvrsn=d542acbe_2&download=true" },
+    { "title": "Daily iron and folic acid supplementation during pregnancy (e-Library of Evidence for Nutrition Actions)", "source": "World Health Organization", "url": "https://www.who.int/tools/elena/interventions/daily-iron-pregnancy" },
+    { "title": "WHO recommendation: Calcium supplementation during pregnancy for prevention of pre-eclampsia and its complications", "source": "World Health Organization", "year": 2018, "url": "https://www.who.int/publications/i/item/9789241550451" },
+    { "title": "Consolidated Guidelines for the Prevention and Treatment of HIV and AIDS in Uganda", "source": "Ministry of Health Uganda", "year": 2022, "url": "https://dsduganda.com/wp-content/uploads/2023/05/Consolidated-HIV-and-AIDS-Guidelines-20230516.pdf" },
+    { "title": "Low-Dose Aspirin Use for the Prevention of Preeclampsia and Related Morbidity and Mortality (Practice Advisory)", "source": "ACOG", "year": 2021, "url": "https://www.acog.org/clinical/clinical-guidance/practice-advisory/articles/2021/12/low-dose-aspirin-use-for-the-prevention-of-preeclampsia-and-related-morbidity-and-mortality" },
+    { "title": "Implementation of Hepatitis B Screening Into Routine Antenatal Care to Prevent Mother-to-Child Transmission in Rural Western Uganda", "source": "Open Forum Infectious Diseases", "year": 2023, "url": "https://academic.oup.com/ofid/article/10/9/ofad452/7251462" },
+    { "title": "Latent Syphilis: STI Treatment Guidelines", "source": "CDC", "year": 2021, "url": "https://www.cdc.gov/std/treatment-guidelines/latent-syphilis.htm" },
+    { "title": "Tetanus-diphtheria vaccine (Td): Essential drugs", "source": "MSF Medical Guidelines", "url": "https://medicalguidelines.msf.org/en/viewport/EssDr/english/tetanus-diphtheria-vaccine-td-39849242.html" },
+    { "title": "Compliance with the WHO recommended 8+ antenatal care contacts schedule among postpartum mothers in eastern Uganda: a cross-sectional study", "source": "PLOS One", "year": 2024, "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0314769" },
+    { "title": "Uganda Demographic and Health Survey 2022", "source": "Uganda Bureau of Statistics", "year": 2023, "url": "https://www.unicef.org/uganda/media/16731/file/UDHS-2022-Report.pdf.pdf" },
+    { "title": "Deworming women during pregnancy has a positive effect on child survival and health", "source": "World Health Organization", "year": 2021, "url": "https://www.who.int/news/item/29-04-2021-deworming-women-during-pregnancy-has-a-positive-effect-on-child-survival-and-health" }
+  ]
+}

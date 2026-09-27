@@ -1,0 +1,343 @@
+---
+title: Postpartum Haemorrhage
+summary: Primary PPH is blood loss of 500 mL or more within 24 hours of birth (or 300 mL or more with abnormal vital signs, WHO 2025); it is the leading killer of Ugandan mothers, and survival depends on measuring blood loss objectively and starting the E-MOTIVE bundle within minutes, not on estimating by eye.
+highYield:
+  - "Primary PPH: ≥500 mL within 24 h of birth; WHO/FIGO/ICM 2025 also say act at ≥300 mL plus any abnormal vital sign. Severe/major PPH: ≥1000 mL. Secondary PPH: 24 h to 12 weeks."
+  - "Causes = the 4 Ts: Tone (about 70%), Trauma (about 20%), Tissue (about 10%), Thrombin (under 1%). Always check all four."
+  - "Prevention (AMTSL): oxytocin 10 IU IM/IV within 1 minute of birth, delayed cord clamping, controlled cord traction, then check uterine tone every 15 minutes for 2 hours."
+  - "E-MOTIVE bundle, started together as soon as PPH is diagnosed: uterine Massage, Oxytocics, Tranexamic acid, IV fluids, Vaginal/genital-tract Examination, then Escalate if bleeding continues."
+  - "Tranexamic acid 1 g IV over 10 minutes within 3 hours of birth; a second 1 g if bleeding continues after 30 minutes or restarts within 24 hours (WOMAN trial). No benefit after 3 hours."
+  - "Ergometrine is contraindicated in hypertension/pre-eclampsia and heart disease; carboprost is contraindicated in asthma."
+  - "Calibrated drape: E-MOTIVE (NEJM 2023) cut severe PPH, laparotomy or death from bleeding by 60% (1.6% vs 4.3%)."
+  - "Visual estimation underestimates blood loss by 30–50%. Tachycardia and a shock index ≥0.9 appear before hypotension; hypotension is a late sign in young women."
+---
+
+## In a nutshell
+
+**Postpartum haemorrhage (PPH)** is excessive bleeding from the genital tract after birth. It is the **number-one direct cause of maternal death in Uganda** and worldwide. Most of these deaths happen **within 24 hours of birth, often within the first 2 hours**, and **most are preventable**.
+
+The modern approach, in the **WHO 2023 recommendations** and the **WHO/FIGO/ICM 2025 consolidated PPH guideline**, rests on two ideas:
+
+1. **Detect early**: *measure* blood loss (calibrated drape) instead of guessing, and act at **300 mL if vital signs are abnormal**.
+2. **Treat as a bundle**: give the **E-MOTIVE** first-response bundle all at once and quickly, not one drug at a time waiting to see what works.
+
+> [!PEARL]
+> The one thing never to forget: **a woman who bleeds after delivery can die within 2 hours.** Call for help early, measure, massage, give oxytocin **and** tranexamic acid, run fluids, look for the cause (4 Ts), and escalate. Don't wait for her blood pressure to fall.
+
+## Definitions & classification
+
+| Term | Definition |
+|---|---|
+| **Primary PPH** | Blood loss **≥500 mL** from the genital tract within **24 hours** of birth (any route). The WHO/FIGO/ICM **2025** guideline adds: diagnose PPH at **≥300 mL plus any abnormal vital sign** (e.g. tachycardia, hypotension) |
+| **Severe / major PPH** | **≥1000 mL** (RCOG: moderate 1000–2000 mL; severe >2000 mL). Minor = 500–1000 mL |
+| **PPH after caesarean** | Classically ≥1000 mL; but treat **any bleeding that threatens haemodynamic stability** as PPH |
+| **Clinical definition** | Any blood loss enough to cause haemodynamic instability. A small, anaemic woman (Hb 8 g/dL) may collapse after "only" 400 mL |
+| **Secondary PPH** | Abnormal or excessive bleeding from **24 hours to 12 weeks** after birth |
+| **Refractory PPH** | Bleeding that continues despite first-line uterotonics and the first-response bundle |
+| **Retained placenta** | Placenta not delivered within **30 minutes** of birth with active management (WHO; UK uses 60 minutes) |
+
+### The 4 Ts (cause-based classification)
+
+| T | Approx. share | Examples |
+|---|---|---|
+| **Tone** (atony) | ~70% | Overdistension (twins, polyhydramnios, macrosomia), prolonged or precipitate labour, prolonged oxytocin augmentation, chorioamnionitis, grand multiparity, fibroids, MgSO₄, general anaesthesia, full bladder |
+| **Trauma** | ~20% | Perineal, vaginal and cervical tears, episiotomy extension, uterine rupture, uterine inversion, broad-ligament haematoma, CS extensions |
+| **Tissue** | ~10% | Retained placenta, retained cotyledon or membranes, placenta accreta spectrum (PAS), clots in the cavity |
+| **Thrombin** | <1% | DIC (abruption, amniotic fluid embolism, sepsis, IUFD, severe pre-eclampsia/HELLP), anticoagulants, inherited bleeding disorders, **dilutional coagulopathy after large transfusion** |
+
+## Epidemiology & Uganda context
+
+- Globally PPH affects millions of women every year. It is the single largest cause of maternal death, most of it in sub-Saharan Africa and South Asia.
+- **Uganda:** the MMR fell from **336 per 100,000 live births (UDHS 2016) to 189 (UDHS 2022)**. That is still far above the SDG target of <70. **Haemorrhage remains the leading direct cause** of maternal death in MPDSR reports, together with hypertensive disorders, sepsis and abortion complications.
+- Ugandan studies report PPH (≥500 mL) in about **9% of births**, with severe PPH (≥1000 mL) in about 1%. That is probably an underestimate, because blood loss is estimated by eye.
+
+> [!UGANDA]
+> The realities on a Ugandan labour ward matter. **Blood** is often unavailable at HC IVs and even at regional referral hospitals (RRHs), where it comes from the Uganda Blood Transfusion Service. **Oxytocin quality** suffers when the cold chain fails (hence interest in **heat-stable carbetocin**). Many women are **anaemic** before they bleed. Night-time deliveries are covered by one midwife. Referral from HC III to HC IV to RRH can take hours. Your management must work with what is on the shelf: oxytocin, misoprostol, ergometrine, TXA, IV fluids, a Foley catheter and a condom, and your hands.
+
+**Risk factors** (but **two-thirds of PPH happens in women with no risk factor**, so prepare for every birth):
+
+| Antenatal | Intrapartum |
+|---|---|
+| Previous PPH (strongest), grand multiparity (≥5), multiple pregnancy, polyhydramnios, macrosomia, anaemia (Hb <9 g/dL), placenta praevia/PAS, abruption, pre-eclampsia, fibroids, obesity, maternal age >35, previous CS | Prolonged labour (1st or 2nd stage), prolonged oxytocin use, induction, chorioamnionitis/fever, instrumental birth, CS (especially emergency), episiotomy, retained placenta, general anaesthesia, precipitate labour |
+
+## Physiology & pathophysiology
+
+### Why the placental bed bleeds so much
+
+- At term, **uterine blood flow is 500–800 mL/min** (about 10–15% of cardiac output). The spiral arteries have been converted by trophoblast into **wide, low-resistance, non-muscular channels**. They **cannot constrict themselves**.
+- After the placenta separates, bleeding is stopped mainly by **mechanical compression**. The criss-cross (interlacing) fibres of the myometrium contract and kink the vessels running between them. These are the **"living ligatures"**, and they explain why **uterine tone is everything**. Clotting and local thrombosis are secondary.
+- **So:** a soft, "boggy" uterus = open vessels = torrential bleeding (tone). A well-contracted uterus that still bleeds must be bleeding from **somewhere else** (trauma or thrombin), or something is preventing contraction (**tissue**: a retained cotyledon holds the uterus open).
+
+### How the body compensates, and why that fools us
+
+- Pregnancy increases blood volume by about **40–50%** (roughly 1.5 L extra). A healthy woman at term can lose **1000 mL with only mild tachycardia**. Young women hold their blood pressure through vasoconstriction until very late.
+- **Hypotension is a late sign** (often after 30–40% of blood volume is lost). **Tachycardia, pallor, cool peripheries, restlessness, reduced urine output and a rising shock index** come first.
+- **Shock index (SI) = heart rate ÷ systolic BP.** Normal postpartum SI is 0.7–0.9. **SI ≥0.9** should prompt concern and **SI ≥1.4** means urgent action and transfer.
+
+### The lethal triad
+
+Continued bleeding leads to **hypothermia** (cold fluids, exposure), **acidosis** (hypoperfusion) and **coagulopathy** (consumption plus dilution with crystalloid). Each worsens the others. Fibrinogen falls first in obstetric haemorrhage, and **fibrinogen <2 g/L predicts progression to severe PPH**. This is why we warm fluids, limit crystalloid, give **tranexamic acid early** (to block fibrinolysis before clots dissolve), and transfuse blood and clotting factors rather than litres of saline.
+
+### Why tranexamic acid must be early
+
+TXA blocks plasminogen activation (antifibrinolytic). Fibrinolysis rises sharply within minutes to hours of birth and bleeding. In the **WOMAN trial** (20,060 women), TXA **reduced death from bleeding by about 30% when given within 3 hours**. Given later there was no benefit. Every 15 minutes of delay reduces its benefit.
+
+## Clinical acumen
+
+### Focused history
+
+In the acute setting, history is taken **while** resuscitation happens, often from the notes and the midwife.
+
+| Question | Why it matters |
+|---|---|
+| When and how did she deliver? (SVD, vacuum, CS; time of birth) | Instrumental birth → trauma; CS → intra-abdominal bleeding; time since birth tells you whether TXA can still help (<3 h) |
+| Was AMTSL done? Which uterotonic, when? Is the placenta out and complete? | No oxytocin → atony likely; incomplete placenta → tissue |
+| Length of labour, oxytocin augmentation, fever in labour | Prolonged/augmented labour and chorioamnionitis → atony |
+| Baby's weight, twins, polyhydramnios | Overdistension → atony |
+| Parity; previous PPH, previous CS or uterine surgery | Grand multipara → atony and rupture; previous CS + praevia → accreta |
+| Antenatal Hb, HIV status, blood group | Anaemic women decompensate early; plan transfusion |
+| Pre-eclampsia? BP in labour? | **Contraindicates ergometrine**; HELLP → thrombin |
+| Asthma? Heart disease? | **Carboprost contraindicated in asthma**; ergometrine avoided in cardiac disease |
+| Bleeding disorders, anticoagulants, abruption, IUFD | Thrombin cause |
+| Symptoms: dizziness, thirst, breathlessness, confusion | Hypovolaemia; confusion = late, severe shock |
+
+### Examination
+
+1. **General**: conscious level, pallor, sweating, cold clammy peripheries, capillary refill >2 s, restlessness.
+2. **Vital signs**: pulse (rate and volume), BP, respiratory rate, SpO₂, temperature, **shock index**, **urine output** (catheter; target >30 mL/h).
+3. **Abdomen**: **feel the fundus**. Is it **soft and above the umbilicus** (atony) or firm and central (look elsewhere)? A deviated fundus suggests a full bladder. Tenderness and peritonism after CS or obstructed labour suggest rupture or intra-abdominal bleeding. **Absent fundus on palpation plus shock out of proportion to bleeding = uterine inversion.**
+4. **Blood loss**: measure it. Read the **calibrated drape**, weigh pads and linen (1 g ≈ 1 mL), count soaked swabs. Also look under the woman and on the floor.
+5. **Genital tract**: in good light with a speculum and an assistant. Look at perineum, vagina, cervix (all quadrants), and for a vulval or vaginal haematoma.
+6. **Placenta and membranes**: complete? Missing cotyledon? Vessels running off the edge (succenturiate lobe)?
+7. **Clotting**: does the blood clot? Bedside **20-minute whole-blood clotting test**: 2 mL in a dry glass tube; no clot at 20 min = coagulopathy. Oozing from drip sites also suggests coagulopathy.
+
+### Red flags
+
+> [!REDFLAG]
+> - Pulse >100–110, SBP <90–100 mmHg, **shock index ≥0.9** (≥1.4 = critical)
+> - Restlessness, confusion, air hunger, oliguria (<30 mL/h)
+> - Bleeding continuing after the first uterotonic, or a uterus that keeps relaxing
+> - **Shock out of proportion to visible bleeding**: think concealed bleeding (uterine rupture, broad-ligament or vulval haematoma, intra-abdominal bleeding after CS) or **uterine inversion**
+> - Blood that doesn't clot, oozing from cannula sites: DIC
+> - Severe perineal or rectal pain after delivery: expanding haematoma
+
+### Thinking like a clinician
+
+- **"Is the uterus hard?"** is the first branching question. Soft → Tone (massage, oxytocics, empty bladder, check for tissue). Hard but still bleeding → Trauma (inspect genital tract) or Thrombin (clotting test).
+- **Bright red trickle with a well-contracted uterus** = a tear until proven otherwise, usually cervical or high vaginal. Clamp and suture; a second uterotonic won't fix it.
+- **Uterus contracts then relaxes again and again** → think **retained tissue** (placenta incomplete) or overdistension/infection. Explore the uterus.
+- **The fundus can't be felt, the woman is in profound shock (partly neurogenic, with bradycardia) and there is a mass in the vagina** → **uterine inversion**. Replace it immediately, before the cervix clamps down. **Stop the oxytocin until it is replaced.**
+- **Previous CS + prolonged labour + sudden collapse** → uterine rupture: laparotomy, not another uterotonic.
+- **After CS**: rising pulse, abdominal distension, falling Hb with little vaginal loss → intra-abdominal bleeding; return to theatre.
+- **Anaemic woman**: her "500 mL" is someone else's 1500 mL. Treat the woman, not the number.
+- **Common student mistakes**: underestimating loss by eye; waiting for hypotension; giving drugs one at a time; forgetting to catheterise; forgetting TXA; giving ergometrine to a hypertensive woman; forgetting to examine the placenta and the cervix; not documenting times.
+
+> [!EXAM]
+> Examiners love this: **"The uterus is well contracted but she is still bleeding. What will you do?"** Answer: inspect the genital tract under good light for trauma (cervical and vaginal tears, haematoma), check the placenta for completeness, do a bedside clotting test, and continue resuscitation.
+
+## Differential diagnosis
+
+These are differentials for the **cause** of bleeding (and for shock after delivery).
+
+| Condition | Distinguishing features | Key investigation / action |
+|---|---|---|
+| Uterine atony | Soft, boggy, large uterus above umbilicus; bleeding with clots; improves with massage | Palpation; response to massage/oxytocin |
+| Genital-tract trauma | Uterus firm; continuous bright-red bleeding; instrumental or precipitate birth | Speculum exam in good light (±EUA) |
+| Retained placenta / tissue | Placenta not delivered or incomplete; uterus relaxes repeatedly | Inspect placenta; manual exploration; ultrasound if available |
+| Uterine rupture | Previous CS/obstructed labour; abdominal pain, shock > visible loss, fetal parts easily felt, haematuria | Clinical; laparotomy |
+| Uterine inversion | Fundus not palpable abdominally; mass at introitus/in vagina; severe pain; shock with bradycardia | Clinical; immediate replacement |
+| Coagulopathy / DIC | Non-clotting blood, oozing from sites; abruption, IUFD, AFE, sepsis, HELLP | 20-min WBCT, platelets, PT/APTT, fibrinogen |
+| Vulval/vaginal/broad-ligament haematoma | Severe pain, rectal pressure, unexplained tachycardia, swelling; little external blood | Examination; ultrasound; drainage |
+| Amniotic fluid embolism | Sudden collapse, hypoxia, hypotension, seizure, then DIC | Clinical diagnosis; ICU |
+| Other shock (sepsis, PE, cardiac) | Fever, chest pain, dyspnoea; uterus fine and little bleeding | Clinical picture; ECG, etc. |
+
+## Investigations
+
+Send bloods **while** you resuscitate; never delay treatment for results.
+
+| Test | What you are looking for | Why |
+|---|---|---|
+| **Group and cross-match** (at least 2–4 units) | Blood group, compatible units | Transfusion is likely in major PPH |
+| **Full blood count** (Hb, platelets) | Baseline Hb; platelets <75 × 10⁹/L | Guides transfusion; the first Hb **underestimates** loss (no time for haemodilution) |
+| **20-minute whole blood clotting test** (bedside) | No clot after 20 min = coagulopathy | Available anywhere, including HC IV |
+| PT/INR, APTT, **fibrinogen** (where available) | Prolonged times; fibrinogen <2 g/L | Guides FFP/cryoprecipitate |
+| Urea, creatinine, electrolytes | AKI | Hypoperfusion → acute tubular necrosis |
+| Lactate, blood gas (RRH/NRH) | Lactate >4 mmol/L, base deficit | Severity of shock |
+| Ultrasound (bedside) | Retained products, free fluid (rupture, post-CS bleeding) | Guides exploration or laparotomy |
+| Hourly urine output | <30 mL/h | Adequacy of resuscitation |
+
+## Management
+
+### A. Prevention: at every birth
+
+**Antenatal:** treat anaemia (iron + folic acid; Hb target ≥11 g/dL), identify high-risk women (previous PPH, praevia, grand multipara, twins), **birth preparedness** (deliver in a CEmONC facility, identify blood donors, transport money).
+
+**Active management of the third stage of labour (AMTSL)**, per WHO:
+
+1. **Exclude a second baby** (palpate the abdomen).
+2. **Oxytocin 10 IU IM** (or IV slowly) **within 1 minute of birth**. This is the **most important component**.
+3. **Delayed cord clamping** (1–3 minutes) unless the baby needs resuscitation.
+4. **Controlled cord traction (CCT)** with counter-traction above the pubis, only during a contraction, by a skilled attendant. It is optional where attendants are not skilled.
+5. **Assess uterine tone** abdominally **every 15 minutes for 2 hours** (sustained continuous massage is no longer recommended if oxytocin was given, but tone checks are).
+6. **Examine the placenta and membranes** for completeness, and the genital tract for tears.
+7. **Measure blood loss objectively** (calibrated drape placed under the buttocks after birth, WHO 2023).
+
+| Prophylactic uterotonic | Dose & route | Notes |
+|---|---|---|
+| **Oxytocin** (first choice) | **10 IU IM or IV** (slow IV) | Store 2–8 °C; loses potency in heat |
+| **Heat-stable carbetocin** | **100 µg IM or IV** single dose | Non-inferior to oxytocin (CHAMPION trial, which included Uganda). Use where oxytocin quality can't be assured. **For prevention only, not treatment** |
+| **Misoprostol** | **400–600 µg orally** | Where injectables are not available (home births, community distribution) |
+| Ergometrine / oxytocin-ergometrine | 0.2 mg IM / 5 IU + 0.5 mg IM | Only if no hypertension; more side effects |
+| Tranexamic acid (at CS) | — | Not routine for all births. Some units give 1 g IV at CS for high-risk women. Follow local protocol |
+
+> [!UGANDA]
+> In Uganda, **oxytocin 10 IU IM** is standard AMTSL at every facility. **Misoprostol 600 µg orally** (3 × 200 µg tablets) has been distributed for women who may deliver at home, to be taken immediately after the baby is born, and never before. Heat-stable carbetocin has been introduced in some humanitarian settings. At caesarean, oxytocin is given IV **slowly** (a rapid bolus causes hypotension).
+
+### B. Treatment: first response (the E-MOTIVE bundle)
+
+**Diagnose early.** Calibrated drape reading **≥500 mL**, or **≥300 mL plus abnormal vital signs or clinical concern**, triggers the bundle. Start all components **together, within 15 minutes**.
+
+**Emergency algorithm (vaginal birth, any facility):**
+
+1. **Call for help.** Shout for the midwife and the most senior clinician; assign roles (one on airway/obs, one on IV and drugs, one on the uterus, one scribe/timekeeper). Note the time.
+2. **ABC**: lie flat, raise legs; **oxygen** 6–8 L/min by mask; keep her warm.
+3. **Two large-bore IV cannulae** (14–16G). Draw blood for Hb, group and cross-match, and a clotting test.
+4. **M: uterine Massage**. Rub the fundus firmly to stimulate a contraction and expel clots. Continue until firm.
+5. **O: Oxytocin** 10 IU IV slowly (or IM), then an infusion (see drug table).
+6. **T: Tranexamic acid 1 g IV over 10 minutes** (within 3 hours of birth). Repeat 1 g after 30 minutes if bleeding continues.
+7. **I: IV fluids**: warmed crystalloid (Ringer's lactate or normal saline). Give a 500 mL–1 L bolus quickly, then reassess. Avoid more than about 2 L of crystalloid before blood; start **blood** as soon as available.
+8. **Empty the bladder** (Foley catheter, left in to measure urine output hourly).
+9. **V: Vaginal/genital-tract Examination**. Is the placenta out and complete? Look for tears (repair them), haematoma or inversion.
+10. **E: Escalate** if bleeding continues despite the bundle. Move to second-line drugs, bimanual compression, tamponade, theatre, and **refer early** from a HC III/IV that cannot operate or transfuse.
+11. **Monitor** pulse, BP, RR, SpO₂ and blood loss every 15 minutes; urine hourly; **document** drug times and volumes.
+
+> [!NOTE]
+> Why a bundle? In the **E-MOTIVE trial** (210,132 vaginal births, 78 hospitals in Kenya, Nigeria, South Africa and Tanzania), the calibrated drape plus the bundle **reduced the composite of severe PPH (≥1000 mL), laparotomy for bleeding or maternal death from bleeding from 4.3% to 1.6% (RR 0.40)**. Treatment was started early and together instead of sequentially after each "wait and see". WHO adopted it in 2023.
+
+### C. Uterotonic and haemostatic drugs for treatment
+
+> [!DRUG]
+> Confirm the dose on your unit protocol. These are the WHO / Uganda regimens.
+
+| Drug | Dose | Route | Frequency / max | Contraindications, side effects & notes |
+|---|---|---|---|---|
+| **Oxytocin** (first line) | **10 IU**, then infusion **20 IU in 1 L** NS/RL at **60 drops/min**; maintenance 20 IU in 1 L at **40 drops/min** | IV slowly or IM; infusion IV | Continue for at least 2–6 h after bleeding stops. **No more than 3 L of oxytocin-containing fluid** (water intoxication) | Rapid IV bolus → hypotension. Very safe otherwise. Some Ugandan units use 20–40 IU in 1 L; follow your unit |
+| **Misoprostol** | **800 µg** (4 × 200 µg) | **Sublingual** | Single dose | Use if oxytocin unavailable or as an add-on. Shivering and fever (up to 40 °C) are common and harmless; don't mistake them for sepsis. Slower onset than oxytocin |
+| **Ergometrine** (ergonovine) | **0.2 mg** | IM, or IV **slowly** | Repeat 0.2 mg IM after 15 min, then 0.2 mg every 4 h; **max 5 doses (1 mg) in 24 h** | **Contraindicated in hypertension, pre-eclampsia, heart disease**, retained placenta. Causes vomiting and severe hypertension; can cause stroke or eclampsia |
+| **Carboprost** (15-methyl PGF2α) | **0.25 mg** | **Deep IM** (or intramyometrial by specialist) | Every 15 min; **max 8 doses (2 mg)** | **Contraindicated in asthma** (bronchospasm). Diarrhoea, vomiting, fever. Expensive and rarely stocked in Uganda |
+| **Tranexamic acid** | **1 g** (10 mL of 100 mg/mL) | IV over **10 min** (1 mL/min) | Second 1 g if bleeding continues after 30 min or restarts within 24 h | Give **within 3 h of birth** for **all causes** of PPH (tone, trauma, tissue). Too-fast injection causes hypotension |
+
+> [!PEARL]
+> **Carbetocin is for prevention only.** It is not a treatment drug for established PPH. And there is no point giving IV ergometrine to a woman whose BP is 160/110. If you remember nothing else about contraindications: **"Ergometrine: not for the hypertensive heart; carboprost: not for the wheezy chest."**
+
+### D. Escalation: bleeding continues after the bundle
+
+Work through these **in parallel**, not one by one, while someone prepares theatre and blood.
+
+**1. Bimanual uterine compression** (buys time):
+- One gloved fist in the anterior vaginal fornix pushes against the anterior uterine wall. The other hand, on the abdomen, presses the fundus down and forward onto the fist. The uterus is compressed between the two hands.
+- Maintain firm pressure for at least 5–10 minutes (up to 20–30), until bleeding stops or help arrives.
+- **External aortic compression** (fist pressed just above and left of the umbilicus onto the aorta until the femoral pulse disappears) is a temporising alternative, especially during transfer.
+
+**2. Uterine balloon tamponade (UBT)**: for **atonic** PPH not responding to uterotonics.
+- The WHO (2021) recommends UBT **where standard PPH care, including surgery and blood, is accessible**. In practice in Uganda the **condom catheter** is widely used as a bridge to theatre or during referral.
+- **Condom catheter**: tie a condom over a Foley catheter (or use a purpose-made balloon). Insert it into the uterine cavity past the cervix. Fill with **300–500 mL** warm saline through a giving set until bleeding stops, and pack the vagina with gauze to hold it in. Continue the **oxytocin infusion**, give **prophylactic antibiotics** (e.g. ampicillin 2 g IV single dose, or a cephalosporin), catheterise the bladder, monitor closely. Deflate gradually and remove after **6–24 hours** (usually 12–24 h), with theatre and blood ready.
+- **Tamponade test**: if bleeding stops, the tamponade is working. If bleeding continues through or around the balloon, go straight to laparotomy.
+
+**3. Non-pneumatic anti-shock garment (NASG)**: neoprene segments wrapped from the ankles upwards to the abdomen. They compress the lower body and pelvis, squeezing blood back to the heart, brain and lungs and reducing pelvic bleeding. It is a **first-aid device to buy time**, particularly for **transfer from HC III/IV to hospital**. Apply ankle segments first; remove only when stable (SBP ≥90 and pulse <100, blood running), **from the ankles upwards**, one segment at a time, rechecking BP after each (a drop of 20 mmHg or a pulse rise of 20 means reapply).
+
+**4. Transfuse**: whole blood or packed red cells as soon as possible. In major haemorrhage give **FFP** (15 mL/kg) when more than about 4 units of red cells have been given or clotting is abnormal, **cryoprecipitate** if fibrinogen is <2 g/L, and **platelets** if <75 × 10⁹/L (availability at RRH/NRH). Aim for Hb >8 g/dL once bleeding is controlled.
+
+**5. Surgery** (laparotomy, at CEmONC level), from the most conservative step upward:
+
+| Step | What / how | Why |
+|---|---|---|
+| **Exploration** | Evacuate clots, check for rupture, repair lacerations | Finds the trauma you missed |
+| **B-Lynch compression suture** | Absorbable suture (e.g. No. 1 or 2 chromic/polyglactin on a large needle) that "braces" the uterus over the fundus; test first with bimanual compression (if that stops bleeding, B-Lynch will too) | Mechanically compresses an atonic uterus while preserving fertility |
+| **Bilateral uterine artery ligation** (O'Leary stitch) | Ligate the ascending branches at the level of the lower segment, including some myometrium | The uterine arteries carry about 90% of uterine blood; cuts pulse pressure |
+| **Utero-ovarian / internal iliac ligation** | Specialist procedures | Further devascularisation |
+| **Subtotal (or total) hysterectomy** | **Decide early**; don't wait until she is in DIC | Life-saving. Subtotal is faster and safer in an unstable woman; total is needed if the lower segment or cervix bleeds (praevia/PAS, cervical tears) |
+
+> [!EXAM]
+> "When would you do a hysterectomy?" Answer: when **conservative measures have failed** and the mother's life is at risk, **before** she becomes moribund. A living mother without a uterus is better than a dead mother with one. Get consent early (from the woman or her next of kin) and involve a senior.
+
+### E. Cause-specific management
+
+**Trauma**
+- **Perineal/vaginal tears**: repair in good light with analgesia (lidocaine 1%). Secure the **apex first** (start the stitch 1 cm above it), because retracted vessels keep bleeding.
+- **Cervical tears**: sponge forceps on either side, suture from the apex. Refer if you cannot see the apex.
+- **Vulval/vaginal haematoma**: small (<5 cm) and not expanding → ice, analgesia, observe. Large or expanding → incise, evacuate, ligate bleeders, pack; catheterise.
+- **Uterine rupture**: resuscitate, then **laparotomy**: repair (if clean tear and she wants more children) or hysterectomy; inspect the bladder.
+- **Uterine inversion**: call for help, **stop oxytocin**, treat shock, and **replace immediately**. **Johnson manoeuvre**: push the fundus back through the cervix with the palm, the part that came out last going in first; don't remove the placenta first if still attached. If that fails, use **O'Sullivan hydrostatic** replacement (warm saline into the vagina with the introitus sealed by hand or a ventouse cup), or surgical correction (Huntington, Haultain). **After replacement, give oxytocin** and hold the uterus in place until it contracts. Give antibiotics.
+
+**Tissue: retained placenta**
+1. If the placenta has not delivered **30 minutes** after birth: empty the bladder, **oxytocin 10 IU IV/IM** (if not already given as part of AMTSL, or a repeat), and repeat **CCT**. **Don't give ergometrine** (tetanic contraction can trap the placenta).
+2. If still retained, or if bleeding: **manual removal of placenta (MRP)** under analgesia or anaesthesia (ketamine, spinal or pethidine + diazepam). Give **single-dose prophylactic antibiotics** (e.g. ampicillin 2 g IV, or cefazolin 2 g IV). The hand follows the cord into the uterus and finds the cleavage plane with the ulnar edge of the fingers while the other hand steadies the fundus. Remove it whole, check it, re-explore, and follow with an oxytocin infusion.
+3. If there is **no cleavage plane**, suspect **placenta accreta spectrum**. Stop, don't pull pieces out, and call a senior. Laparotomy or hysterectomy may be needed.
+4. **Retained fragments**: manual exploration or **MVA / blunt curettage** with a large curette (the soft postpartum uterus perforates easily).
+
+**Thrombin (coagulopathy)**
+- Treat the cause (deliver an abruption, treat sepsis), give **TXA**, fresh whole blood (contains clotting factors and platelets, useful where components are unavailable), FFP, cryoprecipitate and platelets. Keep her **warm**; correct calcium and acidosis.
+
+### F. Setting-specific plan
+
+| Level | What to do |
+|---|---|
+| **HC II / community** | Misoprostol 600 µg orally for prevention; uterine massage; refer urgently |
+| **HC III (BEmONC)** | AMTSL; full E-MOTIVE bundle (massage, oxytocin, TXA, fluids, genital exam, repair tears); MRP; MVA for fragments; bimanual compression; condom tamponade and NASG; **early referral** to HC IV/hospital with IV running, oxytocin infusion, NASG on, health worker escort, referral note, phone ahead |
+| **HC IV / general hospital (CEmONC)** | All of the above **plus** blood transfusion, theatre: laparotomy, B-Lynch, uterine artery ligation, hysterectomy |
+| **RRH / NRH (e.g. Mulago-Kawempe, Mengo)** | Blood components (FFP, cryo, platelets), HDU/ICU, specialist surgery for PAS, interventional options where available |
+
+### G. Secondary PPH (24 h to 12 weeks)
+
+Causes: **endometritis** (most common), **retained products**, subinvolution of the placental site, rarely trophoblastic disease (GTN) or arteriovenous malformation.
+
+1. Assess and resuscitate as for primary PPH. Most secondary PPH is modest, but it can be massive.
+2. **Investigations**: FBC, blood culture and high vaginal swab, pelvic ultrasound (retained products), **β-hCG if bleeding persists** (to exclude GTN), malaria test if febrile.
+3. **Antibiotics** if infection is suspected: **ampicillin 2 g IV 6-hourly + gentamicin 5 mg/kg IV once daily + metronidazole 500 mg IV 8-hourly** until afebrile for 48 hours, then oral amoxicillin plus metronidazole to complete 7 days (or local regimen, e.g. ceftriaxone + metronidazole).
+4. **Uterotonics**: oxytocin infusion, misoprostol 800 µg SL, or ergometrine if no hypertension.
+5. **Evacuation of retained products** by an experienced person (MVA or gentle curettage), **after antibiotics have started** (the infected uterus perforates easily).
+6. Persistent bleeding: surgical options as above.
+
+### H. After the bleeding stops
+
+- Continue the oxytocin infusion for several hours. Monitor vital signs, fundus and loss every 15 min for 2 hours, then half-hourly and hourly; fluid balance chart; urine output.
+- Hb check at 24 h; **treat anaemia** (ferrous sulphate 200 mg + folic acid; IV iron at referral level; transfusion if symptomatic or Hb <7 g/dL).
+- Thromboprophylaxis once bleeding is controlled (massive PPH is a VTE risk).
+- **Debrief** the woman and family; explain the risk next pregnancy (recurrence about 15%); document well and plan her next delivery at a CEmONC facility.
+- Watch for **Sheehan's syndrome** (failure of lactation, amenorrhoea, fatigue after major PPH).
+- **Near-miss audit or MPDSR** review if there was a death.
+
+## Complications
+
+| Maternal | |
+|---|---|
+| Immediate | Hypovolaemic shock, death, DIC, transfusion reactions, cardiac arrest |
+| Organ damage | **Acute kidney injury** (ATN, cortical necrosis), ARDS, **Sheehan's syndrome** (pituitary necrosis → failed lactation, amenorrhoea, hypothyroidism, adrenal insufficiency) |
+| From treatment | Hysterectomy (loss of fertility), bladder/ureteric injury, infection after MRP or tamponade, dilutional coagulopathy, fluid overload/pulmonary oedema, water intoxication (oxytocin) |
+| Later | Severe anaemia, fatigue, failure of breastfeeding, **VTE**, post-traumatic stress and depression, Asherman's syndrome (after curettage) |
+
+## Ward-round & exam pearls
+
+**Model summary line:**
+> "Mrs N, a 32-year-old para 5 at 39 weeks, delivered a 4.1 kg baby by SVD 40 minutes ago after a 16-hour oxytocin-augmented labour. She developed primary PPH from uterine atony, with measured loss of 900 mL on the calibrated drape. Her pulse was 118, BP 96/60, shock index 1.2. The E-MOTIVE bundle was started at 10:05: massage, oxytocin 10 IU IV plus infusion, TXA 1 g IV, 1 L Ringer's, catheterised, and genital tract inspected (second-degree tear repaired, placenta complete). The uterus is now firm, pulse 100, BP 110/70, urine output 40 mL/h. Hb 8.1 g/dL; 2 units cross-matched. Plan: continue the oxytocin infusion, 15-minute observations, transfuse 1 unit, repeat Hb at 24 h, oral iron, and document as severe PPH for review."
+
+**Likely viva questions**
+
+1. *Define PPH.* ≥500 mL within 24 h of birth; severe ≥1000 mL. WHO 2025: act at ≥300 mL with abnormal vital signs. Secondary: 24 h–12 weeks.
+2. *What are the components of AMTSL?* Uterotonic within 1 min (oxytocin 10 IU IM), CCT, and uterine tone assessment (plus delayed cord clamping and examining the placenta).
+3. *Name the components of the E-MOTIVE bundle.* Massage, Oxytocics, TXA, IV fluids, Examination, Escalation, triggered by objective measurement with a calibrated drape.
+4. *Why is TXA time-critical?* Fibrinolysis peaks early; benefit is seen only within 3 h and falls by about 10% for every 15 minutes' delay.
+5. *Contraindications to ergometrine?* Hypertension/pre-eclampsia, cardiac disease, retained placenta (and a second twin undelivered).
+6. *What is a Couvelaire uterus, and is it an indication for hysterectomy?* Blood extravasated into the myometrium from abruption. **No**; the uterus usually contracts.
+7. *How do you manage uterine inversion?* Call help, stop uterotonics, resuscitate, immediate manual replacement (Johnson), then oxytocin.
+
+**OSCE tips:** on the PPH drill station, **say "I will call for help" first**, state the time, assign roles, verbalise ABC, and use the E-MOTIVE sequence out loud. Demonstrate bimanual compression correctly (fist in the anterior fornix). Always **check the placenta**. Mention **documentation** and **debrief**.
+
+## Mnemonics & memory aids
+
+- **4 Ts**: **T**one, **T**rauma, **T**issue, **T**hrombin (70/20/10/1).
+- **E-MOTIVE** (E is for early detection): **M**assage, **O**xytocics, **T**ranexamic acid, **I**V fluids, **V**aginal (genital-tract) examination, **E**scalation.
+- **HAEMOSTASIS** (the classic RCOG escalation ladder): **H**elp and hands on the uterus, **A**ssess and resuscitate, **E**stablish aetiology / ecbolics, **M**assage, **O**xytocin infusion / prostaglandins, **S**hift to theatre (EUA, bimanual compression), **T**amponade (balloon), **A**pply compression sutures (B-Lynch), **S**ystematic pelvic devascularisation, **I**nterventional radiology, **S**ubtotal or total hysterectomy.
+- **"Ergo: no BP, no heart; carbo: no wheeze."**
+- **TXA "1-10-3-30"**: **1** g, over **10** minutes, within **3** hours, repeat after **30** minutes if still bleeding.

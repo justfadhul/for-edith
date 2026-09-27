@@ -1,0 +1,296 @@
+{
+  "slug": "postpartum-haemorrhage",
+  "flashcards": [
+    { "id": "pph-f01", "front": "Define primary PPH (classic and WHO/FIGO/ICM 2025).", "back": "Classic: blood loss **≥500 mL** from the genital tract within **24 h** of birth. WHO/FIGO/ICM 2025 adds: diagnose and act at **≥300 mL plus any abnormal vital sign**. Severe PPH ≥1000 mL." },
+    { "id": "pph-f02", "front": "Define secondary PPH and name its commonest cause.", "back": "Abnormal bleeding from **24 h to 12 weeks** after birth. Commonest cause: **endometritis**, often with **retained products**." },
+    { "id": "pph-f03", "front": "The 4 Ts of PPH with approximate proportions.", "back": "**Tone** ~70%, **Trauma** ~20%, **Tissue** ~10%, **Thrombin** <1%." },
+    { "id": "pph-f04", "front": "Components of active management of the third stage (AMTSL).", "back": "1. **Oxytocin 10 IU IM** within 1 min of birth (most important)\n2. Controlled cord traction\n3. Uterine tone assessment every 15 min for 2 h\n\nPlus delayed cord clamping (1–3 min) and checking the placenta." },
+    { "id": "pph-f05", "front": "What does E-MOTIVE stand for?", "back": "**E**arly detection with a calibrated drape, then the bundle: **M**assage, **O**xytocic drugs, **T**ranexamic acid, **I**V fluids, **V**aginal/genital-tract examination, **E**scalation." },
+    { "id": "pph-f06", "front": "Main result of the E-MOTIVE trial (NEJM 2023).", "back": "Severe PPH, laparotomy for bleeding or death from bleeding fell from **4.3% to 1.6%** (RR 0.40, i.e. a **60% reduction**) in 210,132 vaginal births in Kenya, Nigeria, South Africa and Tanzania." },
+    { "id": "pph-f07", "front": "Tranexamic acid for PPH: dose, route, timing, repeat.", "back": "**1 g IV over 10 min**, **within 3 h of birth**; repeat 1 g if bleeding continues after **30 min** or restarts within 24 h (WOMAN trial). Memory: **1-10-3-30**." },
+    { "id": "pph-f08", "front": "Oxytocin regimen for treating PPH (WHO).", "back": "**10 IU IV slowly/IM**, then **20 IU in 1 L** NS/RL at **60 drops/min**, then 20 IU in 1 L at **40 drops/min**. Max **3 L** of oxytocin-containing fluid (water intoxication)." },
+    { "id": "pph-f09", "front": "Ergometrine: dose, maximum, contraindications.", "back": "**0.2 mg IM** (or slow IV); repeat after 15 min, then 4-hourly; **max 5 doses (1 mg)**. Contraindicated in **hypertension/pre-eclampsia, heart disease**, retained placenta." },
+    { "id": "pph-f10", "front": "Carboprost: dose, maximum, key contraindication.", "back": "**0.25 mg deep IM** every 15 min, **max 8 doses (2 mg)**. Contraindicated in **asthma** (bronchospasm)." },
+    { "id": "pph-f11", "front": "Misoprostol doses: prevention vs treatment of PPH.", "back": "Prevention: **400–600 µg orally** (Uganda community distribution: 600 µg). Treatment: **800 µg sublingual**. Side effects: shivering, fever." },
+    { "id": "pph-f12", "front": "Heat-stable carbetocin: dose and role.", "back": "**100 µg IM/IV** single dose, for **prevention only** where oxytocin quality or cold chain can't be assured. Non-inferior to oxytocin (CHAMPION trial). **Not** for treatment." },
+    { "id": "pph-f13", "front": "Shock index: formula and thresholds in obstetrics.", "back": "**HR ÷ SBP**. Normal postpartum 0.7–0.9. **≥0.9** = concern; **≥1.4** = critical, needs urgent intervention or transfer. It rises before BP falls." },
+    { "id": "pph-f14", "front": "How do you perform bimanual uterine compression?", "back": "Fist in the **anterior vaginal fornix** pressing on the anterior wall; the other hand on the abdomen pushes the fundus down and forward onto the fist. Hold firm pressure until bleeding stops (at least 5–10 min)." },
+    { "id": "pph-f15", "front": "Condom catheter tamponade: key steps.", "back": "Condom tied over a Foley catheter, inserted into the uterine cavity, filled with **300–500 mL** warm saline until bleeding stops; vaginal pack; continue **oxytocin infusion**; **antibiotic prophylaxis**; catheterise; remove after **6–24 h**. If bleeding continues, go to laparotomy." },
+    { "id": "pph-f16", "front": "When is a placenta 'retained' and what is the first step?", "back": "Not delivered **30 min** after birth (WHO). Empty the bladder, give **oxytocin 10 IU IM/IV**, repeat CCT. If unsuccessful or bleeding → **manual removal** under anaesthesia with **single-dose prophylactic antibiotic**. Don't give ergometrine." },
+    { "id": "pph-f17", "front": "Uterine inversion: signs and immediate management.", "back": "Fundus not palpable abdominally, mass in the vagina, **shock out of proportion to blood loss** (often bradycardia). Call help, **stop oxytocin**, resuscitate, **immediate manual replacement (Johnson)**, then give oxytocin. Hydrostatic (O'Sullivan) if that fails." },
+    { "id": "pph-f18", "front": "Surgical options for refractory atonic PPH, in order.", "back": "Exploration → **B-Lynch** compression suture → **bilateral uterine artery ligation** → internal iliac ligation (specialist) → **subtotal/total hysterectomy**. Decide on hysterectomy early." },
+    { "id": "pph-f19", "front": "Bedside test for coagulopathy at a HC IV.", "back": "**20-minute whole blood clotting test**: 2 mL of venous blood in a clean dry glass tube; if no clot at 20 minutes, suspect coagulopathy (DIC)." },
+    { "id": "pph-f20", "front": "Sheehan's syndrome: what, and how does it present?", "back": "Ischaemic necrosis of the enlarged pituitary after massive PPH. Presents with **failure of lactation**, amenorrhoea, fatigue, hypothyroidism, adrenal insufficiency (hyponatraemia, hypoglycaemia)." },
+    { "id": "pph-f21", "front": "NASG: what it does and how to remove it.", "back": "Non-pneumatic anti-shock garment: compresses the legs and pelvis, raising central blood volume and reducing pelvic bleeding. A **first-aid bridge for transfer**. Remove only when stable (SBP ≥90, pulse <100), **starting at the ankles**, one segment at a time; reapply if BP falls by 20 mmHg or pulse rises by 20." }
+  ],
+  "mcqs": [
+    {
+      "id": "pph-q01",
+      "stem": "A 29-year-old para 4 delivers a 4.2 kg baby at a HC IV. Ten minutes after the placenta delivers complete, the calibrated drape reads 350 mL. Her pulse is 112/min and BP 98/60 mmHg (shock index 1.14). The uterus is soft. Which is the MOST appropriate action?",
+      "options": [
+        "Observe for 15 minutes and act if the drape reaches 500 mL",
+        "Give ergometrine 0.5 mg IV and wait to see the response",
+        "Diagnose PPH and immediately start the full E-MOTIVE bundle",
+        "Refer to the regional referral hospital without treatment",
+        "Give misoprostol 800 µg sublingually alone and recheck in 30 minutes"
+      ],
+      "answer": 2,
+      "explanation": "C is right: WHO/FIGO/ICM 2025 advise diagnosing PPH at **≥300 mL with abnormal vital signs**. Tachycardia and a shock index >0.9 qualify, so the whole bundle (massage, oxytocin, TXA, IV fluids, examination, escalation) should start now. A is wrong: waiting for 500 mL is exactly the delay the new threshold aims to prevent. B is wrong: ergometrine is second-line and 0.5 mg is the wrong dose (0.2 mg), and giving single drugs sequentially is less effective than the bundle. D is wrong: never refer without first-response treatment; the HC IV can give all of the bundle. E is wrong: misoprostol alone, with a 'wait and see' interval, is not the bundle; oxytocin is first line."
+      , "difficulty": "core"
+    },
+    {
+      "id": "pph-q02",
+      "stem": "A 24-year-old primigravida delivers by vacuum extraction. The placenta is complete and the uterus is firm and well contracted at the umbilicus, but a steady stream of bright red blood continues. Pulse 104/min. What is the MOST likely cause of her bleeding?",
+      "options": [
+        "Genital tract trauma",
+        "Uterine atony",
+        "Retained placental tissue",
+        "Disseminated intravascular coagulation",
+        "Uterine inversion"
+      ],
+      "answer": 0,
+      "explanation": "A is right: a **firm uterus with continuing bright-red bleeding after an instrumental birth** = trauma (cervical or vaginal laceration) until proven otherwise; inspect under good light and repair. B is wrong: atony gives a soft, boggy uterus. C is wrong: the placenta is complete, and retained tissue usually causes a uterus that relaxes repeatedly. D is wrong: DIC is rare without a trigger (abruption, AFE, sepsis) and presents with non-clotting blood and oozing. E is wrong: in inversion the fundus is not palpable at the umbilicus."
+      , "difficulty": "core"
+    },
+    {
+      "id": "pph-q03",
+      "stem": "A 34-year-old para 3 with severe pre-eclampsia (BP 162/108 mmHg on MgSO₄) develops atonic PPH after vaginal birth. She has received oxytocin 10 IU IV, an oxytocin infusion, TXA 1 g and uterine massage, but the uterus remains soft. Which additional uterotonic is MOST appropriate?",
+      "options": [
+        "Ergometrine 0.2 mg IV",
+        "Oxytocin-ergometrine (Syntometrine) 1 ampoule IM",
+        "Carboprost 0.25 mg IV bolus",
+        "Misoprostol 800 µg sublingual",
+        "Methylergometrine 0.2 mg IM"
+      ],
+      "answer": 3,
+      "explanation": "D is right: **misoprostol 800 µg SL** is a safe add-on uterotonic in hypertension. A, B and E are wrong: ergometrine and its combinations and derivatives cause vasoconstriction and severe hypertension; they are **contraindicated in pre-eclampsia** (risk of stroke or eclampsia). C is wrong: carboprost is safe in hypertension but is given **deep IM (0.25 mg)**, never as an IV bolus, and it is contraindicated in asthma."
+      , "difficulty": "core"
+    },
+    {
+      "id": "pph-q04",
+      "stem": "A woman delivered 4 hours ago at home and arrives at a HC III with ongoing PPH. She is pale, pulse 124/min. A student suggests tranexamic acid. Which statement is MOST accurate?",
+      "options": [
+        "TXA should be given because it helps whenever it is given",
+        "TXA is not expected to help because it is more than 3 hours since birth; focus on uterotonics, fluids, the cause and referral",
+        "TXA should be given as 1 g IM because IV access is difficult",
+        "TXA is contraindicated in all postpartum women because of thrombosis",
+        "TXA is only for trauma causes of PPH, not atony"
+      ],
+      "answer": 1,
+      "explanation": "B is right: in the WOMAN trial, TXA reduced death from bleeding only when given **within 3 hours**, and there was no benefit (and possible harm) later. Management should focus on massage, uterotonics, fluids, finding the cause (4 Ts), NASG and urgent referral. A is wrong: benefit is time-dependent and falls about 10% per 15 min of delay. C is wrong: the recommended route is **IV over 10 minutes**; get access (IO or cut-down if needed). D is wrong: WOMAN showed no increase in thromboembolic events. E is wrong: TXA is recommended for PPH of **any cause** when given within 3 h."
+      , "difficulty": "advanced"
+    },
+    {
+      "id": "pph-q05",
+      "stem": "Thirty minutes after a normal delivery at a HC III, the placenta of a para 2 has not delivered despite oxytocin 10 IU IM at birth and one attempt at controlled cord traction. There is minimal bleeding and she is stable. What is the BEST next step?",
+      "options": [
+        "Give ergometrine 0.5 mg IV to expel the placenta",
+        "Inject oxytocin into the umbilical vein",
+        "Pull harder on the cord with fundal pressure",
+        "Wait another 2 hours before any action",
+        "Empty the bladder, give a further 10 IU oxytocin and repeat CCT; if unsuccessful, manual removal with antibiotic cover"
+      ],
+      "answer": 4,
+      "explanation": "E is right: for a retained placenta at 30 minutes, WHO recommends **additional oxytocin 10 IU** with CCT; a **full bladder** can prevent separation. If this fails, proceed to **manual removal** under anaesthesia with **single-dose prophylactic antibiotics**. A is wrong: ergometrine causes a tetanic contraction that can trap the placenta, and 0.5 mg is the wrong dose. B is wrong: WHO does not recommend umbilical vein oxytocin. C is wrong: excessive traction with fundal pressure risks cord avulsion and **uterine inversion**. D is wrong: prolonged waiting increases PPH and infection risk."
+      , "difficulty": "core"
+    },
+    {
+      "id": "pph-q06",
+      "stem": "Immediately after a fundal-pressure delivery and vigorous cord traction, a para 1 collapses: pulse 52/min, BP 70/40 mmHg, with only about 400 mL of visible blood loss. The fundus cannot be palpated abdominally and a mass is felt in the vagina. What is the MOST important immediate action?",
+      "options": [
+        "Start an oxytocin infusion at 60 drops/min",
+        "Attempt manual removal of the placenta",
+        "Call for help, stop uterotonics, and immediately replace the uterus manually",
+        "Give atropine and wait for the heart rate to recover",
+        "Arrange a pelvic ultrasound scan"
+      ],
+      "answer": 2,
+      "explanation": "C is right: this is **acute uterine inversion**. Shock out of proportion to blood loss, with **vagal bradycardia**, and an absent fundus. Immediate manual replacement (Johnson manoeuvre) while the cervix is still lax is the priority, along with resuscitation; give oxytocin only **after** replacement. A is wrong: oxytocin before replacement contracts the cervical ring and traps the inverted fundus. B is wrong: removing the placenta before replacement increases bleeding. D is wrong: atropine doesn't correct the cause; delay allows the cervix to clamp down. E is wrong: it is a clinical diagnosis and imaging only delays treatment."
+      , "difficulty": "advanced"
+    },
+    {
+      "id": "pph-q07",
+      "stem": "Which intervention is the MOST effective single measure to prevent PPH at a vaginal birth?",
+      "options": [
+        "Routine episiotomy",
+        "Sustained uterine massage for 30 minutes in every woman",
+        "Early cord clamping within 30 seconds",
+        "Prophylactic uterotonic (oxytocin 10 IU IM/IV) within 1 minute of birth",
+        "Routine tranexamic acid for all vaginal births"
+      ],
+      "answer": 3,
+      "explanation": "D is right: the **prophylactic uterotonic** is the most important component of AMTSL and reduces PPH by about 50–60%. A is wrong: routine episiotomy increases blood loss and trauma. B is wrong: sustained massage is not recommended when oxytocin is given; only tone checks every 15 min. C is wrong: **delayed** cord clamping (1–3 min) is recommended; early clamping doesn't prevent PPH and harms the baby's iron stores. E is wrong: TXA is not recommended routinely for prevention in all vaginal births."
+      , "difficulty": "core"
+    },
+    {
+      "id": "pph-q08",
+      "stem": "A 30-year-old para 6 at a regional referral hospital has atonic PPH continuing despite the full E-MOTIVE bundle, misoprostol 800 µg SL, and 20 minutes of bimanual compression. Measured loss is 1800 mL; she has received 2 units of blood; theatre is being prepared. What is the MOST appropriate temporising measure while theatre is prepared?",
+      "options": [
+        "Uterine balloon (condom catheter) tamponade",
+        "Third dose of TXA",
+        "Carboprost 0.25 mg IV",
+        "Vaginal pack of gauze only",
+        "Stop fluids to allow permissive hypotension for 2 hours"
+      ],
+      "answer": 0,
+      "explanation": "A is right: **uterine balloon tamponade** is recommended for refractory atonic PPH where surgery and blood are available, and it often stops bleeding or buys time; if bleeding continues through it, proceed straight to laparotomy. B is wrong: TXA is limited to a second dose, and further doses aren't recommended. C is wrong: carboprost is given IM or intramyometrially, not IV. D is wrong: a vaginal pack alone conceals ongoing intrauterine bleeding. E is wrong: prolonged permissive hypotension isn't appropriate; resuscitate with blood."
+      , "difficulty": "advanced"
+    },
+    {
+      "id": "pph-q09",
+      "stem": "A 27-year-old has had a PPH of 1500 mL after delivery of a stillborn baby with a large retroplacental clot. Blood is oozing from her cannula sites and the vaginal blood does not clot. The HC IV has no laboratory at night. What is the BEST bedside test to confirm your suspicion?",
+      "options": [
+        "Kleihauer–Betke test",
+        "Urine dipstick for protein",
+        "Random blood sugar",
+        "20-minute whole blood clotting test",
+        "Peripheral smear for malaria parasites"
+      ],
+      "answer": 3,
+      "explanation": "D is right: abruption with fetal death can cause **DIC**. The **20-minute whole blood clotting test** (no clot in a dry glass tube at 20 min) is a simple bedside test available anywhere. A is wrong: Kleihauer quantifies fetomaternal haemorrhage for anti-D dosing, not coagulopathy. B is wrong: proteinuria screens for pre-eclampsia (a risk factor for abruption) but doesn't show coagulopathy. C and E are wrong: useful in other contexts but irrelevant to the clotting question."
+      , "difficulty": "core"
+    },
+    {
+      "id": "pph-q10",
+      "stem": "At a HC III 3 hours' drive from the nearest hospital, a woman has PPH controlled only while bimanual compression is maintained. The bundle has been given. What is the BEST plan for transfer?",
+      "options": [
+        "Send her by boda-boda with her relatives and a referral note",
+        "Wait until the bleeding stops completely before referral",
+        "Apply NASG and/or balloon tamponade, keep IV oxytocin running, and transfer by ambulance with a health worker after calling ahead",
+        "Give ergometrine 0.2 mg IV every 15 minutes during transport regardless of BP",
+        "Remove the IV line so it does not come out during transport"
+      ],
+      "answer": 2,
+      "explanation": "C is right: the **NASG** and **tamponade** are temporising devices designed to keep a woman alive during transfer. Keep oxytocin running, send an escort who can do bimanual/aortic compression, and **call ahead** so blood and theatre are ready. A is wrong: this is unsafe transport with no skilled escort. B is wrong: waiting at a facility that can't transfuse or operate risks death. D is wrong: ergometrine is limited to 5 doses in 24 h and is contraindicated if hypertensive. E is wrong: IV access is essential."
+      , "difficulty": "core"
+    },
+    {
+      "id": "pph-q11",
+      "stem": "A 25-year-old known asthmatic has atonic PPH not responding to oxytocin and misoprostol. Which drug should be AVOIDED?",
+      "options": [
+        "Ergometrine",
+        "Tranexamic acid",
+        "Oxytocin infusion",
+        "Carboprost (15-methyl PGF2α)",
+        "Ringer's lactate"
+      ],
+      "answer": 3,
+      "explanation": "D is right: **carboprost** (a prostaglandin F2α analogue) causes bronchoconstriction and is **contraindicated in asthma**. A is wrong: ergometrine is acceptable if she is normotensive without heart disease. B is wrong: TXA is safe and recommended. C and E are wrong: oxytocin and crystalloid are safe in asthma. Note that misoprostol (PGE1) does not cause bronchospasm."
+      , "difficulty": "core"
+    },
+    {
+      "id": "pph-q12",
+      "stem": "Six hours after an emergency caesarean section for obstructed labour, a 31-year-old has pulse 128/min, BP 88/56 mmHg and a distended, tender abdomen. Vaginal loss is minimal and the uterus feels firm. Hb has fallen from 10.5 to 6.8 g/dL. What is the MOST appropriate management?",
+      "options": [
+        "Increase the oxytocin infusion and observe",
+        "Give misoprostol 800 µg rectally",
+        "Insert a balloon tamponade",
+        "Transfuse 2 units and discharge to the ward",
+        "Resuscitate with blood and return to theatre for re-laparotomy"
+      ],
+      "answer": 4,
+      "explanation": "E is right: **shock with a distended abdomen, falling Hb and little vaginal loss after CS** means intra-abdominal bleeding (a slipped uterine-angle ligature, extension of the incision into the broad ligament, bleeding vessels). Resuscitate and do a **re-laparotomy**. A, B and C are wrong: the uterus is contracted and the bleeding is not atonic or intrauterine, so uterotonics and tamponade won't stop it. D is wrong: transfusion without source control only delays the inevitable."
+      , "difficulty": "advanced"
+    },
+    {
+      "id": "pph-q13",
+      "stem": "What is the main mechanism by which bleeding from the placental bed is controlled after delivery?",
+      "options": [
+        "Contraction of the interlacing myometrial fibres compressing the spiral arteries",
+        "Vasoconstriction of the spiral arteries by their smooth muscle",
+        "Platelet plug formation alone",
+        "Reduction in cardiac output after delivery",
+        "Increase in plasma fibrinolytic activity"
+      ],
+      "answer": 0,
+      "explanation": "A is right: the **'living ligatures'**. Myometrial fibres contract and kink the vessels between them, which is why tone matters most. B is wrong: trophoblast invasion replaces the muscular wall of spiral arteries, so they **cannot** constrict. C is wrong: clotting is secondary and cannot control flow of 500–800 mL/min alone. D is wrong: cardiac output actually rises immediately after delivery (autotransfusion). E is wrong: fibrinolysis would **worsen** bleeding, which is why TXA helps."
+      , "difficulty": "core"
+    },
+    {
+      "id": "pph-q14",
+      "stem": "A para 3 is readmitted on day 10 after SVD with heavy fresh vaginal bleeding, temperature 38.6 °C, foul-smelling lochia and a tender, bulky uterus. Pulse 108/min, BP 110/70 mmHg. What is the BEST initial management?",
+      "options": [
+        "Immediate curettage before antibiotics",
+        "IV ampicillin, gentamicin and metronidazole plus uterotonics, ultrasound, and evacuation of any retained products once antibiotics have started",
+        "Oral amoxicillin and discharge home",
+        "Emergency hysterectomy",
+        "Tranexamic acid alone"
+      ],
+      "answer": 1,
+      "explanation": "B is right: this is **secondary PPH from endometritis ± retained products**. Resuscitate, give **broad-spectrum IV antibiotics** (ampicillin 2 g 6-hourly + gentamicin 5 mg/kg daily + metronidazole 500 mg 8-hourly) and uterotonics, scan, and evacuate retained products **after antibiotics have started**, by an experienced operator (a soft infected uterus perforates easily). A is wrong: curettage without antibiotic cover risks septicaemia and perforation. C is wrong: she is septic and bleeding, so needs admission. D is wrong: hysterectomy is a last resort. E is wrong: TXA alone doesn't treat infection or tissue."
+      , "difficulty": "core"
+    },
+    {
+      "id": "pph-q15",
+      "stem": "During laparotomy for atonic PPH in a 22-year-old para 1 who strongly wishes more children, bimanual compression of the uterus on the operating table stops the bleeding. What is the MOST appropriate next surgical step?",
+      "options": [
+        "Total abdominal hysterectomy",
+        "Internal iliac artery ligation by the general surgeon",
+        "Close the abdomen and give more oxytocin",
+        "Subtotal hysterectomy",
+        "B-Lynch uterine compression suture"
+      ],
+      "answer": 4,
+      "explanation": "E is right: if bimanual compression at laparotomy stops the bleeding (the 'compression test'), a **B-Lynch** brace suture is likely to work and preserves fertility. A and D are wrong: hysterectomy is for failure of conservative measures, or earlier if she is in extremis. It is not first choice in a young woman when a compression suture should work. B is wrong: internal iliac ligation is technically difficult, risks ureteric and venous injury, and is less effective than simpler steps. C is wrong: closing without definitive haemostasis risks re-bleeding and death."
+      , "difficulty": "advanced"
+    }
+  ],
+  "cases": [
+    {
+      "id": "pph-c01",
+      "title": "Atonic PPH after a long labour at a HC IV",
+      "presentation": "You are the intern on call at a HC IV in Mukono district at 02:00. A 33-year-old para 5 delivered a 4.0 kg baby 15 minutes ago after a 14-hour labour augmented with oxytocin. The midwife gave oxytocin 10 IU IM at birth and the placenta delivered by CCT. She now calls you: 'the drape is at 600 mL and still filling'.",
+      "steps": [
+        { "prompt": "What are your first actions in the first minute?", "answer": "**Call for help** (second midwife, anaesthetic officer, theatre team), note the time, and assign roles. Assess **ABC**: lie her flat, give **oxygen**, and insert **two large-bore cannulae (14–16G)**. Take blood for Hb, **group and cross-match** and a **bedside clotting test**. Start the **E-MOTIVE bundle** immediately; PPH is already diagnosed (≥500 mL)." },
+        { "prompt": "What quick history and examination points will you check while resuscitating?", "answer": "History from the notes: parity, labour length, **oxytocin augmentation**, big baby (all **atony** risk factors); any **hypertension** (rules out ergometrine) or **asthma** (rules out carboprost); antenatal Hb, HIV status. Exam: pulse **120**, BP **100/64** (shock index 1.2), cool peripheries. The **fundus is soft and at 2 cm above the umbilicus** = atony. Check the **placenta**: complete. Bladder distended. Brief genital inspection: small first-degree tear, not bleeding much." },
+        { "prompt": "Outline the bundle you will give, with doses.", "answer": "- **Massage** the uterus and expel clots\n- **Oxytocin 10 IU IV slowly**, then **20 IU in 1 L RL at 60 drops/min**\n- **TXA 1 g IV over 10 min** (within 3 h of birth)\n- **IV fluids**: warmed RL 1 L fast, then reassess\n- **Catheterise** (empty bladder; hourly urine)\n- **Examine** the genital tract and placenta (done)\n- Plan **escalation** if bleeding continues" },
+        { "prompt": "Fifteen minutes later the uterus keeps relaxing and loss is now 1100 mL; pulse 128. What next?", "answer": "**Escalate**: **misoprostol 800 µg SL** (or ergometrine 0.2 mg IM if normotensive), a **second TXA 1 g** if bleeding continues 30 min after the first, and **bimanual compression**. Re-explore the uterus for **retained clots or tissue**. Insert a **condom catheter balloon tamponade** (300–500 mL saline) if still bleeding. **Transfuse** as soon as blood is available (it is a HC IV, so request from the blood bank). Prepare theatre and get consent for laparotomy (B-Lynch, uterine artery ligation, hysterectomy). Consider an early call to the regional hospital if you lack blood or surgical capacity." },
+        { "prompt": "The tamponade stops the bleeding. How will you manage her over the next 24 hours?", "answer": "Continue the **oxytocin infusion** (20 IU in 1 L at 40 drops/min); give **prophylactic antibiotics** (e.g. ampicillin 2 g IV); vital signs every 15 min for 2 h, then half-hourly; **fluid balance** with urine output >30 mL/h; watch the drain of the balloon. Deflate and remove the balloon after 12–24 h in theatre-ready conditions. Check **Hb at 24 h**; transfuse if symptomatic or Hb <7 g/dL; oral iron and folic acid. Thromboprophylaxis once stable. Breastfeeding support (watch for Sheehan's). **Debrief** her and her husband, and document fully." },
+        { "prompt": "How would you present her on the morning ward round?", "answer": "'Mrs K, a 33-year-old para 5, is day 0 after SVD of a 4 kg baby following a 14-h augmented labour, complicated by **severe atonic PPH of 1100 mL**. She required the E-MOTIVE bundle, a second-line uterotonic, bimanual compression and condom tamponade, and received 2 units of blood. She is now stable: pulse 92, BP 112/70, urine 50 mL/h, uterus firm, minimal loss. Hb 7.9. Plan: remove the tamponade today, continue the oxytocin infusion until then, repeat Hb, oral iron, and counsel her on family planning and on delivering in hospital next time.'" }
+      ],
+      "takeaway": "Measure, don't guess; give the bundle together and early; escalate in parallel (drugs, compression, tamponade, blood, theatre) instead of waiting to see whether each step works."
+    },
+    {
+      "id": "pph-c02",
+      "title": "A firm uterus but still bleeding",
+      "presentation": "At Mengo Hospital, a 22-year-old primigravida has just had a vacuum delivery for prolonged second stage. The placenta delivered complete 10 minutes later after oxytocin 10 IU IM. The drape shows 700 mL and a steady trickle of bright red blood continues. Pulse 108, BP 112/72.",
+      "steps": [
+        { "prompt": "What is the single most useful examination finding to decide the cause?", "answer": "**Palpate the fundus.** If it is **firm, central and at or below the umbilicus**, atony is unlikely. Bright red continuous bleeding with a firm uterus after an instrumental birth suggests **trauma** (cervical, vaginal or perineal tear)." },
+        { "prompt": "What differentials would you consider and how will you distinguish them?", "answer": "1. **Cervical or high vaginal laceration**: speculum, good light, sponge forceps around the whole cervix.\n2. **Perineal or episiotomy extension**: visible.\n3. **Vulvovaginal haematoma**: severe pain, swelling, rectal pressure.\n4. **Retained fragment**: placenta checked complete, less likely.\n5. **Coagulopathy**: clotting test; check that blood forms clots.\n6. **Uterine rupture** (less likely in a primigravida without a scar): abdominal pain, shock out of proportion." },
+        { "prompt": "Examination under good light shows a 3 cm left lateral cervical tear actively bleeding. How do you manage?", "answer": "Still start the bundle basics: IV access, bloods, **TXA 1 g IV** (it helps trauma bleeding too), fluids, catheter. Then **repair**: good light, assistant, analgesia or anaesthesia (move to theatre for EUA if the apex can't be seen). Grasp both sides with sponge forceps, place the **first suture above the apex**, and run continuous absorbable sutures (e.g. 2-0 polyglactin). Check haemostasis and the rest of the genital tract." },
+        { "prompt": "After repair, what monitoring and follow-up does she need?", "answer": "Observations every 15 min for 2 h, then hourly; fundus and loss checks; urine output. **Hb** check; iron and folate. Analgesia. Document the tear and repair. Explain to the woman what happened. Consider a **PPH case review** (why was the tear not seen earlier?)." }
+      ],
+      "takeaway": "A contracted uterus that still bleeds is not an oxytocin problem: look for trauma in good light, repair from above the apex, and remember that TXA also helps trauma-related PPH."
+    },
+    {
+      "id": "pph-c03",
+      "title": "Secondary PPH on day 9",
+      "presentation": "A 28-year-old para 2 presents to a regional referral hospital 9 days after a home birth assisted by a traditional birth attendant. She reports heavy bleeding since morning with clots, fever and lower abdominal pain. Temperature 38.8 °C, pulse 116, BP 100/64. The lochia is foul-smelling.",
+      "steps": [
+        { "prompt": "What focused history will you take and why?", "answer": "- **Place and conduct of birth**: TBA, prolonged labour, was the placenta complete? (retained products)\n- **Onset of fever, rigors, pain**: endometritis\n- **Urinary symptoms, breast pain, cough, calf pain**: other sources of fever\n- **Malaria exposure**: common co-existing cause of fever in Uganda\n- **HIV status/ART**: risk of severe sepsis\n- Previous bleeding, contraception, breastfeeding\n- **Danger symptoms**: dizziness, breathlessness, confusion" },
+        { "prompt": "What examination findings and investigations do you want?", "answer": "Exam: pallor, signs of sepsis (RR, BP, mental state), a **tender, bulky, soft uterus** above the expected size for day 9 (subinvolution), open os with tissue, foul lochia, perineal wound state, breasts, calves.\nInvestigations: **FBC**, **blood cultures**, **HVS/endocervical swab**, **malaria RDT/smear**, **group and cross-match**, urea/creatinine, **pelvic ultrasound** for retained products, urinalysis. β-hCG if bleeding persists or tissue looks molar." },
+        { "prompt": "Outline management step by step.", "answer": "1. Resuscitate: IV access, fluids, oxygen; transfuse if Hb low or unstable.\n2. **IV antibiotics** immediately: **ampicillin 2 g 6-hourly + gentamicin 5 mg/kg daily + metronidazole 500 mg 8-hourly** (or ceftriaxone + metronidazole per local protocol).\n3. **Uterotonic**: oxytocin infusion, or misoprostol 800 µg SL.\n4. Treat malaria if positive.\n5. Once antibiotics have started (usually within hours if bleeding is heavy): **gentle evacuation** of retained products (MVA or blunt curette) by a senior. Beware of perforation.\n6. Continue antibiotics until afebrile for 48 h, then oral to complete 7 days." },
+        { "prompt": "Despite treatment she remains febrile on day 3 of antibiotics. What would you think of?", "answer": "Consider **pelvic abscess** (ultrasound), **septic pelvic thrombophlebitis** (fever spikes despite antibiotics → heparin), infected haematoma, **wound infection**, **resistant organism** (review cultures, change to e.g. meropenem where available), **malaria**, UTI/pyelonephritis, mastitis, drug fever, and rarely retained products still present or GTN." }
+      ],
+      "takeaway": "Secondary PPH is usually infection plus retained products: give antibiotics first, then evacuate gently, and look for other causes of fever (including malaria) if she doesn't settle."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Essential Maternal and Newborn Clinical Care Guidelines for Uganda", "source": "Ministry of Health Uganda", "year": 2022, "url": "https://library.health.go.ug/sites/default/files/resources/Essential%20Maternal%20Newborn%20Care%20Guidelines%202022%20V3.pdf" },
+    { "title": "WHO recommendations on the assessment of postpartum blood loss and use of a treatment bundle for postpartum haemorrhage", "source": "World Health Organization", "year": 2023, "url": "https://www.who.int/publications/i/item/9789240085398" },
+    { "title": "Consolidated guidelines for the prevention, diagnosis and treatment of postpartum haemorrhage: Executive summary", "source": "WHO / FIGO / ICM (NCBI Bookshelf)", "year": 2025, "url": "https://www.ncbi.nlm.nih.gov/books/NBK619236/" },
+    { "title": "Global health agencies issue new recommendations to help end deaths from postpartum haemorrhage", "source": "World Health Organization news release", "year": 2025, "url": "https://www.who.int/news/item/05-10-2025-global-health-agencies-issue-new-recommendations-to-help-end-deaths-from-postpartum-haemorrhage" },
+    { "title": "Randomized Trial of Early Detection and Treatment of Postpartum Hemorrhage (E-MOTIVE)", "source": "Gallos I, et al. New England Journal of Medicine", "year": 2023, "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2303966" },
+    { "title": "Effect of early tranexamic acid administration on mortality, hysterectomy, and other morbidities in women with post-partum haemorrhage (WOMAN)", "source": "WOMAN Trial Collaborators. The Lancet", "year": 2017, "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)30638-4/fulltext" },
+    { "title": "Heat-Stable Carbetocin versus Oxytocin to Prevent Hemorrhage after Vaginal Birth (CHAMPION)", "source": "Widmer M, et al. New England Journal of Medicine", "year": 2018, "url": "https://www.nejm.org/doi/full/10.1056/nejmoa1805489" },
+    { "title": "WHO recommendations: Uterotonics for the prevention of postpartum haemorrhage", "source": "World Health Organization", "year": 2018, "url": "https://apps.who.int/iris/bitstream/handle/10665/277276/9789241550420-eng.pdf" },
+    { "title": "WHO recommendation on uterine balloon tamponade for the treatment of postpartum haemorrhage", "source": "World Health Organization (NCBI Bookshelf)", "year": 2021, "url": "https://www.ncbi.nlm.nih.gov/books/NBK569828/" },
+    { "title": "Prevention and Management of Postpartum Haemorrhage (Green-top Guideline No. 52)", "source": "Royal College of Obstetricians and Gynaecologists", "year": 2016, "url": "https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/prevention-and-management-of-postpartum-haemorrhage-green-top-guideline-no-52/" },
+    { "title": "FIGO recommendations on the management of postpartum hemorrhage 2022", "source": "Escobar MF, et al. International Journal of Gynecology & Obstetrics", "year": 2022, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9313855/" },
+    { "title": "Non-pneumatic anti-shock garment to stabilize women with hypovolemic shock secondary to obstetric hemorrhage", "source": "FIGO Safe Motherhood and Newborn Health Committee. Int J Gynecol Obstet", "year": 2015, "url": "https://obgyn.onlinelibrary.wiley.com/doi/full/10.1016/j.ijgo.2014.10.014" },
+    { "title": "Preventing and Treating Postpartum Haemorrhage: Uterotonics and Tranexamic Acid (Anaesthesia Tutorial of the Week)", "source": "World Federation of Societies of Anaesthesiologists", "url": "https://resources.wfsahq.org/atotw/preventing-and-treating-postpartum-haemorrhage-uterotonics-and-tranexamic-acid/" },
+    { "title": "Incidence and risk factors for postpartum hemorrhage in Uganda", "source": "Ononge S, et al. Reproductive Health", "year": 2016, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4832492/" },
+    { "title": "Severe postpartum haemorrhage at a large referral hospital in Uganda: A prospective observational pilot study", "source": "PLOS One", "year": 2025, "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0331512" }
+  ]
+}
