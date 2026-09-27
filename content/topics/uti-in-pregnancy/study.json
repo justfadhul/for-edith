@@ -105,6 +105,31 @@
       "id": "uti-f21",
       "front": "Key investigations for suspected pyelonephritis in a Ugandan ANC ward?",
       "back": "Urine dipstick and **culture before antibiotics**, **blood cultures**, FBC, creatinine, **mRDT/blood smear**, glucose, lactate where available, fetal heart/CTG; renal ultrasound if not improving."
+    },
+    {
+      "id": "uti-f22",
+      "front": "What are the sepsis-screen triggers in a pregnant woman with suspected pyelonephritis?",
+      "back": "Infection plus any of: temperature **above 38 or below 36 °C**, HR **above 100**, RR **22 or more**, SBP **100 mmHg or below**, new confusion, SpO₂ **below 95%**, oliguria (**below 0.5 mL/kg/h**) or lactate **above 2 mmol/L**. Start the **sepsis bundle within 1 hour**."
+    },
+    {
+      "id": "uti-f23",
+      "front": "Booking MSU grows 10⁵ CFU/mL E. coli; dipstick was nitrite-negative and she has no symptoms. Diagnosis and plan?",
+      "back": "**Asymptomatic bacteriuria** (the dipstick is only ~50% sensitive). Treat by sensitivity for **7 days** (e.g. nitrofurantoin 100 mg MR 12-hourly), then a **test-of-cure culture 1–2 weeks later**, and rescreen each trimester."
+    },
+    {
+      "id": "uti-f24",
+      "front": "Urine: LE +, nitrites negative, many squamous epithelial cells, mixed growth. What does this mean?",
+      "back": "A **contaminated sample**, often from vaginal discharge. Examine for vulvovaginitis, treat the discharge, and **repeat a proper clean-catch MSU** before diagnosing UTI."
+    },
+    {
+      "id": "uti-f25",
+      "front": "What urine microscopy finding points to pyelonephritis rather than cystitis?",
+      "back": "**White cell casts** (formed in the renal tubules). Pyuria (more than 10 pus cells/HPF) and bacteria occur in both."
+    },
+    {
+      "id": "uti-f26",
+      "front": "How should IV fluids be given to a pregnant woman with pyelonephritis and hypotension, and why?",
+      "back": "**500 mL crystalloid boluses**, reassessing chest, SpO₂ and BP after each (up to about 30 mL/kg), with a strict fluid balance chart and urine output **0.5 mL/kg/h or more**. Endotoxin capillary leak plus low oncotic pressure make her prone to **pulmonary oedema/ARDS**."
     }
   ],
   "mcqs": [

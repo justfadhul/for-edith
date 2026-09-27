@@ -10,6 +10,10 @@ highYield:
   - Needle-stick first aid means letting it bleed without squeezing, washing with soap and running water, and reporting it. HIV PEP is TDF/3TC/DTG (TLD) one tablet daily for 28 days, started as soon as possible (ideally within 2 hours, never after 72 hours). Also assess hepatitis B vaccination status.
   - Transmission risk after a needle-stick from an infected source is about 0.3% for HIV, about 1.8% for hepatitis C, and up to 30% for hepatitis B (HBeAg-positive). Hepatitis B is the biggest occupational threat, and it is vaccine-preventable.
   - Donning order is gown, mask, eye protection, gloves. Doffing order is gloves, eye protection, gown, mask (or gown and gloves together), with hand hygiene after every step where hands may be contaminated.
+  - "PEP is needed only for a significant exposure (percutaneous, mucous membrane or non-intact skin, with blood or an infectious fluid such as liquor or vaginal secretions) from a source who is HIV-positive or of unknown status. Intact skin needs no PEP. Never delay PEP for the source result."
+  - "Exposure workup. First aid, report, note the time, rapid HIV test for the worker (positive means ART, not PEP) and the source (with consent), HBsAg, anti-HBs if the response is unknown (10 mIU/mL or more is protective), and a pregnancy test if relevant."
+  - "An outbreak is more cases than expected in a place and time. Notify the IPC focal person, write a case definition, make a line list, culture before antibiotics, audit practice (antibiotic timing, autoclave log and indicators, chlorine freshness, hand rub, multi-dose vials), control and feed back."
+  - "Take pus and blood cultures before antibiotics. Ugandan SSI isolates are often ESBL Klebsiella or E. coli and MRSA, and the same organism in several patients points to a common source."
 ---
 
 ## In a nutshell
@@ -339,6 +343,131 @@ IPC acumen is about **risk assessment and noticing**: seeing the missed moment, 
    - Leaving instruments in chlorine all day, or skipping cleaning and "sterilising" dirty instruments.
    - Throwing gloves into the black bin.
 
+## Clinical workup
+
+In IPC there are two situations you must be able to work up step by step: **(A) an occupational exposure** (a needle-stick, cut or blood splash to you or a colleague), and **(B) a suspected health-care-associated infection or outbreak** (for example a woman with a post-CS wound infection, or several women or babies infected on the same ward). Each step below covers both.
+
+### Step 0: First 5 minutes
+
+**A. Needle-stick, cut or splash:**
+
+1. **Make the patient safe.** Say "sharp injury", hand over or finish the critical step (e.g. clamp a bleeder), and put the sharp in the **safety box**.
+2. **First aid now**: let a percutaneous wound **bleed freely**, **do not squeeze or suck**, and **wash with soap and running water**. Flush eyes or mouth with **plenty of clean water or saline for 10–15 minutes**. No bleach or alcohol on the wound.
+3. **Note the time.** PEP works best **within 2 hours** and must start **within 72 hours**.
+4. **Report immediately** to the in-charge or IPC focal person. Do not wait until the end of the shift.
+5. **Keep the source patient identified** (name and bed) so that consent and testing can be done quickly.
+
+**B. A woman with a suspected ward infection (or a cluster):**
+
+1. **Assess her first, not the paperwork**: airway, breathing, pulse, BP, RR, temperature, SpO₂, conscious level, urine output. **Sepsis warning signs** include temperature **≥38.0 °C or <36 °C**, pulse **>100/min**, RR **>20/min**, SBP **<90 mmHg**, confusion, or urine **<30 mL/h**. Use your unit's obstetric early-warning chart.
+2. If she is septic: **cultures (blood, pus, urine) if they do not delay treatment**, then **IV antibiotics within the first hour** and IV fluids. Call a senior.
+3. **Apply the right precautions straight away**: **contact precautions** (gloves and apron, dedicated equipment) for a draining wound or a suspected MDR organism; isolate or cohort if possible.
+4. **Ask "is she the only one?"** If there have been other similar infections on the ward recently, it may be an **outbreak**: tell the ward in-charge and **IPC focal person today**.
+5. **Red flag for VHF**: fever with unexplained bleeding plus travel to or contact with an outbreak area (Ebola/Marburg). **Isolate, full VHF PPE, notify the district at once.**
+
+### Step 1: Focused history
+
+**A. Exposure (each answer changes the PEP decision):**
+
+- [ ] **Time of exposure.** *Why:* PEP ideally within 2 h, never after 72 h.
+- [ ] **Type**: percutaneous, mucous membrane, non-intact skin, or intact skin. *Why:* **intact skin exposure needs no PEP**.
+- [ ] **Device and depth**: **hollow-bore needle** (cannula, venepuncture) vs solid suture needle; deep injury; **visible blood** on the device. *Why:* hollow-bore, deep and visibly bloody injuries carry the highest risk.
+- [ ] **Body fluid**: blood, bloody fluid, **liquor, vaginal secretions** (infectious) vs urine, faeces, vomit without visible blood (low risk). *Why:* decides whether the exposure is significant.
+- [ ] **Glove worn? Double gloves?** *Why:* a glove wipes off some of the blood and lowers the dose.
+- [ ] **Source**: HIV status, **on ART? last viral load?** HBsAg, HCV. *Why:* an unknown or unsuppressed source means PEP; but **never delay PEP waiting for source results**.
+- [ ] **Your own HIV status** (last test), **hepatitis B vaccination** (number of doses) and **anti-HBs** if known. *Why:* an HIV-positive worker needs ART, not PEP; an unvaccinated worker needs HBV vaccine ± HBIG.
+- [ ] **Pregnancy, breastfeeding, kidney disease, current drugs** (iron, calcium, antacids interact with DTG). *Why:* counselling and dosing.
+
+**B. Suspected HAI / outbreak (the questions you ask of each case):**
+
+- [ ] **What procedure and when?** Date of CS or delivery, theatre, operator, **day of onset** of infection. *Why:* SSIs appear mostly on **day 4–7**; a common theatre, day or team points to a common source.
+- [ ] **Antibiotic prophylaxis: which drug, and when?** *Why:* given after cord clamping or not at all means less protection.
+- [ ] **Labour details**: duration, ROM duration, **number of VEs**, prolonged obstructed labour. *Why:* host risk vs system failure.
+- [ ] **Skin preparation, shaving, wound dressing, who changed it.** *Why:* common breaches.
+- [ ] **For a neonatal cluster**: shared equipment (suction, bag-mask, incubators), **multi-dose vials**, how IV fluids and feeds are prepared, and hand hygiene before handling babies. *Why:* typical sources of Gram-negative neonatal outbreaks.
+- [ ] **Recent changes**: new staff, broken autoclave, water or chlorine shortage, new supplier. *Why:* outbreaks often follow a system change.
+
+### Step 2: Focused examination
+
+**A. Exposure**: look at the **wound** (depth, bleeding, contamination) or the splashed eye or mouth. Check the exposed person's general health (for the baseline).
+
+**B. Patient with a suspected HAI (head to toe for a source):**
+
+| Site | What to look for | Suggests |
+|---|---|---|
+| **Wound** | Redness, induration, pus, gaping, crepitus | SSI (superficial, deep), necrotising infection |
+| **Uterus and lochia** | Tender uterus, **offensive lochia** | Endometritis (organ/space SSI) |
+| **Perineum** | Swollen, discharging repair | Perineal wound infection |
+| **Cannula sites** | Red, tender, cord-like vein | Phlebitis, line infection |
+| **Catheter and urine** | Cloudy urine, suprapubic pain | Catheter-associated UTI |
+| **Chest** | Crackles, reduced air entry | Hospital-acquired pneumonia |
+| **Breasts** | Red, tender, engorged | Mastitis |
+| **Calves** | Swelling, tenderness | DVT (a non-infective cause of fever) |
+
+**B. "Examine the ward" (the environmental walk-through during an outbreak):**
+- **Alcohol rub at the point of care** (at each bed or on the trolley) and **working sinks** with soap and single-use towels.
+- **Chlorine buckets**: made **today**, correct strength, covered.
+- **Autoclave**: logbook complete, **indicator tape** on every pack, cycle times correct.
+- **Sterile store**: packs dry, intact, in date, off the floor.
+- **Safety boxes** within reach and **not more than three-quarters full**; no sharps in the general bins.
+- **Waste bins** colour-coded and used correctly.
+- **Multi-dose vials** (labelled, dated, accessed with a new needle each time?), overcrowding (two women per bed), shared equipment.
+- **Watch staff practice**: hand hygiene at the 5 moments, gloves changed between patients.
+
+### Step 3: Bedside tests
+
+| Test | Use |
+|---|---|
+| **Rapid HIV test** (exposed worker, baseline, with counselling) | A positive result means ART, not PEP. Do it **the same day** |
+| **Rapid HIV test on the source** (with consent) | A negative source (and no recent high-risk exposure) means PEP can be stopped |
+| **Rapid HBsAg test** (source and worker) | Guides the hepatitis B plan |
+| **Urine pregnancy test** (exposed woman) | Counselling; TLD is safe in pregnancy |
+| **Temperature, pulse, BP trend** (patient) | Sepsis recognition and response to treatment |
+| **HemoCue Hb, RBS, urine dipstick, malaria RDT** (patient) | Anaemia and high glucose delay healing; dipstick for UTI; **malaria is a common cause of fever in Uganda** |
+| **Hand hygiene observation audit** (WHO observation form, 20–30 minutes on the ward) | Measures compliance at the 5 moments; gives immediate feedback |
+| **Check the chemical indicator** on packs in use | An unchanged indicator means a sterilisation failure |
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **HIV test of the exposed worker** (rapid test at all levels) | **Baseline**, then about **6 weeks** and **3 months** (some protocols add 6 months) | Negative expected. A positive baseline = infection **before** the exposure | Positive baseline: stop PEP, start ART. Seroconversion: ART and incident review |
+| **Source HIV test and viral load** (rapid test at all levels; VL from the ART clinic records or CPHL samples) | At the time of exposure, with consent | Negative, or positive with suppressed VL, lowers the risk | Negative source: PEP can stop. Positive or unknown: complete 28 days |
+| **HBsAg** (source and worker; rapid test at HC III and above) | Baseline | Source HBsAg-positive | Decides HBIG and vaccine for a non-immune worker |
+| **Anti-HBs level** (regional/national referral or private labs) | Vaccinated worker with an unknown response | **≥10 mIU/mL = protected** | <10: HBIG + booster (see the hepatitis B table) |
+| **HCV antibody**; HCV RNA (referral/private labs) | Baseline and follow-up if the source is HCV-positive or unknown | Seroconversion | Refer for direct-acting antiviral treatment |
+| **Creatinine** (hospital labs) | Baseline for TDF if available | Normal | **Not needed before the first PEP dose**; adjust if renal impairment |
+| **Pus swab for culture and sensitivity** (RRH and national referral microbiology; rarely HC IV) | Every infected wound, **before antibiotics** | **ESBL *Klebsiella*/*E. coli***, **MRSA**, *Pseudomonas* | Targeted antibiotics; the same organism in several patients supports a common source |
+| **Blood cultures** (RRH/national) | Fever with sepsis signs | Bacteraemia | Targeted antibiotics; cluster detection |
+| **Urine culture** (RRH/national) | Suspected CAUTI | Significant growth | Remove or change the catheter; antibiotics |
+| **FBC, CRP** (hospital labs) | Suspected infection | Raised WBC (remember it is higher in labour and after steroids) | Supports infection; follow the trend |
+| **Ultrasound** (hospitals) | Fever not settling after 48–72 h | Pelvic or wound collection, retained products | Drainage or evacuation |
+| **Biological indicator (spore test)** of the autoclave (where available; national/regional sterile services) | During an SSI outbreak, and routinely | Growth = sterilisation failure | Stop the autoclave, recall packs, repair |
+| **Environmental swabs** (national/regional microbiology) | **Only when the epidemiology points to a source** (e.g. a shared suction machine) | The outbreak organism on equipment or fluids | Remove or reprocess the source. Routine environmental swabbing is **not** recommended |
+| **Organism typing** (national reference laboratories; rarely available) | Complex outbreaks | Same strain in several patients | Confirms an outbreak, but **you do not need it to start control measures** |
+
+### Step 5: Putting it together
+
+**A. Model summary of an exposure:** "A 23-year-old student sustained a **deep percutaneous injury** with a **hollow-bore cannula needle, visibly bloody**, at 14:10, from a woman of **unknown HIV status**. First aid done. Worker HIV-negative at baseline, **3 doses of HBV vaccine, anti-HBs unknown**. Assessment: **significant exposure, source unknown**. Plan: **TLD 1 tablet daily for 28 days, first dose now (within 2 hours)**, source HIV and HBsAg tests with consent, worker anti-HBs, follow-up at 2 weeks, HIV tests at 6 weeks and 3 months, incident report."
+
+**Decision grid for HIV PEP:**
+
+| Exposure | Source HIV-positive | Source unknown | Source HIV-negative |
+|---|---|---|---|
+| **Percutaneous, mucous membrane or non-intact skin, with blood or infectious fluid** | **PEP** | **PEP** (review when the source result is back) | No PEP (consider the window period if the source is at high risk) |
+| **Intact skin**, or a non-infectious fluid (urine, vomit without blood) | No PEP | No PEP | No PEP |
+
+**Worked example 1: the source result comes back.** The student above started TLD at 14:40. At 16:00 the source's rapid HIV test is **reactive** and she tells you she stopped ART a year ago; the HBsAg is **negative**. The student's anti-HBs is later **25 mIU/mL**. *Interpretation:* a high-risk HIV exposure (hollow needle, visible blood, **unsuppressed source**); **protected against hepatitis B**. *Plan:* **complete 28 days of TLD**, adherence support, review at 2 weeks, HIV tests at **6 weeks and 3 months**, condoms and no blood donation until the 3-month test is negative. No HBIG needed. Also link the **source woman back to HIV care** (restart ART, check viral load) and make an eMTCT plan for her baby.
+
+**B. Model summary of a suspected outbreak:** "In the last 3 weeks, **5 women** developed **SSIs after CS** on our ward, compared with about 1 a month usually. **4 of 5 pus cultures grew ESBL *Klebsiella***. Onsets were on days 4–6. All were operated in theatre 2."
+
+**Worked example 2: interpreting the outbreak investigation.**
+- **Case definition**: "Any woman with a superficial, deep or organ/space SSI within 30 days of a CS done in our hospital from 1 to 21 March."
+- **Line list**: name, age, date of surgery, theatre, surgeon, antibiotic and its timing, labour duration, onset day, culture result, outcome.
+- **Findings of the audit**: antibiotic given **after cord clamping** in 4 of 5 cases; the theatre 2 autoclave has **no indicator tape in stock** for 2 weeks; chlorine buckets are made **weekly**; hand rub is missing from the post-op ward.
+- *Interpretation:* more cases than expected, clustered in place and time, with the **same organism**: a likely **outbreak** with several system failures (prophylaxis timing, unverified sterilisation, weak decontamination and hand hygiene).
+- *Control measures:* treat each woman (drain, culture-guided antibiotics); **contact precautions and cohorting**; **antibiotic before incision** at every CS (make it part of the Time out); stop using theatre 2's autoclave until verified, with indicator tape and a spore test; **fresh chlorine daily**; alcohol rub at every bed; **feed back** the results to staff; continue **SSI surveillance** (post-discharge follow-up to 30 days) to confirm the outbreak is over.
+
 ## Management
 
 ### 1. Needle-stick / sharps injury or splash: step-by-step algorithm
@@ -469,3 +598,53 @@ IPC acumen is about **risk assessment and noticing**: seeing the missed moment, 
 - **Needle-stick "BLEED-WASH-REPORT-PEP"** within **2 hours ideally, 72 hours maximum**.
 - **Risk "Rule of 3s"**: HBV **30%**, HCV **3%** (actually about 1.8%, so remember it as "under 3"), HIV **0.3%**.
 - **Bin colours "Black is Benign, Yellow is Yucky, Red is Really dangerous, Brown is for Bottles of drugs."**
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Alcohol hand rub | **20–30 seconds** |
+| Soap and water handwash | **40–60 seconds** (when hands are visibly soiled, after the toilet, spores/diarrhoea) |
+| Decontamination | **0.5% chlorine for 10 minutes** (no longer: corrosion) |
+| 0.5% chlorine from 3.5% JIK | **1 part JIK + 6 parts water** |
+| 0.5% chlorine from HTH (70%) | About **7 g per litre** |
+| Chlorine for HLD by soak | **0.1%** (JIK 1 : 34) for 20 min in general IP manuals; some MVA guidance uses **0.5% for 20 min**. Follow the unit protocol |
+| HLD by boiling or steaming | **20 minutes** (timed from the rolling boil) |
+| Glutaraldehyde 2% | **20 min = HLD**; **8–10 h = sterilisation** |
+| Autoclave | **121 °C, 106 kPa (15 lb/in²), 20 min unwrapped / 30 min wrapped** |
+| Dry heat | **170 °C for 60 min** (or 160 °C for 120 min) |
+| HLD items storage | Covered HLD container, up to about **1 week** |
+| Safety box | Close at **three-quarters full** |
+| Blood spill | Cover with **0.5% chlorine for about 10 min** |
+| HAI definition | Appears **≥48 h** after admission, or within **30 days** of surgery (**90 days** with an implant) |
+| Droplets vs airborne | Droplets **>5 µm**, travel about **1–2 m**; airborne **<5 µm** (TB, measles, varicella) need an **N95** |
+| HIV PEP | **TLD (TDF 300 / 3TC 300 / DTG 50) 1 tablet daily for 28 days**; start ideally within **2 h**, never after **72 h** |
+| PEP follow-up | Review at **2 weeks**; HIV test at about **6 weeks and 3 months** |
+| Transmission risk after needle-stick | **HBV up to 30%** (HBeAg+), **HCV about 1.8%**, **HIV about 0.3%** (mucous membrane about 0.09%) |
+| HBIG | As soon as possible, ideally within **24 h** (up to 7 days) |
+| Protective anti-HBs | **≥10 mIU/mL** |
+| HBV vaccine schedule | **0, 1 and 6 months** |
+| VHF contacts | Monitor for **21 days** |
+
+### Classic exam traps
+
+- **"Gloves replace hand hygiene."** No. Clean hands before (if a moment applies) and **always after** removing gloves.
+- **"Wait for the source's HIV result before starting PEP."** No. **Start PEP now**; stop it if the source is negative.
+- **"Squeeze the wound and pour bleach or spirit on it."** No. Let it **bleed freely**, wash with **soap and running water**.
+- **"PEP can still be started on day 4."** No. Beyond **72 hours** PEP is not recommended; test and follow up instead.
+- **"An HIV-positive health worker gets PEP."** No. She needs full **ART** and linkage to care.
+- **"Leave instruments in chlorine overnight to be extra safe."** No. **10 minutes** only; longer corrodes the steel.
+- **"Just sterilise the dirty instruments."** No. **Clean first**: you cannot sterilise dirt.
+- **"Use alcohol rub on visibly soiled hands."** No. Use **soap and water** when hands are visibly soiled.
+
+### Questions seniors ask
+
+1. **You have just had a needle-stick. What do you do, in order?** Make the patient safe; let it **bleed**, **wash with soap and water**; **report**; assess the exposure and source; baseline HIV test; **TLD within 2 h (max 72 h) for 28 days**; hepatitis B plan; counselling; follow-up tests at 6 weeks and 3 months.
+2. **Which exposures do NOT need PEP?** **Intact skin** contact, and contact with urine, faeces, saliva or vomit **without visible blood**; and any exposure more than **72 hours** earlier.
+3. **The source is HIV-positive with an undetectable viral load last month. Do you still give PEP?** The risk is very low, but most Ugandan protocols still give PEP when there is **any doubt** (an old result, poor adherence). Discuss with the PEP provider; don't simply refuse it.
+4. **How do you recognise an outbreak?** **More cases than expected** in a particular place and time, often with the **same organism**. Notify the IPC focal person, write a **case definition**, make a **line list**, audit practices, control, and monitor.
+5. **Why are routine environmental swabs not recommended?** They are expensive and hard to interpret. Take them **only when the epidemiology points to a source**.
+6. **What is the difference between decontamination, HLD and sterilisation?** Decontamination (0.5% chlorine 10 min) makes items safe to handle; **HLD** kills all organisms except some spores; **sterilisation** kills everything, including spores.
+7. **A health worker had 3 HBV vaccine doses but her anti-HBs is 4 mIU/mL; the source is HBsAg-positive. What do you give?** She is a **non-responder**: give **HBIG** and **revaccinate** (or HBIG twice), as in the hepatitis B table.

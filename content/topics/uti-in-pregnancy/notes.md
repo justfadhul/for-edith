@@ -4,9 +4,14 @@ summary: Progesterone-induced ureteric relaxation and compression by the gravid 
 highYield:
   - Pregnancy predisposes to UTI through progesterone (smooth-muscle relaxation, ureteric dilatation, reduced peristalsis), mechanical compression (right more than left), vesicoureteric reflux, glycosuria and a larger, slower-emptying bladder.
   - Asymptomatic bacteriuria (ASB, 10⁵ CFU/mL or more of one organism on a clean-catch MSU without symptoms) affects about 2–10% of pregnant women (about 13% in a Mulago study); untreated, up to 30–40% progress to pyelonephritis, so screen and treat for 7 days.
+  - Dipstick nitrites are specific but only about 50% sensitive, so a negative dipstick does not exclude ASB. Send a clean-catch MSU for culture before the first antibiotic dose wherever possible.
+  - Cystitis (dysuria, frequency, suprapubic pain, no fever) is treated as an outpatient for 5–7 days. Fever or loin pain means pyelonephritis, and every case is admitted.
   - E. coli causes 70–80% of UTIs; Ugandan isolates are often resistant to co-trimoxazole and amoxicillin, so culture where possible and do a test of cure.
+  - First-line oral options are nitrofurantoin 100 mg MR 12-hourly, cephalexin 500 mg 8–12-hourly, or amoxicillin 500 mg 8-hourly only if sensitive, for 5–7 days, with a test-of-cure culture 1–2 weeks after treatment.
   - Safe drugs are nitrofurantoin (avoid near term and in G6PD deficiency), amoxicillin or amoxicillin-clavulanate, cephalexin, cefixime and ceftriaxone. Avoid fluoroquinolones and tetracyclines, trimethoprim in the first trimester, and sulfonamides near term.
   - Every case of pyelonephritis in pregnancy is admitted - cultures, IV ceftriaxone 1–2 g daily, careful fluids, paracetamol, fetal monitoring, then oral step-down to complete 10–14 days.
+  - Screen every febrile pregnant woman for sepsis (temperature above 38 or below 36 °C, HR above 100, RR 22 or more, SBP 100 or below, confusion, SpO₂ below 95%, lactate above 2) and do an mRDT; start the sepsis bundle within 1 hour.
+  - Fever persisting after 48–72 hours of IV antibiotics means check the culture (ESBL?), do a renal ultrasound for obstruction or abscess, and rethink the diagnosis.
   - Complications of pyelonephritis are sepsis/septic shock, ARDS (endotoxin capillary leak, worsened by fluid overload and beta-agonists), anaemia, AKI, preterm labour and recurrence.
   - Recurrent UTI or pyelonephritis needs nightly prophylaxis (nitrofurantoin 50–100 mg or cephalexin 250–500 mg) until after delivery, plus a search for a cause (diabetes, stones, sickle cell, HIV, anatomical anomaly).
 ---
@@ -141,6 +146,121 @@ Gut flora (E. coli) colonise perineum -> urethra -> bladder (ASB / cystitis)
   5. Using **nitrofurantoin for pyelonephritis** (it does not achieve adequate renal tissue or blood levels).
   6. Forgetting the **fetus** (fetal heart, contractions, steroids if preterm).
 
+## Clinical workup
+
+On an antenatal ward the question is almost always one of three: **Is this bacteriuria at all? Is it lower (cystitis) or upper (pyelonephritis)? Is she septic?** The steps below answer them in that order, while keeping an eye on the fetus and on the other causes of fever in Uganda.
+
+### Step 0: First 5 minutes
+
+1. **Full set of vital signs on a MEOWS chart**: temperature, pulse, **RR**, BP, SpO₂, level of consciousness, and the time she last passed urine.
+2. **Sepsis screen**: suspected infection plus **any one** of temperature **above 38 °C or below 36 °C**, HR **above 100**, RR **22 or more**, SBP **100 mmHg or below**, new confusion, SpO₂ **below 95%**, or oliguria. If positive: **call a senior** and start the **sepsis bundle within 1 hour** (oxygen, blood cultures, IV antibiotics, fluids, lactate and Hb, urine output).
+3. **IV access and bloods at the same time**: FBC, **blood cultures**, creatinine, **mRDT**, glucose, lactate where available.
+4. **Urine sample before the first antibiotic dose**: clean-catch MSU (or catheter specimen if she is too ill), for dipstick and **culture**.
+5. **Start treatment without waiting for results**: **ceftriaxone 1 g IV daily (2 g if septic)**, paracetamol 1 g, and **500 mL crystalloid boluses** only if hypotensive, reassessing the chest and SpO₂ after each.
+6. **Fetal heart and uterus**: FHR (tachycardia above 160 is common with maternal fever), contractions, uterine tenderness.
+
+> [!REDFLAG]
+> **Breathless, SpO₂ falling or crackles after IV fluids** = pulmonary oedema/ARDS until proven otherwise. Stop the fluids, sit her up, give oxygen and call for help.
+
+### Step 1: Focused history
+
+- [ ] **Urinary symptoms**: dysuria (internal or external?), new frequency, urgency, suprapubic pain, haematuria, smelly urine. **Frequency alone is normal in pregnancy**; external dysuria suggests vulvovaginitis.
+- [ ] **Upper tract symptoms**: **fever, rigors, loin/back pain, nausea and vomiting**. Any of these = pyelonephritis; vomiting means oral drugs will fail.
+- [ ] **Gestational age**: decides drug choice (no trimethoprim in the first trimester; no nitrofurantoin or sulfonamides near term) and steroids if preterm labour threatens.
+- [ ] **Obstetric symptoms**: tightenings, bleeding, **leaking liquor**, fetal movements. Preterm labour, abruption, PPROM/chorioamnionitis.
+- [ ] **Other fever sources**: headache, myalgia (malaria), cough (pneumonia), offensive discharge (chorioamnionitis), RIF pain (appendicitis).
+- [ ] **Previous UTIs this pregnancy**: treated with what, and was a **test of cure** done? Recurrence or relapse changes the plan (culture, prophylaxis, imaging).
+- [ ] **Risk factors**: diabetes, **sickle cell disease or trait**, **HIV** (and co-trimoxazole), stones, known urinary tract anomaly, recent catheter.
+- [ ] **Antibiotics already taken** (including pharmacy-bought ciprofloxacin): affects culture yield and resistance.
+- [ ] **Allergies** (penicillin: type of reaction) and **G6PD deficiency** (nitrofurantoin).
+- [ ] **Vaginal discharge, itch, new partner**: STI or vaginitis causing dysuria and sterile pyuria.
+
+### Step 2: Focused examination
+
+| Area | Look for | Key positives and negatives to document |
+|---|---|---|
+| **General** | Toxic look, rigors, hydration, pallor (haemolysis), jaundice, confusion | "Febrile, flushed, dry mucosae, not pale, alert" |
+| **Vital signs** | MEOWS triggers | "T 39.2 °C, HR 118, RR 22, BP 104/66, SpO₂ 97% on air: sepsis screen positive" |
+| **Chest** | Crackles (pneumonia; later, pulmonary oedema/ARDS) | "Chest clear" (re-examine after fluids) |
+| **Abdomen** | Suprapubic tenderness (cystitis); **renal angle tenderness** on gentle percussion (pyelonephritis); RIF/flank tenderness (appendicitis); RUQ (cholecystitis, HELLP) | "Right renal angle tenderness; no RIF tenderness; bladder not palpable" |
+| **Obstetric** | SFH, **uterine tenderness** (chorioamnionitis, abruption, red degeneration), **contractions**, FHR | "Uterus soft, non-tender, no contractions, FHR 170" |
+| **Speculum** (if discharge, bleeding or leaking) | Liquor (PPROM), cervicitis, discharge | "No liquor, no discharge" |
+| **Vaginal examination** | Only if contractions or suspected labour (and not if PPROM without labour) | Cervical change = preterm labour |
+
+### Step 3: Bedside tests
+
+| Test | How to read it |
+|---|---|
+| **Urine dipstick** (fresh sample) | **Nitrites positive**: Gram-negative bacteria (specific; only about 50% sensitive). **Leucocyte esterase**: pyuria. Both positive with symptoms = treat as UTI. LE alone = possible contamination, STI or vaginitis. **Protein**: UTI or pre-eclampsia (check BP). **Glucose**: lower renal threshold or diabetes. **Ketones**: vomiting/starvation. **Blood**: infection, stone, contamination |
+| **Look at the urine** | Cloudy, offensive urine supports infection; clear urine makes it less likely (not excluded) |
+| **mRDT** (± blood smear) | Every febrile woman. A positive HRP2 mRDT can stay positive for weeks after treated malaria and does **not** exclude pyelonephritis |
+| **RBS** | Undiagnosed diabetes (recurrent UTI) or stress hyperglycaemia |
+| **HemoCue Hb** | Haemolytic anaemia from endotoxin |
+| **HIV rapid test** (if status unknown) | Risk factor; changes prophylaxis (co-trimoxazole) |
+| **Pulse oximetry** | Baseline and after every fluid bolus (ARDS watch) |
+| **Hourly urine output** (catheter if septic) | Aim **0.5 mL/kg/h or more** |
+| **Fetal heart / CTG** (viable gestation) | Tachycardia settles as maternal fever falls; persistent abnormality needs review |
+| **Point-of-care ultrasound** | Fetal viability, liquor, placenta; **gross hydronephrosis** if trained (formal renal scan still needed) |
+
+### Step 4: Laboratory & imaging
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Urine microscopy** | Symptoms, positive dipstick | Pus cells **more than 10 per high-power field**, bacteria; **white cell casts = pyelonephritis**; many squamous cells = contaminated sample | Supports diagnosis; repeat a contaminated sample. HC IV and above |
+| **Urine culture and sensitivity** (MSU before antibiotics) | **Booking screen** (ASB), every symptomatic UTI where possible, **always in pyelonephritis**, recurrence, treatment failure | **10⁵ CFU/mL or more of one organism** (lower counts on a catheter specimen); **GBS at any count**; mixed growth = contamination | Targets therapy (resistance to amoxicillin/co-trimoxazole, **ESBL**); GBS → intrapartum prophylaxis. Regional/national referral and private labs; results in 2–3 days |
+| **Test-of-cure culture** | **1–2 weeks** after finishing treatment | Persistent bacteriuria in about 1 in 5 | Re-treat by sensitivity; consider prophylaxis |
+| **Blood cultures** | Pyelonephritis, sepsis, before antibiotics | Positive in **15–20%** of pyelonephritis | Guides antibiotics; bacteraemia = closer monitoring. Regional/national referral |
+| **FBC** | Pyelonephritis, sepsis | WBC raised; **anaemia** (haemolysis, about a quarter); **low platelets** (sepsis/DIC) | Severity; transfusion; DIC workup |
+| **Creatinine, urea, electrolytes** | Pyelonephritis, sepsis, before gentamicin | Creatinine above ~77–80 µmol/L is suspicious in pregnancy (normal 35–70) | AKI: adjust or avoid gentamicin; fluid balance |
+| **Lactate** (where available) | Sepsis screen positive | **Above 2 mmol/L** = hypoperfusion; **4 or more** = severe | Fluid boluses, HDU/ICU; lactate above 2 alone meets the sepsis trigger |
+| **LFTs** | RUQ pain, jaundice, hypertension | Raised ALT, bilirubin | HELLP, cholecystitis, hepatitis |
+| **Renal ultrasound** | **No response in 48–72 h**, recurrent pyelonephritis, haematuria or colic, suspected stone | **Hydronephrosis out of proportion** to gestation, stone, renal/perinephric abscess | Urology: ureteric stent or nephrostomy; drainage. Hospitals |
+| **Obstetric ultrasound** | Pyelonephritis, contractions, uncertain dates | GA, liquor, placenta, fetal wellbeing | Steroids, timing, differential (abruption, fibroid degeneration) |
+| **Chest X-ray** (shielded) | Breathless, SpO₂ below 95%, crackles | Bilateral infiltrates (ARDS/oedema), lobar consolidation | Stop fluids, oxygen, diuretic if oedema, ICU |
+| **Gram stain of MSU** | Where culture is unavailable (WHO-suggested ASB screen) | Bacteria on Gram stain | Treat ASB empirically, then test of cure if possible |
+
+### Step 5: Putting it together
+
+**Model one-line summary**
+> "A 24-year-old G2P1 at 26 weeks with 2 days of fever, rigors, right loin pain and vomiting, febrile 39.2 °C, tachycardic 118, RR 22, BP 104/66, with right renal angle tenderness, nitrite-positive urine, negative mRDT and fetal tachycardia."
+
+**Problem list**
+1. **Acute right pyelonephritis with sepsis** (sepsis screen positive).
+2. Vomiting and dehydration: needs IV therapy, but at risk of fluid overload/ARDS.
+3. **Fetal tachycardia** and risk of **preterm labour** at 26 weeks.
+4. Previous untreated cystitis at 14 weeks without test of cure: recurrence risk, needs prophylaxis.
+
+**Working diagnosis**: acute pyelonephritis in pregnancy complicated by sepsis, probably *E. coli*.
+
+#### Worked example 1: reading urine results
+
+| Woman | Symptoms | Dipstick | Microscopy / culture | Interpretation and action |
+|---|---|---|---|---|
+| A (booking, 14 weeks) | None | Nitrites **negative**, LE negative | Culture: **10⁵ CFU/mL *E. coli***, sensitive to nitrofurantoin and cephalexin | **ASB** (a negative dipstick did not exclude it). Nitrofurantoin 100 mg MR 12-hourly for **7 days**; test of cure in 1–2 weeks |
+| B (22 weeks) | Dysuria, frequency, no fever | Nitrites **+**, LE **++** | Pus cells 25/HPF; culture pending | **Acute cystitis**. Send MSU first, start **cephalexin 500 mg 8-hourly for 5–7 days**; adjust to sensitivity; safety-net advice |
+| C (20 weeks) | Dysuria, itch, discharge | Nitrites negative, LE **+** | Pus cells 15/HPF, many squamous cells; culture: **mixed growth** | **Contaminated sample** and likely **vulvovaginitis**. Speculum, treat the discharge, repeat a proper clean-catch MSU |
+| D (30 weeks) | None | Negative | Culture: **GBS 10⁴ CFU/mL** | **GBS bacteriuria** (any count counts): treat now and give **intrapartum IV benzylpenicillin** in labour |
+| E (18 weeks) | Dysuria, weight loss, HIV-positive | LE **++**, nitrites negative | Pus cells 30/HPF, **culture sterile** twice | **Sterile pyuria**: think chlamydia/gonorrhoea, recent antibiotics, **urinary TB** (early-morning urine for GeneXpert) |
+
+#### Worked example 2: the sepsis screen in pyelonephritis
+
+Admission observations for woman above (the one-line summary):
+
+| Parameter | Value | Trigger? |
+|---|---|---|
+| Temperature | 39.2 °C | Yes (above 38) |
+| Heart rate | 118/min | Yes (above 100) |
+| Respiratory rate | 22/min | Yes (22 or more) |
+| Systolic BP | 104 mmHg | No (but close to 100) |
+| SpO₂ | 97% | No |
+| Consciousness | Alert | No |
+| Lactate | 2.6 mmol/L | Yes (above 2) |
+| WBC / Hb / creatinine | 17 × 10⁹/L / 10.1 g/dL / 88 µmol/L | Leucocytosis; creatinine **raised for pregnancy** (AKI risk) |
+
+**Interpretation**: sepsis from a urinary source (several triggers plus raised lactate), not yet septic shock.
+
+**Action within 1 hour**: senior informed; oxygen only if SpO₂ falls below 94%; **blood and urine cultures**, then **ceftriaxone 2 g IV** (avoid gentamicin for now given the creatinine); **500 mL Ringer's lactate** boluses with chest and SpO₂ checks after each; catheter and hourly urine output; paracetamol 1 g; repeat lactate. FBC and creatinine daily. CTG: expect the fetal tachycardia to settle as the fever falls. **Review at 48–72 hours**: if still febrile, check culture (ESBL?) and arrange a **renal ultrasound**.
+
 ## Differential diagnosis
 
 | Condition | Distinguishing features | Key investigation |
@@ -162,22 +282,7 @@ Gut flora (E. coli) colonise perineum -> urethra -> bladder (ASB / cystitis)
 
 ## Investigations
 
-| Test | What you are looking for | Why |
-|---|---|---|
-| **Urine dipstick** | **Nitrites** (Gram-negative bacteria convert nitrate to nitrite; specific but only ~50% sensitive), **leucocyte esterase** (pyuria), blood, protein, glucose, ketones | Quick screen; also checks for pre-eclampsia (protein), diabetes (glucose), dehydration (ketones) |
-| **Urine microscopy** | Pus cells (more than 10 per high-power field), bacteria, casts (white cell casts = pyelonephritis), epithelial cells (contamination) | Supports diagnosis |
-| **Urine culture and sensitivity** (clean-catch MSU, before antibiotics) | **10⁵ CFU/mL or more of one organism**; sensitivities | Gold standard; guides therapy; **essential in pyelonephritis, recurrent UTI and treatment failure** |
-| **Test-of-cure culture** 1–2 weeks after treatment | Eradication | About 1 in 5 women have persistent bacteriuria |
-| **FBC** | Leucocytosis, **anaemia** (haemolysis), thrombocytopenia (sepsis/DIC) | Severity and complications |
-| **Blood cultures** (before antibiotics) | Bacteraemia (15–20% of pyelonephritis) | Guides therapy in sepsis |
-| **Creatinine, urea, electrolytes** | AKI | Drug dosing (gentamicin), severity |
-| **Lactate** (where available) | Above 2 mmol/L = hypoperfusion; 4 or above = severe hypoperfusion (septic shock if vasopressors are needed despite fluids) | Sepsis severity |
-| **mRDT / blood smear** | Malaria | Commonest co-diagnosis |
-| **Blood glucose** | Undiagnosed diabetes | Recurrent UTI risk factor |
-| **HIV test** (if status unknown) | HIV | Risk factor; co-trimoxazole prophylaxis |
-| **Renal ultrasound** | Obstruction (stone), abscess, **hydronephrosis out of proportion** to gestation, congenital anomalies | If no response in 48–72 hours, recurrent pyelonephritis, haematuria, suspected stone |
-| **Obstetric ultrasound / CTG** | Fetal wellbeing, gestational age, liquor | Fever and sepsis affect the fetus |
-| **SpO₂, CXR** (if breathless) | ARDS, pulmonary oedema, pneumonia | Complications |
+Each test, with its interpretation and Ugandan availability, is in **Clinical workup, Steps 3 and 4** above. The sample itself is where most mistakes happen, so learn to teach this.
 
 ### How to collect a clean-catch MSU (teach the patient)
 
@@ -185,6 +290,7 @@ Gut flora (E. coli) colonise perineum -> urethra -> bladder (ASB / cystitis)
 2. Clean the vulva **front to back** with water (not antiseptic, which can kill bacteria in the sample).
 3. Pass the **first part of the stream into the toilet**, then catch the **middle part** in a sterile container without touching the inside.
 4. Deliver to the lab **within 2 hours** (or refrigerate at 4 °C for up to 24 hours).
+5. Label the form with **gestation, symptoms and any antibiotics already taken**, and whether it is a catheter specimen (lower counts are significant).
 
 ## Management
 
@@ -356,3 +462,55 @@ Gut flora (E. coli) colonise perineum -> urethra -> bladder (ASB / cystitis)
 **Safe choices: "Nice Pregnant Cells Face Care"**: **N**itrofurantoin (not at term), **P**enicillins (amoxicillin, co-amoxiclav), **C**ephalosporins (cephalexin, cefixime, ceftriaxone), **F**osfomycin, **C**linical culture-guided therapy.
 
 **Pyelonephritis management: "ADMIT"**: **A**ll cases admitted; **D**raw cultures (blood, urine) first; **M**edicate IV ceftriaxone; **I**ntake/output (careful fluids, watch for ARDS); **T**est of cure and prophylaxis afterwards.
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Significant bacteriuria (MSU) | **10⁵ CFU/mL or more** of one organism (lower on catheter specimen; **GBS at any count**) |
+| ASB prevalence | **2–10%** (about **13%** at Mulago) |
+| Untreated ASB → pyelonephritis | **20–40%** (about 1–2% if treated) |
+| Pyelonephritis | **1–2%** of pregnancies; mostly 2nd/3rd trimester; **right** more than left |
+| *E. coli* share | **70–80%** |
+| Dipstick nitrite sensitivity | Only about **50%** |
+| Microscopy pyuria | **More than 10 pus cells/HPF**; white cell casts = pyelonephritis |
+| Nitrofurantoin | **100 mg MR 12-hourly** (or 50–100 mg 6-hourly standard) × **5–7 days**; avoid from ~36–38 weeks, in labour, G6PD deficiency |
+| Amoxicillin | **500 mg 8-hourly × 7 days** (only if sensitive) |
+| Cephalexin | **500 mg 8–12-hourly × 5–7 days** |
+| Amoxicillin-clavulanate / cefixime | **625 mg 8-hourly** / **200 mg 12-hourly**, 5–7 days |
+| ASB course (WHO) | **7 days** |
+| Pyelonephritis IV | **Ceftriaxone 1 g IV daily (2 g if septic)**; alternative ampicillin 2 g 6-hourly + gentamicin 5 mg/kg daily |
+| IV to oral switch | Afebrile **24–48 h**; total course **10–14 days** |
+| Blood culture positive in pyelonephritis | **15–20%** |
+| Sepsis triggers | T **above 38 or below 36**, HR **above 100**, RR **22 or more**, SBP **100 or below**, SpO₂ **below 95%**, confusion, lactate **above 2** (severe **4 or more**) |
+| Fluid bolus | **500 mL** crystalloid, reassess, up to about **30 mL/kg** |
+| Urine output target | **0.5 mL/kg/h or more** |
+| Review for failure | **48–72 h** (culture, renal ultrasound) |
+| Test of cure | **1–2 weeks** after treatment |
+| Prophylaxis | Nitrofurantoin **50–100 mg** nightly or cephalexin **250–500 mg** nightly until delivery |
+| GBS intrapartum prophylaxis | Benzylpenicillin **3 g IV**, then **1.8 g IV 4-hourly**; clindamycin **900 mg IV 8-hourly** if allergic |
+| Recurrence after pyelonephritis | **6–8%** (higher without prophylaxis) |
+
+### Classic exam traps
+
+- **"Ciprofloxacin for UTI."** Wrong in pregnancy: **avoid fluoroquinolones**. Use nitrofurantoin, cephalexin, amoxicillin-clavulanate or ceftriaxone.
+- **"Negative dipstick, so no ASB."** Wrong: nitrites are only ~50% sensitive; **culture** is the screen.
+- **"Nitrofurantoin for pyelonephritis."** Wrong: poor renal tissue and blood levels. **IV ceftriaxone**.
+- **"Nitrofurantoin at 39 weeks."** Wrong: neonatal haemolysis; use cephalexin near term.
+- **"Treat pyelonephritis as an outpatient with oral antibiotics."** Wrong: **admit every case**.
+- **"The mRDT is positive, so the fever is malaria."** Not necessarily: malaria and pyelonephritis co-exist, and HRP2 tests stay positive after treatment. Examine the loins and dip the urine.
+- **"Give 3 L of fluid quickly because she is febrile."** Wrong: pregnant women with pyelonephritis are prone to **ARDS/pulmonary oedema**. **500 mL boluses** with reassessment.
+- **"Salbutamol for the contractions."** Wrong: beta-agonists worsen pulmonary oedema. Treat the infection; use **nifedipine** if tocolysis is appropriate.
+
+### Questions seniors ask
+
+1. **"How do you know this is pyelonephritis and not cystitis?"** Fever, rigors, loin pain and renal angle tenderness (upper tract). Cystitis has no fever or loin pain.
+2. **"Is she septic?"** State the triggers: temperature, HR, RR, SBP, SpO₂, consciousness, urine output, lactate. One or more with infection = start the sepsis bundle within 1 hour.
+3. **"Did you send a urine culture before the first dose?"** It should be sent before antibiotics; it is the only way to catch ESBL and to do a meaningful test of cure.
+4. **"What antibiotic, what dose and for how long?"** Ceftriaxone 1 g IV daily (2 g if septic) until afebrile 24–48 hours, then oral cefixime, amoxicillin-clavulanate or cephalexin by sensitivity to complete 10–14 days.
+5. **"She is still febrile at 72 hours. What now?"** Check culture (ESBL: meropenem), renal ultrasound for obstruction or abscess, rethink the diagnosis (malaria, chorioamnionitis, appendicitis, pneumonia), urology if obstructed.
+6. **"Why is her Hb falling?"** Endotoxin-mediated **haemolysis** (about a quarter of women), plus dilution from IV fluids; also consider malaria.
+7. **"What happens after discharge?"** Complete the oral course, **test of cure** in 1–2 weeks, **nightly prophylaxis** until delivery, monthly (or each-trimester) urine culture, look for a cause (diabetes, sickle cell, HIV, stones).
+8. **"What does sterile pyuria make you think of?"** Chlamydia/gonorrhoea, recent antibiotics, contamination by vaginal discharge, and **urinary TB** (especially with HIV).
