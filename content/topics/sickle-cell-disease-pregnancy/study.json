@@ -1,0 +1,446 @@
+{
+  "slug": "sickle-cell-disease-pregnancy",
+  "flashcards": [
+    {
+      "id": "scd-f01",
+      "front": "What is the molecular defect in HbS?",
+      "back": "A point mutation in the **beta-globin gene (codon 6)** replacing **glutamic acid with valine**. Deoxygenated HbS polymerises, making rigid sickled cells."
+    },
+    {
+      "id": "scd-f02",
+      "front": "Name five triggers of sickling.",
+      "back": "**Cold, dehydration, hypoxia, infection (including malaria) and acidosis** (also stress and exertion)."
+    },
+    {
+      "id": "scd-f03",
+      "front": "Why does pregnancy increase crises in SCD?",
+      "back": "Dilutional anaemia and folate demand, **hypercoagulability**, higher oxygen demand, the **hypoxic placental bed**, more infections (UTI, malaria), vomiting/dehydration, and the stresses of labour and the puerperium."
+    },
+    {
+      "id": "scd-f04",
+      "front": "Why do fetuses of mothers with SCD develop growth restriction?",
+      "back": "Sickling and vaso-occlusion in the **uteroplacental circulation** cause placental infarction and insufficiency, reducing oxygen and nutrient delivery (plus maternal anaemia and hypoxia in crises)."
+    },
+    {
+      "id": "scd-f05",
+      "front": "Folic acid dose in SCD pregnancy and why?",
+      "back": "**5 mg orally once daily**, before conception and throughout pregnancy: chronic **haemolysis** increases red cell turnover and folate demand."
+    },
+    {
+      "id": "scd-f06",
+      "front": "Why avoid routine iron in SCD?",
+      "back": "Iron from haemolysed cells is recycled and transfusions add iron, so women are usually **iron-replete or overloaded**. Give iron only if **ferritin** shows deficiency."
+    },
+    {
+      "id": "scd-f07",
+      "front": "What should be stopped before conception in SCD?",
+      "back": "**Hydroxyurea (at least 3 months before)**, **ACE inhibitors/ARBs**, and **iron chelators**."
+    },
+    {
+      "id": "scd-f08",
+      "front": "Why is penicillin prophylaxis given in SCD, and the dose?",
+      "back": "**Functional asplenia** (auto-infarction) predisposes to pneumococcal sepsis. **Penicillin V 250 mg orally twice daily** (erythromycin 250 mg twice daily if allergic), plus vaccines."
+    },
+    {
+      "id": "scd-f09",
+      "front": "What is the SP–folic acid problem in Uganda?",
+      "back": "WHO advises **not giving folic acid 5 mg or more with IPTp-SP** because high-dose folate antagonises SP. Options: **daily proguanil 200 mg** with folic acid, or SP with folic acid withheld for about 1–2 weeks after each dose, per unit protocol. Never omit malaria prevention."
+    },
+    {
+      "id": "scd-f10",
+      "front": "Aspirin in SCD pregnancy?",
+      "back": "**75 mg orally once daily from 12 weeks** (to about 36 weeks) to reduce **pre-eclampsia** risk."
+    },
+    {
+      "id": "scd-f11",
+      "front": "Postnatal thromboprophylaxis in SCD (RCOG)?",
+      "back": "**LMWH for 7 days after vaginal delivery** and **6 weeks after caesarean section**, plus LMWH during any antenatal admission."
+    },
+    {
+      "id": "scd-f12",
+      "front": "First-line analgesia in a painful crisis?",
+      "back": "Within **30 minutes**: **paracetamol 1 g** plus an **opioid (morphine)** titrated to effect; NSAIDs only **between 12 and 28 weeks**; **avoid pethidine** (norpethidine causes seizures)."
+    },
+    {
+      "id": "scd-f13",
+      "front": "Define acute chest syndrome.",
+      "back": "A **new pulmonary infiltrate on chest X-ray** with fever and/or respiratory symptoms (cough, chest pain, tachypnoea, hypoxia). The leading cause of death in SCD."
+    },
+    {
+      "id": "scd-f14",
+      "front": "Treatment of acute chest syndrome?",
+      "back": "**Oxygen** (SpO₂ 94–98%), **IV ceftriaxone + a macrolide** (azithromycin/erythromycin), analgesia, **incentive spirometry**, careful fluids, LMWH, **top-up or exchange transfusion**, HDU/ICU."
+    },
+    {
+      "id": "scd-f15",
+      "front": "Indications for transfusion in SCD pregnancy?",
+      "back": "**Acute anaemia**: Hb **below 6 g/dL** or a **fall of 2 g/dL or more from baseline**; **ACS**, **stroke**, multi-organ failure (exchange); pre-CS if Hb low; consider regular transfusion for previous severe complications or twins. **Not routinely prophylactic.**"
+    },
+    {
+      "id": "scd-f16",
+      "front": "How do you tell an aplastic crisis from sequestration?",
+      "back": "Both cause a sudden Hb fall. **Aplastic (parvovirus B19)**: **very low reticulocytes**, no organ enlargement. **Sequestration**: **high reticulocytes**, enlarging tender spleen/liver, shock."
+    },
+    {
+      "id": "scd-f17",
+      "front": "Fetal surveillance schedule in SCD pregnancy?",
+      "back": "Dating scan, anomaly scan at 18–22 weeks, then **growth scans every 4 weeks from 24 weeks** (with Doppler if growth falls), fetal movement awareness, continuous CTG in labour."
+    },
+    {
+      "id": "scd-f18",
+      "front": "Timing and mode of delivery in SCD?",
+      "back": "Offer delivery at **38+0 to 40+0 weeks** (IOL, or CS if indicated). **SCD alone is not an indication for CS.**"
+    },
+    {
+      "id": "scd-f19",
+      "front": "Intrapartum care principles in SCD?",
+      "back": "**Warm, well-hydrated (fluid balance), oxygen if SpO₂ 94% or below, continuous CTG**, early **regional analgesia**, avoid pethidine and GA, avoid prolonged labour, blood cross-matched, active third stage."
+    },
+    {
+      "id": "scd-f20",
+      "front": "Best contraception for a woman with SCD (WHO MEC)?",
+      "back": "**Progestogen-only methods** (implant, DMPA, POP) and the LNG-IUD are **category 1**; **DMPA may reduce painful crises**. COCs and copper IUD are category 2."
+    },
+    {
+      "id": "scd-f21",
+      "front": "Partner is AS and the woman is SS. Risk to the baby?",
+      "back": "**50% SS (disease), 50% AS (trait)**. If the partner is AA, all children are AS."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "scd-q01",
+      "stem": "A 22-year-old with HbSS books at 10 weeks at a HC IV. The midwife prescribes the routine ANC pack: ferrous sulphate 200 mg + folic acid 0.4 mg daily and IPTp-SP from 13 weeks. What is the MOST appropriate modification?",
+      "options": [
+        "No change; the routine pack is adequate",
+        "Folic acid 5 mg daily, stop routine iron unless ferritin shows deficiency, and plan malaria chemoprevention that accounts for the SP–folate interaction (e.g. daily proguanil) with an ITN",
+        "Double the iron dose because she is anaemic",
+        "Stop all malaria prevention because SP is contraindicated",
+        "Give folic acid 0.4 mg twice daily and continue iron"
+      ],
+      "answer": 1,
+      "difficulty": "core",
+      "explanation": "**B is correct.** SCD requires **folic acid 5 mg** (haemolysis), **no routine iron** (usually overloaded), and **malaria prevention** that avoids giving 5 mg folate with SP (e.g. proguanil) plus an ITN. **A** gives too little folate and unnecessary iron. **C**: SCD anaemia is haemolytic, not iron-deficient; iron worsens overload. **D**: malaria is a major crisis trigger and killer; prevention must continue. **E**: 0.8 mg folate is still inadequate and iron is inappropriate."
+    },
+    {
+      "id": "scd-q02",
+      "stem": "A 25-year-old with HbSS on hydroxyurea 1 g daily discovers she is 7 weeks pregnant. She wants to continue the pregnancy. What is the BEST advice?",
+      "options": [
+        "Terminate the pregnancy because hydroxyurea is teratogenic",
+        "Continue hydroxyurea because it prevents crises in pregnancy",
+        "Switch hydroxyurea to iron chelation",
+        "Halve the hydroxyurea dose",
+        "Stop hydroxyurea now, reassure her, and arrange a detailed anomaly scan"
+      ],
+      "answer": 4,
+      "difficulty": "core",
+      "explanation": "**E is correct.** Hydroxyurea should be stopped (ideally 3 months before conception); if conception occurs on it, **stop, reassure** (absolute risk appears low) and do a **detailed anomaly scan**. **A**: exposure alone is not an indication for termination. **B** and **D**: continued exposure during organogenesis is not recommended. **C**: chelators are also stopped in pregnancy and have a different purpose."
+    },
+    {
+      "id": "scd-q03",
+      "stem": "A 24-year-old with HbSS at 32 weeks is admitted with severe back and thigh pain typical of her crises. Temperature 37.2 °C, SpO₂ 97%, BP 110/70, uterus soft, fetal heart 140. What is the MOST appropriate immediate analgesic plan?",
+      "options": [
+        "IM pethidine 100 mg",
+        "Oral ibuprofen 400 mg 8-hourly",
+        "Paracetamol 1 g plus morphine titrated (e.g. 2.5–5 mg IV, repeated every 20–30 minutes) within 30 minutes, with antiemetic and laxative",
+        "Wait for FBC results before giving analgesia",
+        "Diclofenac 75 mg IM stat"
+      ],
+      "answer": 2,
+      "difficulty": "core",
+      "explanation": "**C is correct.** Analgesia within **30 minutes**; morphine is the opioid of choice with paracetamol; monitor sedation and RR. **A**: pethidine is avoided (norpethidine seizures). **B** and **E**: **NSAIDs are avoided after 28 weeks** (ductus arteriosus closure, oligohydramnios). **D**: never delay analgesia for results."
+    },
+    {
+      "id": "scd-q04",
+      "stem": "A 21-year-old with HbSS, 2 days after admission for a painful crisis at 34 weeks, develops fever 38.4 °C, cough, pleuritic chest pain, RR 30 and SpO₂ 89% on air. CXR shows new right lower lobe consolidation. What is the MOST appropriate management?",
+      "options": [
+        "Oxygen, IV ceftriaxone plus a macrolide, incentive spirometry, senior/HDU review, and urgent top-up or exchange transfusion",
+        "Increase morphine and reassure",
+        "Emergency caesarean section to improve ventilation",
+        "Oral amoxicillin and discharge",
+        "Furosemide 40 mg IV for pulmonary oedema"
+      ],
+      "answer": 0,
+      "difficulty": "core",
+      "explanation": "**A is correct.** This is **acute chest syndrome**: oxygen, antibiotics covering typical and atypical organisms, analgesia with spirometry, careful fluids, and **transfusion** (exchange if severe hypoxia or worsening). **B**: more opioid may worsen hypoventilation. **C**: delivery does not treat ACS and an unstable hypoxic mother is at high risk from surgery. **D** is dangerously inadequate. **E**: there is no evidence of fluid overload; consolidation with fever indicates ACS."
+    },
+    {
+      "id": "scd-q05",
+      "stem": "A 26-year-old with HbSC (baseline Hb 11 g/dL) at 29 weeks presents with left upper quadrant pain, pallor and dizziness. HR 128, BP 90/55. The spleen is palpable 6 cm below the costal margin. Hb 6.8 g/dL, reticulocytes high. What is the MOST likely diagnosis?",
+      "options": [
+        "Aplastic crisis due to parvovirus B19",
+        "Iron deficiency anaemia",
+        "Placental abruption",
+        "Acute splenic sequestration",
+        "Vaso-occlusive crisis without anaemia"
+      ],
+      "answer": 3,
+      "difficulty": "advanced",
+      "explanation": "**D is correct.** Sudden Hb fall (11 to 6.8), **enlarging spleen**, shock and **high reticulocytes** point to **splenic sequestration**, which is more likely in **HbSC** (spleen not auto-infarcted). **A**: aplastic crisis has **low reticulocytes** and no organomegaly. **C**: abruption causes uterine pain/tenderness and bleeding, not splenomegaly. **B**: iron deficiency is gradual, with low reticulocytes. **E**: the dramatic anaemia and shock exceed a simple painful crisis. Management: urgent transfusion, resuscitation."
+    },
+    {
+      "id": "scd-q06",
+      "stem": "A 23-year-old with HbSS at 26 weeks has a Hb of 5.4 g/dL (baseline 7.8) after a febrile illness 1 week ago. She is tired but haemodynamically stable. The spleen and liver are not enlarged. Reticulocyte count is 0.2%. What is the MOST likely cause and a related concern?",
+      "options": [
+        "Sequestration; risk of splenic rupture",
+        "Parvovirus B19 aplastic crisis; risk of fetal anaemia and hydrops",
+        "Hyperhaemolysis; risk of kernicterus",
+        "Folate excess; risk of neural tube defects",
+        "Iron overload; risk of cardiomyopathy"
+      ],
+      "answer": 1,
+      "difficulty": "advanced",
+      "explanation": "**B is correct.** A fall in Hb with **very low reticulocytes** after a viral illness suggests **parvovirus B19 aplastic crisis**; parvovirus also infects fetal red cell precursors, causing **fetal anaemia and hydrops**, so arrange fetal ultrasound (MCA Doppler). She needs transfusion (Hb below 6). **A**: sequestration has high reticulocytes and organomegaly. **C**: hyperhaemolysis has high reticulocytes and jaundice. **D** and **E** do not explain an acute reticulocytopenic anaemia."
+    },
+    {
+      "id": "scd-q07",
+      "stem": "A 27-year-old with HbSS at 30 weeks presents with 'crisis pain' in the abdomen for 4 hours. She says it feels different. BP 150/95 (her usual is 105/65), the uterus is tense and tender, there is dark vaginal bleeding and the fetal heart is 100 bpm. What is the MOST likely diagnosis?",
+      "options": [
+        "Vaso-occlusive crisis",
+        "Biliary colic",
+        "Acute pyelonephritis",
+        "Acute chest syndrome",
+        "Placental abruption"
+      ],
+      "answer": 4,
+      "difficulty": "core",
+      "explanation": "**E is correct.** **Tense, tender uterus, bleeding and fetal bradycardia** indicate **abruption**, more likely here given relative hypertension (possible pre-eclampsia). The key lesson: **never assume abdominal pain in SCD pregnancy is a crisis**. **A** does not cause a woody uterus or bleeding. **C** causes fever and loin pain. **D** is a chest syndrome. **B** causes RUQ pain without uterine signs."
+    },
+    {
+      "id": "scd-q08",
+      "stem": "A 22-year-old with HbSS at 20 weeks has a painful crisis. She asks for ibuprofen, which helped before pregnancy. Which statement about NSAIDs in pregnancy is correct?",
+      "options": [
+        "NSAIDs are contraindicated throughout pregnancy",
+        "NSAIDs are safest in the third trimester",
+        "NSAIDs may be used between 12 and 28 weeks, and should be avoided before 12 and after 28 weeks",
+        "NSAIDs are preferred over morphine at any gestation",
+        "NSAIDs can only be used IM"
+      ],
+      "answer": 2,
+      "difficulty": "core",
+      "explanation": "**B is correct** (RCOG). Before 12 weeks NSAIDs are associated with miscarriage; after 28 weeks they risk **premature ductus arteriosus closure** and **oligohydramnios**. At 20 weeks, ibuprofen is acceptable alongside paracetamol ± opioid. **A** is too restrictive. **B** is the opposite of the truth. **D**: severe crisis pain usually needs opioids. **E**: route is not the issue."
+    },
+    {
+      "id": "scd-q09",
+      "stem": "A 25-year-old with HbSS is at 38+2 weeks with normal fetal growth. She asks whether she needs a caesarean section because of her sickle cell disease. What is the BEST response?",
+      "options": [
+        "No; plan induction of labour now (38–40 weeks) aiming for vaginal birth, with warmth, hydration, oxygen if needed, continuous CTG and early epidural; CS only for obstetric indications",
+        "Yes, SCD is an absolute indication for elective CS at 37 weeks",
+        "Await spontaneous labour until 42 weeks",
+        "CS under general anaesthesia is safest",
+        "Deliver only after a prophylactic exchange transfusion"
+      ],
+      "answer": 0,
+      "difficulty": "core",
+      "explanation": "**A is correct.** RCOG advises delivery at **38+0 to 40+0 weeks**; SCD is **not** an indication for CS. **B** is wrong. **C**: prolonging pregnancy increases stillbirth and crisis risk. **D**: GA increases hypoxia/ACS risk; regional is preferred. **E**: prophylactic transfusion is not routine."
+    },
+    {
+      "id": "scd-q10",
+      "stem": "A 28-year-old with HbSS delivered by caesarean section yesterday. What thromboprophylaxis plan is MOST appropriate?",
+      "options": [
+        "None; SCD protects against thrombosis",
+        "LMWH for 7 days only",
+        "Aspirin 75 mg for 6 weeks instead of LMWH",
+        "LMWH (prophylactic dose) for 6 weeks with early mobilisation and hydration",
+        "Warfarin for 3 months"
+      ],
+      "answer": 3,
+      "difficulty": "core",
+      "explanation": "**D is correct.** RCOG recommends **LMWH for 6 weeks after caesarean section** (7 days after vaginal birth) in SCD. **A**: SCD is prothrombotic. **B** is the post-vaginal-delivery duration. **C**: aspirin is not adequate VTE prophylaxis. **E**: warfarin is not used for prophylaxis here."
+    },
+    {
+      "id": "scd-q11",
+      "stem": "A 24-year-old with HbSS at 28 weeks has Hb 7.2 g/dL (baseline 7.5), no symptoms of anaemia, and no complications. A colleague suggests a routine transfusion 'to prevent crises'. What is the BEST response?",
+      "options": [
+        "Agree; routine prophylactic transfusion is standard",
+        "Disagree; routine prophylactic transfusion is not recommended; transfuse for specific indications such as acute anaemia (Hb below 6 or a fall of 2 g/dL or more), ACS or stroke",
+        "Give IV iron instead",
+        "Transfuse to a target Hb of 14 g/dL",
+        "Transfuse only after delivery"
+      ],
+      "answer": 1,
+      "difficulty": "core",
+      "explanation": "**B is correct.** Her Hb is at baseline; **prophylactic transfusion is not routinely recommended** (risks: alloimmunisation, reactions, infection, iron overload, hyperhaemolysis). **A** is wrong. **C**: she is not iron deficient. **D**: Hb above about 10–11 causes hyperviscosity and crises. **E**: transfusion is given when indicated, at any time."
+    },
+    {
+      "id": "scd-q12",
+      "stem": "A 23-year-old with HbSS in labour at 39 weeks, 6 cm dilated. SpO₂ is 92% on air, temperature 36.1 °C, she has vomited twice and is in severe pain. What is the MOST appropriate set of actions?",
+      "options": [
+        "Pethidine 100 mg IM and continue observation",
+        "Artificial rupture of membranes and oxytocin augmentation only",
+        "Immediate CS under general anaesthesia",
+        "Restrict fluids to prevent pulmonary oedema",
+        "Oxygen, warm environment and warm IV fluids with fluid balance chart, early epidural, continuous CTG, and review for infection/ACS"
+      ],
+      "answer": 4,
+      "difficulty": "core",
+      "explanation": "**E is correct.** Intrapartum SCD care is **warm, hydrated, oxygenated and watched**: oxygen for SpO₂ below 94–95%, IV fluids given she is vomiting, **epidural** for pain, **continuous CTG**, and assess for ACS/infection given hypoxia. **A**: pethidine is avoided. **C**: GA worsens hypoxia risk and there is no obstetric indication. **D**: dehydration triggers sickling (use a fluid balance chart rather than restriction). **B** ignores her hypoxia, pain and dehydration."
+    },
+    {
+      "id": "scd-q13",
+      "stem": "A 26-year-old with HbSS at 24 weeks attends ANC. Which fetal surveillance plan is MOST appropriate?",
+      "options": [
+        "No scans needed after the anomaly scan",
+        "Weekly CTG from 24 weeks",
+        "Growth scans every 4 weeks from 24 weeks, with umbilical artery Doppler if growth falls off",
+        "Single scan at 36 weeks",
+        "Amniocentesis to check fetal Hb"
+      ],
+      "answer": 2,
+      "difficulty": "core",
+      "explanation": "**C is correct.** SCD causes placental insufficiency; RCOG recommends **serial growth scans every 4 weeks from 24 weeks**. **A** and **D** would miss evolving IUGR. **B**: CTG at 24 weeks is uninterpretable and not a growth test. **E**: amniocentesis tests genotype, not growth, and is not routine."
+    },
+    {
+      "id": "scd-q14",
+      "stem": "A 30-year-old with HbSS, 5 days after vaginal delivery, asks about contraception. She is breastfeeding and has had frequent crises. Which method is BEST for her?",
+      "options": [
+        "DMPA (injectable progestogen) or an implant",
+        "Combined oral contraceptive pill",
+        "No contraception needed while breastfeeding",
+        "Hydroxyurea as contraception",
+        "Bilateral tubal ligation is mandatory"
+      ],
+      "answer": 0,
+      "difficulty": "core",
+      "explanation": "**A is correct.** Progestogen-only methods are **WHO MEC category 1** in SCD, compatible with breastfeeding, and **DMPA may reduce painful crises**. **B**: COCs are category 2 in SCD but oestrogen is avoided in the first 6 weeks postpartum while breastfeeding (and adds VTE risk). **C**: lactational amenorrhoea is unreliable unless strict criteria are met. **D**: hydroxyurea is not a contraceptive. **E**: sterilisation is her choice, not mandatory."
+    },
+    {
+      "id": "scd-q15",
+      "stem": "A 20-year-old with HbSS at 16 weeks presents with fever 39 °C, rigors and joint pains. SpO₂ 96%. She has not been using a mosquito net. What is the MOST appropriate immediate step?",
+      "options": [
+        "Treat as a painful crisis with analgesia alone",
+        "Wait 24 hours to see if the fever settles",
+        "Oral amoxicillin and review in 1 week",
+        "mRDT/blood smear, blood cultures and urinalysis, then start IV ceftriaxone and antimalarials if positive (IV artesunate if severe), with analgesia, fluids and warmth",
+        "Paracetamol only because fever is common in SCD"
+      ],
+      "answer": 3,
+      "difficulty": "core",
+      "explanation": "**D is correct.** Fever in SCD is an emergency (**functional asplenia** plus malaria risk): test for malaria, culture blood and urine, and give **empirical IV antibiotics** promptly plus antimalarials when positive. **A**, **B**, **E** risk fulminant sepsis or severe malaria. **C** is inadequate empirical cover for suspected sepsis in an asplenic patient."
+    }
+  ],
+  "cases": [
+    {
+      "id": "scd-c01",
+      "title": "Pre-conception and booking in HbSS",
+      "presentation": "Doreen, 24, with HbSS (baseline Hb 7.8 g/dL), attends the Mulago sickle cell clinic saying she wants a baby. She takes hydroxyurea 1 g daily, folic acid 5 mg and penicillin V. She had acute chest syndrome once at 17 years. Her husband has never been tested.",
+      "steps": [
+        {
+          "prompt": "What history do you take, and why?",
+          "answer": "Genotype and **baseline Hb**; crisis frequency, **previous ACS/stroke**, ICU admissions; **transfusion history and antibodies**; end-organ damage (breathlessness: PHT; kidney disease; eyes; leg ulcers; AVN); medications (**hydroxyurea**, ACEi, chelators); vaccination status; malaria prevention; previous pregnancies; partner status; social support and distance to a hospital."
+        },
+        {
+          "prompt": "What investigations do you arrange before conception?",
+          "answer": "FBC, retics, ferritin, renal function and urine protein:creatinine, LFTs, red cell antibody screen/phenotype, **echo** (TR velocity for PHT), retinal exam, HIV/syphilis/HBsAg, and **partner Hb electrophoresis**."
+        },
+        {
+          "prompt": "What advice and changes do you make?",
+          "answer": "**Stop hydroxyurea at least 3 months before trying to conceive**; continue **folic acid 5 mg** and **penicillin V 250 mg twice daily**; update pneumococcal, meningococcal, HiB, hepatitis B, influenza vaccines; plan malaria prevention and ITN; stop any ACEi or chelators. Counsel on risks (crises, ACS, VTE, pre-eclampsia, IUGR, stillbirth) and the plan to reduce them. If partner is **AS**: 50% chance of SCD baby; offer genetic counselling."
+        },
+        {
+          "prompt": "She books at 9 weeks. Outline her antenatal plan.",
+          "answer": "Hospital-based ANC every 2–4 weeks (more often later). **Aspirin 75 mg from 12 weeks**. **No routine iron** (ferritin-guided). Malaria chemoprevention accounting for the **SP–folate interaction** (e.g. proguanil 200 mg daily) + ITN. Urine culture each trimester. Dating and anomaly scans, **growth scans every 4 weeks from 24 weeks**. LMWH during any admission. Education: hydrate (about 3 L/day), avoid cold, seek care early for fever, pain, cough or breathlessness."
+        },
+        {
+          "prompt": "How do you plan her delivery and postnatal care?",
+          "answer": "Deliver at a hospital at **38+0 to 40+0 weeks** (IOL; CS only if indicated). Intrapartum: warm, hydrated, SpO₂ monitoring and oxygen if 94% or below, **continuous CTG**, **early epidural**, avoid pethidine and prolonged labour, blood cross-matched. Postnatal: LMWH (7 days after vaginal birth, 6 weeks after CS), spirometry, hydration, continue folic acid/penicillin, progestogen-only contraception (DMPA may reduce crises), **newborn screening** if partner is a carrier, restart hydroxyurea when not breastfeeding."
+        }
+      ],
+      "takeaway": "Pre-conception planning (stop hydroxyurea, 5 mg folic acid, vaccines, partner testing) and a structured ANC package (aspirin, malaria prevention, no routine iron, serial growth scans) are what make SCD pregnancies safer."
+    },
+    {
+      "id": "scd-c02",
+      "title": "Painful crisis that becomes acute chest syndrome",
+      "presentation": "Rose, 22, HbSS, G1 at 31 weeks, is brought to Jinja Regional Referral Hospital with 1 day of severe pain in her back and legs after a cold, rainy night. Temperature 37.8 °C, HR 108, RR 20, SpO₂ 96%, BP 108/64. Uterus soft, fetal heart 150.",
+      "steps": [
+        {
+          "prompt": "What are your immediate priorities in the first 30 minutes?",
+          "answer": "ABCDE; **analgesia within 30 minutes**: paracetamol 1 g + **morphine** titrated (e.g. 2.5–5 mg IV every 20–30 minutes until controlled), with antiemetic and laxative; **no NSAIDs** (31 weeks), **no pethidine**. Warm her. IV or oral fluids with fluid balance. Oxygen if SpO₂ below 95%. Bloods: FBC, retics, U&E, LFTs, cross-match/antibody screen, **mRDT**, blood culture; urinalysis/culture. Exclude obstetric causes (uterus soft, no bleeding, CTG)."
+        },
+        {
+          "prompt": "What else goes on the admission plan?",
+          "answer": "LMWH prophylaxis, **incentive spirometry** 10 breaths 2-hourly, continue folic acid, penicillin and aspirin, 4-hourly SpO₂, RR, temperature, pain and sedation scores, daily FBC, CTG monitoring, treat malaria if positive (IV artesunate if severe)."
+        },
+        {
+          "prompt": "On day 2 she develops cough, chest pain, RR 32, SpO₂ 88% on air, temperature 38.9 °C. Examination: bronchial breathing at the right base. What is happening and what are the differentials?",
+          "answer": "**Acute chest syndrome** (typical timing, 1–3 days into a painful crisis, often after opioids). Differentials: bacterial pneumonia, **pulmonary embolism**, pulmonary oedema (fluid overload), atelectasis. Confirm with **CXR** (with shielding): new infiltrate."
+        },
+        {
+          "prompt": "How do you manage it?",
+          "answer": "Senior help, HDU. **Oxygen** to SpO₂ 94–98%. **IV ceftriaxone 2 g daily + azithromycin 500 mg daily** (or erythromycin). Analgesia enough to allow deep breathing, spirometry, careful fluids, LMWH. FBC: Hb 5.9 (baseline 7.2) so **transfuse** (top-up); **exchange transfusion** if she deteriorates or has multilobar disease (refer to a centre able to do it if needed). Continuous fetal monitoring; delivery is not a treatment for ACS."
+        },
+        {
+          "prompt": "She improves over 4 days. What follow-up is needed?",
+          "answer": "Step down analgesia and antibiotics, repeat Hb, confirm growth on ultrasound (placental insult), increase ANC frequency, discuss a **transfusion programme** with haematology (recurrent severe complications), reinforce hydration, warmth and early presentation, plan delivery at a hospital with blood and HDU at 38 weeks or earlier if indicated."
+        }
+      ],
+      "takeaway": "Every painful crisis in pregnancy is a potential acute chest syndrome; monitor SpO₂ and RR closely and act fast with oxygen, antibiotics, spirometry and transfusion."
+    },
+    {
+      "id": "scd-c03",
+      "title": "Abdominal pain in SCD: crisis or something else?",
+      "presentation": "Night shift at a HC IV: Esther, 27, HbSS, G3P2 at 34 weeks, arrives saying 'my sickle pain has started in my belly'. She is in severe pain and pale. HR 118, BP 138/88 (her usual is about 100/60), temperature 36.8 °C.",
+      "steps": [
+        {
+          "prompt": "What must you think about before calling this a crisis?",
+          "answer": "Obstetric: **placental abruption**, **labour**, **pre-eclampsia/HELLP** (BP high for her). Surgical/medical: pyelonephritis, appendicitis, cholecystitis (pigment stones), hepatic sequestration, bowel obstruction. SCD: vaso-occlusive (mesenteric) crisis, splenic/hepatic sequestration."
+        },
+        {
+          "prompt": "What examination findings and quick tests will guide you?",
+          "answer": "Uterine tone and tenderness, vaginal bleeding, contractions, fetal heart; RUQ/epigastric tenderness, liver and spleen size, renal angle; urine dipstick (**protein**, nitrites, blood), Hb (HemoCue), mRDT, blood glucose. Findings: **tense tender uterus, dark bleeding, fetal heart 96 bpm, proteinuria 2+**."
+        },
+        {
+          "prompt": "What is the diagnosis and what do you do at the HC IV?",
+          "answer": "**Placental abruption with likely pre-eclampsia** in a woman with SCD. Resuscitate: left lateral, oxygen, 2 large IV lines, warm fluids, bloods (Hb, grouping and cross-match, bedside clotting test), catheter. **MgSO₄** (loading dose) if severe features, antihypertensive if BP 160/110 or more. Analgesia (morphine). With a live fetus in distress, **urgent delivery by CS** at the HC IV if theatre and blood are available; otherwise stabilise and **refer urgently** with a midwife."
+        },
+        {
+          "prompt": "What SCD-specific precautions apply around the delivery?",
+          "answer": "Blood cross-matched early (possible antibodies), **transfuse** given anaemia and bleeding risk; regional anaesthesia if clotting allows; keep warm, oxygenated and hydrated; avoid pethidine; active third stage and PPH preparedness; postnatal **LMWH for 6 weeks after CS** (once bleeding risk settles), spirometry, SpO₂ monitoring, watch for crisis/ACS; neonatal team for a preterm baby."
+        }
+      ],
+      "takeaway": "In SCD pregnancy, abdominal pain is not a crisis until abruption, labour, pre-eclampsia and surgical causes have been excluded by examination and simple tests."
+    }
+  ],
+  "references": [
+    {
+      "title": "Management of Sickle Cell Disease in Pregnancy (Green-top Guideline No. 61)",
+      "source": "Royal College of Obstetricians and Gynaecologists",
+      "year": 2011
+    },
+    {
+      "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions (sickle cell disease; malaria; anaemia in pregnancy)",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://www.differentiatedservicedelivery.org/wp-content/uploads/UCG-2023-Publication-Final-PDF-Version-1.pdf"
+    },
+    {
+      "title": "Burden of sickle cell trait and disease in the Uganda Sickle Surveillance Study (US3): a cross-sectional study",
+      "source": "Ndeezi G, et al. The Lancet Global Health",
+      "year": 2016
+    },
+    {
+      "title": "Adverse maternal and perinatal outcomes in pregnant women with sickle cell disease: systematic review and meta-analysis",
+      "source": "Oteng-Ntim E, et al. Blood",
+      "year": 2015
+    },
+    {
+      "title": "WHO recommendations on antenatal care for a positive pregnancy experience (including IPTp-SP and folic acid dosing)",
+      "source": "World Health Organization",
+      "year": 2016
+    },
+    {
+      "title": "Medical Eligibility Criteria for Contraceptive Use, 5th edition",
+      "source": "World Health Organization",
+      "year": 2015
+    },
+    {
+      "title": "Williams Obstetrics, 26th edition: Hematological Disorders chapter",
+      "source": "McGraw Hill",
+      "year": 2022
+    },
+    {
+      "title": "Obstetrics by Ten Teachers: Medical disorders in pregnancy (haemoglobinopathies)",
+      "source": "CRC Press"
+    }
+  ]
+}

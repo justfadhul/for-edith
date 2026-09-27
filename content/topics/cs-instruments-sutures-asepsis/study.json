@@ -1,0 +1,292 @@
+{
+  "slug": "cs-instruments-sutures-asepsis",
+  "flashcards": [
+    { "id": "csi-f01", "front": "Doyen retractor: features and use at CS.", "back": "A **single broad curved blade** on a handle. It is placed over the pubis to **retract and protect the bladder** and expose the lower segment. It is removed before delivering the head." },
+    { "id": "csi-f02", "front": "Green-Armytage forceps: features and use.", "back": "Large, long **haemostatic clamps with broad serrated jaws**. They grip the **bleeding edges and angles of the uterine incision** at CS, reducing blood loss and holding the edges for closure." },
+    { "id": "csi-f03", "front": "Allis vs Babcock forceps.", "back": "**Allis**: fine **interlocking teeth**, traumatic. For tough tissue (sheath, fascia) or tissue that will be removed.\n**Babcock**: **rounded fenestrated atraumatic tips**. For **tubular structures**: fallopian tube (tubal ligation), bowel, ureter." },
+    { "id": "csi-f04", "front": "Kocher's forceps: features and use at CS.", "back": "A heavy straight artery forceps with **1×2 teeth at the tip**. It grips and lifts the **rectus sheath** edges so the sheath can be dissected off the rectus muscles (Pfannenstiel)." },
+    { "id": "csi-f05", "front": "Mayo vs Metzenbaum scissors.", "back": "**Mayo**: short, heavy. Curved Mayo cuts **tough tissue (rectus sheath)**; straight Mayo cuts **sutures**.\n**Metzenbaum**: long handles, fine blades, for **delicate dissection** (peritoneum, uterovesical fold). **Never cut sutures** with them." },
+    { "id": "csi-f06", "front": "Scalpel handles and their blades.", "back": "**No. 3 handle**: small blades **10, 11, 15**.\n**No. 4 handle**: large blades **20–24** (No. 22 is common for CS skin).\nLoad and remove blades with a **needle holder**, never with fingers." },
+    { "id": "csi-f07", "front": "Poole vs Yankauer sucker.", "back": "**Poole**: straight tube with a **perforated guard**, for the **peritoneal cavity** (omentum does not block it).\n**Yankauer**: rigid curved tube with a bulbous tip, for superficial suction and the **mouth/airway** (gently for babies)." },
+    { "id": "csi-f08", "front": "Three axes of suture classification.", "back": "1. **Absorbable vs non-absorbable**\n2. **Monofilament vs multifilament (braided)**\n3. **Natural** (catgut, silk) **vs synthetic** (Vicryl, PDS, Monocryl, nylon, Prolene)" },
+    { "id": "csi-f09", "front": "Polyglactin 910 (Vicryl): type, strength retention, absorption, CS uses.", "back": "Synthetic, **braided, absorbable** (hydrolysis). About **75% strength at 2 weeks, 50% at 3 weeks**; absorbed in **56–70 days**. Used for the **uterus and sheath (#1)**, bladder (2-0/3-0), fat (2-0) and subcuticular skin (3-0)." },
+    { "id": "csi-f10", "front": "Chromic vs plain catgut.", "back": "Both are natural and absorbable (enzymatic, unpredictable, faster with infection).\n**Plain**: strength **7–10 days**, absorbed in about **70 days**. Used for tubal ligation and subcutaneous tissue.\n**Chromic**: chromium-treated, strength about **2–3 weeks**, absorbed in about **90 days**. Used for the uterus in many Ugandan theatres." },
+    { "id": "csi-f11", "front": "PDS (polydioxanone): why use it for the rectus sheath?", "back": "It is a **monofilament absorbable** suture that keeps useful strength for about **6 weeks** (absorbed in about 6 months). Fascia heals slowly, and the monofilament resists infection. Good for obese, infected or midline wounds." },
+    { "id": "csi-f12", "front": "Monofilament vs braided: pros and cons.", "back": "**Braided**: easy handling, secure knots, but **capillarity** harbours bacteria (infection, sinuses).\n**Monofilament**: smooth, less drag, **less infection**, but **memory**, so knots slip and need more throws (about 5–6 for nylon)." },
+    { "id": "csi-f13", "front": "What does USP gauge 3-0 mean relative to 0 and #1?", "back": "More zeros means **thinner**. #1 > 0 > 2-0 > 3-0 > 4-0. At CS: **#1** for uterus and sheath, **2-0** for fat and peritoneum, **3-0** for skin." },
+    { "id": "csi-f14", "front": "Round-bodied vs cutting vs reverse-cutting needles.", "back": "**Round-bodied (taper)**: spreads the tissue. For **uterus, peritoneum, bowel, bladder**.\n**Cutting**: edge on the **inner** curve. For skin.\n**Reverse cutting**: edge on the **outer** curve. Less cut-out; for **skin and tough fascia**." },
+    { "id": "csi-f15", "front": "WHO surgical hand antisepsis with antiseptic soap.", "back": "Remove jewellery; short nails; clean nails under running water (first scrub; no brush on the skin). Use **chlorhexidine 4% or povidone-iodine 7.5%** for **2–5 min**, covering fingers (4 sides), hands and forearms to above the elbow. **Hands above elbows**; rinse fingertips to elbow; dry with a sterile towel." },
+    { "id": "csi-f16", "front": "What is the sterile zone of a surgical gown?", "back": "The **front from chest to waist / table level** and the **sleeves from about 5 cm above the elbow to the cuff**. The back, neckline, shoulders, **axillae** and everything below the waist are NOT sterile." },
+    { "id": "csi-f17", "front": "Describe closed gloving.", "back": "Hands stay **inside the sleeves**. Place the glove **palm to palm with its fingers pointing to the elbow**, grasp the rim through the sleeve, flip it **over the cuff**, then push the hand through. The knitted cuff must be fully covered." },
+    { "id": "csi-f18", "front": "Best skin prep for CS and the key safety point.", "back": "**2% chlorhexidine gluconate in 70% alcohol** (WHO first choice), or povidone-iodine. Paint from the incision outwards, xiphisternum to mid-thigh and flank to flank. **Let it dry fully**: wet alcohol plus diathermy means **fire and burns**. Do not shave." },
+    { "id": "csi-f19", "front": "When are counts done at CS?", "back": "**Baseline** before incision, then **before closing the uterus**, **before closing the peritoneum/sheath**, and **at skin closure**. Items added during the case are counted in. **Never close on an incorrect count.**" },
+    { "id": "csi-f20", "front": "Why is plain catgut chosen for Pomeroy tubal ligation, and why no non-absorbable sutures in the bladder?", "back": "**Plain catgut** absorbs quickly, so the cut tubal ends separate and fibrose apart (less recanalisation).\n**Non-absorbable sutures in the bladder** act as a nidus for **bladder stones**. Use 2-0/3-0 Vicryl in 2 layers." }
+  ],
+  "mcqs": [
+    {
+      "id": "csi-q01",
+      "stem": "At the end of a caesarean section, the patient has consented to tubal ligation. The surgeon asks you to pass an instrument to lift the mid-portion of the right fallopian tube without crushing it. Which instrument do you pass?",
+      "options": [
+        "Allis tissue forceps",
+        "Babcock forceps",
+        "Kocher's forceps",
+        "Green-Armytage forceps",
+        "Towel clip"
+      ],
+      "answer": 1,
+      "explanation": "The **Babcock** has rounded, fenestrated, **atraumatic** tips designed for tubular structures such as the tube and bowel. **Allis** and **Kocher's** have teeth, so they crush and tear delicate tissue. **Green-Armytage** clamps are for the uterine incision edges. A **towel clip** has sharp points for securing drapes.",
+      "difficulty": "core"
+    },
+    {
+      "id": "csi-q02",
+      "stem": "You are assisting at a caesarean section for an HIV-positive woman. While retracting, you notice a small tear in your outer glove. You have not been pricked and the inner glove is intact. What is the MOST appropriate action?",
+      "options": [
+        "Continue; the inner glove is intact so there is no breach",
+        "Wipe the torn glove with an alcohol swab and continue",
+        "Pull another glove on over the torn one without stepping back",
+        "Tell the surgeon, step back from the field and have the outer glove changed by the scrub nurse",
+        "Finish the operation and change the gloves before the next case"
+      ],
+      "answer": 3,
+      "explanation": "A torn glove is a **breach of sterility** and exposes you to blood. **Announce it, step back and have the glove changed** (assisted gloving) (**D**). **A** and **E** leave a contaminated, non-barrier surface in the wound. **B**: alcohol does not re-sterilise a torn glove. **C**: gloving over a torn glove traps contamination and is not how a breach is corrected. Double gloving is recommended in high-prevalence settings precisely so that this situation does not expose your skin.",
+      "difficulty": "core"
+    },
+    {
+      "id": "csi-q03",
+      "stem": "A 34-year-old with a BMI of 42 has an emergency CS for chorioamnionitis with foul liquor. The surgeon is about to close the rectus sheath and asks for your suggestion. Which suture is MOST appropriate?",
+      "options": [
+        "#1 polydioxanone (PDS), continuous",
+        "2-0 plain catgut, continuous",
+        "#1 silk, interrupted",
+        "3-0 Vicryl Rapide, continuous",
+        "2-0 poliglecaprone (Monocryl), subcuticular"
+      ],
+      "answer": 0,
+      "explanation": "Fascia heals slowly, and obesity and infection raise the risk of dehiscence, so she needs a **strong, long-lasting, monofilament** suture. **#1 PDS** keeps strength for about 6 weeks and resists infection (**A**). **B**: plain catgut loses strength in 7–10 days and is too thin. **C**: braided non-absorbable silk in an infected wound causes **stitch sinuses and persistent infection**. **D**: Vicryl Rapide loses half its strength in 5 days (it is for the perineum). **E**: 2-0 Monocryl is a skin (subcuticular) suture and far too weak for the sheath.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "csi-q04",
+      "stem": "You are preparing the abdominal skin of a woman for elective CS. Diathermy will be used. According to WHO guidance, which is the BEST approach?",
+      "options": [
+        "Shave the pubic hair on the ward the night before, then paint with povidone-iodine",
+        "Aqueous chlorhexidine, then diathermy immediately while the skin is still wet",
+        "70% alcohol alone, applied from the periphery towards the incision",
+        "Soap and water wash in theatre, then drape",
+        "2% chlorhexidine in 70% alcohol from the incision site outwards, allowed to dry completely before draping and diathermy"
+      ],
+      "answer": 4,
+      "explanation": "The WHO SSI guideline strongly recommends **alcohol-based chlorhexidine** for skin prep. It must be applied from **clean (incision) to dirty (periphery)** and allowed to **dry** before diathermy, to avoid fires and burns (**E**). **A**: **shaving increases SSI**; clip only if needed, just before surgery. **B**: diathermy on wet prep risks fire, and the antiseptic hasn't had time to work. **C**: alcohol alone has no residual activity, and periphery-to-centre drags bacteria into the incision site. **D**: soap is not an antiseptic prep.",
+      "difficulty": "core"
+    },
+    {
+      "id": "csi-q05",
+      "stem": "At the closing count before the rectus sheath is closed, the scrub nurse reports that one abdominal swab is missing. The surgeon is sure she has checked the cavity. What is the MOST appropriate next step?",
+      "options": [
+        "Close the sheath and request an abdominal X-ray tomorrow on the ward",
+        "Document the discrepancy and close, as swabs are often miscounted",
+        "Stop closure, recount, systematically explore the cavity and search the floor, drapes and bins, and obtain an X-ray before she leaves theatre if it is still missing",
+        "Close and give a 7-day course of antibiotics in case a swab was left behind",
+        "Ask the circulating nurse to change the count on the board to match"
+      ],
+      "answer": 2,
+      "explanation": "An incorrect count means **stop and search** (**C**): recount, explore the gutters, pelvis and pouches, search outside the field, and use an X-ray (radio-opaque markers) if it is still unresolved. A retained swab causes sepsis, abscess, fistula and obstruction. **A**, **B** and **D** accept a possible retained foreign body and delay retrieval, which would need a second laparotomy. **E** is falsification of records and unethical.",
+      "difficulty": "core"
+    },
+    {
+      "id": "csi-q06",
+      "stem": "A junior clerk is scrubbing for her first CS at Mengo Hospital with chlorhexidine 4% soap. Which technique is CORRECT according to the WHO?",
+      "options": [
+        "Scrub hands and forearms for 2–5 minutes with hands held above the elbows, and rinse from fingertips to elbows",
+        "Scrub with a hard brush over the skin for 10 minutes to remove all bacteria",
+        "Keep the hands below the elbows so water drains from the arms to the fingertips",
+        "Rinse from the elbows down to the fingertips so the hands are rinsed last",
+        "A 20–30 second hygienic hand rub is sufficient before gowning"
+      ],
+      "answer": 0,
+      "explanation": "WHO: antiseptic scrub for **2–5 minutes**, **hands above elbows**, and **rinse fingertips to elbows** so water flows from clean to less clean (**A**). **B**: long brush scrubs damage the skin and increase bacterial shedding, with no added benefit. **C** and **D** let dirty water from the elbow run onto the clean hands. **E**: a hygienic 20–30 s hand rub is for ward care, not surgical antisepsis.",
+      "difficulty": "core"
+    },
+    {
+      "id": "csi-q07",
+      "stem": "After delivery of the baby and placenta at CS, the surgeon asks for the suture and needle to close the first layer of the uterus. Which needle is MOST appropriate?",
+      "options": [
+        "Reverse-cutting ⅜-circle needle",
+        "Straight cutting (hand-held) needle",
+        "Cutting ½-circle needle",
+        "Round-bodied (taper) ½-circle needle",
+        "Blunt-point straight needle"
+      ],
+      "answer": 3,
+      "explanation": "Uterine muscle is soft and vascular. A **round-bodied (taper) needle** spreads the fibres rather than cutting them, so the hole seals, bleeding is minimal and it is less likely to tear. A ½ circle suits the deep, confined field (**D**). **A** and **C**: cutting needles slice the myometrium, causing bleeding and tears; they are for skin. **B** and **E**: straight needles are unsuitable in a deep cavity and raise the needle-stick risk.",
+      "difficulty": "core"
+    },
+    {
+      "id": "csi-q08",
+      "stem": "For a modified Pomeroy tubal ligation at CS, the surgeon asks for a suture that will absorb quickly so that the cut ends of the tube separate. Which do you pass?",
+      "options": [
+        "2-0 nylon",
+        "#1 plain catgut",
+        "#1 silk",
+        "#1 polydioxanone (PDS)",
+        "#1 polypropylene (Prolene)"
+      ],
+      "answer": 1,
+      "explanation": "The Pomeroy technique relies on **rapidly absorbed plain catgut**. The ligature dissolves and the cut ends of the tube pull apart and fibrose separately, which reduces recanalisation (**B**). **A**, **C** and **E** are non-absorbable and would hold the ends together, favouring recanalisation or fistula. **D**: PDS persists for months.",
+      "difficulty": "core"
+    },
+    {
+      "id": "csi-q09",
+      "stem": "After gowning and gloving, a student waits for the surgeon with his gloved hands tucked into his armpits 'to keep them clean'. The scrub nurse notices. What is the CORRECT response?",
+      "options": [
+        "This is acceptable, as the gown covers the axillae",
+        "It is acceptable as long as the gloves did not touch bare skin",
+        "Spray the gloves with alcohol hand rub and proceed",
+        "He must go back and re-scrub for 10 minutes before regowning",
+        "The axillae are not sterile, so his gloves (and gown, if the sleeves are soiled) are contaminated and must be changed"
+      ],
+      "answer": 4,
+      "explanation": "The **axillae are outside the sterile zone** (the gown is sterile only on the front from chest to table level and on the sleeves to above the elbow). Gloves tucked there are contaminated and **must be changed**, along with the gown if it is compromised (**E**). **A** and **B** misunderstand the sterile zone. **C**: alcohol does not re-sterilise gloves. **D**: a 10-minute re-scrub is unnecessary and not the WHO standard. Changing the contaminated gloves and gown is what is needed.",
+      "difficulty": "core"
+    },
+    {
+      "id": "csi-q10",
+      "stem": "During a difficult repeat CS, the bladder dome is inadvertently opened (a 2 cm cystotomy). The surgeon will repair it. Which suture is MOST appropriate?",
+      "options": [
+        "#1 silk, interrupted, full thickness",
+        "2-0 nylon, continuous, through the mucosa",
+        "2-0 or 3-0 Vicryl in two layers",
+        "#1 polypropylene, one layer",
+        "No repair needed; leave a catheter for 24 hours"
+      ],
+      "answer": 2,
+      "explanation": "Bladder repair uses an **absorbable** suture (2-0/3-0 Vicryl or chromic) in **two layers** with a catheter for 7–14 days (**C**). **A, B and D**: non-absorbable sutures in the bladder become a nidus for **stones** and infection. **E**: an unrepaired cystotomy leaks urine into the peritoneum, and 24 h of drainage is inadequate.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "csi-q11",
+      "stem": "On day 7 after a midline laparotomy for ruptured uterus, a 30-year-old notices a large amount of pink serous fluid soaking her dressing. On inspection, the wound has separated and a loop of bowel is visible. She is anaemic (Hb 8.5 g/dL). What is the MOST appropriate immediate management?",
+      "options": [
+        "Push the bowel back and strap the abdomen tightly with an abdominal binder",
+        "Cover the wound with sterile saline-soaked packs, reassure her, start IV fluids and antibiotics, and prepare for return to theatre for mass closure",
+        "Apply a dry gauze dressing and continue oral antibiotics",
+        "Leave the wound to heal by secondary intention with daily dressings",
+        "Discharge with a follow-up appointment in 1 week"
+      ],
+      "answer": 1,
+      "explanation": "This is **burst abdomen (fascial dehiscence)**. The typical warning is a 'pink serous' discharge around day 5–10. Risk factors here are the midline incision, anaemia, sepsis and emergency surgery. **Cover the bowel with warm moist sterile packs, give IV fluids and antibiotics, and return to theatre for mass closure** (e.g. #1 loop nylon or PDS) (**B**). **A**: pushing contaminated bowel back and strapping without repair risks injury and evisceration. **C** and **D** are inadequate for exposed bowel. **E** is dangerous.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "csi-q12",
+      "stem": "Immediately after delivery of the placenta at CS, the lateral angles of the uterine incision are bleeding briskly. Which instrument should you pass to the surgeon FIRST?",
+      "options": [
+        "Doyen retractor",
+        "Metzenbaum scissors",
+        "Babcock forceps",
+        "Towel clip",
+        "Green-Armytage forceps"
+      ],
+      "answer": 4,
+      "explanation": "**Green-Armytage** forceps are designed to grasp the **edges and angles of the uterine incision**, controlling bleeding and presenting the edges for suturing (**E**). **A**: the Doyen retracts the bladder; it is not a haemostat. **B**: Metzenbaum scissors dissect. **C**: the Babcock is atraumatic but too small and not haemostatic for the uterine edge. **D**: towel clips secure drapes.",
+      "difficulty": "core"
+    },
+    {
+      "id": "csi-q13",
+      "stem": "While draping for a CS, a student places the lateral towel drape too far from the planned incision, leaving a wide strip of prepared skin exposed. She slides the drape inwards towards the incision line. What is the CORRECT management?",
+      "options": [
+        "Discard that drape and place a fresh sterile drape, because a drape must never be moved towards the incision",
+        "It is acceptable, as the skin has already been prepared",
+        "Re-paint the skin under the drape with chlorhexidine and continue",
+        "Secure it in its new position with extra towel clips",
+        "Place the large fenestrated drape over it and proceed"
+      ],
+      "answer": 0,
+      "explanation": "Once placed, a drape may only be moved **away from** the incision. Sliding it inwards drags skin organisms from the periphery (less clean) into the operative site. **Discard it and use a fresh drape** (**A**). **B**: prepared skin is not sterile, just less contaminated. **C**, **D** and **E** leave the contaminated drape edge at the wound.",
+      "difficulty": "core"
+    },
+    {
+      "id": "csi-q14",
+      "stem": "The surgeon closing the skin with 3-0 nylon interrupted sutures asks the student to put at least 5 throws on each knot. Which property of nylon explains this?",
+      "options": [
+        "It is absorbable, so the knot may dissolve early",
+        "It is braided, so the knot slips along the braid",
+        "It is a natural material with high tissue reactivity",
+        "It is a monofilament with high memory and low friction, so knots tend to slip",
+        "It has high capillarity and harbours bacteria"
+      ],
+      "answer": 3,
+      "explanation": "Monofilament synthetics (nylon, Prolene) have **memory** (they spring back to their packaged shape) and a **smooth surface**. Knots loosen unless more throws are placed (**D**). **A**: nylon is non-absorbable. **B**: nylon is monofilament; braided sutures actually hold knots better. **C**: nylon is synthetic and relatively inert. **E**: capillarity is a feature of braided sutures.",
+      "difficulty": "core"
+    },
+    {
+      "id": "csi-q15",
+      "stem": "Needle-stick injuries in the Mengo theatre have increased. Which intraoperative practice will MOST effectively reduce sharps injuries among the scrubbed team?",
+      "options": [
+        "Passing the scalpel hand to hand with the blade pointing towards the surgeon",
+        "Recapping used needles with two hands before placing them on the trolley",
+        "Passing sharps through a neutral zone (kidney dish), announcing 'sharp', and using instruments rather than fingers to handle needles and blades",
+        "Removing scalpel blades with the fingers to save time",
+        "Leaving used needles on the patient's drape for the scrub nurse to collect later"
+      ],
+      "answer": 2,
+      "explanation": "The **neutral zone (hands-free) technique**, announcing sharps, and using needle holders or forceps to handle needles and blades are proven ways to reduce sharps injuries (**C**). **A** and **D** put hands directly in the path of the blade. **B**: **never recap by hand**; two-handed recapping is a classic cause of needle-sticks. **E**: loose sharps on drapes injure the team and can be lost in the wound.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "csi-c01",
+      "title": "Your first scrub at Mengo theatre",
+      "presentation": "You are asked to scrub in as second assistant for an elective CS (two previous scars) at Mengo Hospital. The patient is a 33-year-old P2+0, HIV-negative, with no allergies. The scrub nurse has laid out the CS set. You are wearing a ring and a wristwatch.",
+      "steps": [
+        { "prompt": "What do you do before approaching the scrub sink?", "answer": "- Cap covering all hair, **mask covering nose and mouth**, eye protection, **plastic apron**, theatre shoes.\n- **Remove the ring and watch** (and bracelets). Keep nails short, no polish.\n- Check hands for **cuts** (cover or don't scrub).\n- Check that the gown and glove packs are **sterile** (indicator changed, dry, intact, in date) and have them opened onto a separate surface." },
+        { "prompt": "Describe your surgical hand antisepsis.", "answer": "Turn on the water with the elbow or foot. Wet hands and forearms. Clean **under the nails** under running water (first scrub). Apply **chlorhexidine 4%** and scrub systematically: each finger's 4 sides, web spaces, palms, backs, wrists, and forearms to 5 cm above the elbow, for **2–5 minutes**. **Hands above elbows** throughout. **Rinse fingertips to elbows** in one direction. Enter theatre backwards with hands up. Dry with a sterile towel, one end per arm, fingertips to elbow, never going back." },
+        { "prompt": "While gowning, your bare knuckle touches the outside front of the gown. What do you do?", "answer": "The **outside of the gown is now contaminated**. Say so. Discard that gown and put on a new one. Your hands are still scrubbed, so you do not need to re-scrub unless you touched something unsterile. With **closed gloving**, your hands should never come out of the cuffs, which prevents exactly this problem." },
+        { "prompt": "Describe closed gloving and how you secure the gown.", "answer": "With hands inside the sleeves, place the glove **palm to palm, fingers towards the elbow**. Grasp the lower rim through the sleeve, flip the upper rim **over the cuff** with the other (covered) hand, then push the hand through. Repeat with the other hand. **Double glove** (recommended for CS in Uganda). Pass the wrap-around tie card to the circulator, turn, take the tie and fasten it at your side. Keep hands in front, above the waist, and never in the axillae." },
+        { "prompt": "The surgeon asks you to prepare the skin. How?", "answer": "Use **sponge-holding forceps** with gauze soaked in **2% chlorhexidine in 70% alcohol**. Start at the incision site with back-and-forth friction for about 30 s and work **outwards**, covering the **xiphisternum to mid-thigh** and **flank to flank**. Use fresh swabs, never returning to the centre. Clean the umbilicus. Let it **dry completely (2–3 min)** before draping and diathermy, and avoid pooling under the patient." },
+        { "prompt": "What must happen before the skin incision?", "answer": "**Drapes** are placed correctly (four towels, towel clips, fenestrated drape; never moved inwards). **Baseline count** of swabs, needles and instruments aloud by the scrub nurse and circulator, recorded on the board. **WHO checklist Time Out**: team introductions; patient, procedure and category confirmed; **antibiotic given within 60 min**; blood available; anticipated difficulties (adhesions with two previous scars). Confirm the **fetal heart** is present." }
+      ],
+      "takeaway": "Aseptic technique is a sequence of small disciplined steps: no jewellery, correct scrub, closed gloving, a dry chlorhexidine-alcohol prep, correct draping, baseline count and Time Out. Admit and correct every breach immediately."
+    },
+    {
+      "id": "csi-c02",
+      "title": "Anticipate the surgeon: instruments and sutures layer by layer",
+      "presentation": "You are first assistant at a Category 2 CS for fetal distress in a 26-year-old P1+0 at an HC IV. The medical officer will perform a Pfannenstiel incision. The scrub nurse is new and asks you to help her anticipate each instrument and suture.",
+      "steps": [
+        { "prompt": "Skin to peritoneum: which instruments are needed at each step?", "answer": "- **Skin**: scalpel (No. 4 handle, No. 22 blade), toothed dissecting forceps, dry swabs, and artery forceps or diathermy for bleeders.\n- **Fat**: fingers to separate, Langenbeck retractors.\n- **Sheath**: scalpel to nick, **curved Mayo scissors** to extend, **Kocher's** to lift the sheath edges while it is freed from the recti.\n- **Peritoneum**: two **artery forceps** (or non-toothed forceps) to tent it, check nothing is caught, open with **Metzenbaum** or fingers, high up (bladder)." },
+        { "prompt": "Uterine incision and delivery: what next?", "answer": "**Doyen retractor** over the bladder. Non-toothed forceps and **Metzenbaum** scissors to open the uterovesical fold. A **fresh scalpel** for the uterine incision (a pen grip, stroke by stroke), then **blunt extension** with fingers. Remove the Doyen before delivering the head. Have **Yankauer suction**, 2 cord clamps and cord scissors, and a warm towel for the baby. The circulator draws up **oxytocin 10 IU** for slow IV." },
+        { "prompt": "The placenta is out and the uterine angles are bleeding. What do you pass, and which suture and needle for the uterus?", "answer": "**Green-Armytage forceps** for the angles and edges, and a **dry swab** to check the cavity is empty. For closure: **#1 Vicryl (or #1/#2 chromic catgut) on a round-bodied ½-circle needle** (about 40 mm). The first layer is continuous locking, the second imbricating. **Straight Mayo scissors** to cut sutures (tails 3–5 mm for braided), not Metzenbaum." },
+        { "prompt": "When is the first closing count, and what happens if there is a discrepancy?", "answer": "The **first closing count is before closing the uterus** (or at the latest, before closing the peritoneum/sheath). If one swab is missing: **stop, recount, explore** (paracolic gutters, behind the uterus, vesico-uterine pouch), search the floor, bins and drapes, and **X-ray** if it is still missing. Never close on an incorrect count, and document it." },
+        { "prompt": "Sheath, fat and skin: which sutures and why?", "answer": "- **Sheath**: **#1 Vicryl continuous** (or PDS loop). It needs weeks of strength because fascia heals slowly. Bites 1 cm from the edge and 1 cm apart.\n- **Fat**: close with 2-0 plain or Vicryl **only if >2 cm thick**.\n- **Skin**: **3-0 Monocryl subcuticular** (cosmetic, no removal) on a reverse-cutting needle, or **2-0/3-0 nylon interrupted** (removal on day 5) if the infection risk is high.\n- **Final count** at skin closure, then Sign Out." }
+      ],
+      "takeaway": "A good assistant thinks one step ahead. Kocher's and Mayo for the sheath, Metzenbaum for the peritoneum, Doyen for the bladder, Green-Armytage for the uterine angles, and round-bodied #1 for the uterus. Each suture is chosen for how long the tissue needs support and how contaminated the field is."
+    },
+    {
+      "id": "csi-c03",
+      "title": "A discharging wound on day 6",
+      "presentation": "A 29-year-old P3 (BMI 36, Hb 9.0 g/dL) returns on day 6 after an emergency CS in labour. Membranes had been ruptured for 26 hours and she had a fever in labour. The sheath was closed with #1 chromic catgut and the skin with interrupted silk. She reports a painful wound with a pus-like discharge and fever.",
+      "steps": [
+        { "prompt": "What history and examination will you focus on?", "answer": "**History**: onset and character of the discharge (**pus vs pink serous**, which suggests dehiscence), fever, pain out of proportion (necrotising infection), vomiting or distension, lochia smell, urinary symptoms, breast symptoms, calf pain, and the theatre record (antibiotic timing, duration, sutures).\n**Examination**: vitals and sepsis screen; wound erythema, induration, fluctuance, gaping, crepitus and skin necrosis; the **integrity of the sheath** (cough impulse, gaping deep layer); uterine tenderness and lochia; breasts, chest and calves." },
+        { "prompt": "The wound is red and indurated around two silk sutures, with pus from the lateral end; the sheath feels intact. Temp 38.3 °C. What is your diagnosis and management?", "answer": "**Superficial incisional SSI** (possibly with stitch abscesses from the braided silk).\n1. **Remove the skin sutures** over the infected area to **open and drain** it; send pus for **culture and sensitivity**.\n2. Irrigate with saline and apply a **daily** moist dressing; allow healing by secondary intention or delayed closure later.\n3. **Antibiotics** because of cellulitis and fever: e.g. amoxicillin-clavulanate, or cloxacillin plus metronidazole orally, or IV ceftriaxone plus metronidazole if systemically unwell. Adjust to culture, since MRSA and ceftriaxone-resistant Gram-negatives are common in Kampala.\n4. Treat anaemia (ferrous sulphate + folic acid), give nutrition advice, and check blood glucose (obesity).\n5. Look for co-existing **endometritis**." },
+        { "prompt": "How did the choice of materials and technique contribute, and what could have reduced the risk?", "answer": "- **Braided silk** on the skin harbours bacteria (capillarity). A monofilament (nylon) or subcuticular Monocryl is better.\n- **Chromic catgut** absorbs faster and less predictably in infected tissue, so the sheath may weaken. **#1 PDS or Vicryl** is more reliable.\n- Prevention: antibiotic **before incision** (and therapeutic antibiotics for the fever in labour), **vaginal cleansing**, **chlorhexidine-alcohol** skin prep, no shaving, gentle tissue handling, **closing fat >2 cm**, and glove change after vaginal disimpaction.\n- Patient factors: obesity, anaemia, prolonged ROM, chorioamnionitis." },
+        { "prompt": "Two days later she coughs and a gush of pink fluid soaks the dressing; you see omentum in the wound. What now?", "answer": "**Fascial dehiscence (burst abdomen).** Lie her flat and reassure her. **Cover with warm sterile saline-soaked packs**. Nil by mouth, IV fluids, IV antibiotics, analgesia, Hb and cross-match. Inform the senior and **return to theatre** for debridement and **mass closure** (e.g. #1 loop nylon or PDS; consider tension sutures), with a long-term plan for incisional hernia surveillance." }
+      ],
+      "takeaway": "Suture material and asepsis directly affect wound outcomes. Avoid braided non-absorbable sutures in contaminated wounds, use a long-lasting monofilament for the sheath in high-risk women, drain SSIs by removing sutures, and recognise pink serous discharge as the warning of dehiscence."
+    }
+  ],
+  "references": [
+    { "title": "WHO Guidelines on Hand Hygiene in Health Care (incl. surgical hand preparation)", "source": "World Health Organization", "year": 2009, "url": "https://apps.who.int/iris/bitstream/handle/10665/44102/9789241597906_eng.pdf" },
+    { "title": "Global Guidelines for the Prevention of Surgical Site Infection", "source": "World Health Organization", "year": 2018, "url": "https://www.who.int/publications/i/item/9789241550475" },
+    { "title": "Global Guidelines for the Prevention of Surgical Site Infection (NCBI Bookshelf edition)", "source": "World Health Organization / NCBI Bookshelf", "year": 2018, "url": "https://www.ncbi.nlm.nih.gov/books/NBK536404/" },
+    { "title": "Key facts on surgical site skin preparation", "source": "World Health Organization", "url": "https://cdn.who.int/media/docs/default-source/integrated-health-services-(ihs)/ssi/fact-sheet-skin-web.pdf" },
+    { "title": "Alcohol-based surgical hand preparation: translating scientific evidence into clinical practice", "source": "Antimicrobial Resistance & Infection Control (via PMC)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6038254/" },
+    { "title": "Uganda National Infection Prevention and Control Guidelines", "source": "Ministry of Health Uganda", "year": 2013, "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20National%20Infection%20Prevention%20and%20Control%20Guidelines%20Dec%202013.pdf" },
+    { "title": "Caesarean birth (NG192): Recommendations (surgical technique, skin and sheath closure)", "source": "National Institute for Health and Care Excellence (NICE)", "year": 2021, "url": "https://www.nice.org.uk/guidance/ng192/chapter/recommendations" },
+    { "title": "Ceftriaxone- and ceftazidime-resistant Klebsiella species, Escherichia coli, and MRSA dominate caesarean surgical site infections at Mulago Hospital, Kampala, Uganda", "source": "SAGE Open Medicine (Wekesa et al.)", "year": 2020, "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8826261/" },
+    { "title": "Multi-drug resistant surgical site infections following caesarean delivery: a prospective observational study from urban Uganda", "source": "PubMed Central (NCBI)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12573896/" },
+    { "title": "Uganda Clinical Guidelines 2023", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf" },
+    { "title": "Decontamination, cleaning, high-level disinfection and sterilization of instruments", "source": "IARC Screening Group (WHO International Agency for Research on Cancer)", "url": "https://screening.iarc.fr/colpochap.php?chap=14.php&lang=1" },
+    { "title": "WHO Surgical Safety Checklist and Implementation Manual", "source": "World Health Organization", "year": 2009 }
+  ]
+}

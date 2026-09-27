@@ -1,0 +1,292 @@
+{
+  "slug": "emoc-safe-motherhood",
+  "flashcards": [
+    { "id": "emoc-f01", "front": "Define maternal death.", "back": "Death of a woman **while pregnant or within 42 days** of termination of pregnancy, irrespective of duration or site, from any cause **related to or aggravated by** the pregnancy or its management, but **not accidental or incidental** causes." },
+    { "id": "emoc-f02", "front": "Define late maternal death.", "back": "Death from direct or indirect obstetric causes **more than 42 days but less than 1 year** after the end of pregnancy." },
+    { "id": "emoc-f03", "front": "Maternal mortality ratio: definition and Uganda's latest figure.", "back": "Maternal deaths per **100,000 live births**. Uganda: **336 (UDHS 2016) → 189 (UDHS 2022)**." },
+    { "id": "emoc-f04", "front": "What is SDG target 3.1?", "back": "Reduce the global MMR to **below 70 per 100,000 live births by 2030**, with **no country above 140**." },
+    { "id": "emoc-f05", "front": "List the 7 BEmONC signal functions.", "back": "1. Parenteral **antibiotics**\n2. Parenteral **uterotonics**\n3. Parenteral **anticonvulsants** (MgSO₄)\n4. **Manual removal of placenta**\n5. **Removal of retained products** (MVA)\n6. **Assisted vaginal delivery** (vacuum)\n7. **Neonatal resuscitation** with bag and mask" },
+    { "id": "emoc-f06", "front": "Which two signal functions make a facility CEmONC?", "back": "**Surgery (caesarean section)** and **blood transfusion**, in addition to all 7 basic functions." },
+    { "id": "emoc-f07", "front": "When is a signal function counted as 'available'?", "back": "When it has actually been **performed at least once in the previous 3 months**, not merely because the equipment exists." },
+    { "id": "emoc-f08", "front": "UN recommended availability of EmONC facilities.", "back": "At least **5 EmONC facilities, including at least 1 comprehensive, per 500,000 population**." },
+    { "id": "emoc-f09", "front": "The three delays model (authors, year, delays).", "back": "**Thaddeus & Maine, 1994** ('Too far to walk'): delay in **deciding to seek care**, in **reaching** a facility, and in **receiving adequate care** at the facility." },
+    { "id": "emoc-f10", "front": "Target direct obstetric case fatality rate in EmONC facilities.", "back": "**Less than 1%** of women with major direct obstetric complications treated at the facility." },
+    { "id": "emoc-f11", "front": "Acceptable population CS rate range (UN EmONC indicator).", "back": "**5–15%** of all births. Below 5% suggests unmet need; well above 15% suggests over-use." },
+    { "id": "emoc-f12", "front": "What does MPDSR stand for, and what are its key steps?", "back": "**Maternal and Perinatal Death Surveillance and Response**: identify and **notify (within 24 h)** → **review** (ideally within 7 days) → analyse → **respond** (action plan) → monitor. Principle: **no name, no blame**." },
+    { "id": "emoc-f13", "front": "Pillars of Safe Motherhood (Nairobi 1987).", "back": "**Family planning, antenatal care, clean/safe delivery, essential obstetric care**, on a foundation of **primary health care and equity for women**. Later additions: postnatal and post-abortion care." },
+    { "id": "emoc-f14", "front": "Leading causes of maternal death in Uganda.", "back": "**Haemorrhage (PPH)**, **hypertensive disorders**, **sepsis**, **abortion complications**, obstructed labour/ruptured uterus, and **indirect** causes (malaria, HIV/TB, anaemia, heart disease)." },
+    { "id": "emoc-f15", "front": "Direct vs indirect obstetric death: one example of each.", "back": "**Direct**: from obstetric complications or their management (e.g. PPH, eclampsia, ruptured uterus). **Indirect**: pre-existing or new disease aggravated by pregnancy (e.g. **malaria, HIV**, cardiac disease)." },
+    { "id": "emoc-f16", "front": "Levels of the Ugandan health system and their EmONC role.", "back": "VHT → HC II (no deliveries) → **HC III (BEmONC)** → **HC IV (CEmONC: theatre + blood)** → general hospital → RRH → national referral (e.g. Kawempe)." },
+    { "id": "emoc-f17", "front": "Pre-referral treatment for eclampsia at a HC III.", "back": "**MgSO₄ loading: 4 g IV (over 5–10 min) + 10 g IM** (5 g in each buttock), antihypertensive if BP ≥160/110, IV line, catheter, escort, and a referral note with doses and times." },
+    { "id": "emoc-f18", "front": "What is a maternal near miss?", "back": "A woman who **nearly died but survived** a complication during pregnancy, childbirth or within 42 days of termination, identified by WHO organ-dysfunction criteria (e.g. shock, massive transfusion, hysterectomy, ICU)." },
+    { "id": "emoc-f19", "front": "Seven categories of disrespect and abuse in childbirth (Bowser & Hill).", "back": "Physical abuse, non-consented care, non-confidential care, non-dignified care, discrimination, abandonment/neglect, **detention in facilities**." },
+    { "id": "emoc-f20", "front": "Components of birth preparedness and complication readiness.", "back": "Planned **place of birth** with a skilled attendant, **transport**, **money**, a **blood donor**, a **companion**, knowing **danger signs**, the items needed (**mama kit**), and who will decide in an emergency." },
+    { "id": "emoc-f21", "front": "Minimum WHO postnatal stay after an uncomplicated vaginal birth.", "back": "**At least 24 hours** in the facility, because most maternal deaths (especially from PPH) occur within the first 24 hours." }
+  ],
+  "mcqs": [
+    {
+      "id": "emoc-q01",
+      "stem": "A HC III in Kyenjojo reports that in the last 3 months it has given parenteral antibiotics, oxytocin and MgSO₄, performed MVA and manual removal of placenta, and resuscitated newborns with bag and mask. It has a vacuum extractor, but no vacuum delivery has been performed in 8 months. How should it be classified?",
+      "options": [
+        "Comprehensive EmONC facility",
+        "Less than basic EmONC facility",
+        "Basic EmONC facility",
+        "Fully functional basic facility because the equipment is present",
+        "Referral hospital"
+      ],
+      "answer": 1,
+      "explanation": "B is right: a signal function must have been **performed within the last 3 months**. Missing **assisted vaginal delivery** makes this a 'less than basic' EmONC facility. A is wrong: CEmONC needs all 7 plus CS and blood transfusion. C and D are wrong: all 7 basic functions are required, and equipment alone doesn't count. E is wrong: a facility's level is not defined by signal functions in that way."
+      , "difficulty": "core"
+    },
+    {
+      "id": "emoc-q02",
+      "stem": "A 24-year-old died of PPH after a home delivery. Her husband was away and her mother-in-law refused to let her go to the HC IV until he returned, 5 hours after bleeding began. Which delay does this represent, and what is the MOST appropriate intervention to address it?",
+      "options": [
+        "Delay 2; build a new road",
+        "Delay 3; train midwives in the E-MOTIVE bundle",
+        "Delay 3; stock more blood at the HC IV",
+        "Delay 2; provide an ambulance",
+        "Delay 1; community education on danger signs and birth preparedness, including who will decide in an emergency"
+      ],
+      "answer": 4,
+      "explanation": "E is right: the problem was **deciding to seek care** (delay 1). Family decision-making, gender norms and lack of recognition of danger signs are addressed by community education, male involvement and **birth preparedness plans** that name the decision-maker. A and D address delay 2 (reaching care). B and C address delay 3 (care at the facility). All are useful, but not for the delay described."
+      , "difficulty": "core"
+    },
+    {
+      "id": "emoc-q03",
+      "stem": "A primigravida at 37 weeks has an eclamptic fit at a HC III that has no theatre. The nearest HC IV with CEmONC is 2 hours away by ambulance. Her BP is 168/112. What is the MOST appropriate action BEFORE transfer?",
+      "options": [
+        "Give MgSO₄ 4 g IV plus 10 g IM loading dose, an antihypertensive (e.g. hydralazine 5 mg IV or nifedipine 10 mg orally), secure IV access and catheterise, then transfer with a health worker",
+        "Transfer immediately without treatment to avoid delay",
+        "Give diazepam 10 mg IV and transfer",
+        "Wait at the HC III for delivery before referral",
+        "Give MgSO₄ only if she fits again"
+      ],
+      "answer": 0,
+      "explanation": "A is right: **stabilise before transfer**. The MgSO₄ loading dose is a BEmONC signal function and prevents further fits during transport; BP control reduces stroke risk; escort by a health worker and a referral note with doses and times. B is wrong: an untreated eclamptic can fit and aspirate or bleed into the brain in the ambulance. C is wrong: **MgSO₄ is superior to diazepam** for eclampsia. D is wrong: she needs a facility able to do CS if needed. E is wrong: MgSO₄ is given after the first fit to prevent recurrence."
+      , "difficulty": "core"
+    },
+    {
+      "id": "emoc-q04",
+      "stem": "A district of 1,000,000 people has 3 HC IVs performing CS and blood transfusion, and 4 HC IIIs performing all 7 basic signal functions. According to the UN recommendation, which statement is correct?",
+      "options": [
+        "The district has too few comprehensive facilities",
+        "The district needs at least 20 EmONC facilities",
+        "It needs ≥10 EmONC facilities including ≥2 comprehensive; it meets the comprehensive requirement but falls short of the total",
+        "HC IIIs cannot be counted as EmONC facilities",
+        "Only hospitals count as comprehensive facilities"
+      ],
+      "answer": 2,
+      "explanation": "C is right: the standard is **≥5 EmONC facilities (≥1 comprehensive) per 500,000**, so for 1 million: **≥10 facilities including ≥2 CEmONC**. The district has 7 (3 of them CEmONC), so it meets the comprehensive requirement but not the total. A is wrong: 3 ≥ 2. B is wrong: 20 is a miscalculation. D is wrong: HC IIIs performing all 7 functions count as BEmONC. E is wrong: any facility performing all 9 functions, including a HC IV, is comprehensive."
+      , "difficulty": "advanced"
+    },
+    {
+      "id": "emoc-q05",
+      "stem": "A woman dies at a regional referral hospital 26 hours after arriving in labour. She waited 5 hours for a CS because there was no anaesthetist on duty, and then 3 hours for blood after the operation. Which delay primarily contributed and what is the BEST system response?",
+      "options": [
+        "Delay 1; health education in her village",
+        "Delay 2; provide transport vouchers",
+        "No delay; the death was unavoidable",
+        "Delay 3; fix anaesthetist call rotas and blood availability, identified and actioned through an MPDSR review",
+        "Delay 2; build a maternity waiting home"
+      ],
+      "answer": 3,
+      "explanation": "D is right: she reached the hospital, but care was delayed there. That is **delay 3** (receiving adequate care). The MPDSR response should target staffing (anaesthesia on-call) and **blood supply**. A, B and E address delays 1 and 2, which weren't the problem. C is wrong: a death with a 5-hour decision-to-delivery interval and a 3-hour wait for blood is clearly **avoidable**."
+      , "difficulty": "core"
+    },
+    {
+      "id": "emoc-q06",
+      "stem": "A maternal death occurs at your HC IV on a Saturday night. According to Uganda's MPDSR guidelines, which is the CORRECT first step?",
+      "options": [
+        "Notify the district and MoH within 24 hours",
+        "Wait for the monthly MPDSR meeting before reporting",
+        "Identify the midwife responsible and suspend her",
+        "Report only if the family complains",
+        "Notify only if the death was due to a direct cause"
+      ],
+      "answer": 0,
+      "explanation": "A is right: maternal deaths are **notifiable within 24 hours**, followed by a facility review (ideally within 7 days). B is wrong: it delays notification. C is wrong: MPDSR is **no-name, no-blame**, and punitive responses discourage honest reporting. D and E are wrong: **all** maternal deaths (direct and indirect) are notifiable."
+      , "difficulty": "core"
+    },
+    {
+      "id": "emoc-q07",
+      "stem": "Which of the following is NOT one of the seven basic EmONC signal functions?",
+      "options": [
+        "Parenteral anticonvulsants",
+        "Manual removal of the placenta",
+        "Assisted vaginal delivery",
+        "Blood transfusion",
+        "Neonatal resuscitation with bag and mask"
+      ],
+      "answer": 3,
+      "explanation": "D is right: **blood transfusion** (with CS) is one of the two extra **comprehensive** signal functions. A, B, C and E are all basic signal functions, along with parenteral antibiotics, parenteral uterotonics and removal of retained products."
+      , "difficulty": "core"
+    },
+    {
+      "id": "emoc-q08",
+      "stem": "A woman at 32 weeks dies from a road traffic accident while travelling to the market. How should this death be classified?",
+      "options": [
+        "Direct maternal death",
+        "Indirect maternal death",
+        "Late maternal death",
+        "Maternal near miss",
+        "Pregnancy-related death but not a maternal death (accidental/incidental cause)"
+      ],
+      "answer": 4,
+      "explanation": "E is right: deaths from **accidental or incidental** causes are excluded from maternal deaths, but they count as **pregnancy-related deaths** (any cause while pregnant or within 42 days). A and B are wrong: those require a cause related to or aggravated by the pregnancy. C is wrong: late maternal death is 42 days to 1 year after the end of pregnancy. D is wrong: she did not survive."
+      , "difficulty": "core"
+    },
+    {
+      "id": "emoc-q09",
+      "stem": "A woman who is 3 weeks postpartum dies from cerebral malaria at a general hospital. How is this death BEST classified?",
+      "options": [
+        "Direct maternal death",
+        "Indirect maternal death",
+        "Not a maternal death because malaria is an infection",
+        "Late maternal death",
+        "Coincidental death"
+      ],
+      "answer": 1,
+      "explanation": "B is right: malaria is a disease **aggravated by the physiological effects of pregnancy** (reduced immunity in pregnancy and the puerperium). Death within 42 days makes it an **indirect maternal death**. A is wrong: direct deaths result from obstetric complications (e.g. PPH, sepsis of genital-tract origin). C and E are wrong: malaria is not incidental; pregnancy increases its severity. D is wrong: she died within 42 days."
+      , "difficulty": "advanced"
+    },
+    {
+      "id": "emoc-q10",
+      "stem": "A district health officer wants a single indicator to judge whether women with major obstetric complications are actually receiving EmONC. Which indicator is MOST appropriate?",
+      "options": [
+        "Number of ANC visits per woman",
+        "Contraceptive prevalence rate",
+        "Met need for EmONC (proportion of expected complications treated in EmONC facilities)",
+        "Number of TBAs trained",
+        "Number of hospital beds"
+      ],
+      "answer": 2,
+      "explanation": "C is right: **met need for EmONC** compares women treated for major direct obstetric complications in EmONC facilities with the expected number (about 15% of births); the target is 100%. A, B, D and E are useful for other purposes but don't measure whether complications are being treated."
+      , "difficulty": "advanced"
+    },
+    {
+      "id": "emoc-q11",
+      "stem": "A 17-year-old is shouted at and slapped by a midwife during labour for 'not pushing properly', and is detained after delivery because her family cannot pay for the mama kit. Which statement BEST explains why this matters for maternal mortality?",
+      "options": [
+        "It only matters legally, not clinically",
+        "It is acceptable to ensure cooperation in the second stage",
+        "It primarily affects the third delay only",
+        "Detention is permitted until bills are paid",
+        "Disrespect and abuse deter women from facility birth in future, worsening the first delay, and violate their rights"
+      ],
+      "answer": 4,
+      "explanation": "E is right: **respectful maternity care** is a right and a quality standard. Women who experience abuse (physical abuse, non-dignified care, **detention**) often avoid facilities next time, feeding **delay 1** and home births. A and B are wrong: abuse is never acceptable and has clinical consequences. C is wrong: it affects all delays, most importantly the decision to seek care. D is wrong: detention for unpaid bills is a human-rights violation."
+      , "difficulty": "core"
+    },
+    {
+      "id": "emoc-q12",
+      "stem": "At a MPDSR review of a PPH death, the committee finds that the woman delivered at 22:00, was not observed until 06:00, and was found in shock with an empty oxytocin cupboard. Which response is MOST in keeping with MPDSR principles?",
+      "options": [
+        "Dismiss the midwife on duty",
+        "Record the cause as 'unavoidable PPH' and close the file",
+        "Develop an action plan: postpartum observation protocol (every 15 min for 2 h, then hourly), a night staffing review and an oxytocin stock-management system, each with a responsible person and deadline",
+        "Keep the findings confidential and take no action",
+        "Report the case to the media to create pressure"
+      ],
+      "answer": 2,
+      "explanation": "C is right: MPDSR must end in a **response** with **SMART actions** that address the system failures (monitoring, staffing, supplies). A is wrong: blame is counter-productive and violates the no-blame principle. B is wrong: the death was avoidable. D is wrong: confidentiality applies to identities, but **action** is mandatory. E is wrong: it breaches confidentiality."
+      , "difficulty": "core"
+    },
+    {
+      "id": "emoc-q13",
+      "stem": "A HC IV reports a caesarean section rate of 2% of all births in its catchment population, and a high rate of ruptured uteri and obstetric fistula. What does this MOST likely indicate?",
+      "options": [
+        "Excellent intrapartum care, so CS is not needed",
+        "Unmet need for caesarean section (poor access to CEmONC)",
+        "Over-use of CS",
+        "Accurate data with no problem",
+        "High use of vacuum extraction replacing CS"
+      ],
+      "answer": 1,
+      "explanation": "B is right: a population CS rate **below 5%** indicates **unmet obstetric need**. Women with obstructed labour are not getting timely surgery, leading to ruptures and fistulae. A is wrong: the complications show the opposite. C is wrong: over-use would be well above 15%. D is wrong: the associated morbidity shows a real problem. E is wrong: vacuum cannot replace CS for obstruction, and rupture/fistula rates would not be high."
+      , "difficulty": "advanced"
+    },
+    {
+      "id": "emoc-q14",
+      "stem": "A woman arrives at a busy HC IV maternity unit. Which finding on rapid initial assessment requires IMMEDIATE emergency management before any history is taken?",
+      "options": [
+        "Convulsions",
+        "Swollen feet at 36 weeks with normal BP",
+        "Mild backache in early labour",
+        "Request for family planning counselling",
+        "Routine ANC visit at 28 weeks"
+      ],
+      "answer": 0,
+      "explanation": "A is right: RIA danger signs (unconscious/**convulsing**, shock, heavy bleeding, severe breathing difficulty, high fever, severe abdominal pain, imminent delivery) require immediate care. Convulsions mean eclampsia until proven otherwise: protect the airway and give MgSO₄. B, C, D and E are non-urgent and can wait in the normal queue."
+      , "difficulty": "core"
+    },
+    {
+      "id": "emoc-q15",
+      "stem": "A district wants to reduce maternal deaths from obstructed labour and PPH among women living on islands in Lake Victoria, more than 3 hours from the nearest HC IV. Which intervention MOST directly addresses the main barrier?",
+      "options": [
+        "Train more TBAs to conduct deliveries on the islands",
+        "Increase the number of ANC visits to 8",
+        "Distribute contraceptive pills only",
+        "Establish a maternity waiting home near the HC IV and a water-ambulance referral system",
+        "Stop deliveries at HC IIIs"
+      ],
+      "answer": 3,
+      "explanation": "D is right: the main barrier is **geographic (delay 2)**. **Maternity waiting homes** (women stay near a CEmONC facility from about 36–38 weeks) and a **functional transport/referral system** (water ambulance) reduce it. A is wrong: TBAs cannot perform signal functions and are not skilled birth attendants. B is wrong: ANC is important but doesn't solve access in labour emergencies. C is wrong: FP helps but is not sufficient alone. E is wrong: HC IIIs provide BEmONC, and closing them worsens access."
+      , "difficulty": "advanced"
+    }
+  ],
+  "cases": [
+    {
+      "id": "emoc-c01",
+      "title": "Analysing a maternal death using the three delays",
+      "presentation": "You are asked to present at the Mengo MPDSR meeting. Mrs T, a 28-year-old para 4 from a village in Mpigi, delivered at home with a TBA at 23:00. She began bleeding heavily after the placenta. The family waited for her husband to return (02:00), then spent 1.5 hours finding a boda-boda and money. At the HC III (04:00), the only midwife gave oxytocin 10 IU IM and referred her without an IV line. She reached Mengo at 06:30 in shock and died at 07:15 while blood was being cross-matched.",
+      "steps": [
+        { "prompt": "What is the medical cause of death and how will you classify it?", "answer": "**Primary postpartum haemorrhage** (probably atonic; para 4, home birth without AMTSL) leading to **hypovolaemic shock**. A **direct maternal death**." },
+        { "prompt": "Identify the delays and contributing factors.", "answer": "**Delay 1 (deciding)**: home birth with a TBA (birth preparedness failure), waiting 3 hours for the husband (gender and decision-making norms), not recognising the danger sign.\n**Delay 2 (reaching)**: no transport at night, 1.5 h to find money and a boda-boda, then HC III to Mengo transfer.\n**Delay 3 (receiving care)**: at the HC III, **no IV fluids, no TXA, no bimanual compression, no NASG, no escort**, and no call ahead; at Mengo, delay in getting blood." },
+        { "prompt": "Which interventions could have prevented this death? Give at least one per delay.", "answer": "Delay 1: **birth preparedness** counselling at ANC (place of birth, decision-maker, money, blood donor), **community misoprostol** for women likely to deliver at home, VHT education on danger signs, male involvement.\nDelay 2: **community emergency transport** scheme or ambulance numbers, savings groups, maternity waiting home.\nDelay 3: HC III **E-MOTIVE training and drills** (massage, oxytocin, TXA, fluids, examination, escalation), pre-referral stabilisation (**two IV lines, NASG**, bimanual/aortic compression during transfer), **phoning ahead**, and **emergency O-negative blood** available on arrival at the hospital." },
+        { "prompt": "How would you structure the MPDSR response?", "answer": "SMART action plan, e.g.:\n1. Train all HC III midwives in PPH drills and pre-referral stabilisation within 3 months (responsible: district MCH focal person).\n2. Pre-position NASG and TXA at all HC IIIs (DHO/medical stores, 1 month).\n3. Establish a referral hotline and call-ahead protocol with Mengo (hospital administrator).\n4. Hospital: an emergency blood protocol (O-negative on the labour ward) (blood bank lead).\n5. Community birth-preparedness campaign via VHTs (health educator).\nFollow up at the next meeting. Keep it **no name, no blame**." }
+      ],
+      "takeaway": "Nearly every maternal death has several delays. MPDSR turns the story into actions, and the review isn't finished until someone is responsible for a change."
+    },
+    {
+      "id": "emoc-c02",
+      "title": "Eclampsia at a HC III: stabilise and refer",
+      "presentation": "You are a medical student on community placement at a HC III in Kasese. A 17-year-old primigravida at about 36 weeks is carried in by relatives after a fit at home 1 hour ago. She is drowsy, BP 170/115, and has 3+ proteinuria. The HC III has MgSO₄, hydralazine, IV fluids and a phone, but no theatre. The HC IV is 1.5 hours away.",
+      "steps": [
+        { "prompt": "What will you do in the first 5 minutes?", "answer": "**Call for help**; **rapid initial assessment**; place her in the **left lateral position**, clear the airway (suction), oxygen if available; protect from injury; IV access; **MgSO₄ loading: 4 g IV (20%) over 5–10 min + 10 g IM (5 g 50% in each buttock with lidocaine)**; catheterise (urine output); check the fetal heart." },
+        { "prompt": "How will you control her BP, and what are your monitoring targets?", "answer": "**Hydralazine 5 mg IV slowly**, repeat every 20–30 min until BP <160/110 (target around 140–150/90–100), max 20 mg; or **nifedipine 10 mg orally** if she can swallow safely (repeat after 30 min). Monitor for MgSO₄ toxicity: **patellar reflexes present, RR ≥16/min, urine ≥30 mL/h**; have **calcium gluconate 1 g IV** ready." },
+        { "prompt": "What will you include in the referral?", "answer": "Call the HC IV to alert the team; a **referral note** with the history (time of fit), **vital signs with times**, **MgSO₄ and antihypertensive doses and times**, urine output, fetal heart, and the partograph if in labour. Transfer in an **ambulance**, **accompanied by a health worker** with MgSO₄ (next IM dose due 4 h after loading), calcium gluconate, a delivery kit and a bag and mask. Ask a relative who could donate blood to come." },
+        { "prompt": "At the HC IV she is stable but not in labour; cervix unfavourable. What is the definitive treatment?", "answer": "**Delivery** within about 12 hours of the fit, after stabilisation. **Induction** (misoprostol/oxytocin) if feasible with an unfavourable cervix and a quick expected course, or **CS** if induction isn't likely to succeed quickly, or for obstetric indications. Continue **MgSO₄ for 24 h** after delivery or the last fit; AMTSL (**oxytocin; avoid ergometrine**); close postpartum BP monitoring." },
+        { "prompt": "Which EmONC signal functions and which delays were involved?", "answer": "Signal functions: **parenteral anticonvulsant** (BEmONC at the HC III), **caesarean section** and possibly **blood transfusion** (CEmONC at the HC IV), and **neonatal resuscitation**. Delays: possible delay 1 (home fit, adolescent), delay 2 (1.5 h transfer), and delay 3 avoided by **pre-referral stabilisation**." }
+      ],
+      "takeaway": "A BEmONC facility saves lives by giving the signal function (MgSO₄) before referral, then transferring safely with a proper escort and referral note."
+    },
+    {
+      "id": "emoc-c03",
+      "title": "Planning EmONC for a district",
+      "presentation": "The District Health Officer of a rural district (population 500,000) asks your team for advice. Data: 2 HC IVs (one theatre functional, one closed for 6 months due to no anaesthetist), 12 HC IIIs (only 3 performed assisted vaginal delivery in the last 3 months), 20,000 expected births per year, 180 CSs last year, and 14 maternal deaths reported (9 from PPH).",
+      "steps": [
+        { "prompt": "How many functional EmONC facilities does the district have compared with the UN standard?", "answer": "UN standard for 500,000 people: **≥5 EmONC, ≥1 comprehensive**. Comprehensive: **1** (only one HC IV performs CS and, presumably, transfusion). Basic: only HC IIIs performing **all 7** functions count; at most **3** (those doing vacuum deliveries, if they do all others). So at most **4 of 5** needed. It meets the comprehensive minimum on paper, but with only one functioning theatre." },
+        { "prompt": "Calculate the CS rate and interpret it.", "answer": "180 ÷ 20,000 = **0.9%**, far below **5%**, indicating a large **unmet need** for caesarean section. Women with obstructed labour, praevia and similar conditions are not reaching surgery (a delay 2 and 3 problem)." },
+        { "prompt": "Estimate the met need for EmONC if 700 women were treated for major direct complications in EmONC facilities.", "answer": "Expected complications = 15% of 20,000 = **3,000**. Met need = 700 ÷ 3,000 = **about 23%**, far below the 100% target." },
+        { "prompt": "Recommend priority actions.", "answer": "1. **Reopen the second HC IV theatre**: recruit or train anaesthetic officers, and ensure a blood supply (UBTS link, blood fridge).\n2. Make **HC IIIs fully BEmONC**: vacuum delivery training and mentorship, supplies, drills.\n3. **Referral system**: ambulance, call-ahead protocol, maternity waiting homes.\n4. **PPH focus**: E-MOTIVE (calibrated drapes, TXA, oxytocin cold chain), 24-h postnatal stay.\n5. **MPDSR** in all facilities, with district follow-up of actions.\n6. Community: birth preparedness, FP, respectful care to increase facility use." }
+      ],
+      "takeaway": "EmONC indicators turn raw data into decisions: count what is actually performed, calculate the CS rate and met need, and fix the weakest link (often anaesthesia, blood and referral)."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Demographic and Health Survey 2022", "source": "Uganda Bureau of Statistics", "year": 2023, "url": "https://www.ubos.org/wp-content/uploads/publications/UDHS-2022-Report.pdf" },
+    { "title": "Maternal and Perinatal Death Surveillance and Response Guidelines", "source": "Ministry of Health Uganda", "year": 2017, "url": "https://library.health.go.ug/sites/default/files/resources/Maternal%20and%20Perinatal%20Death%20Surveillance%20and%20Response%20Guidelines%20August%202017.pdf" },
+    { "title": "National Annual Maternal and Perinatal Death Report FY 2022/2023", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/sexual-and-reproductive-health/maternal-health/national-annual-maternal-and-perinatal-death-report" },
+    { "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Essential Maternal and Newborn Clinical Care Guidelines for Uganda", "source": "Ministry of Health Uganda", "year": 2022, "url": "https://library.health.go.ug/sites/default/files/resources/Essential%20Maternal%20Newborn%20Care%20Guidelines%202022%20V3.pdf" },
+    { "title": "Monitoring emergency obstetric care: a handbook", "source": "WHO, UNFPA, UNICEF, AMDD", "year": 2009, "url": "https://www.unfpa.org/sites/default/files/pub-pdf/obstetric_monitoring.pdf" },
+    { "title": "Too far to walk: maternal mortality in context", "source": "Thaddeus S, Maine D. Social Science & Medicine 38(8):1091–1110", "year": 1994, "url": "https://pubmed.ncbi.nlm.nih.gov/8042057/" },
+    { "title": "A Delphi process to build consensus on revised Emergency Obstetric and Newborn Care (EmONC) signal functions and levels of care", "source": "PLOS One", "year": 2025, "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0331684" },
+    { "title": "Why mothers die at a busy tertiary urban hospital in Kampala, Uganda: a comprehensive review of maternal deaths 2016–2018", "source": "BMC Pregnancy and Childbirth (PMC)", "year": 2022, "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9652663/" },
+    { "title": "Puerperal sepsis, the leading cause of maternal deaths at a Tertiary University Teaching Hospital in Uganda", "source": "BMC Pregnancy and Childbirth", "year": 2016, "url": "https://link.springer.com/article/10.1186/s12884-016-0986-9" },
+    { "title": "A practical approach to measuring MPDSR implementation: findings from a cross-sectional assessment in regional referral hospitals in Uganda", "source": "BMC Pregnancy and Childbirth", "year": 2025, "url": "https://link.springer.com/article/10.1186/s12884-025-08184-w" },
+    { "title": "The conduct of maternal and perinatal death reviews in Oyam District, Uganda", "source": "PMC", "year": 2016, "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4944522/" },
+    { "title": "Beyond facility-based births: Is Uganda delivering effective maternal and newborn care? (UDHS 2022 and 2023 HHFA analysis)", "source": "PLOS Global Public Health", "year": 2025, "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371%2Fjournal.pgph.0004949" }
+  ]
+}

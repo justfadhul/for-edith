@@ -1,0 +1,291 @@
+{
+  "slug": "vaginal-delivery-skills",
+  "flashcards": [
+    { "id": "vd-f01", "front": "List the core instruments in a standard delivery pack.", "back": "**2 artery forceps, cord scissors, episiotomy scissors, needle holder, toothed dissecting forceps, sponge-holding forceps, gallipot, kidney dish**, cord ties/clamps, gauze, drapes." },
+    { "id": "vd-f02", "front": "Why do episiotomy scissors have a blunt, angled tip?", "back": "To **protect the baby's head** and cut the perineum at the correct angle while two fingers shield the head." },
+    { "id": "vd-f03", "front": "RCOG classification of perineal tears?", "back": "**1st** skin/vaginal epithelium; **2nd** perineal muscles; **3a** under 50% EAS; **3b** over 50% EAS; **3c** EAS + IAS; **4th** sphincter complex + anorectal mucosa." },
+    { "id": "vd-f04", "front": "Unsure whether a tear is 3a or 3b: what do you call it?", "back": "**The higher degree (3b)**, to avoid under-treatment." },
+    { "id": "vd-f05", "front": "What is a rectal buttonhole tear?", "back": "A tear of the **rectal mucosa with an intact anal sphincter**. Not a 4th-degree tear, but must be repaired and followed up (fistula risk)." },
+    { "id": "vd-f06", "front": "Angle and timing of a mediolateral episiotomy?", "back": "About **60 degrees from the midline at crowning** (ends up about 45 degrees after delivery)." },
+    { "id": "vd-f07", "front": "Indications for episiotomy?", "back": "Fetal distress with a tight perineum delaying birth, **forceps** (and some vacuum) deliveries, rigid/scarred perineum, room for shoulder dystocia manoeuvres, selected breech. **Not routine.**" },
+    { "id": "vd-f08", "front": "Lignocaine 1%: concentration and maximum dose (plain)?", "back": "**10 mg/mL**; maximum about **3 mg/kg** without adrenaline (about 18-20 mL for 60 kg). Usually 10 mL is enough. **Aspirate first.**" },
+    { "id": "vd-f09", "front": "Early signs of lignocaine toxicity?", "back": "**Perioral tingling, metallic taste, tinnitus, light-headedness**, then drowsiness, seizures, arrhythmias and cardiac arrest." },
+    { "id": "vd-f10", "front": "Preferred suture for a second-degree perineal repair?", "back": "**Rapidly absorbable polyglactin 910 (e.g. Vicryl Rapide) 2-0** on a round-bodied needle; continuous non-locking technique." },
+    { "id": "vd-f11", "front": "Suture used for anal sphincter repair?", "back": "**3-0 PDS** (monofilament polydioxanone, long-lasting) or 2-0 polyglactin; IAS repaired separately end-to-end; EAS end-to-end or overlapping." },
+    { "id": "vd-f12", "front": "Where is the first stitch placed in a vaginal tear and why?", "back": "About **1 cm above the apex**, to catch retracted bleeding vessels." },
+    { "id": "vd-f13", "front": "Why do a rectal exam after perineal repair?", "back": "To ensure **no suture has passed through the rectal mucosa** (rectovaginal fistula risk) and to confirm the sphincter." },
+    { "id": "vd-f14", "front": "Round-bodied vs cutting needle: which for the perineum?", "back": "**Round-bodied (taper)**: it separates rather than cuts tissue (muscle, mucosa). Cutting needles are for tough skin." },
+    { "id": "vd-f15", "front": "Post-OASI care package?", "back": "**Broad-spectrum antibiotics**, **laxatives** (lactulose), analgesia, catheter 12-24 h, physiotherapy, **follow-up at 6-12 weeks** for continence, counselling for future births." },
+    { "id": "vd-f16", "front": "HELPERR for shoulder dystocia?", "back": "**H**elp, **E**pisiotomy (evaluate), **L**egs (McRoberts), suprapubic **P**ressure, **E**nter (internal rotation), **R**emove posterior arm, **R**oll to all fours." },
+    { "id": "vd-f17", "front": "How are the shoulders delivered in a normal delivery?", "back": "After restitution and external rotation: **anterior shoulder by gentle downward traction**, **posterior shoulder by upward traction**, then body by **lateral flexion**. Never pull on the neck." },
+    { "id": "vd-f18", "front": "Why ask the mother to pant at crowning?", "back": "So the head delivers **slowly between contractions**, allowing the perineum to stretch and reducing tears." },
+    { "id": "vd-f19", "front": "Which technique of perineal repair causes least pain?", "back": "**Continuous non-locking** sutures for all layers (vs interrupted), with rapidly absorbable synthetic material (Cochrane evidence)." },
+    { "id": "vd-f20", "front": "A woman has severe perineal pain and tachycardia 2 hours after repair. What must you exclude?", "back": "**Vulval/paravaginal haematoma** (can conceal a large blood loss). Examine; large or expanding needs evacuation in theatre." },
+    { "id": "vd-f21", "front": "Suture gauge: which is thinner, 2-0 or 3-0?", "back": "**3-0 is thinner** (more zeros, more slender)." }
+  ],
+  "mcqs": [
+    {
+      "id": "vd-q01",
+      "stem": "After a normal delivery, a primipara has a perineal tear through the perineal muscles. On rectal examination about one-third of the thickness of the external anal sphincter is torn; the internal sphincter and rectal mucosa are intact. How should this be classified?",
+      "options": [
+        "Third-degree tear, 3a",
+        "Second-degree tear",
+        "Third-degree tear, 3b",
+        "Third-degree tear, 3c",
+        "Fourth-degree tear"
+      ],
+      "answer": 0,
+      "explanation": "Less than 50% of EAS thickness torn = **3a**. A second-degree tear (B) spares the sphincter. 3b (C) is more than 50% of the EAS. 3c (D) includes the IAS. A fourth-degree tear (E) involves the anorectal mucosa.",
+      "difficulty": "core"
+    },
+    {
+      "id": "vd-q02",
+      "stem": "A junior clerk has just repaired a second-degree tear under supervision at an HC IV. Before the woman leaves the delivery couch, what is the MOST important final step?",
+      "options": [
+        "Apply antibiotic ointment to the perineum",
+        "Give ergometrine to reduce bleeding",
+        "Remove all sutures from the skin",
+        "Perform a rectal examination and count swabs, needles and instruments",
+        "Insert a vaginal pack for 24 hours"
+      ],
+      "answer": 3,
+      "explanation": "A **rectal exam** confirms no suture has been placed through the rectal mucosa (fistula risk), and the **count** ensures no retained swab/tampon (sepsis). Antibiotic ointment (A) is not standard. Ergometrine (B) is not indicated for trauma and is contraindicated in hypertension. Absorbable skin sutures are not removed (C). A 24-hour pack (E) is not routine and causes discomfort and retention.",
+      "difficulty": "core"
+    },
+    {
+      "id": "vd-q03",
+      "stem": "A 19-year-old primigravida is crowning. The FHR has been 90 bpm for 4 minutes, the perineum is tight and is clearly the only thing delaying delivery. What is the MOST appropriate action?",
+      "options": [
+        "Wait for spontaneous delivery with the next contraction",
+        "Infiltrate lignocaine and perform a mediolateral episiotomy to expedite delivery",
+        "Apply fundal pressure",
+        "Perform a midline episiotomy without anaesthesia",
+        "Transfer for emergency caesarean section"
+      ],
+      "answer": 1,
+      "explanation": "**Fetal distress with the perineum as the only obstruction** is a clear indication for a **mediolateral episiotomy** (with local anaesthetic). Waiting (A) risks hypoxic injury. Fundal pressure (C) is not recommended (uterine rupture, fetal injury). Midline episiotomy (D) increases OASI risk and cutting without anaesthesia is unacceptable. CS (E) at crowning is slower and more dangerous than an episiotomy.",
+      "difficulty": "core"
+    },
+    {
+      "id": "vd-q04",
+      "stem": "The head of a 4.3 kg baby delivers, then retracts tightly against the perineum. Gentle downward traction does not deliver the anterior shoulder. After calling for help, what is the NEXT step?",
+      "options": [
+        "Apply strong traction on the head",
+        "Apply fundal pressure",
+        "Cut the cord around the neck",
+        "Perform a Zavanelli manoeuvre",
+        "McRoberts manoeuvre with suprapubic pressure"
+      ],
+      "answer": 4,
+      "explanation": "This is **shoulder dystocia**. After calling for help, **McRoberts plus suprapubic pressure** resolves most cases. Strong traction (A) causes brachial plexus injury. **Fundal pressure** (B) worsens impaction and can rupture the uterus. Cutting a nuchal cord (C) removes the baby's only oxygen supply before delivery. Zavanelli (D) is a last-resort manoeuvre.",
+      "difficulty": "core"
+    },
+    {
+      "id": "vd-q05",
+      "stem": "Two hours after an episiotomy repair, a woman complains of severe, increasing perineal and rectal pressure pain. Pulse is 118, BP 98/60. The uterus is firm and vaginal bleeding is minimal. A tense bluish swelling is seen on the right labium. What is the MOST appropriate management?",
+      "options": [
+        "Oral analgesia and review in the morning",
+        "Oxytocin infusion for uterine atony",
+        "Resuscitate and evacuate the haematoma in theatre with haemostasis",
+        "Remove the episiotomy sutures on the ward",
+        "Apply ice packs only"
+      ],
+      "answer": 2,
+      "explanation": "Severe pain, a tense swelling and **haemodynamic compromise** with a contracted uterus = **large vulval/paravaginal haematoma**, which can hide a litre or more of blood. Resuscitate (IV access, crossmatch), then **evacuate in theatre**, ligate bleeders, catheterise. Analgesia alone (A) or ice alone (E) are only for small, stable haematomas. Oxytocin (B) is for atony, but the uterus is firm. Removing sutures on the ward (D) without anaesthesia and light is unsafe and may not reach the bleeding point.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "vd-q06",
+      "stem": "You are about to infiltrate 1% lignocaine for a perineal repair in a 50 kg woman. Which statement is CORRECT?",
+      "options": [
+        "Aspirate before injecting; the maximum plain lignocaine dose is about 3 mg/kg (about 15 mL here)",
+        "Up to 50 mL is safe because it is a local injection",
+        "Aspiration is unnecessary in the perineum",
+        "Lignocaine with adrenaline cannot be used in the body anywhere",
+        "The maximum dose is 1 mg/kg"
+      ],
+      "answer": 0,
+      "explanation": "Lignocaine 1% = 10 mg/mL; the plain maximum is about **3 mg/kg** = 150 mg = **15 mL** for 50 kg. **Aspirate** to avoid intravascular injection. 50 mL (B) would be 500 mg, toxic. The perineum is vascular, so aspiration matters (C). Adrenaline-containing lignocaine is widely used elsewhere (D) (max about 7 mg/kg). 1 mg/kg (E) is too low (that is closer to the IV antiarrhythmic dose).",
+      "difficulty": "core"
+    },
+    {
+      "id": "vd-q07",
+      "stem": "Which suture is BEST for repairing the vaginal mucosa and perineal muscles in a second-degree tear?",
+      "options": [
+        "Nylon 2-0 on a cutting needle, interrupted",
+        "Silk 0, locking continuous",
+        "Chromic catgut 1, interrupted",
+        "Rapidly absorbable polyglactin 910 (Vicryl Rapide) 2-0 on a round-bodied needle, continuous non-locking",
+        "Polypropylene (Prolene) 3-0"
+      ],
+      "answer": 3,
+      "explanation": "Evidence favours **rapidly absorbable synthetic** sutures with a **continuous non-locking** technique (less pain, fewer suture removals). Nylon (A), silk (B) and Prolene (E) are non-absorbable and would need removal and cause discomfort. Chromic catgut (C) causes more pain and tissue reaction; size 1 is too thick. Locking stitches (B) strangulate tissue.",
+      "difficulty": "core"
+    },
+    {
+      "id": "vd-q08",
+      "stem": "After a vacuum delivery at an HC IV, the clerk sees a torn perineum. On rectal exam the external sphincter is completely torn and the pale internal sphincter is also disrupted; the rectal mucosa is intact. There is no experienced obstetrician on site today. What is the BEST course of action?",
+      "options": [
+        "The clerk repairs it on the delivery bed with interrupted catgut",
+        "Leave it to heal by secondary intention",
+        "Classify as a second-degree tear and repair",
+        "Wait 6 weeks and then repair",
+        "Control bleeding with a pressure pack, give antibiotics and refer to a hospital for repair in theatre by an experienced surgeon"
+      ],
+      "answer": 4,
+      "explanation": "This is a **3c tear** (OASI). It needs **repair in theatre** with anaesthesia, good light and an experienced surgeon; primary repair gives the best chance of continence. A student repairing it on the delivery bed (A) risks a failed repair. Leaving it (B) or delaying (D) causes incontinence and fistula. Calling it second-degree (C) is misclassification and leads to inadequate repair.",
+      "difficulty": "core"
+    },
+    {
+      "id": "vd-q09",
+      "stem": "During a delivery, as the head crowns, what is the BEST way to reduce the risk of a perineal tear?",
+      "options": [
+        "Ask the mother to push as hard as possible to finish quickly",
+        "Perform a routine episiotomy",
+        "Control the head (keep flexed), support the perineum with a warm compress and ask her to pant so the head delivers slowly",
+        "Apply fundal pressure to avoid a prolonged crowning",
+        "Pull the head out quickly with both hands"
+      ],
+      "answer": 2,
+      "explanation": "**Slow, controlled delivery of the head** with flexion, perineal support/warm compress and panting reduces tears (including OASI). Forceful pushing (A), fundal pressure (D) and pulling (E) cause rapid, uncontrolled expulsion and tears. Routine episiotomy (B) does not prevent severe tears and is not recommended.",
+      "difficulty": "core"
+    },
+    {
+      "id": "vd-q10",
+      "stem": "A woman is bleeding steadily with bright red blood after delivery of a complete placenta. Her uterus is firm and well contracted at the umbilicus. What is the MOST likely cause and the NEXT step?",
+      "options": [
+        "Genital tract trauma: inspect the cervix, vagina and perineum in good light and repair",
+        "Uterine atony: give more oxytocin",
+        "Retained placenta: manual removal",
+        "Coagulopathy: give fresh frozen plasma immediately",
+        "Uterine inversion: replace the uterus"
+      ],
+      "answer": 0,
+      "explanation": "Bleeding with a **firm, contracted uterus** and a complete placenta points to **trauma** (cervical, vaginal or perineal tears): inspect and repair. Atony (B) gives a soft uterus. The placenta is complete (C). Coagulopathy (D) is possible but less likely first; check a bedside clotting test while you look for tears. Inversion (E) presents with an absent fundus and shock.",
+      "difficulty": "core"
+    },
+    {
+      "id": "vd-q11",
+      "stem": "A student repairing a second-degree tear cannot see the apex of the vaginal laceration because blood keeps obscuring the field, even though the uterus is well contracted. What is the BEST action?",
+      "options": [
+        "Start suturing from the visible part and work downwards",
+        "Pack the vagina and send the woman to the postnatal ward",
+        "Give ergometrine and wait",
+        "Call a senior; improve light, analgesia and exposure (assistant, retractors, a tampon above) to identify the apex before suturing",
+        "Suture the skin only"
+      ],
+      "answer": 3,
+      "explanation": "You must **find the apex** and place the first stitch above it to control retracted bleeding vessels. With poor exposure, **call for help**, improve light and analgesia, use retractors and a tampon with a tail. Starting below the apex (A) leaves a bleeding point that forms a haematoma. Sending her away packed (B) delays repair. Ergometrine (C) treats atony, not trauma. Skin-only closure (E) hides a bleeding, unrepaired tear.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "vd-q12",
+      "stem": "Which is the correct sequence for delivering a baby after the head is born in a normal vertex delivery?",
+      "options": [
+        "Immediately pull the head downwards to deliver both shoulders together",
+        "Wipe the face, check for a nuchal cord, await restitution and external rotation, deliver the anterior shoulder downwards, then the posterior shoulder upwards, then the body by lateral flexion",
+        "Rotate the head 180 degrees, then deliver the posterior shoulder first",
+        "Suction mouth and nose deeply, then pull the body out",
+        "Clamp and cut the cord, then deliver the shoulders"
+      ],
+      "answer": 1,
+      "explanation": "This is the standard sequence respecting the **mechanism of labour**. Pulling immediately (A) before external rotation risks shoulder impaction and brachial plexus injury. Forced rotation (C) is wrong except in specific manoeuvres. Deep routine suction (D) is not recommended (bradycardia, laryngospasm). Clamping the cord before the body is born (E) is only for a tight nuchal cord that prevents delivery.",
+      "difficulty": "core"
+    },
+    {
+      "id": "vd-q13",
+      "stem": "Three days after a second-degree tear repair, a woman returns with fever of 38.4 degrees C, foul-smelling vaginal discharge and a painful perineum. The wound is intact. The notes do not record a swab count. What should you suspect and do FIRST?",
+      "options": [
+        "Normal lochia; reassure",
+        "Urinary tract infection; give nitrofurantoin",
+        "Malaria only; give artemether-lumefantrine and discharge",
+        "Endometritis only; start IV antibiotics without examination",
+        "Retained swab or vaginal tampon: speculum examination to look for and remove it, then antibiotics"
+      ],
+      "answer": 4,
+      "explanation": "Foul discharge and fever after a repair with **no documented count** strongly suggest a **retained swab/tampon**; examine with a speculum and remove it, then treat infection. Reassurance (A) is dangerous. UTI (B) and malaria (C) do not explain foul discharge (though test for malaria in febrile patients). Endometritis (D) is possible, but you must examine to find a removable cause.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "vd-q14",
+      "stem": "Which statement about episiotomy is CORRECT according to WHO 2018 intrapartum recommendations?",
+      "options": [
+        "Routine episiotomy is recommended for all primigravidae",
+        "Midline episiotomy is safer than mediolateral in terms of sphincter injury",
+        "Routine or liberal use of episiotomy is not recommended",
+        "Episiotomy prevents all third-degree tears",
+        "Episiotomy should be performed before the head reaches the perineum"
+      ],
+      "answer": 2,
+      "explanation": "WHO recommends **against routine or liberal episiotomy**. It should be used only for clear indications. Routine use in primigravidae (A) increases trauma. Midline episiotomy (B) has a **higher** risk of OASI. It does not prevent all severe tears (D). Episiotomy is cut at **crowning** (E), not earlier (more bleeding, no benefit).",
+      "difficulty": "core"
+    },
+    {
+      "id": "vd-q15",
+      "stem": "During a simulated delivery OSCE, immediately after delivering the baby and drying him (he is crying), the candidate reaches for the oxytocin. What must the candidate say or do before injecting it?",
+      "options": [
+        "Clamp and cut the cord immediately",
+        "Palpate the abdomen to exclude another fetus",
+        "Deliver the placenta first",
+        "Give vitamin K to the baby",
+        "Perform a vaginal examination"
+      ],
+      "answer": 1,
+      "explanation": "The key safety step before a uterotonic is **excluding an undiagnosed second twin** by abdominal palpation. Immediate cord clamping (A) is not recommended for a crying baby (delay 1-3 min). The placenta (C) is delivered after the uterotonic by CCT. Vitamin K (D) is given later in the first hours. A VE (E) is unnecessary here.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "vd-c01",
+      "title": "Simulated delivery OSCE station",
+      "presentation": "OSCE station at UCU skills lab: 'Mrs K, a 24-year-old primigravida at 40 weeks, is fully dilated with the head visible at the introitus. Conduct the delivery on the mannequin, including the third stage, talking the examiner through your actions.'",
+      "steps": [
+        { "prompt": "What do you do before the baby is born?", "answer": "Introduce yourself, consent, privacy and companion; **hand hygiene, apron, goggles, sterile gloves**; check the delivery pack; draw up **oxytocin 10 IU**; prepare the newborn corner (2 warm towels, cap, **bag and mask size 1 checked**, suction bulb, clock); position; clean and drape the vulva front to back." },
+        { "prompt": "Describe how you deliver the head and shoulders.", "answer": "Support the perineum with a pad/warm compress; keep the head **flexed** with gentle pressure on the occiput; at crowning ask her to **pant**; let the head extend slowly. **Wipe the face**, check for **nuchal cord**, wait for **restitution and external rotation**; deliver the **anterior shoulder downwards**, **posterior shoulder upwards**, then the body by **lateral flexion**; note time of birth." },
+        { "prompt": "The baby is born crying. What do you do in the first minute?", "answer": "Place on the mother's abdomen, **dry thoroughly** (head, body), remove the wet towel, **skin-to-skin**, cover and cap. **Palpate the abdomen to exclude a second twin**, then give **oxytocin 10 IU IM** into the thigh within 1 minute. Delay cord clamping 1-3 min, then clamp at about 2 and 5 cm and cut." },
+        { "prompt": "Describe the delivery of the placenta and what you check.", "answer": "Wait for a contraction; **counter-traction** above the pubis with one hand, **steady downward traction** on the cord with the other; stop and retry if it does not descend in 30-40 s. Deliver the placenta with both hands, twist the membranes. **Massage/check the fundus**. Examine the **placenta** (all cotyledons, membranes complete, no vessels to torn edge, 3 cord vessels)." },
+        { "prompt": "What do you do after the placenta is out?", "answer": "Check uterine tone every 15 min for 2 h; **inspect the perineum, vagina (and cervix if bleeding)** in good light; **rectal exam**; estimate blood loss; repair tears; clean and make comfortable; help breastfeeding; dispose of sharps; decontaminate instruments; document time of birth, sex, Apgar, oxytocin, placenta, EBL, perineum." }
+      ],
+      "takeaway": "Narrate each step, keep the head flexed and controlled, exclude a second twin before oxytocin, and finish with a perineal and rectal examination."
+    },
+    {
+      "id": "vd-c02",
+      "title": "Perineal tear at Mengo after a big baby",
+      "presentation": "Mrs E.N., 27, P1, delivered a 4.1 kg baby after a 2.5 h second stage at Mengo Hospital. The placenta is complete and the uterus is firm. Estimated blood loss is 400 mL and there is a perineal tear.",
+      "steps": [
+        { "prompt": "How do you examine the tear systematically?", "answer": "Explain and consent; good light, lithotomy, analgesia; inspect labia, periurethral area, vaginal walls and the apex; perineum; cervix with a speculum if bleeding continues; then **rectal examination** with pill-rolling of the sphincter between finger and thumb to assess the EAS/IAS and look for mucosal tears." },
+        { "prompt": "The perineal muscles are torn; the EAS is intact on pill-rolling; the rectal mucosa is intact. Classify and plan.", "answer": "**Second-degree tear.** Repair on the delivery bed under **1% lignocaine** (aspirate, about 10 mL), with an assistant and good light." },
+        { "prompt": "Describe the repair.", "answer": "Tampon with tail high in the vagina if needed. **First stitch 1 cm above the apex**; **continuous non-locking 2-0 Vicryl Rapide** for vaginal mucosa to the hymenal ring; bring the needle out at the fourchette; close the **perineal muscles** (rebuild the perineal body, no dead space); **subcuticular skin**; knot buried in the vagina. **Remove the tampon, rectal exam, count swabs and needles.**" },
+        { "prompt": "What postnatal care and advice will you give?", "answer": "**Paracetamol 1 g 6-8 hourly and ibuprofen 400 mg 8 hourly** with food (if no contraindication) for 3-5 days; perineal hygiene, change pads, pat dry; pass urine within 6 h; fluids and fibre; pelvic floor exercises; danger signs (fever, increasing pain, foul discharge, wound breakdown, incontinence); review at the postnatal visit; family planning counselling." },
+        { "prompt": "If instead the EAS had been torn more than 50%, what would change?", "answer": "**3b tear (OASI)**: call the obstetrician; repair in **theatre** under spinal/GA with **3-0 PDS** (EAS overlapping or end-to-end); **broad-spectrum antibiotics**, **lactulose**, analgesia, catheter 12-24 h, physiotherapy, and **follow-up at 6-12 weeks** for continence; counsel regarding future delivery." }
+      ],
+      "takeaway": "Every tear is classified only after a rectal exam. Second-degree tears are repaired in layers with continuous non-locking synthetic sutures; OASI goes to theatre with an experienced surgeon."
+    },
+    {
+      "id": "vd-c03",
+      "title": "Post-repair collapse at an HC IV",
+      "presentation": "At an HC IV, Ms H.A., 20, P1, had an episiotomy repaired by an intern 90 minutes ago. She now complains of severe perineal pain and an urge to open her bowels. Pulse 124, BP 94/58, pale. The uterus is firm at the umbilicus and pad loss is small.",
+      "steps": [
+        { "prompt": "What are your differentials?", "answer": "**Vulval/paravaginal (or ischiorectal) haematoma** (most likely: pain, rectal pressure, shock with minimal external bleeding); concealed bleeding from an unrepaired vaginal/cervical tear; less likely uterine atony (uterus firm), uterine rupture, or broad ligament haematoma." },
+        { "prompt": "What will you do immediately?", "answer": "**Call for help.** ABC, oxygen, **two large-bore IV cannulas**, bloods (Hb, grouping and crossmatch 2 units, bedside clotting test), **Ringer's lactate/normal saline 1 L** rapidly, catheterise, monitor vitals every 15 min. **Tranexamic acid 1 g IV** if within 3 h of birth. Examine the perineum and vagina (and rectum) gently." },
+        { "prompt": "You find a tense 8 cm bluish swelling of the right lateral vaginal wall extending towards the ischiorectal fossa. What is the definitive management?", "answer": "**Evacuation in theatre** under spinal/GA: incise over the haematoma (via the vagina), evacuate clots, **ligate bleeding vessels**, close dead space (or drain), vaginal pack for 12-24 h, catheter, **antibiotics**, transfuse as needed. If bleeding continues and the source is high, senior/surgical help." },
+        { "prompt": "What could have prevented this?", "answer": "Placing the **first stitch above the apex**, obliterating **dead space**, good haemostasis, adequate light and help; and **observing the woman every 15 min for 2 h** (pulse, BP, pain) so the haematoma was detected before shock." },
+        { "prompt": "How would you present this at the morning meeting?", "answer": "'Ms H.A., 20, P1, day 1 after SVD with a mediolateral episiotomy, developed severe perineal pain and hypovolaemic shock (P 124, BP 94/58) 90 minutes after repair with a firm uterus. A 8 cm right paravaginal haematoma was evacuated in theatre, bleeders ligated, 2 units transfused. Now stable, catheterised, on antibiotics and analgesia. Plan: monitor Hb, remove pack and catheter at 24 h, iron supplementation, review of repair technique by the team.'" }
+      ],
+      "takeaway": "Shock with a firm uterus and little visible bleeding after perineal repair is a haematoma until proven otherwise; resuscitate and evacuate in theatre."
+    }
+  ],
+  "references": [
+    { "title": "Third- and Fourth-degree Perineal Tears, Management (Green-top Guideline No. 29)", "source": "Royal College of Obstetricians and Gynaecologists", "year": 2015, "url": "https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/third-and-fourth-degree-perineal-tears-management-green-top-guideline-no-29/" },
+    { "title": "The Management of Third- and Fourth-Degree Perineal Tears (GTG 29, PDF)", "source": "Royal College of Obstetricians and Gynaecologists", "year": 2015, "url": "https://www.rcog.org.uk/media/5jeb5hzu/gtg-29.pdf" },
+    { "title": "WHO recommendations: intrapartum care for a positive childbirth experience", "source": "World Health Organization", "year": 2018, "url": "https://www.who.int/publications/i/item/9789241550215" },
+    { "title": "Uganda Clinical Guidelines 2023", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf" },
+    { "title": "Repair of episiotomy and obstetrical perineal lacerations (first-fourth)", "source": "American Journal of Obstetrics & Gynecology", "year": 2022, "url": "https://www.ajog.org/article/S0002-9378(22)00541-5/fulltext" },
+    { "title": "The prevention of perineal trauma during vaginal birth", "source": "American Journal of Obstetrics & Gynecology", "year": 2022, "url": "https://www.ajog.org/article/S0002-9378(22)00464-1/fulltext" },
+    { "title": "Repair of Obstetric Perineal Lacerations", "source": "American Family Physician", "year": 2003, "url": "https://www.aafp.org/afp/2003/1015/p1585" },
+    { "title": "Cutting a mediolateral episiotomy at the correct angle: evaluation of a new device, the Episcissors-60", "source": "PMC", "year": 2014, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3933714/" },
+    { "title": "Episcissors-60 for mediolateral episiotomy (HealthTech guidance)", "source": "NICE", "url": "https://www.nice.org.uk/guidance/htg538/resources/episcissors60-for-mediolateral-episiotomy-pdf-1809596356006597" },
+    { "title": "Care of a third- or fourth-degree tear that occurred during childbirth (OASI): patient information", "source": "Royal College of Obstetricians and Gynaecologists", "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/care-of-a-third-or-fourth-degree-tear-that-occurred-during-childbirth-also-known-as-obstetric-anal-sphincter-injury-oasi/" }
+  ]
+}

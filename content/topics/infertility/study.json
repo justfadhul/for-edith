@@ -1,0 +1,200 @@
+{
+  "slug": "infertility",
+  "flashcards": [
+    { "id": "inf-f01", "front": "Define infertility (WHO).", "back": "Failure to achieve a **clinical pregnancy after ≥12 months of regular unprotected sexual intercourse**. **Primary**: never conceived. **Secondary**: previous pregnancy of any outcome." },
+    { "id": "inf-f02", "front": "When should you investigate before 12 months of trying?", "back": "After **6 months** (or at once) if the woman is **≥35**, or there is an obvious risk factor: amenorrhoea/oligomenorrhoea, previous PID/ectopic/pelvic surgery, endometriosis, chemotherapy, known male problem, or HIV-discordant couple planning pregnancy." },
+    { "id": "inf-f03", "front": "What proportion of couples conceive within 1 and 2 years?", "back": "About **80% within 1 year** and **90% within 2 years**; fecundability about **20% per cycle** in young couples." },
+    { "id": "inf-f04", "front": "Why is secondary infertility so common in Uganda?", "back": "**Tubal damage** from untreated **gonorrhoea/chlamydia (PID)**, **post-abortal sepsis**, **post-partum/post-caesarean infection** and **genital TB**. HSG studies in Kampala find tubal blockage as the commonest abnormality." },
+    { "id": "inf-f05", "front": "The four pillars of infertility evaluation.", "back": "1. **Ovulation** (history, mid-luteal progesterone, hormones). 2. **Tubes** (HSG, laparoscopy and dye). 3. **Uterus** (ultrasound, HSG, hysteroscopy). 4. **Semen** (semen analysis). Plus: is intercourse actually happening?" },
+    { "id": "inf-f06", "front": "When is mid-luteal progesterone taken and what level confirms ovulation?", "back": "**7 days before the expected period** (day 21 of a 28-day cycle; day 28 of a 35-day cycle). **>30 nmol/L** confirms ovulation. In irregular cycles repeat weekly until the next period." },
+    { "id": "inf-f07", "front": "WHO 2021 semen analysis lower reference limits.", "back": "Volume **1.4 mL**; concentration **16 million/mL**; total **39 million**; total motility **42%**; progressive motility **30%**; vitality **54%**; normal forms **4%**. They are 5th centiles of fertile men, not pass marks." },
+    { "id": "inf-f08", "front": "How should a semen sample be collected?", "back": "Masturbation into a clean wide-mouthed container after **2–7 days of abstinence**; deliver to the lab **within 1 hour** at body temperature. Repeat after **about 3 months** if abnormal (spermatogenesis takes about 74 days)." },
+    { "id": "inf-f09", "front": "Rotterdam criteria for PCOS (2023 guideline).", "back": "**2 of 3**: (1) oligo/anovulation; (2) clinical or biochemical hyperandrogenism; (3) polycystic ovarian morphology — **≥20 follicles per ovary** (or ovarian volume ≥10 mL) on ultrasound, or **raised AMH** in adults — after excluding thyroid disease, hyperprolactinaemia, CAH and androgen-secreting tumours." },
+    { "id": "inf-f10", "front": "WHO classification of anovulation.", "back": "**Group I**: hypogonadotropic hypogonadism (low FSH/LH/E2 — low weight, Sheehan's, Kallmann). **Group II**: normogonadotropic normo-oestrogenic (**PCOS**). **Group III**: hypergonadotropic hypogonadism (**POI**, high FSH). Hyperprolactinaemia is often listed separately." },
+    { "id": "inf-f11", "front": "Letrozole regimen for ovulation induction.", "back": "**2.5 mg PO daily on days 3–7**; if no ovulation increase by 2.5 mg per cycle to **max 7.5 mg**. First-line for PCOS (WHO 2025, international PCOS guideline 2023). Off-label — counsel; exclude pregnancy." },
+    { "id": "inf-f12", "front": "Clomiphene regimen and safety rules.", "back": "**50 mg PO daily on days 2–6**, increasing by 50 mg per cycle to **max 150 mg**; **ultrasound follicle monitoring at least in the first cycle**; **no longer than 6 months** (NICE). Risks: twins (about 5–10%), OHSS, hot flushes, **visual disturbance (stop)**, thin endometrium." },
+    { "id": "inf-f13", "front": "How do clomiphene and letrozole induce ovulation?", "back": "**Clomiphene**: blocks hypothalamic oestrogen receptors → brain senses low oestrogen → ↑GnRH → ↑FSH. **Letrozole**: blocks aromatase → ↓oestrogen → ↓negative feedback → ↑FSH. Both need an intact hypothalamic–pituitary axis (useless in WHO groups I and III)." },
+    { "id": "inf-f14", "front": "When is HSG performed and why?", "back": "In the **early follicular phase, days 6–10**: after the period has stopped and **before ovulation** (avoids irradiating an early pregnancy). Screen for chlamydia or give **antibiotic prophylaxis**; avoid with active pelvic infection." },
+    { "id": "inf-f15", "front": "Why remove a hydrosalpinx before IVF?", "back": "Hydrosalpinx fluid refluxes into the cavity, is **embryotoxic** and **washes out embryos** — it about halves IVF success. **Laparoscopic salpingectomy** or proximal tubal occlusion restores success rates." },
+    { "id": "inf-f16", "front": "Treatment of hyperprolactinaemia causing anovulation.", "back": "Stop causative drugs; exclude hypothyroidism and pregnancy; MRI pituitary; **cabergoline 0.25 mg PO twice weekly** (titrate) or **bromocriptine 1.25 mg at night**, increasing to 2.5 mg 8–12-hourly." },
+    { "id": "inf-f17", "front": "Why should an infertile man never be given testosterone?", "back": "Exogenous testosterone (and anabolic steroids) **suppress FSH and LH** by negative feedback, which **switches off spermatogenesis** (can cause azoospermia). Hypogonadotropic hypogonadism is treated with **hCG ± FSH**." },
+    { "id": "inf-f18", "front": "Azoospermia with normal FSH and normal-sized testes suggests…?", "back": "**Obstructive azoospermia** (e.g. post-gonococcal epididymal blockage, absent vas) — sperm production is normal. Options: surgical sperm retrieval (PESA/TESA) + ICSI or reconstruction. High FSH + small testes → non-obstructive (testicular failure)." },
+    { "id": "inf-f19", "front": "Pathophysiology and key management of OHSS.", "back": "Many follicles + hCG → **VEGF** → capillary leak → ascites, pleural effusion, **haemoconcentration**, oliguria, **thrombosis**. Manage: fluid balance, analgesia (no NSAIDs), **LMWH thromboprophylaxis**, paracentesis for tense ascites; prevent with low doses and monitoring." },
+    { "id": "inf-f20", "front": "Folic acid dose before conception.", "back": "**400 micrograms daily** until 12 weeks; **5 mg daily** if BMI ≥30, diabetes, antiepileptic drugs, sickle cell disease or previous neural tube defect (in Uganda 5 mg tablets are commonly the stocked form)." }
+  ],
+  "mcqs": [
+    {
+      "id": "inf-q01",
+      "stem": "A 27-year-old P1+1 has been unable to conceive for 3 years. Her last pregnancy ended in an unsafe abortion followed by 2 weeks of fever and lower abdominal pain treated at a drug shop. Her cycles are regular every 28 days. Her husband has fathered a child with another woman. Which cause of infertility is MOST likely?",
+      "options": ["Polycystic ovary syndrome", "Hyperprolactinaemia", "Premature ovarian insufficiency", "Tubal damage from post-abortal pelvic infection", "Male factor, because it causes half of infertility"],
+      "answer": 3,
+      "explanation": "**D is correct.** Secondary infertility after **post-abortal sepsis**, with regular (ovulatory) cycles, points to **tubal damage** (and possibly Asherman's) — the commonest pattern in Uganda. **A**, **B** and **C** are wrong: all cause irregular cycles or amenorrhoea, and she cycles regularly. **E** is wrong: male factor must still be tested (previous paternity does not exclude a new problem), but the history makes tubal disease the most likely cause.",
+      "difficulty": "core"
+    },
+    {
+      "id": "inf-q02",
+      "stem": "A 30-year-old woman with regular 35-day cycles is being investigated for infertility. On which day of her cycle should serum progesterone be measured to confirm ovulation?",
+      "options": ["Day 2", "Day 28", "Day 21", "Day 14", "Day 35"],
+      "answer": 1,
+      "explanation": "**B is correct.** Progesterone peaks about **7 days after ovulation**, i.e. **7 days before the next period**. In a 35-day cycle that is **day 28**. **C** (day 21) is only correct for a 28-day cycle — a common error that gives falsely 'low' results. **A** is used for FSH/LH/oestradiol. **D** is around ovulation in a 28-day cycle, before the luteal peak. **E** is the day the next period is expected, when progesterone has fallen.",
+      "difficulty": "core"
+    },
+    {
+      "id": "inf-q03",
+      "stem": "A 25-year-old nulliparous woman with 2 years of primary infertility has cycles every 60–90 days, acne and hirsutism, and a BMI of 33. Prolactin and TSH are normal. Her husband's semen analysis is normal and HSG shows bilateral free spill. What is the MOST appropriate first-line pharmacological treatment, alongside lifestyle advice?",
+      "options": ["Clomiphene 200 mg daily for 10 days", "Metformin alone for 2 years", "IVF immediately", "Laparoscopic ovarian drilling", "Letrozole 2.5 mg daily on days 3–7, increasing up to 7.5 mg if she does not ovulate"],
+      "answer": 4,
+      "explanation": "**E is correct.** She has **PCOS** (oligo-ovulation + hyperandrogenism), with patent tubes and normal semen. **Letrozole** is first-line (higher ovulation and live-birth rates than clomiphene), together with weight loss and folic acid. **A** is wrong: clomiphene starts at 50 mg for 5 days and the maximum is 150 mg. **B** is wrong: metformin alone is less effective and 2 years wastes time. **C** is wrong: IVF is not first-line for anovulatory PCOS. **D** is a second-line option for clomiphene-resistant PCOS.",
+      "difficulty": "core"
+    },
+    {
+      "id": "inf-q04",
+      "stem": "A 29-year-old woman attends a regional referral hospital asking for 'fertility tablets'. She has irregular cycles and 18 months of trying. A private clinic has already given her clomiphene for 8 months without follicle monitoring. Her husband has not had a semen analysis and she has had no tubal test. What is the MOST appropriate next step?",
+      "options": ["Stop clomiphene; arrange semen analysis and HSG, and confirm ovulation, before planning further treatment", "Increase clomiphene to 250 mg daily", "Continue clomiphene for another 12 months", "Refer directly for IVF", "Start gonadotrophin injections"],
+      "answer": 0,
+      "explanation": "**A is correct.** Ovulation induction must **not** be given without knowing the **semen** is adequate and the **tubes** are patent; clomiphene should not exceed **6 months** and needs **ultrasound monitoring**. **B** exceeds the maximum dose (150 mg). **C** prolongs inappropriate unmonitored treatment. **D** may eventually be needed but is premature without a diagnosis. **E** carries high OHSS/multiple-pregnancy risk and still skips basic assessment.",
+      "difficulty": "core"
+    },
+    {
+      "id": "inf-q05",
+      "stem": "A husband's semen analysis (after 3 days of abstinence, delivered within 45 minutes) shows: volume 2.5 mL, concentration 22 million/mL, total motility 50%, progressive motility 35%, normal forms 5%, vitality 70%. How should this be interpreted?",
+      "options": ["Oligozoospermia; refer for ICSI", "Asthenozoospermia; give testosterone", "All parameters are at or above the WHO 2021 lower reference limits", "Teratozoospermia; repeat in 1 week", "Azoospermia; karyotype"],
+      "answer": 2,
+      "explanation": "**C is correct.** WHO 2021 limits: volume 1.4 mL, concentration 16 million/mL, total motility 42%, progressive 30%, normal forms 4%, vitality 54% — every value here is above them. **A** is wrong: 22 million/mL is not low. **B** is wrong on two counts: motility is normal, and testosterone would suppress spermatogenesis. **D** is wrong: 5% normal forms exceeds 4%. **E** is wrong: sperm are present.",
+      "difficulty": "core"
+    },
+    {
+      "id": "inf-q06",
+      "stem": "A 32-year-old woman's HSG shows bilateral distal tubal blockage with large, thin-walled hydrosalpinges. She and her husband (normal semen) can afford one cycle of IVF at a private centre in Kampala. What should be done BEFORE the IVF cycle to maximise success?",
+      "options": ["Clomiphene for 6 months", "Open tuboplasty by laparotomy", "Hysteroscopic polypectomy", "Laparoscopic bilateral salpingectomy (or proximal tubal occlusion)", "Antibiotics for 6 weeks"],
+      "answer": 3,
+      "explanation": "**D is correct.** Hydrosalpinx fluid is **embryotoxic** and washes embryos out; removing or clipping the tubes roughly **doubles IVF success**. **A** is wrong: her problem is tubal, not ovulatory. **B** is wrong: tuboplasty for large hydrosalpinges has poor results, and she has already chosen IVF. **C** is wrong: there is no polyp. **E** is wrong: antibiotics do not reopen damaged tubes or remove the fluid.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "inf-q07",
+      "stem": "A 34-year-old man has azoospermia on two semen analyses with normal volume. His testes are 20 mL each, both vasa are palpable, and FSH, LH and testosterone are normal. He had recurrent untreated urethral discharge in his twenties. What is the MOST likely cause?",
+      "options": ["Klinefelter syndrome", "Obstructive azoospermia from post-infective epididymal blockage", "Hypogonadotropic hypogonadism", "Retrograde ejaculation", "Congenital bilateral absence of the vas deferens"],
+      "answer": 1,
+      "explanation": "**B is correct.** **Normal testicular volume and normal FSH** mean sperm production is intact, so azoospermia is due to **obstruction** — here most likely epididymal scarring after gonococcal/chlamydial epididymitis. **A** is wrong: Klinefelter causes small firm testes and high FSH. **C** is wrong: gonadotrophins and testosterone would be low. **D** is wrong: retrograde ejaculation gives a low-volume or absent ejaculate. **E** is wrong: both vasa are palpable (and CBAVD usually gives low volume, acidic semen).",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "inf-q08",
+      "stem": "A 28-year-old man who uses anabolic steroids for bodybuilding has a sperm concentration of 1 million/mL. His wife is 26 with regular cycles and patent tubes. What is the MOST appropriate first step?",
+      "options": ["Proceed immediately to ICSI", "Prescribe testosterone replacement to improve sperm production", "Recommend donor sperm", "Varicocele surgery", "Stop the anabolic steroids and repeat the semen analysis after about 3 months"],
+      "answer": 4,
+      "explanation": "**E is correct.** Anabolic steroids suppress FSH/LH and spermatogenesis; stopping them usually allows recovery over months (spermatogenesis takes about 74 days, so repeat after about 3 months or later). **A** and **C** are premature for a probably reversible cause. **B** is wrong: testosterone would worsen the suppression. **D** is wrong: there is no varicocele, and NICE does not recommend varicocele repair as a fertility treatment.",
+      "difficulty": "core"
+    },
+    {
+      "id": "inf-q09",
+      "stem": "A 30-year-old woman with PCOS takes clomiphene 150 mg on days 2–6. Ultrasound tracking and mid-luteal progesterone show no ovulation over three cycles. Semen analysis and HSG are normal. Which is the MOST appropriate next option?",
+      "options": ["Switch to letrozole (or add metformin), with gonadotrophins or laparoscopic ovarian drilling as further options", "Increase clomiphene to 300 mg", "Continue clomiphene 150 mg for 12 more months", "Hysterectomy", "Diagnose unexplained infertility and advise expectant management"],
+      "answer": 0,
+      "explanation": "**A is correct.** She is **clomiphene-resistant** (no ovulation at 150 mg). Options: **letrozole**, clomiphene + **metformin**, low-dose **gonadotrophins** with monitoring, or **laparoscopic ovarian drilling**. **B** exceeds the maximum dose. **C** continues an ineffective treatment beyond the 6-month limit. **D** is absurd. **E** is wrong: the cause (anovulation) is known.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "inf-q10",
+      "stem": "A 31-year-old P1 has had scanty periods since a dilatation and curettage for retained placenta 2 years ago, complicated by fever. She has not conceived since. Hormone levels are normal. HSG shows irregular filling defects in the uterine cavity. What is the MOST likely diagnosis and treatment?",
+      "options": ["PCOS; letrozole", "Premature ovarian insufficiency; egg donation", "Asherman's syndrome; hysteroscopic adhesiolysis followed by oestrogen and measures to prevent re-adhesion", "Submucous fibroid; myomectomy by laparotomy", "Cervical stenosis; cervical dilatation"],
+      "answer": 2,
+      "explanation": "**C is correct.** Hypomenorrhoea after curettage of a recently pregnant, infected uterus with cavity filling defects = **Asherman's syndrome** (intrauterine adhesions). Treatment: **hysteroscopic adhesiolysis**, then oestrogen and a temporary balloon/IUD to prevent re-adhesion. **A** and **B** are wrong: hormones are normal. **D** is wrong: a fibroid causes a smooth filling defect and usually heavier, not scantier, periods. **E** is wrong: stenosis causes cyclical pain/haematometra and HSG cannula difficulty, not intracavitary defects.",
+      "difficulty": "core"
+    },
+    {
+      "id": "inf-q11",
+      "stem": "A 29-year-old woman has secondary amenorrhoea, galactorrhoea and infertility. She takes no medications and is not pregnant. Serum prolactin is markedly raised on repeat testing; TSH is normal; MRI shows a 6 mm pituitary microadenoma. What is the BEST treatment to restore fertility?",
+      "options": ["Clomiphene 50 mg days 2–6", "Trans-sphenoidal surgery", "Levothyroxine", "Cabergoline (or bromocriptine), titrated to normalise prolactin", "Combined oral contraceptive pill"],
+      "answer": 3,
+      "explanation": "**D is correct.** Prolactin suppresses GnRH pulsatility; a **dopamine agonist** (cabergoline 0.25 mg twice weekly, or bromocriptine 1.25 mg at night titrated up) normalises prolactin and restores ovulation in most women and shrinks the adenoma. **A** is wrong: clomiphene will not overcome prolactin suppression. **B** is reserved for drug failure/intolerance. **C** is wrong: TSH is normal. **E** is wrong: it prevents pregnancy.",
+      "difficulty": "core"
+    },
+    {
+      "id": "inf-q12",
+      "stem": "Five days after hCG trigger in a gonadotrophin cycle, a 27-year-old woman with PCOS presents with abdominal distension, nausea and breathlessness. Ultrasound shows enlarged ovaries (10 cm) and moderate ascites. Haematocrit is 48% and urine output is low. Which is the MOST appropriate management?",
+      "options": ["Discharge with ibuprofen for pain", "Admit: strict fluid balance, IV fluids to maintain urine output, LMWH thromboprophylaxis, and paracentesis if ascites becomes tense or breathing is compromised", "Immediate laparotomy and oophorectomy", "Diuretics (furosemide) to remove the ascites", "Bimanual examination to assess ovarian size"],
+      "answer": 1,
+      "explanation": "**B is correct.** This is **severe OHSS** (haemoconcentration, oliguria, ascites). Management is supportive: admission, fluid balance, IV fluids, **thromboprophylaxis** (high thrombosis risk), analgesia without NSAIDs, and **paracentesis** for tense ascites. **A** is wrong: NSAIDs impair renal function and she needs admission. **C** is wrong: surgery is only for torsion/rupture/haemorrhage. **D** is wrong: diuretics worsen intravascular depletion and thrombosis. **E** is wrong: vigorous examination may rupture the enlarged, fragile ovaries.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "inf-q13",
+      "stem": "An HIV-serodiscordant couple wants to conceive. The man is HIV-positive, has taken TLD for 4 years and his viral load has been undetectable for 2 years; the woman is HIV-negative. Both are otherwise fertile. What is the MOST appropriate advice?",
+      "options": ["They must never have condomless intercourse; IVF is the only option", "The woman should start ART herself", "Adoption is the only safe option", "Sperm washing and IUI are mandatory", "With a sustained undetectable viral load he does not transmit HIV sexually; offer PrEP to her if desired, time condomless intercourse to the fertile window, and continue viral load monitoring"],
+      "answer": 4,
+      "explanation": "**E is correct.** **U = U**: a partner with a sustained undetectable viral load on ART does not transmit HIV sexually. Safer conception: confirm suppression, offer **PrEP** to the negative partner if she wishes, limit condomless sex to the **fertile window**, continue monitoring and folic acid. **A**, **C** and **D** are unnecessarily restrictive and costly. **B** is wrong: an HIV-negative person takes PrEP, not ART.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "inf-q14",
+      "stem": "An infertile woman's HSG is planned. Her LMP started 3 days ago and bleeding is ongoing. She had PID 2 years ago. Which plan is MOST appropriate?",
+      "options": ["Schedule the HSG for day 6–10 of this cycle (after bleeding stops, before ovulation), with chlamydia screening or antibiotic prophylaxis", "Do the HSG today", "Do the HSG on day 20 of the cycle", "HSG is contraindicated because of previous PID", "Replace HSG with a day-21 progesterone"],
+      "answer": 0,
+      "explanation": "**A is correct.** HSG is done after menses and **before ovulation** (days 6–10) to get a clear image, avoid pushing menstrual debris/infection, and avoid irradiating a possible early pregnancy. With a past history of PID, screen for chlamydia or give **prophylactic antibiotics**. **B** is wrong: during menstruation the images are poor and the infection risk higher. **C** is wrong: after ovulation she could be pregnant. **D** is wrong: only **active** pelvic infection is a contraindication (laparoscopy and dye is an alternative if PID history is significant). **E** is wrong: progesterone assesses ovulation, not the tubes.",
+      "difficulty": "core"
+    },
+    {
+      "id": "inf-q15",
+      "stem": "A couple with 3 years of infertility have normal ovulation, patent tubes on HSG, a normal uterine cavity and normal semen analysis. The woman is 31. They ask what they can do next. Which response is BEST?",
+      "options": ["Clomiphene alone is the recommended treatment for unexplained infertility", "Stop trying; unexplained infertility means they are sterile", "Explain unexplained infertility: many couples still conceive naturally, but after 2 or more years of trying IVF is the most effective treatment; stimulated IUI may be a lower-cost alternative where IVF is unaffordable", "Laparotomy to look for hidden causes", "Test the man's testosterone and give testosterone if low-normal"],
+      "answer": 2,
+      "explanation": "**C is correct.** In **unexplained infertility**, NICE advises IVF after a total of 2 years of trying; oral ovulation induction alone is not recommended. In low-resource settings stimulated IUI is often used as a cheaper intermediate step. **A** is wrong: clomiphene alone does not improve live births in unexplained infertility. **B** is wrong and harmful: they are not sterile. **D** is wrong: laparotomy is not a diagnostic tool here (laparoscopy may be considered in selected women). **E** is wrong: testosterone suppresses spermatogenesis.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "inf-c01",
+      "title": "Secondary infertility after a septic abortion",
+      "presentation": "Mr and Mrs Okello attend the gynaecology clinic at a regional referral hospital. Mrs Okello, 28, P1+1, has not conceived for 3 years. Her second pregnancy ended at 10 weeks in an incomplete abortion evacuated at a private clinic, followed by fever and pain. Her mother-in-law is pressuring her husband to take a second wife.",
+      "steps": [
+        { "prompt": "What focused history do you take from each partner, and why?", "answer": "**Her**: menstrual pattern (regular → likely ovulatory; scanty → **Asherman's**), post-abortal fever/pain (tubal damage), STIs/PID and partner treatment, previous surgery, dysmenorrhoea/dyspareunia, weight/hirsutism, galactorrhoea, contraception (DMPA), HIV status, coital frequency, psychosocial pressure and **violence**. **Him**: previous children, mumps orchitis, undescended testes, urethral discharge/epididymitis, sexual function, alcohol/smoking/steroids/heat, chronic illness, HIV." },
+        { "prompt": "Her cycles are regular (28 days) with normal flow. Pelvic exam: fixed retroverted uterus, bilateral adnexal thickening, mild tenderness. His testes are 18 mL, vasa present, no varicocele. What are the likely diagnosis and differentials?", "answer": "Secondary infertility, most likely **tubal-peritoneal factor** from **post-abortal PID** (regular cycles suggest ovulation). Differentials: Asherman's syndrome (less likely with normal flow), **male factor** (must be tested), endometriosis, genital TB, coexisting chronic PID." },
+        { "prompt": "Outline the investigations in the order you would do them.", "answer": "1. **Semen analysis** (cheap, non-invasive) — WHO 2021 limits. 2. **Mid-luteal progesterone** on day 21 (>30 nmol/L). 3. HIV, syphilis, HBV for both; chlamydia/gonorrhoea test if available; Hb. 4. **Pelvic ultrasound** (hydrosalpinx, fibroids). 5. **HSG** on day 6–10 with **antibiotic prophylaxis** (e.g. doxycycline) because of past PID — or laparoscopy and dye where available (allows adhesiolysis at the same time)." },
+        { "prompt": "Semen is normal, progesterone 42 nmol/L, and HSG shows bilateral hydrosalpinges with no spill. What are the options, and how do you counsel them?", "answer": "Severe distal tubal disease: natural conception is unlikely and tubal surgery has poor results. The effective option is **IVF**, after **laparoscopic salpingectomy/proximal occlusion** of the hydrosalpinges (hydrosalpinx fluid halves IVF success). Discuss cost, success rates (age-dependent), private Kampala centres and the public IVF service at Mulago Specialised Women and Neonatal Hospital; **adoption/fostering**; and **ectopic risk** in any pregnancy. Counsel **together**: explain that the cause is past infection, not a curse or her 'fault'; address the family pressure, screen for depression and violence, and involve a counsellor." },
+        { "prompt": "How would you summarise this couple on a ward round?", "answer": "'Mr and Mrs O: 3 years of secondary infertility after a post-abortal infection. She is ovulating (progesterone 42), his semen is normal, and HSG shows bilateral hydrosalpinges. Diagnosis: tubal factor infertility. Plan: counsel about IVF with prior laparoscopic salpingectomy, discuss costs and alternatives including adoption, psychosocial support, folic acid, and early ultrasound in any future pregnancy because of ectopic risk.'" }
+      ],
+      "takeaway": "In Uganda, secondary infertility after abortion or delivery is tubal until proven otherwise: test the semen first, confirm ovulation, image the tubes safely, and counsel the couple honestly and together — prevention of PID is the real cure."
+    },
+    {
+      "id": "inf-c02",
+      "title": "Irregular periods and hirsutism",
+      "presentation": "Ms Nansubuga, a 24-year-old married teacher from Masaka, presents with 2 years of primary infertility. Her periods come every 2–4 months, she has acne and facial hair she shaves weekly, and she has gained 15 kg since marriage. BMI 34.",
+      "steps": [
+        { "prompt": "What is your provisional diagnosis and what must you exclude?", "answer": "**PCOS** (oligo-anovulation + clinical hyperandrogenism). Exclude **hyperprolactinaemia**, **thyroid disease**, **pregnancy**, non-classic **CAH** (17-OH progesterone if very hirsute/early onset) and **androgen-secreting tumour** (rapid virilisation, very high testosterone)." },
+        { "prompt": "What investigations do you order?", "answer": "Pregnancy test; **TSH, prolactin**; total testosterone (± SHBG); day 2–5 **FSH/LH** (LH often raised); **pelvic ultrasound** (≥20 follicles per ovary or volume ≥10 mL; endometrial thickness); fasting glucose/HbA1c and lipids; **husband's semen analysis**; **HSG** (tubal patency) before ovulation induction; progesterone is unhelpful while she has no predictable cycle." },
+        { "prompt": "Results: TSH and prolactin normal, testosterone mildly raised, polycystic ovaries on ultrasound, normal semen, bilateral spill on HSG. Write the management plan.", "answer": "1. **Lifestyle**: diet and exercise targeting **5–10% weight loss** (can restore ovulation). 2. **Folic acid** (5 mg daily as BMI ≥30). 3. Induce a withdrawal bleed if needed (e.g. medroxyprogesterone 10 mg daily for 10 days). 4. **Letrozole 2.5 mg PO daily days 3–7**; confirm ovulation with **mid-luteal progesterone** (7 days before expected period) ± follicle tracking; increase by 2.5 mg per cycle up to **7.5 mg** if no ovulation. 5. Alternative if letrozole unavailable: **clomiphene 50 mg days 2–6** (max 150 mg, monitored, ≤6 months) ± **metformin**. 6. Screen for diabetes; manage hirsutism later (COC is not compatible with trying to conceive)." },
+        { "prompt": "She does not ovulate on letrozole 7.5 mg or clomiphene + metformin. What are the next options and their risks?", "answer": "**Low-dose step-up gonadotrophins** with ultrasound monitoring (risk: **OHSS, multiple pregnancy** — cancel if >2–3 mature follicles), or **laparoscopic ovarian drilling** (restores ovulation without multiple-pregnancy risk; risk of adhesions and reduced ovarian reserve), then **IVF** if these fail (WHO 2025 suggests IVF rather than expectant management after failed pharmacological treatment)." }
+      ],
+      "takeaway": "In PCOS, exclude mimics, confirm the tubes and semen are normal, start with weight loss and letrozole, confirm ovulation every cycle, and escalate stepwise while guarding against multiple pregnancy and OHSS."
+    },
+    {
+      "id": "inf-c03",
+      "title": "The man who would not give a sample",
+      "presentation": "Mrs Atim, 30, has been trying to conceive for 4 years. She has had two HSGs (both normal), regular cycles, a mid-luteal progesterone of 38 nmol/L, and 6 months of clomiphene from a private clinic. Her husband, 36, a long-distance truck driver, has refused semen analysis, saying 'I am a man, the problem is hers.'",
+      "steps": [
+        { "prompt": "What is the most important missing piece of the evaluation and how will you approach it?", "answer": "The **semen analysis**. Invite him to the clinic, see the couple together, explain respectfully that about **half of infertility involves the man**, that the test is simple and confidential, and that it may save his wife unnecessary drugs and procedures. Explain collection (2–7 days' abstinence, masturbation into a sterile container, to lab within 1 hour)." },
+        { "prompt": "He agrees. History: sits for long hours in a hot cab, drinks heavily at weekends, smokes, had 'swollen painful testicles' after a urethral discharge 10 years ago. Semen: volume 2.0 mL, concentration 3 million/mL, progressive motility 15%, normal forms 2%. Interpret.", "answer": "Severe **oligo-astheno-teratozoospermia** (all below WHO 2021 limits: 16 million/mL, 30% progressive, 4% normal forms). Possible causes: previous **epididymo-orchitis** (partial obstruction/testicular damage), **heat**, alcohol, smoking. Repeat the analysis in about 3 months." },
+        { "prompt": "What further assessment and initial management do you arrange?", "answer": "Examine: testicular volume, vasa, epididymal thickening, **varicocele**. Tests: **FSH, LH, testosterone**; scrotal ultrasound; if concentration <5 million/mL consider **karyotype and Y-microdeletion** testing. Treat any STI in both. Lifestyle: stop smoking, reduce alcohol, loose clothing and breaks from heat, weight; **no testosterone or 'strength' supplements**; repeat semen analysis after 3 months. Stop the wife's clomiphene (she ovulates)." },
+        { "prompt": "Repeat analysis 3 months later is unchanged; FSH is mildly raised. What treatment options do you discuss?", "answer": "With severe male factor, the most effective option is **IVF with ICSI** (private Kampala centres or Mulago public IVF, cost permitting). Alternatives: **donor sperm** (cultural/religious acceptability varies) or **adoption/fostering**. IUI is unlikely to succeed with such low motile counts. Provide couple counselling, protect the husband's dignity and confidentiality, and address the burden previously placed on his wife." }
+      ],
+      "takeaway": "Semen analysis is the cheapest and most neglected test in infertility — do it early, engage the man with respect, and never give the woman ovulation induction when she already ovulates."
+    }
+  ],
+  "references": [
+    { "title": "Fertility problems: assessment and treatment (CG156) — Recommendations", "source": "National Institute for Health and Care Excellence (NICE)", "year": 2013, "url": "https://www.nice.org.uk/guidance/cg156/chapter/recommendations" },
+    { "title": "Guideline for the prevention, diagnosis and treatment of infertility", "source": "World Health Organization", "year": 2025, "url": "https://iris.who.int/server/api/core/bitstreams/ad3b700d-2c90-44fc-bd6f-fd93227b6a5a/content" },
+    { "title": "Treatment of infertility due to ovulatory dysfunction — WHO guideline for the prevention, diagnosis and treatment of infertility", "source": "World Health Organization (NCBI Bookshelf)", "year": 2025, "url": "https://www.ncbi.nlm.nih.gov/books/NBK620409/" },
+    { "title": "Recommendations From the 2023 International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome", "source": "Journal of Clinical Endocrinology & Metabolism", "year": 2023, "url": "https://academic.oup.com/jcem/article/108/10/2447/7242360" },
+    { "title": "International Evidence-based Guideline for PCOS 2023 — Summary", "source": "Monash University", "year": 2023, "url": "https://www.monash.edu/__data/assets/pdf_file/0003/3371133/PCOS-Guideline-Summary-2023.pdf" },
+    { "title": "Lower reference limits for semen characteristics (WHO laboratory manual, 6th edition, 2021)", "source": "Manchester University NHS Foundation Trust", "year": 2021, "url": "https://mft.nhs.uk/app/uploads/sites/4/2023/01/Lower-reference-limits-2021.pdf" },
+    { "title": "The Sixth Edition of the WHO Manual for Human Semen Analysis: A Critical Review and SWOT Analysis", "source": "Life (MDPI)", "year": 2021, "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8706130/" },
+    { "title": "Structural findings at hysterosalpingography in patients with infertility at two private clinics in Kampala, Uganda", "source": "African Health Sciences", "year": 2004, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2688334/" },
+    { "title": "A cross-sectional survey of service delivery for infertility in Uganda: gaps, opportunities and a way forward", "source": "PMC", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13202837/" },
+    { "title": "Comparing efficacy and safety of stair-step protocols for clomiphene citrate and letrozole in ovulation induction for women with PCOS: a randomized controlled trial", "source": "PMC", "year": 2023, "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10375350/" },
+    { "title": "Mulago Hospital conducts first successful In Vitro Fertilisation", "source": "Pulse Uganda", "year": 2025, "url": "https://www.pulse.ug/articles/lifestyle/mulago-hospital-conducts-first-successful-in-vitro-fertilisation-2025060108011697058" },
+    { "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions", "source": "Ministry of Health, Uganda", "year": 2023, "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf" }
+  ]
+}

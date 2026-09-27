@@ -1,0 +1,462 @@
+{
+  "slug": "ectopic-pregnancy",
+  "flashcards": [
+    {
+      "id": "ect-f01",
+      "front": "Commonest site of ectopic pregnancy",
+      "back": "**Ampulla** of the fallopian tube (~70–80%); >95% of ectopics are tubal."
+    },
+    {
+      "id": "ect-f02",
+      "front": "Which tubal ectopic ruptures latest and bleeds most catastrophically, and why?",
+      "back": "**Interstitial (cornual)** – ruptures at 12–16 weeks because surrounding myometrium allows growth; sits at the **uterine–ovarian artery anastomosis**."
+    },
+    {
+      "id": "ect-f03",
+      "front": "Classic triad of ectopic pregnancy",
+      "back": "**Amenorrhoea** (6–8 wk), **abdominal pain** (often unilateral, preceding bleeding), **scanty dark vaginal bleeding**."
+    },
+    {
+      "id": "ect-f04",
+      "front": "Why does shoulder-tip pain occur in ruptured ectopic?",
+      "back": "Blood irritates the diaphragm → **phrenic nerve (C3–5)** → pain referred to the C4 dermatome (shoulder)."
+    },
+    {
+      "id": "ect-f05",
+      "front": "Why does vaginal bleeding occur in ectopic pregnancy?",
+      "back": "Low hCG production → **falling progesterone** → shedding of the uterine **decidua** (sometimes as a decidual cast)."
+    },
+    {
+      "id": "ect-f06",
+      "front": "Most important risk factor for ectopic pregnancy in Uganda",
+      "back": "**Tubal damage from PID** (chlamydia, gonorrhoea; also post-abortal/puerperal sepsis, genital TB)."
+    },
+    {
+      "id": "ect-f07",
+      "front": "First investigation in any woman of reproductive age with abdominal pain or collapse",
+      "back": "**Urine pregnancy test (hCG)** – at every level of care."
+    },
+    {
+      "id": "ect-f08",
+      "front": "Discriminatory zone for TVUS",
+      "back": "hCG ~**1,500–2,000 IU/L** (ACOG: up to 3,500) above which an intrauterine sac should be seen; ~6,500 IU/L for transabdominal scan."
+    },
+    {
+      "id": "ect-f09",
+      "front": "hCG 48-hour trends in PUL (NICE)",
+      "back": "Rise **>63%** → likely IUP; fall **>50%** → failing pregnancy; in between → **suspect ectopic**, senior review within 24 h."
+    },
+    {
+      "id": "ect-f10",
+      "front": "Ultrasound features of tubal ectopic",
+      "back": "**Empty uterus**, adnexal mass separate from ovary (**bagel/tubal ring** or 'blob' sign) ± yolk sac/embryo/heartbeat, **echogenic free fluid**; beware pseudosac."
+    },
+    {
+      "id": "ect-f11",
+      "front": "NICE criteria for first-line methotrexate",
+      "back": "No significant pain; unruptured; **mass <35 mm; no heartbeat; hCG <1,500 IU/L**; **no IUP**; able to return for follow-up. (hCG 1,500–5,000: offer choice of MTX or surgery.)"
+    },
+    {
+      "id": "ect-f12",
+      "front": "Methotrexate dose for ectopic pregnancy",
+      "back": "**50 mg/m² IM** single dose (e.g. 1.6 m² → 80 mg)."
+    },
+    {
+      "id": "ect-f13",
+      "front": "Monitoring after methotrexate",
+      "back": "hCG **days 4 and 7**: fall **≥15%** between day 4 and 7 = success → weekly until negative. <15% → second dose or surgery."
+    },
+    {
+      "id": "ect-f14",
+      "front": "What to avoid after methotrexate",
+      "back": "**Sun, alcohol, folic acid, NSAIDs, sexual intercourse** until resolved; **pregnancy for 3 months**."
+    },
+    {
+      "id": "ect-f15",
+      "front": "Contraindications to methotrexate (name 6)",
+      "back": "Haemodynamic instability/rupture, **intrauterine pregnancy**, **breastfeeding**, liver/renal disease, blood dyscrasia, peptic ulcer, active lung disease, immunodeficiency, unable to follow up."
+    },
+    {
+      "id": "ect-f16",
+      "front": "Salpingectomy vs salpingotomy – when each?",
+      "back": "**Salpingectomy** if contralateral tube healthy (default). **Salpingotomy** if other tube damaged/absent and fertility desired – follow hCG (up to 1 in 5 need further treatment)."
+    },
+    {
+      "id": "ect-f17",
+      "front": "Management principle of ruptured ectopic in shock",
+      "back": "**Resuscitate and operate simultaneously** – laparotomy and clamping the bleeding tube IS the resuscitation; permissive hypotension until clamp."
+    },
+    {
+      "id": "ect-f18",
+      "front": "What is autotransfusion in ruptured ectopic?",
+      "back": "Reinfusion of fresh, uncontaminated **haemoperitoneum blood filtered through gauze into an anticoagulant bag** – lifesaving when donor blood is unavailable."
+    },
+    {
+      "id": "ect-f19",
+      "front": "Why does blood from culdocentesis not clot?",
+      "back": "Blood in the peritoneum has already clotted and been **defibrinated** – non-clotting blood indicates haemoperitoneum."
+    },
+    {
+      "id": "ect-f20",
+      "front": "Recurrence risk after one ectopic and key advice",
+      "back": "About **10%**; attend for an **early scan (~6–7 weeks)** in every future pregnancy."
+    },
+    {
+      "id": "ect-f21",
+      "front": "Expectant management criteria for tubal ectopic",
+      "back": "Stable, **pain-free**, mass **<35 mm no heartbeat**, **hCG <1,500 and falling**, can return; hCG days 2, 4, 7 (≥15% fall each)."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "ect-q01",
+      "stem": "A 24-year-old is brought to the casualty of a regional referral hospital after collapsing at home. She has lower abdominal pain and 7 weeks of amenorrhoea. Pulse 132, BP 70/40, cold peripheries, distended tender abdomen. Urine hCG positive. What is the MOST appropriate next step?",
+      "options": [
+        "Formal pelvic ultrasound in the radiology department",
+        "Intramuscular methotrexate 50 mg/m²",
+        "Serum quantitative hCG and repeat in 48 hours",
+        "Resuscitate with IV fluids and blood while arranging immediate laparotomy",
+        "Resuscitate until systolic BP is above 110 mmHg, then consider surgery"
+      ],
+      "answer": 3,
+      "explanation": "Positive hCG + shock + peritonism = **ruptured ectopic** → **resuscitate and operate simultaneously**. **A/C**: delaying for imaging/serial tests risks death; bedside FAST at most. **B**: MTX is contraindicated in rupture/instability. **E**: waiting for normal BP is futile – she keeps bleeding; clamping the tube is the definitive resuscitation.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ect-q02",
+      "stem": "A 30-year-old at 6 weeks by LMP has mild left iliac fossa pain. She is stable. TVUS: empty uterus, 22 mm left adnexal mass with no cardiac activity, no free fluid. Serum hCG 1,100 IU/L. FBC, LFTs and creatinine are normal. She lives 3 km from the hospital and has a phone. What is the MOST appropriate management according to NICE?",
+      "options": [
+        "Emergency laparotomy and salpingectomy",
+        "Methotrexate 50 mg/m² IM with hCG on days 4 and 7",
+        "MVA to exclude an intrauterine pregnancy",
+        "Discharge with no follow-up",
+        "Salpingotomy by laparotomy"
+      ],
+      "answer": 1,
+      "explanation": "She meets **NICE first-line MTX criteria**: no significant pain, unruptured, mass <35 mm, no heartbeat, hCG <1,500, no IUP, able to follow up. **A/E**: surgery is not required (though acceptable if she prefers or MTX unavailable). **C**: MVA could disrupt a possible very early IUP and doesn't treat the ectopic. **D**: follow-up is essential – ectopics can rupture.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ect-q03",
+      "stem": "A woman given methotrexate for a tubal ectopic has hCG 1,300 IU/L on day 1, 1,450 IU/L on day 4 and 1,320 IU/L on day 7. She is pain-free and stable. What is the MOST appropriate next step?",
+      "options": [
+        "Reassure – treatment has succeeded",
+        "Start folic acid to reduce side effects",
+        "Immediate laparotomy",
+        "Repeat hCG in 4 weeks",
+        "Give a second dose of methotrexate 50 mg/m² (or offer surgery)"
+      ],
+      "answer": 4,
+      "explanation": "Day 4 → day 7 fall = (1,450 − 1,320)/1,450 ≈ **9% (<15%)** → **inadequate response: second dose or surgery**. **A**: success requires ≥15% fall. A rise between days 1 and 4 is expected. **C**: she is stable, no rupture. **D**: too long an interval. **B**: folic acid antagonises methotrexate.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "ect-q04",
+      "stem": "A 28-year-old at 7 weeks presents with vaginal spotting and lower abdominal pain. Urine hCG positive. She is stable. TVUS: empty uterus, no adnexal mass, no free fluid. Serum hCG 900 IU/L; 48 hours later 1,020 IU/L. What is the MOST likely interpretation?",
+      "options": [
+        "Normal intrauterine pregnancy – rescan in 2 weeks",
+        "Complete miscarriage – discharge",
+        "Suboptimal rise – high suspicion of ectopic; senior review and repeat TVUS within 24 hours",
+        "Molar pregnancy",
+        "Perform MVA to diagnose"
+      ],
+      "answer": 2,
+      "explanation": "A **13% rise** is in the suboptimal zone (neither >63% rise nor >50% fall) → **suspect ectopic**. **A**: viable IUP rises >63%. **B**: a complete miscarriage shows falling hCG. **D**: mole gives very high hCG and a snowstorm uterus. **E**: MVA may disrupt a viable IUP and misses the ectopic.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ect-q05",
+      "stem": "At laparotomy for a ruptured right tubal ectopic in a 27-year-old P0 who wants children, the left tube appears normal. What is the MOST appropriate procedure?",
+      "options": [
+        "Right salpingectomy",
+        "Right salpingotomy to preserve fertility",
+        "Bilateral salpingectomy",
+        "Total abdominal hysterectomy",
+        "Right salpingo-oophorectomy"
+      ],
+      "answer": 0,
+      "explanation": "With a healthy contralateral tube, **salpingectomy** gives similar future IUP rates to salpingotomy without persistent trophoblast; a ruptured tube is usually not salvageable. **B**: salpingotomy is for a damaged/absent contralateral tube. **C/D**: unnecessary and destroy fertility. **E**: the ovary should be preserved unless involved.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ect-q06",
+      "stem": "A 32-year-old with a previous right salpingectomy for ectopic now has a left tubal ectopic, unruptured, 30 mm, hCG 6,200 IU/L, with a visible heartbeat. She is stable and strongly desires future pregnancy. Laparoscopy is available. What is the BEST option?",
+      "options": [
+        "Methotrexate 50 mg/m² IM",
+        "Expectant management",
+        "Laparoscopic left salpingotomy with hCG follow-up",
+        "Laparoscopic left salpingectomy",
+        "MVA"
+      ],
+      "answer": 2,
+      "explanation": "Heartbeat and hCG >5,000 → **surgery**, and with the **only remaining tube**, **salpingotomy** preserves the chance of natural conception; follow hCG weekly for persistent trophoblast. **A/B**: heartbeat and high hCG make MTX/expectant inappropriate. **D**: would leave her needing IVF. **E**: not treatment for ectopic.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "ect-q07",
+      "stem": "A 23-year-old presents to a HC III with lower abdominal pain, fever 37.9 °C and vaginal discharge. The clinician diagnoses PID and prescribes ceftriaxone, doxycycline and metronidazole. Her LMP was 7 weeks ago. What is the MOST important omission?",
+      "options": [
+        "HIV test",
+        "Urinalysis",
+        "Malaria RDT",
+        "Urine pregnancy test",
+        "High vaginal swab"
+      ],
+      "answer": 3,
+      "explanation": "Any woman of reproductive age with pelvic pain and a missed period needs a **pregnancy test** – ectopic pregnancy is commonly misdiagnosed as PID in Uganda. **A/B/C/E** are reasonable but none would detect the potentially fatal diagnosis. Note doxycycline is also contraindicated in pregnancy.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ect-q08",
+      "stem": "Which patient is MOST suitable for expectant management of a tubal ectopic?",
+      "options": [
+        "Stable, pain-free, 20 mm mass without heartbeat, hCG 800 falling to 520 over 48 h, lives nearby",
+        "Stable, 38 mm mass, hCG 1,200 rising",
+        "Mild pain, 25 mm mass with heartbeat, hCG 2,500",
+        "Shoulder-tip pain, free fluid in Morison's pouch",
+        "Pain-free, 15 mm mass, hCG 3,800, lives 80 km away"
+      ],
+      "answer": 0,
+      "explanation": "Expectant criteria: **stable, pain-free, mass <35 mm without heartbeat, hCG <1,500 and falling, reliable follow-up** – option A. **B**: mass ≥35 mm and rising hCG. **C**: heartbeat. **D**: haemoperitoneum → surgery. **E**: hCG too high and follow-up unreliable.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ect-q09",
+      "stem": "A 26-year-old on methotrexate day 3 for ectopic presents with moderate lower abdominal pain. Pulse 84, BP 118/76, abdomen soft with mild tenderness, no guarding. Hb unchanged from baseline. TVUS: no increase in free fluid. What is the MOST appropriate management?",
+      "options": [
+        "Immediate laparotomy",
+        "Discharge with no follow-up",
+        "Ibuprofen 400 mg 8-hourly",
+        "Give a second dose of methotrexate",
+        "Paracetamol, observation and reassessment – likely separation pain"
+      ],
+      "answer": 4,
+      "explanation": "Pain on days 2–7 after MTX is common (**separation pain**). With stable vitals, stable Hb and no new free fluid: **paracetamol and observation**, low threshold for surgery if it worsens. **A**: no evidence of rupture. **C**: NSAIDs increase methotrexate toxicity. **D**: second dose is decided by the day 4–7 hCG fall. **B**: she still needs hCG monitoring.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "ect-q10",
+      "stem": "Which is an absolute contraindication to methotrexate in a woman with a tubal ectopic?",
+      "options": [
+        "hCG 1,200 IU/L",
+        "Breastfeeding a 6-month-old baby",
+        "Adnexal mass of 25 mm",
+        "Nulliparity",
+        "Previous caesarean section"
+      ],
+      "answer": 1,
+      "explanation": "**Breastfeeding** is a contraindication (MTX is excreted in milk). **A/C** are within criteria. **D/E** are irrelevant to MTX suitability.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ect-q11",
+      "stem": "A 29-year-old P2 had an emergency laparotomy for ruptured ectopic at a HC IV where no blood is available. There is 1.5 L of fresh, dark, unclotted blood in the peritoneum, no bowel injury, and she remains hypotensive. What is the MOST appropriate option to improve her circulation?",
+      "options": [
+        "Autotransfusion: collect the blood, filter it through gauze into an anticoagulant bag and reinfuse",
+        "Suction the blood to waste and give more saline",
+        "Give adrenaline infusion",
+        "Delay closing and wait for donor blood from the regional hospital",
+        "Give tranexamic acid only"
+      ],
+      "answer": 0,
+      "explanation": "**Autotransfusion** of fresh, uncontaminated haemoperitoneum is a recognised lifesaving technique where donor blood is unavailable. **B**: excess crystalloid causes dilutional coagulopathy without oxygen-carrying capacity. **C**: vasopressors don't replace volume. **D**: dangerous delay. **E**: TXA does not replace lost red cells.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "ect-q12",
+      "stem": "A 35-year-old G3P2 with two previous caesarean sections is 7 weeks pregnant. TVUS shows an empty uterine cavity and cervical canal, with a gestational sac embedded in the anterior lower uterine segment at the scar, thin overlying myometrium. What is the diagnosis and MOST appropriate action?",
+      "options": [
+        "Normal low-lying intrauterine pregnancy – routine ANC",
+        "Cervical ectopic – immediate D&C",
+        "Caesarean scar ectopic – refer to a specialist centre; avoid blind evacuation",
+        "Incomplete abortion – MVA at the HC IV",
+        "Missed abortion – misoprostol 800 µg"
+      ],
+      "answer": 2,
+      "explanation": "Sac at the CS scar with thin myometrium = **caesarean scar pregnancy** – high risk of haemorrhage, rupture and placenta accreta → **specialist management**. **A**: missing it risks catastrophic haemorrhage later. **B**: the sac is in the scar, not the cervix; blind D&C causes massive bleeding. **D/E**: not an abortion; blind evacuation/misoprostol is dangerous.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "ect-q13",
+      "stem": "A woman has a salpingotomy for tubal ectopic. What follow-up is MOST appropriate?",
+      "options": [
+        "No follow-up is needed",
+        "Methotrexate prophylaxis routinely",
+        "Ultrasound at 6 weeks only",
+        "Hysterosalpingogram at 2 weeks",
+        "Serum hCG at 7 days, then weekly until negative"
+      ],
+      "answer": 4,
+      "explanation": "After salpingotomy, **persistent trophoblast** occurs in up to 1 in 5 – check **hCG at 7 days then weekly until negative** (NICE). **A**: misses persistent trophoblast. **C**: ultrasound doesn't detect persistent trophoblast reliably. **D**: HSG is for later tubal patency assessment, not early follow-up. **B**: not routine.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ect-q14",
+      "stem": "A 22-year-old P0 who had ovulation induction with clomiphene has a live intrauterine pregnancy at 7 weeks on scan, but presents with severe right iliac fossa pain, pulse 118 and free fluid in the pouch of Douglas. What is the MOST likely diagnosis?",
+      "options": [
+        "Threatened abortion",
+        "Round ligament pain",
+        "Acute appendicitis",
+        "Heterotopic pregnancy",
+        "Ovarian hyperstimulation – no action needed"
+      ],
+      "answer": 3,
+      "explanation": "IUP + haemoperitoneum after ovulation induction → **heterotopic pregnancy** (risk rises with fertility treatment). Manage surgically (salpingectomy) preserving the IUP. **A**: does not cause haemoperitoneum. **C**: possible but free fluid + shock points to bleeding. **B**: benign, no shock. **E**: OHSS causes ascites but tachycardia with free fluid requires urgent evaluation, and after clomiphene OHSS is uncommon.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "ect-q15",
+      "stem": "A 20-year-old presents to an HC III with 8 weeks' amenorrhoea, abdominal pain and fainting. Urine hCG is positive, pulse 124, BP 86/54. The HC III has no theatre or ultrasound; the HC IV is 40 minutes away. What is the BEST action?",
+      "options": [
+        "Wait for ultrasound confirmation before referral",
+        "Two IV lines, fluids, and urgent escorted referral with a note and blood-donor relatives, calling ahead",
+        "Give oral analgesics and observe overnight",
+        "Treat for malaria and review in the morning",
+        "Give misoprostol for suspected incomplete abortion"
+      ],
+      "answer": 1,
+      "explanation": "Suspected ruptured ectopic: **resuscitate (2 lines, fluids), call ahead and refer urgently with escort, note and donors**. **A/C/D** are fatal delays. **E**: misoprostol does nothing for an ectopic and presumes the wrong diagnosis.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "ect-c01",
+      "title": "Collapse in casualty: ruptured ectopic",
+      "presentation": "A 26-year-old P1+0 is carried into Mengo Hospital casualty by her husband after fainting at the market. She complains of lower abdominal pain since morning and pain in her right shoulder. She is pale and sweaty.",
+      "steps": [
+        {
+          "prompt": "What are your immediate actions in the first 5 minutes?",
+          "answer": "Call for help; **ABC**; oxygen; lie flat, legs up; **2 large-bore IV cannulae**; bloods for **Hb, group & crossmatch 4 units**, bedside clotting; **urine hCG** (catheter specimen if needed); warmed crystalloid bolus; vitals every 5–15 min; alert theatre, anaesthetist, lab."
+        },
+        {
+          "prompt": "What focused history do you obtain (from her or her husband)?",
+          "answer": "**LMP** (7–8 weeks ago?), pain onset and site (unilateral before bleeding?), **shoulder-tip pain, syncope**, vaginal bleeding, contraception (IUD? ligation?), previous ectopic/PID/STI, infertility treatment, previous surgery, Rh group, allergies, last meal."
+        },
+        {
+          "prompt": "Pulse 128, BP 76/48, distended abdomen with generalised tenderness and shifting dullness; urine hCG positive; HemoCue Hb 6.0 g/dL; bedside FAST shows free fluid in Morison's pouch. Diagnosis and differentials?",
+          "answer": "**Ruptured ectopic pregnancy with haemorrhagic shock.** Differentials: ruptured corpus luteum cyst with IUP, ruptured spleen, perforated viscus – but hCG + haemoperitoneum makes ectopic by far the most likely."
+        },
+        {
+          "prompt": "Outline definitive management.",
+          "answer": "**Resuscitate and operate simultaneously**: permissive hypotension (SBP ~80–90), transfuse (O-neg/uncrossmatched if needed), consent, **ketamine GA**, **emergency laparotomy**: clamp the bleeding tube, **salpingectomy**, remove blood, inspect other tube/ovaries; autotransfusion if no blood; catheter, fluid chart."
+        },
+        {
+          "prompt": "What post-operative care and counselling does she need?",
+          "answer": "Vitals, urine output, **Hb at 24 h** (transfuse if <7 g/dL), **oral iron + folate**, analgesia, early mobilisation/VTE prevention, **anti-D if Rh-negative**. Counsel: what happened, **10% recurrence, early scan in next pregnancy**, fertility outlook, **contraception**, STI screening and partner treatment, emotional support; review in 2 weeks."
+        }
+      ],
+      "takeaway": "Positive pregnancy test + shock = ruptured ectopic; the clamp in theatre is the resuscitation."
+    },
+    {
+      "id": "ect-c02",
+      "title": "Stable ectopic: to operate or not?",
+      "presentation": "A 31-year-old G2P1, a teacher living 2 km from Kawempe National Referral Hospital, is referred with 6 weeks of amenorrhoea and mild intermittent right iliac fossa pain. She is well, pulse 78, BP 122/78. Urine hCG positive.",
+      "steps": [
+        {
+          "prompt": "What investigations do you request?",
+          "answer": "**TVUS** (uterus, adnexa, free fluid), **serum quantitative hCG** (repeat at 48 h if PUL), Hb/FBC, **group & Rh**, and — if medical management is considered — **LFTs and creatinine**."
+        },
+        {
+          "prompt": "TVUS: empty uterus, 24 mm right adnexal mass separate from the ovary with a yolk sac but no heartbeat, minimal free fluid. hCG 1,350 IU/L. Bloods normal. What are her options?",
+          "answer": "Meets NICE criteria for **methotrexate (first-line)**: stable, no significant pain, mass <35 mm, no heartbeat, hCG <1,500, no IUP, can follow up. Alternatives: **surgery (salpingectomy)**, or expectant if hCG falling. Discuss pros/cons: MTX avoids surgery but requires 4–6 weeks of follow-up and carries a small rupture risk."
+        },
+        {
+          "prompt": "She chooses methotrexate. Prescribe it and give her the advice.",
+          "answer": "**Methotrexate 50 mg/m² IM** (e.g. BSA 1.7 m² → 85 mg), cytotoxic precautions. Advice: **paracetamol not NSAIDs**, avoid **alcohol, folic acid, sunlight, intercourse**; **contraception for 3 months**; expect some pain days 2–7; **return immediately** with severe pain, dizziness, shoulder-tip pain; hCG on **days 4 and 7**."
+        },
+        {
+          "prompt": "Day 4 hCG 1,480; day 7 hCG 1,150 IU/L. Interpretation and plan?",
+          "answer": "Fall from day 4 to 7 = (1,480 − 1,150)/1,480 ≈ **22% (≥15%)** → **responding**. The day-4 rise is expected. Plan: **weekly hCG until negative**."
+        },
+        {
+          "prompt": "What would have made you choose surgery instead?",
+          "answer": "Significant pain, signs of rupture/haemoperitoneum, mass ≥35 mm, **heartbeat**, hCG ≥5,000, contraindications (breastfeeding, abnormal LFTs/renal function, blood dyscrasia), IUP present (heterotopic), inability to attend follow-up, or patient preference."
+        }
+      ],
+      "takeaway": "Methotrexate is excellent for the right patient – small, quiet, low-hCG ectopic in a woman who can come back – but surgery remains the safe default when those conditions are not met."
+    },
+    {
+      "id": "ect-c03",
+      "title": "'PID' that wasn't",
+      "presentation": "A 21-year-old university student attends a HC IV with 3 days of lower abdominal pain and 'some spotting'. She was treated 2 days ago at a private clinic for PID and malaria. She says her period is 'a bit late'.",
+      "steps": [
+        {
+          "prompt": "What are the key questions in your history?",
+          "answer": "**Exact LMP** and whether the 'spotting' could be mistaken for a period; site and sequence of pain (unilateral, before bleeding?); shoulder-tip pain, dizziness; fever, discharge, dysuria; previous STI/PID; contraception (e.g. implant/POP); sexual history; previous ectopic."
+        },
+        {
+          "prompt": "What is the single most important bedside test and why?",
+          "answer": "**Urine pregnancy test** – a missed period + pelvic pain + spotting is ectopic until proven otherwise; PID and ectopic co-exist and share risk factors."
+        },
+        {
+          "prompt": "hCG positive. Pulse 104, BP 108/70, left adnexal tenderness, cervical excitation. Transabdominal scan (TVUS unavailable): empty uterus, small amount of free fluid, no clear mass. What next?",
+          "answer": "**Suspected ectopic**. Admit; IV access; Hb, group & crossmatch; **serum hCG** (if >~6,500 with empty uterus on TAS = strongly suggestive); ask for TVUS/experienced sonographer at referral; frequent vitals. Low threshold for **laparotomy** if pain increases, Hb falls, or vitals deteriorate. If no ultrasound help, **culdocentesis** showing non-clotting blood supports haemoperitoneum."
+        },
+        {
+          "prompt": "Four hours later her pulse is 122 and BP 90/60, with increasing abdominal pain. Plan?",
+          "answer": "Deteriorating → **ruptured ectopic**: resuscitate, crossmatch, consent, **emergency laparotomy** (salpingectomy). Do not wait for further imaging."
+        },
+        {
+          "prompt": "What system lessons does this case teach?",
+          "answer": "Pregnancy test for all women of reproductive age with abdominal pain at every level (including private clinics/drug shops); doxycycline was also inappropriate in pregnancy; safety-net advice; referral pathways for TVUS; audit missed diagnoses."
+        }
+      ],
+      "takeaway": "Missed period + pelvic pain = pregnancy test first; 'PID' and 'malaria' are the commonest labels under which Ugandan women with ectopics are sent home."
+    }
+  ],
+  "references": [
+    {
+      "title": "Ectopic pregnancy and miscarriage: diagnosis and initial management (NG126)",
+      "source": "NICE",
+      "year": 2019,
+      "url": "https://www.nice.org.uk/guidance/ng126/resources/ectopic-pregnancy-and-miscarriage-diagnosis-and-initial-management-pdf-66141662244037"
+    },
+    {
+      "title": "Ectopic pregnancy and miscarriage: diagnosis and initial management (NCBI Bookshelf)",
+      "source": "NICE / NCBI",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK544906/"
+    },
+    {
+      "title": "Diagnosis and Management of Ectopic Pregnancy (Green-top Guideline No. 21)",
+      "source": "RCOG / AEPU",
+      "year": 2016,
+      "url": "https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/diagnosis-and-management-of-ectopic-pregnancy-green-top-guideline-no-21/"
+    },
+    {
+      "title": "ACOG Practice Bulletin No. 193: Tubal Ectopic Pregnancy",
+      "source": "ACOG",
+      "year": 2018,
+      "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2018/03/tubal-ectopic-pregnancy"
+    },
+    {
+      "title": "Ectopic pregnancy: current management guidelines",
+      "source": "FIGO",
+      "url": "https://www.figo.org/sites/default/files/2020-03/1_MAS%20Ectopic.pdf"
+    },
+    {
+      "title": "Ectopic pregnancy in African developing countries",
+      "source": "Acta Obstet Gynecol Scand (Goyaux et al.)",
+      "year": 2003,
+      "url": "https://obgyn.onlinelibrary.wiley.com/doi/full/10.1034/j.1600-0412.2003.00175.x"
+    },
+    {
+      "title": "Factors associated with ruptured ectopic pregnancy: a 10-year review at a district hospital in Ghana",
+      "source": "Obstet Gynecol Int",
+      "year": 2022,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8920631/"
+    },
+    {
+      "title": "Prevalence and management of ectopic and molar pregnancies in 17 countries in Africa and Latin America: WHO multi-country survey",
+      "source": "PMC",
+      "year": 2024,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11474897/"
+    },
+    {
+      "title": "Uganda Clinical Guidelines 2023",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://www.differentiatedservicedelivery.org/wp-content/uploads/UCG-2023-Publication-Final-PDF-Version-1.pdf"
+    }
+  ]
+}

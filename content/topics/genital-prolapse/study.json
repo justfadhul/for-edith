@@ -1,0 +1,271 @@
+{
+  "slug": "genital-prolapse",
+  "flashcards": [
+    { "id": "gp-f01", "front": "Define pelvic organ prolapse.", "back": "Descent of one or more of the anterior vaginal wall, posterior vaginal wall, uterus (cervix) or vaginal vault (after hysterectomy) into or through the vagina, with the bladder, rectum or bowel behind them." },
+    { "id": "gp-f02", "front": "DeLancey level I: structures, and what failure causes?", "back": "The **uterosacral–cardinal ligament complex**, which suspends the apex. Failure causes **uterine or vault prolapse and enterocele**." },
+    { "id": "gp-f03", "front": "DeLancey level II and III?", "back": "**II**: the paracolpium attaches the mid-vagina to the **arcus tendineus fasciae pelvis** (failure causes cystocele or rectocele). **III**: the distal vagina is fused to the **perineal body and perineal membrane** (failure causes urethrocele, low rectocele, gaping introitus)." },
+    { "id": "gp-f04", "front": "Strongest risk factor for prolapse?", "back": "**Vaginal childbirth / parity**, especially large babies, a prolonged second stage and instrumental delivery. These cause levator avulsion, pudendal nerve injury and fascial tears." },
+    { "id": "gp-f05", "front": "POP-Q staging (stages 0–IV)?", "back": "The hymen = 0. **I**: leading edge more than 1 cm above the hymen. **II**: within 1 cm above or below the hymen. **III**: more than 1 cm below the hymen but less than tvl − 2 cm. **IV**: complete eversion." },
+    { "id": "gp-f06", "front": "POP-Q points?", "back": "**Aa, Ba** (anterior), **C** (cervix/vault), **D** (posterior fornix), **Ap, Bp** (posterior), **gh** (genital hiatus), **pb** (perineal body), **tvl** (total vaginal length). Aa and Ap sit 3 cm inside the hymen (range −3 to +3)." },
+    { "id": "gp-f07", "front": "Traditional degrees of uterine prolapse?", "back": "**1st**: the cervix descends within the vagina. **2nd**: the cervix reaches or protrudes through the introitus on straining. **3rd (procidentia)**: the whole uterus lies outside the introitus." },
+    { "id": "gp-f08", "front": "Which speculum and position for prolapse assessment?", "back": "**Sims speculum, left lateral position**, with the woman **straining**. Retract the posterior wall to see the anterior wall (cystocele) and the cervix. Retract the anterior wall to see the posterior wall (rectocele or enterocele)." },
+    { "id": "gp-f09", "front": "How do you distinguish an enterocele from a rectocele?", "back": "**Rectovaginal examination**. A rectocele is the rectal wall bulging, felt with the rectal finger. An **enterocele** has small bowel between the vaginal and rectal fingers, higher up (upper posterior wall or vault)." },
+    { "id": "gp-f10", "front": "What is occult stress incontinence?", "back": "SUI masked by urethral kinking from a cystocele. It is revealed by a **cough test with the prolapse reduced**, and it may appear after repair." },
+    { "id": "gp-f11", "front": "First-line treatment for symptomatic mild–moderate prolapse (NICE)?", "back": "**Supervised pelvic floor muscle training for at least 16 weeks**, plus lifestyle: weight loss, treat cough and constipation, avoid heavy lifting, vaginal oestrogen if atrophic." },
+    { "id": "gp-f12", "front": "Types of pessary and their uses?", "back": "**Ring** (± support): stage I–III; she can self-manage; intercourse is possible. **Gellhorn / shelf / cube / donut**: advanced prolapse or a wide hiatus. Review every 3–6 months: remove, clean, inspect for erosion." },
+    { "id": "gp-f13", "front": "Components of the Manchester (Fothergill) repair?", "back": "**Amputation of the cervix**, **plication of the cardinal ligaments** in front of the cervical stump, and **anterior colporrhaphy** (± posterior repair). It preserves the uterus." },
+    { "id": "gp-f14", "front": "Disadvantages of the Manchester repair?", "back": "**Cervical stenosis** (haematometra, difficult endometrial sampling), **cervical incompetence**, infertility and miscarriage. Avoid if she wants more children." },
+    { "id": "gp-f15", "front": "Operations for vault prolapse?", "back": "**Sacrospinous ligament fixation** (vaginal) or **sacrocolpopexy** (abdominal or laparoscopic, with mesh to the sacral promontory; the most durable). **Colpocleisis** if frail and not sexually active." },
+    { "id": "gp-f16", "front": "What is McCall culdoplasty and why do it?", "back": "At vaginal hysterectomy, the uterosacral ligaments are plicated and attached to the vault, obliterating the cul-de-sac. It **supports the vault** (level I) and prevents enterocele and vault prolapse." },
+    { "id": "gp-f17", "front": "Management of procidentia with a decubitus ulcer?", "back": "Admit, bed rest, reduce the prolapse, keep it reduced with a **daily vaginal pack** (oestrogen cream where available), treat UTI, check U&E and renal US, **biopsy if not healed at about 2 weeks**, then definitive surgery." },
+    { "id": "gp-f18", "front": "Why can procidentia cause renal failure?", "back": "The ureters are dragged down through the levator hiatus and **kinked or compressed**, causing bilateral **hydronephrosis** and obstructive uropathy." },
+    { "id": "gp-f19", "front": "NICE position on transvaginal mesh?", "back": "Do **not** use transvaginal mesh for anterior or posterior wall prolapse repair except in a research context, because of erosion, pain and dyspareunia. Native-tissue repair is standard." },
+    { "id": "gp-f20", "front": "What is colpocleisis and who is it for?", "back": "Surgical **closure of the vagina** (LeFort partial or total). It is for **elderly, frail women who are not sexually active**. It has a very high success rate and a short operation time. Exclude uterine pathology first." }
+  ],
+  "mcqs": [
+    {
+      "id": "gp-q01",
+      "stem": "A 58-year-old para 6, post-menopausal, complains of a vaginal bulge for 2 years. It is worse in the evening, and she sometimes has to push it back to pass urine. On straining, the cervix reaches 2 cm beyond the hymen. What is the POP-Q stage?",
+      "options": [
+        "Stage 0",
+        "Stage I",
+        "Stage II",
+        "Stage III",
+        "Stage IV"
+      ],
+      "answer": 3,
+      "explanation": "At **+2 cm** (more than 1 cm below the hymen) but not complete eversion, this is **stage III**. **A** Stage 0 means no prolapse. **B** Stage I is more than 1 cm above the hymen. **C** Stage II is within ±1 cm of the hymen. **E** Stage IV is complete eversion (at least tvl − 2)."
+    },
+    {
+      "id": "gp-q02",
+      "stem": "A 32-year-old para 3 with symptomatic stage II uterine prolapse wants two more children. What is the MOST appropriate management now?",
+      "options": [
+        "Vaginal hysterectomy with McCall culdoplasty",
+        "Supervised pelvic floor muscle training and/or a ring pessary, deferring surgery until her family is complete",
+        "Manchester repair",
+        "LeFort colpocleisis",
+        "Sacrocolpopexy"
+      ],
+      "answer": 1,
+      "explanation": "A woman wanting future pregnancies should be managed **conservatively (PFMT, pessary)** until her family is complete, or with uterus-preserving hysteropexy in selected cases. **A** removes her fertility. **C** Manchester causes cervical incompetence or stenosis and poor fertility outcomes. **D** closes the vagina. **E** is for vault prolapse (after hysterectomy)."
+    },
+    {
+      "id": "gp-q03",
+      "stem": "A 70-year-old para 9 presents with complete procidentia that has been out for months, a 3 cm bleeding ulcer on the cervix, and a creatinine of 180 µmol/L. What is the MOST appropriate initial management?",
+      "options": [
+        "Immediate vaginal hysterectomy",
+        "Discharge with a ring pessary and review in 6 months",
+        "Radiotherapy for presumed cervical cancer",
+        "Colpocleisis under local anaesthesia today",
+        "Admit, reduce the prolapse and pack daily, catheterise, treat infection, scan the kidneys, and biopsy the ulcer if it does not heal"
+      ],
+      "answer": 4,
+      "explanation": "Decubitus ulcers usually heal with **reduction and daily packing**, which also relieves the ureteric kinking (hydronephrosis, raised creatinine). Biopsy an ulcer that persists, then plan surgery. **A** Operating through an infected ulcer with renal impairment is unsafe. **B** She needs admission and assessment. **C** Cancer is not yet proven, so biopsy first. **D** Surgery before ulcer healing and renal assessment is premature."
+    },
+    {
+      "id": "gp-q04",
+      "stem": "On a rectovaginal examination of a woman with a posterior wall bulge, loops of bowel are felt between the vaginal and rectal fingers high in the rectovaginal septum. What is the diagnosis?",
+      "options": [
+        "Enterocele",
+        "Rectocele",
+        "Cystocele",
+        "Urethrocele",
+        "Rectal prolapse"
+      ],
+      "answer": 0,
+      "explanation": "An **enterocele** (a hernia of the pouch of Douglas) places **small bowel between the fingers**, high on the posterior wall. **B** A rectocele is the rectum itself bulging lower down. **C/D** are anterior compartment. **E** Rectal prolapse protrudes through the anus."
+    },
+    {
+      "id": "gp-q05",
+      "stem": "A 55-year-old is booked for anterior repair for a large cystocele. She denies incontinence. What pre-operative test is MOST important to avoid a new post-operative leakage problem?",
+      "options": [
+        "Serum oestradiol",
+        "Pelvic MRI",
+        "A cough stress test with the prolapse reduced",
+        "Colonoscopy",
+        "Cystoscopy"
+      ],
+      "answer": 2,
+      "explanation": "A large cystocele can **kink the urethra and mask stress incontinence (occult SUI)**. Reducing the prolapse and asking her to cough reveals it, so it can be counselled for or treated. **A/B/D/E** do not address occult SUI."
+    },
+    {
+      "id": "gp-q06",
+      "stem": "A 45-year-old para 5 with a very long cervix (uterine sound 11 cm, fundus at its normal level) and a cystocele has completed her family and wants to keep her uterus. Which operation BEST suits her?",
+      "options": [
+        "Sacrospinous fixation",
+        "Colpocleisis",
+        "Posterior colporrhaphy alone",
+        "Manchester (Fothergill) repair",
+        "Sacrocolpopexy"
+      ],
+      "answer": 3,
+      "explanation": "**Cervical elongation** with a cystocele, a completed family and a wish to keep the uterus is the classic indication for the **Manchester repair** (cervical amputation, cardinal ligament plication, anterior repair). **A/E** are vault procedures. **B** closes the vagina, which is inappropriate at 45 unless she requests it. **C** doesn't address the cervix or cystocele."
+    },
+    {
+      "id": "gp-q07",
+      "stem": "Two years after an abdominal hysterectomy, a 60-year-old sexually active woman has complete vault eversion. Which is the MOST durable surgical option?",
+      "options": [
+        "Abdominal (or laparoscopic) sacrocolpopexy",
+        "Anterior colporrhaphy",
+        "Manchester repair",
+        "Ring pessary",
+        "LeFort colpocleisis"
+      ],
+      "answer": 0,
+      "explanation": "**Sacrocolpopexy** (mesh from the vault to the sacral promontory) has the best long-term anatomical success for vault prolapse, and it preserves vaginal length for intercourse. Sacrospinous fixation is the vaginal alternative. **B** doesn't support the apex. **C** requires a cervix. **D** is conservative, not surgery. **E** stops intercourse, which she wants to continue."
+    },
+    {
+      "id": "gp-q08",
+      "stem": "An 82-year-old widow with heart failure and COPD has symptomatic stage IV procidentia. She is not sexually active and a pessary repeatedly falls out. Which surgical option is MOST appropriate?",
+      "options": [
+        "Abdominal sacrohysteropexy under general anaesthesia",
+        "Colpocleisis under regional anaesthesia",
+        "Laparoscopic sacrocolpopexy",
+        "Manchester repair",
+        "No treatment is possible"
+      ],
+      "answer": 1,
+      "explanation": "**Colpocleisis** is quick, can be done under regional or local anaesthesia, and has very high success in frail women who are not sexually active. **A/C** involve longer abdominal surgery under GA in a high-risk patient. **D** is less suitable for procidentia in the elderly. **E** is untrue."
+    },
+    {
+      "id": "gp-q09",
+      "stem": "A 50-year-old farmer has a symptomatic stage II cystocele. She is overweight (BMI 33), has a chronic smoker's cough and constipation, and prefers to avoid surgery. What is the BEST initial plan?",
+      "options": [
+        "Anterior repair with transvaginal mesh",
+        "Vaginal hysterectomy",
+        "Reassure her; no action is needed",
+        "Manchester repair",
+        "Supervised PFMT for at least 16 weeks, weight loss, stopping smoking, treating the cough and constipation, with a pessary if symptoms persist"
+      ],
+      "answer": 4,
+      "explanation": "NICE recommends **supervised PFMT for at least 16 weeks** plus **lifestyle modification** as first line for symptomatic stage I–II prolapse, with a pessary as the next option. **A** NICE advises against transvaginal mesh outside research. **B/D** are surgery she wishes to avoid, without trying conservative care. **C** She is symptomatic, so she needs treatment."
+    },
+    {
+      "id": "gp-q10",
+      "stem": "A pessary user, reviewed after being lost to follow-up for 3 years, reports a foul discharge and continuous leakage of urine. What is the MOST likely complication?",
+      "options": [
+        "Bacterial vaginosis only",
+        "Overactive bladder",
+        "Pessary erosion with a vesicovaginal fistula",
+        "Detrusor underactivity",
+        "Stress urinary incontinence"
+      ],
+      "answer": 2,
+      "explanation": "A **neglected pessary** can erode through the vaginal wall into the bladder (**VVF**) or rectum, giving foul discharge and **continuous** urinary leakage. **A** BV does not cause continuous urine leakage. **B/E** cause urge or effort leakage, not continuous. **D** causes retention."
+    },
+    {
+      "id": "gp-q11",
+      "stem": "A 65-year-old had an anterior colporrhaphy alone for a 'cystocele' 1 year ago. She now has a recurrent bulge, and the cervix descends to the hymen. What is the MOST likely reason for the failure?",
+      "options": [
+        "Absorbable sutures were used",
+        "Unrecognised apical (uterine) prolapse, a level I defect not addressed",
+        "Post-operative UTI",
+        "Excess vaginal oestrogen",
+        "Inadequate bowel preparation"
+      ],
+      "answer": 1,
+      "explanation": "**Missed apical prolapse** is the main cause of early 'recurrence' after an anterior repair. The level I (uterosacral–cardinal) defect must be treated too. **A** Absorbable sutures are standard. **C/D/E** don't cause apical descent."
+    },
+    {
+      "id": "gp-q12",
+      "stem": "A 16-year-old nulliparous girl presents with uterine prolapse to the introitus. What should you look for FIRST?",
+      "options": [
+        "History of instrumental delivery",
+        "Menopausal status",
+        "Chronic uterine inversion",
+        "Neurological cause (e.g. spina bifida occulta) or a connective tissue disorder",
+        "Ovarian cancer"
+      ],
+      "answer": 3,
+      "explanation": "Prolapse in a **nulliparous young woman** suggests **congenital weakness**: neurological causes (spina bifida, which denervates the pelvic floor) or connective tissue disorders (Ehlers–Danlos, Marfan). Examine the back and lower limbs. **A/B** are not applicable. **C** requires a prior pregnancy. **E** is rare, and a mass effect would be felt."
+    },
+    {
+      "id": "gp-q13",
+      "stem": "During vaginal hysterectomy for uterine prolapse, what step MOST reduces the risk of subsequent vault prolapse?",
+      "options": [
+        "Attaching the uterosacral–cardinal ligaments to the vault / McCall culdoplasty",
+        "Leaving the vault open",
+        "Removing both ovaries",
+        "Inserting a transvaginal mesh",
+        "Excising a large amount of vaginal skin"
+      ],
+      "answer": 0,
+      "explanation": "Restoring **level I support** by attaching the uterosacral–cardinal complex to the vault (McCall culdoplasty or high uterosacral suspension) prevents vault prolapse and enterocele. **B/C** have no supportive role. **D** NICE advises against mesh. **E** shortens and narrows the vagina without supporting it."
+    },
+    {
+      "id": "gp-q14",
+      "stem": "A mass protrudes from the vagina of a 40-year-old with heavy periods. On speculum examination a firm, bleeding mass emerges through the os, with a rim of cervix felt around its stalk. The uterus is bulky. What is the MOST likely diagnosis?",
+      "options": [
+        "Third-degree uterine prolapse",
+        "Chronic uterine inversion",
+        "Cervical elongation",
+        "Gartner's duct cyst",
+        "Fibroid polyp (prolapsed pedunculated submucous fibroid)"
+      ],
+      "answer": 4,
+      "explanation": "A firm mass through the os with the **cervix felt as a ring around its stalk**, plus menorrhagia and a bulky uterus, is a **fibroid polyp**. **A** In prolapse, the cervix itself (with its os) is the leading part. **B** Inversion has no visible os, and the fundus is absent abdominally. **C** Elongation shows a normal os on a long cervix. **D** Gartner's cysts are in the vaginal wall, not through the os."
+    },
+    {
+      "id": "gp-q15",
+      "stem": "The day after vaginal hysterectomy and anterior repair, the catheter is removed. Six hours later she has lower abdominal discomfort and has passed only small amounts of urine. A bladder scan shows 650 mL. What is the MOST appropriate action?",
+      "options": [
+        "Give furosemide",
+        "Encourage oral fluids and review tomorrow",
+        "Re-catheterise (indwelling for 24–48 hours or intermittent), then repeat the trial of void, and check for UTI",
+        "Return to theatre for re-exploration",
+        "Start oxybutynin"
+      ],
+      "answer": 2,
+      "explanation": "**Post-operative urinary retention** is common after anterior repair (oedema, pain). Treat it with **catheterisation** and a repeat trial of void, and check for UTI. **A/B** worsen distension, which can damage the detrusor. **D** isn't indicated for simple retention. **E** Anticholinergics worsen retention."
+    }
+  ],
+  "cases": [
+    {
+      "id": "gp-c01",
+      "title": "Procidentia with a bleeding ulcer",
+      "presentation": "A 68-year-old para 10 from a rural village in Mukono is brought by her daughter to Mengo gynaecology clinic with 'the womb coming out' for 5 years. It has stayed out for 8 months, and it now bleeds and smells. She passes urine with difficulty.",
+      "steps": [
+        { "prompt": "What focused history do you take?", "answer": "- Duration, and whether she can push it back.\n- **Urinary**: retention, need to reduce to void, UTI, loin pain.\n- **Bowel**: constipation, splinting.\n- Bleeding or discharge.\n- Postmenopausal bleeding.\n- Sexual activity.\n- Parity and delivery history.\n- **Chronic cough**, heavy work.\n- Comorbidities (hypertension, diabetes, heart or lung disease).\n- Previous surgery.\n- Her own goals and her support at home." },
+        { "prompt": "Examination shows a complete irreducible procidentia with an oedematous everted vagina and a 3 × 3 cm ulcer on the anterior cervix. The bladder is palpable. What do you do first?", "answer": "1. **Catheterise**, noting the residual.\n2. Admit, with bed rest and the foot of the bed raised.\n3. **Reduce the oedema** with cold or hypertonic soaks, then **reduce the prolapse** gently.\n4. **Daily vaginal pack** (oestrogen cream-soaked if available).\n5. Swab and treat infection.\n6. Investigations: FBC, U&E, RBS, HIV, urinalysis and culture, **renal ultrasound**, pelvic ultrasound, and a chest assessment." },
+        { "prompt": "The renal scan shows bilateral moderate hydronephrosis and a creatinine of 160 µmol/L. Why, and what do you expect?", "answer": "The ureters are **kinked and compressed** by the prolapse through the levator hiatus, causing obstructive uropathy. After **reduction and catheter drainage**, the hydronephrosis and creatinine usually improve. Recheck the U&E and ultrasound. Adjust drug doses (e.g. avoid NSAIDs and nitrofurantoin while the eGFR is low)." },
+        { "prompt": "After 2 weeks the ulcer has not healed and looks raised and irregular. What next?", "answer": "**Biopsy** the ulcer to exclude **squamous cell carcinoma** of the cervix or vagina. If malignant, stage it and refer to the gynae-oncology / cancer institute pathway. If benign (decubitus), continue packing until it heals." },
+        { "prompt": "The biopsy is benign and the ulcer heals. What definitive treatment do you offer?", "answer": "If she is fit: **vaginal hysterectomy with McCall culdoplasty or uterosacral vault suspension, plus anterior and posterior colporrhaphy**, under spinal anaesthesia, with antibiotic and VTE prophylaxis. If she is frail and not sexually active: **colpocleisis**. Post-op: catheter and pack for 24 hours, trial of void, and treat the cough and constipation. No heavy lifting for 6+ weeks. PFMT." }
+      ],
+      "takeaway": "Before operating on procidentia: reduce it and pack it until the ulcer heals, relieve the retention, check the kidneys, and biopsy any ulcer that won't heal."
+    },
+    {
+      "id": "gp-c02",
+      "title": "A young mother with a bulge",
+      "presentation": "A 29-year-old para 3 (last delivery 8 months ago, a 4.1 kg baby after a 3-hour second stage at an HC III) reports a feeling of 'something at the opening', worse after carrying water, plus leakage of urine when she coughs. She wants one more child.",
+      "steps": [
+        { "prompt": "What will you examine for, and how?", "answer": "- Abdomen.\n- Vulva at rest and while straining.\n- **Cough test** for SUI.\n- **Sims speculum in the left lateral position** with straining: anterior, apical and posterior compartments.\n- **POP-Q**.\n- Bimanual exam.\n- Rectovaginal exam.\n- **Assess pelvic floor contraction** (the Oxford scale).\n- Look at the perineal body for an old tear." },
+        { "prompt": "She has a stage II cystocele (Ba −0.5), the cervix at −4 and a weak pelvic floor contraction. What is your management plan?", "answer": "**Conservative**, because she wants more children:\n- **Supervised PFMT for at least 16 weeks** (8–12 slow maximal contractions 3 times daily plus fast contractions, and the 'knack' before a cough or lift).\n- **Lifestyle**: avoid heavy loads, prevent constipation, weight.\n- A **ring pessary** if she remains symptomatic.\n- **Family planning** to space births.\n- Defer surgery until her family is complete." },
+        { "prompt": "How would you plan her next delivery?", "answer": "- Deliver in a **facility with a skilled attendant**, avoid a prolonged second stage and fundal pressure, and repair any tears well.\n- Vaginal birth is usually reasonable for mild prolapse. Discuss the risk of worsening.\n- Postnatal PFMT.\n- If she has had a previous prolapse **repair**, discuss CS." },
+        { "prompt": "What are you teaching her about why it happened?", "answer": "Stretching or tearing of the **levator ani**, fascia and pudendal nerve during a long delivery of a big baby **opened the levator hiatus** and weakened the **level II** (cystocele) support. Carrying heavy loads and straining keep pushing down. Strengthening the muscles and reducing strain can stop it getting worse." }
+      ],
+      "takeaway": "A young woman who wants more children needs conservative treatment: PFMT, lifestyle changes, a pessary and family planning. Surgery waits until her family is complete."
+    },
+    {
+      "id": "gp-c03",
+      "title": "Recurrence after hysterectomy",
+      "presentation": "A 61-year-old who had an abdominal hysterectomy for fibroids 6 years ago presents with a vaginal lump, difficulty emptying her bowel (she presses on the vagina to defaecate) and dyspareunia. She is sexually active and fit.",
+      "steps": [
+        { "prompt": "What compartments are likely involved, and why?", "answer": "**Vault prolapse** (a level I defect, possibly because the vault was not attached to the uterosacral–cardinal ligaments at hysterectomy), probably with an **enterocele** and/or **rectocele** (splinting to defaecate suggests a posterior compartment defect)." },
+        { "prompt": "How will you confirm this on examination?", "answer": "- **Sims speculum** with straining to watch the vault descend.\n- **POP-Q** point C.\n- **Rectovaginal exam**: small bowel between the fingers means an enterocele; the rectum bulging means a rectocele.\n- Assess the perineal body and the anal sphincter.\n- Cough test for SUI." },
+        { "prompt": "What are her surgical options, with their pros and cons?", "answer": "**1. Sacrospinous fixation (vaginal) ± posterior repair.**\n- Pros: vaginal, avoids mesh, shorter recovery.\n- Cons: buttock pain, pudendal injury, anterior recurrence.\n\n**2. Abdominal or laparoscopic sacrocolpopexy.**\n- Pros: most durable, preserves vaginal length and axis for intercourse.\n- Cons: mesh erosion, bowel or vascular injury, a longer operation.\n\n**3. Colpocleisis.** Not suitable, because she is sexually active." },
+        { "prompt": "What peri-operative measures reduce her risk of another recurrence?", "answer": "- Treat **constipation** (fibre, lactulose) and **cough**.\n- Weight control.\n- **Avoid heavy lifting**.\n- Vaginal oestrogen if atrophic.\n- **Lifelong PFMT**.\n- Correct technique: address all compartments at surgery." }
+      ],
+      "takeaway": "Every hysterectomy must include vault support. When prolapse recurs, identify every compartment involved, and choose the operation to suit her sexual function and fitness."
+    }
+  ],
+  "references": [
+    { "title": "Urinary incontinence and pelvic organ prolapse in women: management (NICE guideline NG123)", "source": "National Institute for Health and Care Excellence", "year": 2019, "url": "https://www.nice.org.uk/guidance/ng123" },
+    { "title": "Pelvic Organ Prolapse (ACOG Practice Bulletin No. 214, joint with AUGS)", "source": "American College of Obstetricians and Gynecologists", "year": 2019 },
+    { "title": "The standardization of terminology of female pelvic organ prolapse and pelvic floor dysfunction (POP-Q), Bump RC et al.", "source": "American Journal of Obstetrics and Gynecology", "year": 1996 },
+    { "title": "Anatomic aspects of vaginal eversion after hysterectomy (the three levels of vaginal support), DeLancey JOL", "source": "American Journal of Obstetrics and Gynecology", "year": 1992 },
+    { "title": "An International Urogynecological Association (IUGA) / International Continence Society (ICS) joint report on the terminology for female pelvic organ prolapse, Haylen BT et al.", "source": "International Urogynecology Journal", "year": 2016 },
+    { "title": "Conservative prevention and management of pelvic organ prolapse in women (Cochrane Review), Hagen S, Stark D", "source": "Cochrane Database of Systematic Reviews", "year": 2011 },
+    { "title": "Gynaecology by Ten Teachers, 20th edition (Chapter on Pelvic organ prolapse)", "source": "CRC Press", "year": 2017 },
+    { "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf" }
+  ]
+}

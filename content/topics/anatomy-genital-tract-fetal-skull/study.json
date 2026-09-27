@@ -1,0 +1,273 @@
+{
+  "slug": "anatomy-genital-tract-fetal-skull",
+  "flashcards": [
+    { "id": "agt-f01", "front": "Diameters of the pelvic inlet (AP, oblique, transverse)", "back": "**AP (obstetric conjugate) about 11 cm**, oblique about 12 cm, **transverse about 13 cm**. The widest diameter is transverse, so the head **enters in the occipito-transverse position**." },
+    { "id": "agt-f02", "front": "Diameters of the pelvic outlet", "back": "**AP about 13 cm** (coccyx displaced back), oblique about 12 cm, **transverse (intertuberous) about 11 cm**. The widest is AP, so the head **delivers OA**." },
+    { "id": "agt-f03", "front": "Narrowest part of the pelvis, and why it matters", "back": "The **mid-pelvis at the ischial spines**: **interspinous about 10 cm**. It is the reference point for **station (0)** and the level of internal rotation; prominent spines (android pelvis) cause **deep transverse arrest**." },
+    { "id": "agt-f04", "front": "Obstetric vs diagonal conjugate", "back": "**Obstetric conjugate:** promontory to the nearest point on the posterior symphysis, about 10.5–11 cm (the smallest AP the head must pass).\n**Diagonal conjugate:** promontory to the lower border of the symphysis, about 12.5 cm, measured on VE.\nObstetric ≈ diagonal − 1.5 cm." },
+    { "id": "agt-f05", "front": "Four pelvic types (Caldwell–Moloy)", "back": "**Gynaecoid** (round, about 50%, ideal); **Android** (heart-shaped, prominent spines, narrow arch: deep transverse arrest, OP); **Anthropoid** (long AP oval: direct OP possible); **Platypelloid** (flat: transverse arrest at the inlet)." },
+    { "id": "agt-f06", "front": "Fetal skull diameters: the 6 AP diameters", "back": "Suboccipitobregmatic **9.5** (flexed vertex); suboccipitofrontal **10**; occipitofrontal **11.5** (deflexed/OP); mentovertical **13–13.5** (brow); submentovertical **11.5**; submentobregmatic **9.5** (face)." },
+    { "id": "agt-f07", "front": "Transverse diameters of the fetal skull", "back": "**Biparietal 9.5 cm** (the widest; passing the brim = engagement); **bitemporal 8 cm**; bimastoid 7.5 cm." },
+    { "id": "agt-f08", "front": "Anterior vs posterior fontanelle", "back": "**Anterior (bregma):** diamond, **4 sutures** (frontal, sagittal, 2 coronal), large, closes at about **18 months**.\n**Posterior (lambda):** triangle/Y, **3 sutures** (sagittal, 2 lambdoid), small, closes at **6–8 weeks**." },
+    { "id": "agt-f09", "front": "Grades of moulding", "back": "**0**: bones separated. **+1**: touching. **+2**: overlapping but reducible. **+3**: overlapping and **not reducible**, suggesting **CPD**." },
+    { "id": "agt-f10", "front": "Caput succedaneum vs cephalhaematoma vs subgaleal haemorrhage", "back": "**Caput:** scalp oedema, **crosses sutures**, present at birth, resolves in days.\n**Cephalhaematoma:** subperiosteal, **does not cross sutures**, appears after hours, jaundice.\n**Subgaleal:** under the aponeurosis, crosses sutures, fluctuant, **can cause shock** (vacuum)." },
+    { "id": "agt-f11", "front": "Relationship of the uterine artery to the ureter", "back": "The uterine artery (anterior division of the internal iliac) crosses **above/anterior** to the ureter about **1.5–2 cm lateral to the cervix** at the level of the internal os: **'water under the bridge'**." },
+    { "id": "agt-f12", "front": "Main supports of the uterus", "back": "**Cardinal (transverse cervical/Mackenrodt's)** and **uterosacral** ligaments, **pubocervical** fascia, and the **levator ani** (pelvic floor). The round and broad ligaments are **not** true supports." },
+    { "id": "agt-f13", "front": "Pudendal nerve: roots, course, and where to block it", "back": "**S2–S4.** Leaves via the greater sciatic foramen, passes **behind the ischial spine/sacrospinous ligament**, and re-enters via the lesser sciatic foramen into **Alcock's canal**. Block: **just medial and posterior to the tip of the ischial spine**, aspirating first (internal pudendal vessels)." },
+    { "id": "agt-f14", "front": "Nerve pathways of labour pain", "back": "**First stage** (uterus, cervix): visceral afferents to **T10–L1**.\n**Second stage** (vagina, perineum): **pudendal nerve S2–S4**." },
+    { "id": "agt-f15", "front": "Ovarian blood supply and lymph drainage", "back": "**Ovarian artery from the aorta (L2).** Right ovarian vein to the **IVC**; left to the **left renal vein**. Lymph to the **para-aortic nodes**." },
+    { "id": "agt-f16", "front": "Parts of the fallopian tube and the commonest ectopic site", "back": "Interstitial, isthmus, **ampulla** (site of fertilisation and about 70–80% of ectopics), infundibulum with fimbriae. Total about 10 cm." },
+    { "id": "agt-f17", "front": "Lower vs upper uterine segment", "back": "**LUS:** from the isthmus (from about 28 weeks), thin, passive, loosely attached peritoneum; the **transverse CS** incision gives less bleeding and a stronger scar.\n**Upper segment:** thick, contracts and retracts; classical incision has a higher rupture risk." },
+    { "id": "agt-f18", "front": "Why do myometrial fibres stop bleeding after delivery?", "back": "The **middle myometrial layer** has interlacing (figure-of-eight) fibres around the vessels. When the uterus contracts they kink and compress the vessels: the **'living ligatures'**. Atony means they fail, causing PPH." },
+    { "id": "agt-f19", "front": "Lymph drainage of the vulva, cervix and uterine body", "back": "**Vulva/lower vagina:** superficial inguinal nodes.\n**Cervix:** parametrial, obturator, internal/external iliac nodes.\n**Uterine body:** iliac and para-aortic nodes (some to the inguinal nodes via the round ligament)." },
+    { "id": "agt-f20", "front": "What is a Bandl's ring?", "back": "A **pathological retraction ring**: the rising junction between the thick retracting upper segment and the overstretched thin lower segment in **obstructed labour**. It warns of **impending uterine rupture**." }
+  ],
+  "mcqs": [
+    {
+      "id": "agt-q01",
+      "stem": "A 25-year-old primigravida is in labour at term. On VE the cervix is 9 cm dilated. You feel a large diamond-shaped depression with four sutures, supraorbital ridges and the root of the nose. The head is 3/5 palpable abdominally. What is the presenting diameter?",
+      "options": [
+        "Suboccipitobregmatic, 9.5 cm",
+        "Occipitofrontal, 11.5 cm",
+        "Submentobregmatic, 9.5 cm",
+        "Mentovertical, 13–13.5 cm",
+        "Biparietal, 9.5 cm"
+      ],
+      "answer": 3,
+      "explanation": "Anterior fontanelle + **supraorbital ridges + root of the nose** means a **brow presentation**, presenting the **mentovertical diameter (13–13.5 cm)**, the largest. It cannot pass a normal pelvis at term, so a CS is needed. A is a flexed vertex. B is deflexed/OP (no orbital ridges felt). C is a face presentation (mouth and malar bones felt). E is a transverse diameter, not the presenting AP diameter."
+    },
+    {
+      "id": "agt-q02",
+      "stem": "On VE in the active phase, you feel the sagittal suture in the right oblique diameter, with a small triangular fontanelle with three sutures anteriorly and to the left. What is the position?",
+      "options": [
+        "Right occipito-anterior (ROA)",
+        "Left occipito-anterior (LOA)",
+        "Left occipito-posterior (LOP)",
+        "Right occipito-posterior (ROP)",
+        "Direct occipito-anterior"
+      ],
+      "answer": 1,
+      "explanation": "The **posterior fontanelle** (small, 3 sutures, Y) marks the **occiput**. It is **anterior and on the mother's left**, so **LOA**, the commonest and most favourable position. A would have the occiput anterior-right. C and D would place the posterior fontanelle posteriorly. E would place the sagittal suture in the AP diameter."
+    },
+    {
+      "id": "agt-q03",
+      "stem": "During a caesarean hysterectomy for uncontrollable PPH at a HC IV, which step BEST prevents ureteric injury when securing the uterine vessels?",
+      "options": [
+        "Clamp the uterine vessels as laterally as possible at the pelvic side wall",
+        "Ligate the internal iliac artery first in every case",
+        "Avoid reflecting the bladder",
+        "Clamp the infundibulopelvic ligament close to the pelvic brim without identifying the ureter",
+        "Reflect the bladder down and clamp the uterine vessels close to the uterus at the level of the internal os"
+      ],
+      "answer": 4,
+      "explanation": "The ureter passes **under the uterine artery about 1.5–2 cm lateral to the cervix**. Pushing the **bladder** (and with it the ureters) down and clamping **close to the uterus** avoids it. A takes you towards the ureter. B is not routinely needed and has its own risks. C increases bladder and ureteric risk. D is a classic site of ureteric injury at the pelvic brim."
+    },
+    {
+      "id": "agt-q04",
+      "stem": "A 17-year-old primigravida, 145 cm tall, has been in labour for 18 hours at a HC III. The cervix is 7 cm with oedema, unchanged for 4 hours despite good contractions; there is moulding +3 and a large caput; the head is 3/5 palpable. The FHR is 150 bpm. What is the MOST appropriate management?",
+      "options": [
+        "Resuscitate (IV fluids, catheter, antibiotics) and refer urgently for caesarean section",
+        "Start oxytocin augmentation",
+        "Perform artificial rupture of membranes and reassess in 4 hours",
+        "Vacuum delivery",
+        "Encourage her to push"
+      ],
+      "answer": 0,
+      "explanation": "Short stature, adolescence, **+3 moulding**, **large caput**, **a high head (3/5)** and arrest despite **adequate contractions** mean **CPD/obstructed labour**. She needs resuscitation (fluids, **bladder catheter**, antibiotics) and **CS**. B: oxytocin in obstruction risks **uterine rupture**. C wastes time. D: vacuum needs full dilatation and an engaged head (2/5 or less). E: she is not fully dilated."
+    },
+    {
+      "id": "agt-q05",
+      "stem": "Which structure is the PRINCIPAL ligamentous support of the uterus, damage to which contributes to uterovaginal prolapse?",
+      "options": [
+        "Round ligament",
+        "Broad ligament",
+        "Cardinal (transverse cervical) ligament",
+        "Ovarian ligament",
+        "Infundibulopelvic ligament"
+      ],
+      "answer": 2,
+      "explanation": "The **cardinal ligaments** (with the uterosacral ligaments and levator ani) are the main supports. A: the round ligament maintains anteversion but gives little support. B: the broad ligament is a peritoneal fold. D and E suspend the ovary."
+    },
+    {
+      "id": "agt-q06",
+      "stem": "You need to perform a pudendal block before an outlet vacuum delivery. Which landmark do you palpate vaginally to guide the needle?",
+      "options": [
+        "Sacral promontory",
+        "Coccyx",
+        "Ischial spine",
+        "Ischial tuberosity",
+        "Pubic symphysis"
+      ],
+      "answer": 2,
+      "explanation": "The **pudendal nerve (S2–S4)** passes **behind the ischial spine** at the sacrospinous ligament. Inject just **medial and posterior to the tip of the spine**, after aspirating. The other landmarks are not related to the nerve's accessible course. The tuberosity (D) is used for a perineal (transperineal) approach, which is less reliable."
+    },
+    {
+      "id": "agt-q07",
+      "stem": "A newborn delivered by vacuum 6 hours ago has a boggy, fluctuant swelling extending from the forehead to the nape of the neck, crossing suture lines. HR 175 bpm, pale, capillary refill 4 seconds. What is the MOST likely diagnosis and priority?",
+      "options": [
+        "Caput succedaneum; reassure",
+        "Cephalhaematoma; aspirate it",
+        "Chignon; will resolve in hours",
+        "Cephalhaematoma; phototherapy",
+        "Subgaleal haemorrhage; urgent volume resuscitation and blood transfusion"
+      ],
+      "answer": 4,
+      "explanation": "A fluctuant swelling that **crosses sutures** and extends to the neck, after **vacuum**, with **tachycardia and poor perfusion**, is a **subgaleal haemorrhage**. The subaponeurotic space can hold much of a neonate's blood volume, so this is an emergency. A: caput is present at birth and does not cause shock. B and D: a cephalhaematoma is limited by the sutures, and it should never be aspirated. C: a chignon is localised to the cup site."
+    },
+    {
+      "id": "agt-q08",
+      "stem": "In the second stage, the head has been at station +1 for 1 hour with the sagittal suture in the transverse diameter. Contractions are good. The pelvis has prominent ischial spines and a narrow subpubic arch. What is the diagnosis and the likely pelvic type?",
+      "options": [
+        "Occipito-posterior position; anthropoid pelvis",
+        "Deep transverse arrest; android pelvis",
+        "Brow presentation; gynaecoid pelvis",
+        "Normal progress; gynaecoid pelvis",
+        "Obstruction at the inlet; platypelloid pelvis"
+      ],
+      "answer": 1,
+      "explanation": "A head arrested **at or below the spines** with the sagittal suture **transverse** is **deep transverse arrest**. It is classically associated with the **android pelvis** (prominent spines, narrow arch). Management is rotation (manual or ventouse by an experienced operator) or CS. A: an anthropoid pelvis favours OA or direct OP. C: no brow findings. D: there is no progress. E: the head is below the inlet."
+    },
+    {
+      "id": "agt-q09",
+      "stem": "A 30-year-old woman has a left adnexal mass. The surgeon warns that the ovarian lymphatics drain to a distant group of nodes. Which nodes?",
+      "options": [
+        "Superficial inguinal",
+        "Internal iliac",
+        "Obturator",
+        "Para-aortic nodes at the level of the renal vessels",
+        "Sacral"
+      ],
+      "answer": 3,
+      "explanation": "The ovaries descend from the posterior abdominal wall, so their vessels (the ovarian artery from the aorta at L2) and lymphatics run back up to the **para-aortic nodes**. A drains the vulva and lower vagina. B, C and E drain the cervix and upper vagina."
+    },
+    {
+      "id": "agt-q10",
+      "stem": "A woman with a transverse lower segment CS scar asks why her risk of rupture in the next labour is lower than her friend's, who had a 'classical' CS. What is the BEST anatomical explanation?",
+      "options": [
+        "The lower segment is thin, passive and does not contract actively in labour, so its scar is under less strain and heals well",
+        "The lower segment has more muscle, so it heals better",
+        "The classical incision avoids the placental site",
+        "The lower segment is supplied by the ovarian artery",
+        "The upper segment has no peritoneal covering"
+      ],
+      "answer": 0,
+      "explanation": "The **lower segment** (from the isthmus) is **thin and passive** and is not the contractile engine of labour. A transverse scar there has a rupture risk of about **0.5–1%**, compared with about **4–9%** for a **classical (upper segment) scar**, which is stretched by strong contractions. B: it has **less** muscle. C, D and E are false."
+    },
+    {
+      "id": "agt-q11",
+      "stem": "A 28-year-old P3 is in labour at a HC IV. She had a normal vaginal delivery of a 3.6 kg baby 2 years ago. On VE the diagonal conjugate cannot be reached. The student wants to request X-ray pelvimetry. What is the MOST appropriate response?",
+      "options": [
+        "Agree; pelvimetry is needed for all multiparous women",
+        "Explain that her previous vaginal delivery of a good-sized baby and the clinical findings suggest an adequate pelvis; X-ray pelvimetry is not routinely useful",
+        "Perform an elective caesarean section",
+        "Request a CT pelvimetry instead",
+        "Measure the intertuberous diameter with an X-ray"
+      ],
+      "answer": 1,
+      "explanation": "The **best pelvimeter is a previous vaginal delivery** of a good-sized baby. Not reaching the promontory means a diagonal conjugate over about 12 cm. **Radiological pelvimetry does not improve outcomes** and is not recommended routinely. A, D and E add radiation without benefit. C is not indicated."
+    },
+    {
+      "id": "agt-q12",
+      "stem": "After a 2-day obstructed labour ending in a CS for a stillbirth, a 19-year-old develops continuous leakage of urine from the vagina on day 8. What is the anatomical mechanism?",
+      "options": [
+        "Pudendal nerve damage causing stress incontinence",
+        "Surgical ligation of the ureter",
+        "Detrusor overactivity",
+        "Prolonged compression of the bladder base and anterior vaginal wall between the fetal head and the pubic symphysis, causing ischaemic necrosis (vesicovaginal fistula)",
+        "Rupture of the urethra during delivery"
+      ],
+      "answer": 3,
+      "explanation": "Obstructed labour traps the **anterior vaginal wall and bladder base** between the fetal head and the **pubic bones**. Ischaemic necrosis sloughs at about **5–10 days**, causing a **vesicovaginal fistula** with continuous leakage. Prevention: **catheterise** in obstructed labour and keep the catheter for 10–14 days. A causes stress incontinence, not continuous leakage. B is possible after CS but is less likely than the classic pressure-necrosis story. C and E do not fit."
+    },
+    {
+      "id": "agt-q13",
+      "stem": "During a repair of a second-degree tear, which step is MOST important to prevent a missed anal sphincter injury and rectovaginal fistula?",
+      "options": [
+        "Using non-absorbable sutures",
+        "Suturing the skin first",
+        "Leaving the perineal muscles unsutured",
+        "Inserting a vaginal pack for 48 hours",
+        "Performing a rectal examination before and after the repair"
+      ],
+      "answer": 4,
+      "explanation": "A **rectal examination before** the repair identifies 3rd/4th degree tears (the anal sphincter complex). One **after** the repair confirms that no suture has passed into the rectum (which can cause a fistula). A: use absorbable polyglactin. B: repair in layers from the vaginal apex down. C leaves the perineal body weak. D is not routine."
+    },
+    {
+      "id": "agt-q14",
+      "stem": "A woman at 36 weeks has a head that is 2/5 palpable above the brim. What does this indicate?",
+      "options": [
+        "The head is engaged: the biparietal diameter has passed through the pelvic brim",
+        "The head is not engaged",
+        "The head is at station +3",
+        "Cephalopelvic disproportion",
+        "Placenta praevia"
+      ],
+      "answer": 0,
+      "explanation": "Engagement means the **widest transverse diameter (biparietal, 9.5 cm)** has passed the brim, which corresponds to **2/5 or less palpable** abdominally. B: 3/5 or more is unengaged. C: station +3 is near the outlet (0/5). D and E suggest a **high** head, not an engaged one."
+    },
+    {
+      "id": "agt-q15",
+      "stem": "After a delivery with massive PPH, a surgeon at a regional referral hospital performs bilateral internal iliac (anterior division) ligation. The medical student asks why the uterus does not become necrotic. What is the BEST answer?",
+      "options": [
+        "The uterus is supplied only by the ovarian arteries",
+        "The uterine artery arises from the external iliac artery",
+        "Ligation reduces pulse pressure but collateral anastomoses (ovarian, lumbar, middle sacral, and others) maintain perfusion",
+        "The ligation is always temporary",
+        "The uterus does not need blood after delivery"
+      ],
+      "answer": 2,
+      "explanation": "Internal iliac ligation **reduces pulse pressure** distal to the tie (turning arterial flow into something more like venous flow, which helps clotting), but rich **collaterals** (the ovarian artery anastomosis with the uterine artery, lumbar, iliolumbar and middle sacral arteries) keep the uterus alive, and future fertility has been reported. A and B are anatomically wrong. D: the ligatures are permanent. E is false."
+    }
+  ],
+  "cases": [
+    {
+      "id": "agt-c01",
+      "title": "The high head at full dilatation",
+      "presentation": "Namutebi, an 18-year-old G1, 148 cm tall, is referred from a HC III to a HC IV after 20 hours of labour. The referral note says 'fully dilated for 2 hours, not delivering'. She is exhausted and has a temperature of 37.9 °C.",
+      "steps": [
+        { "prompt": "What will you look for on abdominal examination, and why?", "answer": "**Fifths of the head palpable** (3/5 or more at full dilatation means obstruction); a **Bandl's ring** and tense, tender lower segment (**impending rupture**); a distended bladder; contractions (frequency, strength); FHR; maternal pulse and signs of dehydration. Also check for a **visible bladder** and haematuria." },
+        { "prompt": "Abdomen: head 3/5 palpable, Bandl's ring at the umbilicus, FHR 172 bpm. VE: fully dilated but oedematous anterior lip, large caput reaching the spines, moulding +3, sagittal suture transverse. Interpret this.", "answer": "**Obstructed labour from CPD** (short adolescent pelvis) with **impending uterine rupture** (Bandl's ring) and **fetal distress**. The **caput** reaching the spines is **misleading**: the bony head is still high (3/5). She may also have intrapartum sepsis (fever)." },
+        { "prompt": "What is your immediate management at the HC IV?", "answer": "Call the MO and theatre. **2 large-bore IV cannulae**, blood for Hb and **grouping and cross-match**, **IV fluids** (Ringer's lactate), **catheterise** (drain the bladder and monitor output), **antibiotics** (ampicillin 2 g IV + gentamicin 5 mg/kg IV + metronidazole 500 mg IV), **no oxytocin**, no vacuum, and move to theatre for an **emergency CS**." },
+        { "prompt": "What anatomical difficulties do you anticipate at CS, and how will you handle them?", "answer": "A **deeply impacted head** in the pelvis (an assistant pushes up from the vagina; or reverse breech extraction), a **thin, oedematous lower segment** at risk of lateral extensions into the **uterine vessels and broad ligament** (make a careful incision, curve it upwards, identify the **ureter** before suturing extensions), a bladder **pulled up** on the lower segment (reflect it carefully), and **PPH** from atony (oxytocin infusion, tranexamic acid)." },
+        { "prompt": "What postoperative anatomy-related complication must you prevent, and how?", "answer": "**Obstetric fistula (VVF)** from pressure necrosis of the bladder base against the pubis: keep an **indwelling catheter for 10–14 days**, monitor for continuous leakage, and ensure good hydration. Also watch for **foot drop** (lumbosacral trunk compression), sepsis and PPH. Counsel her that she will need a **hospital birth (CS)** next time." }
+      ],
+      "takeaway": "Caput can fool your fingers: always correlate the VE station with the abdominal fifths. In obstructed labour, resuscitate, catheterise, give antibiotics and deliver by CS, and never give oxytocin."
+    },
+    {
+      "id": "agt-c02",
+      "title": "Reading the head on VE",
+      "presentation": "Kyomugisha, a 27-year-old G2P1, is in labour at Mengo Hospital. Her first baby (3.4 kg) was delivered vaginally. At 4 hours after admission she is 8 cm dilated and complains of severe backache.",
+      "steps": [
+        { "prompt": "On VE you feel a large diamond-shaped fontanelle anteriorly on the right. What is the position, and what diameter is presenting?", "answer": "The **anterior fontanelle** (4 sutures, diamond) is anterior-right, so the **occiput is posterior-left: left occipito-posterior (LOP)**, with a **deflexed head** presenting the **occipitofrontal diameter (11.5 cm)** or suboccipitofrontal (10 cm). This explains the **backache** and slower progress." },
+        { "prompt": "What anatomical factors will help this labour?", "answer": "Her **previous 3.4 kg vaginal delivery** (proven pelvis), good contractions, **flexion** as the head meets the pelvic floor, and the **levator ani gutter** promoting **long anterior rotation** (about 3/8 of a circle) to OA. Most OP positions rotate spontaneously." },
+        { "prompt": "Two hours later she is fully dilated, the head is 1/5 palpable, at station +2, and still OP after 1 hour of pushing. The FHR is normal. What are the options?", "answer": "**Direct OP ('face to pubes') delivery** can occur (more perineal trauma, so consider an **episiotomy**); **manual rotation**; or **ventouse** (rotational with a posterior cup, e.g. Kiwi OmniCup) by a trained operator if criteria are met (fully dilated, head 1/5 or less, known position, ruptured membranes, adequate contractions, empty bladder). CS if the instrumental attempt fails or criteria are not met." },
+        { "prompt": "She delivers direct OP with a mediolateral episiotomy. How will you repair it?", "answer": "Do a **rectal exam first** to exclude an OASIS. **Lidocaine** top-up. **Polyglactin 2-0**: vaginal epithelium continuously from **1 cm above the apex** to the hymen; **perineal muscles** (bulbospongiosus, transverse perineal) to rebuild the **perineal body**; a **subcuticular** skin suture. Rectal exam after, and a swab and needle count." },
+        { "prompt": "What would you check in the newborn?", "answer": "Moulding and caput (expected), a **cephalhaematoma** or, if a ventouse was used, a **subgaleal haemorrhage** (check HR, pallor and a boggy swelling crossing sutures), and facial or scalp abrasions. Give vitamin K." }
+      ],
+      "takeaway": "Count the sutures at the fontanelle to name the position. OP means a deflexed head with a bigger diameter and backache, and most OP positions rotate if powers and the pelvis are adequate."
+    },
+    {
+      "id": "agt-c03",
+      "title": "Bleeding at the corner of the CS incision",
+      "presentation": "During an emergency CS at a regional referral hospital for obstructed labour, the lower segment incision extends laterally on the left, with brisk bleeding from the broad ligament. The intern is assisting you.",
+      "steps": [
+        { "prompt": "What are your first actions?", "answer": "**Apply pressure** with a pack, tell the anaesthetist (**blood loss, cross-match, fluids, tranexamic acid 1 g IV**), call for **senior help**, and improve exposure (extend the skin incision, retractors, suction, exteriorise the uterus if needed)." },
+        { "prompt": "Which structures are at risk, and where exactly?", "answer": "The **uterine artery and vein** (running up the lateral uterine border from the base of the broad ligament) and the **ureter**, which lies **under the uterine artery about 1.5–2 cm lateral to the cervix** at the level of the internal os. The **bladder** is also at risk if the extension runs downwards." },
+        { "prompt": "How do you secure haemostasis safely?", "answer": "Identify the **apex of the tear**. Palpate the ureter (between thumb and finger at the base of the broad ligament, or trace it from the pelvic brim), then place sutures **close to the uterus**. If needed, do a **uterine artery ligation (O'Leary)**: a suture passed through the myometrium 2–3 cm medial to the vessels at the lower segment level. If bleeding persists, do an internal iliac ligation or hysterectomy by an experienced surgeon." },
+        { "prompt": "After surgery she has flank pain, fever and poor urine output. What do you suspect and how do you investigate?", "answer": "**Ureteric injury** (ligation or kinking). Check **creatinine** (it rises), do an **ultrasound** (hydronephrosis), and if available a **CT urogram** or IVU. Involve a urologist for stenting, deligation or reimplantation. Leakage of urine from the vagina days later suggests a **ureterovaginal fistula**." },
+        { "prompt": "How could this have been prevented?", "answer": "Make a **transverse incision curved upwards laterally**, and in obstructed labour use a gentle **blunt extension (fingers)** of the incision. Deliver an impacted head carefully (a vaginal push-up or reverse breech extraction) to avoid tearing, **reflect the bladder**, and have the anatomy of the ureter and uterine artery firmly in mind." }
+      ],
+      "takeaway": "'Water under the bridge': when a lateral CS extension bleeds, pack, get help, and suture close to the uterus after locating the ureter."
+    }
+  ],
+  "references": [
+    { "title": "Delivery, Face and Brow Presentation (StatPearls)", "source": "NCBI Bookshelf", "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK567727/" },
+    { "title": "Fetal head: diameters, sutures and fontanelles", "source": "ScienceDirect Topics (Elsevier)", "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/fetal-head" },
+    { "title": "Fetal head", "source": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Fetal_head" },
+    { "title": "Pelvis and Fetal Skull (textbook chapter)", "source": "Jaypee Digital", "url": "https://www.jaypeedigital.com/eReader/chapter/9789385999543/ch1" },
+    { "title": "Fetal Skull Anatomy: Sutures, Diameters & Quiz", "source": "Midwives Revision Uganda", "url": "https://midwivesrevisionuganda.com/fetal-skull/" },
+    { "title": "Fetal Skull Dimensions: Mnemonic", "source": "Epomedicine", "url": "https://epomedicine.com/medical-students/fetal-skull-dimensions-mnemonic/" },
+    { "title": "Uganda Clinical Guidelines 2023 (Obstetric conditions: obstructed labour, perineal tears, PPH)", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf" },
+    { "title": "Essential Maternal and Newborn Clinical Care Guidelines for Uganda", "source": "Ministry of Health Uganda", "year": 2016, "url": "https://library.health.go.ug/sites/default/files/resources/Essential%20Maternal%20&%20Neonatal%20Care%20Clinical%20Guidelines%20-%202016%20fully%20edited.pdf" }
+  ]
+}
