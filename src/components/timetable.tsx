@@ -27,19 +27,26 @@ const CAT_OF: Record<SessionMode, Cat> = {
   Paediatrics: "routine",
 };
 
-const CATS: { id: Cat; label: string; block: string; label_: string; dot: string }[] = [
-  { id: "lecture", label: "Lectures", block: "bg-lilac-soft border-l-lilac", label_: "text-lilac-text", dot: "bg-lilac" },
-  { id: "tutorial", label: "Tutorials", block: "bg-brand-soft border-l-brand", label_: "text-brand-text", dot: "bg-brand" },
-  { id: "skills", label: "Skills sessions", block: "bg-peach-soft border-l-peach", label_: "text-peach-text", dot: "bg-peach" },
-  { id: "bedside", label: "Bedside teaching", block: "bg-accent-soft border-l-accent", label_: "text-accent-text", dot: "bg-accent" },
-  { id: "rounds", label: "Ward & grand rounds", block: "bg-steel-soft border-l-steel", label_: "text-steel-text", dot: "bg-steel" },
-  { id: "assessment", label: "Assessment", block: "bg-bad-soft border-l-bad", label_: "text-bad", dot: "bg-bad" },
-  { id: "routine", label: "Clinical work & paeds", block: "routine border-l-line-strong", label_: "text-ink-3", dot: "bg-line-strong" },
+// `tone` names the CSS colour tokens (--x, --x-soft, --x-text) used for the card.
+const CATS: { id: Cat; label: string; tone: string; dot: string; muted?: boolean }[] = [
+  { id: "lecture", label: "Lectures", tone: "lilac", dot: "bg-lilac" },
+  { id: "tutorial", label: "Tutorials", tone: "brand", dot: "bg-brand" },
+  { id: "skills", label: "Skills", tone: "peach", dot: "bg-peach" },
+  { id: "bedside", label: "Bedside teaching", tone: "accent", dot: "bg-accent" },
+  { id: "assessment", label: "Assessment", tone: "ink", dot: "bg-ink" },
+  { id: "rounds", label: "Ward rounds", tone: "steel", dot: "bg-steel", muted: true },
+  { id: "routine", label: "Clinical work", tone: "ink-3", dot: "bg-line-strong", muted: true },
 ];
 const CAT = Object.fromEntries(CATS.map((c) => [c.id, c])) as Record<Cat, (typeof CATS)[number]>;
 
-const START_H = 8;
-const END_H = 18;
+/** Visible hour range for a set of sessions (whole hours, at least 08:00–17:00). */
+function hourRange(evs: { start: number; end: number }[]) {
+  if (!evs.length) return { from: 8, to: 17 };
+  return {
+    from: Math.min(8, Math.floor(Math.min(...evs.map((e) => e.start)))),
+    to: Math.max(17, Math.ceil(Math.max(...evs.map((e) => e.end)))),
+  };
+}
 
 interface Ev extends EffectiveSession {
   start: number;
@@ -74,14 +81,6 @@ function layoutDay(items: EffectiveSession[]): Ev[] {
   return evs;
 }
 
-function prepLabel(state: StudyState, topic?: string) {
-  if (!topic) return null;
-  const st = state.topics[topic]?.status;
-  if (st === "done") return { text: "Prepared", cls: "text-good", done: true };
-  if (st === "in_progress") return { text: "Studying", cls: "text-lilac-text", done: false };
-  return { text: "Not prepared yet", cls: "text-ink-3", done: false };
-}
-
 export function Timetable({ sessions, titles }: { sessions: Session[]; titles: Record<string, string> }) {
   const { state } = useStudy();
   const now = useNow();
@@ -103,6 +102,7 @@ export function Timetable({ sessions, titles }: { sessions: Session[]; titles: R
   const byDay: Record<number, Ev[]> = Object.fromEntries(days.map((d) => [d, layoutDay(visible.filter((s) => s.day === d))]));
 
   const nowH = now ? new Date(now).getHours() + new Date(now).getMinutes() / 60 : -1;
+  const weekHours = hourRange(days.flatMap((d) => byDay[d]));
   const first = addDays(info.start, days[0]);
   const last = addDays(info.start, days[4]);
   const range = `${first.getDate()}–${last.getDate()} ${formatDay(last, { month: "short" })}`;
@@ -168,11 +168,11 @@ export function Timetable({ sessions, titles }: { sessions: Session[]; titles: R
               onClick={() => toggle(c.id)}
               aria-pressed={on}
               className={clsx(
-                "flex shrink-0 items-center gap-1.5 rounded-lg border px-2.5 py-1 text-[12.5px] font-medium transition",
-                on ? "border-line-strong bg-surface text-ink" : "border-line bg-transparent text-ink-3 line-through decoration-ink-3/50",
+                "flex shrink-0 items-center gap-1.5 rounded-full px-2.5 py-1 text-[12.5px] transition",
+                on ? "bg-surface text-ink shadow-[0_0_0_1px_var(--line)]" : "text-ink-3 hover:text-ink-2",
               )}
             >
-              <span className={clsx("h-2 w-2 rounded-[3px]", c.dot, !on && "opacity-40")} />
+              <span className={clsx("h-2 w-2 rounded-full", on ? c.dot : "border border-line-strong bg-transparent")} />
               {c.label}
             </button>
           );
@@ -204,36 +204,43 @@ export function Timetable({ sessions, titles }: { sessions: Session[]; titles: R
         <>
           {/* Desktop week grid */}
           <div className="card hidden overflow-hidden md:block">
-            <div className="grid grid-cols-[60px_repeat(5,minmax(0,1fr))] border-b border-line">
+            <div className="grid grid-cols-[56px_repeat(5,minmax(0,1fr))] border-b border-line">
               <div />
               {days.map((d) => {
                 const date = addDays(info.start, d);
                 const isToday = d === todayIdx;
                 return (
-                  <div key={d} className={clsx("flex items-center gap-2 border-l border-line/70 px-3.5 py-3", isToday && "bg-brand-soft/40")}>
-                    <span className={clsx("text-[12px]", isToday ? "font-medium text-brand-text" : "text-ink-3")}>
-                      {formatDay(date, { weekday: "short" })}
+                  <div key={d} className="flex items-baseline gap-1.5 border-l border-line px-3 pb-2.5 pt-3">
+                    <span className={clsx("text-[12px] font-medium", isToday ? "text-brand-text" : "text-ink-3")}>{formatDay(date, { weekday: "short" })}</span>
+                    <span
+                      className={clsx(
+                        "text-[15px] font-semibold tabular-nums",
+                        isToday && "grid h-6 min-w-6 place-items-center rounded-full bg-brand px-1 text-[13px] text-white",
+                        !isToday && d < todayIdx && "text-ink-3",
+                      )}
+                    >
+                      {date.getDate()}
                     </span>
-                    {isToday ? (
-                      <span className="grid h-[30px] w-[30px] place-items-center rounded-full bg-brand text-[15px] font-semibold text-white">{date.getDate()}</span>
-                    ) : (
-                      <span className={clsx("text-[20px] font-semibold tracking-tight", d < todayIdx && "text-ink-3")}>{date.getDate()}</span>
-                    )}
-                    {isToday && <span className="ml-auto text-[11.5px] text-brand-text">Today</span>}
                   </div>
                 );
               })}
             </div>
-            <div className="relative grid grid-cols-[60px_repeat(5,minmax(0,1fr))]" style={{ height: (END_H - START_H) * 64 + 8 }}>
-              <div className="relative text-[11px] text-ink-3">
-                {Array.from({ length: END_H - START_H }, (_, i) => (
-                  <span key={i} className="absolute right-2.5" style={{ top: i * 64 + 4 }}>
-                    {fmtHour(START_H + i)}
-                  </span>
-                ))}
-              </div>
+            <div className="grid grid-cols-[56px_repeat(5,minmax(0,1fr))] py-2">
+              <HourGutter from={weekHours.from} to={weekHours.to} hour={60} />
               {days.map((d) => (
-                <DayColumn key={d} evs={byDay[d]} hour={64} isToday={d === todayIdx} nowH={nowH} titles={titles} state={state} onOpen={setOpen} start={info.start} />
+                <DayColumn
+                  key={d}
+                  evs={byDay[d]}
+                  from={weekHours.from}
+                  to={weekHours.to}
+                  hour={60}
+                  isToday={d === todayIdx}
+                  nowH={nowH}
+                  titles={titles}
+                  state={state}
+                  onOpen={setOpen}
+                  start={info.start}
+                />
               ))}
             </div>
           </div>
@@ -269,16 +276,7 @@ export function Timetable({ sessions, titles }: { sessions: Session[]; titles: R
               <span className="font-semibold">{formatDay(addDays(info.start, dayOfWeek), { weekday: "long", day: "numeric", month: "long" })}</span>
               <span className="ml-auto text-ink-3">{byDay[dayOfWeek].length} sessions</span>
             </div>
-            <div className="grid grid-cols-[44px_minmax(0,1fr)]" style={{ height: (END_H - START_H) * 52 + 12 }}>
-              <div className="relative text-[11px] text-ink-3">
-                {Array.from({ length: (END_H - START_H) / 2 + 1 }, (_, i) => (
-                  <span key={i} className="absolute" style={{ top: i * 104 - (i ? 6 : 0) }}>
-                    {fmtHour(START_H + i * 2)}
-                  </span>
-                ))}
-              </div>
-              <DayColumn evs={byDay[dayOfWeek]} hour={52} isToday={dayOfWeek === todayIdx} nowH={nowH} titles={titles} state={state} onOpen={setOpen} start={info.start} phone />
-            </div>
+            <DayList evs={byDay[dayOfWeek]} isToday={dayOfWeek === todayIdx} nowH={nowH} titles={titles} state={state} onOpen={setOpen} start={info.start} />
           </div>
         </>
       ) : (
@@ -289,8 +287,34 @@ export function Timetable({ sessions, titles }: { sessions: Session[]; titles: R
   );
 }
 
+function HourGutter({ from, to, hour }: { from: number; to: number; hour: number }) {
+  return (
+    <div className="relative" style={{ height: (to - from) * hour }}>
+      {Array.from({ length: to - from + 1 }, (_, i) => (
+        <span key={i} className="absolute right-2.5 -translate-y-1/2 text-[11px] tabular-nums text-ink-3" style={{ top: i * hour }}>
+          {fmtHour(from + i)}
+        </span>
+      ))}
+    </div>
+  );
+}
+
+function PrepDot({ status }: { status?: string }) {
+  if (status === "done")
+    return (
+      <span title="Prepared" className="grid h-4 w-4 shrink-0 place-items-center rounded-full bg-good text-white">
+        <Check size={10} strokeWidth={3} />
+      </span>
+    );
+  if (status === "in_progress")
+    return <span title="Studying" className="block h-3.5 w-3.5 shrink-0 rounded-full border-[1.5px] border-lilac bg-[linear-gradient(90deg,var(--lilac)_50%,transparent_50%)]" />;
+  return <span title="Not prepared yet" className="block h-3.5 w-3.5 shrink-0 rounded-full border-[1.5px] border-line-strong" />;
+}
+
 function DayColumn({
   evs,
+  from,
+  to,
   hour,
   isToday,
   nowH,
@@ -301,6 +325,8 @@ function DayColumn({
   phone = false,
 }: {
   evs: Ev[];
+  from: number;
+  to: number;
   hour: number;
   isToday: boolean;
   nowH: number;
@@ -310,95 +336,201 @@ function DayColumn({
   start: Date;
   phone?: boolean;
 }) {
+  const gap = phone ? 0 : 5;
   return (
-    <div
-      className={clsx("relative", !phone && "border-l border-line/70", isToday && !phone && "bg-brand-soft/25")}
-      style={{ backgroundImage: `repeating-linear-gradient(180deg, var(--line) 0, var(--line) 1px, transparent 1px, transparent ${hour}px)`, backgroundPositionY: phone ? 0 : hour - 1 }}
-    >
+    <div className={clsx("relative", !phone && "border-l border-line", isToday && !phone && "bg-brand-soft/30")} style={{ height: (to - from) * hour }}>
+      {/* hour and half-hour rules */}
+      {Array.from({ length: to - from + 1 }, (_, i) => (
+        <div key={i} className="pointer-events-none absolute inset-x-0 border-t border-line" style={{ top: i * hour }} />
+      ))}
+      {Array.from({ length: to - from }, (_, i) => (
+        <div key={`h${i}`} className="pointer-events-none absolute inset-x-0 border-t border-dashed border-line/60" style={{ top: i * hour + hour / 2 }} />
+      ))}
+
       {evs.map((e, i) => {
-        const top = (e.start - START_H) * hour + 2;
-        const height = Math.max(28, (e.end - e.start) * hour - 4);
+        const top = (e.start - from) * hour + 2;
+        const height = Math.max(26, (e.end - e.start) * hour - 4);
         const c = CAT[e.cat];
-        const prep = prepLabel(state, e.topic);
-        const live = isToday && nowH >= e.start && nowH < e.end;
         const title = e.topic ? titles[e.topic] ?? e.title : e.title;
-        const pad = phone ? 0 : 6;
-        const style = {
+        const live = isToday && nowH >= e.start && nowH < e.end;
+        const style: React.CSSProperties = {
           top,
           height,
-          left: `calc(${(e.col / e.cols) * 100}% + ${pad}px)`,
-          width: `calc(${100 / e.cols}% - ${pad * 2 + (e.cols > 1 ? 3 : 0)}px)`,
+          left: `calc(${(e.col / e.cols) * 100}% + ${gap}px)`,
+          width: `calc(${100 / e.cols}% - ${gap * 2}px)`,
         };
+        const compact = height < 56;
+
         if (e.ghostOf) {
           return (
             <button
               key={i}
               onClick={() => onOpen(e)}
-              className="absolute flex flex-col gap-0.5 overflow-hidden rounded-[9px] border border-dashed border-line-strong bg-surface/60 px-2 py-1.5 text-left"
+              className="absolute flex flex-col gap-0.5 overflow-hidden rounded-[10px] border border-dashed border-line-strong bg-surface/70 px-2.5 py-1.5 text-left"
               style={style}
             >
-              <span className="flex items-center gap-1 text-[10.5px] font-semibold uppercase tracking-[0.02em] text-ink-3">
-                <MoveRight size={12} /> Moved
+              <span className="flex items-center gap-1 text-[11px] text-ink-3">
+                <MoveRight size={12} /> Moved to {formatDay(addDays(start, e.ghostOf.day), { weekday: "short", day: "numeric" })} {e.ghostOf.time.split("–")[0]}
               </span>
-              <span className={clsx("line-clamp-2 font-medium leading-tight text-ink-3 line-through", phone ? "text-[13px]" : "text-[12px]")}>{title}</span>
-              {height > 60 && (
-                <span className="text-[11.5px] text-peach-text">
-                  to {formatDay(addDays(start, e.ghostOf.day), { weekday: "short", day: "numeric" })} {e.ghostOf.time.split("–")[0]}
-                </span>
-              )}
+              {!compact && <span className="line-clamp-2 text-[12.5px] text-ink-3 line-through">{title}</span>}
             </button>
           );
         }
+
+        const assessment = e.cat === "assessment";
+        const tone = c.muted
+          ? { background: "var(--surface-2)", borderColor: "var(--line)" }
+          : assessment
+            ? { background: "var(--primary)", borderColor: "var(--primary)" }
+            : { background: `var(--${c.tone}-soft)`, borderColor: `color-mix(in srgb, var(--${c.tone}) 24%, transparent)` };
         const body = (
           <>
-            {e.cat !== "routine" && (
-              <span className={clsx("flex items-center gap-1.5 text-[10.5px] font-semibold uppercase tracking-[0.02em]", c.label_)}>
-                {e.mode === "Skills session" ? "Skills" : e.mode}
-                {live && <span className="rounded-full bg-brand px-1.5 text-[9.5px] text-white">Now</span>}
-                {e.movedFrom && <span className="rounded-full bg-peach px-1.5 text-[9.5px] text-white">Moved</span>}
-              </span>
-            )}
-            <span className={clsx("line-clamp-3 font-semibold leading-tight", phone ? "text-[14px]" : "text-[12.5px]", e.cat === "routine" && "!font-normal text-ink-3")}>
+            <span className={clsx("flex items-center gap-1.5 text-[11.5px] tabular-nums", assessment ? "text-white/70" : "text-ink-2")}>
+              {!c.muted && !assessment && <span className={clsx("h-1.5 w-1.5 shrink-0 rounded-full", c.dot)} />}
+              <span className="truncate">{e.time}</span>
+              {live && <span className="rounded-full bg-brand px-1.5 text-[10px] font-semibold leading-4 text-white">Now</span>}
+              {e.movedFrom && <span className="rounded-full bg-peach px-1.5 text-[10px] font-semibold leading-4 text-white">Moved</span>}
+              {e.topic && (
+                <span className="ml-auto flex">
+                  <PrepDot status={state.topics[e.topic]?.status} />
+                </span>
+              )}
+            </span>
+            <span
+              className={clsx(
+                "leading-snug",
+                compact ? "line-clamp-1" : "line-clamp-3",
+                phone ? "text-[14px]" : "text-[13px]",
+                c.muted ? "font-medium text-ink-2" : "font-semibold",
+                assessment && "text-white",
+              )}
+            >
               {title}
             </span>
-            {height > 60 && (
-              <span className="truncate text-[11.5px] text-ink-2">
-                {e.time}
-                {e.faculty && ` · ${e.faculty}`}
-              </span>
-            )}
-            {prep && height > 90 && (
-              <span className={clsx("mt-auto flex items-center gap-1 text-[11px] font-medium", prep.cls)}>
-                {prep.done && <Check size={12} strokeWidth={2.6} />}
-                {prep.text}
+            {!compact && e.faculty && height > 72 && (
+              <span className={clsx("truncate text-[12px]", assessment ? "text-white/70" : "text-ink-3")}>
+                {e.faculty}
+                {!c.muted && !assessment && ` · ${e.mode === "Skills session" ? "Skills" : e.mode}`}
               </span>
             )}
           </>
         );
         const cls = clsx(
-          "absolute flex flex-col gap-0.5 overflow-hidden rounded-[9px] border-l-[3px] px-2 py-1.5 text-left",
-          c.block,
+          "absolute flex flex-col gap-0.5 overflow-hidden rounded-[10px] border px-2.5 py-1.5 text-left",
           live && "shadow-pop",
-          e.movedFrom && "ring-1 ring-peach/50",
-          e.topic && "transition hover:brightness-[0.98] hover:shadow-card",
+          e.movedFrom && "outline outline-1 outline-offset-1 outline-peach/60",
+          e.topic && "transition hover:shadow-card hover:brightness-[0.985]",
         );
         return e.topic ? (
-          <button key={i} onClick={() => onOpen(e)} className={cls} style={style}>
+          <button key={i} onClick={() => onOpen(e)} className={cls} style={{ ...style, ...tone }}>
             {body}
           </button>
         ) : (
-          <div key={i} className={cls} style={style}>
+          <div key={i} className={cls} style={{ ...style, ...tone }}>
             {body}
           </div>
         );
       })}
-      {isToday && nowH >= START_H && nowH <= END_H && (
-        <>
-          <div className="pointer-events-none absolute -left-1 right-0 z-10 h-0.5 bg-brand" style={{ top: (nowH - START_H) * hour }} />
-          <div className="pointer-events-none absolute -left-1.5 z-10 h-2.5 w-2.5 rounded-full bg-brand" style={{ top: (nowH - START_H) * hour - 4 }} />
-        </>
+
+      {isToday && nowH >= from && nowH <= to && (
+        <div className="pointer-events-none absolute inset-x-0 z-10" style={{ top: (nowH - from) * hour }}>
+          <div className="h-0.5 bg-brand" />
+          <div className="absolute -left-1 -top-[4px] h-2.5 w-2.5 rounded-full bg-brand" />
+        </div>
       )}
     </div>
+  );
+}
+
+/** Phone day view: a simple list, so long ward rounds don't fill the screen. */
+function DayList({
+  evs,
+  isToday,
+  nowH,
+  titles,
+  state,
+  onOpen,
+  start,
+}: {
+  evs: Ev[];
+  isToday: boolean;
+  nowH: number;
+  titles: Record<string, string>;
+  state: StudyState;
+  onOpen: (s: EffectiveSession) => void;
+  start: Date;
+}) {
+  if (!evs.length) return <div className="rounded-xl border border-dashed border-line-strong p-8 text-center text-[14px] text-ink-3">No sessions shown for this day.</div>;
+  return (
+    <ol className="flex flex-col gap-2 pb-2">
+      {evs.map((e, i) => {
+        const c = CAT[e.cat];
+        const title = e.topic ? titles[e.topic] ?? e.title : e.title;
+        const live = isToday && nowH >= e.start && nowH < e.end;
+        const past = isToday && nowH >= e.end;
+        const assessment = e.cat === "assessment";
+        const tone = e.ghostOf
+          ? { background: "transparent", borderColor: "var(--line-strong)", borderStyle: "dashed" }
+          : c.muted
+            ? { background: "var(--surface-2)", borderColor: "var(--line)" }
+            : assessment
+              ? { background: "var(--primary)", borderColor: "var(--primary)" }
+              : { background: `var(--${c.tone}-soft)`, borderColor: `color-mix(in srgb, var(--${c.tone}) 24%, transparent)` };
+        const content = (
+          <>
+            <span className={clsx("flex w-[52px] shrink-0 flex-col text-[12.5px] tabular-nums", assessment ? "text-white/80" : "text-ink-2")}>
+              <span className="font-semibold">{fmtHour(e.start)}</span>
+              <span className={assessment ? "text-white/60" : "text-ink-3"}>{fmtHour(e.end)}</span>
+            </span>
+            <span className="flex min-w-0 flex-1 flex-col gap-0.5">
+              <span className="flex items-center gap-1.5">
+                {e.ghostOf ? (
+                  <span className="text-[12px] text-ink-3">
+                    Moved to {formatDay(addDays(start, e.ghostOf.day), { weekday: "short", day: "numeric" })} {e.ghostOf.time.split("–")[0]}
+                  </span>
+                ) : (
+                  <span className={clsx("text-[12px]", assessment ? "text-white/70" : "text-ink-3")}>
+                    {e.mode === "Skills session" ? "Skills" : e.mode}
+                  </span>
+                )}
+                {live && <span className="rounded-full bg-brand px-1.5 text-[10px] font-semibold leading-4 text-white">Now</span>}
+                {e.movedFrom && <span className="rounded-full bg-peach px-1.5 text-[10px] font-semibold leading-4 text-white">Moved</span>}
+              </span>
+              <span
+                className={clsx(
+                  "text-[15px] leading-snug",
+                  c.muted ? "font-medium text-ink-2" : "font-semibold",
+                  assessment && "text-white",
+                  e.ghostOf && "!font-normal text-ink-3 line-through",
+                )}
+              >
+                {title}
+              </span>
+              {e.faculty && !e.ghostOf && <span className={clsx("truncate text-[12.5px]", assessment ? "text-white/70" : "text-ink-3")}>{e.faculty}</span>}
+            </span>
+            {e.topic && !e.ghostOf && (
+              <span className="self-center">
+                <PrepDot status={state.topics[e.topic]?.status} />
+              </span>
+            )}
+          </>
+        );
+        const cls = clsx("flex items-start gap-3 rounded-[12px] border px-3.5 py-3 text-left", live && "shadow-pop", past && "opacity-60");
+        return (
+          <li key={i}>
+            {e.topic ? (
+              <button onClick={() => onOpen(e)} className={clsx(cls, "w-full")} style={tone}>
+                {content}
+              </button>
+            ) : (
+              <div className={cls} style={tone}>
+                {content}
+              </div>
+            )}
+          </li>
+        );
+      })}
+    </ol>
   );
 }
 
