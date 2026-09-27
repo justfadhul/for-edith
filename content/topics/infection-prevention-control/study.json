@@ -1,0 +1,295 @@
+{
+  "slug": "infection-prevention-control",
+  "flashcards": [
+    { "id": "ipc-f01", "front": "What are standard precautions?", "back": "The minimum IPC practices for **every patient, every time**: hand hygiene; PPE by risk assessment; respiratory hygiene; safe injections and sharps; environmental cleaning; linen and waste management; reprocessing of equipment; patient placement." },
+    { "id": "ipc-f02", "front": "List the WHO 5 Moments for hand hygiene.", "back": "1. **Before** touching a patient\n2. **Before** a clean/aseptic procedure\n3. **After** body-fluid exposure risk\n4. **After** touching a patient\n5. **After** touching patient surroundings" },
+    { "id": "ipc-f03", "front": "How long for an alcohol hand rub vs a soap-and-water handwash? When must you use soap and water?", "back": "Rub: **20–30 s**. Wash: **40–60 s**.\nUse soap and water when hands are **visibly soiled** or contaminated with body fluids, after the toilet, and with **spore-formers** (C. difficile) or in diarrhoeal outbreaks." },
+    { "id": "ipc-f04", "front": "Sequence of instrument processing.", "back": "1. **Decontaminate**: 0.5% chlorine for **10 min**\n2. **Clean**: detergent, water, brush, under water; rinse; dry\n3. **HLD** (boil 20 min) **or sterilise** (autoclave)\n4. **Store** clean, dry and covered" },
+    { "id": "ipc-f05", "front": "Autoclave parameters.", "back": "**121 °C, 106 kPa (15 lb/in²)**: **20 min unwrapped, 30 min wrapped**. Use chemical indicator tape on every pack and record each cycle." },
+    { "id": "ipc-f06", "front": "Three methods of high-level disinfection and their times.", "back": "**Boiling 20 min** (timed from the rolling boil); **steaming 20 min**; **chemical soak 20 min** in 0.1% chlorine or 2% glutaraldehyde, then rinse with boiled water." },
+    { "id": "ipc-f07", "front": "Difference between HLD and sterilisation.", "back": "**HLD** kills all microorganisms **except some bacterial spores**. **Sterilisation** kills **all**, including spores." },
+    { "id": "ipc-f08", "front": "Spaulding classification with O&G examples.", "back": "**Critical** (sterile tissue: CS instruments, curettes) need **sterilisation**.\n**Semi-critical** (mucous membranes: specula, MVA cannulae) need at least **HLD**.\n**Non-critical** (intact skin: BP cuff, Pinard) need **cleaning** ± low-level disinfection." },
+    { "id": "ipc-f09", "front": "How do you prepare 0.5% chlorine from JIK (3.5%)? What is the general formula?", "back": "**1 part JIK + 6 parts water.**\nTotal parts water = (% concentrate ÷ % desired) − 1 = (3.5 ÷ 0.5) − 1 = 6.\nFor HTH powder (70%), use about **7 g per litre**. Make it fresh daily." },
+    { "id": "ipc-f10", "front": "Uganda health-care waste colour codes.", "back": "**Black**: non-infectious general waste. **Green**: non-infectious plastics. **Yellow**: infectious waste. **Red**: highly infectious waste. **Brown**: pharmaceutical/chemical waste. **Yellow safety box**: sharps (close at three-quarters full)." },
+    { "id": "ipc-f11", "front": "Order of donning and doffing PPE.", "back": "**Donning**: hand hygiene, then gown, mask/respirator, goggles/face shield, gloves (over the cuffs).\n**Doffing**: gloves, hand hygiene, goggles/face shield, gown (inside out), mask (by the ties), hand hygiene." },
+    { "id": "ipc-f12", "front": "Needle-stick first aid.", "back": "Let it **bleed freely**. **Do not squeeze or suck.** **Wash with soap and running water.** No bleach or alcohol in the wound. For eyes or mouth, **flush with water or saline for 10–15 min**. Then **report immediately**." },
+    { "id": "ipc-f13", "front": "HIV PEP regimen, timing and duration (Uganda/WHO).", "back": "**TDF 300 mg / 3TC 300 mg / DTG 50 mg (TLD), 1 tablet once daily for 28 days.** Start **as soon as possible**, ideally within **2 h**, **no later than 72 h**. Give the full 28-day supply at the start." },
+    { "id": "ipc-f14", "front": "Occupational transmission risk after a percutaneous injury from an infected source.", "back": "**HBV up to 30%** (HBeAg+), **HCV about 1.8%**, **HIV about 0.3%** (mucous membrane about 0.09%). HBV is the biggest risk, and it is vaccine-preventable." },
+    { "id": "ipc-f15", "front": "Hepatitis B management after exposure in an unvaccinated health worker (source HBsAg-positive).", "back": "**HBV vaccine dose 1 now** (complete 0, 1, 6 months) **plus HBIG** as soon as possible, ideally within 24 h (up to 7 days), where available." },
+    { "id": "ipc-f16", "front": "Airborne vs droplet precautions.", "back": "**Airborne** (TB, measles, varicella): **N95** respirator for staff, a masked patient, a ventilated or single room.\n**Droplet** (influenza, COVID-19, meningococcus): a **medical mask** within 1–2 m, patient masked, spacing." },
+    { "id": "ipc-f17", "front": "How do you manage a blood spill on the labour ward floor?", "back": "Utility gloves (plus apron and eye protection if large). **Cover with 0.5% chlorine** for about **10 min**, wipe with disposable cloths into the **yellow bin**, clean with detergent and water, then dry." },
+    { "id": "ipc-f18", "front": "Five IPC practices specific to the labour ward.", "back": "1. Hand hygiene and **sterile gloves before every VE**; VEs every 4 h\n2. **Sterile delivery set** for each woman\n3. **Full PPE incl. eye protection** at delivery\n4. **Chlorhexidine 7.1% cord care** and tetracycline eye ointment\n5. Clean and disinfect the bed and mackintosh after each birth; one woman per bed" },
+    { "id": "ipc-f19", "front": "Five elements of the WHO SSI prevention bundle.", "back": "**No shaving** (clip); **antibiotic prophylaxis before incision**; **surgical hand antisepsis**; **chlorhexidine-alcohol skin prep**; **no prolonged post-op antibiotics** (plus normothermia, glucose control, gentle handling)." },
+    { "id": "ipc-f20", "front": "Follow-up after HIV PEP.", "back": "Review at about 2 weeks (adherence, side effects). **Repeat HIV test at about 6 weeks and 3 months** (some protocols add 6 months). Use condoms and don't donate blood until the 3-month test is negative. Follow up HBV/HCV per exposure." }
+  ],
+  "mcqs": [
+    {
+      "id": "ipc-q01",
+      "stem": "An intern at Kawempe sustains a deep needle-stick with a hollow-bore needle after drawing blood from a woman with HIV who defaulted on ART 6 months ago. It happened 1 hour ago. He has washed the wound. His last HIV test was negative a year ago. What is the MOST appropriate management now?",
+      "options": [
+        "Test himself for HIV at 3 months and start ART only if positive",
+        "Wait for the source's viral load result before deciding on PEP",
+        "Start zidovudine monotherapy for 28 days",
+        "Squeeze the wound and apply undiluted bleach",
+        "Baseline HIV test and start TDF/3TC/DTG once daily for 28 days immediately"
+      ],
+      "answer": 4,
+      "explanation": "This is a **high-risk exposure** (deep, hollow-bore, blood, source likely viraemic). Start **PEP with TLD as soon as possible**, within 72 h and ideally within 2 h, after a baseline HIV test (**E**). **A** misses the window in which infection can be prevented. **B**: never delay PEP for source results; stop later if the source is negative. **C**: monotherapy is obsolete and less effective. **D**: squeezing and caustics damage tissue and do not reduce transmission.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ipc-q02",
+      "stem": "A midwife finishes an abdominal palpation on a woman in labour. She is about to put on sterile gloves to perform a vaginal examination. According to the WHO 5 Moments, what should she do?",
+      "options": [
+        "Nothing, because the sterile gloves will protect the patient",
+        "Perform hand hygiene immediately before putting on the sterile gloves (Moment 2)",
+        "Perform hand hygiene only after the VE (Moment 4)",
+        "Perform hand hygiene only if her hands are visibly dirty",
+        "Wipe her hands on a clean towel and proceed"
+      ],
+      "answer": 1,
+      "explanation": "**Moment 2 (before a clean/aseptic procedure)** applies **even when gloves will be worn**. Hands contaminate the outside of gloves during donning, and gloves have micro-perforations (**B**). **A** is a classic misconception. **C**: hygiene after the VE is Moment 3/4 and does not protect the patient from the VE. **D**: organisms are present on hands that look clean. **E**: wiping does not remove organisms.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ipc-q03",
+      "stem": "An HC III has no autoclave. After an MVA, the in-charge asks a student how to process the metal vaginal speculum for reuse. What is the CORRECT sequence?",
+      "options": [
+        "Soak in 0.5% chlorine overnight, then reuse",
+        "Wipe with methylated spirit and store in a drawer",
+        "Soak in 0.5% chlorine for 10 minutes, scrub with detergent and water, rinse, then boil for 20 minutes from the rolling boil",
+        "Boil for 5 minutes without prior cleaning",
+        "Wash with soap and water only, as it does not enter sterile tissue"
+      ],
+      "answer": 2,
+      "explanation": "A speculum is **semi-critical** (it touches mucous membranes), so it needs at least **HLD**. The correct chain is **decontaminate (0.5% chlorine, 10 min), clean, then HLD (boil 20 min)** (**C**). **A**: prolonged chlorine corrodes instruments, and chlorine alone is not HLD after dirty instruments. **B**: spirit is not HLD. **D**: 5 minutes is too short, and without cleaning, organic material shields microbes. **E**: cleaning alone is for non-critical items.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ipc-q04",
+      "stem": "A ward has run out of ready-made chlorine solution. The only product available is JIK bleach labelled 3.5% available chlorine. How should the student prepare 0.5% chlorine for decontaminating instruments?",
+      "options": [
+        "1 part JIK to 6 parts water",
+        "1 part JIK to 1 part water",
+        "1 part JIK to 9 parts water",
+        "1 part JIK to 34 parts water",
+        "Use the JIK undiluted"
+      ],
+      "answer": 0,
+      "explanation": "Total parts water = (% concentrate ÷ % desired) − 1 = (3.5 ÷ 0.5) − 1 = **6**, so the dilution is **1:6** (**A**). **B** gives about 1.75% (too strong and corrosive). **C** gives 0.35% (too weak). **D** gives **0.1%**, which is the concentration for HLD soaks, not decontamination. **E** is 3.5%: wasteful, corrosive and hazardous.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ipc-q05",
+      "stem": "After conducting a delivery, a student has a blood-soaked gauze swab, a used suture needle, the empty oxytocin ampoule, and the paper wrapper of the sterile gloves. Which disposal is CORRECT under Uganda's colour coding?",
+      "options": [
+        "All items in the yellow bin",
+        "Gauze in the black bin; needle and ampoule in the yellow bin; wrapper in the red bin",
+        "Needle recapped and placed in the yellow bin; the rest in the black bin",
+        "Gauze in the yellow bin; needle and broken ampoule in the safety box; wrapper in the black bin",
+        "Gauze in the brown bin; needle in the black bin; wrapper in the yellow bin"
+      ],
+      "answer": 3,
+      "explanation": "Blood-soaked items are **infectious (yellow)**. Needles and **glass ampoules are sharps (safety box)**. Clean paper is **general non-infectious (black)** (**D**). **A** overloads costly infectious-waste streams and puts sharps in a bag (injuring waste handlers). **B** puts infectious gauze in general waste. **C** involves recapping (a needle-stick risk) and a sharp in a bag. **E** is wrong for all items: brown is for pharmaceuticals.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ipc-q06",
+      "stem": "A student is about to conduct a normal delivery for a woman of unknown HIV status who arrived in the second stage. Which PPE is MOST appropriate?",
+      "options": [
+        "Examination gloves only",
+        "Sterile gloves and a surgical cap",
+        "Sterile gloves, plastic apron, mask and eye protection (goggles or face shield), and closed shoes/boots",
+        "Full Ebola coverall with double gloves and a hood",
+        "No PPE until her HIV test result is available"
+      ],
+      "answer": 2,
+      "explanation": "Delivery carries a high **splash risk** (liquor, blood) to the face, eyes, body and feet. Standard precautions call for **sterile gloves, an apron, a mask and eye protection, and closed footwear** (**C**). **A** and **B** leave the mucous membranes and clothing exposed. **D** is for suspected VHF, not routine care. **E** is wrong: standard precautions apply to everyone regardless of status, and waiting delays care.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ipc-q07",
+      "stem": "A nurse who never completed hepatitis B vaccination sustains a needle-stick from a patient who is HBsAg-positive. She is also HIV-negative. The source is HIV-negative. What is the MOST appropriate hepatitis B management?",
+      "options": [
+        "No action, since the source is HIV-negative",
+        "Test for anti-HBs at 6 months and vaccinate if negative",
+        "Tenofovir alone for 28 days",
+        "Interferon injections for 3 months",
+        "Hepatitis B vaccine dose now (completing 0, 1 and 6 months) plus hepatitis B immunoglobulin as soon as possible"
+      ],
+      "answer": 4,
+      "explanation": "An unvaccinated worker exposed to an HBsAg-positive source should receive **HBV vaccine plus HBIG** as soon as possible (ideally within 24 h, up to 7 days), then complete the schedule (**E**). **A**: HBV (not HIV) is the risk here, and it is the most transmissible blood-borne virus. **B**: waiting 6 months misses prevention. **C**: tenofovir has HBV activity but is not standard HBV PEP. **D**: interferon treats chronic infection; it is not prophylaxis.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "ipc-q08",
+      "stem": "After caring for a woman on contact and droplet precautions, a student wearing gloves, gown, mask and face shield is about to remove the PPE. Which doffing sequence is CORRECT?",
+      "options": [
+        "Gloves, hand hygiene, face shield, gown, mask, hand hygiene",
+        "Mask, face shield, gown, gloves, hand hygiene",
+        "Face shield, mask, gloves, gown, hand hygiene",
+        "Gown, mask, face shield, gloves, no hand hygiene needed if gloves were worn",
+        "Mask, gloves, gown, face shield, hand hygiene"
+      ],
+      "answer": 0,
+      "explanation": "Remove the **most contaminated item first (gloves)**, clean the hands, then remove the face shield, the gown (inside out), and finally the **mask by its ties**, followed by hand hygiene (**A**). **B**, **C** and **E** remove the mask or face shield with contaminated gloved hands, touching the face area. **D** omits hand hygiene; gloves do not replace it.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ipc-q09",
+      "stem": "In two weeks, 6 of 40 women (15%) who had CS in a regional referral hospital's theatre develop wound infections with similar organisms. The usual SSI rate is about 5%. As the intern on the IPC committee, what is the BEST next step?",
+      "options": [
+        "Prescribe 7 days of ceftriaxone to every woman after CS from now on",
+        "Notify the IPC focal person, treat cases with culture-guided antibiotics, and investigate practices (antibiotic timing, skin prep, autoclave logs and indicators, theatre cleaning, hand-rub availability)",
+        "Close the theatre permanently",
+        "Suspend the surgeon who operated on most of the women",
+        "No action, since SSI is common after CS in Uganda"
+      ],
+      "answer": 1,
+      "explanation": "A cluster above the baseline rate is a **suspected outbreak**. Notify, treat, and **investigate systematically** to find and fix the breach (**B**). **A** worsens resistance (the WHO recommends against prolonged prophylaxis) and ignores the cause. **C** is disproportionate and harms access; a temporary closure for cleaning may be part of the plan. **D**: blame is premature and a system failure is more likely (e.g. autoclave failure). **E** ignores a signal of preventable harm.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "ipc-q10",
+      "stem": "On the postnatal ward, a 27-year-old HIV-positive woman has had a cough for 3 weeks, with night sweats and weight loss. She shares a room with 5 mothers and their newborns. What is the MOST appropriate IPC action?",
+      "options": [
+        "Droplet precautions: staff wear a surgical mask only when within 1 metre",
+        "Contact precautions: gloves and gown for touching her",
+        "No precautions until the sputum result is available",
+        "Airborne precautions: give her a surgical mask, move her to a well-ventilated single room, staff wear N95 respirators, and send sputum for GeneXpert",
+        "Discharge her home immediately to protect other patients"
+      ],
+      "answer": 3,
+      "explanation": "Suspected **pulmonary TB** is spread by **airborne** droplet nuclei. Mask the patient (source control), **separate** her in a ventilated room, give staff **N95** respirators, and **investigate urgently** (GeneXpert) (**D**). **A** is inadequate for airborne spread. **B** does not address respiratory transmission. **C** exposes newborns and staff while waiting. **E** abandons her diagnosis and care and does not protect her baby.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ipc-q11",
+      "stem": "A student opens a CS pack from the store and notices that the chemical indicator tape has NOT changed colour, although the pack is dry and intact. What should be done?",
+      "options": [
+        "Do not use it; treat it as unsterile, reprocess it, and report a possible autoclave failure",
+        "Use it, since the pack is dry and intact",
+        "Use it after spraying the instruments with alcohol",
+        "Boil the instruments for 5 minutes and then use them",
+        "Use it for the skin incision but not for the uterus"
+      ],
+      "answer": 0,
+      "explanation": "An unchanged indicator means the pack **may not have reached sterilising conditions**. It must be treated as **unsterile**, reprocessed, and the autoclave checked and the problem reported (other packs from that cycle are suspect too) (**A**). **B**: dry and intact does not prove sterility. **C** and **D**: alcohol and 5-minute boiling are not sterilisation. **E**: all CS instruments are critical items.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ipc-q12",
+      "stem": "While conducting a delivery, a student's glove tears and her hand becomes visibly contaminated with blood. There is no cut on her skin. What is the MOST appropriate hand hygiene?",
+      "options": [
+        "Alcohol hand rub for 20–30 seconds",
+        "Wipe off the blood with gauze and put on new gloves",
+        "Wash with soap and running water for 40–60 seconds, dry with a single-use towel, then re-glove",
+        "Apply povidone-iodine skin prep",
+        "Put on a new glove over the torn one"
+      ],
+      "answer": 2,
+      "explanation": "**Visibly soiled** hands need **soap and running water** (alcohol does not remove organic material well) (**C**). Intact skin exposure needs no PEP, but the incident should still be noted. **A** is for hands that are not visibly soiled. **B** leaves contamination. **D**: skin prep is not hand hygiene. **E** traps blood against the skin.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ipc-q13",
+      "stem": "A health worker comes to the clinic 80 hours after a needle-stick from an HIV-positive source because she was afraid to report it. Her baseline HIV test is negative. What is the MOST appropriate management?",
+      "options": [
+        "Start TDF/3TC/DTG now for 28 days",
+        "Start a double dose of TLD to compensate for the delay",
+        "Start TLD for 56 days instead of 28",
+        "Reassure her that no further action is needed",
+        "PEP is not recommended beyond 72 hours. Counsel her, offer follow-up HIV testing at 6 weeks and 3 months, check HBV status and vaccinate, and address the barriers to reporting"
+      ],
+      "answer": 4,
+      "explanation": "PEP is **not recommended after 72 hours**, because by then it is unlikely to prevent infection (**E**). Follow-up testing still matters, so that any infection is caught early and she starts ART. Also manage HBV and address the fear of reporting. **A**, **B** and **C** give drugs outside the effective window (and doubling or extending doses is not evidence-based). **D** neglects follow-up and HBV.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "ipc-q14",
+      "stem": "Immediately after a delivery, there is a large pool of blood and liquor on the labour ward floor. What is the CORRECT way to manage the spill?",
+      "options": [
+        "Mop it up immediately with water and the ward mop",
+        "Wear utility gloves, cover the spill with 0.5% chlorine for about 10 minutes, wipe up with disposable cloths into the yellow bin, then clean with detergent and water",
+        "Sprinkle undiluted JIK on it and leave it to dry",
+        "Cover it with sawdust and sweep it into the black bin",
+        "Leave it for the cleaners at the end of the shift"
+      ],
+      "answer": 1,
+      "explanation": "Spills are **inactivated with 0.5% chlorine** (about 10 min contact), removed as **infectious waste (yellow)**, and the area is then cleaned with detergent (**B**). **A** spreads contamination over the floor and mop. **C**: undiluted bleach is hazardous and not needed. **D**: it puts infectious material in the general waste. **E** leaves a slip and infection hazard.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ipc-q15",
+      "stem": "A 22-year-old primigravida has an uncomplicated spontaneous vaginal delivery with a mediolateral episiotomy, repaired without complications. A student suggests 5 days of oral amoxicillin 'to prevent infection'. What is the MOST appropriate response?",
+      "options": [
+        "Agree; amoxicillin 500 mg 8-hourly for 5 days",
+        "Give ceftriaxone 1 g IV once daily for 3 days",
+        "Give metronidazole 400 mg 8-hourly for 7 days",
+        "No routine antibiotics; emphasise hand hygiene, perineal hygiene and review for signs of infection",
+        "IV ampicillin plus gentamicin for 48 hours"
+      ],
+      "answer": 3,
+      "explanation": "The WHO recommends **against routine antibiotic prophylaxis** for uncomplicated vaginal birth and for episiotomy. It gives no proven benefit and drives antimicrobial resistance, which is already severe in Uganda (**D**). Antibiotics **are** indicated for manual removal of the placenta, 3rd/4th-degree tears and CS. **A**, **B**, **C** and **E** are unnecessary antibiotic use.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "ipc-c01",
+      "title": "Needle-stick during a night shift",
+      "presentation": "At 02:00 on the labour ward at Mengo, you (a Year 3 student) are assisting with the repair of a second-degree perineal tear. The woman is 26 years old and HIV-positive on TLD; her last viral load, 8 months ago, was 'detectable, 1,200 copies/mL'. The suture needle slips and pierces your glove and finger, drawing blood.",
+      "steps": [
+        { "prompt": "What do you do in the first 5 minutes?", "answer": "1. Tell the midwife or doctor and step away safely (the repair can be completed by someone else).\n2. Remove the gloves and **let the wound bleed freely**. **Do not squeeze or suck.**\n3. **Wash with soap and running water** for several minutes. No bleach or alcohol.\n4. Cover it with a waterproof dressing.\n5. **Report immediately** to the in-charge (on call) and fill in the incident form." },
+        { "prompt": "How do you assess the risk?", "answer": "- **Exposure**: percutaneous, through a glove, with a **solid** suture needle and visible bleeding. This is significant, though lower risk than a hollow-bore needle.\n- **Source**: HIV-positive with a **detectable viral load (1,200 copies/mL)**, so not suppressed. That means real risk. Check her HBsAg (and HCV) with consent.\n- **You**: baseline HIV status, HBV vaccination history (3 doses?) and anti-HBs, and pregnancy status.\n\nThe decision is **PEP indicated**." },
+        { "prompt": "What tests and treatment do you receive, and when?", "answer": "- **Baseline rapid HIV test** (with counselling), HBsAg/anti-HBs, and a pregnancy test if relevant. Creatinine if available (don't delay the first dose).\n- **Start TDF/3TC/DTG, 1 tablet once daily for 28 days, now**: ideally within 2 hours of exposure, and certainly before 72 h. Take the **full 28-day supply**.\n- **HBV**: if fully vaccinated with anti-HBs ≥10, nothing more. If unvaccinated or a non-responder and the source is HBsAg-positive, give the **HBV vaccine plus HBIG**." },
+        { "prompt": "What counselling and follow-up do you need?", "answer": "- **Adherence**: the same time daily. Take DTG 2 h before or 6 h after iron, calcium or antacids.\n- **Side effects**: nausea, headache and insomnia are usually mild. Report a rash or jaundice.\n- **Condoms** and no blood donation until the 3-month test is negative.\n- Review at **2 weeks**; **HIV test at about 6 weeks and 3 months**; HCV follow-up if the source is HCV-positive.\n- Psychological support. Needle-stick is frightening, and anxiety is normal." },
+        { "prompt": "How could this injury have been prevented?", "answer": "- Use **instruments, not fingers**, to hold tissue and handle the needle. Never guide the needle with a finger.\n- **Double gloving** for repairs.\n- **Good lighting** and adequate analgesia so the woman does not move suddenly.\n- A **neutral zone** for the needle and immediate disposal into a safety box.\n- Fatigue management at night.\n- **Hepatitis B vaccination** for all students before clinical rotations." }
+      ],
+      "takeaway": "A needle-stick is an emergency. Bleed, wash and report within minutes, and start TLD within hours (never after 72 h). Always check hepatitis B protection, and fix the practice that caused the injury."
+    },
+    {
+      "id": "ipc-c02",
+      "title": "Processing a delivery set at an HC III with no autoclave",
+      "presentation": "You are on a community placement at an HC III in Wakiso. After a normal delivery, the enrolled midwife hands you the used delivery set (2 artery forceps, cord scissors, episiotomy scissors, needle holder, toothed forceps, a kidney dish and a speculum). The facility has no autoclave, a charcoal stove, a bottle of JIK (3.5%) and a bucket.",
+      "steps": [
+        { "prompt": "What PPE do you need, and what is your first step with the instruments?", "answer": "**Utility gloves, plastic apron and eye protection** (splash risk).\n**Decontaminate**: open all the instruments and fully submerge them in **0.5% chlorine** for **10 minutes** immediately after use (inactivates HIV and HBV). Don't leave them longer, because it corrodes the metal." },
+        { "prompt": "How do you make the 0.5% chlorine from the JIK?", "answer": "Total parts water = (3.5 ÷ 0.5) − 1 = **6**. Mix **1 part JIK with 6 parts clean water** (e.g. 1 cup JIK plus 6 cups water). Make it **fresh daily**, keep it covered, and never mix it with acids or other cleaners." },
+        { "prompt": "Describe the cleaning step and why it is essential.", "answer": "After decontamination: scrub each instrument **under water** with a soft brush and **detergent**, opening the joints and cleaning the teeth and ratchets. Then **rinse** and **dry**. Cleaning removes blood and tissue that **shield organisms** and inactivate disinfectants. You cannot sterilise or disinfect dirt." },
+        { "prompt": "How will you disinfect or sterilise these items without an autoclave?", "answer": "The delivery instruments and speculum are **semi-critical to critical**. Without an autoclave, the accepted fallback is **HLD by boiling**: fully submerge, lid on, **start timing at the rolling boil**, boil for **20 minutes**, and add nothing once timing starts. Remove with HLD forceps, air-dry, and use immediately or store in a covered HLD container (up to about 1 week). The kidney dish is processed similarly. Arrange for items that must be sterile (e.g. for surgical procedures) to be autoclaved at the HC IV." },
+        { "prompt": "Where does the rest of the delivery waste go?", "answer": "- **Suture needle, blade, broken oxytocin ampoule**: **safety box** (yellow sharps container), closed at three-quarters full.\n- **Blood-soaked gauze, pads, gloves**: **yellow** bin (infectious).\n- **Paper wrappers**: **black** bin.\n- **Placenta**: give it to the family in a sealed bag if they wish (cultural burial), otherwise the **placenta pit**.\n- Clean the delivery couch and mackintosh with detergent, then 0.5% chlorine. Clean any spill with 0.5% chlorine for 10 min first." }
+      ],
+      "takeaway": "Decontaminate (0.5% chlorine, 10 min), clean, boil 20 min from the rolling boil, then store. JIK 3.5% is diluted 1:6. Segregate waste at the point of use. Low-resource IPC works if every step is done in order."
+    },
+    {
+      "id": "ipc-c03",
+      "title": "A cluster of post-caesarean wound infections",
+      "presentation": "At a regional referral hospital, the Ob/Gyn team notices that in the last 3 weeks 9 of 60 women (15%) who had CS have developed wound infections by day 5, compared with the usual 5%. Two have wound dehiscence. Cultures grow ESBL-producing Klebsiella in 5 cases. You are asked to help the IPC focal person.",
+      "steps": [
+        { "prompt": "Is this an outbreak, and who needs to know?", "answer": "Yes. A **cluster above the baseline rate** with a similar organism is a **suspected HAI outbreak**. Notify the **IPC focal person or committee**, the head of department, theatre in-charge, the laboratory and hospital management. Start a **line list** (name, date of CS, surgeon, theatre, time of antibiotic, onset, organism)." },
+        { "prompt": "How should the affected women be managed?", "answer": "- **Drain** infected wounds (remove sutures) and culture the pus. Daily dressings.\n- **Culture-guided antibiotics**: ESBL *Klebsiella* is usually resistant to ceftriaxone, so use a **carbapenem (meropenem)** or another agent per sensitivity, with microbiologist input.\n- **Contact precautions**: gloves and apron, dedicated equipment, cohort the women if possible, hand hygiene.\n- Return the two women with dehiscence to theatre for mass closure.\n- Correct anaemia, check glucose, and give nutrition support." },
+        { "prompt": "Which practices will you audit to find the source?", "answer": "- **Antibiotic prophylaxis**: given **before incision** (within 60 min)? Or after cord clamping, or not at all?\n- **Skin prep**: which antiseptic, was it allowed to dry, was there shaving on the ward?\n- **Surgical hand antisepsis**: soap, water supply, alcohol rub availability.\n- **Autoclave**: cycle logs, **indicator tapes**, biological indicators, power cuts, overloaded drums, wet packs.\n- **Theatre cleaning** between cases, door traffic, and reuse of single-use items.\n- **Multi-dose vials** (e.g. shared lidocaine or oxytocin), IV fluid handling.\n- **Post-op wound care**: dressings changed with clean hands? Shared dressing trolleys?\n- **Hand hygiene compliance audit** on the postnatal ward." },
+        { "prompt": "The audit finds the autoclave has been running 15-minute cycles for wrapped packs because of power cuts, and ward staff shave women before CS. What control measures follow?", "answer": "- **Fix sterilisation**: restore **121 °C at 106 kPa for 30 min for wrapped packs**. Use indicator tapes on every pack, keep a cycle log, and add a generator backup. Recall packs from short cycles and reprocess them.\n- **Stop pre-op shaving** (clip only if necessary, in theatre).\n- **Reinforce the SSI bundle**: pre-incision antibiotic, chlorhexidine-alcohol prep, the WHO Surgical Safety Checklist Time Out, and no prolonged post-op antibiotics.\n- Training and **feedback** to staff; continue **SSI surveillance** to confirm the rate falls back to baseline.\n- Report to the regional/MoH IPC structures, and share the lessons without blame." }
+      ],
+      "takeaway": "Clusters of infections signal a system breach, often sterilisation, skin prep or antibiotic timing. Treat the patients, then investigate and fix the process. Surveillance and feedback confirm the fix worked."
+    }
+  ],
+  "references": [
+    { "title": "Uganda National Infection Prevention and Control Guidelines", "source": "Ministry of Health Uganda", "year": 2013, "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20National%20Infection%20Prevention%20and%20Control%20Guidelines%20Dec%202013.pdf" },
+    { "title": "Uganda National Infection Prevention & Control Guidelines (2nd edition)", "source": "Ministry of Health Uganda", "url": "https://www.prescribingcompanion.com/media/1791/uganda-national-ipc-guidelines-2nd-edition.pdf" },
+    { "title": "Approaches to Health Care Waste Management (Uganda health-care waste management guidelines)", "source": "Ministry of Health Uganda", "year": 2013, "url": "https://www.washinhcf.org/wp-content/uploads/2021/11/Uganda_HCWM_Guidelines_2013.pdf" },
+    { "title": "Your 5 Moments for Hand Hygiene (poster)", "source": "World Health Organization", "year": 2009, "url": "https://cdn.who.int/media/docs/default-source/integrated-health-services-(ihs)/infection-prevention-and-control/your-5-moments-for-hand-hygiene-poster.pdf" },
+    { "title": "WHO Guidelines on Hand Hygiene in Health Care", "source": "World Health Organization", "year": 2009, "url": "https://apps.who.int/iris/bitstream/handle/10665/44102/9789241597906_eng.pdf" },
+    { "title": "Guidelines for HIV post-exposure prophylaxis", "source": "World Health Organization", "year": 2024, "url": "https://www.who.int/publications/i/item/9789240095137" },
+    { "title": "Consolidated Guidelines for the Prevention and Treatment of HIV and AIDS in Uganda", "source": "Ministry of Health Uganda", "year": 2022, "url": "https://dsduganda.com/wp-content/uploads/2023/05/Consolidated-HIV-and-AIDS-Guidelines-20230516.pdf" },
+    { "title": "National Policy Guidelines on Post Exposure Prophylaxis for HIV, Hepatitis B and Hepatitis C", "source": "Ministry of Health Uganda", "url": "https://library.health.go.ug/leadership-and-governance/policy-documents/national-policy-guidelines-post-exposure-prophylaxis" },
+    { "title": "Uganda Clinical Guidelines 2023", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf" },
+    { "title": "Global Guidelines for the Prevention of Surgical Site Infection", "source": "World Health Organization", "year": 2018, "url": "https://www.who.int/publications/i/item/9789241550475" },
+    { "title": "Decontamination, cleaning, high-level disinfection and sterilization of instruments", "source": "IARC Screening Group (WHO International Agency for Research on Cancer)", "url": "https://screening.iarc.fr/colpochap.php?chap=14.php&lang=1" },
+    { "title": "Guideline for Disinfection and Sterilization in Healthcare Facilities", "source": "US Centers for Disease Control and Prevention", "year": 2008, "url": "https://www.cdc.gov/infection-control/media/pdfs/guideline-disinfection-h.pdf" },
+    { "title": "Health Care Waste Segregation Behavior among Health Workers in Uganda: An Application of the Theory of Planned Behavior", "source": "PubMed Central (NCBI)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5222996/" },
+    { "title": "Enhancing infection prevention and control through hand hygiene compliance in six Ugandan hospitals using quality improvement approaches", "source": "Frontiers in Public Health", "year": 2024, "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1465439/full" },
+    { "title": "Needle-stick Guideline: Background, Pathophysiology, Epidemiology", "source": "Medscape eMedicine", "url": "https://emedicine.medscape.com/article/784812-overview" },
+    { "title": "Ceftriaxone- and ceftazidime-resistant Klebsiella species, Escherichia coli, and MRSA dominate caesarean surgical site infections at Mulago Hospital, Kampala, Uganda", "source": "SAGE Open Medicine (Wekesa et al.)", "year": 2020, "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8826261/" }
+  ]
+}

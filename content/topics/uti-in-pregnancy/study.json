@@ -1,0 +1,443 @@
+{
+  "slug": "uti-in-pregnancy",
+  "flashcards": [
+    {
+      "id": "uti-f01",
+      "front": "Why does pregnancy predispose to pyelonephritis?",
+      "back": "**Progesterone** relaxes ureteric smooth muscle (dilatation, reduced peristalsis, stasis); the **gravid uterus compresses** the ureters at the pelvic brim; **vesicoureteric reflux**; **glycosuria/aminoaciduria**; larger bladder with residual urine; relative immunosuppression."
+    },
+    {
+      "id": "uti-f02",
+      "front": "Why is pyelonephritis in pregnancy more often right-sided?",
+      "back": "The uterus is **dextrorotated**, the **sigmoid colon cushions the left ureter**, and the **right ovarian vein** crosses the right ureter, so the right ureter is compressed more."
+    },
+    {
+      "id": "uti-f03",
+      "front": "Define asymptomatic bacteriuria.",
+      "back": "**10⁵ CFU/mL or more of a single uropathogen** on a clean-catch midstream urine culture in a woman **without urinary symptoms**."
+    },
+    {
+      "id": "uti-f04",
+      "front": "Why screen and treat ASB in pregnancy but not in most non-pregnant women?",
+      "back": "Untreated, **20–40%** of pregnant women with ASB develop **pyelonephritis** (versus about 1–2% if treated); treatment also reduces **low birth weight/preterm birth**."
+    },
+    {
+      "id": "uti-f05",
+      "front": "Commonest organism causing UTI in pregnancy?",
+      "back": "***Escherichia coli*** (70–80%), then *Klebsiella*, *Proteus*, *Enterobacter*, *Enterococcus*, group B streptococcus, *Staph. saprophyticus*."
+    },
+    {
+      "id": "uti-f06",
+      "front": "Recommended duration of treatment for ASB in pregnancy (WHO)?",
+      "back": "A **7-day** antibiotic regimen (5–7 days for cystitis), followed by a **test of cure** culture 1–2 weeks later."
+    },
+    {
+      "id": "uti-f07",
+      "front": "Nitrofurantoin dose and main cautions in pregnancy?",
+      "back": "**100 mg MR orally 12-hourly (or 50–100 mg 6-hourly) for 5–7 days**. **Not for pyelonephritis**; avoid **at term/in labour** and in **G6PD deficiency** (haemolysis)."
+    },
+    {
+      "id": "uti-f08",
+      "front": "Three oral antibiotics safe for cystitis in pregnancy?",
+      "back": "**Nitrofurantoin**, **cephalexin 500 mg 8–12-hourly**, **amoxicillin 500 mg 8-hourly** (if sensitive) or **amoxicillin-clavulanate 625 mg 8-hourly**; also cefixime, fosfomycin 3 g single dose. 5–7 days."
+    },
+    {
+      "id": "uti-f09",
+      "front": "Why avoid trimethoprim in the first trimester?",
+      "back": "It is a **folate antagonist** (dihydrofolate reductase inhibitor), associated with **neural tube and other congenital defects**."
+    },
+    {
+      "id": "uti-f10",
+      "front": "Why avoid sulfonamides near term?",
+      "back": "They **displace bilirubin from albumin**, increasing the risk of **neonatal jaundice and kernicterus** (and haemolysis in G6PD deficiency)."
+    },
+    {
+      "id": "uti-f11",
+      "front": "Why avoid fluoroquinolones and tetracyclines in pregnancy?",
+      "back": "**Fluoroquinolones**: cartilage/arthropathy in animal studies. **Tetracyclines**: **tooth discolouration**, impaired fetal bone growth, maternal hepatotoxicity."
+    },
+    {
+      "id": "uti-f12",
+      "front": "First-line inpatient treatment of pyelonephritis in pregnancy (Uganda)?",
+      "back": "**Admit**; urine and blood cultures, then **IV ceftriaxone 1 g once daily (2 g if septic)** until afebrile 24–48 hours, then oral step-down (cefixime, amoxicillin-clavulanate or cephalexin by sensitivity) to complete **10–14 days**."
+    },
+    {
+      "id": "uti-f13",
+      "front": "Why can't nitrofurantoin be used for pyelonephritis?",
+      "back": "It concentrates in the **urine** but achieves **poor renal tissue and blood levels**, so it cannot treat parenchymal infection or bacteraemia."
+    },
+    {
+      "id": "uti-f14",
+      "front": "Main complications of pyelonephritis in pregnancy?",
+      "back": "**Sepsis/septic shock**, **ARDS**/pulmonary oedema, **anaemia** (haemolysis), **AKI**, **preterm labour**, abscess/obstruction, **recurrence**."
+    },
+    {
+      "id": "uti-f15",
+      "front": "Why are pregnant women with pyelonephritis prone to ARDS?",
+      "back": "**Endotoxin-mediated capillary leak**, plus pregnancy's **low oncotic pressure** and high plasma volume; worsened by **aggressive IV fluids** and **beta-agonist tocolytics**."
+    },
+    {
+      "id": "uti-f16",
+      "front": "What do you do if a woman is still febrile after 48–72 hours of IV ceftriaxone?",
+      "back": "Check **culture sensitivities** (ESBL?), **renal ultrasound** (obstruction, stone, abscess), reconsider the diagnosis (malaria, chorioamnionitis, appendicitis, pneumonia), change antibiotics (e.g. meropenem per culture), involve urology."
+    },
+    {
+      "id": "uti-f17",
+      "front": "Prophylaxis for recurrent UTI in pregnancy?",
+      "back": "**Nitrofurantoin 50–100 mg nightly** (switch near term) or **cephalexin 250–500 mg nightly**, until delivery (or up to 6 weeks postpartum), with monthly urine cultures."
+    },
+    {
+      "id": "uti-f18",
+      "front": "What should you do with group B streptococcus found in urine?",
+      "back": "Treat it now (any colony count) **and** give **intrapartum IV antibiotic prophylaxis** (benzylpenicillin 3 g IV, then 1.8 g 4-hourly until delivery)."
+    },
+    {
+      "id": "uti-f19",
+      "front": "Internal vs external dysuria?",
+      "back": "**Internal** (felt inside the urethra) suggests **UTI**; **external** (urine stinging sore vulval skin) suggests **vulvovaginitis** (candida, trichomonas, herpes)."
+    },
+    {
+      "id": "uti-f20",
+      "front": "What does sterile pyuria suggest?",
+      "back": "White cells without bacterial growth: **chlamydia/gonorrhoea**, **urinary TB** (think HIV), contamination with vaginal discharge, recent antibiotics, stones."
+    },
+    {
+      "id": "uti-f21",
+      "front": "Key investigations for suspected pyelonephritis in a Ugandan ANC ward?",
+      "back": "Urine dipstick and **culture before antibiotics**, **blood cultures**, FBC, creatinine, **mRDT/blood smear**, glucose, lactate where available, fetal heart/CTG; renal ultrasound if not improving."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "uti-q01",
+      "stem": "A 23-year-old G1 at 14 weeks has a routine booking urine culture growing 10⁵ CFU/mL of E. coli sensitive to nitrofurantoin, cephalexin and amoxicillin-clavulanate. She has no urinary symptoms. What is the MOST appropriate management?",
+      "options": [
+        "No treatment because she is asymptomatic",
+        "Treat with nitrofurantoin (or cephalexin) for 7 days and repeat urine culture 1–2 weeks after treatment",
+        "Ciprofloxacin 500 mg twice daily for 3 days",
+        "Single-dose amoxicillin 3 g and no follow-up",
+        "Admit for IV ceftriaxone"
+      ],
+      "answer": 1,
+      "difficulty": "core",
+      "explanation": "**B is correct.** ASB in pregnancy must be treated (20–40% progress to pyelonephritis if untreated), using a sensitive, pregnancy-safe antibiotic for **7 days** (WHO), then a **test of cure**. **A** ignores the risk. **C**: fluoroquinolones are avoided in pregnancy. **D**: single-dose regimens are less effective, and there is no test of cure. **E**: ASB is treated orally as an outpatient."
+    },
+    {
+      "id": "uti-q02",
+      "stem": "A 28-year-old at 22 weeks presents with dysuria, frequency and suprapubic pain for 2 days. Temperature 36.9 °C, no loin tenderness. Dipstick: nitrites positive, leucocytes 2+. Which is the MOST appropriate treatment?",
+      "options": [
+        "Doxycycline 100 mg twice daily for 7 days",
+        "Ciprofloxacin 500 mg twice daily for 7 days",
+        "Trimethoprim 200 mg twice daily for 3 days",
+        "IV ceftriaxone 1 g daily for 14 days",
+        "Nitrofurantoin 100 mg MR twice daily for 5–7 days after sending an MSU for culture"
+      ],
+      "answer": 4,
+      "difficulty": "core",
+      "explanation": "**E is correct.** Uncomplicated **cystitis** is treated orally with a pregnancy-safe agent such as **nitrofurantoin** (fine at 22 weeks), with culture before starting and a test of cure. **A**: tetracyclines stain teeth and affect bone. **C**: trimethoprim is best avoided (folate antagonist; mainly first trimester) and 3 days is short in pregnancy. **D**: IV therapy is for pyelonephritis. **B**: fluoroquinolones are avoided."
+    },
+    {
+      "id": "uti-q03",
+      "stem": "A 25-year-old at 38 weeks has symptomatic cystitis. Her culture grows E. coli sensitive to nitrofurantoin, cephalexin and amoxicillin-clavulanate. Her previous baby needed phototherapy for 'G6PD-related jaundice'. What is the BEST choice?",
+      "options": [
+        "Nitrofurantoin 100 mg MR twice daily for 7 days",
+        "Co-trimoxazole 960 mg twice daily for 7 days",
+        "Cephalexin 500 mg 8-hourly for 7 days",
+        "Doxycycline 100 mg twice daily for 7 days",
+        "No treatment until after delivery"
+      ],
+      "answer": 2,
+      "difficulty": "advanced",
+      "explanation": "**C is correct.** **Cephalexin** is safe at term. **A**: nitrofurantoin is avoided **at term** because of **neonatal haemolysis**, especially with a family history suggesting **G6PD deficiency**. **B**: sulfonamides near term risk **kernicterus** and haemolysis. **D**: tetracyclines are contraindicated. **E**: untreated cystitis may progress to pyelonephritis."
+    },
+    {
+      "id": "uti-q04",
+      "stem": "A 24-year-old at 26 weeks presents with fever 39.2 °C, rigors, right loin pain and vomiting for 2 days. HR 118, BP 104/66, RR 22. Renal angle tenderness on the right. Dipstick: nitrites positive. mRDT negative. What is the MOST appropriate management?",
+      "options": [
+        "Admit; take urine and blood cultures, start IV ceftriaxone, careful IV fluids with fluid balance, paracetamol, and monitor mother and fetus",
+        "Oral nitrofurantoin and review in 3 days",
+        "Oral ciprofloxacin as an outpatient",
+        "IV artesunate only",
+        "Emergency caesarean section for maternal sepsis"
+      ],
+      "answer": 0,
+      "difficulty": "core",
+      "explanation": "**A is correct.** This is **acute pyelonephritis with sepsis criteria**: admit, cultures first, **IV ceftriaxone** within an hour, careful fluids (ARDS risk), antipyretic and fetal monitoring. **B**: nitrofurantoin does not reach renal tissue; oral outpatient care is unsafe with vomiting and sepsis. **C**: fluoroquinolones are avoided and outpatient care is inappropriate. **D**: the mRDT is negative and there is a clear urinary source. **E**: delivery is not a treatment for pyelonephritis."
+    },
+    {
+      "id": "uti-q05",
+      "stem": "A 27-year-old at 30 weeks has been on IV ceftriaxone for pyelonephritis for 72 hours and still spikes fevers to 39 °C with persistent left loin pain. Urine culture grows Klebsiella resistant to ceftriaxone (ESBL). What is the BEST next step?",
+      "options": [
+        "Continue ceftriaxone for another week",
+        "Stop antibiotics and observe",
+        "Add oral nitrofurantoin",
+        "Change to an antibiotic guided by sensitivities (e.g. meropenem) and arrange a renal ultrasound to exclude obstruction or abscess",
+        "Start ciprofloxacin"
+      ],
+      "answer": 3,
+      "difficulty": "advanced",
+      "explanation": "**D is correct.** Treatment failure at 48–72 hours needs **culture-guided antibiotics** (ESBL: a carbapenem such as meropenem) and **imaging** for obstruction, stones or abscess (which may need drainage/stenting). **A**: the organism is resistant. **C**: nitrofurantoin does not treat renal parenchyma. **B** is dangerous. **E**: fluoroquinolones are avoided in pregnancy, and ESBL organisms are often co-resistant."
+    },
+    {
+      "id": "uti-q06",
+      "stem": "A 26-year-old at 28 weeks is on day 2 of IV ceftriaxone and IV fluids (5 L in 24 hours) for pyelonephritis. She becomes breathless: RR 34, SpO₂ 86% on air, bilateral crackles. What is the MOST likely diagnosis?",
+      "options": [
+        "Pulmonary embolism",
+        "Acute respiratory distress syndrome / pulmonary oedema complicating pyelonephritis",
+        "Asthma",
+        "Anxiety",
+        "Amniotic fluid embolism"
+      ],
+      "answer": 1,
+      "difficulty": "advanced",
+      "explanation": "**B is correct.** Endotoxin-induced **capillary leak** plus pregnancy's low oncotic pressure and **large-volume IV fluids** cause **ARDS/pulmonary oedema** (1–2% of pyelonephritis). Stop fluids, oxygen, senior/ICU review, consider diuretic if overload. **A**: PE causes breathlessness but usually with a clear chest. **C**: no history, and wheeze rather than crackles. **D** would not cause hypoxia. **E** occurs in labour/delivery with collapse and coagulopathy."
+    },
+    {
+      "id": "uti-q07",
+      "stem": "A 22-year-old at 32 weeks with pyelonephritis develops regular painful contractions on day 1 of IV ceftriaxone. Cervix is 2 cm dilated. Temperature 38.8 °C. What is the MOST appropriate management?",
+      "options": [
+        "Salbutamol infusion for tocolysis",
+        "Discharge with oral antibiotics",
+        "Immediate caesarean section",
+        "Stop antibiotics because they cause contractions",
+        "Paracetamol for fever, continue IV antibiotics, give corticosteroids (dexamethasone 6 mg IM 12-hourly × 4), avoid beta-agonists; consider nifedipine only if appropriate"
+      ],
+      "answer": 4,
+      "difficulty": "advanced",
+      "explanation": "**E is correct.** Fever and inflammation trigger contractions, which often settle once fever is controlled. **Steroids** below 34 weeks improve neonatal outcome. **A**: beta-agonists increase the risk of **pulmonary oedema/ARDS** in pyelonephritis. **C**: no obstetric indication. **D** is wrong. **B**: she needs inpatient care."
+    },
+    {
+      "id": "uti-q08",
+      "stem": "A 29-year-old HIV-positive woman at 8 weeks on TLD and co-trimoxazole prophylaxis has symptomatic cystitis. Which antibiotic is MOST appropriate?",
+      "options": [
+        "Trimethoprim 200 mg twice daily",
+        "Increase co-trimoxazole to 960 mg twice daily as treatment",
+        "Cephalexin 500 mg 8-hourly for 5–7 days (after sending culture)",
+        "Ciprofloxacin 500 mg twice daily",
+        "Doxycycline 100 mg twice daily"
+      ],
+      "answer": 2,
+      "difficulty": "core",
+      "explanation": "**C is correct.** **Cephalexin** is safe in the first trimester and does not rely on the antifolate class to which her bacteria may already be exposed. **A**: trimethoprim is a folate antagonist to avoid in the **first trimester**. **B**: treatment-dose co-trimoxazole in the first trimester is best avoided, and bacteria in women on prophylaxis are often resistant. **D** and **E** are contraindicated in pregnancy."
+    },
+    {
+      "id": "uti-q09",
+      "stem": "A 30-year-old at 24 weeks has had cystitis twice and pyelonephritis once in this pregnancy. She has just completed treatment and the test of cure is negative. What is the MOST appropriate next step?",
+      "options": [
+        "Nightly nitrofurantoin 50–100 mg (or cephalexin 250–500 mg) until delivery, monthly urine cultures, and look for an underlying cause (glucose, sickle status, HIV, renal ultrasound)",
+        "No further action",
+        "Weekly ciprofloxacin",
+        "Elective caesarean section at 37 weeks",
+        "Stop all fluids at night to reduce urine output"
+      ],
+      "answer": 0,
+      "difficulty": "core",
+      "explanation": "**A is correct.** Recurrent UTI in pregnancy warrants **suppressive prophylaxis**, **monthly cultures** and a search for **risk factors** (diabetes, sickle cell, HIV, stones, anomalies). **B** leaves a high recurrence risk. **C**: fluoroquinolones are avoided. **D**: UTI is not an indication for CS. **E**: fluid restriction increases stasis and risk."
+    },
+    {
+      "id": "uti-q10",
+      "stem": "A 21-year-old at 30 weeks presents with fever and right-sided abdominal pain. The HC IV midwife says 'it must be malaria' because the mRDT is positive. Examination shows right renal angle tenderness; urine has nitrites and leucocytes 3+. What is the BEST interpretation?",
+      "options": [
+        "Malaria alone; treat with antimalarials only",
+        "Pyelonephritis alone; the mRDT must be false",
+        "Appendicitis; call the surgeons and give no antibiotics",
+        "Possible co-existing malaria and pyelonephritis: treat malaria and admit for IV antibiotics with urine and blood cultures",
+        "Normal pregnancy discomfort"
+      ],
+      "answer": 3,
+      "difficulty": "core",
+      "explanation": "**D is correct.** In Uganda **malaria and pyelonephritis can co-exist**, and an mRDT can remain positive after recent treated malaria; clear urinary findings with loin tenderness mean **pyelonephritis must be treated too**. **A** misses a sepsis risk. **B**: a positive mRDT should not be dismissed. **C**: appendicitis is a differential for right-sided pain, but urinary findings and renal angle tenderness favour pyelonephritis; antibiotics should not be withheld. **E** is unsafe."
+    },
+    {
+      "id": "uti-q11",
+      "stem": "A 26-year-old at 34 weeks with pyelonephritis is hypotensive (BP 82/48), HR 132, RR 28, confused, with lactate 4.6 mmol/L after the first litre of fluid. What is the MOST appropriate next step?",
+      "options": [
+        "Continue oral antibiotics and observe on the ward",
+        "Septic shock: call senior/ICU help, oxygen, broad-spectrum IV antibiotics (e.g. ceftriaxone 2 g ± gentamicin), further 500 mL fluid boluses with reassessment, catheter, and vasopressors if hypotension persists",
+        "Immediate caesarean section",
+        "Give 4 L of IV fluid rapidly then reassess",
+        "Start tocolysis"
+      ],
+      "answer": 1,
+      "difficulty": "advanced",
+      "explanation": "**B is correct.** Hypotension despite fluids and lactate above 4 mean **septic shock**: follow the sepsis bundle with senior/ICU input and **vasopressors** if needed; left lateral tilt. **A** is inadequate. **C**: an unstable mother should be resuscitated first; delivery is for obstetric indications. **D**: large uncontrolled fluid volumes risk **ARDS**; give boluses with reassessment. **E** is irrelevant and harmful."
+    },
+    {
+      "id": "uti-q12",
+      "stem": "A 24-year-old at 20 weeks has urine microscopy showing 30 pus cells per high-power field but repeated cultures show no growth. She has a vaginal discharge and her partner has urethral discharge. What is the MOST likely cause?",
+      "options": [
+        "E. coli pyelonephritis",
+        "Group B streptococcal bacteriuria",
+        "Normal pregnancy finding",
+        "Renal cell carcinoma",
+        "Urethritis/cervicitis from chlamydia or gonorrhoea (sterile pyuria)"
+      ],
+      "answer": 4,
+      "difficulty": "advanced",
+      "explanation": "**E is correct.** **Sterile pyuria** with discharge in her and her partner suggests an **STI** (chlamydia/gonorrhoea); manage with syndromic treatment safe in pregnancy (e.g. ceftriaxone + azithromycin) and partner treatment. **A**: would grow on culture and cause fever/loin pain. **C**: significant pyuria is not normal. **D** is very unlikely. **B**: GBS grows on culture."
+    },
+    {
+      "id": "uti-q13",
+      "stem": "A 27-year-old at 36 weeks has group B streptococcus (10⁴ CFU/mL) on urine culture. She is asymptomatic. What is the MOST appropriate plan?",
+      "options": [
+        "No action because the count is below 10⁵",
+        "Give intrapartum antibiotics only if she develops fever",
+        "Treat the bacteriuria now and give intrapartum IV benzylpenicillin prophylaxis in labour",
+        "Elective caesarean section",
+        "Treat the baby with antibiotics for 7 days after birth routinely"
+      ],
+      "answer": 2,
+      "difficulty": "core",
+      "explanation": "**C is correct.** **GBS bacteriuria at any count** indicates heavy colonisation: treat now and give **intrapartum antibiotic prophylaxis** (benzylpenicillin 3 g IV then 1.8 g 4-hourly) to prevent early-onset neonatal GBS sepsis. **A**: the 10⁵ threshold does not apply to GBS. **B** is too late for prevention. **D**: CS does not replace prophylaxis and is not indicated. **E**: routine neonatal antibiotics are not recommended if the mother received adequate prophylaxis."
+    },
+    {
+      "id": "uti-q14",
+      "stem": "A 23-year-old at 12 weeks with suspected cystitis gives a urine sample. The lab reports mixed growth of three organisms with many squamous epithelial cells. What is the BEST next step?",
+      "options": [
+        "Repeat a properly collected clean-catch midstream urine",
+        "Treat all three organisms with broad-spectrum antibiotics",
+        "Diagnose pyelonephritis",
+        "Perform suprapubic aspiration routinely",
+        "Ignore the symptoms"
+      ],
+      "answer": 0,
+      "difficulty": "core",
+      "explanation": "**A is correct.** Mixed growth with epithelial cells indicates **contamination**; teach clean-catch technique (separate labia, clean front to back, midstream sample, lab within 2 hours) and repeat. If symptomatic, empirical treatment can start after the repeat sample is sent. **B** treats contamination. **C**: no clinical features of pyelonephritis. **D**: invasive and unnecessary. **E**: symptoms still need assessment."
+    },
+    {
+      "id": "uti-q15",
+      "stem": "A 25-year-old at 30 weeks was treated for pyelonephritis with IV ceftriaxone for 3 days and is now afebrile for 48 hours and eating. What is the MOST appropriate discharge plan?",
+      "options": [
+        "Stop antibiotics; she is cured",
+        "Oral ciprofloxacin for 7 days",
+        "Oral nitrofurantoin for 3 days only",
+        "Oral step-down (e.g. cefixime 200 mg 12-hourly) to complete 10–14 days total, test-of-cure culture 1–2 weeks later, then suppressive prophylaxis and regular cultures",
+        "IV ceftriaxone at home for 4 weeks"
+      ],
+      "answer": 3,
+      "difficulty": "core",
+      "explanation": "**D is correct.** Complete **10–14 days** with an oral agent to which the organism is sensitive, then **test of cure**, **prophylaxis** (recurrence 6–8%) and regular cultures. **A**: 3 days is inadequate for pyelonephritis. **C**: nitrofurantoin does not treat renal parenchyma and 3 days is too short. **B**: fluoroquinolones are avoided. **E**: unnecessary and impractical."
+    }
+  ],
+  "cases": [
+    {
+      "id": "uti-c01",
+      "title": "Asymptomatic bacteriuria at booking",
+      "presentation": "Harriet, 20, G1 at 13 weeks, books at a HC IV in Mbale. She is well. The booking urine dipstick shows nitrites positive and leucocytes 1+. The hospital lab 30 km away can do cultures.",
+      "steps": [
+        {
+          "prompt": "What is the likely diagnosis, and why does it matter in pregnancy?",
+          "answer": "**Asymptomatic bacteriuria** (confirm by culture: 10⁵ CFU/mL or more of one organism). It matters because pregnancy's ureteric dilatation and stasis mean **20–40% progress to pyelonephritis** if untreated, with risks of sepsis and preterm birth; treatment reduces pyelonephritis and low birth weight."
+        },
+        {
+          "prompt": "What history and checks do you add?",
+          "answer": "Symptoms (internal dysuria, frequency beyond her usual, fever, loin pain), previous UTIs, diabetes risk factors, **sickle status**, HIV status, drug allergies, G6PD history, vaginal discharge. Check BP, temperature, urine protein and glucose. Teach **clean-catch MSU** technique and send to the lab within 2 hours (or refrigerate)."
+        },
+        {
+          "prompt": "Culture grows E. coli 10⁵ CFU/mL, resistant to amoxicillin and co-trimoxazole, sensitive to nitrofurantoin and cephalexin. What do you prescribe?",
+          "answer": "**Nitrofurantoin 100 mg MR orally 12-hourly for 7 days** (or 50–100 mg 6-hourly), or **cephalexin 500 mg 8-hourly for 7 days**. Not amoxicillin (resistant), not co-trimoxazole or trimethoprim (resistant; first trimester), never ciprofloxacin or doxycycline. Advise fluids, regular voiding, and return if fever or loin pain."
+        },
+        {
+          "prompt": "What follow-up does she need?",
+          "answer": "**Test-of-cure culture 1–2 weeks** after finishing, then culture **each trimester** (or monthly if recurrent). If ASB recurs, re-treat by sensitivities and consider **nightly prophylaxis** until delivery. Look for causes if recurrent (glucose, sickle, HIV, renal ultrasound)."
+        }
+      ],
+      "takeaway": "Screen at booking, confirm with culture, treat ASB for 7 days with a pregnancy-safe drug chosen by sensitivity, and always do a test of cure."
+    },
+    {
+      "id": "uti-c02",
+      "title": "Pyelonephritis with sepsis at 26 weeks",
+      "presentation": "Night admission at Mengo: Proscovia, 24, G2P1 at 26 weeks, with 2 days of fever, rigors, right loin pain and vomiting. T 39.2 °C, HR 118, RR 22, BP 104/66, SpO₂ 97%. Right renal angle tenderness. Uterus soft, no contractions, FHR 170.",
+      "steps": [
+        {
+          "prompt": "Summarise the likely diagnosis and immediate differentials.",
+          "answer": "**Acute right pyelonephritis with sepsis** (MEOWS triggers). Differentials: **malaria** (can co-exist), appendicitis (right-sided, higher in pregnancy), chorioamnionitis (uterus non-tender), pneumonia, cholecystitis, renal stone with infected obstruction."
+        },
+        {
+          "prompt": "What do you do in the first hour?",
+          "answer": "Senior informed; **IV access**; bloods: FBC, creatinine, electrolytes, **blood cultures**, **mRDT**, glucose, lactate; **urine for culture before antibiotics**; **IV ceftriaxone 2 g** within the hour; **Ringer's lactate 500 mL bolus** and reassess; **paracetamol 1 g**; antiemetic; catheter or strict intake/output; oxygen if SpO₂ falls; left lateral position; FHR monitoring."
+        },
+        {
+          "prompt": "What do you monitor over the next 48 hours, and which complications do you look for?",
+          "answer": "MEOWS 1–4-hourly, **SpO₂ and RR** (ARDS/pulmonary oedema, especially with fluids), urine output (AKI), temperature curve, Hb (**haemolytic anaemia**), creatinine, **contractions** (preterm labour; steroids if delivery likely, avoid salbutamol), fetal heart (tachycardia should settle as fever falls)."
+        },
+        {
+          "prompt": "On day 3 she is still febrile at 38.9 °C. Culture shows E. coli resistant to ceftriaxone (ESBL). What now?",
+          "answer": "Switch to a **culture-guided agent** (e.g. **meropenem 1 g IV 8-hourly**), request **renal ultrasound** (obstruction, stone, abscess; hydronephrosis out of proportion to gestation), involve urology if obstructed (stent/nephrostomy), recheck malaria and other sources."
+        },
+        {
+          "prompt": "She improves and is afebrile for 48 hours. How do you discharge her?",
+          "answer": "Oral step-down according to sensitivities to complete **10–14 days** (for an ESBL organism, options are limited: nitrofurantoin is not adequate for pyelonephritis; discuss with microbiology, e.g. complete IV therapy or use an oral agent to which it is sensitive and which is safe in pregnancy). **Test of cure** 1–2 weeks later, **nightly prophylaxis** (e.g. nitrofurantoin 50–100 mg if sensitive) until delivery, **monthly cultures**, safety-net advice."
+        }
+      ],
+      "takeaway": "Pyelonephritis in pregnancy is a sepsis emergency: cultures first, IV antibiotics within the hour, careful fluids, watch for ARDS and preterm labour, and escalate early if not better at 48–72 hours."
+    },
+    {
+      "id": "uti-c03",
+      "title": "Recurrent UTIs and an underlying cause",
+      "presentation": "Sylvia, 30, G4P3 at 28 weeks, attends ANC at a regional referral hospital with her third symptomatic UTI of this pregnancy. She is overweight and her last baby weighed 4.2 kg. She has never had an HIV test in this pregnancy.",
+      "steps": [
+        {
+          "prompt": "What underlying causes should you look for, and why?",
+          "answer": "**Diabetes/GDM** (glycosuria feeds bacteria; previous macrosomia and obesity are risk factors), **HIV** (immunosuppression), **sickle cell disease/trait** (papillary damage, concentrating defect), **urinary stones or anomalies**, incomplete bladder emptying, sexual/hygiene factors, and inadequate treatment (resistant organism, no test of cure)."
+        },
+        {
+          "prompt": "Which investigations do you order?",
+          "answer": "MSU culture and sensitivity; **75 g OGTT** (she is 28 weeks with risk factors); **HIV test**; **Hb electrophoresis/sickling test** if status unknown; creatinine; **renal ultrasound** (stones, hydronephrosis out of proportion, anomalies)."
+        },
+        {
+          "prompt": "Culture grows Proteus sensitive to cephalexin; OGTT confirms GDM; renal ultrasound shows a right renal pelvis stone. How do you manage her?",
+          "answer": "Treat the UTI: **cephalexin 500 mg 8-hourly for 7 days**; test of cure. Start **prophylaxis**: **cephalexin 250–500 mg nightly** until delivery. Manage **GDM** (diet, monitoring, metformin/insulin as needed). **Stone**: urology review; Proteus (urease-producing) favours struvite stones; stent/nephrostomy only if obstruction or infection fails to settle; definitive treatment after delivery."
+        },
+        {
+          "prompt": "What follow-up is needed after delivery?",
+          "answer": "Continue prophylaxis up to 6 weeks postpartum if advised; **postpartum GDM testing at 6–13 weeks**; **renal imaging** after physiological dilatation resolves and stone management; counsel about early urine screening in future pregnancies."
+        }
+      ],
+      "takeaway": "Recurrent UTI in pregnancy is a clue: treat and prevent (nightly prophylaxis), then hunt for the cause (diabetes, HIV, sickle cell, stones, anomalies)."
+    }
+  ],
+  "references": [
+    {
+      "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions (urinary tract infections; infections in pregnancy)",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://www.differentiatedservicedelivery.org/wp-content/uploads/UCG-2023-Publication-Final-PDF-Version-1.pdf"
+    },
+    {
+      "title": "WHO recommendations on antenatal care for a positive pregnancy experience (asymptomatic bacteriuria screening and 7-day treatment)",
+      "source": "World Health Organization",
+      "year": 2016
+    },
+    {
+      "title": "Antibiotics for asymptomatic bacteriuria in pregnancy (Cochrane Review CD000490)",
+      "source": "Smaill FM, Vazquez JC. Cochrane Database of Systematic Reviews",
+      "year": 2019
+    },
+    {
+      "title": "Clinical Practice Guideline for the Management of Asymptomatic Bacteriuria: 2019 Update by the Infectious Diseases Society of America",
+      "source": "Nicolle LE, et al. Clinical Infectious Diseases",
+      "year": 2019
+    },
+    {
+      "title": "Microbial aetiology and sensitivity of asymptomatic bacteriuria among ante-natal mothers in Mulago hospital, Uganda",
+      "source": "Andabati G, Byamugisha J. African Health Sciences",
+      "year": 2010
+    },
+    {
+      "title": "Sulfonamides, Nitrofurantoin, and Risk of Birth Defects (Committee Opinion No. 717)",
+      "source": "American College of Obstetricians and Gynecologists",
+      "year": 2017
+    },
+    {
+      "title": "Prevention of Early-onset Neonatal Group B Streptococcal Disease (Green-top Guideline No. 36)",
+      "source": "Royal College of Obstetricians and Gynaecologists",
+      "year": 2017
+    },
+    {
+      "title": "Williams Obstetrics, 26th edition: Renal and Urinary Tract Disorders chapter",
+      "source": "McGraw Hill",
+      "year": 2022
+    }
+  ]
+}
