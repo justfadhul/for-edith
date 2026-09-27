@@ -1,0 +1,478 @@
+{
+  "slug": "diabetes-in-pregnancy",
+  "flashcards": [
+    {
+      "id": "dm-f01",
+      "front": "Which placental hormones cause insulin resistance in pregnancy?",
+      "back": "**Human placental lactogen** (main), placental growth hormone, **progesterone**, **cortisol**, **prolactin** (and placental TNF-alpha). Resistance rises from the second trimester and disappears within hours of delivering the placenta."
+    },
+    {
+      "id": "dm-f02",
+      "front": "Why do women with type 1 diabetes get more hypoglycaemia in the first trimester?",
+      "back": "Early pregnancy **increases insulin sensitivity** (and fasting glucose falls), and nausea/vomiting reduces intake. Insulin doses often need reducing."
+    },
+    {
+      "id": "dm-f03",
+      "front": "State the WHO 2013 75 g OGTT thresholds for GDM.",
+      "back": "Any one of: **fasting 5.1–6.9 mmol/L**, **1-hour 10.0 mmol/L or more**, **2-hour 8.5–11.0 mmol/L**."
+    },
+    {
+      "id": "dm-f04",
+      "front": "What OGTT or fasting values indicate overt diabetes in pregnancy (WHO 2013)?",
+      "back": "**Fasting 7.0 mmol/L or more**, **2-hour 11.1 or more**, or **random 11.1 or more with symptoms**."
+    },
+    {
+      "id": "dm-f05",
+      "front": "NICE diagnostic thresholds for GDM?",
+      "back": "**Fasting 5.6 mmol/L or more** or **2-hour 7.8 mmol/L or more** on a 75 g OGTT."
+    },
+    {
+      "id": "dm-f06",
+      "front": "Explain the Pedersen hypothesis in one line.",
+      "back": "**Glucose crosses the placenta, insulin does not**: fetal hyperglycaemia causes **fetal hyperinsulinaemia**, which drives macrosomia, organomegaly, polyhydramnios, delayed lung maturity and neonatal hypoglycaemia."
+    },
+    {
+      "id": "dm-f07",
+      "front": "Why is macrosomia in diabetes associated with more shoulder dystocia?",
+      "back": "Insulin-driven growth is **asymmetric**: fat is deposited on the **shoulders, chest and abdomen**, which outgrow the head, so the shoulders impact even at lower birth weights."
+    },
+    {
+      "id": "dm-f08",
+      "front": "Why does a baby of a diabetic mother become hypoglycaemic after birth?",
+      "back": "Its pancreas has been making **excess insulin** in response to maternal glucose. At cord clamping the glucose supply stops but hyperinsulinaemia persists for hours to days."
+    },
+    {
+      "id": "dm-f09",
+      "front": "Glucose targets in pregnancy (NICE)?",
+      "back": "**Fasting below 5.3**, **1-hour post-meal below 7.8**, or **2-hour post-meal below 6.4 mmol/L**; on insulin keep above **4.0 mmol/L**."
+    },
+    {
+      "id": "dm-f10",
+      "front": "Which women should have an OGTT in Uganda (risk-based)?",
+      "back": "BMI above 30, **previous GDM** (test early and again at 24–28 weeks), **previous baby 4 kg or more**, first-degree relative with diabetes, previous unexplained stillbirth, polyhydramnios, **glycosuria 2+ once or 1+ twice**, PCOS, age 35 or more. Universal screening at 24–28 weeks is ideal."
+    },
+    {
+      "id": "dm-f11",
+      "front": "First-line treatment of GDM and when to escalate?",
+      "back": "**Diet and exercise** with self-monitoring. If targets are not met in **1–2 weeks**, add **metformin**; if still not met, add **insulin**. Start **insulin immediately** if fasting glucose is **7.0 or more** at diagnosis."
+    },
+    {
+      "id": "dm-f12",
+      "front": "Metformin dosing in pregnancy?",
+      "back": "Start **500 mg orally** with the evening meal (or twice daily), increase by 500 mg every few days to a week, usual maximum **2,000 mg/day** in divided doses with meals. Keep low in women on dolutegravir."
+    },
+    {
+      "id": "dm-f13",
+      "front": "Folic acid dose for a woman with pre-existing diabetes planning pregnancy?",
+      "back": "**5 mg orally once daily** from 3 months before conception until 12 weeks' gestation."
+    },
+    {
+      "id": "dm-f14",
+      "front": "Which drugs must a woman with pre-existing diabetes stop before/at conception?",
+      "back": "**ACE inhibitors, ARBs and statins**; oral hypoglycaemics other than metformin (switch to insulin/metformin)."
+    },
+    {
+      "id": "dm-f15",
+      "front": "Timing of delivery for type 1/type 2 diabetes and for diet-controlled GDM (NICE)?",
+      "back": "Type 1/2: **37+0 to 38+6 weeks**. Diet-controlled GDM: **no later than 40+6 weeks**. Earlier if complications."
+    },
+    {
+      "id": "dm-f16",
+      "front": "Intrapartum capillary glucose target and frequency?",
+      "back": "**4–7 mmol/L**, checked **hourly** in established labour. Use an IV insulin–dextrose infusion if above range (always for type 1)."
+    },
+    {
+      "id": "dm-f17",
+      "front": "Describe a GKI (Alberti) infusion.",
+      "back": "**500 mL of 10% dextrose + 10 units soluble insulin + 10 mmol KCl at 100 mL/hour**; adjust insulin in the next bag (5 or 15 units) according to hourly glucose. Useful where no syringe driver."
+    },
+    {
+      "id": "dm-f18",
+      "front": "What do you do with GDM treatment after delivery?",
+      "back": "**Stop all glucose-lowering treatment** immediately, check glucose before discharge, then **fasting glucose at 6–13 weeks** (or OGTT at 4–12 weeks), and **annual screening for life**."
+    },
+    {
+      "id": "dm-f19",
+      "front": "Why does DKA occur at lower glucose levels in pregnancy?",
+      "back": "Compensated **respiratory alkalosis** lowers serum **bicarbonate** (less buffer), plus **accelerated starvation** and insulin resistance, so ketoacidosis develops faster, sometimes with glucose below 11 mmol/L."
+    },
+    {
+      "id": "dm-f20",
+      "front": "Core DKA treatment in pregnancy?",
+      "back": "0.9% saline, **fixed-rate IV insulin 0.1 unit/kg/h**, **potassium 40 mmol/L** if K⁺ 3.5–5.5, **10% dextrose 125 mL/h when glucose falls below 14**, treat the trigger, left lateral tilt. **Do not rush to CS**; CTG usually recovers as the mother is corrected."
+    },
+    {
+      "id": "dm-f21",
+      "front": "Why should salbutamol be avoided for tocolysis in a diabetic woman?",
+      "back": "Beta-agonists cause **hyperglycaemia** and can precipitate **DKA**. Nifedipine is preferred."
+    },
+    {
+      "id": "dm-f22",
+      "front": "Neonatal glucose monitoring after a diabetic pregnancy?",
+      "back": "Feed within **30–60 minutes**, then every 2–3 hours; check glucose **2–4 hours after birth (before the second feed)** and before feeds for 24 hours. Treat low glucose per protocol (many Ugandan units treat below 2.6 mmol/L)."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "dm-q01",
+      "stem": "A 29-year-old G3P2 at 26 weeks, BMI 33, has a 75 g OGTT: fasting 5.3, 1-hour 9.2, 2-hour 7.9 mmol/L. How should this result be interpreted using WHO 2013 criteria?",
+      "options": [
+        "Normal; no GDM",
+        "GDM, because the fasting value is 5.1 or more",
+        "GDM only if two values are abnormal",
+        "Overt diabetes in pregnancy",
+        "Impaired glucose tolerance, repeat at 32 weeks"
+      ],
+      "answer": 1,
+      "difficulty": "core",
+      "explanation": "**B is correct.** WHO 2013 requires **any one** value: fasting 5.1–6.9, 1-hour 10.0 or more, or 2-hour 8.5–11.0. Her fasting 5.3 qualifies. **A** ignores the fasting value. **C** describes older two-value criteria (Carpenter-Coustan), not WHO 2013. **D** requires fasting 7.0 or more or 2-hour 11.1 or more. **E**: 'impaired glucose tolerance' is not a pregnancy category, and delaying diagnosis delays treatment."
+    },
+    {
+      "id": "dm-q02",
+      "stem": "A 31-year-old at 28 weeks is diagnosed with GDM on OGTT (fasting 5.4, 2-hour 8.9 mmol/L). She has no complications and the scan shows normal growth. What is the MOST appropriate initial management?",
+      "options": [
+        "Start insulin 0.5 units/kg/day",
+        "Start glibenclamide 5 mg daily",
+        "No treatment; repeat OGTT at 34 weeks",
+        "Admit for induction of labour at 34 weeks",
+        "Dietary advice, daily walking and capillary glucose self-monitoring, reviewed in 1–2 weeks"
+      ],
+      "answer": 4,
+      "difficulty": "core",
+      "explanation": "**E is correct.** Mild GDM (fasting below 7.0, no complications) starts with **diet, exercise and self-monitoring**, escalating to metformin if targets are not met in 1–2 weeks. **A**: insulin first-line is for fasting 7.0 or more or complications. **B**: glibenclamide is second-line (crosses the placenta, more macrosomia/neonatal hypoglycaemia). **D**: no indication for preterm delivery. **C**: untreated GDM increases macrosomia and stillbirth."
+    },
+    {
+      "id": "dm-q03",
+      "stem": "A 27-year-old at 30 weeks with GDM has followed diet and exercise for 2 weeks. Her readings: fasting 5.8–6.2, 1-hour post-meal 8.0–8.6 mmol/L. She is on TLD for HIV. What is the BEST next step?",
+      "options": [
+        "Continue diet only and recheck in 4 weeks",
+        "Start premixed insulin 30/70 at 1 unit/kg/day",
+        "Start metformin at a low dose (500 mg with the evening meal) and titrate carefully, noting the interaction with dolutegravir",
+        "Stop dolutegravir and start efavirenz so that metformin can be used",
+        "Induce labour at 32 weeks"
+      ],
+      "answer": 2,
+      "difficulty": "advanced",
+      "explanation": "**C is correct.** Targets are not met after 1–2 weeks, so add **metformin**; **DTG raises metformin levels**, so start low and titrate, monitoring for side effects. **A** delays needed treatment. **B**: insulin is reasonable if metformin fails or is contraindicated, but 1 unit/kg/day is an excessive starting dose that risks hypoglycaemia. **D**: changing effective ART is unnecessary and risky. **E**: no indication for preterm delivery."
+    },
+    {
+      "id": "dm-q04",
+      "stem": "A 26-year-old at 32 weeks with GDM on metformin 1 g twice daily has persistently high fasting glucose (6.4–6.8 mmol/L) but normal post-meal readings. What is the MOST appropriate change?",
+      "options": [
+        "Add isophane (NPH) insulin at bedtime, starting about 0.1–0.2 units/kg and titrating",
+        "Add soluble insulin before each meal",
+        "Increase metformin to 4 g/day",
+        "Add a bedtime snack of sweet porridge",
+        "Stop metformin and start glibenclamide"
+      ],
+      "answer": 0,
+      "difficulty": "core",
+      "explanation": "**A is correct.** **Fasting hyperglycaemia** reflects overnight hepatic glucose output, controlled by **basal (bedtime isophane) insulin**. **B**: pre-meal soluble insulin treats post-meal peaks, which are already controlled. **C**: 4 g exceeds the usual maximum (2–2.5 g). **D**: a sugary snack would worsen fasting glucose. **E**: glibenclamide is inferior and does not specifically target the fasting problem."
+    },
+    {
+      "id": "dm-q05",
+      "stem": "A 24-year-old with type 1 diabetes at 8 weeks has had three episodes of confusion and sweating early in the morning this week. Her insulin doses are unchanged from before pregnancy. What is the MOST likely explanation?",
+      "options": [
+        "Diabetic ketoacidosis",
+        "Insulin resistance from human placental lactogen",
+        "Hyperemesis-related hyponatraemia",
+        "Increased insulin sensitivity of early pregnancy with vomiting, causing hypoglycaemia",
+        "Hypothyroidism"
+      ],
+      "answer": 3,
+      "difficulty": "core",
+      "explanation": "**D is correct.** The first trimester brings **increased insulin sensitivity** and nausea/reduced intake, so **hypoglycaemia** is common in type 1 diabetes. Reduce doses, carry glucose, supply glucagon. **A**: DKA causes vomiting, abdominal pain and drowsiness, not recurrent early-morning sweating episodes that resolve. **C**: hyponatraemia does not cause episodic sweating. **B**: hPL-driven resistance is a second/third-trimester phenomenon and would raise glucose. **E**: possible in type 1 but does not explain episodic neuroglycopenia."
+    },
+    {
+      "id": "dm-q06",
+      "stem": "A 30-year-old with type 2 diabetes on metformin and glimepiride, plus lisinopril for hypertension, attends pre-conception clinic. HbA1c is 9.8% (84 mmol/mol). What is the MOST appropriate advice?",
+      "options": [
+        "Conceive now; control will improve in pregnancy",
+        "Use effective contraception while improving control (target HbA1c below 6.5%); stop glimepiride and lisinopril, switching to insulin/metformin and nifedipine or methyldopa; folic acid 5 mg daily from 3 months pre-conception",
+        "Continue current drugs and start folic acid 0.4 mg",
+        "Stop all diabetes medication before conception",
+        "Start aspirin now and conceive"
+      ],
+      "answer": 1,
+      "difficulty": "core",
+      "explanation": "**B is correct.** High periconception HbA1c raises anomaly and miscarriage risk; aim for **HbA1c below 48 mmol/mol (6.5%)** before conception, **stop ACE inhibitors** (fetotoxic) and non-metformin oral agents, and give **folic acid 5 mg**. **A**: organogenesis happens before control improves. **C**: lisinopril and glimepiride should be stopped and 0.4 mg folate is insufficient. **D**: stopping treatment worsens hyperglycaemia. **E**: aspirin is started from 12 weeks of pregnancy and does not address control."
+    },
+    {
+      "id": "dm-q07",
+      "stem": "A 28-year-old P1 at 38 weeks with insulin-treated GDM is in established labour. Capillary glucose is 9.4 mmol/L. What is the MOST appropriate action?",
+      "options": [
+        "Give her usual subcutaneous premixed insulin dose",
+        "Give 50 mL of 50% dextrose",
+        "Recheck glucose after delivery",
+        "Perform an emergency caesarean section",
+        "Start an IV insulin–dextrose (variable-rate or GKI) infusion and check glucose hourly aiming for 4–7 mmol/L"
+      ],
+      "answer": 4,
+      "difficulty": "core",
+      "explanation": "**E is correct.** Intrapartum target is **4–7 mmol/L** with **hourly** checks; hyperglycaemia in labour causes fetal hyperinsulinaemia, acidosis and neonatal hypoglycaemia. **A**: subcutaneous premixed insulin in labour is unpredictable (she may not eat, delivery timing uncertain). **C** misses the window. **D**: glucose of 9.4 is not an indication for CS. **B**: dextrose would worsen hyperglycaemia."
+    },
+    {
+      "id": "dm-q08",
+      "stem": "A 32-year-old with GDM controlled on metformin 1 g twice daily delivers vaginally. What should happen to her metformin?",
+      "options": [
+        "Continue for 6 weeks postpartum",
+        "Halve the dose while breastfeeding",
+        "Stop immediately after delivery and check glucose before discharge",
+        "Switch to insulin until the 6-week check",
+        "Continue for life"
+      ],
+      "answer": 2,
+      "difficulty": "core",
+      "explanation": "**C is correct.** Insulin resistance disappears with the placenta, so **GDM treatment is stopped** at delivery; check glucose before discharge to detect persisting hyperglycaemia, then test at **6–13 weeks**. **A**, **B**, **E**: unnecessary continuation (possible overt diabetes is detected by testing, not by continuing drugs blindly). **D**: insulin would risk hypoglycaemia."
+    },
+    {
+      "id": "dm-q09",
+      "stem": "A 23-year-old with type 1 diabetes at 30 weeks presents with 2 days of vomiting, abdominal pain and rapid deep breathing. Capillary glucose 13.2 mmol/L, urine ketones 3+, bicarbonate 10 mmol/L, K⁺ 4.6 mmol/L. CTG shows reduced variability and late decelerations. What is the MOST appropriate immediate management?",
+      "options": [
+        "IV 0.9% saline, fixed-rate IV insulin 0.1 unit/kg/hour, potassium replacement in fluids, left lateral tilt and fetal monitoring as the mother is stabilised",
+        "Emergency caesarean section for fetal distress",
+        "Subcutaneous soluble insulin 10 units and discharge",
+        "IV sodium bicarbonate 8.4% 100 mL",
+        "Oral rehydration and antiemetics"
+      ],
+      "answer": 0,
+      "difficulty": "advanced",
+      "explanation": "**A is correct.** This is **DKA**. Treat the mother: fluids, **fixed-rate insulin 0.1 unit/kg/h**, **K⁺ 40 mmol/L** (K⁺ 4.6 is in the 3.5–5.5 range), dextrose when glucose falls below 14, and treat the trigger. Fetal heart changes reflect maternal acidosis and usually **resolve with correction**. **B**: operating on an acidotic, hypovolaemic mother risks maternal death and delivers an acidotic preterm baby. **C** is inadequate and dangerous. **D**: bicarbonate is not routinely used. **E** is inadequate for DKA."
+    },
+    {
+      "id": "dm-q10",
+      "stem": "A 35-year-old at 36 weeks with pre-existing type 2 diabetes on insulin notices that her insulin requirement has fallen by 25% over the last 2 weeks without dietary change. What is the MOST important next step?",
+      "options": [
+        "Reduce insulin and reassure",
+        "Increase carbohydrate intake",
+        "Stop insulin because she is cured",
+        "Assess fetal wellbeing urgently (CTG, growth scan, liquor, umbilical artery Doppler)",
+        "Arrange an OGTT"
+      ],
+      "answer": 3,
+      "difficulty": "advanced",
+      "explanation": "**D is correct.** A significant fall in insulin requirement in late pregnancy can signal **placental insufficiency** (falling placental hormone output), so the fetus must be assessed. **A**: dose reduction may be needed for safety, but reassurance alone misses the warning sign. **C**: diabetes does not resolve. **B** treats the number not the cause. **E**: she has known diabetes."
+    },
+    {
+      "id": "dm-q11",
+      "stem": "A 26-year-old at 29 weeks with GDM on insulin is admitted in threatened preterm labour. Which management is MOST appropriate?",
+      "options": [
+        "Salbutamol infusion for tocolysis and dexamethasone",
+        "Nifedipine for tocolysis if indicated, dexamethasone 6 mg IM 12-hourly for 4 doses, with increased insulin and 2–4-hourly glucose monitoring",
+        "Withhold steroids because of diabetes",
+        "Dexamethasone and stop insulin",
+        "Magnesium sulphate for tocolysis and withhold steroids"
+      ],
+      "answer": 1,
+      "difficulty": "advanced",
+      "explanation": "**B is correct.** Steroids are **not withheld** in diabetes, but they raise glucose for several days, so **increase insulin** and monitor closely. **Nifedipine** is the preferred tocolytic. **A**: beta-agonists cause hyperglycaemia and DKA. **C**: denies the baby proven benefit. **D**: stopping insulin during steroid therapy risks severe hyperglycaemia/DKA. **E**: MgSO₄ is used for fetal neuroprotection below 32 weeks, not as a first-line tocolytic, and steroids should not be withheld."
+    },
+    {
+      "id": "dm-q12",
+      "stem": "A term baby weighing 4.4 kg is born to a mother with poorly controlled GDM. At 3 hours the baby is jittery and feeding poorly; glucose is 1.8 mmol/L. What is the MOST appropriate management?",
+      "options": [
+        "Give oral water and recheck in 6 hours",
+        "Start formula feeds only and discharge",
+        "Give 50% dextrose 5 mL/kg IV",
+        "Observe; jitteriness is normal in large babies",
+        "IV 10% dextrose 2 mL/kg bolus then a maintenance dextrose infusion, admit to the neonatal unit and monitor glucose"
+      ],
+      "answer": 4,
+      "difficulty": "core",
+      "explanation": "**E is correct.** A **symptomatic** hypoglycaemic baby needs **IV 10% dextrose 2 mL/kg**, then a maintenance infusion, with continued breastfeeding when possible. **A**: water provides no glucose. **C**: 50% dextrose is hyperosmolar and can cause rebound hypoglycaemia (hyperinsulinaemic baby) and vein damage. **D**: jitteriness with low glucose is a warning sign. **B**: discharging a symptomatic baby is unsafe."
+    },
+    {
+      "id": "dm-q13",
+      "stem": "A 30-year-old at 38 weeks with GDM on metformin, well controlled, has an estimated fetal weight of 4.7 kg on ultrasound. What is the BEST plan for delivery?",
+      "options": [
+        "Induction of labour now",
+        "Await spontaneous labour up to 41 weeks",
+        "Offer elective caesarean section",
+        "Deliver by vacuum extraction at full dilatation",
+        "External cephalic version"
+      ],
+      "answer": 2,
+      "difficulty": "advanced",
+      "explanation": "**C is correct.** In a diabetic woman, an EFW of **4,500 g or more** justifies offering **elective CS** (ACOG) because of the high risk of shoulder dystocia and brachial plexus injury. **A**: induction for suspected macrosomia is reasonable at lower EFW but here CS should be offered. **B**: delaying increases stillbirth and dystocia risk. **D**: instrumental delivery of a macrosomic baby increases shoulder dystocia. **E**: irrelevant (cephalic presentation assumed)."
+    },
+    {
+      "id": "dm-q14",
+      "stem": "A 33-year-old who had GDM delivered 8 weeks ago. Her fasting plasma glucose today is 6.3 mmol/L. How is this BEST interpreted and managed (NICE)?",
+      "options": [
+        "High risk of type 2 diabetes: lifestyle advice, diabetes-prevention support and annual testing",
+        "Normal; no follow-up needed",
+        "Type 2 diabetes: start metformin immediately",
+        "GDM persisting: restart insulin",
+        "Repeat testing only in her next pregnancy"
+      ],
+      "answer": 0,
+      "difficulty": "core",
+      "explanation": "**A is correct.** NICE: fasting below 6.0 = low risk; **6.0–6.9 = high risk** (prediabetes-range), managed with lifestyle intervention and annual testing; 7.0 or more = likely type 2 diabetes. **B** under-reacts. **C** and **D** over-diagnose. **E**: she needs annual screening regardless of future pregnancy, plus an early OGTT if she conceives again."
+    },
+    {
+      "id": "dm-q15",
+      "stem": "At a HC III, a 25-year-old at 26 weeks has glycosuria 2+ on dipstick. Her last baby weighed 4.2 kg. The HC III has no glucose strips or glucose powder. What is the MOST appropriate action?",
+      "options": [
+        "Reassure her: glycosuria is normal in pregnancy",
+        "Start metformin empirically",
+        "Start insulin empirically",
+        "Refer to the nearest HC IV/hospital for a 75 g OGTT at 24–28 weeks and explain why",
+        "Advise her to stop eating carbohydrates"
+      ],
+      "answer": 3,
+      "difficulty": "core",
+      "explanation": "**D is correct.** She has two risk factors (**glycosuria 2+** and **previous macrosomia**) and needs a **diagnostic OGTT** now (she is within 24–28 weeks). **A**: glycosuria can be physiological, but 2+ plus risk factors demands testing. **B** and **C**: treating without diagnosis is inappropriate and risky. **E**: carbohydrate restriction causes ketosis and is not advised."
+    }
+  ],
+  "cases": [
+    {
+      "id": "dm-c01",
+      "title": "GDM found in a woman with a previous big baby",
+      "presentation": "Florence, 33, G4P3+0 at 26 weeks, BMI 34, attends Mengo ANC. Her last baby weighed 4.3 kg and 'got stuck at the shoulders'. Her mother has diabetes. Urine dipstick shows glucose 1+.",
+      "steps": [
+        {
+          "prompt": "What further history do you take, and why?",
+          "answer": "Previous pregnancies: birth weights, shoulder dystocia details, stillbirths, neonatal hypoglycaemia/admission (clues to undiagnosed GDM). Symptoms: polyuria, polydipsia, recurrent candidiasis/UTIs. Medicines (e.g. TLD, steroids). Diet, activity, occupation, ability to afford strips. Fetal movements."
+        },
+        {
+          "prompt": "What investigation do you arrange and how should it be done?",
+          "answer": "**75 g OGTT at 24–28 weeks** (now): 8–14-hour overnight fast, fasting venous glucose, **75 g anhydrous glucose in 250–300 mL water over 5 minutes**, rest, glucose at **1 and 2 hours**. Result: fasting 5.8, 1-hour 10.9, 2-hour 9.1 mmol/L, meeting WHO 2013 criteria for **GDM** (every value is abnormal; none reach overt-diabetes thresholds)."
+        },
+        {
+          "prompt": "How do you manage her initially?",
+          "answer": "Education (cause, risks, plan). **Diet**: regular meals, low-GI carbohydrate in moderate portions with beans, greens, fish; no sugary drinks. **Walk 10–15 minutes after meals**. **Self-monitoring**: fasting and 1-hour post-meal. **Targets**: fasting below 5.3, 1-hour below 7.8. Review in 1–2 weeks. Growth scan."
+        },
+        {
+          "prompt": "Two weeks later fasting readings are 5.6–6.0 and post-meal 7.0–8.5. What next?",
+          "answer": "Start **metformin 500 mg with the evening meal**, increasing by 500 mg every few days to a week up to about **2 g/day** in divided doses with meals. If fasting remains above 5.3 on the maximum dose, add **bedtime isophane insulin (about 0.1–0.2 units/kg)** and titrate by 2 units every 2–3 days."
+        },
+        {
+          "prompt": "How do you plan delivery?",
+          "answer": "Growth scans at 28–32 and 36 weeks. If EFW is normal, plan **induction at about 38–39 weeks** (unit protocol). If EFW is **4.5 kg or more**, offer **CS**. Labour: hospital delivery, **hourly glucose, target 4–7 mmol/L**, insulin–dextrose infusion if above range, **senior present for possible shoulder dystocia**, active third stage (PPH risk)."
+        },
+        {
+          "prompt": "What happens after delivery?",
+          "answer": "**Stop metformin/insulin.** Check her glucose before discharge. Baby: breastfeed within 1 hour, **glucose at 2–4 hours** and before feeds for 24 hours; look for birth injury, jaundice, respiratory distress. **Fasting glucose at 6–13 weeks** (or OGTT), **annual screening for life**, early OGTT in the next pregnancy, weight and lifestyle advice, contraception."
+        }
+      ],
+      "takeaway": "Risk factors mean OGTT; treat in steps (diet, metformin, insulin) to NICE targets; plan delivery around fetal size; stop treatment after birth and screen for life."
+    },
+    {
+      "id": "dm-c02",
+      "title": "Type 1 diabetes in labour",
+      "presentation": "Brenda, 22, P0, with type 1 diabetes since age 12 on basal-bolus human insulin, is admitted at 37+4 weeks to a regional referral hospital for induction. Her HbA1c at booking was 8.4% and a scan at 36 weeks showed AC above the 95th centile with polyhydramnios.",
+      "steps": [
+        {
+          "prompt": "What are the key risks in this labour?",
+          "answer": "Maternal: hypoglycaemia, hyperglycaemia/DKA (especially if nil by mouth or on dextrose without insulin), PPH (polyhydramnios, big baby), operative delivery. Fetal: **shoulder dystocia**, **intrapartum hypoxia/stillbirth**, cord prolapse (polyhydramnios). Neonatal: **hypoglycaemia**, RDS, jaundice, polycythaemia, birth trauma."
+        },
+        {
+          "prompt": "How do you manage her glucose from the start of induction/labour?",
+          "answer": "Usual bedtime basal insulin the night before (consider reducing by a quarter). From established labour (or the morning of induction if nil by mouth): **IV dextrose (5–10% with KCl) at about 100 mL/hour plus variable-rate IV insulin** (50 units soluble in 50 mL saline). **Hourly capillary glucose, target 4–7 mmol/L**. Never leave a type 1 woman without insulin. If no syringe driver: **GKI** (500 mL 10% dextrose + 10 units soluble insulin + 10 mmol KCl at 100 mL/hour)."
+        },
+        {
+          "prompt": "Glucose falls to 3.4 mmol/L during labour. What do you do?",
+          "answer": "Treat hypoglycaemia: if she can drink, 15–20 g fast sugar; if not, **IV 10% dextrose 100 mL** (or 20% dextrose 50 mL); reduce the insulin rate (type 1: do not stop completely for long; e.g. 0.5 unit/hour) and recheck in 15 minutes. Review the sliding scale."
+        },
+        {
+          "prompt": "What precautions for delivery?",
+          "answer": "Continuous CTG. **Senior obstetrician in the second stage**, team briefed on **shoulder dystocia** (McRoberts, suprapubic pressure, internal manoeuvres). Avoid mid-cavity instrumental delivery for delay with suspected macrosomia; favour CS if progress arrests. Active management of third stage; oxytocin infusion ready. Neonatal team present."
+        },
+        {
+          "prompt": "What happens to her insulin after delivery?",
+          "answer": "Insulin needs **fall abruptly** after placental delivery: reduce the infusion rate immediately, and when eating restart subcutaneous insulin at the **pre-pregnancy dose** (or about half the late-pregnancy dose), overlapping with the infusion by 30–60 minutes. Warn about **hypoglycaemia during breastfeeding**. Contraception and pre-conception counselling for the next pregnancy."
+        }
+      ],
+      "takeaway": "In type 1 diabetes, insulin and dextrose always travel together in labour, glucose is kept at 4–7 mmol/L hourly, and insulin must be cut sharply the moment the placenta is out."
+    },
+    {
+      "id": "dm-c03",
+      "title": "DKA at 30 weeks",
+      "presentation": "Night call: Joan, 24, type 1 diabetes, 30 weeks, arrives at a general hospital with 2 days of vomiting, fever and loin pain. She stopped her insulin 'because she was not eating'. RR 32, HR 124, BP 94/60, temperature 38.6 °C, drowsy. Capillary glucose 14.8 mmol/L, urine ketones 3+, nitrites positive. Fetal heart 170 bpm.",
+      "steps": [
+        {
+          "prompt": "What is the diagnosis and the likely trigger?",
+          "answer": "**Diabetic ketoacidosis** (ketonuria 3+, Kussmaul-type breathing, dehydration, drowsiness) triggered by **acute pyelonephritis** (fever, loin pain, nitrites) and **omitted insulin**. Glucose is only moderately raised, typical of pregnancy. Fetal tachycardia reflects maternal fever and acidosis."
+        },
+        {
+          "prompt": "What are your first 30 minutes of actions?",
+          "answer": "Call for help (obstetrician, physician, anaesthetist). ABCDE, oxygen if SpO₂ below 94%, **left lateral tilt**. Two large cannulae; bloods: glucose, ketones, **K⁺**, creatinine, bicarbonate/blood gas, FBC, **blood culture**, malaria test; urine culture. **0.9% saline 500 mL rapid bolus** (SBP below 100) then 1 L over 1 hour. **Fixed-rate IV insulin 0.1 unit/kg/hour**. **IV ceftriaxone 1–2 g** after cultures. Paracetamol 1 g for fever. Catheter for hourly urine output."
+        },
+        {
+          "prompt": "How do you manage potassium and glucose over the next hours?",
+          "answer": "Check K⁺: if **3.5–5.5 mmol/L add 40 mmol KCl per litre**; none if above 5.5; senior review if below 3.5. When glucose falls **below 14 mmol/L**, add **10% dextrose at 125 mL/hour** and **continue insulin** until ketones clear. Monitor glucose and ketones hourly, K⁺ and bicarbonate at 1, 2, 4 hours then 4-hourly; fluid balance; watch for pulmonary oedema."
+        },
+        {
+          "prompt": "The CTG shows reduced variability with late decelerations. The house officer wants to do a CS. What do you advise?",
+          "answer": "**Do not operate on an unstable, acidotic mother.** Fetal heart abnormalities in DKA are due to maternal acidosis and hypovolaemia and **usually resolve as she is corrected**. Continue resuscitation, reassess the CTG, give **dexamethasone** only after discussion (it will worsen glucose control). Deliver only if fetal compromise persists after maternal stabilisation."
+        },
+        {
+          "prompt": "How do you complete her care?",
+          "answer": "When ketones are below 0.6 and she is eating, restart subcutaneous basal-bolus insulin, overlapping with the infusion. Complete antibiotics for pyelonephritis (10–14 days, oral cephalosporin when afebrile 24–48 hours). LMWH thromboprophylaxis. **Sick-day rules education**: never stop basal insulin, check ketones when unwell, seek help early. Increase ANC surveillance."
+        }
+      ],
+      "takeaway": "In pregnancy DKA comes faster and at lower glucose; resuscitate the mother (fluids, insulin, potassium, dextrose, treat the trigger), and the fetus usually recovers with her."
+    }
+  ],
+  "references": [
+    {
+      "title": "Diagnostic Criteria and Classification of Hyperglycaemia First Detected in Pregnancy: Recommendations",
+      "source": "World Health Organization (NCBI Bookshelf)",
+      "year": 2013,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK169023/"
+    },
+    {
+      "title": "Diabetes in pregnancy: management from preconception to the postnatal period (NG3)",
+      "source": "National Institute for Health and Care Excellence (NCBI Bookshelf)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK555331/"
+    },
+    {
+      "title": "Your blood glucose levels during pregnancy (NICE NG3 information for the public)",
+      "source": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng3/ifp/chapter/your-blood-glucose-levels-during-pregnancy"
+    },
+    {
+      "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://www.differentiatedservicedelivery.org/wp-content/uploads/UCG-2023-Publication-Final-PDF-Version-1.pdf"
+    },
+    {
+      "title": "Antenatal management and maternal/fetal outcomes associated with hyperglycaemia in pregnancy (HIP) in Uganda; a prospective cohort study",
+      "source": "BMC Pregnancy and Childbirth (PubMed)",
+      "year": 2021,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34011299/"
+    },
+    {
+      "title": "Maternal and fetal outcome of gestational diabetes mellitus in Mulago Hospital, Uganda",
+      "source": "African Health Sciences (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2141655/"
+    },
+    {
+      "title": "Prevalence of gestational diabetes mellitus and associated factors among women receiving antenatal care at a tertiary hospital in South-Western Uganda",
+      "source": "PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10768552/"
+    },
+    {
+      "title": "Missed Diagnosis of Gestational Diabetes Mellitus Due to Selective Screening: Evidence from a Cross-Sectional Study in the West Nile Sub-Region, Uganda",
+      "source": "Diabetes, Metabolic Syndrome and Obesity",
+      "url": "https://www.tandfonline.com/doi/full/10.2147/DMSO.S447855"
+    },
+    {
+      "title": "EADSG Guidelines: Insulin Therapy in Diabetes",
+      "source": "East African Diabetes Study Group (PMC)",
+      "year": 2018,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6104264/"
+    },
+    {
+      "title": "Diagnosis of gestational diabetes in Uganda: The reactions of women, family members and health workers",
+      "source": "PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8111520/"
+    },
+    {
+      "title": "Williams Obstetrics, 26th edition: Diabetes Mellitus chapter",
+      "source": "McGraw Hill",
+      "year": 2022
+    }
+  ]
+}

@@ -132,6 +132,15 @@ export function TopicTabs({
     const h = window.location.hash.slice(1) as Tab;
     // eslint-disable-next-line react-hooks/set-state-in-effect -- open the tab named in the URL hash
     if (["cards", "quiz", "cases", "mine", "sources"].includes(h)) setTab(h);
+    // Section links (e.g. #management) must show the notes tab before scrolling.
+    const onHash = () => {
+      const id = decodeURIComponent(window.location.hash.slice(1));
+      if (!id || ["cards", "quiz", "cases", "mine", "sources"].includes(id)) return;
+      setTab("notes");
+      requestAnimationFrame(() => document.getElementById(id)?.scrollIntoView());
+    };
+    window.addEventListener("hashchange", onHash);
+    return () => window.removeEventListener("hashchange", onHash);
   }, []);
 
   const select = (t: Tab) => {

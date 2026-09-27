@@ -87,16 +87,28 @@ function saveLocal(s: StudyState) {
 // ── Supabase mapping ────────────────────────────────────────
 type Row = Record<string, unknown>;
 
+/** Supabase caps responses (1000 rows by default), so page through big tables. */
+async function selectAll(sb: SupabaseClient, table: string, order: string) {
+  const PAGE = 1000;
+  const data: Row[] = [];
+  for (let from = 0; ; from += PAGE) {
+    const res = await sb.from(table).select("*").order(order).range(from, from + PAGE - 1);
+    if (res.error) return { data: null, error: res.error };
+    data.push(...(res.data as Row[]));
+    if (res.data.length < PAGE) return { data, error: null };
+  }
+}
+
 async function pullRemote(sb: SupabaseClient): Promise<StudyState> {
   const s = emptyState();
   const [settings, topics, notes, cards, questions, sessions, cases] = await Promise.all([
     sb.from("user_settings").select("*").maybeSingle(),
-    sb.from("topic_progress").select("*"),
-    sb.from("topic_notes").select("*"),
-    sb.from("flashcard_reviews").select("*"),
-    sb.from("question_stats").select("*"),
+    selectAll(sb, "topic_progress", "topic_slug"),
+    selectAll(sb, "topic_notes", "topic_slug"),
+    selectAll(sb, "flashcard_reviews", "card_id"),
+    selectAll(sb, "question_stats", "question_id"),
     sb.from("quiz_sessions").select("*").order("created_at", { ascending: false }).limit(200),
-    sb.from("case_progress").select("*"),
+    selectAll(sb, "case_progress", "case_id"),
   ]);
   const firstError = [settings, topics, notes, cards, questions, sessions, cases].find((r) => r.error)?.error;
   if (firstError) throw firstError;

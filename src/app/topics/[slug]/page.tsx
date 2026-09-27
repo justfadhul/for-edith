@@ -62,6 +62,26 @@ export default async function TopicPage(props: PageProps<"/topics/[slug]">) {
         <TopicActions slug={slug} />
       </header>
 
+      {(() => {
+        const jump = [
+          { re: /clinical acumen/i, label: "🧠 Clinical acumen" },
+          { re: /^management/i, label: "💊 Management" },
+          { re: /procedure/i, label: "🛠️ Procedure" },
+          { re: /ward-round|exam pearls/i, label: "🎓 Ward-round pearls" },
+        ]
+          .map((j) => ({ ...j, h: c.headings.find((h) => h.depth === 2 && j.re.test(h.text)) }))
+          .filter((j) => j.h);
+        return jump.length ? (
+          <div className="no-scrollbar -mx-4 mb-4 flex gap-2 overflow-x-auto px-4 sm:mx-0 sm:px-0">
+            {jump.map((j) => (
+              <a key={j.h!.id} href={`#${j.h!.id}`} className="btn btn-outline min-h-0 shrink-0 py-1.5 text-sm">
+                {j.label}
+              </a>
+            ))}
+          </div>
+        ) : null;
+      })()}
+
       {c.highYield.length > 0 && (
         <section className="card mb-6 border-brand/40 bg-brand-soft/60 p-5">
           <h2 className="flex items-center gap-2 font-semibold text-brand">

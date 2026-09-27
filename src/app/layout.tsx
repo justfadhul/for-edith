@@ -3,6 +3,7 @@ import { Inter, Fraunces } from "next/font/google";
 import "./globals.css";
 import { StudyProvider } from "@/lib/store/study-store";
 import { SiteHeader, BottomNav } from "@/components/nav";
+import { ServiceWorkerRegister } from "@/components/sw-register";
 
 const sans = Inter({ variable: "--font-sans-var", subsets: ["latin"] });
 const serif = Fraunces({ variable: "--font-serif-var", subsets: ["latin"], weight: ["500", "600", "700"] });
@@ -37,8 +38,9 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       <body className="min-h-dvh">
         <StudyProvider>
           <SiteHeader />
-          <main className="mx-auto w-full max-w-6xl px-4 pb-28 pt-4 sm:px-6 md:pb-16">{children}</main>
+          <main className="mx-auto w-full max-w-6xl px-4 pb-28 pt-4 sm:px-6 lg:pb-16">{children}</main>
           <BottomNav />
+          <ServiceWorkerRegister />
         </StudyProvider>
       </body>
     </html>

@@ -1,0 +1,481 @@
+{
+  "slug": "preterm-labour-prom-pprom",
+  "flashcards": [
+    {
+      "id": "ptl-f01",
+      "front": "Define preterm birth and its subcategories (WHO).",
+      "back": "Birth before **37+0 weeks**. Extremely preterm **<28**, very preterm **28–<32**, moderate-to-late preterm **32–<37** weeks (late preterm 34+0–36+6)."
+    },
+    {
+      "id": "ptl-f02",
+      "front": "Define PROM and PPROM.",
+      "back": "**PROM**: rupture of membranes before the onset of labour at **≥37 weeks**. **PPROM**: rupture before labour **and before 37 weeks**."
+    },
+    {
+      "id": "ptl-f03",
+      "front": "Why avoid digital vaginal examination in suspected PPROM?",
+      "back": "It carries vaginal bacteria into the uterus (↑ **chorioamnionitis**) and **shortens the latency** to labour. Use a **sterile speculum** instead, unless she is in labour."
+    },
+    {
+      "id": "ptl-f04",
+      "front": "Principle and false positives of the nitrazine test.",
+      "back": "Amniotic fluid is **alkaline (pH 7.0–7.5)**, vagina acidic (4.5–6.0): paper turns **blue**. False positives: **blood, semen, urine, bacterial vaginosis/trichomonas, antiseptics**."
+    },
+    {
+      "id": "ptl-f05",
+      "front": "What is the fern test?",
+      "back": "Amniotic fluid dried on a slide shows **arborisation (fern pattern)** from sodium chloride crystals under oestrogen influence. False positive: cervical mucus; false negative: blood, scanty sample."
+    },
+    {
+      "id": "ptl-f06",
+      "front": "WHO 2022: five conditions for antenatal corticosteroids.",
+      "back": "At **24–34 weeks**: 1) GA **accurately** assessed; 2) preterm birth likely within **7 days**; 3) **no maternal infection**; 4) **adequate childbirth care**; 5) **adequate preterm newborn care** (resuscitation, thermal care, KMC, feeding, infection treatment, oxygen/CPAP)."
+    },
+    {
+      "id": "ptl-f07",
+      "front": "Dexamethasone and betamethasone regimens for fetal lung maturity?",
+      "back": "**Dexamethasone 6 mg IM every 12 h × 4 doses** (first choice in Uganda). **Betamethasone 12 mg IM every 24 h × 2 doses**."
+    },
+    {
+      "id": "ptl-f08",
+      "front": "When does the steroid benefit start and peak?",
+      "back": "Begins about **24 h** after the first dose, maximal from **48 h to 7 days**. A partial course still helps, so never withhold the first dose."
+    },
+    {
+      "id": "ptl-f09",
+      "front": "Nifedipine tocolysis regimen?",
+      "back": "**20 mg orally loading**, then **10–20 mg every 6–8 hours** for up to **48 hours**; check BP before each dose. Purpose: buy time for steroids/transfer."
+    },
+    {
+      "id": "ptl-f10",
+      "front": "Contraindications to tocolysis ('BIRDS').",
+      "back": "**B**leeding (APH/abruption), **I**nfection/chorioamnionitis, **R**uptured membranes (relative), **D**istressed or **D**ead fetus/lethal anomaly, **S**evere pre-eclampsia. Also GA ≥34 weeks, maternal cardiac disease, advanced labour."
+    },
+    {
+      "id": "ptl-f11",
+      "front": "MgSO₄ for fetal neuroprotection: indication and regimen?",
+      "back": "Imminent birth **before 32 weeks** (WHO). **4 g IV over 20–30 min, then 1 g/h until birth or 24 h**. Reduces **cerebral palsy** by about a third."
+    },
+    {
+      "id": "ptl-f12",
+      "front": "Antibiotic for PPROM and duration? Which antibiotic is avoided?",
+      "back": "**Erythromycin 250 mg orally 6-hourly for 10 days** (or until labour). **Avoid co-amoxiclav**: ↑ necrotising enterocolitis (ORACLE I)."
+    },
+    {
+      "id": "ptl-f13",
+      "front": "Are antibiotics given for preterm labour with intact membranes?",
+      "back": "**No**, not routinely (ORACLE II: no benefit, possible ↑ cerebral palsy). Give only for GBS prophylaxis in labour or a specific infection (UTI, chorioamnionitis)."
+    },
+    {
+      "id": "ptl-f14",
+      "front": "Intrapartum GBS prophylaxis regimen?",
+      "back": "**Benzylpenicillin 3 g (5 MU) IV**, then **1.5 g (2.5–3 MU) IV every 4 h** until delivery; or **ampicillin 2 g IV then 1 g 4-hourly**. Allergy: **clindamycin 900 mg IV 8-hourly**."
+    },
+    {
+      "id": "ptl-f15",
+      "front": "Clinical diagnosis of chorioamnionitis?",
+      "back": "**Maternal fever ≥38°C** plus ≥1 of: maternal tachycardia >100, **fetal tachycardia >160**, uterine tenderness, foul/purulent liquor, WBC >15 × 10⁹/L."
+    },
+    {
+      "id": "ptl-f16",
+      "front": "Management of chorioamnionitis?",
+      "back": "**Ampicillin 2 g IV 6-hourly + gentamicin 5 mg/kg IV daily** (+ metronidazole 500 mg IV 8-hourly if CS), paracetamol, **deliver regardless of gestation**, no tocolysis, alert neonatal team."
+    },
+    {
+      "id": "ptl-f17",
+      "front": "Four pathways to spontaneous preterm labour?",
+      "back": "1) **Infection/inflammation**; 2) **maternal/fetal stress** (HPA axis, CRH); 3) **decidual haemorrhage** (thrombin); 4) **uterine overdistension** (twins, polyhydramnios)."
+    },
+    {
+      "id": "ptl-f18",
+      "front": "Strongest risk factor for preterm birth?",
+      "back": "A **previous spontaneous preterm birth** (or mid-trimester loss). Others: multiple pregnancy, infections (UTI, malaria, BV), short cervix, cervical surgery, APH, polyhydramnios, teenage pregnancy, low BMI, smoking."
+    },
+    {
+      "id": "ptl-f19",
+      "front": "Timing of delivery in uncomplicated PPROM at 34–37 weeks: RCOG vs ACOG vs common Uganda practice?",
+      "back": "**RCOG (PPROMT)**: expectant management to **37+0** weeks. **ACOG**: deliver at **34 weeks**. **Many Ugandan units**: deliver at about **34 weeks** (limited infection surveillance)."
+    },
+    {
+      "id": "ptl-f20",
+      "front": "WHO 2022 kangaroo mother care recommendation?",
+      "back": "**Start KMC immediately after birth** for babies **<2.0 kg**, for **8–24 h/day** (continuous if possible), with exclusive breastfeeding. The iKMC trial showed about **25% lower mortality**."
+    },
+    {
+      "id": "ptl-f21",
+      "front": "Vaginal progesterone for prevention: who and what dose?",
+      "back": "Short cervix **≤25 mm at 16–24 weeks** and/or previous spontaneous preterm birth: **200 mg vaginally at night until 34 weeks**."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "ptl-q01",
+      "stem": "A 25-year-old G2P1 at 30 weeks (dated by an 11-week scan) presents to a HC IV with a gush of clear fluid 3 hours ago. She is not contracting, temperature 36.9°C, pulse 84, FHR 140. What is the MOST appropriate next step to confirm the diagnosis?",
+      "options": [
+        "Digital vaginal examination to assess the cervix",
+        "Discharge with a pad and review in a week",
+        "Immediate caesarean section",
+        "Sterile speculum examination for pooling of liquor",
+        "Amniocentesis"
+      ],
+      "answer": 3,
+      "explanation": "**Sterile speculum examination** (pooling in the posterior fornix, cough test ± nitrazine/fern) is the diagnostic step. **Digital VE** should be avoided when PPROM is suspected and she is not in labour (infection, shorter latency). **Caesarean** is not indicated for uncomplicated PPROM. **Discharge** without diagnosis is unsafe. **Amniocentesis** is not a routine diagnostic test for rupture of membranes.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ptl-q02",
+      "stem": "A 22-year-old at 31 weeks has PPROM confirmed. She is afebrile with no contractions, uterus non-tender, FHR 138. Which antibiotic regimen is MOST appropriate?",
+      "options": [
+        "Co-amoxiclav 625 mg 8-hourly for 10 days",
+        "Erythromycin 250 mg orally 6-hourly for 10 days",
+        "No antibiotics unless she develops fever",
+        "Ceftriaxone 1 g IV daily for 7 days",
+        "Metronidazole 400 mg 8-hourly for 7 days"
+      ],
+      "answer": 1,
+      "explanation": "**Erythromycin 250 mg 6-hourly for 10 days** prolongs pregnancy and reduces neonatal morbidity (ORACLE I; WHO, RCOG). **Co-amoxiclav** increased **NEC** and is avoided. **Withholding antibiotics** loses a proven benefit. **Ceftriaxone** and **metronidazole alone** are not the evidence-based choices for PPROM prophylaxis.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ptl-q03",
+      "stem": "A 28-year-old at 32 weeks with PPROM for 4 days develops a temperature of 38.6°C, pulse 112, a tender uterus and offensive liquor. FHR is 172 bpm. She has completed dexamethasone. What is the MOST appropriate management?",
+      "options": [
+        "Nifedipine tocolysis and IV antibiotics",
+        "Continue erythromycin and observe",
+        "Paracetamol and repeat temperature in 4 hours",
+        "Repeat course of dexamethasone, then deliver in 48 hours",
+        "IV ampicillin + gentamicin (± metronidazole) and expedite delivery"
+      ],
+      "answer": 4,
+      "explanation": "This is **chorioamnionitis**: IV **ampicillin + gentamicin** (± metronidazole) and **deliver regardless of gestation**, usually by induction/augmentation. **Tocolysis** is contraindicated with infection. **Continuing erythromycin** undertreats a serious infection. **Delaying delivery** for more steroids risks maternal sepsis and fetal brain injury. **Paracetamol alone** delays definitive care.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ptl-q04",
+      "stem": "A 19-year-old at 29 weeks by early scan presents with regular painful contractions every 5 minutes. The cervix is 3 cm dilated and 80% effaced, membranes intact, afebrile, no bleeding. The HC IV has no newborn unit; the regional referral hospital with CPAP is 60 km away. What is the BEST plan?",
+      "options": [
+        "Give dexamethasone 6 mg IM, start nifedipine, give MgSO₄ if birth is imminent, and transfer her in utero",
+        "Deliver at the HC IV and refer the baby after birth",
+        "Give salbutamol tocolysis and observe for 48 hours at the HC IV",
+        "Start erythromycin and discharge",
+        "Perform ARM to speed up delivery"
+      ],
+      "answer": 0,
+      "explanation": "The best 'incubator' for transfer is the uterus. Give the **first dose of dexamethasone**, **nifedipine** tocolysis to buy time, MgSO₄ for neuroprotection (<32 weeks) if birth is imminent, and **in-utero transfer** to a facility with newborn care. **Postnatal transfer** of a 29-week baby carries high mortality (hypothermia, hypoglycaemia). **Betamimetics** (salbutamol) are not recommended (maternal tachycardia, pulmonary oedema). **Antibiotics** are not indicated with intact membranes and no infection. **ARM** accelerates an unwanted preterm birth.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ptl-q05",
+      "stem": "A 26-year-old at 35+2 weeks is in preterm labour, cervix 5 cm. Membranes intact, afebrile. Which of the following is MOST appropriate?",
+      "options": [
+        "Nifedipine tocolysis to allow steroids",
+        "MgSO₄ for fetal neuroprotection",
+        "Allow labour to progress with intrapartum GBS prophylaxis and inform the neonatal team",
+        "Dexamethasone 6 mg IM 12-hourly × 4 before allowing delivery",
+        "Elective caesarean section to protect the preterm head"
+      ],
+      "answer": 2,
+      "explanation": "At **≥34 weeks** tocolysis has no role, and WHO does not recommend routine steroids (no mortality benefit, more neonatal hypoglycaemia). Allow labour, give **GBS prophylaxis** (preterm labour) and prepare the **neonatal team**. **MgSO₄ neuroprotection** is for births <32 weeks. **Caesarean** does not protect the preterm cephalic baby and is for obstetric indications.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ptl-q06",
+      "stem": "A 30-year-old at 27 weeks is in established preterm labour at Mengo Hospital (NICU available). Cervix 6 cm. She received dexamethasone 1 hour ago. Delivery is expected within a few hours. What additional intervention is MOST likely to reduce the risk of cerebral palsy in the baby?",
+      "options": [
+        "Nifedipine 20 mg orally",
+        "Magnesium sulphate 4 g IV over 20–30 min, then 1 g/h until birth",
+        "Betamethasone 12 mg IM in addition",
+        "Routine episiotomy and forceps to protect the head",
+        "Delayed cord clamping for 5 minutes regardless of the baby's condition"
+      ],
+      "answer": 1,
+      "explanation": "**MgSO₄ before 32 weeks** reduces cerebral palsy by about a third. **Nifedipine** at 6 cm is unlikely to stop labour and does not reduce CP. **Extra betamethasone** doubles the steroid dose without benefit. **Routine episiotomy/forceps** does not protect the preterm brain (forceps/vacuum can cause injury). **Delayed cord clamping** (30–60 s) reduces IVH, but not if the baby needs resuscitation, and 5 minutes regardless of condition is wrong.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ptl-q07",
+      "stem": "A 23-year-old presents at 'about 8 months' with painful contractions. She has no LNMP, no scan, and the fundal height is 35 cm. The cervix is 3 cm. There is no ultrasound available tonight. What is the MOST appropriate decision about antenatal corticosteroids?",
+      "options": [
+        "Give dexamethasone because every preterm baby benefits",
+        "Give a single dose of dexamethasone 12 mg",
+        "Give betamethasone instead of dexamethasone",
+        "Withhold steroids because gestational age cannot be accurately assessed and the fetus is likely ≥34 weeks",
+        "Give steroids and tocolysis for 7 days"
+      ],
+      "answer": 3,
+      "explanation": "WHO conditions require **accurate gestational age**. A fundal height of 35 cm suggests about 34–36 weeks or more; steroids at or near term give little benefit and cause **neonatal hypoglycaemia** (the ACT trial showed harm when given indiscriminately). **Betamethasone** has the same issue. A **single 12 mg** dexamethasone dose is not a recommended regimen. **Seven-day tocolysis** has no evidence and is not indicated here.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "ptl-q08",
+      "stem": "A 27-year-old at 30 weeks presents with contractions and moderate painful vaginal bleeding. The uterus is tender and firm, FHR 118 with decelerations. What is the MOST appropriate statement regarding tocolysis?",
+      "options": [
+        "Tocolysis is contraindicated because of suspected abruption and fetal compromise",
+        "Nifedipine is indicated to delay delivery for steroids",
+        "Indomethacin is preferred because it does not affect BP",
+        "Salbutamol infusion is the safest option",
+        "Tocolysis for 48 hours, then caesarean section"
+      ],
+      "answer": 0,
+      "explanation": "Painful bleeding, a hard tender uterus and an abnormal FHR suggest **placental abruption** with fetal compromise. Tocolysis is **contraindicated** (APH, fetal distress); delivery is needed. **Nifedipine** would mask signs and delay needed delivery. **Indomethacin** increases bleeding risk and is also contraindicated. **Salbutamol** causes tachycardia and hides hypovolaemia. **Delaying 48 hours** risks fetal death.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ptl-q09",
+      "stem": "A 24-year-old at 38 weeks has clear liquor leaking for 6 hours (confirmed on speculum). No contractions, afebrile, FHR normal, cephalic, Bishop score 4, no previous caesarean. What is the MOST appropriate management?",
+      "options": [
+        "Expectant management for 7 days",
+        "Erythromycin 250 mg 6-hourly for 10 days",
+        "Dexamethasone 6 mg IM 12-hourly × 4",
+        "Immediate caesarean section",
+        "Induce labour, with cervical ripening using misoprostol 25 mcg"
+      ],
+      "answer": 4,
+      "explanation": "At term (**PROM**), induction reduces maternal infection and neonatal admission compared with prolonged waiting. With an unfavourable cervix and no previous CS, **misoprostol 25 mcg** (vaginal every 6 h or oral every 2 h) is appropriate, followed by oxytocin if needed. **Waiting 7 days** increases infection. **Erythromycin** is for **PPROM**. **Caesarean** has no indication. **Steroids** are not given at term.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ptl-q10",
+      "stem": "A 21-year-old at 32 weeks with confirmed PPROM is on erythromycin and has completed dexamethasone. On day 3, her temperature is 37.2°C, but her pulse has risen from 84 to 108 and FHR from 140 to 168 bpm. The uterus is mildly tender. What is the MOST appropriate interpretation and action?",
+      "options": [
+        "Normal variation; continue observation",
+        "Side effect of erythromycin; stop it",
+        "Early chorioamnionitis: start IV ampicillin + gentamicin and plan delivery",
+        "Dehydration; give 2 L IV fluids and recheck tomorrow",
+        "Anxiety; reassure and give diazepam"
+      ],
+      "answer": 2,
+      "explanation": "Rising **maternal and fetal tachycardia with uterine tenderness** are early signs of **chorioamnionitis**, often before fever. Start IV antibiotics and deliver. Calling it **normal** delays treatment. **Erythromycin** does not cause these signs. **Dehydration** does not explain a tender uterus and fetal tachycardia; waiting until tomorrow is dangerous. **Anxiety** is a diagnosis of exclusion.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "ptl-q11",
+      "stem": "A 29-year-old with a previous spontaneous preterm birth at 30 weeks attends ANC at 18 weeks. A transvaginal scan shows a cervical length of 18 mm. What is the MOST appropriate intervention?",
+      "options": [
+        "Vaginal progesterone 200 mg nightly until 34 weeks, or cervical cerclage",
+        "Bed rest until 34 weeks",
+        "Weekly 17-hydroxyprogesterone caproate injections",
+        "Prophylactic nifedipine from 20 weeks",
+        "Routine antibiotics for 2 weeks"
+      ],
+      "answer": 0,
+      "explanation": "Previous preterm birth plus a **short cervix (≤25 mm) before 24 weeks** → **vaginal progesterone** (200 mg nightly to 34 weeks) or **ultrasound-indicated cerclage**. **Bed rest** has no benefit and raises VTE risk. **17-OHPC** was withdrawn after the PROLONG trial showed no benefit. **Prophylactic tocolysis** and **routine antibiotics** do not prevent preterm birth.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "ptl-q12",
+      "stem": "A 26-year-old at 33 weeks in preterm labour has been on nifedipine for 36 hours. She now complains of a headache and dizziness; BP is 84/48 mmHg and pulse 118. What is the MOST appropriate action?",
+      "options": [
+        "Increase the nifedipine dose because contractions persist",
+        "Add MgSO₄ as a second tocolytic",
+        "Add salbutamol",
+        "Withhold nifedipine, lie her in the left lateral position, give IV fluids and reassess",
+        "Give hydralazine for the headache"
+      ],
+      "answer": 3,
+      "explanation": "This is **nifedipine-induced hypotension** (a recognised side effect). **Withhold nifedipine**, left lateral position, IV crystalloid bolus, monitor FHR. **Increasing** the dose worsens hypotension. **Salbutamol** adds tachycardia and is not recommended. **Combining MgSO₄ with nifedipine** for tocolysis increases the risk of hypotension and neuromuscular block. **Hydralazine** lowers BP further.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ptl-q13",
+      "stem": "A 20-year-old in preterm labour at 33 weeks has membranes that ruptured 20 hours ago. GBS status is unknown. She is afebrile. Which intrapartum antibiotic regimen is MOST appropriate?",
+      "options": [
+        "No antibiotics because she is afebrile",
+        "Benzylpenicillin 3 g IV loading, then 1.5 g IV 4-hourly until delivery",
+        "Oral erythromycin 250 mg once",
+        "Ceftriaxone 2 g IV once after delivery",
+        "Gentamicin 5 mg/kg IV alone"
+      ],
+      "answer": 1,
+      "explanation": "She has two GBS risk factors (**preterm labour** and **ROM >18 hours**), so she needs **intrapartum GBS prophylaxis**: benzylpenicillin (or ampicillin 2 g then 1 g 4-hourly) until delivery. **No antibiotics** misses the indication. A **single oral erythromycin** dose does not achieve adequate levels. **Postnatal ceftriaxone** is too late. **Gentamicin alone** does not cover GBS reliably.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ptl-q14",
+      "stem": "A 32-year-old at 22 weeks presents with painless vaginal 'pressure'. On speculum, the cervix is 4 cm dilated with membranes bulging; there are no contractions. She had two previous painless losses at 20 and 21 weeks. What is the MOST likely diagnosis?",
+      "options": [
+        "Threatened miscarriage",
+        "Uterine fibroid",
+        "Preterm labour due to chorioamnionitis",
+        "Placenta praevia",
+        "Cervical insufficiency"
+      ],
+      "answer": 4,
+      "explanation": "**Painless mid-trimester cervical dilatation** with recurrent similar losses = **cervical insufficiency**. Management options include rescue cerclage (if no infection or contractions) and, in future pregnancies, history-indicated cerclage at 12–14 weeks. **Threatened miscarriage** has a closed os. **Preterm labour** is painful with contractions. **Placenta praevia** presents with painless bleeding, not dilatation. **Fibroids** do not cause this picture.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ptl-q15",
+      "stem": "A 1.4 kg baby is born at 31 weeks at a regional referral hospital. The baby cries at birth and has good tone. The mother is well and wants to be involved in her baby's care. What intervention has the strongest evidence for reducing mortality in this baby?",
+      "options": [
+        "Nursing in an incubator separated from the mother for 72 hours",
+        "Routine prophylactic surfactant",
+        "Immediate kangaroo mother care with exclusive breastfeeding",
+        "Formula feeds from day 1",
+        "Routine phototherapy"
+      ],
+      "answer": 2,
+      "explanation": "WHO 2022 recommends **immediate KMC** (skin-to-skin started straight after birth) for babies <2.0 kg; the iKMC trial showed about **25% lower mortality** for babies 1.0–1.8 kg. **Separation into an incubator** delays KMC. **Prophylactic surfactant** is not routine for a vigorous baby. **Formula** increases NEC and infection compared with breast milk. **Phototherapy** is only for jaundice.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "ptl-c01",
+      "title": "Threatened preterm labour at 30 weeks",
+      "presentation": "A 20-year-old primigravida at 30+4 weeks (by 12-week scan) presents to a HC IV in Mukono with lower abdominal pains for 6 hours. She reports burning on micturition for 3 days. Temperature 37.8°C, pulse 100, BP 112/70. Contractions 2 in 10 minutes, each lasting 30 seconds. FHR 148.",
+      "steps": [
+        {
+          "prompt": "What focused history do you take?",
+          "answer": "Character and frequency of the pains; **leaking liquor** (PPROM); **vaginal bleeding** (abruption/praevia: no VE until excluded); **fever, rigors, headache, joint pains** (malaria); **dysuria, frequency, loin pain** (UTI/pyelonephritis); foul discharge; fetal movements; previous preterm birth; HIV status; IPTp doses and net use; drug allergies; social situation and distance to the referral hospital."
+        },
+        {
+          "prompt": "What examinations and investigations do you perform?",
+          "answer": "Abdominal exam: fundal height, **uterine tenderness**, contractions over 10 minutes, lie/presentation, FHR. **Renal angle tenderness**. Sterile speculum (no pooling, no bleeding), then a **careful digital VE** (membranes intact): the cervix is 2 cm, 50% effaced. Tests: **urinalysis** (nitrites, leucocytes), urine culture, **mRDT**, FBC, ultrasound (GA, EFW, presentation, liquor, placenta)."
+        },
+        {
+          "prompt": "Urinalysis: nitrites +, leucocytes +++. mRDT negative. Repeat VE after 3 hours: 3 cm, 70% effaced, contractions 3 in 10 minutes. What is the diagnosis and management?",
+          "answer": "**Established preterm labour at 30 weeks, likely triggered by a UTI/pyelonephritis.** 1) **Dexamethasone 6 mg IM** now and 12-hourly × 4. 2) **Nifedipine 20 mg orally**, then 10–20 mg 6–8-hourly for up to 48 h (no chorioamnionitis: uterus non-tender, liquor not involved). 3) Treat UTI: **ceftriaxone 1 g IV daily** (or per UCG) after urine culture. 4) **MgSO₄** 4 g IV then 1 g/h if birth becomes imminent (<32 weeks). 5) **In-utero transfer** to a hospital with a newborn unit/CPAP, with an escort, referral note and drug times. 6) Paracetamol for fever."
+        },
+        {
+          "prompt": "She is transferred and labour progresses to 7 cm at 30+5 weeks. What do you prepare for the birth?",
+          "answer": "Continue MgSO₄ (neuroprotection) with RR/reflex/urine monitoring. **Intrapartum GBS prophylaxis** (benzylpenicillin 3 g IV then 1.5 g 4-hourly, or ampicillin). Inform the neonatal team to attend. Prepare a warm room (25–28°C), towels, hat, bag-and-mask with preterm mask, suction, oxygen, CPAP. No routine episiotomy; **avoid vacuum <34 weeks**. **Delayed cord clamping** 30–60 s if the baby is vigorous. Active management of the third stage with oxytocin 10 IU IM."
+        },
+        {
+          "prompt": "A 1.5 kg baby is born and cries well. What newborn care do you advise?",
+          "answer": "Dry, **skin-to-skin immediately (KMC)**, hat, early breastfeeding (expressed breast milk by cup/NG if needed), vitamin K, check glucose and temperature, monitor for RDS (grunting, recession; CPAP if needed), antibiotics if sepsis risk factors (maternal fever/UTI in labour: discuss with paediatrician). Continue KMC 8–24 h/day. Counsel the mother on danger signs and follow-up."
+        },
+        {
+          "prompt": "What advice for her next pregnancy?",
+          "answer": "Early booking and **dating scan**; screen and treat **asymptomatic bacteriuria**; IPTp-SP and ITN; consider **transvaginal cervical length** at 16–24 weeks with **vaginal progesterone** if ≤25 mm; interpregnancy interval ≥24 months (contraception now); counsel on danger signs (contractions, leaking, fever)."
+        }
+      ],
+      "takeaway": "Confirm true preterm labour, find and treat the trigger, then give steroids, tocolysis to buy time, MgSO₄ under 32 weeks and transfer in utero to where the baby can be cared for."
+    },
+    {
+      "id": "ptl-c02",
+      "title": "PPROM at 29 weeks",
+      "presentation": "A 27-year-old G3P2 at 29 weeks by a 10-week scan presents to Mengo Hospital with a gush of fluid 12 hours ago and a continuous trickle since. No contractions. Temperature 36.8°C, pulse 86, uterus soft and non-tender, FHR 142.",
+      "steps": [
+        {
+          "prompt": "How do you confirm the diagnosis?",
+          "answer": "**Sterile speculum examination** after she lies down for 20–30 min: **pooling of liquor** in the posterior fornix and/or leakage on coughing. Note colour and smell. Nitrazine (turns blue) and fern tests if available. Take an HVS. Ultrasound for liquor volume (reduced), GA, EFW and presentation. **No digital VE.**"
+        },
+        {
+          "prompt": "PPROM is confirmed. What is your initial management?",
+          "answer": "Admit. **Erythromycin 250 mg orally 6-hourly for 10 days**. **Dexamethasone 6 mg IM 12-hourly × 4**. No tocolysis. Baseline FBC and CRP. Monitoring: **temperature, pulse and FHR 4-hourly**, daily pad check (colour/smell), fetal movements. Inform NICU and counsel on KMC. MgSO₄ if labour starts before 32 weeks. GBS prophylaxis when in labour."
+        },
+        {
+          "prompt": "Which features would make you deliver her early?",
+          "answer": "**Chorioamnionitis** (fever, maternal/fetal tachycardia, uterine tenderness, foul liquor, rising WBC/CRP); **placental abruption** (bleeding, pain); **abnormal FHR** or cord prolapse; **established labour**; other maternal indications (e.g. severe pre-eclampsia)."
+        },
+        {
+          "prompt": "On day 5 her temperature is 38.4°C, pulse 110, FHR 170 and the liquor is offensive. What do you do?",
+          "answer": "**Chorioamnionitis.** Start **ampicillin 2 g IV 6-hourly + gentamicin 5 mg/kg IV daily** (+ metronidazole if CS), paracetamol, IV access and bloods (FBC, blood cultures if available). **MgSO₄** 4 g IV then 1 g/h (she is <32 weeks). **Induce labour** (oxytocin, or misoprostol if unfavourable), with caesarean only for obstetric indications. No tocolysis. Neonatal team present; the baby needs a sepsis screen and antibiotics."
+        },
+        {
+          "prompt": "If she had remained well, when would you deliver her, and why is this debated?",
+          "answer": "**RCOG (PPROMT trial)**: expectant management to **37+0 weeks** if no infection, because early delivery increases neonatal respiratory problems and CS without reducing sepsis. **ACOG**: deliver at **34 weeks**. **Many Ugandan units deliver at about 34 weeks** because infection surveillance on busy wards is limited and 34-week babies do well with KMC. Individualise and follow unit policy."
+        }
+      ],
+      "takeaway": "PPROM: speculum not fingers, erythromycin, steroids, vigilant infection surveillance, and deliver the moment chorioamnionitis appears."
+    },
+    {
+      "id": "ptl-c03",
+      "title": "Term PROM at a HC IV",
+      "presentation": "A 31-year-old G2P1 at 39 weeks presents to a HC IV in Luweero with leaking clear liquor for 20 hours. No contractions. She had one previous normal delivery. Temperature 37.0°C, pulse 88, BP 118/76, cephalic, 3/5 palpable, FHR 136.",
+      "steps": [
+        {
+          "prompt": "What is your diagnosis and what must you rule out?",
+          "answer": "**Term PROM** with **prolonged rupture (>18 h)**. Rule out **chorioamnionitis** (fever, tachycardia, uterine tenderness, foul liquor, fetal tachycardia), **meconium**, **cord prolapse** (speculum), malpresentation and fetal distress. Confirm by sterile speculum."
+        },
+        {
+          "prompt": "Speculum confirms clear liquor; cervix appears closed. Bishop score is 4. What is your plan?",
+          "answer": "**Induce labour** now rather than waiting further (reduces maternal infection and neonatal admissions). Unfavourable cervix and no previous CS → **misoprostol 25 mcg vaginally every 6 h** (or 25 mcg orally every 2 h) per unit protocol, then oxytocin/ARM when favourable. Start **GBS prophylaxis** (ROM >18 h): benzylpenicillin 3 g IV then 1.5 g 4-hourly, or ampicillin 2 g then 1 g 4-hourly. Monitor temperature 4-hourly, FHR, contractions."
+        },
+        {
+          "prompt": "Six hours after the second misoprostol dose, she has 5 contractions in 10 minutes, each lasting 70 seconds, and FHR drops to 100 bpm. What is happening and what do you do?",
+          "answer": "**Uterine tachysystole/hyperstimulation with fetal bradycardia.** Stop further misoprostol, left lateral position, oxygen, IV fluids, and consider acute tocolysis (e.g. **terbutaline 0.25 mg SC** or nifedipine per protocol). Assess for cord prolapse and progress. If FHR does not recover, **expedite delivery** (assisted vaginal birth if fully dilated, otherwise caesarean)."
+        },
+        {
+          "prompt": "The FHR recovers and she delivers a 3.2 kg baby vaginally. What postnatal care do mother and baby need?",
+          "answer": "Active management of the third stage (oxytocin 10 IU IM), monitor for PPH and fever. Baby: observe for **early-onset sepsis** for at least 12–24 h (temperature, breathing, feeding), since prolonged ROM is a risk factor; treat if signs appear. Early breastfeeding. Counsel both on danger signs (fever, foul lochia; baby not feeding, fast breathing, hot or cold)."
+        }
+      ],
+      "takeaway": "Term PROM: confirm, exclude infection, induce promptly, and give GBS prophylaxis once membranes have been ruptured for more than 18 hours."
+    }
+  ],
+  "references": [
+    {
+      "title": "WHO recommendations on antenatal corticosteroids for improving preterm birth outcomes",
+      "source": "World Health Organization",
+      "year": 2022,
+      "url": "https://www.who.int/publications/i/item/9789240057296"
+    },
+    {
+      "title": "Recommendations and supporting evidence: WHO recommendations on antenatal corticosteroids for improving preterm birth outcomes",
+      "source": "NCBI Bookshelf",
+      "year": 2022,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK585362/"
+    },
+    {
+      "title": "Type and regimen of antenatal corticosteroids: WHO recommendations",
+      "source": "NCBI Bookshelf",
+      "year": 2022,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK585372/"
+    },
+    {
+      "title": "WHO recommendation on tocolytic therapy for improving preterm birth outcomes",
+      "source": "World Health Organization",
+      "year": 2022,
+      "url": "https://www.who.int/publications/i/item/9789240057227"
+    },
+    {
+      "title": "Updated WHO recommendations on antenatal corticosteroids and tocolytic therapy for improving preterm birth outcomes",
+      "source": "The Lancet Global Health",
+      "year": 2022,
+      "url": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(22)00434-X/fulltext"
+    },
+    {
+      "title": "Care of Women Presenting with Suspected Preterm Prelabour Rupture of Membranes from 24+0 Weeks of Gestation (Green-top Guideline No. 73)",
+      "source": "RCOG",
+      "year": 2019,
+      "url": "https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/care-of-women-presenting-with-suspected-preterm-prelabour-rupture-of-membranes-from-24plus0-weeks-of-gestation-green-top-guideline-no-73/"
+    },
+    {
+      "title": "Preterm labour and birth (NICE guideline NG25)",
+      "source": "NICE",
+      "year": 2015,
+      "url": "https://www.nice.org.uk/guidance/ng25/resources/preterm-labour-and-birth-pdf-1837333576645"
+    },
+    {
+      "title": "Antenatal Corticosteroid Therapy for Fetal Maturation (Committee Opinion)",
+      "source": "ACOG",
+      "year": 2017,
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/08/antenatal-corticosteroid-therapy-for-fetal-maturation"
+    },
+    {
+      "title": "The WHO ACTION-III Trial: protocol of a trial of antenatal corticosteroids for women at high probability of late preterm birth in low-resource countries",
+      "source": "PMC",
+      "year": 2024,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11010373/"
+    },
+    {
+      "title": "Uganda Clinical Guidelines 2023",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf"
+    },
+    {
+      "title": "Essential Maternal and Newborn Clinical Care Guidelines for Uganda",
+      "source": "Ministry of Health Uganda",
+      "year": 2021,
+      "url": "https://library.health.go.ug/sites/default/files/resources/Essential%20Maternal%20and%20Newborn%20Clinical%20Care%20Guidelines%20for%20Uganda%20_October%202021.pdf"
+    },
+    {
+      "title": "WHO recommendations for care of the preterm or low-birth-weight infant (including immediate kangaroo mother care)",
+      "source": "World Health Organization",
+      "year": 2022
+    }
+  ]
+}
