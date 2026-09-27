@@ -334,7 +334,7 @@ The full test table with Ugandan availability is in **Clinical workup, Step 4** 
 4. **Ultrasound** to localise the placenta; **no digital VE**.
 5. **Decide**: deliver now or conservative? It depends on (a) **the mother's condition**, (b) **the fetal condition**, (c) **gestation**, (d) **the cause** and (e) **severity**.
 6. **Rh-negative**: anti-D immunoglobulin within 72 h (at least **500 IU** in the UK after 20 weeks, with Kleihauer to top up; in Uganda the available vial is often **1500 IU (300 µg) IM**).
-7. **Steroids**: if delivery is likely before **34+6 weeks**, **dexamethasone 6 mg IM every 12 h × 4 doses** (or betamethasone 12 mg IM every 24 h × 2).
+7. **Steroids**: if delivery is likely between **24 and 34 weeks** (WHO 2022; units vary at the upper limit), **dexamethasone 6 mg IM every 12 h × 4 doses** (or betamethasone 12 mg IM every 24 h × 2).
 8. **Magnesium sulfate for fetal neuroprotection** if delivery is expected before **32 weeks** (4 g IV loading dose over 20 min, then 1 g/h, or the Uganda regimen per protocol).
 9. **Anticipate PPH** after delivery: oxytocin infusion ready, TXA, blood.
 
@@ -364,7 +364,7 @@ The full test table with Ugandan availability is in **Clinical workup, Step 4** 
 Steps:
 1. **Admit** (in Uganda usually until delivery for a major praevia that has bled; women who live far away, lack transport, or are anaemic should stay in hospital).
 2. Maintain **Hb ≥10–11 g/dL**: iron + folic acid; transfuse if needed. Keep **2 units cross-matched**.
-3. **Steroids** if <34+6 weeks; **anti-D** if Rh-negative.
+3. **Steroids** if 24–34 weeks; **anti-D** if Rh-negative.
 4. Avoid coitus, VE and heavy exertion; treat constipation.
 5. **Tocolysis**: not routine. Some specialists use **nifedipine** short-term in praevia with contractions to allow steroids to work, but **never tocolyse if abruption is suspected** or the mother is bleeding heavily.
 6. **Thromboprophylaxis** for prolonged admission (early mobilisation; LMWH if available and not bleeding).
@@ -430,7 +430,7 @@ Manage according to **fetal viability, fetal condition and maternal condition**.
 >
 > | Drug | Dose | Route | Frequency | Notes |
 > |---|---|---|---|---|
-> | Dexamethasone | 6 mg | IM | 12-hourly × 4 doses | If delivery is likely before 34+6 weeks (WHO) |
+> | Dexamethasone | 6 mg | IM | 12-hourly × 4 doses | If delivery is likely at 24–34 weeks (WHO 2022) |
 > | Betamethasone (alternative) | 12 mg | IM | 24-hourly × 2 doses | |
 > | Anti-D immunoglobulin | 500 IU (UK) or 1500 IU/300 µg (common vial) | IM | Within 72 h of bleed | Rh-negative, non-sensitised; Kleihauer to guide extra doses |
 > | Magnesium sulfate (neuroprotection) | 4 g IV over 20 min then 1 g/h | IV | Until birth or 24 h | If birth is expected before 32 weeks |

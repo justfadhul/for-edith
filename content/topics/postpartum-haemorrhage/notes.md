@@ -11,7 +11,7 @@ highYield:
   - "Second-line uterotonics: misoprostol 800 µg sublingual; ergometrine 0.2 mg IM (max 1 mg/24 h; not in hypertension or heart disease); carboprost 0.25 mg deep IM (max 2 mg; not in asthma)."
   - "Calibrated drape: E-MOTIVE (NEJM 2023) cut severe PPH, laparotomy or death from bleeding by 60% (1.6% vs 4.3%)."
   - "Visual estimation underestimates blood loss by 30–50%; weigh pads (1 g ≈ 1 mL). Shock index (HR ÷ SBP) ≥0.9 is abnormal and ≥1.4 needs urgent action; hypotension is a late sign."
-  - "Firm uterus but still bleeding = trauma (inspect cervix and vagina in good light) or thrombin (20-minute whole blood clotting test), not a reason for another uterotonic."
+  - "Firm uterus but still bleeding = trauma (inspect cervix and vagina in good light) or thrombin (bedside clotting test: no clot by 7 min), not a reason for another uterotonic."
   - "Retained placenta: not out 30 minutes after birth → empty the bladder, extra oxytocin 10 IU, repeat CCT, then manual removal with a single-dose antibiotic. Never ergometrine."
   - "Shock out of proportion to visible loss + fundus not palpable = uterine inversion: stop oxytocin, replace immediately, then give oxytocin."
 ---
@@ -113,7 +113,7 @@ In the acute setting, history is taken **while** resuscitation happens, often fr
 4. **Blood loss**: measure it. Read the **calibrated drape**, weigh pads and linen (1 g ≈ 1 mL), count soaked swabs. Also look under the woman and on the floor.
 5. **Genital tract**: in good light with a speculum and an assistant. Look at perineum, vagina, cervix (all quadrants), and for a vulval or vaginal haematoma.
 6. **Placenta and membranes**: complete? Missing cotyledon? Vessels running off the edge (succenturiate lobe)?
-7. **Clotting**: does the blood clot? Bedside **20-minute whole-blood clotting test**: 2 mL in a dry glass tube; no clot at 20 min = coagulopathy. Oozing from drip sites also suggests coagulopathy.
+7. **Clotting**: does the blood clot? **Bedside clotting test** (WHO): 2 mL in a small dry glass tube, tilt every 30 s; **no clot by 7 minutes**, or a soft clot that breaks up, = coagulopathy. (Some units use the 20-minute whole-blood clotting test instead.) Oozing from drip sites also suggests coagulopathy.
 
 ### Red flags
 
@@ -150,7 +150,7 @@ In PPH the workup and the treatment happen **at the same time**. You never finis
 3. **Hand on the fundus at once.** Soft and high → start **massage** now. This is both the first examination and the first treatment.
 4. **ABC and vitals**: airway and conscious level, RR, SpO₂, pulse, BP, temperature. Calculate the **shock index** (HR ÷ SBP): **≥0.9 abnormal, ≥1.4 urgent, ≥1.7 critical**.
 5. **Position and oxygen**: lie flat (legs raised if shocked), oxygen 6–8 L/min by mask, keep her warm.
-6. **Two large-bore cannulae (14–16G)**. From the first cannula draw blood for **Hb, group and cross-match**, and fill a **dry glass tube for the 20-minute clotting test**.
+6. **Two large-bore cannulae (14–16G)**. From the first cannula draw blood for **Hb, group and cross-match**, and fill a **dry glass tube for the bedside clotting test**.
 7. **Start the bundle together**: oxytocin 10 IU IV slowly then infusion, **TXA 1 g IV over 10 min** (if within 3 h of birth), warmed crystalloid, catheterise the bladder.
 
 > [!REDFLAG]
@@ -207,7 +207,7 @@ Take it from the midwife, the partograph and the file while others treat. Each i
 | **Weigh pads, linen and swabs** | Weigh soaked items and subtract the weight of the same items dry; **1 g ≈ 1 mL** | Adds the loss the drape missed (after the drape is removed, on the floor, in the bed) |
 | **Shock index** | HR ÷ SBP, repeated with each set of vitals | Rising SI = ongoing bleeding even if BP is "normal" |
 | **HemoCue / point-of-care Hb** | Finger-prick or venous sample | Baseline only; the **first Hb underestimates the loss** (see Step 5) |
-| **20-minute whole blood clotting test** | 2 mL venous blood in a clean, dry **glass** tube, left still; tilt at 20 min | No clot, or a clot that breaks up = coagulopathy (DIC) |
+| **Bedside clotting test** | 2 mL venous blood in a clean, dry **glass** tube; tilt every 30 s (WHO); some units read at 20 min instead | No clot by 7 min, or a clot that breaks up = coagulopathy (DIC) |
 | **Hourly urine output** | Foley catheter to a urometer or measured bag | <30 mL/h = under-resuscitated or AKI |
 | **Point-of-care ultrasound** (if skilled) | Uterine cavity, abdomen | Retained products/clots in the cavity; free fluid (rupture, post-CS bleeding) |
 | **Urine dipstick for protein**, BP | | Undiagnosed pre-eclampsia → avoid ergometrine; think HELLP |
@@ -250,7 +250,7 @@ Take it from the midwife, the partograph and the file while others treat. Each i
 > [!EXAM]
 > **Worked example 2: the first Hb and the clotting test.**
 > Thirty minutes after a 1500 mL PPH following abruption with IUFD, her Hb is **9.8 g/dL** (antenatal 11.2). This does **not** mean the loss was small: she has lost whole blood and there has been no time for haemodilution, so the Hb falls further over hours (and with crystalloid). Treat the **clinical picture and the measured loss**, not the first Hb.
-> The 20-minute clotting test shows **no clot**. Later labs: platelets **62 × 10⁹/L**, PT prolonged, fibrinogen **1.3 g/L**. Interpretation: **DIC** from abruption plus consumption. Action: TXA (if within 3 h), red cells plus **FFP 15 mL/kg**, **cryoprecipitate** (fibrinogen <2 g/L), **platelets** (<75 × 10⁹/L); fresh whole blood if components are not available; keep her warm; ensure the uterus is empty and contracted.
+> The bedside clotting test shows **no clot at 7 minutes**. Later labs: platelets **62 × 10⁹/L**, PT prolonged, fibrinogen **1.3 g/L**. Interpretation: **DIC** from abruption plus consumption. Action: TXA (if within 3 h), red cells plus **FFP 15 mL/kg**, **cryoprecipitate** (fibrinogen <2 g/L), **platelets** (<75 × 10⁹/L); fresh whole blood if components are not available; keep her warm; ensure the uterus is empty and contracted.
 
 > [!UGANDA]
 > At most HC IVs you will have the **drape, a scale, a HemoCue, a glass tube and your hands**, and often no coagulation lab. That is enough to diagnose PPH, grade shock, find the cause (4 Ts) and detect coagulopathy. What you often **cannot** do is transfuse components or operate at night, so the workup must end in a clear decision: **manage here or refer now** (with NASG, tamponade, oxytocin running and an escort).
@@ -276,7 +276,7 @@ These are differentials for the **cause** of bleeding (and for shock after deliv
 The full test-by-test table (with Ugandan availability) is in **Clinical workup, Step 4** above. Three principles to remember:
 
 1. **Send bloods while you resuscitate**; never delay treatment for a result. The first cannula gives you Hb, group and cross-match and the clotting-test tube.
-2. **Bedside tests beat the lab at night**: the calibrated drape, weighed pads, shock index, HemoCue, the 20-minute whole blood clotting test and hourly urine output can all be done at a HC IV.
+2. **Bedside tests beat the lab at night**: the calibrated drape, weighed pads, shock index, HemoCue, the bedside clotting test and hourly urine output can all be done at a HC IV.
 3. **Repeat, don't rely on one value**: the first Hb underestimates loss, and a normal first clotting test can become abnormal after a further litre of bleeding. Repeat Hb after resuscitation and at 24 h, and repeat clotting tests if loss exceeds about 1000 mL or bleeding continues.
 
 ## Management
@@ -474,7 +474,7 @@ Causes: **endometritis** (most common), **retained products**, subinvolution of 
 | Carbetocin (heat-stable) | **100 µg IM/IV**, prevention only |
 | Shock index (HR ÷ SBP) | Normal 0.7–0.9; **≥0.9 abnormal; ≥1.4 urgent; ≥1.7 critical** |
 | Pad weighing | **1 g ≈ 1 mL** (subtract dry weight) |
-| Clotting test | 2 mL in a dry glass tube; **no clot at 20 min** = coagulopathy |
+| Clotting test | 2 mL in a dry glass tube; **no clot by 7 min** = coagulopathy (WHO) |
 | Fibrinogen | Normal at term 4–6 g/L; **<2 g/L** = severe coagulopathy → cryoprecipitate |
 | Platelets | Transfuse if **<75 × 10⁹/L** in active bleeding |
 | FFP | **15 mL/kg** after about 4 units of red cells or with abnormal clotting |
@@ -500,7 +500,7 @@ Causes: **endometritis** (most common), **retained products**, subinvolution of 
 Call for help and note the time, put a hand on the fundus and massage, and start the bundle together while assessing ABC and the shock index.
 
 **The uterus is firm but she is still bleeding. What now?**
-Inspect the genital tract in good light (cervix all round, vagina, perineum), check the placenta is complete, and do a 20-minute clotting test; continue resuscitation and give TXA if within 3 h.
+Inspect the genital tract in good light (cervix all round, vagina, perineum), check the placenta is complete, and do a bedside clotting test; continue resuscitation and give TXA if within 3 h.
 
 **How do you measure blood loss here?**
 Calibrated drape under the buttocks from birth, then weigh pads and linen (1 g ≈ 1 mL, minus dry weight); visual estimates are 30–50% too low.
