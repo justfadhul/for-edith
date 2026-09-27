@@ -1,0 +1,295 @@
+{
+  "slug": "ventouse-delivery",
+  "flashcards": [
+    { "id": "vac-f01", "front": "Where is the flexion point?", "back": "On the **sagittal suture about 3 cm in front of the posterior fontanelle** (about 6 cm behind the anterior fontanelle). Centring the cup here gives a **flexing median application**, so the **suboccipitobregmatic (9.5 cm)** diameter presents." },
+    { "id": "vac-f02", "front": "List the prerequisites for ventouse delivery.", "back": "**Fully dilated** cervix; **membranes ruptured**; **cephalic**, **position known**; head **≤1/5 palpable** with bony station **at or below the spines**; no 3+ moulding; **empty bladder**; **consent**; **analgesia**; trained operator; **neonatal resuscitator**; **back-up for CS**." },
+    { "id": "vac-f03", "front": "Working vacuum pressure for ventouse.", "back": "About **0.8 kg/cm²** = about **500–600 mmHg** = about **60–80 kPa** (the green zone on a Kiwi gauge). Start at about 0.2 kg/cm² to check for trapped tissue, then increase." },
+    { "id": "vac-f04", "front": "When should a ventouse be abandoned?", "back": "- **No descent** with a correctly applied pull\n- Delivery **not imminent after 3 pulls**\n- Cup **detaches twice**\n- About **15–20 min** total application\n- Fetal deterioration with birth not imminent\n\nThen go to **CS**. Avoid sequential instruments." },
+    { "id": "vac-f05", "front": "RCOG classification of assisted vaginal birth.", "back": "**Outlet**: scalp visible without separating the labia; ≤45° rotation.\n**Low**: skull at **+2 cm or below**, not on the pelvic floor.\n**Mid**: head **1/5 palpable**, station **0 to +1**.\n**High** (≥2/5): not appropriate. Do a CS." },
+    { "id": "vac-f06", "front": "Absolute contraindications to ventouse.", "back": "Cervix not fully dilated; head **≥2/5 palpable** or above the spines; **unknown position**; **face, brow or breech**; **gestation <32 weeks**; suspected **CPD**; **fetal bleeding disorder** or bone demineralisation; no back-up or no trained operator." },
+    { "id": "vac-f07", "front": "Direction and technique of traction.", "back": "Pull **only with contractions and maternal pushing**, **perpendicular to the cup**, along the **pelvic curve** (down and back, then horizontal, then up as the head crowns). Non-pulling hand: **thumb on the cup, finger on the scalp** to feel descent and slippage. **No rocking or twisting.**" },
+    { "id": "vac-f08", "front": "Why is a finger swept around the cup after initial vacuum?", "back": "To make sure **no cervix or vaginal wall is trapped** under the cup. Trapped tissue causes **cervical and vaginal lacerations**, haemorrhage and cup failure." },
+    { "id": "vac-f09", "front": "Soft vs rigid (metal) vs Kiwi OmniCup cups.", "back": "**Soft (silicone)**: less scalp trauma, **higher failure** (especially OP). Best for OA outlet or low.\n**Metal (Malmström or Bird)**: more successful, more chignon and cephalhaematoma. The **Bird posterior cup** is for OP.\n**Kiwi OmniCup**: rigid plastic, disposable, integral hand pump, low profile, reaches the flexion point in **all positions**." },
+    { "id": "vac-f10", "front": "Vacuum vs forceps: key differences.", "back": "**Vacuum**: fails more often; more **cephalhaematoma** and **retinal haemorrhage**; **less maternal perineal trauma** (OASI); less analgesia; needs maternal effort.\n**Forceps**: more successful; more **OASI**, vaginal trauma and **facial injury**; usable at 32–36 weeks, for face presentation and the after-coming head." },
+    { "id": "vac-f11", "front": "Caput vs cephalhaematoma vs subgaleal haemorrhage.", "back": "**Caput**: scalp oedema, **crosses sutures**, present **at birth**, gone in 1–2 days.\n**Cephalhaematoma**: **subperiosteal**, **limited by sutures**, appears **hours later**, resolves in weeks.\n**Subgaleal**: **subaponeurotic**, **crosses sutures**, **enlarges**, can cause **hypovolaemic shock**." },
+    { "id": "vac-f12", "front": "Signs of subgaleal haemorrhage after ventouse.", "back": "A diffuse **boggy, fluctuant, shifting** scalp swelling crossing sutures (forehead to nape, around the ears); **increasing head circumference** (about 1 cm ≈ 40 mL of blood); **pallor, tachycardia, hypotonia, poor feeding, shock**; falling Hb; DIC." },
+    { "id": "vac-f13", "front": "Management of subgaleal haemorrhage.", "back": "Urgent neonatal team; **hourly** obs and **head circumference**; Hb and coagulation; **NS 10–20 mL/kg** IV bolus; **blood transfusion**; **FFP** for coagulopathy; **vitamin K 1 mg**; NICU transfer. Mortality can be 12–25%." },
+    { "id": "vac-f14", "front": "Maternal and fetal indications for assisted vaginal birth.", "back": "**Fetal**: suspected fetal compromise in the second stage.\n**Maternal**: delay in the second stage (primigravida >2 h, multipara >1 h active pushing in Ugandan teaching); **exhaustion**; medical need to avoid prolonged Valsalva (cardiac disease, hypertensive crisis, cerebrovascular disease, proliferative retinopathy, myasthenia)." },
+    { "id": "vac-f15", "front": "How do you determine the position of the fetal head on VE?", "back": "Follow the **sagittal suture** to a fontanelle. **Posterior fontanelle**: small, **Y-shaped (3 sutures)**. **Anterior**: large, **diamond (4 sutures)**. If the posterior fontanelle is anterior, the position is **OA**; if the anterior fontanelle is anterior, it is **OP**. If caput obscures them, feel an **ear** (the pinna folds towards the occiput) or use **ultrasound**." },
+    { "id": "vac-f16", "front": "Moulding grades and their significance.", "back": "**+1** bones touching; **+2** overlapping but reducible; **+3** overlapping and **irreducible**. +3 moulding with a head still palpable abdominally suggests **CPD**, so **no ventouse; do a CS**." },
+    { "id": "vac-f17", "front": "Maternal aftercare after ventouse.", "back": "**Oxytocin 10 IU IM** (third stage); inspect and **PR exam** for OASI, then repair; a **single IV dose of amoxicillin-clavulanate** (ANODE) or per the unit protocol; analgesia; **void within about 6 h** (retention risk); VTE assessment; **debrief**." },
+    { "id": "vac-f18", "front": "Why is ventouse important in Uganda's EmONC framework?", "back": "**Assisted vaginal delivery is one of the 7 BEmONC signal functions**, expected at HC III and above. It is the **least performed** signal function, so women with second-stage delay are referred for risky **second-stage CS**." },
+    { "id": "vac-f19", "front": "What does a 'trial in theatre' mean, and when is it used?", "back": "An assisted vaginal birth attempted **in theatre with everything ready for an immediate CS** (anaesthesia, consent for both). Used when the failure risk is higher: **mid-cavity**, 1/5 palpable, **OP**, **EFW >4 kg**, BMI >30, prolonged labour." },
+    { "id": "vac-f20", "front": "The A–J mnemonic for vacuum extraction.", "back": "**A**sk for help / consent / anaesthesia; **B**ladder empty; **C**ervix fully dilated; **D**etermine position and station (think shoulder Dystocia); **E**quipment ready; **F**lexion point; **G**entle traction; **H**alt (stopping rules); **I**ncision (episiotomy?); **J**aw reachable, so remove the cup." }
+  ],
+  "mcqs": [
+    {
+      "id": "vac-q01",
+      "stem": "A 19-year-old primigravida has been pushing for 2.5 hours at an HC IV. Abdominally the head is 2/5 palpable. On VE the cervix is fully dilated, there is a large caput at the introitus, and moulding is +3 (irreducible). The FHR is 170 bpm. The midwife asks if she should apply the ventouse. What is the MOST appropriate management?",
+      "options": [
+        "Apply a metal Malmström cup and pull with the next contraction",
+        "Apply a Kiwi OmniCup as a trial in the labour room",
+        "Start an oxytocin infusion to improve pushing",
+        "Resuscitate (IV fluids, catheter, antibiotics) and proceed to caesarean section",
+        "Apply fundal pressure with the next contraction"
+      ],
+      "answer": 3,
+      "explanation": "The head is **2/5 palpable** (not engaged) despite a caput at the introitus, with **+3 moulding** after a prolonged second stage. That means **obstructed labour/CPD**, so ventouse is **contraindicated**. The management is resuscitation and **CS** (**D**). **A** and **B** would fail and risk subgaleal haemorrhage and maternal trauma; the caput misleads about station. **C**: oxytocin in obstruction risks uterine rupture. **E**: fundal pressure is harmful and does not overcome CPD.",
+      "difficulty": "core"
+    },
+    {
+      "id": "vac-q02",
+      "stem": "During a ventouse delivery for a direct occipito-anterior position, the consultant asks the student where the centre of the cup should be placed. What is the CORRECT answer?",
+      "options": [
+        "On the sagittal suture about 3 cm in front of the posterior fontanelle",
+        "Directly over the anterior fontanelle",
+        "Midway between the anterior and posterior fontanelles",
+        "About 3 cm in front of the anterior fontanelle",
+        "Over whichever part of the scalp is most accessible at the introitus"
+      ],
+      "answer": 0,
+      "explanation": "The **flexion point** lies on the sagittal suture about **3 cm anterior to the posterior fontanelle**. Centring the cup there flexes the head and presents the smallest diameter (**A**). **B**, **C** and **D** are too anterior (**deflexing** application), so a larger diameter presents, with more failure and pop-offs. **E** is a classic error: the most accessible part is often too anterior.",
+      "difficulty": "core"
+    },
+    {
+      "id": "vac-q03",
+      "stem": "A ventouse is applied for fetal distress in a primigravida with the head at +2, LOA. After the first pull the head descends a little. On the second pull the cup detaches; it is reapplied and detaches again with no further descent. The FHR is now 90 bpm. What is the MOST appropriate next step?",
+      "options": [
+        "Reapply the cup a third time at higher pressure",
+        "Change to forceps immediately, performed by the junior doctor",
+        "Continue pulling between contractions to speed things up",
+        "Wait 30 minutes for the head to descend with maternal pushing",
+        "Abandon the ventouse and proceed to Category 1 CS, warning the team of a possibly impacted head"
+      ],
+      "answer": 4,
+      "explanation": "**Two detachments** and **no descent with a pull**, plus fetal bradycardia, mean **abandon now** and deliver by **Category 1 CS**. Warn the team to prepare for disimpaction (**E**). **A**: repeated reapplication and higher pressure increase the risk of subgaleal haemorrhage and ICH. **B**: **sequential instruments** increase neonatal trauma, and an inexperienced operator makes it worse. **C**: traction without contractions is ineffective and traumatic. **D**: the fetus is bradycardic, so waiting is dangerous.",
+      "difficulty": "core"
+    },
+    {
+      "id": "vac-q04",
+      "stem": "A 28-year-old P3 at an HC III has been pushing for 1.5 hours. The head is 0/5 palpable, the cervix fully dilated, station +3, position ROA, moulding +1. The FHR shows late decelerations. The nearest hospital with theatre is 2 hours away. A trained midwife and a working Kiwi OmniCup are available. What is the BEST management?",
+      "options": [
+        "Refer immediately to hospital for caesarean section",
+        "Start oxytocin augmentation and reassess in 1 hour",
+        "Proceed with ventouse delivery at the HC III after consent, bladder emptying and analgesia, with a newborn resuscitator present",
+        "Apply fundal pressure to expedite the birth",
+        "Wait for spontaneous delivery, as she is multiparous"
+      ],
+      "answer": 2,
+      "explanation": "All prerequisites are met (0/5, +3, known OA position, fully dilated) and there is a fetal indication. **Assisted vaginal delivery is a BEmONC function** of HC III. A skilled ventouse now (**C**) is far safer than a 2-hour referral with a distressed fetus. **A** delays birth and exposes her to a second-stage CS. **B**: augmenting a multipara with fetal distress is dangerous. **D**: fundal pressure is not recommended (uterine rupture, fetal injury). **E** ignores fetal compromise and prolonged second stage.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "vac-q05",
+      "stem": "Three hours after a difficult ventouse delivery (4 pulls, 2 detachments), a term baby is pale and tachycardic (HR 180) with poor tone. There is a diffuse, boggy swelling from the forehead to the nape, crossing suture lines, and the ears are pushed forward. The head circumference has increased by 2 cm since birth. What is the MOST appropriate management?",
+      "options": [
+        "Reassure the mother: this is a cephalhaematoma and will resolve in weeks",
+        "Urgent neonatal review; IV normal saline 10–20 mL/kg, blood transfusion, coagulation screen and vitamin K, with hourly head circumference and observations",
+        "Reassure: this is caput succedaneum and will resolve in 48 hours",
+        "Aspirate the swelling with a needle to relieve the pressure",
+        "Start phototherapy for expected jaundice"
+      ],
+      "answer": 1,
+      "explanation": "A swelling that **crosses sutures and is enlarging**, with **shock** and a rising head circumference (2 cm ≈ 80 mL of blood), is **subgaleal haemorrhage**. It is life-threatening and needs **volume replacement, transfusion, correction of coagulopathy and NICU care** (**B**). **A**: a cephalhaematoma does not cross sutures and doesn't cause shock. **C**: caput is present at birth and does not enlarge. **D**: aspiration introduces infection and does not stop bleeding. **E** ignores the immediate threat.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "vac-q06",
+      "stem": "A primigravida at Mengo needs an assisted delivery for prolonged second stage (head 0/5, +2, OA). She asks why the doctor prefers the vacuum rather than forceps. Which statement about vacuum compared with forceps is CORRECT?",
+      "options": [
+        "Vacuum causes less maternal perineal trauma, including fewer third- and fourth-degree tears",
+        "Vacuum is more likely to achieve vaginal birth than forceps",
+        "Vacuum causes fewer cephalhaematomas than forceps",
+        "Vacuum causes fewer neonatal retinal haemorrhages",
+        "Vacuum can safely be used at 30 weeks' gestation"
+      ],
+      "answer": 0,
+      "explanation": "Cochrane evidence shows vacuum causes **less maternal perineal trauma** (fewer OASI and vaginal lacerations) and needs less analgesia (**A**). **B** is wrong: vacuum is **more likely to fail**. **C** and **D** are wrong: vacuum causes **more** cephalhaematoma and retinal haemorrhage. **E**: vacuum is **contraindicated below 32 weeks**.",
+      "difficulty": "core"
+    },
+    {
+      "id": "vac-q07",
+      "stem": "On VE in the second stage, a student feels a small Y-shaped fontanelle near the sacrum and a large diamond-shaped fontanelle behind the symphysis. The head is 0/5 palpable at +2. The consultant decides on a ventouse. Which cup and application is MOST appropriate?",
+      "options": [
+        "A soft silicone cup placed just inside the introitus",
+        "An anterior metal Malmström cup placed over the diamond-shaped fontanelle",
+        "A soft cup placed over the sagittal suture midway between the fontanelles",
+        "A posterior cup (e.g. Kiwi OmniCup or Bird posterior cup) slid back to the flexion point near the posterior fontanelle",
+        "Any cup, pulling upward from the first contraction"
+      ],
+      "answer": 3,
+      "explanation": "The posterior fontanelle is posterior, so this is **occipito-posterior (OP)**. The **flexion point lies far back** in the posterior vagina. A low-profile **posterior cup** is needed to reach it (**D**). **A** and **C**: a soft cup is prone to failure in OP, and both placements are too anterior. **B**: placing it over the anterior fontanelle is a deflexing application (a larger diameter). **E**: pulling upward early extends the head and drags against the symphysis.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "vac-q08",
+      "stem": "Six hours after a ventouse delivery with a second-degree tear, a 24-year-old has not passed urine. She has suprapubic discomfort and a palpable bladder. What is the MOST appropriate management?",
+      "options": [
+        "Wait until 24 hours postpartum before intervening",
+        "Give furosemide 40 mg IV",
+        "Restrict oral fluids",
+        "Give a stat dose of antibiotics for a UTI",
+        "Catheterise, measure the residual volume, and leave an indwelling catheter for 24–48 h if the volume is large"
+      ],
+      "answer": 4,
+      "explanation": "**Postpartum urinary retention** is common after assisted birth (perineal pain, swelling, trauma). An overdistended bladder can cause long-term **detrusor damage**. Catheterise, measure, and leave an indwelling catheter if the residual is large (**E**). **A** risks overdistension injury. **B**: a diuretic worsens distension. **C** does not treat retention. **D**: there is no evidence of infection.",
+      "difficulty": "core"
+    },
+    {
+      "id": "vac-q09",
+      "stem": "A student is assessing a multiparous woman before a possible ventouse. Which ONE finding is a contraindication to proceeding?",
+      "options": [
+        "Membranes ruptured with clear liquor",
+        "Position left occipito-anterior",
+        "Cervix 9 cm with a thick anterior lip",
+        "Moulding +1",
+        "Head 0/5 palpable with the bony skull at +2"
+      ],
+      "answer": 2,
+      "explanation": "The cervix must be **fully dilated**. A **9 cm cervix with an anterior lip** means she is not in the second stage, and applying a cup risks **cervical laceration** and failure (**C**). **A**, **B**, **D** and **E** are all favourable prerequisites: ruptured membranes, a known OA position, minimal moulding, and a low engaged head.",
+      "difficulty": "core"
+    },
+    {
+      "id": "vac-q10",
+      "stem": "The cup is correctly applied at the flexion point and the working pressure has been reached. How should traction be performed?",
+      "options": [
+        "Continuous traction without stopping until the head delivers",
+        "With each contraction and maternal push, perpendicular to the cup, along the pelvic curve, with the other hand's thumb on the cup and a finger on the scalp",
+        "Rock the cup from side to side to loosen the head",
+        "Twist the cup to rotate the occiput anteriorly",
+        "Pull steeply upward from the first pull to lift the head over the perineum"
+      ],
+      "answer": 1,
+      "explanation": "Traction is **intermittent, synchronised with contractions and pushing**, **perpendicular to the cup**, and follows the **pelvic curve** (down, horizontal, then up). The **finger-thumb** position detects descent and slippage (**B**). **A**: continuous traction exhausts the scalp and increases trauma. **C** and **D**: rocking and twisting break the seal and cause scalp lacerations and subgaleal bleeding; the head should **autorotate**. **E**: early upward traction extends the head and pulls against the symphysis.",
+      "difficulty": "core"
+    },
+    {
+      "id": "vac-q11",
+      "stem": "After an uncomplicated ventouse delivery with an intact perineum, the registrar asks what antibiotic prophylaxis, if any, is recommended (RCOG, following the ANODE trial). What is the BEST answer?",
+      "options": [
+        "No antibiotics are ever needed after assisted birth",
+        "Oral amoxicillin 500 mg 8-hourly for 7 days",
+        "Ceftriaxone 1 g IV daily for 5 days",
+        "Metronidazole 400 mg orally 8-hourly for 5 days",
+        "A single IV dose of amoxicillin-clavulanate as soon as possible after birth (or the unit's single-dose alternative)"
+      ],
+      "answer": 4,
+      "explanation": "The **ANODE trial** showed that a **single IV dose of amoxicillin-clavulanate** after assisted vaginal birth significantly reduces maternal infection. The RCOG recommends it (**E**). Where it is unavailable, Ugandan units use a single-dose alternative per protocol. **A** is outdated since ANODE. **B**, **C** and **D** are prolonged courses with no evidence of benefit, and they drive resistance.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "vac-q12",
+      "stem": "A trainee places the ventouse cup with its leading edge on the anterior fontanelle and begins traction. What is the MOST likely consequence?",
+      "options": [
+        "Faster delivery because the head is lifted more directly",
+        "Increased flexion of the head",
+        "No effect, as cup position does not matter once vacuum is achieved",
+        "Deflexion of the head, so that a larger diameter presents, with a higher risk of failure, pop-offs and scalp trauma",
+        "Guaranteed autorotation to occipito-anterior"
+      ],
+      "answer": 3,
+      "explanation": "A cup placed too far anteriorly is a **deflexing application**. Traction extends the head, so the **occipitofrontal (11.5 cm)** diameter presents instead of the suboccipitobregmatic (9.5 cm). The result is **failure, detachments and scalp trauma** (**D**). **A**, **B**, **C** and **E** are wrong because correct flexion-point placement is the most important determinant of success.",
+      "difficulty": "core"
+    },
+    {
+      "id": "vac-q13",
+      "stem": "A 3.4 kg baby was delivered by uncomplicated ventouse (2 pulls, no detachments) and has good Apgars. Only a chignon is visible. What is the MOST appropriate neonatal plan?",
+      "options": [
+        "Vitamin K 1 mg IM, and regular observations of HR, RR, colour, tone, feeding and scalp swelling or head circumference (frequently in the first hours, then over 12–24 h), teaching the mother what to watch for",
+        "Discharge mother and baby 1 hour after birth without further observation",
+        "Routine skull X-ray to exclude fracture",
+        "Routine cranial ultrasound before discharge",
+        "Aspirate the chignon to reduce swelling"
+      ],
+      "answer": 0,
+      "explanation": "Every ventouse baby needs **structured observation** for **subgaleal haemorrhage**, which may develop over hours, plus routine **vitamin K** (**A**). **B** risks missing a life-threatening bleed. **C** and **D** are not routine and are only indicated if there are clinical concerns. **E**: a chignon is benign and resolves in hours, and aspiration causes infection.",
+      "difficulty": "core"
+    },
+    {
+      "id": "vac-q14",
+      "stem": "After a ventouse delivery with a right mediolateral episiotomy, the student notices a tear extending towards the anus. What is the MOST important step before starting the repair?",
+      "options": [
+        "Start suturing the skin immediately to reduce bleeding",
+        "Give antibiotics and leave the tear to heal by secondary intention",
+        "Examine carefully with good light and analgesia, including a rectal examination, to assess the anal sphincter and grade the tear",
+        "Pack the vagina and discharge her the next day",
+        "Apply a pressure dressing and reassess in 24 hours"
+      ],
+      "answer": 2,
+      "explanation": "Instrumental delivery and episiotomy raise the risk of **obstetric anal sphincter injury (OASI)**. A systematic examination with a **PR exam** is essential to **grade the tear** and ensure that third- and fourth-degree tears are repaired by an experienced operator in theatre (**C**). **A** risks missing and inadequately repairing OASI, which leads to faecal incontinence and fistula. **B**, **D** and **E** leave a significant tear unrepaired.",
+      "difficulty": "core"
+    },
+    {
+      "id": "vac-q15",
+      "stem": "A 30-year-old P1 with rheumatic mitral stenosis (NYHA class III) is fully dilated with the head 0/5 palpable, station +3, OA, and good contractions. The obstetrician wants to avoid prolonged maternal pushing. What is the MOST appropriate plan?",
+      "options": [
+        "Encourage vigorous pushing for up to 2 hours",
+        "Shorten the second stage with an elective low-cavity assisted vaginal birth, with minimal maternal effort",
+        "Immediate caesarean section at full dilatation",
+        "Apply fundal pressure to avoid maternal pushing",
+        "Start an oxytocin infusion to strengthen contractions"
+      ],
+      "answer": 1,
+      "explanation": "Significant cardiac disease is a **maternal indication** for assisted vaginal birth, to **avoid the haemodynamic stress of prolonged Valsalva** (**B**). Forceps need the least maternal effort; a ventouse with limited pushing is an alternative when forceps skills are unavailable. **A** is dangerous for a woman with mitral stenosis. **C**: CS at full dilatation with the head at +3 carries higher surgical and haemodynamic risk than a low assisted birth. **D**: fundal pressure is harmful. **E**: contractions are already good, and oxytocin adds fluid and haemodynamic effects.",
+      "difficulty": "advanced"
+    }
+  ],
+  "cases": [
+    {
+      "id": "vac-c01",
+      "title": "Prolonged second stage with fetal distress at an HC IV",
+      "presentation": "A 22-year-old primigravida at 39 weeks is admitted to an HC IV in Luweero. She has been fully dilated for 2 hours and 15 minutes, pushing for most of that time. She is exhausted. The FHR drops to 100 bpm with each contraction and recovers slowly. Abdominally, contractions are 4 in 10 minutes, strong. You are the medical officer.",
+      "steps": [
+        { "prompt": "What will you look for on examination to decide whether a ventouse is possible?", "answer": "- **Abdomen**: **fifths palpable** (need 0/5 or 1/5), contractions, a **full bladder**, fetal size.\n- **VE**: cervix **fully dilated** (no lip), **membranes ruptured**, **station of the bony skull** (not the caput), **position** (sutures and fontanelles, ear), **caput and moulding** grade, liquor colour, pelvis.\n- Maternal pulse, BP and temperature; hydration." },
+        { "prompt": "Findings: head 0/5, station +2, LOA, caput +, moulding +1, clear liquor. Are the prerequisites met? What else must you do before applying the cup?", "answer": "Yes. It is a **low-cavity, non-rotational (≤45°)** assisted birth with a fetal and a maternal indication.\nBefore applying: **explain and obtain consent**; call a **midwife assistant** and an **HBB-trained newborn resuscitator** (bag and mask ready); **empty the bladder** (in-out catheter); **analgesia** (perineal infiltration with 10 mL lidocaine 1%, or a pudendal block); **check the equipment** (pump, tubing, cup, vacuum test); lithotomy position; asepsis; oxytocin 10 IU drawn up; confirm theatre back-up is possible if it fails." },
+        { "prompt": "Describe the application and traction.", "answer": "Insert the cup and slide it back to the **flexion point** (on the sagittal suture about 3 cm in front of the posterior fontanelle). Create low vacuum (about 0.2 kg/cm²) and **sweep a finger around the cup** to exclude trapped cervix or vagina. Increase to **about 0.8 kg/cm² (about 600 mmHg)**. With the next contraction and her push, pull **perpendicular to the cup along the pelvic curve** (downward first), with the **thumb on the cup and a finger on the scalp**. Stop between contractions and check the FHR. Expect descent with each pull. Let the head autorotate; never twist." },
+        { "prompt": "The head descends with each pull and crowns on the third pull. What next?", "answer": "Guard the perineum and consider a **selective mediolateral episiotomy** only if the perineum is very tight and tearing is imminent. **Release the vacuum when the jaw is reachable**, then deliver the head, shoulders and body (anticipate shoulder dystocia). **Oxytocin 10 IU IM**, controlled cord traction, and uterine massage. Inspect for tears and do a **PR exam**, then repair. Note the **number of pulls (3), detachments (0) and time**." },
+        { "prompt": "Outline the post-delivery plan for mother and baby.", "answer": "**Mother**: obs and uterine tone; watch for PPH; a single dose of IV prophylactic antibiotic per protocol (co-amoxiclav if available); paracetamol and diclofenac; **void within 6 h** with the volume checked; VTE risk assessment and early mobilisation; debrief and documentation.\n**Baby**: Apgars; **scalp check** (chignon); **head circumference**; **vitamin K 1 mg IM**; **regular observations** (HR, RR, colour, tone, feeding, scalp swelling) for 12–24 h; early breastfeeding; teach the mother the danger signs (spreading swelling, pallor, poor feeding)." }
+      ],
+      "takeaway": "When the prerequisites are met (0/5, low station, known OA position, fully dilated), a skilled ventouse at an HC IV delivers a distressed baby in minutes and avoids a second-stage CS. Correct flexion-point placement and traction with contractions are the keys."
+    },
+    {
+      "id": "vac-c02",
+      "title": "The ventouse that should become a caesarean",
+      "presentation": "At a regional referral hospital, a 31-year-old primigravida (BMI 34, EFW 3.9 kg) has been fully dilated for 3 hours after oxytocin augmentation. The head is 1/5 palpable. On VE there is a large caput at +2, and the sutures are difficult to feel. The intern proposes a ventouse in the labour room.",
+      "steps": [
+        { "prompt": "What concerns you about this situation?", "answer": "- **1/5 palpable** means **mid-cavity**: the skull may be higher than the caput suggests.\n- **Large caput, sutures difficult to feel**: the **position is uncertain** (possibly OP or deflexed).\n- **Prolonged labour with augmentation**, **BMI 34**, **EFW 3.9 kg**: a higher risk of **failure, shoulder dystocia and PPH**.\n\nThese are all factors for a **trial in theatre**, not a labour-room ventouse." },
+        { "prompt": "How would you establish the position, and what is a 'trial in theatre'?", "answer": "Feel for an **ear** (the pinna folds towards the occiput) or, better, use **transabdominal ultrasound** (fetal orbits face anteriorly in OP; the spine is posterior) or a transperineal scan. A **trial in theatre** means moving to theatre with **spinal anaesthesia**, **consent for both assisted delivery and CS**, and the theatre team scrubbed, so that you can move to **CS immediately** if it fails. A senior operator should conduct it." },
+        { "prompt": "Ultrasound shows a direct OP position. In theatre the senior applies a Kiwi OmniCup at the flexion point. After 2 pulls there is minimal descent and one detachment. What now?", "answer": "**Abandon.** There is no clear progressive descent after 2 pulls plus a detachment, delivery is not imminent, and there is a big baby and a prolonged labour. **Do not reapply repeatedly, and do not switch to forceps** (sequential instruments raise the risk of neonatal ICH and trauma). **Proceed to CS immediately** under the same spinal." },
+        { "prompt": "What difficulties do you anticipate at the CS and how will you manage them?", "answer": "- **Deeply impacted head**: an assistant **disimpacts vaginally** (push method, cupped hand, pushing the head up and flexing it), or use the **reverse breech (pull) method**. Consider tocolysis (terbutaline 0.25 mg SC) to relax the uterus.\n- **Extensions** of the uterine incision into the broad ligament and **PPH**: good exposure, Green-Armytage clamps, oxytocin, TXA 1 g IV.\n- **Bladder injury** (high, oedematous bladder).\n- **Neonatal** trauma and asphyxia: the neonatal team is present; observe for subgaleal haemorrhage (vacuum traction was applied)." },
+        { "prompt": "What should be documented and discussed afterwards?", "answer": "Document the **prerequisite findings** (fifths, station, position by ultrasound, caput and moulding), the reason for the trial in theatre, the **cup type, number of pulls, detachments and times**, the decision to abandon, and the CS findings. **Debrief** the woman (why it happened, what it means for the next birth: a trial of labour is possible). Review at the **perinatal audit** if there were adverse outcomes." }
+      ],
+      "takeaway": "Mid-cavity station, uncertain position, a big caput, prolonged labour and a large baby predict failure. Clarify the position (with ultrasound if possible), do the trial in theatre, stop early if there is no descent, and never go on to sequential instruments."
+    },
+    {
+      "id": "vac-c03",
+      "title": "The pale baby on the postnatal ward",
+      "presentation": "You are called to the postnatal ward at Mengo at 06:00. A term baby girl (3.1 kg) was born at 01:30 by ventouse after 5 pulls with 2 cup detachments. The mother says the baby 'is not breastfeeding and her head is getting bigger'. The baby is pale, with a HR of 184 bpm, RR 60, capillary refill 4 seconds, and she is floppy.",
+      "steps": [
+        { "prompt": "What features on examination of the head will help you make the diagnosis?", "answer": "Look for a **diffuse, boggy, fluctuant swelling** that **crosses suture lines**, extending from the **orbits to the nape** and **around the ears** (ears pushed forward). It **shifts with head position** and may pit. **Measure the head circumference** and compare it with the birth measurement: each 1 cm rise ≈ 40 mL of blood. Compare with a **cephalhaematoma** (confined by sutures, not shocked) and **caput** (present at birth, decreasing)." },
+        { "prompt": "What is the diagnosis and why is it so dangerous?", "answer": "**Subgaleal (subaponeurotic) haemorrhage.** Bleeding from ruptured emissary veins into the large potential space between the **galea aponeurotica and the periosteum** can hold **several hundred mL**, i.e. most of a newborn's blood volume (about 80–90 mL/kg, so about 270 mL here). She is showing **hypovolaemic shock** (tachycardia, pallor, prolonged capillary refill, hypotonia). **Consumptive coagulopathy** may follow. Mortality is significant." },
+        { "prompt": "Describe your immediate management.", "answer": "1. **Call the paediatrician or neonatal team**; move to the special care unit.\n2. **ABC**: oxygen, warmth, IV or intraosseous access.\n3. Bloods: **Hb/PCV, grouping and cross-match**, coagulation screen, glucose.\n4. **Normal saline 10–20 mL/kg IV bolus**, then **packed red cells or fresh whole blood** (10–20 mL/kg, repeated as needed; O-negative in an emergency).\n5. **FFP** for coagulopathy; **vitamin K 1 mg IV/IM** (check it was given).\n6. **Hourly head circumference**, HR, BP (if possible), cap refill and urine output.\n7. Avoid head bandaging (it doesn't tamponade and hides the swelling). Refer to the NICU if unstable.\n8. Later, watch for jaundice (phototherapy) and seizures (ICH)." },
+        { "prompt": "What went wrong in the delivery, and how could this have been prevented?", "answer": "- The ventouse **continued beyond the stopping rules**: **5 pulls and 2 detachments** (the rules are 3 pulls, 2 detachments, no descent means stop).\n- Possible **incorrect cup placement** (deflexing or paramedian), rocking or twisting, or pulling without contractions.\n- **Neonatal observation was not structured**: 4.5 hours passed before recognition.\n\nPrevention: meet the prerequisites, apply the cup at the flexion point, **respect the abandon criteria**, avoid sequential instruments, and give **every ventouse baby regular observations** of head circumference and vital signs, with the mother taught what to report." },
+        { "prompt": "How should this be followed up at a system level?", "answer": "**Open disclosure** to the parents. Incident report and **perinatal death/near-miss review (MPDSR)**. Retrain staff on ventouse technique and the stopping rules (simulation). Introduce a **ventouse documentation proforma** and a **post-vacuum neonatal observation chart** on the postnatal ward." }
+      ],
+      "takeaway": "Subgaleal haemorrhage is a silent killer after ventouse. Respect the stopping rules (3 pulls, 2 pop-offs, no descent means stop), observe every vacuum baby with regular head measurements, and treat shock with volume and blood urgently."
+    }
+  ],
+  "references": [
+    { "title": "Assisted Vaginal Birth (Green-top Guideline No. 26)", "source": "Royal College of Obstetricians and Gynaecologists", "year": 2020, "url": "https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/assisted-vaginal-birth-green-top-guideline-no-26/" },
+    { "title": "Assisted Vaginal Birth: Green-top Guideline No. 26 (BJOG abstract)", "source": "BJOG / PubMed", "year": 2020, "url": "https://pubmed.ncbi.nlm.nih.gov/32346983/" },
+    { "title": "Vacuum-assisted vaginal delivery (review)", "source": "PubMed", "url": "https://pubmed.ncbi.nlm.nih.gov/19399290/" },
+    { "title": "Subgaleal Haemorrhage (clinical guidance statement)", "source": "RANZCOG", "url": "https://ranzcog.edu.au/wp-content/uploads/Subgaleal-Haemorrhage.pdf" },
+    { "title": "An engineering perspective of vacuum assisted delivery devices in obstetrics: a review", "source": "Proceedings of the Institution of Mechanical Engineers, Part H (via PMC)", "year": 2021, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7780266/" },
+    { "title": "Intrapartum Ultrasound in Vacuum Operative Delivery: A Comprehensive Review and Proposal of the Novel Ultrasound Flexion Point Method", "source": "PubMed Central (NCBI)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13024969/" },
+    { "title": "Prospective assessment of vacuum deliveries from midpelvic station in a tertiary care university hospital", "source": "PubMed Central (NCBI)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8594828/" },
+    { "title": "Compliance with clinical guidelines increases the safety of vacuum-assisted delivery (Yim et al.)", "source": "Australian and New Zealand Journal of Obstetrics and Gynaecology", "year": 2023, "url": "https://obgyn.onlinelibrary.wiley.com/doi/10.1111/ajo.13545" },
+    { "title": "Instrumental Vaginal Deliveries", "source": "Obgyn Key", "url": "https://obgynkey.com/instrumental-vaginal-deliveries/" },
+    { "title": "Birth Injuries (cephalohematoma, subgaleal haemorrhage)", "source": "Merck Manual Professional Edition", "url": "https://www.merckmanuals.com/professional/pediatrics/perinatal-problems/birth-injuries" },
+    { "title": "Essential Maternal and Newborn Clinical Care Guidelines for Uganda", "source": "Ministry of Health Uganda", "year": 2022, "url": "https://library.health.go.ug/sexual-and-reproductive-health/essential-maternal-and-newborn-clinical-care-guidelines-uganda-may" },
+    { "title": "Uganda Clinical Guidelines 2023", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf" },
+    { "title": "Managing Complications in Pregnancy and Childbirth: A Guide for Midwives and Doctors (vacuum extraction section)", "source": "World Health Organization", "year": 2017 },
+    { "title": "Prophylactic antibiotics in the prevention of infection after operative vaginal delivery (ANODE): a multicentre randomised controlled trial (Knight et al.)", "source": "The Lancet", "year": 2019 },
+    { "title": "Instruments for assisted vaginal delivery (O'Mahony, Hofmeyr, Menon)", "source": "Cochrane Database of Systematic Reviews", "year": 2010 }
+  ]
+}
