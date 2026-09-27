@@ -113,7 +113,7 @@ In the acute setting, history is taken **while** resuscitation happens, often fr
 4. **Blood loss**: measure it. Read the **calibrated drape**, weigh pads and linen (1 g ≈ 1 mL), count soaked swabs. Also look under the woman and on the floor.
 5. **Genital tract**: in good light with a speculum and an assistant. Look at perineum, vagina, cervix (all quadrants), and for a vulval or vaginal haematoma.
 6. **Placenta and membranes**: complete? Missing cotyledon? Vessels running off the edge (succenturiate lobe)?
-7. **Clotting**: does the blood clot? **Bedside clotting test** (WHO): 2 mL in a small dry glass tube, tilt every 30 s; **no clot by 7 minutes**, or a soft clot that breaks up, = coagulopathy. (Some units use the 20-minute whole-blood clotting test instead.) Oozing from drip sites also suggests coagulopathy.
+7. **Clotting**: does the blood clot? **Bedside clotting test** (WHO): 2 mL in a small dry glass tube held warm in your fist; tilt at 4 min, then every minute; **no clot by 7 minutes**, or a soft clot that breaks up, = coagulopathy. (Some units use the 20-minute whole-blood clotting test instead.) Oozing from drip sites also suggests coagulopathy.
 
 ### Red flags
 
@@ -207,7 +207,7 @@ Take it from the midwife, the partograph and the file while others treat. Each i
 | **Weigh pads, linen and swabs** | Weigh soaked items and subtract the weight of the same items dry; **1 g ≈ 1 mL** | Adds the loss the drape missed (after the drape is removed, on the floor, in the bed) |
 | **Shock index** | HR ÷ SBP, repeated with each set of vitals | Rising SI = ongoing bleeding even if BP is "normal" |
 | **HemoCue / point-of-care Hb** | Finger-prick or venous sample | Baseline only; the **first Hb underestimates the loss** (see Step 5) |
-| **Bedside clotting test** | 2 mL venous blood in a clean, dry **glass** tube; tilt every 30 s (WHO); some units read at 20 min instead | No clot by 7 min, or a clot that breaks up = coagulopathy (DIC) |
+| **Bedside clotting test** | 2 mL venous blood in a clean, dry **glass** tube; hold it warm, tilt at 4 min then every minute (WHO MCPC); some units read at 20 min instead | No clot by 7 min, or a clot that breaks up = coagulopathy (DIC) |
 | **Hourly urine output** | Foley catheter to a urometer or measured bag | <30 mL/h = under-resuscitated or AKI |
 | **Point-of-care ultrasound** (if skilled) | Uterine cavity, abdomen | Retained products/clots in the cavity; free fluid (rupture, post-CS bleeding) |
 | **Urine dipstick for protein**, BP | | Undiagnosed pre-eclampsia → avoid ergometrine; think HELLP |

@@ -10,6 +10,10 @@ highYield:
   - Contraindications include gestation below 32 weeks (caution at 32–36), face/brow/breech presentation, a head that is not engaged or ≥2/5 palpable, an incompletely dilated cervix, an unknown position, suspected CPD (3+ moulding), and fetal bleeding or bone disorders.
   - Compared with forceps, vacuum fails more often and causes more cephalhaematoma and retinal haemorrhage, but causes less maternal perineal trauma (third/fourth-degree tears) and needs less analgesia.
   - Subgaleal haemorrhage (bleeding under the scalp aponeurosis, which crosses suture lines) can hide a large part of the baby's blood volume and kill within hours. Watch every vacuum baby for a boggy, spreading scalp swelling, pallor, tachycardia and increasing head circumference.
+  - "Examine the abdomen before the VE. If fifths palpable and VE station disagree (e.g. 2/5 palpable but 'station +2'), trust the abdomen, because caput misleads the VE."
+  - "RCOG levels. Outlet (scalp visible without parting the labia) and low (bony skull at +2 or below, 0/5 palpable) can be done in the delivery room. Mid-cavity (1/5 palpable, station 0 to +1) is a trial in theatre by an experienced operator. High (2/5 or more palpable) means CS."
+  - "In the second stage check the FHR every 5 minutes (after each contraction; normal 110–160 bpm), and between pulls. A deteriorating FHR with birth not imminent means stop and go to CS."
+  - "After every ventouse, give oxytocin 10 IU IM, do a PR exam for OASI, make sure she voids within about 6 hours, and give the baby vitamin K 1 mg IM with scalp checks and head circumference at least hourly for the first few hours."
 ---
 
 ## In a nutshell
@@ -252,6 +256,120 @@ The maximum traction before the cup detaches is roughly **pressure × area**. A 
    - Persisting after pop-offs.
    - Forgetting the bladder, the paediatrician (or HBB-trained person), oxytocin for the third stage, and the PR exam after the repair.
 
+## Clinical workup
+
+The ventouse workup is a **bedside decision made in minutes**: is there a real indication, are **all the prerequisites** met, **where** should it be done (delivery room or trial in theatre), and is everything ready if it fails? Then, after the birth, there is a **post-procedure check** of mother and baby.
+
+### Step 0: First 5 minutes
+
+**When you are called to a woman in the second stage with delay or an abnormal FHR:**
+
+1. **Mother**: pulse, BP, temperature, RR, colour, conscious level. **Collapse, shock, a hard tender uterus or heavy bleeding** point to **abruption or uterine rupture**, not a simple delay. That is a **Category 1 CS** or laparotomy, not a ventouse.
+2. **Baby**: listen to the **FHR for a full minute straight after a contraction** (normal **110–160 bpm**; in the second stage check it **every 5 minutes**). A **prolonged bradycardia** needs birth **now**, by whichever route is fastest and safe.
+3. **Call for help at once**: the most experienced operator available, a midwife, and a **person trained in newborn resuscitation (HBB)** with a bag and mask ready.
+4. **Quick fixes while help comes**: turn her onto her **left side**, **stop oxytocin** if the FHR is abnormal or there is **tachysystole** (>5 contractions in 10 minutes), give IV fluids if she is dehydrated, and **empty her bladder**.
+5. **Get the equipment out and checked in parallel** (cup, pump, tubing, gauge), plus lidocaine, a delivery set, oxytocin 10 IU drawn up and the resuscitation corner ready.
+6. **Tell theatre early** if there is any doubt: a failed ventouse becomes a difficult second-stage CS with an impacted head.
+
+### Step 1: Focused history
+
+The full question list is in the Clinical acumen table above. Before applying a cup, check and document:
+
+- [ ] **Time of full dilatation and time active pushing started.** *Why:* delay is **≥3 h (nulliparous) or ≥2 h (parous)** in the WHO 2018 / Labour Care Guide; common Ugandan ward teaching uses **>2 h primigravida and >1 h multipara** (longer with an epidural). Practice varies, so say which definition you are using.
+- [ ] **Parity and previous births** (vaginal births, big babies, previous CS). *Why:* a proven pelvis favours success; a scar means a short second stage.
+- [ ] **Gestational age.** *Why:* **<32 weeks is a contraindication**; 32–36 weeks calls for caution.
+- [ ] **Partograph trend**: rate of dilatation, descent in fifths, **moulding getting worse**. *Why:* a slow first stage plus a slow second stage suggests **CPD or malposition**, so ventouse is likely to fail.
+- [ ] **Contractions and oxytocin.** *Why:* weak contractions ("power") may be the problem that a ventouse (with pushing) solves.
+- [ ] **Liquor colour and FHR pattern.** *Why:* sets the urgency.
+- [ ] **EFW, diabetes, obesity, a previous shoulder dystocia.** *Why:* **shoulder dystocia** risk; consider a trial in theatre.
+- [ ] **HIV status and viral load; hepatitis B.** *Why:* scalp abrasions; neonatal prophylaxis. It must not delay an indicated birth.
+- [ ] **Bleeding disorders in the family; recent scalp procedures.** *Why:* contraindications.
+- [ ] **When she last passed urine.** *Why:* a full bladder obstructs descent and is injured by traction.
+
+### Step 2: Focused examination
+
+Do the examination **in this order** and write each finding down. **Every prerequisite must be met.**
+
+**1. Abdomen (always first):**
+- **Fifths of the head palpable**: **0/5 or 1/5 required**. **2/5 or more = the head is not engaged: no ventouse.**
+- Contractions: frequency and strength (ideally **3–5 in 10 minutes**).
+- Bladder: palpable?
+- Estimated fetal size; FHR after a contraction.
+
+**2. Vaginal examination:**
+
+| Item | What you need | Stop if |
+|---|---|---|
+| **Cervix** | **Fully dilated**, no rim | Any cervix felt around the head |
+| **Membranes** | **Ruptured** (or perform ARM) | |
+| **Station of the bony skull** (not the caput) | **At or below the ischial spines (0 or lower)**; +2 or below = low | Above the spines |
+| **Position** | **Known exactly**: follow the sagittal suture to a fontanelle. **Posterior fontanelle** (small, Y-shaped, 3 sutures) near the pubis = **OA**; **anterior fontanelle** (large, diamond, 4 sutures) near the pubis = **OP**. If caput hides the sutures, feel for an **ear** (the free edge of the pinna points to the occiput) or use **ultrasound** | Position unknown |
+| **Moulding** | +1 (bones touching) or +2 (overlapping but reducible) | **+3 (overlapping, irreducible)**, especially with the head ≥1/5 palpable: **CPD** |
+| **Caput** | Small | Large caput reaching the introitus while the head is still palpable abdominally: **the caput is lying** |
+| **Asynclitism** | Sagittal suture central | Marked asynclitism: higher failure rate |
+| **Pelvis** | Adequate sacral curve, spines not prominent, subpubic angle ≥2 fingers | Contracted pelvis |
+| **Liquor** | Clear | Thick meconium: urgency; resuscitator present |
+
+**3. Put fifths and station together (they must agree):**
+
+| Abdomen | VE (bony skull) | Classification (RCOG) | Where and who |
+|---|---|---|---|
+| 0/5 | Scalp visible without parting the labia | **Outlet** | Delivery room; trained midwife or doctor |
+| 0/5 | **+2 or lower**, not on the pelvic floor | **Low** | Delivery room; trained operator |
+| **1/5** | **0 to +1** | **Mid-cavity** | **Trial in theatre** by an experienced operator, ready for immediate CS |
+| **≥2/5** | Above the spines (or caput low but skull high) | **High** | **No ventouse. CS** |
+
+If the abdomen and the VE disagree (e.g. "station +2" but 2/5 palpable), **trust the abdomen**: a big caput has misled the VE.
+
+### Step 3: Bedside tests
+
+| Test | When | What it tells you |
+|---|---|---|
+| **FHR by Pinard or Doppler** | **Every 5 minutes** (after each contraction) in the second stage; **between pulls** | Urgency; a deteriorating FHR with birth not imminent means stop and go to CS |
+| **Partograph review** | Before deciding | Rate of dilatation and descent, moulding trend, time in the second stage |
+| **In-out catheter** | Before every application | Empties the bladder; note the volume. **Blood-stained urine** suggests obstruction |
+| **Urine dipstick** | If there is time | **Ketones** (dehydration, exhaustion), protein (PE), blood (obstruction) |
+| **HemoCue Hb** | If she looks pale or is known to be anaemic | Readiness for PPH (group and cross-match if low) |
+| **Intrapartum ultrasound** (where available and you are trained) | Position uncertain | Fetal orbits and midline echo show the position more reliably than palpation |
+| **Equipment check** | Before insertion | Occlude the cup on a gloved palm: the gauge must reach working pressure and hold |
+| **Contraction count** | Before and during | Pull only with contractions; weak contractions reduce success |
+
+### Step 4: Laboratory & imaging
+
+Most ventouse decisions are made **without lab results**. Do not delay a clearly indicated ventouse for tests. The table shows what matters before and, especially, after the birth.
+
+| Test | When | Expected / abnormal finding | How it changes management |
+|---|---|---|---|
+| **Maternal Hb** (HemoCue at HC III/IV; FBC at hospital) | Before, if anaemic; after, if PPH | Hb <11 g/dL anaemia; **<7 g/dL severe** | Group and cross-match; low threshold to treat PPH; iron afterwards |
+| **Blood group and cross-match** (HC IV with blood bank; hospitals) | **Trial in theatre**, anaemia, prolonged labour, PPH | | Blood ready for a failed ventouse and CS, or for PPH |
+| **HIV rapid test** (all levels) | Status unknown | Reactive | Infant prophylaxis and EID; ART for the mother. **Do not delay an indicated birth** for the result |
+| **Intrapartum ultrasound** (some hospitals; rarely at HC III/IV) | Position unclear on VE | OA, OT or OP; fetal size | Choice of cup (posterior cup for OP) or CS |
+| **Cord blood gas** (few Ugandan units) | Abnormal FHR before birth, or a depressed baby | pH <7.0 or a large base deficit = significant acidosis | Neonatal care; documentation |
+| **Neonatal Hb / PCV** (HemoCue or lab; hospitals) | **Any enlarging scalp swelling**, pallor or tachycardia after ventouse; repeat serially | **Falling Hb/PCV** | Suspected **subgaleal haemorrhage**: normal saline **10–20 mL/kg**, then **blood transfusion** |
+| **Neonatal clotting (PT, APTT, platelets)** (RRH/national) | Suspected subgaleal haemorrhage | Prolonged times, low platelets (consumption) | FFP, platelets, vitamin K |
+| **Neonatal bilirubin** (hospitals; transcutaneous or serum) | Cephalhaematoma or subgaleal bleed, jaundice | Rising bilirubin from breakdown of the haematoma | Phototherapy |
+| **Cranial ultrasound / CT** (ultrasound at many hospitals; CT at RRH/national or private) | Seizures, apnoea, bulging fontanelle, altered tone | **Intracranial haemorrhage** | Neonatal intensive care; neurosurgical advice |
+| **Bladder volume** (bladder scan or catheter, all levels) | She has not voided within about **6 hours** | Large residual | Indwelling catheter for 24–48 h |
+
+### Step 5: Putting it together
+
+**Model decision summary:** "Mrs A., P0+0 at 39+5 weeks, **fully dilated for 3 h, pushing for 2 h 15 min**, exhausted, FHR 150 with early decelerations. Head **0/5 palpable**, bony station **+2**, **LOA**, caput +, moulding +1, clear liquor, bladder emptied. Impression: **prolonged second stage with maternal exhaustion; low-cavity, OA; all prerequisites met**. Plan: **ventouse in the delivery room** after consent and perineal infiltration, with a newborn resuscitator present, theatre informed as back-up, and oxytocin 10 IU IM for the third stage."
+
+**Worked example 1: "Go now" (fetal indication).** A P2 has been pushing for **1 h 15 min**. The FHR drops to **90 bpm for 3 minutes** and does not recover. On examination the head is **0/5**, the bony skull is **+3** and just visible with the labia parted, **LOA**, moulding +1. *Interpretation:* **suspected fetal compromise** with a **low (nearly outlet) OA head**; every prerequisite is met, and a CS would take far longer. *Action:* call for help and the resuscitator, empty the bladder, infiltrate the perineum, and do a **ventouse now in the delivery room**, expecting delivery in **1–2 pulls**. If there is **no descent with the first correct pull**, stop and move to Category 1 CS.
+
+**Worked example 2: "Trial in theatre or CS" (reading the findings).** A primigravida at 40 weeks has pushed for **2 h 30 min** after a 16-hour first stage augmented with oxytocin. The head is **1/5 palpable**; VE: bony station **0 to +1**, **caput ++**, **moulding +2**, the anterior fontanelle is felt behind the pubis, so the position is **direct OP**. EFW 3.9 kg. *Interpretation:* a **mid-cavity OP** head after a **long labour** (both passenger and possibly passage factors): the failure risk is **high**. *Action:* this is **not** a delivery-room ventouse. It is either a **trial in theatre** by an experienced operator with a **posterior cup** (Kiwi OmniCup or Bird posterior), with consent for CS and the anaesthetist ready, or a **CS** directly. If the head were **2/5 palpable** or moulding **+3**, the answer would be **CS only**.
+
+**Post-procedure checks (write them in the notes):**
+
+| Mother | Baby |
+|---|---|
+| **Oxytocin 10 IU IM** given; uterus firm; **EBL** recorded; fundus and lochia every 15 min for the first hour | Apgars; resuscitation needed? |
+| Cervix, vagina and perineum **inspected**; **PR exam** before and after repair (OASI) | **Scalp** examined: chignon (normal), abrasions, lacerations, swelling |
+| **Voided within about 6 hours**? Volume checked | **Head circumference at birth**, then observations (HR, RR, colour, tone, **scalp swelling**) **at least hourly for the first few hours**, then 2–4-hourly for 12–24 h |
+| Antibiotic prophylaxis given (single dose, per unit protocol) | **Vitamin K 1 mg IM** |
+| Analgesia; **VTE risk assessed** | Mother taught to report pallor, poor feeding or a growing swelling. **1 cm increase in head circumference ≈ 40 mL of blood** |
+| Documentation: pulls, detachments, application time; **debrief** | Enhanced neonatal observations handed over to the ward |
+
 ## Management
 
 ### 1. Immediate maternal aftercare
@@ -380,3 +498,50 @@ The maximum traction before the cup detaches is roughly **pressure × area**. A 
 **Stopping rules "3-2-1-20"**: **3** pulls, **2** pop-offs, **1** pull without descent, **20** minutes (maximum).
 
 **Scalp swellings "Caput Crosses and is there at Birth; CepHalhaematoma Halts at sutures and comes in Hours; SubGaleal Gallops across and is Grave."**
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Head palpable abdominally | **0/5 or 1/5** (≥2/5 = no ventouse) |
+| Bony station | **At or below the spines**; low = **+2 or below**; mid = **0 to +1** |
+| Flexion point | On the sagittal suture **3 cm in front of the posterior fontanelle** (about **6 cm behind the anterior fontanelle**) |
+| Diameter presented by a flexing median application | **Suboccipitobregmatic 9.5 cm** (deflexed: occipitofrontal 11.5 cm) |
+| Initial vacuum (for the finger sweep) | About **0.2 kg/cm²** (about 150 mmHg) |
+| Working pressure | About **0.8 kg/cm²** = **500–600 mmHg** = **60–80 kPa** |
+| Stopping rules ("3-2-1-20") | **3** pulls without imminent birth, **2** detachments (some guidance allows 3), **1** correct pull without descent, **15–20 min** application time (WHO MCPC allows up to 30 min) |
+| Gestation | Ideally **≥34 weeks**; caution 32–36; **never <32 weeks** |
+| Second-stage delay | WHO 2018 / LCG: **≥3 h nulliparous, ≥2 h parous**; common Ugandan/NICE-style teaching: **>2 h primigravida, >1 h multipara** (longer with an epidural) |
+| FHR in the second stage | **Every 5 minutes** (after each contraction); normal **110–160 bpm** |
+| Perineal infiltration | **Lidocaine 1%**, up to about **20 mL** |
+| Pudendal block | Lidocaine 1%, **10 mL each side**; maximum about **3–4.5 mg/kg** without adrenaline |
+| Third stage | **Oxytocin 10 IU IM** |
+| Antibiotic after assisted birth (ANODE) | **Amoxicillin-clavulanate 1.2 g IV single dose** (or unit alternative) |
+| Voiding after birth | Within about **6 hours** |
+| Neonatal vitamin K | **1 mg IM** |
+| Subgaleal haemorrhage | **1 cm rise in head circumference ≈ 40 mL of blood**; normal saline **10–20 mL/kg**, then blood |
+| Chignon | Resolves in **12–24 h** |
+| Episiotomy (if needed) | **Mediolateral, about 60°** from the midline at crowning; not routine |
+
+### Classic exam traps
+
+- **"The caput is at the introitus, so the head is low."** No. **Check the fifths abdominally**; if 2/5 or more is palpable, the skull is high: CS.
+- **"Try the ventouse before referring, just to see."** No. A ventouse is done only when **every prerequisite is met**; otherwise refer or do a CS.
+- **"Twist the cup to rotate an OP head."** No. **Never rotate**; correct placement on the flexion point lets the head **autorotate**.
+- **"Pull steadily between contractions to save time."** No. Pull **only with contractions and maternal pushing**.
+- **"If the ventouse fails, switch to forceps."** Avoid **sequential instruments** (more intracranial haemorrhage); the usual fallback in Uganda is **CS**.
+- **"Put the cup where it sits easily, just inside the introitus."** That is usually over the **anterior fontanelle** (deflexing). Place it on the **flexion point**.
+- **"A cephalhaematoma crosses the suture lines."** No. A **cephalhaematoma stops at the sutures**; **caput and subgaleal haemorrhage cross them**.
+- **"Aspirate a cephalhaematoma."** No. Leave it (infection risk); watch for jaundice.
+
+### Questions seniors ask
+
+1. **What must you check before applying a ventouse?** **Fully dilated**, **membranes ruptured**, head **≤1/5 palpable** with the bony skull **at or below the spines**, **position known**, moulding not +3, bladder empty, consent, analgesia, a trained operator, a newborn resuscitator and **CS back-up**.
+2. **The VE says +2 but you can feel 2/5 of the head abdominally. What do you do?** **Trust the abdomen**: the caput is misleading you. No ventouse; CS (or a senior review).
+3. **How do you tell OA from OP on VE?** Follow the sagittal suture: a **small Y-shaped posterior fontanelle** anteriorly means **OA**; the **large diamond anterior fontanelle** anteriorly means **OP**. If unsure, feel an ear or use ultrasound.
+4. **When would you do a trial in theatre?** **Mid-cavity** (1/5 palpable, station 0 to +1), **OP**, **EFW >4 kg**, BMI >30, or a long labour, where failure is more likely and immediate CS must be possible.
+5. **When do you abandon?** No descent with a correct pull; not imminent after **3 pulls**; **2 detachments**; about **15–20 minutes**; or fetal deterioration with birth not imminent.
+6. **What observations does the baby need after a ventouse, and why?** Scalp and **head circumference** at birth, then **at least hourly** HR, RR, colour, tone and scalp swelling for the first few hours, to catch **subgaleal haemorrhage** early.
+7. **What maternal checks follow a ventouse?** Oxytocin 10 IU IM, EBL, inspection and **PR exam** (OASI), repair, **voiding within 6 hours**, a single antibiotic dose, analgesia, VTE assessment and a **debrief**.

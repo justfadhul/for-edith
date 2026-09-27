@@ -247,7 +247,7 @@ The detailed questions are in the Clinical acumen table above. The items below a
 | **Partograph review** | Has she crossed the action line? Descent and moulding trend? | |
 
 > [!PEARL]
-> **Bedside clotting test (WHO MCPC):** put **2 mL of venous blood** in a small, clean, dry plain **glass** tube and hold it in your closed fist to keep it warm. After **4 minutes** tip it gently, then every minute. If **no clot has formed by 7 minutes**, or a soft clot breaks down easily, she has a **coagulopathy**. Tell the anaesthetist (spinal is contraindicated) and get fresh whole blood or FFP ready.
+> **Bedside clotting test (WHO MCPC):** put **2 mL of venous blood** in a small, clean, dry plain **glass** tube and hold it in your closed fist to keep it warm. After **4 minutes** tip it gently, then every minute. If **no clot has formed by 7 minutes**, or a soft clot breaks down easily, she has a **coagulopathy**. Tell the anaesthetist (spinal is contraindicated) and get fresh whole blood or FFP ready. (Some units use the 20-minute whole-blood clotting test instead: no clot at 20 minutes = coagulopathy.)
 
 ### Step 4: Laboratory & imaging
 
