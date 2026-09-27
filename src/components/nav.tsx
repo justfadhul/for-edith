@@ -6,6 +6,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import clsx from "clsx";
 import {
   BookOpen,
+  Calculator,
   CalendarDays,
   CornerDownLeft,
   Home,
@@ -31,6 +32,7 @@ const STUDY = [
 const REFERENCE = [
   { href: "/schedule", label: "Timetable", icon: CalendarDays },
   { href: "/quick-reference", label: "Quick reference", icon: Zap },
+  { href: "/calculators", label: "EDD calculator", icon: Calculator },
 ];
 const MOBILE = [
   { href: "/", label: "Today", icon: Home },
@@ -173,6 +175,7 @@ const TITLES: Record<string, string> = {
   "/cases": "Cases",
   "/schedule": "Timetable",
   "/quick-reference": "Quick reference",
+  "/calculators": "Calculators",
   "/search": "Search",
   "/account": "Account",
 };
@@ -209,6 +212,9 @@ export function TopBar() {
           </button>
           <Link href="/cases" aria-label="Clinical cases" className="grid h-9 w-9 place-items-center rounded-lg text-ink-2 hover:bg-surface-2 lg:hidden">
             <Stethoscope size={19} />
+          </Link>
+          <Link href="/calculators" aria-label="EDD calculator" className="grid h-9 w-9 place-items-center rounded-lg text-ink-2 hover:bg-surface-2 lg:hidden">
+            <Calculator size={19} />
           </Link>
           <Link href="/quick-reference" aria-label="Quick reference" className="grid h-9 w-9 place-items-center rounded-lg text-ink-2 hover:bg-surface-2 lg:hidden">
             <Zap size={19} />
