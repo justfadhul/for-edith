@@ -252,7 +252,7 @@ This is the order in which a senior works up a woman with raised BP after 20 wee
 |---|---|---|
 | **Urine dipstick** | Protein: trace, 1+, 2+, 3+, 4+ (roughly 0.3, 1, 3 and ≥10–20 g/L for 1+ to 4+; varies by brand). **≥2+ is significant; 1+ needs confirming**. Also look for blood, nitrites/leucocytes (infection or catheter contamination) and ketones | Confirms pre-eclampsia; a **clean-catch midstream** sample avoids false positives from blood, liquor or discharge |
 | **Hb (HemoCue) / packed cell volume** | High Hb (haemoconcentration: leaky capillaries) or a falling Hb (haemolysis, abruption) | Severity; blood cross-match |
-| **Random blood sugar** | <3 mmol/L = hypoglycaemia | Fit differential; **AFLP** (hypoglycaemia + jaundice + coagulopathy) |
+| **Random blood sugar** | <4 mmol/L = hypoglycaemia in pregnancy (some units use <3.0) | Fit differential; **AFLP** (hypoglycaemia + jaundice + coagulopathy) |
 | **mRDT** | Positive → treat malaria (IV artesunate if severe) **as well as** MgSO₄ | Cerebral malaria and eclampsia can coexist |
 | **Bedside clotting test** (WHO) | 2 mL venous blood in a plain dry glass tube, hold in the fist to keep it warm; tip it gently every minute from 4 minutes. **No clot by 7 minutes, or a soft clot that breaks up = coagulopathy** | Low platelets/DIC → FFP, platelets, avoid spinal anaesthesia; decide urgency. Available at every level |
 | **Hourly urine output** (Foley + urometer or measuring jug) | <30 mL/h (<100 mL in 4 h) | Withhold/halve MgSO₄; renal involvement; do **not** respond with big fluid boluses |

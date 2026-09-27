@@ -10,6 +10,10 @@ highYield:
   - Normal FHR is 110–160 bpm. Auscultate with a Pinard or Doppler over the fetal anterior shoulder for a full minute, feeling the maternal pulse at the same time.
   - Never do a digital VE on a woman with antepartum haemorrhage until placenta praevia has been excluded by ultrasound. A gentle speculum exam is allowed.
   - Present as a summary line first ("a 24-year-old G2P1+0 at 34 weeks with..."), then the key positives and negatives, the impression, and the plan.
+  - Before clerking, check ABC, vital signs, shock index and FHR. BP 160/110 mmHg or more, shock index 0.9 or more, FHR outside 110–160, cord prolapse or fits mean act and call for help (SBAR) first, clerk later.
+  - If dating estimates disagree, trust an early scan (before 20–24 weeks) over the LNMP, and the LNMP over fundal height.
+  - A clerking is not complete without the bedside tests. Urine dipstick for every obstetric patient, HemoCue Hb, and a urine hCG for every gynae patient of reproductive age.
+  - SFH more than 3 cm off dates, malpresentation at 36 weeks or later, and a 5/5 head at term in a primigravida all need an ultrasound (placenta first, before any VE).
 ---
 
 ## In a nutshell
@@ -321,6 +325,167 @@ Assess **cervical dilatation (cm), effacement, consistency, position and applica
   - Forgetting to ask the reason for a previous CS, or the **number of living children**.
 - **Escalation rule:** any red flag means **tell the midwife or doctor now**. Do not wait until the end of the teaching session.
 
+## Clinical workup
+
+This is the **full clerking workup**: what you do, in order, when a new patient arrives on the antenatal ward, labour suite or gynae ward, and how you turn it into a presentation. The Procedure section above explains **how** to do each part; this section is the **ward workflow** and the **template** to fill in.
+
+### Step 0: First 5 minutes
+
+Before you take a 30-minute history, decide: **is she stable enough to be clerked, or does she need action first?**
+
+1. **Look at her**: conscious and talking? In pain? Pale? Fitting? Bleeding onto the bed? Pushing?
+2. **ABC and vital signs**: airway, RR, SpO₂, pulse, BP, temperature; **shock index** (HR ÷ SBP).
+3. **Obstetric quick checks**: gestation (roughly, from the card or the fundus), **FHR**, contractions, any **bleeding or liquor** on the pad, cord or fetal part at the introitus.
+4. **Act and call for help (SBAR) at once if:**
+
+| Finding | Immediate action (clerk later) |
+|---|---|
+| **BP 160/110 mmHg or more**, or fits | Left lateral, MgSO₄ loading, antihypertensive (per senior), see the pre-eclampsia topic |
+| **Shock index 0.9 or more**, heavy bleeding | Two large-bore cannulae, bloods for Hb and cross-match, fluids; **no VE** if antepartum bleeding |
+| **FHR below 110 or above 160, or absent** | Left lateral, stop oxytocin, check cord, inform the midwife/doctor |
+| **Cord prolapse / fetal part at the introitus** | Call for help; knee–chest or head-down position, push the presenting part up, fill the bladder, prepare for CS |
+| **Fully dilated and pushing** | Prepare for delivery; clerk after the baby is born |
+| **Temperature 38.0°C or more** | Malaria RDT, cultures if possible, start antibiotics per protocol |
+| **Gynae patient with pain + collapse** | **Urine hCG now**; ruptured ectopic until proven otherwise |
+
+5. **If stable:** introduce yourself, get consent, arrange privacy and a chaperone, and start the full clerking.
+
+### Step 1: Focused history
+
+Use this **clerking template** (write it on the admission sheet in this order). The column on the right is the reason a senior will ask about it.
+
+```
+CLERKING SHEET (obstetric)
+Date/time ........  Clerked by ........  Referred from ........
+1. Biodata: name, AGE, address (distance/transport), occupation,
+   marital status, next of kin, religion (blood products?)
+2. G _ P _ + _   Living children _
+   LNMP ........ (certain? regular? contraception?)  EDD ........
+   Early scan: ..... weeks on ........   GA today: ..... weeks
+3. Presenting complaint(s) + duration (her words)
+4. HPC: SOCRATES + "PV BLOOD" screen (pain, bleeding, baby's
+   movements, liquor, oedema/PET symptoms, other infection,
+   done so far: drugs given before/at referral and TIMES)
+5. Current pregnancy/ANC: booking GA, visits, HIV/syphilis/HBsAg,
+   Hb, group/Rh, IPTp doses, Td, iron, scans, BP trend, admissions
+6. Past obstetric (each pregnancy): year, place, GA, labour, MODE
+   (CS: why? incision?), complications, baby weight/sex/outcome
+7. Gynae: menarche, cycle, contraception, VIA/screening, STI/PID,
+   fistula, surgery (myomectomy)
+8. Medical/surgical: HTN, DM, SCD, RHD, asthma, epilepsy, TB, HIV
+   (ART, VL), transfusions, operations, anaesthetic problems
+9. Drugs & allergies: sulfa, penicillin; herbal medicines
+10. Family: twins, HTN, DM, SCD
+11. Social: support, IPV (alone), alcohol, money, transport
+12. ICE: her ideas, concerns, expectations
+```
+
+**Key "why" checks while you take it:**
+
+- **G/P/+ and living children**: grand multipara (5 or more) → PPH and rupture; a child death or stillbirth → find out why.
+- **Dates**: an early scan (before 20–24 weeks) beats the LNMP; the LNMP beats fundal height. Wrong dates cause wrong decisions on steroids, induction and "FGR".
+- **Previous CS**: number, indication (recurring, e.g. CPD?), incision (classical = no labour), interval (under 18 months = higher rupture risk) → decides VBAC vs repeat CS.
+- **Drugs given before arrival and their times**: a woman referred with "MgSO₄ given" needs the **time** of the loading dose so the next dose is due 4 hours later.
+- **HIV status and last VL**: decides the delivery and infant prophylaxis plan.
+
+**Gynae clerking additions:** LNMP (and **urine hCG for every woman of reproductive age**), menstrual pattern (PALM-COEIN for abnormal bleeding), postcoital or postmenopausal bleeding, contraception, sexual history, last cervical screening, obstetric history in brief.
+
+### Step 2: Focused examination
+
+Examine in the same order every time and **document with numbers**:
+
+| Part | Record (normal example) | Key abnormal findings to look for |
+|---|---|---|
+| **General** | "Alert, not in distress, not pale, not jaundiced, no oedema, well hydrated, no lymphadenopathy, afebrile" | Pallor, facial oedema, dehydration, jaundice, oral thrush |
+| **Vitals** | "BP 118/72, pulse 84 regular, RR 16, T 36.8°C, SpO₂ 98%" | BP 140/90 or more; pulse above 100; RR above 20; SpO₂ below 95% |
+| **Systems** | "Heart sounds normal, soft systolic flow murmur; chest clear; reflexes normal, no clonus; calves soft" | Diastolic murmur; crackles; brisk reflexes with clonus; unilateral calf swelling |
+| **Abdomen: inspection** | "Distended, compatible with term pregnancy, linea nigra, no scars" | Pfannenstiel or midline scar; transverse shape; Bandl's ring; distended bladder |
+| **Abdomen: palpation** | "SFH 36 cm, singleton, longitudinal lie, cephalic, LOA, 3/5 palpable, adequate liquor, uterus soft and non-tender, EFW about 3.2 kg" | SFH more than 3 cm off dates; malpresentation; woody-hard tender uterus; fetal parts under the skin |
+| **Contractions** (labour) | "3 in 10 minutes, each 40 seconds, strong" | More than 5 in 10 minutes (tachysystole); weak or absent in prolonged labour |
+| **Auscultation** | "FHR 140 bpm, regular, no decelerations after a contraction" | Below 110, above 160, decelerations, absent |
+| **Speculum** (if indicated) | "Os closed, no active bleeding, no pooling" | Liquor pooling; bleeding from the os; lesion; products at the os |
+| **VE** (labour, if no contraindication) | "Cervix 5 cm, 80% effaced, soft, well applied; membranes intact; vertex at −1, LOA, no moulding, no caput; pelvis clinically adequate" | Oedematous cervix, moulding +3, cord, meconium, brow, face |
+
+> [!REDFLAG]
+> **Do not do a digital VE** in a woman with antepartum bleeding (placenta praevia not yet excluded) or with PPROM who is **not** in labour. Write "VE deferred: APH, awaiting scan" so the next person does not do it either.
+
+### Step 3: Bedside tests
+
+A clerking is **not complete** until the bedside tests are done and written in:
+
+| Test | Who | Normal / action threshold |
+|---|---|---|
+| **Urine dipstick** | Every obstetric admission | Protein 1+ or more with BP 140/90 or more → pre-eclampsia workup; ketones (dehydration in labour); nitrites/leucocytes (UTI) |
+| **Urine hCG** | **Every gynae patient of reproductive age** | Positive → think ectopic, miscarriage, molar pregnancy |
+| **HemoCue Hb** | All admissions (especially labour, bleeding, pallor) | 11 g/dL or more normal; below 7 g/dL → blood ready |
+| **Malaria RDT** | Fever, anaemia, or per ward protocol | Positive → treat per severity |
+| **RBS** | Diabetes, glycosuria, big baby, unwell or unconscious | Hypoglycaemia or hyperglycaemia → treat and investigate |
+| **HIV/syphilis dual test** | If status unknown or last negative test not in the 3rd trimester | Reactive → same-day ART; syphilis treatment; infant plan |
+| **Doppler / Pinard FHR** | Every pregnant patient over about 20 weeks | 110–160 bpm |
+| **Bedside clotting test** | Bleeding, abruption, IUFD, severe pre-eclampsia | No clot by 7 minutes → coagulopathy |
+| **Partograph** | Active labour (cervix 4 cm or more on the modified WHO partograph) | Plot the first VE on the alert line; see the partograph topic |
+| **Bishop score** | Before induction | 8 or more favourable; 6 or less → ripening |
+
+### Step 4: Laboratory & imaging
+
+Order tests **for a reason written in your plan**, not by reflex. The common admission panels:
+
+| Test | When | Expected / abnormal finding | How it changes management (and Ugandan availability) |
+|---|---|---|---|
+| **FBC** | Anaemia, bleeding, infection, pre-eclampsia, before CS | Hb 11 g/dL or more; platelets 150–400 × 10⁹/L; WCC up to about 15 (higher in labour) | Platelets below 100 → HELLP or DIC; severe anaemia → transfusion. HC IV and hospitals |
+| **Blood group and cross-match** | Any bleeding, previous CS, grand multipara, anaemia, planned CS | Group and Rh; units available | Blood ready before theatre; Rh-negative → anti-D plan. HC IV and hospitals |
+| **Urea, creatinine, electrolytes** | Hypertension, sepsis, vomiting, prolonged labour, oliguria | Creatinine 35–70 µmol/L in pregnancy | Above about 90 µmol/L = renal involvement. Hospitals |
+| **LFTs** | Pre-eclampsia, jaundice, itching, vomiting after 16 weeks | ALT/AST normal (ALP up 2–4× is normal) | Raised ALT/AST → HELLP, AFLP, hepatitis. Hospitals |
+| **Blood slide (malaria)** | Fever, positive RDT, severe illness | Parasites and density | Severe malaria → IV artesunate. HC III and above |
+| **Blood and urine culture** | Fever 38.0°C or more, suspected sepsis or pyelonephritis | Organism and sensitivity | Tailor antibiotics. Regional/national referral |
+| **High vaginal / endocervical swab** | Offensive discharge, PPROM (where the lab can process it), PID | Pathogens | Treat the cause (syndromic treatment where no lab). Hospital labs |
+| **Obstetric ultrasound** | Uncertain dates or presentation, APH (placenta), SFH off dates, absent FHR, twins | Viability, number, presentation, placental site, liquor, growth | Changes the diagnosis and the mode of delivery. Many HC IVs, all hospitals |
+| **Pelvic / transvaginal ultrasound** (gynae) | Pain or bleeding with positive hCG, pelvic mass | IUP, adnexal mass, free fluid, fibroids, ovarian cyst | Ectopic → surgery; fibroids → plan. Hospitals |
+| **Serum β-hCG** | Pregnancy of unknown location, molar pregnancy | Rise of 63% or more in 48 h (viable IUP) | Ectopic management. Regional/national referral, private labs |
+| **Viral load, CD4** | Women living with HIV (per national schedule) | Suppressed vs not (check the current Uganda cut-off) | Adherence support; high-risk infant prophylaxis. Samples sent via the hub system |
+
+### Step 5: Putting it together
+
+**Model one-line summary (the first sentence of every presentation):**
+
+> "Mrs K.B. is a **31-year-old G6P3+2 with 2 living children**, at **33 weeks + 6 days** by a certain LNMP of 2 February 2026 (EDD 9 November 2026), admitted today from Kasangati HC IV with **painless vaginal bleeding for 3 hours**."
+
+**Problem list** (number them, most dangerous first):
+
+1. Antepartum haemorrhage at 33+6 weeks: praevia until proven otherwise (painless bleeding).
+2. Preterm (below 34 weeks): antenatal corticosteroids and neonatal unit.
+3. Poor obstetric history: macerated stillbirth at 30 weeks in 2022 (cause?) and a neonatal death.
+4. Previous ectopic pregnancy (fertility counselling, contraception).
+5. Hb 9.2 g/dL: moderate anaemia.
+
+**Working diagnosis:** "APH at 33+6 weeks, **probable placenta praevia**, mother and fetus currently stable." **Plan:** no VE; two cannulae, Hb and cross-match; ultrasound for placental site; dexamethasone 6 mg IM 12-hourly × 4; admit for observation; plan delivery by CS if praevia is confirmed (timing by a senior).
+
+**Worked example 1: getting the numbers right from a messy history**
+
+Mrs K.B. tells you: "My first child was born normally in 2015 and is fine. In 2017 I lost a pregnancy at 2 months and was cleaned (MVA). In 2019 I had twins at 34 weeks; one died after 3 days. In 2022 the baby died inside me at about 7 months (30 weeks) and came out 'peeling'. In 2023 I had an operation for a pregnancy in the tube. Now I am pregnant again."
+
+| Pregnancy | Counts as | Living child? |
+|---|---|---|
+| 2015 SVD, term | Para (delivery at 28 weeks or more) | Yes |
+| 2017 miscarriage at 8 weeks | "+" (before 28 weeks) | – |
+| 2019 twins at 34 weeks | **Para (twins count once)** | One (one neonatal death) |
+| 2022 stillbirth at 30 weeks (macerated) | **Para** (28 weeks or more, alive or dead) | – |
+| 2023 ectopic | "+" | – |
+| Current | Gravida only | – |
+
+**Result: G6 P3+2, 2 living children.** Macerated (not fresh) stillbirth → think antenatal causes: syphilis, pre-eclampsia, diabetes, malaria, FGR. **Gestation:** LNMP 2 February 2026 to today (27 September 2026) = 237 days = **33 weeks + 6 days**; EDD by Naegele = 2 Feb + 7 days − 3 months + 1 year = **9 November 2026**.
+
+**Worked example 2: turning results into a decision (gynae clerking)**
+
+A 24-year-old P1+0, LNMP 7 weeks ago, has left iliac fossa pain and spotting. Pulse 112, BP 98/60 (**shock index 1.14**). Urine hCG **positive**. Transabdominal scan: **empty uterus, free fluid** in the pouch of Douglas. HemoCue Hb 8.4 g/dL.
+
+- Positive hCG + pain + empty uterus + free fluid = **ruptured ectopic pregnancy** until proven otherwise.
+- Shock index above 0.9 and Hb 8.4 → significant intra-abdominal bleeding.
+- **Decision:** resuscitate (two cannulae, cross-match 2 units, fluids), inform the senior and theatre, **emergency laparotomy (salpingectomy)**. Serum β-hCG is not needed to make this decision.
+
+> [!PEARL]
+> The problem list is where students gain or lose the most marks. Each problem should be a **specific, actionable** statement ("Hb 9.2 g/dL, moderate anaemia"), not a vague label ("anaemia?"). A senior should be able to read your problem list alone and know what to do today.
+
 ## Management
 
 Here "management" covers **what to do with abnormal findings from your history and examination**, how to **manage the patient during the encounter**, and how to **present and hand over**.
@@ -440,3 +605,53 @@ These are complications of **poor technique** or of **omitting** parts of the hi
 - **D**escent/attitude (flexed)
 - **F**undal height / SFH
 - **H**eart rate (FHR)
+
+## High-yield summary
+
+### Numbers & doses to know
+
+| Item | Value |
+|---|---|
+| Viability threshold for parity (Uganda) | **28 weeks** (UK 24 weeks) |
+| Twins | Count as **1** para |
+| Grand multipara | **5 or more** deliveries |
+| Naegele's rule | LNMP **+ 7 days − 3 months + 1 year** (+ 280 days); add (cycle − 28) days for long cycles |
+| Fundal landmarks | **12** weeks symphysis; **16** halfway; **20–22** umbilicus; about **28** halfway to xiphisternum; **36** xiphisternum |
+| SFH | From **24 weeks**: cm ≈ weeks **± 2 cm**; more than 3 cm off → scan |
+| Engagement | **2/5 or less** palpable |
+| FHR | **110–160 bpm**; count **60 seconds** with the maternal pulse |
+| FHR in labour | Every **30 min** (first stage); every **5 min** (second stage) |
+| VE in active labour | Every **4 hours** (more often if indicated) |
+| Height risk marker | Below **150 cm** |
+| Hypertension / severe | **140/90** / **160/110 mmHg** |
+| Shock index (HR ÷ SBP) | **0.9 or more** abnormal; **1.4 or more** critical |
+| Hb (anaemia / severe) | Below **11** / below **7 g/dL** |
+| Twins on auscultation | Two FHRs **10 or more bpm apart** |
+| Bishop score | **8 or more** favourable; **6 or less** needs ripening |
+
+### Classic exam traps
+
+- **"Twins at 36 weeks + a miscarriage + pregnant now = G3P2+1."** → Twins count as **one** delivery: **G3P1+1**.
+- **"A stillbirth at 30 weeks goes in the '+' column."** → In Uganda anything delivered **at 28 weeks or more, alive or dead**, counts in **para**.
+- **"Head 5/5 at term in a primigravida: do a VE to find out why."** → Placenta praevia is on the list, so **scan first**; never a digital VE until praevia is excluded.
+- **"FHR 84 bpm: severe fetal bradycardia!"** → Did you feel the **maternal pulse** while listening? Many "bradycardias" are the mother's heart. Recheck with a Doppler and confirm by ultrasound if needed.
+- **"SFH measured from the umbilicus"** or **"with the tape numbers facing up"** → Measure from the **upper border of the symphysis**, along the uterine axis, **numbers facing down**, bladder empty.
+- **"Cephalic presentation"** (and nothing else) → Always add **fifths palpable**, position and FHR. "Cephalic" alone tells the senior very little.
+- **"Present everything I found, in order."** → Lead with the **summary line**, then the **relevant** positives and **pertinent negatives**. A 10-minute presentation of normal findings loses marks.
+- **"Previous CS noted."** → Also ask **why, how many, what incision and when**. Those four facts decide VBAC vs repeat CS.
+
+### Questions seniors ask
+
+**Give me the summary line.** Age, G/P/+, living children, gestation **and how it was dated**, where she came from, and the main complaint with its duration.
+
+**How did you date this pregnancy, and do you trust it?** State the LNMP (certain or not), any early scan and the fundal height, then say which you trust: an early scan before 20–24 weeks beats the LNMP, and the LNMP beats fundal height.
+
+**What is your problem list?** Numbered, most dangerous first, each problem specific and actionable (e.g. "BP 162/108 with headache: pre-eclampsia with severe features").
+
+**The SFH is 30 cm at 35 weeks. So what?** It is more than 3 cm below dates: think "Dates, Growth, Liquor" and arrange an ultrasound (growth, liquor, Doppler).
+
+**Why didn't you do a VE?** Because she has antepartum bleeding (placenta praevia not excluded), or PPROM without labour (infection risk), or she did not consent. Say so and write it down.
+
+**Where do you listen for the fetal heart, and how do you know it is not the mother's?** Over the fetal **anterior shoulder** (below the umbilicus on the side of the back in a cephalic presentation), for 60 seconds while palpating the **maternal radial pulse**.
+
+**What would complete your examination?** **Urinalysis**, and a speculum or VE if indicated and not contraindicated (plus the bedside tests: HemoCue Hb, and a urine hCG for a gynae patient).
