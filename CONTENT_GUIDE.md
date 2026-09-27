@@ -50,7 +50,7 @@ invent citations; every URL in `references` must be a real page you found.
 title: Postpartum Haemorrhage
 summary: One or two sentences, exam-style, that capture the essence of the topic.
 highYield:
-  - 5–8 one-line must-know facts (these appear on the topic card and in revision mode)
+  - 10–12 one-line must-know facts: numbers, cut-offs, doses, first-line actions (shown as "Must know")
 ---
 
 ## In a nutshell
@@ -73,6 +73,21 @@ expected.
 5. ✔ `## Clinical acumen`: subsections `### Focused history`,
    `### Examination`, `### Red flags`, `### Thinking like a clinician` (patterns,
    pitfalls, "if X then think Y").
+5b. ✔ `## Clinical workup`: the stepwise ward approach to a patient with this condition, in the order
+   you would really do it. Required subsections:
+   - `### Step 0: First 5 minutes`: immediate assessment (ABC, vitals, shock index, danger signs), when to
+     call for help, and what to start at once.
+   - `### Step 1: Focused history`: a checklist; each item says *why* it matters (what answer changes the plan).
+   - `### Step 2: Focused examination`: general, then system and obstetric/pelvic, with the key positive
+     and negative findings to document.
+   - `### Step 3: Bedside tests`: what you can do in minutes on the ward (urine dipstick, Hb/HemoCue, RBS,
+     bedside clotting test, pregnancy test, point-of-care ultrasound, CTG/Doppler, partograph).
+   - `### Step 4: Laboratory & imaging`: a **table**: Test | When | Expected / abnormal finding | How it
+     changes management. Include Ugandan availability (HC IV vs regional/national referral).
+   - `### Step 5: Putting it together`: a model one-line summary, problem list and working diagnosis,
+     plus one or two worked examples of interpreting results (e.g. a partograph, a CTG, an OGTT, LFTs).
+   For skill topics this is the pre-procedure assessment (indications checked, prerequisites, consent,
+   equipment check) and the post-procedure checks.
 6. `## Differential diagnosis`: a **table** with columns such as Condition /
    Distinguishing features / Key investigation.
 7. `## Investigations`: a table: Test / What you are looking for / Why.
@@ -83,6 +98,10 @@ expected.
 10. `## Ward-round & exam pearls`: a model **case presentation / summary line**, likely
     viva questions *with answers*, and OSCE tips.
 11. `## Mnemonics & memory aids`
+12. ✔ `## High-yield summary`: the last-minute revision page. Required subsections:
+    `### Numbers & doses to know` (a table: item / value), `### Classic exam traps` (5–8 bullets:
+    the tempting wrong answer and the right one), `### Questions seniors ask` (5–8 Q&As with short
+    model answers).
 
 For **skill topics** (`kind: "skill"`: partograph, MVA, instruments/sutures,
 vaginal delivery, ventouse, IPC, neonatal resuscitation, history & exam),
@@ -167,7 +186,7 @@ Rules:
 - `id`s must be unique and prefixed with a short topic code.
 - `answer` is the **0-based index** into `options`, and there must be exactly 5 options.
   Spread correct answers across positions.
-- Minimum per topic: **15 flashcards, 12 MCQs, 2 cases (each with ≥4 steps), 5 references.**
+- Minimum per topic: **20 flashcards, 12 MCQs, 2 cases (each with ≥4 steps), 5 references.**
   More is better (target 20 / 15 / 3).
 - MCQs should be clinical-vignette, single-best-answer style, like the UCU written
   test. At least half must test **management decisions** or **clinical reasoning**,

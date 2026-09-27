@@ -36,8 +36,10 @@ export default async function TopicPage(props: PageProps<"/topics/[slug]">) {
 
   const jump = [
     { re: /^management/i, label: "Management" },
+    { re: /clinical workup/i, label: "Clinical workup" },
     { re: /clinical acumen/i, label: "Clinical acumen" },
     { re: /procedure/i, label: "Procedure" },
+    { re: /high-yield summary/i, label: "High-yield" },
     { re: /ward-round|exam pearls/i, label: "Ward-round pearls" },
   ]
     .map((j) => ({ ...j, h: c.headings.find((h) => h.depth === 2 && j.re.test(h.text)) }))

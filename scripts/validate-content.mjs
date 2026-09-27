@@ -16,11 +16,13 @@ const strict = args.includes("--strict");
 const only = args.filter((a) => !a.startsWith("--"));
 const slugs = only.length ? only : allSlugs;
 
-const MIN = { flashcards: 15, mcqs: 12, cases: 2, references: 5, caseSteps: 4 };
+const MIN = { flashcards: 20, mcqs: 12, cases: 2, references: 5, caseSteps: 4 };
 const REQUIRED_HEADINGS = [
   [/nutshell/i, "## In a nutshell"],
   [/clinical acumen/i, "## Clinical acumen"],
   [/management|procedure/i, "## Management"],
+  [/clinical workup/i, "## Clinical workup"],
+  [/high-yield summary/i, "## High-yield summary"],
 ];
 
 let errors = 0;
@@ -51,7 +53,7 @@ for (const slug of slugs) {
     const { data, content } = matter(raw);
     const fm = frontmatterSchema.safeParse(data);
     if (!fm.success) err(slug, `front-matter: ${fm.error.issues.map((i) => `${i.path.join(".")} ${i.message}`).join("; ")}`);
-    else if (fm.data.highYield.length < 5) warn(slug, `highYield has ${fm.data.highYield.length} items (want 5–8)`);
+    else if (fm.data.highYield.length < 10) warn(slug, `highYield has ${fm.data.highYield.length} items (want 10–12)`);
     const h2 = [...content.matchAll(/^## (.+)$/gm)].map((m) => m[1]);
     for (const [re, label] of REQUIRED_HEADINGS)
       if (!h2.some((h) => re.test(h))) err(slug, `notes.md missing a "${label}" section`);
