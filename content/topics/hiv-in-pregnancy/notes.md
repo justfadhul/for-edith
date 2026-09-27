@@ -298,7 +298,7 @@ This topic is about managing a known diagnosis, so the useful differentials are 
    - **Unnecessary vaginal examinations**.
 5. **Mode of delivery**: **vaginal delivery** is appropriate for almost all women; **caesarean section for obstetric indications**. In well-resourced settings, planned CS is offered when VL is high near term; in Uganda this is not routine policy and CS carries its own risks (sepsis, PPH, future uterine rupture). Discuss with the consultant if VL is very high at term.
 6. **Active management of the third stage** as usual (oxytocin 10 IU IM).
-7. **Newborn**: wipe (do not scrub) the baby; clamp the cord after 1–3 minutes as usual; suction only if needed; skin-to-skin; **start breastfeeding within 1 hour**; give **prophylaxis within 6 hours** (as soon as possible, and no later than 72 hours); vitamin K, eye prophylaxis, BCG and OPV-0; HBV birth dose.
+7. **Newborn**: wipe (do not scrub) the baby; clamp the cord after 1–3 minutes as usual; suction only if needed; skin-to-skin; **start breastfeeding within 1 hour**; give **prophylaxis within 6 hours** (as soon as possible; benefit falls after 72 hours, but a late-presenting baby should still be started); vitamin K, eye prophylaxis, BCG and OPV-0; HBV birth dose.
 8. Standard precautions for staff; post-exposure prophylaxis (TLD for 28 days) after a needlestick.
 
 > [!NOTE]

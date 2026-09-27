@@ -107,8 +107,53 @@ export const loadQuickReference = cache(() => {
   };
 });
 
+/** Split notes into plain-text chunks, one per H2/H3 heading, for full-text search. */
+function sectionChunks(body: string, headings: Heading[]) {
+  const lines = body.split("\n");
+  const chunks: { id: string; heading: string; text: string }[] = [];
+  let hi = 0;
+  let current: { id: string; heading: string; lines: string[] } | null = null;
+  let inCode = false;
+  for (const line of lines) {
+    if (line.startsWith("```")) inCode = !inCode;
+    const m = !inCode && line.match(/^(#{2,3}) (.+)$/);
+    if (m && headings[hi]) {
+      if (current) chunks.push({ id: current.id, heading: current.heading, text: current.lines.join(" ") });
+      current = { id: headings[hi].id, heading: headings[hi].text, lines: [] };
+      hi++;
+    } else if (current) current.lines.push(line);
+  }
+  if (current) chunks.push({ id: current.id, heading: current.heading, text: current.lines.join(" ") });
+  return chunks.map((c) => ({
+    ...c,
+    text: c.text
+      .replace(/> \[![A-Z]+\]/g, "")
+      .replace(/[*_`>|#]/g, " ")
+      .replace(/\[([^\]]+)\]\([^)]*\)/g, "$1")
+      .replace(/-{3,}/g, " ")
+      .replace(/\s+/g, " ")
+      .trim(),
+  }));
+}
+
 /** Lightweight search index: titles, summaries, high-yield facts and headings. */
-export const searchIndex = cache(() =>
+export const searchIndex = cache(() => {
+  const qr = loadQuickReference();
+  const qrEntries = qr
+    ? sectionChunks(qr.body, qr.headings).map((sec) => ({
+        slug: "quick-reference",
+        title: "Quick reference",
+        week: 0,
+        kind: "section" as const,
+        heading: sec.heading,
+        text: sec.text,
+        anchor: sec.id,
+      }))
+    : [];
+  return [...qrEntries, ...topicEntries()];
+});
+
+const topicEntries = () =>
   TOPICS.flatMap((t) => {
     const c = loadTopic(t.slug)!;
     return [
@@ -121,8 +166,16 @@ export const searchIndex = cache(() =>
         anchor: "",
       },
       ...c.highYield.map((h) => ({ slug: t.slug, title: t.title, week: t.week, kind: "fact" as const, text: h, anchor: "" })),
-      ...c.headings.map((h) => ({ slug: t.slug, title: t.title, week: t.week, kind: "section" as const, text: h.text, anchor: h.id })),
+      ...sectionChunks(c.body, c.headings).map((sec) => ({
+        slug: t.slug,
+        title: t.title,
+        week: t.week,
+        kind: "section" as const,
+        heading: sec.heading,
+        text: sec.text,
+        anchor: sec.id,
+      })),
       ...c.study.flashcards.map((f) => ({ slug: t.slug, title: t.title, week: t.week, kind: "card" as const, text: `${f.front} — ${f.back}`, anchor: "" })),
     ];
-  }),
-);
+  });
+

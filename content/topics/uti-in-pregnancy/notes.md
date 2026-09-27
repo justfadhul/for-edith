@@ -171,7 +171,7 @@ Gut flora (E. coli) colonise perineum -> urethra -> bladder (ASB / cystitis)
 | **FBC** | Leucocytosis, **anaemia** (haemolysis), thrombocytopenia (sepsis/DIC) | Severity and complications |
 | **Blood cultures** (before antibiotics) | Bacteraemia (15–20% of pyelonephritis) | Guides therapy in sepsis |
 | **Creatinine, urea, electrolytes** | AKI | Drug dosing (gentamicin), severity |
-| **Lactate** (where available) | Above 2 mmol/L = hypoperfusion; above 4 = septic shock criteria | Sepsis severity |
+| **Lactate** (where available) | Above 2 mmol/L = hypoperfusion; 4 or above = severe hypoperfusion (septic shock if vasopressors are needed despite fluids) | Sepsis severity |
 | **mRDT / blood smear** | Malaria | Commonest co-diagnosis |
 | **Blood glucose** | Undiagnosed diabetes | Recurrent UTI risk factor |
 | **HIV test** (if status unknown) | HIV | Risk factor; co-trimoxazole prophylaxis |

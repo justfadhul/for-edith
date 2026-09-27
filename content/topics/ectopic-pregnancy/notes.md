@@ -333,7 +333,7 @@ If hCG is **1,500–5,000 IU/L** and the other criteria are met, offer a **choic
 Offer only when she is:
 - **clinically stable and pain-free**;
 - has a tubal ectopic **under 35 mm with no heartbeat**;
-- has **hCG under 1,500 IU/L** (NICE; some units use under 1,000) and **falling**;
+- has a **low and falling hCG**: NICE NG126 *offers* expectant management at **1,000 IU/L or below** and says *consider* it at 1,000–1,500 IU/L; RCOG GTG 21 uses **under 1,500 IU/L and falling**;
 - **can return**.
 
 Check **hCG on days 2, 4 and 7**. If it falls by **15% or more** each time, check weekly until negative. If it does not fall, or she develops pain, **switch to methotrexate or surgery**. About two-thirds or more resolve.

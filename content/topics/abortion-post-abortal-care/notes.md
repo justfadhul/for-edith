@@ -37,7 +37,7 @@ Other terms you will meet:
 - **Spontaneous abortion (miscarriage)**: no deliberate intervention.
 - **Induced abortion**: deliberately ended, by medication or by a procedure.
 - **Unsafe abortion** (WHO): a procedure to end a pregnancy done by someone without the necessary skills, or in an environment that does not meet minimal medical standards, or both. Examples include sticks, herbs, cassava stems, bicycle spokes, overdoses of chloroquine or other drugs, and "washing" with detergents.
-- **Recurrent miscarriage**: 3 or more consecutive losses (RCOG). ESHRE now uses 2 or more.
+- **Recurrent miscarriage**: classically 3 or more consecutive losses (older RCOG definition, still used in much teaching). ESHRE and the 2023 RCOG update now use 2 or more.
 - **Early pregnancy loss** (ultrasound terms): a **missed miscarriage** is diagnosed when the crown–rump length (CRL) is **7 mm or more with no heartbeat**, or the mean sac diameter is **25 mm or more with no embryo**. Below these cut-offs, **rescan in 7–14 days** rather than acting.
 
 > [!UGANDA]

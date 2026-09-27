@@ -291,7 +291,7 @@ Insulins used in Uganda: **soluble (regular) human insulin** (e.g. Actrapid), **
   - Fasting high: increase the bedtime isophane.
   - Post-breakfast high: increase the morning soluble.
   - Pre-supper high: increase the morning isophane (twice-daily regimen) or lunch soluble.
-- **Hypoglycaemia (below 4.0 mmol/L)**: 15–20 g fast sugar (e.g. 3–4 teaspoons of sugar in water, or 150–200 mL of soda), recheck in 15 minutes, then a snack. If unconscious: **IV 50 mL of 20% dextrose** (or 100 mL of 10% dextrose; 50% dextrose if nothing else, via a large vein), or **glucagon 1 mg IM**.
+- **Hypoglycaemia (below 4.0 mmol/L)**: 15–20 g fast sugar (e.g. 3–4 teaspoons of sugar in water, or 150–200 mL of soda), recheck in 15 minutes, then a snack. If unable to swallow or unconscious: **IV 75–100 mL of 20% dextrose** (or 150–200 mL of 10% dextrose; 50% dextrose 25–50 mL only if nothing else, via a large vein, as it is irritant), or **glucagon 1 mg IM**.
 
 > [!DRUG]
 > **Insulin safety**: write "units" in full, never "U" (misread as zero). Use the correct syringe for the vial strength (U-100 with U-100 syringes). Premixed insulin must be rolled, not shaken. Store unopened insulin in the fridge; in-use vials can be kept cool (clay pot) for 4 weeks.
@@ -389,7 +389,7 @@ Set-up: **50 units soluble insulin in 50 mL 0.9% sodium chloride (1 unit/mL)** b
 
 1. **Skin-to-skin and breastfeed within 30–60 minutes** of birth, then **every 2–3 hours**.
 2. **Check blood glucose at 2–4 hours after birth, before the second feed**, then before feeds for at least 24 hours.
-3. **Treat hypoglycaemia**: many Ugandan neonatal protocols treat glucose **below 2.6 mmol/L** (NICE uses below 2.0 mmol/L on two readings or below 1.4 once). Symptomatic babies (jittery, lethargic, convulsions, poor feeding) need **IV 10% dextrose 2 mL/kg bolus**, then a maintenance infusion, and admission.
+3. **Treat hypoglycaemia**: many Ugandan neonatal protocols treat glucose **below 2.6 mmol/L** (NICE uses below 2.0 mmol/L on two consecutive readings despite feeding support, or any low reading with abnormal clinical signs). Symptomatic babies (jittery, lethargic, convulsions, poor feeding) need **IV 10% dextrose 2 mL/kg bolus**, then a maintenance infusion, and admission.
 4. Look for **respiratory distress, jaundice, polycythaemia, hypocalcaemia, birth trauma (Erb's palsy, fractured clavicle) and congenital anomalies**.
 5. **Do not transfer to the neonatal unit for monitoring alone** if well: keep mother and baby together.
 

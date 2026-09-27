@@ -179,7 +179,7 @@ After the baby is born, the uterus contracts down sharply. The placental site sh
 > - Thick meconium-stained liquor
 > - Cord prolapse or cord presentation
 > - Maternal fever of 38 degrees C or more, maternal pulse above 120, BP 140/90 or more (or diastolic 110 or more), convulsions
-> - Partograph crossing the **action line**, or no progress for 4 hours in active phase (LCG alert thresholds)
+> - Partograph crossing the **action line**, or an LCG cervix alert (time spent at one dilatation reaches the LCG threshold: 6 h at 5 cm, 5 h at 6 cm, 3 h at 7 cm, 2.5 h at 8 cm, 2 h at 9 cm)
 > - Signs of obstruction: head not descending, severe moulding (+++), large caput, oedematous cervix/vulva, haematuria, **Bandl's ring**, maternal exhaustion and dehydration
 > - Signs of rupture: sudden severe pain, contractions stop, fetal parts easily felt, shock, FHR lost
 > - Malpresentation discovered in labour (breech, face, brow, transverse lie, compound)

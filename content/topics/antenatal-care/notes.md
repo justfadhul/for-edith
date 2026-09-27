@@ -199,7 +199,7 @@ ANC is about recognising which pregnancies are deviating from normal. The common
 |---|---|---|---|---|
 | **Iron + folic acid** (ferrous sulphate 200 mg ≈ 60 mg elemental iron + folic acid 400 µg) | 1 tablet | Oral | **Daily** throughout pregnancy (continue about 3 months postpartum) | Take with vitamin C-rich food and **not with tea or milk**. Warn about black stools, nausea and constipation. Space it apart from calcium |
 | **Sulfadoxine–pyrimethamine (IPTp-SP)** | **3 tablets** (sulfadoxine 500 mg / pyrimethamine 25 mg each = 1500/75 mg) | Oral, **DOT** | From **13 weeks** (2nd trimester), at each scheduled contact **at least 4 weeks apart**, until delivery. **Minimum 3 doses** | **Not** in the 1st trimester. **Not** in HIV-positive women on **cotrimoxazole**. Not with sulfa allergy. Can be taken on an empty stomach |
-| **Td (tetanus–diphtheria) vaccine** | 0.5 mL | IM (deltoid) | Td1 at first contact; Td2 **4 weeks** later (at least 2 weeks before EDD); Td3 6 months after Td2; Td4 1 year after Td3; Td5 1 year after Td4 | Count previous documented doses. 5 doses give lifelong protection |
+| **Td (tetanus–diphtheria) vaccine** | 0.5 mL | IM (deltoid) | Td1 at first contact; Td2 **4 weeks** later (at least 2 weeks before EDD); Td3 6 months after Td2; Td4 1 year after Td3; Td5 1 year after Td4 | Count previous documented doses. 5 doses protect through the childbearing years (probably longer) |
 | **Mebendazole** | **500 mg** | Oral | **Single dose** after the 1st trimester | Albendazole 400 mg single dose is an alternative. Avoid in the 1st trimester |
 | **LLIN** (long-lasting insecticidal net) | 1 net | – | At the first contact | Sleep under it every night, and so should the baby |
 | **Calcium** (where dietary calcium is low) | 1.5–2.0 g elemental calcium per day | Oral | In **3 divided doses** at meals, from 20 weeks | WHO recommendation to prevent pre-eclampsia. Separate from iron by several hours. Availability is limited in Uganda |
@@ -252,7 +252,7 @@ ANC is about recognising which pregnancies are deviating from normal. The common
 
 #### Hepatitis B-positive (HBsAg+)
 
-- Assess for **HBV DNA** if available. High risk (HBV DNA **200,000 IU/mL or more**, or HBeAg positive) means **tenofovir disoproxil fumarate 300 mg daily from 28 weeks** (Uganda practice: from 28–32 weeks) until at least delivery, then review.
+- Assess for **HBV DNA** if available. High risk (HBV DNA **200,000 IU/mL or more**, or HBeAg positive) means **tenofovir disoproxil fumarate 300 mg daily from 28 weeks** (Uganda practice: from 28–32 weeks) until at least delivery, then review. Where HBV DNA and HBeAg testing are not available, WHO (2024) now advises tenofovir prophylaxis for **all** HBsAg-positive pregnant women; follow the current Uganda hepatitis B protocol at your facility.
 - The baby gets **hepatitis B birth-dose vaccine within 24 hours** (and HBIG where available), then the routine pentavalent series.
 - An HIV/HBV co-infected woman is already covered by TLD, which contains tenofovir and lamivudine.
 

@@ -302,7 +302,7 @@ Management rests on **five pillars**: (1) control severe hypertension, (2) preve
 | Drug | Dose | Route | Repeat | Maximum and notes |
 |---|---|---|---|---|
 | **Nifedipine immediate-release** | **10 mg** | **Oral (swallow; do not bite or give sublingually)** | Recheck BP after 20–30 min; repeat 10–20 mg if BP still ≥160/110 | Up to about 30–40 mg in the first hour; then continue MR 20 mg 12-hourly. First choice where there is no IV access or pump; most available in Uganda. Headache and tachycardia |
-| **Hydralazine** | **5 mg** (10 mg if very high) | **IV slowly over 2–5 min** | Check BP every 5 min for 20 min; repeat 5–10 mg every 20–30 min | Max **20 mg IV** per episode (WHO alternative: 12.5 mg IM every 2 h). Dilute 20 mg ampoule in 10–20 mL water → 1 mg per 1 mL. Side effects: tachycardia, headache (mimics imminent eclampsia), sudden hypotension → fetal distress |
+| **Hydralazine** | **5 mg** (10 mg if very high) | **IV slowly over 2–5 min** | Check BP every 5 min for 20 min; repeat 5–10 mg every 20–30 min | Max **20 mg IV** per episode (WHO alternative: 12.5 mg IM every 2 h). Dilute the 20 mg ampoule to 20 mL with water for injection or normal saline → 1 mg per 1 mL (so 5 mg = 5 mL). Side effects: tachycardia, headache (mimics imminent eclampsia), sudden hypotension → fetal distress |
 | **Labetalol** | **20 mg** | **IV over 2 min** | Then 40 mg, 80 mg, 80 mg every 10 min if needed | Max **300 mg**; or infusion 20–160 mg/h. Avoid in asthma and heart failure. Rarely available in Ugandan public facilities |
 
 > [!DRUG]

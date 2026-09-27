@@ -104,7 +104,7 @@
     {
       "id": "ect-f21",
       "front": "Expectant management criteria for tubal ectopic",
-      "back": "Stable, **pain-free**, mass **<35 mm no heartbeat**, **hCG <1,500 and falling**, can return; hCG days 2, 4, 7 (≥15% fall each)."
+      "back": "Stable, **pain-free**, mass **<35 mm no heartbeat**, **hCG low and falling** (NICE offers it at ≤1,000 IU/L, consider 1,000–1,500; RCOG <1,500), can return; hCG days 2, 4, 7 (≥15% fall each)."
     }
   ],
   "mcqs": [
@@ -217,7 +217,7 @@
         "Pain-free, 15 mm mass, hCG 3,800, lives 80 km away"
       ],
       "answer": 0,
-      "explanation": "Expectant criteria: **stable, pain-free, mass <35 mm without heartbeat, hCG <1,500 and falling, reliable follow-up** – option A. **B**: mass ≥35 mm and rising hCG. **C**: heartbeat. **D**: haemoperitoneum → surgery. **E**: hCG too high and follow-up unreliable.",
+      "explanation": "Expectant criteria: **stable, pain-free, mass <35 mm without heartbeat, hCG low and falling (NICE ≤1,000 IU/L; consider up to 1,500), reliable follow-up** – option A. **B**: mass ≥35 mm and rising hCG. **C**: heartbeat. **D**: haemoperitoneum → surgery. **E**: hCG too high and follow-up unreliable.",
       "difficulty": "core"
     },
     {

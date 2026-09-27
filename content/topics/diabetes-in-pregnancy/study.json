@@ -372,7 +372,7 @@
         },
         {
           "prompt": "Glucose falls to 3.4 mmol/L during labour. What do you do?",
-          "answer": "Treat hypoglycaemia: if she can drink, 15–20 g fast sugar; if not, **IV 10% dextrose 100 mL** (or 20% dextrose 50 mL); reduce the insulin rate (type 1: do not stop completely for long; e.g. 0.5 unit/hour) and recheck in 15 minutes. Review the sliding scale."
+          "answer": "Treat hypoglycaemia: if she can drink, 15–20 g fast sugar; if not, **IV 10% dextrose 150 mL** (or 20% dextrose 75 mL); reduce the insulin rate (type 1: do not stop completely for long; e.g. 0.5 unit/hour) and recheck in 15 minutes. Review the sliding scale."
         },
         {
           "prompt": "What precautions for delivery?",
@@ -396,7 +396,7 @@
         },
         {
           "prompt": "What are your first 30 minutes of actions?",
-          "answer": "Call for help (obstetrician, physician, anaesthetist). ABCDE, oxygen if SpO₂ below 94%, **left lateral tilt**. Two large cannulae; bloods: glucose, ketones, **K⁺**, creatinine, bicarbonate/blood gas, FBC, **blood culture**, malaria test; urine culture. **0.9% saline 500 mL rapid bolus** (SBP below 100) then 1 L over 1 hour. **Fixed-rate IV insulin 0.1 unit/kg/hour**. **IV ceftriaxone 1–2 g** after cultures. Paracetamol 1 g for fever. Catheter for hourly urine output."
+          "answer": "Call for help (obstetrician, physician, anaesthetist). ABCDE, oxygen if SpO₂ below 94%, **left lateral tilt**. Two large cannulae; bloods: glucose, ketones, **K⁺**, creatinine, bicarbonate/blood gas, FBC, **blood culture**, malaria test; urine culture. **0.9% saline 500 mL rapid bolus** (she is tachycardic and borderline hypotensive; repeat if SBP stays below 90) then 1 L over 1 hour. **Fixed-rate IV insulin 0.1 unit/kg/hour**. **IV ceftriaxone 1–2 g** after cultures. Paracetamol 1 g for fever. Catheter for hourly urine output."
         },
         {
           "prompt": "How do you manage potassium and glucose over the next hours?",

@@ -3,7 +3,7 @@ title: Anatomy of the Genital Tract & Fetal Skull
 summary: Labour is a mechanical problem of a passenger (the fetal skull) negotiating a passage (the bony pelvis and pelvic floor), driven by powers (the uterus). Knowing the pelvic diameters, the fetal skull landmarks and diameters, the supports and blood supply of the uterus, and the course of the ureter lets you diagnose position and CPD on vaginal examination, perform episiotomy, pudendal block and CS safely, and control haemorrhage.
 highYield:
   - The pelvic inlet is widest transversely (about 13 cm) and the outlet is widest anteroposteriorly (about 13 cm), so the head enters transverse and rotates to occipito-anterior. The interspinous diameter (about 10 cm) is the narrowest and is the reference for station (0).
-  - True (obstetric) conjugate is about 11 cm = diagonal conjugate (about 12.5 cm) minus 1.5 cm. If you can reach the sacral promontory on VE, the inlet is contracted.
+  - Obstetric conjugate (about 10.5–11 cm) ≈ diagonal conjugate (about 12.5 cm) minus 1.5 cm. If you can reach the sacral promontory on VE, the inlet is contracted.
   - A well-flexed vertex presents the suboccipitobregmatic diameter (9.5 cm). Deflexed or OP gives occipitofrontal (11.5 cm), brow gives mentovertical (13–13.5 cm, cannot deliver vaginally) and face gives submentobregmatic (9.5 cm).
   - Anterior fontanelle (bregma) is diamond-shaped with 4 sutures and closes at about 18 months. Posterior fontanelle (lambda) is Y-shaped with 3 sutures and closes at about 6–8 weeks. On VE, the posterior fontanelle near the symphysis means OA.
   - The uterine artery (from the anterior division of the internal iliac) crosses ABOVE the ureter about 1.5–2 cm lateral to the cervix ('water under the bridge'), which is the commonest site of ureteric injury at hysterectomy and CS.
@@ -365,7 +365,7 @@ This lecture underpins management in labour and surgery. The practical applicati
 ### 2. Pudendal block (for outlet instrumental delivery or perineal repair)
 
 1. Explain, obtain consent, position in lithotomy.
-2. **Lidocaine 1%, up to 10 mL each side** (maximum lidocaine without adrenaline **3 mg/kg**, about 200 mg in total).
+2. **Lidocaine 1%, up to 10 mL each side** (maximum lidocaine without adrenaline **3 mg/kg**, about 200 mg in total, so 20 mL of 1% is already at the limit; if you also need perineal infiltration, dilute to **0.5%** as in the WHO MCPC manual so the total stays within the maximum).
 3. Palpate the **ischial spine** vaginally with the index and middle fingers. Guide a long needle (with a guard, e.g. an Iowa trumpet) to **just below and medial to the tip of the spine**, through the **sacrospinous ligament**.
 4. **Aspirate** (the internal pudendal artery and vein lie next to the nerve), then inject about 10 mL.
 5. Repeat on the other side. Wait 3–5 minutes and test sensation.

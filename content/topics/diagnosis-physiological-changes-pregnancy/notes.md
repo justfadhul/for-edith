@@ -265,7 +265,7 @@ This topic is about normal physiology, so "management" means **(1) confirming an
 | **Leg cramps** | Uncertain | Stretching, hydration |
 | **Urinary frequency** | Uterine pressure, increased GFR | Reassure, but **dipstick** to exclude UTI |
 | **Physiological breathlessness** | Progesterone-driven hyperventilation | Reassure only after a normal RR, SpO₂, chest and heart exam |
-| **Vaginal discharge** | Oestrogen-driven leucorrhoea | Reassure if white, non-itchy, non-offensive. Treat candidiasis with **clotrimazole 500 mg pessary single dose** (or 100 mg nightly × 6). Avoid oral fluconazole in pregnancy |
+| **Vaginal discharge** | Oestrogen-driven leucorrhoea | Reassure if white, non-itchy, non-offensive. Treat candidiasis with **clotrimazole 500 mg pessary single dose** (or 100 mg nightly for 7 nights; longer courses work better in pregnancy). Avoid oral fluconazole in pregnancy |
 | **Syncope / dizziness** | Low SVR, aortocaval compression | Avoid lying supine and standing up quickly; **lie on the left side** |
 
 > [!DRUG]
@@ -283,7 +283,7 @@ This topic is about normal physiology, so "management" means **(1) confirming an
 7. **Perimortem CS:** in maternal cardiac arrest with a uterus at or above the umbilicus, start CPR with left uterine displacement. If there is no return of circulation, **deliver by 4–5 minutes** to improve maternal resuscitation.
 
 > [!UGANDA]
-> In many Ugandan HC IVs, **ABG, fibrinogen and D-dimer are unavailable**. Rely on the bedside: HR, RR, SpO₂, shock index, urine output, capillary refill, conjunctival pallor, and the **20-minute whole-blood clotting test** (a clot not formed by 20 minutes suggests fibrinogen below about 1 g/L or DIC). **D-dimer rises normally in pregnancy**, so a positive result is unhelpful.
+> In many Ugandan HC IVs, **ABG, fibrinogen and D-dimer are unavailable**. Rely on the bedside: HR, RR, SpO₂, shock index, urine output, capillary refill, conjunctival pallor, and the **bedside clotting test** (WHO: 2 mL of venous blood in a small plain glass tube, tilted every minute; **no clot by 7 minutes**, or a soft clot that breaks up easily, suggests coagulopathy/DIC; some units use the 20-minute whole-blood clotting test instead). **D-dimer rises normally in pregnancy**, so a positive result is unhelpful.
 
 ## Complications
 

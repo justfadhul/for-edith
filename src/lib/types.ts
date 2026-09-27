@@ -67,6 +67,7 @@ export type SearchEntry = {
   title: string;
   week: number;
   kind: "topic" | "fact" | "section" | "card";
+  heading?: string;
   text: string;
   anchor: string;
 };
