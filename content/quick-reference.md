@@ -107,9 +107,9 @@ summary: A high-yield cheat-sheet for the Ugandan labour ward and obstetric ward
 
 | Indication | Regimen | Duration |
 |---|---|---|
-| **Puerperal sepsis / maternal sepsis / septic abortion** | **Ampicillin 2 g IV 6-hourly + gentamicin 5 mg/kg IV once daily + metronidazole 500 mg IV 8-hourly** (alternative: ceftriaxone 2 g IV daily + metronidazole 500 mg IV 8-hourly) | Until afebrile 48 h, then oral (e.g. amoxicillin + metronidazole) to complete 7–14 days. Evacuate retained products; drain pus |
+| **Puerperal sepsis / maternal sepsis / septic abortion** | **Ampicillin 2 g IV 6-hourly + gentamicin 5 mg/kg IV once daily + metronidazole 500 mg IV 8-hourly** (alternative: ceftriaxone 2 g IV daily + metronidazole 500 mg IV 8-hourly) | IV until afebrile for 48 h (WHO MCPC), then oral (e.g. amoxicillin + metronidazole) to complete about 7 days in total; longer if an abscess or complicated infection, per local protocol. Evacuate retained products; drain pus |
 | **PPROM** | **Erythromycin 250 mg orally 6-hourly** | **10 days** or until labour. **Avoid co-amoxiclav** (NEC) |
-| **Intrapartum GBS prophylaxis** (preterm labour, ROM >18 h, fever, previous GBS baby) | **Benzylpenicillin 3 g (5 MU) IV**, then **1.5 g (2.5–3 MU) 4-hourly**; or **ampicillin 2 g IV then 1 g 4-hourly**; allergy: **clindamycin 900 mg IV 8-hourly** | Until delivery |
+| **Intrapartum GBS prophylaxis** (preterm labour, ROM >18 h, fever, previous GBS baby) | **Benzylpenicillin 3 g (5 MU) IV**, then **1.5–1.8 g (2.5–3 MU) 4-hourly**; or **ampicillin 2 g IV then 1 g 4-hourly**; allergy: **clindamycin 900 mg IV 8-hourly** | Until delivery |
 | **Chorioamnionitis** | **Ampicillin 2 g IV 6-hourly + gentamicin 5 mg/kg IV daily** (+ metronidazole 500 mg IV 8-hourly if CS) | **Deliver**. Stop after vaginal birth if well; after CS continue until 48 h afebrile |
 | **Caesarean section prophylaxis** | **Cefazolin 2 g IV** (3 g if >120 kg) or **ampicillin 2 g IV**, single dose **15–60 min before skin incision** (Uganda often uses ceftriaxone 1–2 g IV) | Single dose (repeat if >4 h surgery or blood loss >1.5 L) |
 | **Pyelonephritis in pregnancy** | Admit; **ceftriaxone 1–2 g IV daily** (or ampicillin + gentamicin) | Until afebrile 24–48 h, then oral to complete **10–14 days**; urine culture; repeat culture after treatment |
@@ -149,7 +149,7 @@ summary: A high-yield cheat-sheet for the Ugandan labour ward and obstetric ward
 | **Td2** | **At least 4 weeks after Td1** | ~1–3 years |
 | **Td3** | **At least 6 months after Td2** | ~5 years |
 | **Td4** | **At least 1 year after Td3** | ~10 years |
-| **Td5** | **At least 1 year after Td4** | Lifelong (all childbearing years) |
+| **Td5** | **At least 1 year after Td4** | Through the childbearing years (probably longer) |
 
 Give Td2 at least 2 weeks before delivery for newborn protection against neonatal tetanus.
 
@@ -225,7 +225,7 @@ Total 3–15. **≤8 = protect the airway** (intubate/recovery position, call an
 | **Haemoglobin** | **≥11 g/dL** (≥10.5 in 2nd trimester) | Anaemia <11; moderate 7–9.9; **severe <7** (WHO) |
 | White cell count | 6–16 × 10⁹/L (up to ~25–30 in labour/early puerperium) | Steroids raise WBC for 72 h |
 | **Platelets** | 150–400 × 10⁹/L (gestational thrombocytopenia usually >100) | <100 = think HELLP/ITP/DIC |
-| **Creatinine** | **35–70 µmol/L** (0.4–0.8 mg/dL) | >90 µmol/L is abnormal in pregnancy |
+| **Creatinine** | **35–70 µmol/L** (0.4–0.8 mg/dL) | >~77–80 µmol/L is suspicious in pregnancy; >90 µmol/L is clearly abnormal |
 | Urea | 2–4.5 mmol/L | Falls because GFR rises ~50% |
 | Uric acid | Falls in early pregnancy, rises near term | High in pre-eclampsia |
 | ALT / AST | Unchanged or slightly lower (<~35 IU/L) | Raised = abnormal (HELLP, AFLP, hepatitis) |
@@ -276,7 +276,7 @@ Shoulders:   Bisacromial 12 cm (reduces to ~9.5 cm with compression)
 | **Hypertension in pregnancy** | ≥140/90 on two occasions; **severe ≥160/110** |
 | **Anaemia in pregnancy** | Hb <11 g/dL; severe <7 g/dL |
 | **Fever** | ≥38.0°C |
-| **Prolonged labour** | Active phase >12 h (Uganda) or crossing the action line; prolonged second stage >2 h (primigravida, >3 h with epidural) or >1 h (multipara, >2 h with epidural) |
+| **Prolonged labour** | Active phase >12 h (Uganda) or crossing the action line; prolonged second stage: **WHO 2018 / Labour Care Guide ≥3 h nulliparous, ≥2 h parous**; older/ACOG-style teaching uses >2 h primigravida (>3 h with epidural) and >1 h multipara (>2 h with epidural) |
 | **Puerperium** | 6 weeks after delivery |
 | **Maternal death** | Death during pregnancy or **within 42 days** of its end, from any cause related to or aggravated by pregnancy (not accidental). Late maternal death: 42 days to 1 year |
 | **Perinatal death** | Stillbirth + early neonatal death (first 7 days) |

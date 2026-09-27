@@ -229,7 +229,7 @@ ANC is about recognising which pregnancies are deviating from normal. The common
 
 1. Repeat after 15 minutes of rest, with the correct cuff.
 2. **140/90 mmHg or more after 20 weeks:** dipstick for protein, and ask about headache, visual symptoms and epigastric pain.
-3. **Gestational hypertension without proteinuria and without symptoms:** refer to the hospital clinic. Start oral **methyldopa 250 mg 8-hourly** (up to 500 mg–1 g 8-hourly) or **nifedipine retard 20 mg 12-hourly** if BP is persistently 150/100 mmHg or more (thresholds vary by protocol). Review weekly with BP and urine.
+3. **Gestational hypertension without proteinuria and without symptoms:** refer to the hospital clinic. Start oral **methyldopa 250 mg 8-hourly** (up to 500 mg–1 g 8-hourly) or **nifedipine retard 20 mg 12-hourly** if BP is persistently 140/90 mmHg or more (NICE/CHAP threshold, as in the pre-eclampsia topic; some older protocols wait until 150/100). Review weekly with BP and urine.
 4. **Pre-eclampsia** (hypertension + proteinuria or organ dysfunction): **admit to hospital**.
 5. **Severe features** (BP 160/110 mmHg or more, or symptoms): **MgSO₄ loading dose** and antihypertensive, then **refer urgently** (see the pre-eclampsia topic).
 
