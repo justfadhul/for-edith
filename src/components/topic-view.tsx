@@ -81,7 +81,7 @@ export function TopicDetails({
           {s.movedFrom && <span className="ml-1.5 rounded-md bg-peach-soft px-1.5 py-px text-[11.5px] font-medium text-peach-text">Moved</span>}
         </span>,
       ]),
-    [faculty.length > 1 ? "Faculty" : "Facilitator", faculty.join(", ")],
+    ...(faculty.length ? [[faculty.length > 1 ? "Faculty" : "Facilitator", faculty.join(", ")] as [string, React.ReactNode]] : []),
     ["Week", weekLabel],
   ];
   const bars = [

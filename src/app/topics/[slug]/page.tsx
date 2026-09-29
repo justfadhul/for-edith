@@ -1,14 +1,14 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ChevronLeft, ChevronRight, Sparkles, BookOpen, GraduationCap, Wrench } from "lucide-react";
-import { TOPICS, SESSIONS, WEEK_THEMES } from "@/content/curriculum";
+import { ChevronLeft, ChevronRight, Sparkles, BookOpen, GraduationCap, Wrench, Pill } from "lucide-react";
+import { TOPICS, SESSIONS, WEEK_THEMES, REFERENCE_WEEK } from "@/content/curriculum";
 import { loadTopic } from "@/lib/content";
 import { Markdown } from "@/components/markdown";
 import { KindChip } from "@/components/ui";
 import { TopicHeaderActions, TopicDetails, TopicTabs, TableOfContents } from "@/components/topic-view";
 
-const KIND_ICON = { lecture: GraduationCap, tutorial: BookOpen, skill: Wrench } as const;
+const KIND_ICON = { lecture: GraduationCap, tutorial: BookOpen, skill: Wrench, reference: Pill } as const;
 
 export const dynamicParams = false;
 
@@ -57,8 +57,8 @@ export default async function TopicPage(props: PageProps<"/topics/[slug]">) {
           <div className="flex min-w-0 flex-1 flex-col gap-2">
             <div className="flex flex-wrap items-center gap-1.5">
               <KindChip kind={topic.kind} />
-              {topic.discipline !== "skills" && <span className="chip capitalize">{topic.discipline}</span>}
-              <span className="chip">Week {topic.week}</span>
+              {topic.discipline !== "skills" && topic.week !== REFERENCE_WEEK && <span className="chip capitalize">{topic.discipline}</span>}
+              {topic.week !== REFERENCE_WEEK && <span className="chip">Week {topic.week}</span>}
               {c.wordCount > 0 && <span className="chip">{Math.max(1, Math.round(c.wordCount / 200))} min read</span>}
               <div className="ml-auto hidden sm:block">
                 <TopicHeaderActions slug={slug} title={topic.title} />
@@ -66,9 +66,7 @@ export default async function TopicPage(props: PageProps<"/topics/[slug]">) {
             </div>
             <h1 className="h-display !text-[clamp(2.1rem,1.6rem+1.8vw,2.9rem)] !leading-[1.03]">{topic.title}</h1>
             <p className="max-w-3xl text-[15px] leading-relaxed text-ink-2">{c.summary}</p>
-            <p className="text-[13px] text-ink-3 xl:hidden">
-              {topic.faculty.join(" · ")}
-            </p>
+            {topic.faculty.length > 0 && <p className="text-[13px] text-ink-3 xl:hidden">{topic.faculty.join(" · ")}</p>}
             <div className="sm:hidden">
               <TopicHeaderActions slug={slug} title={topic.title} />
             </div>
@@ -134,7 +132,7 @@ export default async function TopicPage(props: PageProps<"/topics/[slug]">) {
               counts={{ flashcards: cards.length, mcqs: questions.length, cases: study.cases.length }}
               sessions={sessions}
               faculty={topic.faculty}
-              weekLabel={`${topic.week} · ${WEEK_THEMES[topic.week]}`}
+              weekLabel={topic.week === REFERENCE_WEEK ? "Reference · not timetabled" : `${topic.week} · ${WEEK_THEMES[topic.week]}`}
             />
             <div className="border-t border-line pt-4">
               <div className="mb-2 text-[12px] font-medium text-ink-3">On this page</div>

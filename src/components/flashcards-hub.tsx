@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import clsx from "clsx";
-import { WEEKS } from "@/content/curriculum";
+import { WEEK_GROUPS, REFERENCE_WEEK } from "@/content/curriculum";
 import { FlashcardDeck, type DeckCard } from "@/components/flashcard-deck";
 import { useStudy } from "@/lib/store/study-store";
 import { useNow } from "@/lib/use-now";
@@ -36,7 +36,7 @@ export function FlashcardsHub() {
   return (
     <div className="mx-auto max-w-2xl">
       <div className="no-scrollbar mb-5 flex gap-2 overflow-x-auto">
-        {(["all", ...WEEKS] as const).map((w) => (
+        {(["all", ...WEEK_GROUPS] as const).map((w) => (
           <button
             key={w}
             onClick={() => setWeek(w)}
@@ -45,7 +45,7 @@ export function FlashcardsHub() {
               week === w ? "border-brand-line bg-brand-soft text-brand" : "border-line bg-surface text-ink-2",
             )}
           >
-            {w === "all" ? "All weeks" : `Week ${w}`}
+            {w === "all" ? "All weeks" : w === REFERENCE_WEEK ? "Drugs" : `Week ${w}`}
             <span className="ml-1.5 opacity-70">{dueFor(w)}</span>
           </button>
         ))}

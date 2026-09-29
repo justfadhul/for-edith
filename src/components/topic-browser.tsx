@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useMemo, useState } from "react";
 import clsx from "clsx";
 import { Bookmark, Clock, Layers, ListChecks, Stethoscope } from "lucide-react";
-import { WEEK_THEMES, WEEKS, type TopicKind } from "@/content/curriculum";
+import { WEEK_THEMES, WEEK_GROUPS, weekLabel, type TopicKind } from "@/content/curriculum";
 import type { TopicSummary } from "@/lib/types";
 import { useStudy, type TopicStatus } from "@/lib/store/study-store";
 import { KindChip, StatusDot } from "@/components/ui";
@@ -34,9 +34,9 @@ export function TopicBrowser({ topics }: { topics: TopicSummary[] }) {
       <div className="sticky top-14 z-20 -mx-4 space-y-2 border-b border-line bg-bg/95 px-4 py-3 backdrop-blur sm:mx-0 sm:rounded-xl sm:border sm:px-3">
         <input className="input" placeholder="Filter topics…" value={q} onChange={(e) => setQ(e.target.value)} />
         <div className="no-scrollbar flex gap-2 overflow-x-auto">
-          {(["all", "lecture", "tutorial", "skill"] as const).map((k) => (
+          {(["all", "lecture", "tutorial", "skill", "reference"] as const).map((k) => (
             <Pill key={k} active={kind === k} onClick={() => setKind(k)}>
-              {k === "all" ? "All types" : k === "skill" ? "Skills" : k[0].toUpperCase() + k.slice(1) + "s"}
+              {k === "all" ? "All types" : k === "skill" ? "Skills" : k === "reference" ? "Drug handbook" : k[0].toUpperCase() + k.slice(1) + "s"}
             </Pill>
           ))}
           <span className="mx-1 w-px shrink-0 bg-line" />
@@ -56,13 +56,13 @@ export function TopicBrowser({ topics }: { topics: TopicSummary[] }) {
         </div>
       </div>
 
-      {WEEKS.map((w) => {
+      {WEEK_GROUPS.map((w) => {
         const wt = filtered.filter((t) => t.week === w);
         if (!wt.length) return null;
         return (
           <section key={w} id={`week-${w}`} className="mt-8 scroll-mt-32">
             <h2 className="mb-3 h-section">
-              <span className="text-brand">Week {w}</span> · {WEEK_THEMES[w]}
+              <span className="text-brand">{weekLabel(w)}</span> · {WEEK_THEMES[w]}
             </h2>
             <div className="grid gap-3 md:grid-cols-2">
               {wt.map((t) => (

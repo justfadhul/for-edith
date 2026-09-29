@@ -166,7 +166,7 @@ function toc(body) {
 
 function topicHtml(topic, notes, study) {
   const { data, content } = matter(notes);
-  const kindLabel = { lecture: "Lecture", tutorial: "Tutorial", skill: "Clinical skill" }[topic.kind];
+  const kindLabel = { lecture: "Lecture", tutorial: "Tutorial", skill: "Clinical skill", reference: "Drug handbook" }[topic.kind];
   const selfTest = [];
   if (study.flashcards.length)
     selfTest.push(
@@ -216,8 +216,8 @@ function topicHtml(topic, notes, study) {
       <h1>${esc(topic.title)}</h1>
       <div class="meta">
         <span class="chip brand">${kindLabel}</span>
-        <span class="chip">Week ${topic.week} · ${esc(WEEK_THEMES[topic.week] ?? "")}</span>
-        ${topic.discipline !== "skills" ? `<span class="chip" style="text-transform:capitalize">${esc(topic.discipline)}</span>` : ""}
+        ${topic.week ? `<span class="chip">Week ${topic.week} · ${esc(WEEK_THEMES[topic.week] ?? "")}</span>` : ""}
+        ${topic.week && topic.discipline !== "skills" ? `<span class="chip" style="text-transform:capitalize">${esc(topic.discipline)}</span>` : ""}
         ${topic.faculty?.length ? `<span class="chip">${esc(topic.faculty.join(", "))}</span>` : ""}
       </div>
       ${data.summary ? `<p class="summary">${mdInline(data.summary)}</p>` : ""}

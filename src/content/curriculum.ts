@@ -1,7 +1,7 @@
 // Curriculum for the UCU Junior Clerkship Obstetrics & Gynaecology rotation
 // (Trinity Semester, Year 3 Semester 2). Source: "Final Schedule Y3 Semester 2".
 
-export type TopicKind = "lecture" | "tutorial" | "skill";
+export type TopicKind = "lecture" | "tutorial" | "skill" | "reference";
 export type Discipline = "obstetrics" | "gynaecology" | "skills" | "foundations";
 
 export interface Topic {
@@ -330,13 +330,30 @@ export const TOPICS: Topic[] = [
   },
 ];
 
+// ── Reference (not a timetabled session) ─────────────────
+TOPICS.push({
+  slug: "obs-gyn-pharmacology",
+  title: "Obs & Gyn Pharmacology",
+  week: 0,
+  kind: "reference",
+  discipline: "foundations",
+  faculty: [],
+  blurb: "The drugs you will prescribe on the ward: MgSO₄ and its toxicity, antihypertensives, uterotonics, tocolytics, antibiotics, antimalarials, contraception, analgesia and drug safety in pregnancy.",
+});
+
 export const TOPIC_BY_SLUG: Record<string, Topic> = Object.fromEntries(
   TOPICS.map((t) => [t.slug, t]),
 );
 
 export const WEEKS = [1, 2, 3, 4, 5, 6] as const;
+/** "Week" number for reference topics (e.g. pharmacology) that belong to no week. */
+export const REFERENCE_WEEK = 0;
+/** Week groups for lists: the six weeks, then reference material. */
+export const WEEK_GROUPS = [...WEEKS, REFERENCE_WEEK] as const;
+export const weekLabel = (w: number) => (w === REFERENCE_WEEK ? "Reference" : `Week ${w}`);
 
 export const WEEK_THEMES: Record<number, string> = {
+  0: "Drug handbook",
   1: "Foundations, ANC & early pregnancy",
   2: "Labour, delivery & the puerperium",
   3: "Medical disorders & PPH",

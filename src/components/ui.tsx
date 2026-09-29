@@ -46,6 +46,7 @@ const KIND: Record<TopicKind, { label: string; cls: string }> = {
   lecture: { label: "Lecture", cls: "!bg-lilac-soft !text-lilac !border-transparent" },
   tutorial: { label: "Tutorial", cls: "!bg-brand-soft !text-brand !border-transparent" },
   skill: { label: "Skills", cls: "!bg-peach-soft !text-peach !border-transparent" },
+  reference: { label: "Drug handbook", cls: "!bg-accent-soft !text-accent !border-transparent" },
 };
 
 export function KindChip({ kind }: { kind: TopicKind }) {

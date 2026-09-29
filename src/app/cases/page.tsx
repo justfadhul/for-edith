@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { TOPICS, WEEKS, WEEK_THEMES } from "@/content/curriculum";
+import { TOPICS, WEEK_GROUPS, WEEK_THEMES } from "@/content/curriculum";
 import { loadStudy } from "@/lib/content";
 import { PageHeader } from "@/components/ui";
 import { CaseList } from "@/components/case-list";
@@ -7,7 +7,7 @@ import { CaseList } from "@/components/case-list";
 export const metadata: Metadata = { title: "Clinical cases" };
 
 export default function CasesPage() {
-  const groups = WEEKS.map((w) => ({
+  const groups = WEEK_GROUPS.map((w) => ({
     week: w,
     theme: WEEK_THEMES[w],
     cases: TOPICS.filter((t) => t.week === w).flatMap((t) =>

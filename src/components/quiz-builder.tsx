@@ -4,7 +4,7 @@ import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import clsx from "clsx";
 import { Play, Timer, Zap, TrendingDown } from "lucide-react";
-import { WEEKS } from "@/content/curriculum";
+import { WEEK_GROUPS, weekLabel } from "@/content/curriculum";
 import type { StudyData } from "@/lib/types";
 import { useStudy } from "@/lib/store/study-store";
 import { formatDay, rotationInfo } from "@/lib/dates";
@@ -145,13 +145,13 @@ export function QuizBuilder({ topics }: { topics: TopicLite[] }) {
               <button className="chip hover:bg-line" onClick={() => setSelected(new Set())}>Clear</button>
             </div>
             <div className="space-y-3">
-              {WEEKS.map((w) => {
+              {WEEK_GROUPS.map((w) => {
                 const wt = topics.filter((t) => t.week === w);
                 const all = wt.every((t) => selected.has(t.slug));
                 return (
                   <div key={w}>
                     <button onClick={() => toggleWeek(w)} className={clsx("mb-1.5 text-sm font-semibold", all ? "text-brand" : "text-ink-2")}>
-                      {all ? "☑" : "☐"} Week {w}
+                      {all ? "☑" : "☐"} {weekLabel(w)}
                     </button>
                     <div className="flex flex-wrap gap-1.5">
                       {wt.map((t) => (

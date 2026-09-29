@@ -17,8 +17,9 @@ import {
   Timer,
   UserRound,
   Zap,
+  Pill,
 } from "lucide-react";
-import { TOPICS, WEEKS, WEEK_THEMES } from "@/content/curriculum";
+import { TOPICS, WEEKS, WEEK_THEMES, weekLabel } from "@/content/curriculum";
 import { useStudy } from "@/lib/store/study-store";
 import { useNow } from "@/lib/use-now";
 
@@ -32,6 +33,7 @@ const STUDY = [
 const REFERENCE = [
   { href: "/schedule", label: "Timetable", icon: CalendarDays },
   { href: "/quick-reference", label: "Quick reference", icon: Zap },
+  { href: "/topics/obs-gyn-pharmacology", label: "Drug handbook", icon: Pill },
   { href: "/calculators", label: "EDD calculator", icon: Calculator },
 ];
 const MOBILE = [
@@ -268,7 +270,7 @@ const COMMANDS: Command[] = [
   { id: "mock", label: "Start a mock progressive test", hint: "Action", href: "/quiz?mode=exam", icon: Timer },
   { id: "search", label: "Full-text search of all notes", hint: "Action", href: "/search", icon: Search },
   { id: "account", label: "Account & settings", hint: "Go to", href: "/account", icon: UserRound },
-  ...TOPICS.map((t) => ({ id: t.slug, label: t.title, hint: `Week ${t.week}`, href: `/topics/${t.slug}`, icon: BookOpen })),
+  ...TOPICS.map((t) => ({ id: t.slug, label: t.title, hint: weekLabel(t.week), href: `/topics/${t.slug}`, icon: BookOpen })),
 ];
 
 export function CommandMenu() {

@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { CheckCircle2, ChevronRight } from "lucide-react";
 import { useStudy } from "@/lib/store/study-store";
+import { weekLabel } from "@/content/curriculum";
 
 interface Group {
   week: number;
@@ -18,7 +19,7 @@ export function CaseList({ groups }: { groups: Group[] }) {
         g.cases.length ? (
           <section key={g.week}>
             <h2 className="mb-3 h-section">
-              <span className="text-brand">Week {g.week}</span> · {g.theme}
+              <span className="text-brand">{weekLabel(g.week)}</span> · {g.theme}
             </h2>
             <div className="grid gap-3 md:grid-cols-2">
               {g.cases.map((c) => {

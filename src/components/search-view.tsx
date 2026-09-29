@@ -4,6 +4,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import { BookOpen, Hash, Layers, Sparkles } from "lucide-react";
 import type { SearchEntry } from "@/lib/types";
+import { weekLabel } from "@/content/curriculum";
 
 const KIND_ICON = {
   topic: <BookOpen size={16} />,
@@ -104,7 +105,7 @@ export function SearchView() {
                 <span className="mt-0.5 text-brand">{KIND_ICON[r.kind]}</span>
                 <div className="min-w-0 flex-1">
                   <div className="text-xs text-ink-3">
-                    {r.week ? `${KIND_LABEL[r.kind]} · Week ${r.week} · ${r.title}` : "⚡ Quick reference"}
+                    {r.slug !== "quick-reference" ? `${KIND_LABEL[r.kind]} · ${weekLabel(r.week)} · ${r.title}` : "⚡ Quick reference"}
                   </div>
                   {r.heading && <div className="text-sm font-semibold">{r.heading}</div>}
                   <div className="line-clamp-3 text-sm text-ink-2">{r.kind === "topic" ? r.title : snippet(r.text, hit)}</div>
