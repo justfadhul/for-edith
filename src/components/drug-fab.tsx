@@ -3,7 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import clsx from "clsx";
-import { GripVertical, Pill } from "lucide-react";
+import { Pill } from "lucide-react";
 
 const HREF = "/topics/obs-gyn-pharmacology";
 const KEY = "for-edith:drug-fab";
@@ -139,20 +139,16 @@ export function DrugFab() {
       }}
       style={pos ? { left: pos.x, top: pos.y } : undefined}
       className={clsx(
-        "fixed z-40 flex touch-none select-none items-center gap-2 rounded-full bg-brand py-2.5 pl-2.5 pr-4 text-[14px] font-semibold text-white",
-        "shadow-[0_10px_30px_-8px_rgba(214,61,120,0.65),0_2px_6px_rgba(0,0,0,0.12)] ring-4 ring-brand/15",
+        "fixed z-40 grid h-12 w-12 touch-none select-none place-items-center rounded-full bg-brand text-white",
+        "shadow-[0_8px_22px_-6px_rgba(214,61,120,0.6),0_2px_5px_rgba(0,0,0,0.12)] ring-4 ring-brand/15",
         dragging ? "cursor-grabbing scale-105" : "cursor-pointer transition-[transform,box-shadow] hover:-translate-y-0.5",
         pos ? "opacity-100" : "pointer-events-none right-4 bottom-24 opacity-0",
       )}
     >
-      <span className="grid h-8 w-8 place-items-center rounded-full bg-white/20">
-        <Pill size={17} strokeWidth={2.2} />
-      </span>
-      Drug handbook
-      <GripVertical size={15} className="-mr-1.5 opacity-60" aria-hidden />
+      <Pill size={21} strokeWidth={2.2} aria-hidden />
       {hint && (
         <span className="pointer-events-none absolute -top-9 right-0 whitespace-nowrap rounded-lg bg-ink px-2.5 py-1 text-[12px] font-medium text-white shadow-md">
-          Drag me anywhere
+          Drug handbook · drag me anywhere
         </span>
       )}
     </Link>
