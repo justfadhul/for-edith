@@ -95,10 +95,11 @@ export function SearchView() {
       <ul className="mt-3 space-y-2">
         {results.map(({ e: r, hit }, i) => {
           const href =
-            r.slug === "quick-reference"
+            r.href ??
+            (r.slug === "quick-reference"
               ? `/quick-reference#${r.anchor}`
               : r.kind === "section"
-                ? `/topics/${r.slug}#${r.anchor}` : r.kind === "card" ? `/topics/${r.slug}#cards` : `/topics/${r.slug}`;
+                ? `/topics/${r.slug}#${r.anchor}` : r.kind === "card" ? `/topics/${r.slug}#cards` : `/topics/${r.slug}`);
           return (
             <li key={i}>
               <Link href={href} className="card flex gap-3 p-3 hover:border-brand">

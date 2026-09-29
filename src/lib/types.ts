@@ -70,4 +70,6 @@ export type SearchEntry = {
   heading?: string;
   text: string;
   anchor: string;
+  /** Overrides the default link (e.g. drug handbook chapters). */
+  href?: string;
 };

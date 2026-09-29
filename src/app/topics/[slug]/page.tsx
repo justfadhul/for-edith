@@ -7,6 +7,8 @@ import { loadTopic } from "@/lib/content";
 import { Markdown } from "@/components/markdown";
 import { KindChip } from "@/components/ui";
 import { TopicHeaderActions, TopicDetails, TopicTabs, TableOfContents } from "@/components/topic-view";
+import { DrugGroupGrid, ChapterList } from "@/components/drug-handbook";
+import { drugHandbook } from "@/lib/drug-handbook";
 
 const KIND_ICON = { lecture: GraduationCap, tutorial: BookOpen, skill: Wrench, reference: Pill } as const;
 
@@ -44,17 +46,19 @@ export default async function TopicPage(props: PageProps<"/topics/[slug]">) {
   ]
     .map((j) => ({ ...j, h: c.headings.find((h) => h.depth === 2 && j.re.test(h.text)) }))
     .filter((j) => j.h);
-  // The drug handbook jumps straight to its drug groups instead.
-  if (topic.kind === "reference") {
-    const skip = /nutshell|clinical acumen|clinical workup|ward-round|mnemonic/i;
-    jump.splice(
-      0,
-      jump.length,
-      ...c.headings
-        .filter((h) => h.depth === 2 && !skip.test(h.text))
-        .map((h) => ({ re: /./, label: h.text.split(/[:(]/)[0].trim(), h })),
-    );
-  }
+  // The drug handbook is split into chapters with their own pages.
+  const handbook =
+    topic.kind === "reference"
+      ? drugHandbook().map(({ slug: g, title, blurb, icon, tone, items }) => ({
+          slug: g,
+          title,
+          blurb,
+          icon,
+          tone,
+          items: items.map(({ id, text }) => ({ id, text })),
+        }))
+      : null;
+  if (handbook) jump.length = 0;
   const Icon = KIND_ICON[topic.kind];
 
   return (
@@ -104,7 +108,7 @@ export default async function TopicPage(props: PageProps<"/topics/[slug]">) {
 
       <div className="xl:grid xl:grid-cols-[minmax(0,1fr)_292px] xl:gap-10">
         <div className="min-w-0">
-          {c.highYield.length > 0 && (
+          {c.highYield.length > 0 && !handbook && (
             <section className="mb-6 flex flex-col gap-2.5 rounded-[14px] border border-brand-line bg-surface px-5 py-4">
               <h2 className="flex items-center gap-2 text-[13px] font-semibold text-brand-text">
                 <Sparkles size={15} className="fill-brand text-brand" /> Must know before the ward round
@@ -126,9 +130,25 @@ export default async function TopicPage(props: PageProps<"/topics/[slug]">) {
             questions={questions}
             cases={study.cases}
             references={study.references}
-            toc={<TableOfContents headings={c.headings} />}
+            toc={handbook ? <ChapterList base={`/topics/${slug}`} groups={handbook} /> : <TableOfContents headings={c.headings} />}
           >
-            {c.body ? (
+            {handbook ? (
+              <>
+                <DrugGroupGrid base={`/topics/${slug}`} groups={handbook} />
+                <section className="mt-8 flex flex-col gap-2.5 rounded-[14px] border border-brand-line bg-surface px-5 py-4">
+                  <h2 className="flex items-center gap-2 text-[13px] font-semibold text-brand-text">
+                    <Sparkles size={15} className="fill-brand text-brand" /> Must-know drug facts
+                  </h2>
+                  <ol className="flex list-decimal flex-col gap-1.5 pl-5 text-[14.5px] leading-relaxed marker:font-semibold marker:text-brand">
+                    {c.highYield.map((h, k) => (
+                      <li key={k} className="pl-1">
+                        <Markdown className="prose-compact [&_p]:m-0 [&_p]:text-[14.5px]">{h}</Markdown>
+                      </li>
+                    ))}
+                  </ol>
+                </section>
+              </>
+            ) : c.body ? (
               <Markdown headingIds>{c.body}</Markdown>
             ) : (
               <div className="card p-8 text-center text-ink-3">Notes for this topic are being written. Check back soon, or try the flashcards and questions.</div>
@@ -146,8 +166,8 @@ export default async function TopicPage(props: PageProps<"/topics/[slug]">) {
               weekLabel={topic.week === REFERENCE_WEEK ? "Reference · not timetabled" : `${topic.week} · ${WEEK_THEMES[topic.week]}`}
             />
             <div className="border-t border-line pt-4">
-              <div className="mb-2 text-[12px] font-medium text-ink-3">On this page</div>
-              <TableOfContents headings={c.headings} />
+              <div className="mb-2 text-[12px] font-medium text-ink-3">{handbook ? "Chapters" : "On this page"}</div>
+              {handbook ? <ChapterList base={`/topics/${slug}`} groups={handbook} /> : <TableOfContents headings={c.headings} />}
             </div>
           </div>
         </aside>

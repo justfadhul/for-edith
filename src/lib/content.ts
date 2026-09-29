@@ -7,6 +7,7 @@ import { cache } from "react";
 import { TOPICS, TOPIC_BY_SLUG, type Topic } from "@/content/curriculum";
 import { frontmatterSchema, studySchema } from "@/lib/content-schema.mjs";
 import type { StudyData, TopicContent, TopicSummary, Heading } from "@/lib/types";
+import { drugHandbook, HANDBOOK_SLUG } from "@/lib/drug-handbook";
 
 const CONTENT_DIR = path.join(process.cwd(), "content");
 const TOPICS_DIR = path.join(CONTENT_DIR, "topics");
@@ -19,7 +20,7 @@ const EMPTY_STUDY = (slug: string): StudyData => ({
   references: [],
 });
 
-export function extractHeadings(markdown: string): Heading[] {
+export function extractHeadings(markdown: string, depths: number[] = [2, 3]): Heading[] {
   const withoutCode = markdown.replace(/```[\s\S]*?```/g, "");
   // Same slugger rehype-slug uses, so ids match the rendered headings.
   const slugger = new GithubSlugger();
@@ -27,7 +28,7 @@ export function extractHeadings(markdown: string): Heading[] {
   for (const m of withoutCode.matchAll(/^(#{1,6}) (.+)$/gm)) {
     const text = m[2].replace(/\[([^\]]+)\]\([^)]*\)/g, "$1").replace(/[*_`]/g, "").trim();
     const id = slugger.slug(text);
-    if (m[1].length === 2 || m[1].length === 3) headings.push({ depth: m[1].length, text, id });
+    if (depths.includes(m[1].length)) headings.push({ depth: m[1].length, text, id });
   }
   return headings;
 }
@@ -166,15 +167,28 @@ const topicEntries = () =>
         anchor: "",
       },
       ...c.highYield.map((h) => ({ slug: t.slug, title: t.title, week: t.week, kind: "fact" as const, text: h, anchor: "" })),
-      ...sectionChunks(c.body, c.headings).map((sec) => ({
-        slug: t.slug,
-        title: t.title,
-        week: t.week,
-        kind: "section" as const,
-        heading: sec.heading,
-        text: sec.text,
-        anchor: sec.id,
-      })),
+      ...(t.slug === HANDBOOK_SLUG
+        ? drugHandbook().flatMap((g) =>
+            sectionChunks(g.body, g.headings).map((sec) => ({
+              slug: t.slug,
+              title: `Drug handbook · ${g.title}`,
+              week: t.week,
+              kind: "section" as const,
+              heading: sec.heading,
+              text: sec.text,
+              anchor: sec.id,
+              href: `/topics/${t.slug}/${g.slug}#${sec.id}`,
+            })),
+          )
+        : sectionChunks(c.body, c.headings).map((sec) => ({
+            slug: t.slug,
+            title: t.title,
+            week: t.week,
+            kind: "section" as const,
+            heading: sec.heading,
+            text: sec.text,
+            anchor: sec.id,
+          }))),
       ...c.study.flashcards.map((f) => ({ slug: t.slug, title: t.title, week: t.week, kind: "card" as const, text: `${f.front} — ${f.back}`, anchor: "" })),
     ];
   });
