@@ -7,6 +7,7 @@ import { useStudy } from "@/lib/store/study-store";
 import { getSupabase } from "@/lib/supabase";
 import { DEFAULT_START } from "@/content/curriculum";
 import { PageHeader } from "@/components/ui";
+import { RemindersButton } from "@/components/reminders-sheet";
 
 type Theme = "system" | "light" | "dark";
 
@@ -126,6 +127,12 @@ export function AccountView() {
       </section>
 
       {/* Data */}
+      <section className="card space-y-2 p-5">
+        <h2 className="font-semibold">Reminders</h2>
+        <p className="text-sm text-ink-2">Put your timetable in your phone&apos;s calendar with alerts before each session and a daily study nudge.</p>
+        <RemindersButton className="!min-h-10" />
+      </section>
+
       <section className="card space-y-3 p-5">
         <h2 className="font-semibold">Your data</h2>
         <p className="text-sm text-ink-2">

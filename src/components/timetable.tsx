@@ -11,6 +11,7 @@ import { useNow } from "@/lib/use-now";
 import { fmtHour, parseTimeRange } from "@/lib/prep";
 import { effectiveSessions, type EffectiveSession } from "@/lib/schedule";
 import { RescheduleSheet } from "@/components/reschedule-sheet";
+import { RemindersButton } from "@/components/reminders-sheet";
 
 // ── Categories & colours ────────────────────────────────────
 type Cat = "lecture" | "tutorial" | "skills" | "bedside" | "rounds" | "assessment" | "routine";
@@ -141,6 +142,7 @@ export function Timetable({ sessions, titles }: { sessions: Session[]; titles: R
           >
             Today
           </button>
+          <RemindersButton />
         </div>
         <div className="ml-auto grid grid-cols-2 gap-[3px] rounded-[10px] bg-surface-3 p-[3px]">
           {(["week", "agenda"] as const).map((v) => (
