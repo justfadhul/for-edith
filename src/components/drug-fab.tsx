@@ -42,7 +42,6 @@ export function DrugFab() {
   const ref = useRef<HTMLAnchorElement>(null);
   const [pos, setPos] = useState<{ x: number; y: number } | null>(null);
   const [dragging, setDragging] = useState(false);
-  const [hint, setHint] = useState(false);
   const justDragged = useRef(false);
   const drag = useRef<{ id: number; dx: number; dy: number; sx: number; sy: number; moved: boolean } | null>(null);
 
@@ -75,19 +74,11 @@ export function DrugFab() {
   // Place after mount (it needs the window and its own size), and keep it on screen when the viewport changes.
   useEffect(() => {
     const stored = load();
-    let hintTimer: ReturnType<typeof setTimeout> | undefined;
-    const frame = requestAnimationFrame(() => {
-      setPos(fromSpot(stored));
-      if (!stored) {
-        setHint(true);
-        hintTimer = setTimeout(() => setHint(false), 6000);
-      }
-    });
+    const frame = requestAnimationFrame(() => setPos(fromSpot(stored)));
     const onResize = () => setPos(fromSpot(load()));
     window.addEventListener("resize", onResize);
     return () => {
       cancelAnimationFrame(frame);
-      clearTimeout(hintTimer);
       window.removeEventListener("resize", onResize);
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -105,7 +96,6 @@ export function DrugFab() {
     if (!d.moved) {
       d.moved = true;
       setDragging(true);
-      setHint(false);
     }
     setPos(clamp(e.clientX - d.dx, e.clientY - d.dy));
   };
@@ -146,11 +136,6 @@ export function DrugFab() {
       )}
     >
       <Pill size={21} strokeWidth={2.2} aria-hidden />
-      {hint && (
-        <span className="pointer-events-none absolute -top-9 right-0 whitespace-nowrap rounded-lg bg-ink px-2.5 py-1 text-[12px] font-medium text-white shadow-md">
-          Drug handbook · drag me anywhere
-        </span>
-      )}
     </Link>
   );
 }
