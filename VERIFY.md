@@ -51,3 +51,16 @@ birth rate, sickle trait prevalence, cervical cancer incidence (GLOBOCAN 2022), 
 
 To update a topic, edit `content/topics/<slug>/notes.md` or `study.json`, then run
 `npm run validate && npm run check:mcq`.
+
+## Obs & Gyn Pharmacology (drug handbook)
+
+- Restarting MgSO₄ after toxicity (0.5 g/h, or delay/halve the IM dose): confirm the unit protocol.
+- Dexamethasone ampoule strength in local stock (handbook assumes 4 mg/mL, so 6 mg = 1.5 mL).
+- Acute tocolysis for oxytocin hyperstimulation: terbutaline 0.25 mg SC vs salbutamol infusion (10 mg in 1 L at 10 drops/min, WHO MCPC); which does the unit stock?
+- Tranexamic acid for heavy menstrual bleeding: 1 g orally 8-hourly for up to 4–5 days.
+- Whether UCG 2023 has adopted artemether-lumefantrine for first-trimester malaria (WHO 2022) or still prefers quinine + clindamycin.
+- STI doses in pregnancy (ceftriaxone 500 mg IM or cefixime 400 mg + azithromycin 1 g) and PID ceftriaxone dose against the UCG 2023 syndromic packages.
+- Penicillin allergy in syphilis (ceftriaxone course vs desensitisation) and parenteral iron doses (iron sucrose 200 mg; ferric carboxymaltose up to 1,000 mg / 20 mg/kg).
+- Lipid emulsion regimen for LAST (1.5 mL/kg, then 15 mL/kg/h, max 12 mL/kg) and whether it is stocked.
+- LNG emergency contraception 3 mg for BMI >26 or weight >70 kg (FSRH advice; WHO does not specify).
+- PTU/carbimazole and domperidone doses; atosiban regimen (rarely available).

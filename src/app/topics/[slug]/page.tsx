@@ -44,6 +44,17 @@ export default async function TopicPage(props: PageProps<"/topics/[slug]">) {
   ]
     .map((j) => ({ ...j, h: c.headings.find((h) => h.depth === 2 && j.re.test(h.text)) }))
     .filter((j) => j.h);
+  // The drug handbook jumps straight to its drug groups instead.
+  if (topic.kind === "reference") {
+    const skip = /nutshell|clinical acumen|clinical workup|ward-round|mnemonic/i;
+    jump.splice(
+      0,
+      jump.length,
+      ...c.headings
+        .filter((h) => h.depth === 2 && !skip.test(h.text))
+        .map((h) => ({ re: /./, label: h.text.split(/[:(]/)[0].trim(), h })),
+    );
+  }
   const Icon = KIND_ICON[topic.kind];
 
   return (

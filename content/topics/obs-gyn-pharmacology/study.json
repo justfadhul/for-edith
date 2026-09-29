@@ -1,0 +1,989 @@
+{
+  "slug": "obs-gyn-pharmacology",
+  "flashcards": [
+    {
+      "id": "pharm-a-f01",
+      "front": "Three mechanisms by which MgSO₄ prevents eclamptic fits",
+      "back": "1. **NMDA-receptor antagonism** (raises seizure threshold)\n2. **Calcium antagonism** → **cerebral vasodilatation** (relieves vasospasm)\n3. Reduced **blood-brain-barrier permeability** (less cerebral oedema)\n\nIt is **not** an antihypertensive."
+    },
+    {
+      "id": "pharm-a-f02",
+      "front": "How do you make 4 g of 20% MgSO₄ from the 50% ampoule?",
+      "back": "**8 mL of 50% (4 g) + 12 mL water for injection = 20 mL of 20%**. Give IV over **5–10 min**. (50% = 0.5 g/mL; 20% = 0.2 g/mL.)"
+    },
+    {
+      "id": "pharm-a-f03",
+      "front": "Pritchard regimen: loading and maintenance",
+      "back": "**Loading**: 4 g of 20% IV over 5–10 min **+ 10 g of 50% IM** (5 g deep IM each buttock, each with 1 mL 2% lignocaine) = **14 g**.\n**Maintenance**: **5 g of 50% IM every 4 h**, alternate buttocks, for **24 h after delivery or last fit** (whichever is later)."
+    },
+    {
+      "id": "pharm-a-f04",
+      "front": "Zuspan regimen and dose for a recurrent fit on MgSO₄",
+      "back": "**Zuspan**: 4 g IV over 5–20 min, then **1 g/h** IV infusion.\n**Recurrent fit**: **2 g of 20% IV over 5 min** (4 mL of 50% + 6 mL water), continue the regimen; if fits persist, look for another cause."
+    },
+    {
+      "id": "pharm-a-f05",
+      "front": "The three checks before every MgSO₄ dose (R-R-U)",
+      "back": "- **R**espiratory rate **≥16/min**\n- **R**eflexes (patellar) **present** (biceps if spinal)\n- **U**rine **≥30 mL/h** (≥100 mL in 4 h)\n\nRR <16 or absent reflexes → **withhold**. Oliguria → withhold IM dose / halve infusion to 0.5 g/h."
+    },
+    {
+      "id": "pharm-a-f06",
+      "front": "Serum Mg²⁺ levels: therapeutic range and the toxicity ladder",
+      "back": "- **2–3.5 mmol/L** (4.8–8.4 mg/dL): therapeutic\n- **4–5 mmol/L**: **loss of patellar reflexes**\n- **6–7.5 mmol/L**: **respiratory depression/paralysis**\n- >7.5: conduction defects\n- **>12 mmol/L**: **cardiac arrest**\n\n\"Reflexes, then breathing, then the heart.\""
+    },
+    {
+      "id": "pharm-a-f07",
+      "front": "Antidote to MgSO₄ toxicity: drug, dose, rate",
+      "back": "**Calcium gluconate 10%, 10 mL (1 g) IV slowly over 10 min**, plus **oxygen and bag-mask ventilation** if breathing is depressed. Keep it at the bedside before the first MgSO₄ dose."
+    },
+    {
+      "id": "pharm-a-f08",
+      "front": "Why does oliguria matter so much on MgSO₄?",
+      "back": "Mg is excreted **almost entirely by the kidneys** (half-life ~4 h normally). Oliguria (<30 mL/h) → **accumulation** → toxicity. **Withhold/reduce** the dose, check creatinine ± serum Mg, and do **not** give big fluid boluses (pulmonary oedema)."
+    },
+    {
+      "id": "pharm-a-f09",
+      "front": "Absolute contraindication to MgSO₄, and two important drug interactions",
+      "back": "**Myasthenia gravis** (myasthenic crisis); also caution in **heart block** and renal failure.\nInteractions: **neuromuscular blockers** (prolonged block: tell the anaesthetist) and **aminoglycosides** (gentamicin: additive neuromuscular block). Nifedipine interaction is theoretical/rare: give both and monitor."
+    },
+    {
+      "id": "pharm-a-f10",
+      "front": "Hydralazine for acute severe hypertension: dilution and dose",
+      "back": "Dilute **20 mg to 20 mL** (1 mg/mL). Give **5 mg (5 mL) IV slowly over 2–5 min**; repeat **5–10 mg every 20–30 min** if BP still ≥160/110; **max 20 mg per episode**. Side effects: **tachycardia, headache, hypotension → fetal distress**."
+    },
+    {
+      "id": "pharm-a-f11",
+      "front": "Nifedipine for acute severe hypertension: dose and the key safety rule",
+      "back": "**Nifedipine IR 10 mg orally, swallowed whole**; repeat 10–20 mg after 20–30 min if still ≥160/110 (~30–40 mg in the first hour). **Never sublingual or bitten**: precipitous hypotension, fetal distress, MI/stroke."
+    },
+    {
+      "id": "pharm-a-f12",
+      "front": "Methyldopa: dose, 3 side effects, and why switch postpartum",
+      "back": "**250–750 mg 8-hourly (max 3 g/day)**; slow onset (never for acute BP).\nSide effects: **sedation**, **depression**, **positive Coombs / haemolytic anaemia**, hepatitis, postural hypotension.\nSwitch within **2 days postpartum** because of **postnatal depression** (use nifedipine MR, amlodipine or enalapril)."
+    },
+    {
+      "id": "pharm-a-f13",
+      "front": "Antihypertensives to AVOID in pregnancy and why",
+      "back": "- **ACE inhibitors / ARBs**: fetopathy (renal failure, oligohydramnios, skull hypoplasia, death)\n- **Atenolol**: fetal growth restriction\n- **Diuretics**: reduce plasma volume (only for pulmonary oedema)\n\n**Enalapril is fine postpartum**, including breastfeeding."
+    },
+    {
+      "id": "pharm-a-f14",
+      "front": "Antenatal corticosteroids: regimens, window and repeat course (WHO 2022)",
+      "back": "**Dexamethasone 6 mg IM 12-hourly × 4** or **betamethasone 12 mg IM 24-hourly × 2**.\nWindow **24–34 weeks** (Uganda usually 28–34), birth likely within 7 days, accurate GA, no infection, adequate newborn care.\n**One** repeat course if ≥7 days since the first and still at risk <34 weeks. Monitor glucose in diabetics."
+    },
+    {
+      "id": "pharm-b-f01",
+      "front": "Oxytocin for AMTSL: dose, route and timing?",
+      "back": "**10 IU IM** (or IV slowly) **within 1 minute of birth** of the baby (after excluding another baby)."
+    },
+    {
+      "id": "pharm-b-f02",
+      "front": "Oxytocin regimen for treatment of PPH?",
+      "back": "**10 IU IV slowly (or IM)**, then infusion **20–40 IU in 1 L NS/RL**, e.g. **20 IU in 1 L at 60 drops/min**, maintenance **40 drops/min**. Max about **3 L** of oxytocin-containing fluid (water intoxication)."
+    },
+    {
+      "id": "pharm-b-f03",
+      "front": "WHO MCPC oxytocin augmentation starting regimen and maximum?",
+      "back": "**2.5 IU in 500 mL NS/RL at 10 drops/min**, increase by **10 drops/min every 30 min** to **max 60 drops/min**, aiming for **3–5 contractions in 10 min, each >40 s**. If inadequate: 5 IU in 500 mL from 30 drops/min. The 10 IU/500 mL step is for **primigravidae only**."
+    },
+    {
+      "id": "pharm-b-f04",
+      "front": "2.5 IU oxytocin in 500 mL at 10 drops/min (20 drops/mL set): how many mIU/min?",
+      "back": "5 mIU/mL × 0.5 mL/min = **2.5 mIU/min**. At 60 drops/min = **15 mIU/min**."
+    },
+    {
+      "id": "pharm-b-f05",
+      "front": "Half-life of oxytocin and why it matters?",
+      "back": "**3–5 minutes**. Stopping the drip reverses hyperstimulation within minutes; steady state takes ~30–40 min, so **increase no more often than every 30 min**; a bolus wears off fast, so PPH needs an infusion."
+    },
+    {
+      "id": "pharm-b-f06",
+      "front": "First steps for oxytocin-induced tachysystole with fetal bradycardia?",
+      "back": "**Stop the oxytocin**, **left lateral**, IV crystalloid (not dextrose), oxygen per protocol, call a senior, continuous FHR. If persisting: **terbutaline 250 µg SC** (or salbutamol infusion). No recovery → **deliver**."
+    },
+    {
+      "id": "pharm-b-f07",
+      "front": "Why can oxytocin cause water intoxication and how do you prevent it?",
+      "back": "It resembles **ADH** (differs by 2 amino acids) and has an **antidiuretic effect** at high doses. Prevent by using **NS/RL not 5% dextrose**, avoiding prolonged high doses and limiting oxytocin fluid to ~3 L. Signs: headache, vomiting, confusion, **fits**, Na⁺ <130 mmol/L."
+    },
+    {
+      "id": "pharm-b-f08",
+      "front": "Ergometrine: dose, maximum and 5 contraindications?",
+      "back": "**0.2 mg IM** (or slow IV), repeat after 15 min then 4-hourly; **max 1 mg (5 doses)/24 h**. CI: **hypertension, pre-eclampsia, cardiac disease, retained placenta, undelivered second twin** (also boosted PIs such as ritonavir). Store **2–8 °C**."
+    },
+    {
+      "id": "pharm-b-f09",
+      "front": "Carboprost: dose, maximum and absolute contraindication?",
+      "back": "**250 µg deep IM every 15 min, max 8 doses (2 mg)**. **Asthma** (bronchospasm). Side effects: diarrhoea, vomiting, fever, desaturation."
+    },
+    {
+      "id": "pharm-b-f10",
+      "front": "Misoprostol doses after birth: prevention vs treatment of PPH?",
+      "back": "Prevention: **600 µg orally**. Treatment: **800 µg sublingually**. Expect shivering and fever."
+    },
+    {
+      "id": "pharm-b-f11",
+      "front": "Misoprostol for induction of labour with a live fetus at term (no scar)?",
+      "back": "**25 µg vaginally every 6 h** or **25 µg orally every 2 h** (1 × 200 µg tablet in 200 mL water, give 25 mL). **Not with a previous CS.** Wait **≥4 h** after the last dose before oxytocin."
+    },
+    {
+      "id": "pharm-b-f12",
+      "front": "Heat-stable carbetocin: dose and what it is NOT for?",
+      "back": "**100 µg IM or slow IV, single dose** for **prevention** of PPH. **Not** for treatment of PPH, **not** for induction/augmentation, never before the baby is born."
+    },
+    {
+      "id": "pharm-b-f13",
+      "front": "Tranexamic acid in PPH: the \"1-10-3-30\" rule?",
+      "back": "**1 g** IV over **10 min**, within **3 h** of birth, repeat 1 g after **30 min** if still bleeding (or if it restarts within 24 h). WOMAN trial: no benefit after 3 h; each 15-min delay cuts benefit ~10%."
+    },
+    {
+      "id": "pharm-b-f14",
+      "front": "Methotrexate for ectopic: dose, follow-up and success rule?",
+      "back": "**50 mg/m² IM** single dose. **hCG day 4 and day 7**; a **≥15% fall from day 4 to day 7** = success, then weekly to negative. <15% → second dose or surgery. Avoid folate, NSAIDs, alcohol, sun; contraception **3 months**."
+    },
+    {
+      "id": "pharm-c-f01",
+      "front": "Name the three antibiotics (with doses) for puerperal sepsis or septic abortion, and what each covers.",
+      "back": "**Ampicillin 2 g IV 6-hourly** (Gram-positives, streptococci) + **gentamicin 5 mg/kg IV once daily** (Gram-negatives, *E. coli*) + **metronidazole 500 mg IV 8-hourly** (anaerobes). IV until afebrile 48 h, then oral to complete ~7 days. **Plus source control** (evacuate RPOC, drain pus)."
+    },
+    {
+      "id": "pharm-c-f02",
+      "front": "Gentamicin once-daily dose for a 60 kg woman, and the older alternative regimen?",
+      "back": "**5 mg/kg once daily = 300 mg IV/IM.** Older regimen: **80 mg 8-hourly** (only 240 mg/day, so it under-doses most women). Monitor **urine output and creatinine**; hold if AKI."
+    },
+    {
+      "id": "pharm-c-f03",
+      "front": "Antibiotic for PPROM, dose and duration. Which antibiotic must you avoid and why?",
+      "back": "**Erythromycin 250 mg orally 6-hourly for 10 days** (or until labour). **Avoid co-amoxiclav**: associated with **necrotising enterocolitis** in the preterm baby (ORACLE I)."
+    },
+    {
+      "id": "pharm-c-f04",
+      "front": "When and what do you give for caesarean section antibiotic prophylaxis?",
+      "back": "**Single dose 15–60 min BEFORE skin incision** (not after cord clamping): **cefazolin 2 g IV** (3 g if >120 kg) or **ampicillin 2 g IV**. Uganda often uses **ceftriaxone 1–2 g IV ± metronidazole**. Repeat if surgery >4 h or blood loss >1.5 L."
+    },
+    {
+      "id": "pharm-c-f05",
+      "front": "Match the antibiotic to its fetal/neonatal harm: tetracycline, chloramphenicol, streptomycin, sulfonamides near term, trimethoprim in the 1st trimester.",
+      "back": "**Tetracycline** → teeth staining/bone. **Chloramphenicol** → grey baby syndrome. **Streptomycin** (aminoglycosides) → 8th-nerve deafness. **Sulfonamides near term** → kernicterus. **Trimethoprim** → folate antagonism, neural tube defects."
+    },
+    {
+      "id": "pharm-c-f06",
+      "front": "Syphilis in pregnancy: treatment for early vs late latent/unknown duration?",
+      "back": "**Benzathine penicillin 2.4 MU deep IM** (1.2 MU each buttock). **Early (<2 years): single dose.** **Late latent or unknown duration: weekly × 3.** Treat the partner; treat/examine the baby at birth."
+    },
+    {
+      "id": "pharm-c-f07",
+      "front": "What is the Jarisch–Herxheimer reaction and why does it matter in pregnancy?",
+      "back": "Fever, chills, myalgia, hypotension **2–24 h after the first penicillin dose** for syphilis (endotoxin-like release from dying spirochaetes). In pregnancy it can cause **contractions, preterm labour and fetal distress**. **Not an allergy**: paracetamol, fluids, fetal monitoring; **continue treatment**."
+    },
+    {
+      "id": "pharm-c-f08",
+      "front": "IPTp-SP: dose, when to start, interval, and four reasons not to give it.",
+      "back": "**3 tablets SP (1,500/75 mg) by DOT, from 13 weeks, monthly (≥4 weeks apart) until delivery; aim ≥3 doses.** Not in the **1st trimester**, not with **sulfa allergy**, not with **co-trimoxazole**, and avoid with **folic acid 5 mg** (use 400 mcg)."
+    },
+    {
+      "id": "pharm-c-f09",
+      "front": "Severe malaria in pregnancy: drug, dose and schedule?",
+      "back": "**IV (or IM) artesunate 2.4 mg/kg at 0, 12 and 24 h, then daily** until she can take oral drugs (minimum 3 doses), then a **full 3-day AL course**. **All trimesters.** Check RBS 4-hourly; Hb at 7, 14, 28 days (delayed haemolysis)."
+    },
+    {
+      "id": "pharm-c-f10",
+      "front": "Why does quinine cause hypoglycaemia, and what do you do about it?",
+      "back": "Quinine **stimulates pancreatic insulin release**; pregnancy and parasites also consume glucose. Infuse in **5–10% dextrose**, **check RBS 4-hourly** (hourly if unconscious), give **50% dextrose 25–50 mL IV** if glucose <3 mmol/L."
+    },
+    {
+      "id": "pharm-c-f11",
+      "front": "What happened to the dolutegravir neural tube defect signal, and what is the current guidance?",
+      "back": "Tsepamo (Botswana, 2018): ~**0.9%** NTDs with DTG at conception. With more data it fell to ~**0.1%**, the **same as other ART**. WHO (2019) and Uganda: **TLD for all**, including women who are or may become pregnant; give routine folic acid."
+    },
+    {
+      "id": "pharm-c-f12",
+      "front": "Infant ARV prophylaxis in Uganda: low-risk vs high-risk?",
+      "back": "Start **within 6 h of birth**. **Low risk** (mother suppressed): **NVP once daily × 6 weeks**. **High risk** (non-suppressed/unknown VL, ART <4 weeks, diagnosed in labour or breastfeeding): **AZT twice daily + NVP once daily × 6 weeks, then NVP alone × 6 weeks** (12 weeks). ≥2.5 kg: **15 mg (1.5 mL)** of each."
+    },
+    {
+      "id": "pharm-c-f13",
+      "front": "Anti-D after delivery in Uganda: dose, route, timing and who should NOT get it?",
+      "back": "**1,500 IU (300 mcg) IM within 72 h** of delivery of an Rh-positive baby (some benefit up to 10 days). Not for **Rh-positive** women, women **already sensitised** (anti-D antibodies present), and **never to the baby**."
+    },
+    {
+      "id": "pharm-c-f14",
+      "front": "Indications for folic acid 5 mg (instead of 400 mcg)?",
+      "back": "**Previous NTD** (or family history), **epilepsy on antiepileptics**, **sickle cell disease/haemolytic anaemia**, **pre-existing diabetes**, **BMI ≥30**, malabsorption. In SCD continue **throughout pregnancy**; beware the **SP interaction** (use proguanil or withhold around SP doses)."
+    },
+    {
+      "id": "pharm-d-f01",
+      "front": "Four WHO MEC category 4 contraindications to the COC?",
+      "back": "Any of: **breastfeeding <6 weeks postpartum** (not breastfeeding <21 days); **migraine with aura**; **BP ≥160/100**; **age ≥35 and smoking ≥15/day**; current/past **VTE**; ischaemic heart disease or stroke; complicated valvular disease; current breast cancer; SLE with antiphospholipid antibodies; major surgery with prolonged immobilisation."
+    },
+    {
+      "id": "pharm-d-f02",
+      "front": "COC missed pill rule for ≥3 missed pills (≥48 h late)?",
+      "back": "Take one now, carry on, **condoms for 7 days**. If in **week 3** skip the pill-free break; if in **week 1** with unprotected sex, consider **emergency contraception**. (1–2 missed: take it now, no back-up needed.)"
+    },
+    {
+      "id": "pharm-d-f03",
+      "front": "Best contraception for a woman on rifampicin?",
+      "back": "**DMPA** or an **IUD** (copper or LNG-IUS), all MEC 1. COC, POP and implants are MEC 3 (enzyme induction). Continue for **28 days after** rifampicin stops."
+    },
+    {
+      "id": "pharm-d-f04",
+      "front": "Which ARV has no interaction with hormonal contraception, and which one does?",
+      "back": "**Dolutegravir (TLD): no interaction**. **Efavirenz** lowers levonorgestrel/etonogestrel levels (implant failures reported in Uganda)."
+    },
+    {
+      "id": "pharm-d-f05",
+      "front": "DMPA: doses, interval and two key side effects?",
+      "back": "**Depo-Provera 150 mg IM** or **Sayana Press 104 mg SC** every **12–13 weeks** (up to 4 weeks late allowed). **Reversible bone density loss** and **delayed return of fertility** (about **10 months** after the last injection); also irregular bleeding and weight gain."
+    },
+    {
+      "id": "pharm-d-f06",
+      "front": "Emergency contraception options and time limits?",
+      "back": "**Copper IUD up to 5 days** (>99%, best); **levonorgestrel 1.5 mg within 72 h** (**3 mg** with enzyme inducers or BMI >26/weight >70 kg); **ulipristal 30 mg within 120 h**."
+    },
+    {
+      "id": "pharm-d-f07",
+      "front": "Clomiphene: dose, monitoring and main risks?",
+      "back": "**50 mg daily days 2–6**, up to **150 mg**; **ultrasound tracking at least in the first cycle**; **max 6 cycles**. Risks: **multiple pregnancy (5–10%)**, **OHSS**, visual disturbance, hot flushes, thin endometrium."
+    },
+    {
+      "id": "pharm-d-f08",
+      "front": "How do you suppress lactation after a stillbirth?",
+      "back": "**Cabergoline 1 mg orally, single dose, within 24 h** of birth (avoid in hypertension/pre-eclampsia), plus a firm bra and analgesia. **Not bromocriptine** (stroke, MI, seizures)."
+    },
+    {
+      "id": "pharm-d-f09",
+      "front": "Maximum doses of lignocaine?",
+      "back": "**Plain: 3 mg/kg**; **with adrenaline: 7 mg/kg**. 1% = **10 mg/mL**, so about **18–20 mL of 1%** for 60 kg. Aspirate first."
+    },
+    {
+      "id": "pharm-d-f10",
+      "front": "Dose of 20% lipid emulsion for local anaesthetic toxicity?",
+      "back": "**1.5 mL/kg IV bolus over 1 min**, then **15 mL/kg/h** infusion; repeat bolus up to twice at 5 min and double the rate to **30 mL/kg/h** if needed; **max 12 mL/kg**."
+    },
+    {
+      "id": "pharm-d-f11",
+      "front": "Why avoid NSAIDs in late pregnancy?",
+      "back": "From **20 weeks**: fetal renal impairment and **oligohydramnios**. From **30 weeks**: **premature closure of the ductus arteriosus**. Safe postpartum and in breastfeeding (if no asthma, renal impairment or PPH with AKI)."
+    },
+    {
+      "id": "pharm-d-f12",
+      "front": "Enoxaparin and a spinal: timing rules?",
+      "back": "Last **prophylactic** dose **≥12 h** before; last **treatment** dose **≥24 h** before; first dose **≥4 h after** the spinal or catheter removal."
+    },
+    {
+      "id": "pharm-d-f13",
+      "front": "Warfarin embryopathy: window and features?",
+      "back": "Exposure at **6–12 weeks**: **nasal hypoplasia** and **stippled epiphyses** (chondrodysplasia punctata); later CNS defects and fetal haemorrhage. Switch to LMWH before 6 weeks. Safe in breastfeeding."
+    },
+    {
+      "id": "pharm-d-f14",
+      "front": "Four pharmacokinetic changes of pregnancy?",
+      "back": "**↑ volume of distribution** (plasma volume +40–50%); **↑ GFR (~50%)** and renal clearance; **↓ albumin** (more free drug, e.g. phenytoin); **↑ hepatic metabolism** of some drugs (lamotrigine via UGT); **delayed gastric emptying** (labour: erratic oral absorption, aspiration)."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "pharm-a-q01",
+      "stem": "A 23-year-old primigravida at 36 weeks with eclampsia is on Pritchard MgSO₄ at Mengo Hospital. Eight hours after loading, before the 4-hourly IM dose, she is drowsy with slurred speech. RR is 10/min, SpO₂ 90% on air, patellar reflexes are absent, and she has passed 40 mL of urine in 4 hours. BP 150/100. What is the MOST appropriate immediate management?",
+      "options": [
+        "Give the IM dose because she is still at risk of fits, then recheck in 1 hour",
+        "Withhold MgSO₄, give oxygen and support ventilation, and give calcium gluconate 1 g IV over 10 min",
+        "Give furosemide 40 mg IV to improve urine output, then give half the IM dose",
+        "Give a 1 L fluid bolus of normal saline for oliguria",
+        "Give diazepam 10 mg IV to replace MgSO₄ as the anticonvulsant"
+      ],
+      "answer": 1,
+      "explanation": "**B** is correct: absent reflexes, RR 10/min and falling SpO₂ in an oliguric woman = **magnesium toxicity** (respiratory depression). Stop MgSO₄, call for help, oxygen and bag-mask support, and **calcium gluconate 10% 10 mL (1 g) IV over 10 min**. **A** is wrong: giving more magnesium could cause respiratory or cardiac arrest. **C** is wrong: furosemide is a senior decision after stabilisation, not the first step, and no further MgSO₄ should be given now. **D** is wrong: oliguria in pre-eclampsia is usually renal vasospasm; a litre bolus risks pulmonary oedema and does not treat the respiratory depression. **E** is wrong: diazepam would worsen respiratory depression and is inferior to MgSO₄.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-a-q02",
+      "stem": "A midwife at an HC IV asks you to help prepare the IV part of the Pritchard loading dose. The ward stocks only 10 mL ampoules of 50% MgSO₄ and water for injection. Which preparation is correct?",
+      "options": [
+        "20 mL of 50% MgSO₄ given IV undiluted over 5 min",
+        "4 mL of 50% MgSO₄ + 16 mL water, given IV over 5–10 min",
+        "8 mL of 50% MgSO₄ + 12 mL water, given IV over 5–10 min",
+        "8 mL of 50% MgSO₄ + 12 mL water, given IV as a rapid push over 1 min",
+        "10 mL of 50% MgSO₄ + 10 mL water, given IV over 20 min"
+      ],
+      "answer": 2,
+      "explanation": "**C** is correct: 4 g of 50% (0.5 g/mL) = 8 mL; made up to 20 mL gives **20% (0.2 g/mL)**, given over **5–10 min**. **A** is wrong: 20 mL of 50% is **10 g**, and 50% should never be given as an IV bolus. **B** is wrong: 4 mL of 50% contains only 2 g (that is the recurrent-fit dose, and it would be 10% not 20%). **D** is wrong: the right mixture but too fast; rapid IV magnesium causes hypotension, arrhythmia and arrest. **E** is wrong: 10 mL of 50% is 5 g (25%), not the 4 g loading dose.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-a-q03",
+      "stem": "A 30-year-old G3P2 at 34 weeks with severe pre-eclampsia has BP 172/114 on two readings 15 minutes apart. She received her MgSO₄ loading dose 30 minutes ago. She has no IV antihypertensive available, and she is alert and able to swallow. What is the MOST appropriate next step?",
+      "options": [
+        "Methyldopa 500 mg orally now, and recheck BP in 1 hour",
+        "No antihypertensive is needed because MgSO₄ will lower the BP",
+        "Nifedipine immediate-release 10 mg sublingually",
+        "Furosemide 40 mg IV",
+        "Nifedipine immediate-release 10 mg orally, swallowed, recheck BP in 20–30 min"
+      ],
+      "answer": 4,
+      "explanation": "**E** is correct: BP ≥160/110 is an emergency to treat within 30–60 min; **oral nifedipine IR 10 mg swallowed** works in 10–20 min and needs no IV access; repeat 10–20 mg if still ≥160/110. **A** is wrong: methyldopa takes 4–6 h and has no role in acute control. **B** is wrong: MgSO₄ is an anticonvulsant, not an antihypertensive. **C** is wrong: sublingual/bitten nifedipine causes precipitous, uncontrolled hypotension and fetal distress. **D** is wrong: diuretics reduce the contracted plasma volume in pre-eclampsia and are used only for pulmonary oedema.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-a-q04",
+      "stem": "A 26-year-old at 31 weeks presents with regular painful contractions and cervix 3 cm dilated. She is afebrile, membranes are intact, there is no bleeding, and the FHR is 140/min. Her GA is confirmed by a 12-week scan. Your HC IV has no NICU and the regional referral hospital (with neonatal care) is 2 hours away. What is the BEST plan?",
+      "options": [
+        "Salbutamol IV infusion for 48 hours and admit locally",
+        "Dexamethasone 6 mg IM and nifedipine 20 mg orally, then refer in utero with notes of dose times",
+        "Await spontaneous delivery locally; steroids are only useful if the full course is completed",
+        "Indomethacin 100 mg rectally and continue for 7 days",
+        "MgSO₄ as the tocolytic of choice, then observe"
+      ],
+      "answer": 1,
+      "explanation": "**B** is correct: start **dexamethasone** (first of four 6 mg doses), use **nifedipine** to buy time, and **transfer the mother in utero** to a unit with newborn care; the uterus is the best incubator. **A** is wrong: betamimetics are no longer recommended (tachycardia, pulmonary oedema, hyperglycaemia). **C** is wrong: steroids help even if birth occurs before the course is complete, and a 31-week baby should be born where it can be cared for. **D** is wrong: indomethacin must not exceed 48 h (ductal closure, oligohydramnios) and is specialist use. **E** is wrong: MgSO₄ is not an effective tocolytic; it is given for **neuroprotection** when birth <32 weeks is expected within 24 h.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-a-q05",
+      "stem": "A 28-year-old with eclampsia is on a Zuspan MgSO₄ infusion at 1 g/h after delivery. Her RR is 18/min and patellar reflexes are present, but her urine output over the last 2 hours is 20 mL/h. Creatinine is 140 µmol/L. BP 148/96, chest clear. What is the MOST appropriate action regarding MgSO₄?",
+      "options": [
+        "Stop MgSO₄ completely and switch to diazepam",
+        "Continue 1 g/h and give a 2 L fluid challenge",
+        "Give calcium gluconate 1 g IV now",
+        "Reduce the infusion to 0.5 g/h, continue hourly R-R-U checks and check serum Mg if available",
+        "Increase to 2 g/h because renal involvement means more severe disease"
+      ],
+      "answer": 3,
+      "explanation": "**D** is correct: with **oliguria** and rising creatinine but normal RR and reflexes, magnesium is accumulating; **halve the infusion (0.5 g/h)**, keep hourly checks, measure serum Mg if possible, and restrict fluids. **A** is wrong: she still needs seizure prophylaxis and has no signs of toxicity; diazepam is inferior. **B** is wrong: oliguria in pre-eclampsia is not from dehydration, and 2 L risks pulmonary oedema; full-dose magnesium will accumulate. **C** is wrong: calcium gluconate is for toxicity (respiratory depression/arrest), which she does not have. **E** is wrong: a higher dose in renal impairment will cause toxicity.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pharm-a-q06",
+      "stem": "A 32-year-old woman with a history of chronic hypertension and moderate persistent asthma presents at 33 weeks with BP 168/112 and proteinuria 3+. Nifedipine and hydralazine are in stock; labetalol has just been delivered to the pharmacy. Which drug should be AVOIDED for acute BP control in this woman?",
+      "options": [
+        "Labetalol IV",
+        "Hydralazine IV",
+        "Nifedipine IR oral",
+        "MgSO₄",
+        "Oxytocin"
+      ],
+      "answer": 0,
+      "explanation": "**A** is correct: labetalol is a non-selective β-blocker and can precipitate **bronchospasm in asthma**; it is also avoided in heart failure. **B** is wrong: hydralazine is appropriate (watch tachycardia and hypotension). **C** is wrong: oral nifedipine (swallowed) is a first-line option. **D** is wrong: MgSO₄ is indicated for seizure prophylaxis in severe pre-eclampsia and is not an antihypertensive; asthma is not a contraindication. **E** is wrong: oxytocin is not an antihypertensive and is the correct uterotonic in hypertension (ergometrine is the one to avoid).",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-a-q07",
+      "stem": "On day 2 after a caesarean section for pre-eclampsia, a 25-year-old breastfeeding mother is on methyldopa 500 mg 8-hourly. Her BP is 152/98. She says she feels low and tearful. What is the MOST appropriate change to her antihypertensive?",
+      "options": [
+        "Increase methyldopa to 750 mg 8-hourly",
+        "Add hydrochlorothiazide to methyldopa",
+        "Stop methyldopa and start nifedipine MR 20 mg 12-hourly (or enalapril)",
+        "Stop all antihypertensives because BP always normalises after delivery",
+        "Start atenolol 50 mg daily"
+      ],
+      "answer": 2,
+      "explanation": "**C** is correct: methyldopa should be **switched within 2 days postpartum** because it causes **depression**; nifedipine MR, amlodipine or **enalapril** (safe in breastfeeding) are preferred. **A** is wrong: increasing methyldopa worsens the mood risk. **B** is wrong: diuretics are not first line and may reduce milk supply. **D** is wrong: postpartum BP often peaks on days 3–6; stopping abruptly risks stroke and eclampsia. **E** is wrong: atenolol is not a preferred postpartum agent and has no advantage here.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-a-q08",
+      "stem": "A 29-year-old with severe pre-eclampsia on Pritchard MgSO₄ is taken for emergency caesarean section under general anaesthesia. The anaesthetist plans suxamethonium and a non-depolarising muscle relaxant, and gentamicin is prescribed postoperatively. Which statement BEST describes the interaction concern?",
+      "options": [
+        "MgSO₄ antagonises muscle relaxants, so higher doses are needed",
+        "Gentamicin reverses magnesium toxicity",
+        "There is no interaction; MgSO₄ acts only on the brain",
+        "MgSO₄ should be switched to phenytoin before any general anaesthetic",
+        "MgSO₄ potentiates neuromuscular blockade, and gentamicin adds to it, so reduce relaxant doses and monitor neuromuscular function and breathing"
+      ],
+      "answer": 4,
+      "explanation": "**E** is correct: magnesium reduces acetylcholine release at the neuromuscular junction, **potentiating both depolarising and non-depolarising blockers**; **aminoglycosides** have an additive effect. Use lower relaxant doses, monitor with a nerve stimulator, and watch breathing postoperatively. **A** is wrong: the effect is potentiation, not antagonism. **B** is wrong: calcium gluconate is the antidote; gentamicin worsens weakness. **C** is wrong: magnesium acts at the neuromuscular junction too, which is why reflexes disappear in toxicity. **D** is wrong: phenytoin is inferior (Collaborative Eclampsia Trial) and switching is not needed.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pharm-a-q09",
+      "stem": "A woman with eclampsia was given the full Pritchard loading dose at an HC III at 10:00 and referred to Mengo Hospital, arriving at 13:00. She has had no further fits, RR 18/min, reflexes present, and 150 mL of urine in the catheter bag since 10:00. The referral note says the next dose was not sent. What is the MOST appropriate MgSO₄ plan?",
+      "options": [
+        "Repeat the full 14 g loading dose because she has changed facility",
+        "Give 5 g of 50% IM at 14:00 (4 h after loading), then 4-hourly for 24 h after delivery or the last fit",
+        "Give no more MgSO₄ because she has not fitted again",
+        "Start diazepam maintenance because the loading dose was given elsewhere",
+        "Give 2 g of 20% IV now and every hour until delivery"
+      ],
+      "answer": 1,
+      "explanation": "**B** is correct: the maintenance dose is due **4 h after loading** (14:00); her R-R-U checks are satisfactory (urine ~37 mL/h), so continue **5 g IM 4-hourly** for 24 h after delivery or the last fit. **A** is wrong: a second loading dose risks toxicity; always read the referral note. **C** is wrong: prophylaxis must continue for 24 h after delivery/last fit, since fits often recur. **D** is wrong: diazepam is inferior and there is no reason to change. **E** is wrong: 2 g IV is only for a **recurrent fit**, not a maintenance schedule.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-b-q01",
+      "stem": "A 26-year-old G2P1 at term is on oxytocin augmentation (5 IU in 500 mL, now 50 drops/min) at Mengo Hospital for slow progress at 6 cm. The midwife counts 6 contractions in 10 minutes, each lasting 70 seconds, and the fetal heart rate is 90 bpm for the last 3 minutes. What is the MOST appropriate immediate action?",
+      "options": [
+        "Reduce the infusion to 30 drops/min and reassess in 30 minutes",
+        "Perform an immediate artificial rupture of membranes",
+        "Stop the oxytocin infusion and turn her onto her left side",
+        "Give terbutaline 250 µg SC and continue the oxytocin at the same rate",
+        "Proceed directly to caesarean section without any intrauterine resuscitation"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: this is tachysystole (>5 contractions in 10 min, each >60 s) with fetal bradycardia. Oxytocin has a half-life of 3–5 minutes, so stopping it (not just slowing it) plus left lateral positioning, IV crystalloid and a senior review is the first step; tocolysis follows if it persists. A is wrong: slowing the rate leaves a hyperstimulating dose running while the fetus is compromised. B is wrong: ARM does nothing for hyperstimulation and risks cord prolapse. D is wrong: giving a tocolytic while continuing the drug causing the problem is contradictory. E is wrong: intrauterine resuscitation takes seconds and often restores the FHR; CS is for failure to recover, not the first step.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-b-q02",
+      "stem": "A 30-year-old P3 with severe pre-eclampsia (on MgSO₄) and known asthma has an atonic PPH 20 minutes after vaginal birth. She received oxytocin 10 IU IM for AMTSL, and an oxytocin infusion and tranexamic acid 1 g IV have just been started. The uterus remains boggy despite massage. BP is 158/104. Which additional uterotonic is MOST appropriate?",
+      "options": [
+        "Misoprostol 800 µg sublingually",
+        "Ergometrine 0.2 mg IV",
+        "Carboprost 250 µg deep IM",
+        "Syntometrine 1 mL IM",
+        "Heat-stable carbetocin 100 µg IV"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: misoprostol (PGE1) is safe in hypertension and does not cause bronchospasm; 800 µg SL is the PPH treatment dose. B is wrong: ergometrine is contraindicated in pre-eclampsia/hypertension (stroke, eclampsia). C is wrong: carboprost (PGF2α) causes bronchospasm and is contraindicated in asthma. D is wrong: Syntometrine contains ergometrine 0.5 mg, so the same contraindication applies. E is wrong: carbetocin is licensed and recommended for prevention only, not treatment, and adds nothing to an oxytocin receptor already being stimulated.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-b-q03",
+      "stem": "A 32-year-old G3P2 at 41 weeks 3 days has had one previous lower-segment caesarean section for fetal distress. She wants a vaginal birth. Membranes are intact, the fetus is cephalic with a normal heart rate, and her Bishop score is 3. She is at a regional referral hospital with theatre available. What is the MOST appropriate method of cervical ripening?",
+      "options": [
+        "Misoprostol 25 µg vaginally every 6 hours",
+        "Misoprostol 25 µg orally every 2 hours",
+        "Oxytocin 2.5 IU in 500 mL at 10 drops/min with intact membranes",
+        "Foley catheter balloon ripening, followed by ARM and carefully titrated oxytocin",
+        "Misoprostol 200 µg vaginally once"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: with a uterine scar, mechanical ripening with a Foley catheter (no drug, low tachysystole risk) followed by ARM and low-dose oxytocin under senior supervision is the recommended route; she must be monitored for scar pain, bleeding and FHR changes. A and B are wrong: misoprostol for third-trimester induction in a scarred uterus increases the risk of uterine rupture and is avoided (WHO, Uganda practice). C is wrong: oxytocin on an unripe cervix (Bishop 3) with intact membranes usually fails and prolongs exposure; ripen first. E is wrong: 200 µg is a mid-trimester dose, dangerous in the third trimester in any uterus and especially with a scar.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-b-q04",
+      "stem": "A primigravida is on an oxytocin infusion of 5 IU in 500 mL normal saline running at 40 drops/min through a standard giving set (20 drops/mL). The intern is asked by the consultant on the ward round what dose she is receiving. What is the correct answer?",
+      "options": [
+        "5 mIU/min",
+        "10 mIU/min",
+        "15 mIU/min",
+        "40 mIU/min",
+        "20 mIU/min"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: 5 IU in 500 mL = 5,000 mIU ÷ 500 mL = 10 mIU/mL. 40 drops/min ÷ 20 drops/mL = 2 mL/min. 10 × 2 = 20 mIU/min. A is wrong: this confuses IU in the bag with mIU/min. B is wrong: this is the concentration per mL (10 mIU/mL), not per minute, or the rate at 20 drops/min. C is wrong: 15 mIU/min would be 30 drops/min of this solution (or 60 drops/min of 2.5 IU/500 mL). D is wrong: 40 is the drop rate in drops/min, not the dose; it would be 40 mIU/min only if the bag held 20 mIU/mL (10 IU in 500 mL).",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-b-q05",
+      "stem": "A 28-year-old nulliparous woman at a private hospital in Kampala has an unruptured right tubal ectopic pregnancy (mass 22 mm, no heartbeat), minimal pain, stable vital signs and a day-1 hCG of 1,300 IU/L. She received methotrexate 50 mg/m² IM. Her hCG is 1,650 IU/L on day 4 and 1,560 IU/L on day 7. She remains well with mild pain. What is the MOST appropriate next step?",
+      "options": [
+        "Reassure her that treatment has worked and check hCG weekly",
+        "Give a second dose of methotrexate 50 mg/m² IM and repeat the hCG monitoring",
+        "Start folic acid 5 mg daily to reduce side effects",
+        "Perform immediate laparotomy for presumed rupture",
+        "Give misoprostol 800 µg vaginally to expel the ectopic"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: the fall from day 4 (1,650) to day 7 (1,560) is only about 5%, less than the 15% required; she is stable with mild pain, so a second dose of methotrexate (or surgery, depending on her choice and follow-up capacity) is indicated. A is wrong: the day 1–4 rise is expected, but success is judged by a ≥15% fall between day 4 and day 7, which has not happened. C is wrong: folic acid antagonises methotrexate and causes treatment failure; it is on the avoid list. D is wrong: she is stable with mild pain and no signs of rupture, so emergency laparotomy is not indicated now (though it would be if she deteriorated). E is wrong: misoprostol has no role in ectopic pregnancy; the pregnancy is outside the uterus.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pharm-b-q06",
+      "stem": "A 24-year-old G2P1 at 34 weeks is confirmed by two ultrasound scans to have an intrauterine fetal death. She has no uterine scar, BP 118/76, platelets and bedside clotting time are normal, and her Bishop score is 2. Mifepristone is not available. Which regimen is MOST appropriate to induce labour?",
+      "options": [
+        "Misoprostol 400 µg sublingually every 4–6 hours",
+        "Misoprostol 200 µg vaginally every 4 hours",
+        "Misoprostol 800 µg vaginally once, repeated after 3 hours",
+        "Misoprostol 25 µg vaginally every 6 hours",
+        "Oxytocin 10 IU IV bolus followed by 20 IU in 1 L at 60 drops/min"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: after 28 weeks the uterus is very sensitive to prostaglandins, so the FIGO/WHO regimen is 25 µg vaginally 6-hourly (or 25 µg orally 2-hourly), never more than 50 µg per dose. A is wrong: 400 µg is the 14–28-week dose; at 34 weeks it risks hyperstimulation and rupture. B is wrong: 200 µg is a mid-trimester dose and should never be given in the third trimester with the fetus in utero. C is wrong: 800 µg is the first-trimester missed-miscarriage dose (or PPH treatment after birth). E is wrong: that is the PPH regimen; an oxytocin bolus and high-dose infusion on an unripe cervix is ineffective and dangerous, and induction oxytocin must be low-dose and titrated.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-b-q07",
+      "stem": "A 35-year-old P5 delivers at an HC IV. Forty minutes after birth she has lost 700 mL measured on the calibrated drape; the uterus is soft. The midwife starts uterine massage and an oxytocin infusion. The HC IV has tranexamic acid in stock. What is the MOST appropriate way to use it?",
+      "options": [
+        "Give tranexamic acid only if bleeding continues after all uterotonics have failed",
+        "Give 1 g IV as a rapid push over 1 minute",
+        "Give 1 g IV over 10 minutes now, with a second 1 g if bleeding continues after 30 minutes",
+        "Wait for a bedside clotting test to show no clot at 7 minutes before giving it",
+        "Give 1 g orally 8-hourly for 5 days"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: in the WOMAN trial and E-MOTIVE bundle, TXA 1 g IV over 10 minutes is given as soon as PPH is diagnosed, within 3 hours of birth, for any cause, with a second 1 g after 30 minutes if bleeding continues. A is wrong: benefit falls about 10% with every 15-minute delay; TXA is given together with uterotonics, not after they fail. B is wrong: rapid injection causes hypotension; give it over 10 minutes (1 mL/min). D is wrong: TXA works by preventing breakdown of existing clot and should not wait for evidence of coagulopathy. E is wrong: that is the heavy menstrual bleeding style of dosing, far too slow for acute haemorrhage.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-b-q08",
+      "stem": "A 19-year-old primigravida has been on oxytocin augmentation for 14 hours at a district hospital; the oxytocin was diluted in 5% dextrose and she has received about 5 L of IV fluid. She becomes confused, vomits and has a generalised seizure. BP is 124/78 and urine protein is negative. Which investigation result would MOST support the likely cause?",
+      "options": [
+        "Serum sodium 118 mmol/L",
+        "Platelet count 60 × 10⁹/L",
+        "Random blood glucose 2.1 mmol/L",
+        "Serum magnesium 4.5 mmol/L",
+        "Haemoglobin 7.5 g/dL"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: prolonged oxytocin (which has an ADH-like antidiuretic effect) given in large volumes of 5% dextrose (free water) causes water intoxication with dilutional hyponatraemia, presenting with headache, vomiting, confusion and seizures. Management: stop the oxytocin, restrict fluids, check U&E and treat the seizure. B is wrong: thrombocytopenia suggests HELLP, but she is normotensive with no proteinuria. C is wrong: large volumes of dextrose would cause hyperglycaemia rather than hypoglycaemia. D is wrong: she has not received MgSO₄, and magnesium toxicity causes loss of reflexes and respiratory depression, not seizures. E is wrong: anaemia alone does not cause seizures and does not explain the story.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pharm-b-q09",
+      "stem": "A 29-year-old G2P1 at 9 weeks by dates is found on transvaginal scan to have an embryo with CRL 18 mm and no cardiac activity (confirmed by a second sonographer). She is not bleeding, is haemodynamically stable, and chooses medical management. The hospital stocks both mifepristone and misoprostol. Which regimen is MOST appropriate?",
+      "options": [
+        "Misoprostol 25 µg vaginally every 6 hours",
+        "Misoprostol 600 µg orally once",
+        "Oxytocin 20 IU in 1 L normal saline at 60 drops/min",
+        "Ergometrine 0.2 mg IM, then MVA if not complete",
+        "Mifepristone 200 mg orally, then misoprostol 800 µg vaginally or sublingually 1–2 days later"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: for missed miscarriage under 14 weeks, WHO 2022 prefers mifepristone 200 mg orally followed 1–2 days later by misoprostol 800 µg vaginally/sublingually/buccally, which gives higher complete evacuation than misoprostol alone. A is wrong: 25 µg is the third-trimester/term dose and is far too small at 9 weeks. B is wrong: 600 µg orally once is the regimen for incomplete miscarriage (open os, partly expelled), not a missed miscarriage with a closed cervix. C is wrong: the uterus has few oxytocin receptors before about 20 weeks, so oxytocin is ineffective. D is wrong: ergometrine is used for bleeding while awaiting evacuation, not to expel a missed miscarriage, and would not empty the uterus.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-c-q01",
+      "stem": "A 24-year-old G2P1 at 31 weeks presents to Mengo with a gush of clear fluid 6 hours ago. Sterile speculum shows pooling of liquor. Temperature 36.8°C, pulse 84, uterus non-tender, FHR 140 bpm, no contractions. Dexamethasone has been started. Which antibiotic plan is MOST appropriate?",
+      "options": [
+        "Co-amoxiclav 625 mg orally 8-hourly for 10 days",
+        "No antibiotics unless she develops fever",
+        "Erythromycin 250 mg orally 6-hourly for 10 days or until labour",
+        "Ampicillin 2 g IV 6-hourly plus gentamicin 5 mg/kg IV daily",
+        "Doxycycline 100 mg orally 12-hourly for 7 days"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: erythromycin 250 mg 6-hourly for 10 days prolongs latency and reduces chorioamnionitis and neonatal infection after PPROM (ORACLE I). A is wrong: co-amoxiclav is linked to necrotising enterocolitis in preterm babies. B is wrong: antibiotics are indicated in PPROM even without infection signs. D is wrong: ampicillin + gentamicin is for chorioamnionitis, which she does not have. E is wrong: doxycycline is a tetracycline and is avoided in pregnancy (teeth and bone).",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-c-q02",
+      "stem": "A 28-year-old P2, day 3 after an emergency caesarean section for obstructed labour at an HC IV, has a temperature of 39.0°C, pulse 116, BP 104/66, a tender uterus and foul-smelling lochia. She weighs 60 kg, urine output is good and creatinine is 62 µmol/L. Blood cultures have been taken. Which antibiotic regimen is MOST appropriate?",
+      "options": [
+        "Ampicillin 2 g IV 6-hourly + gentamicin 300 mg IV once daily + metronidazole 500 mg IV 8-hourly",
+        "Oral amoxicillin 500 mg 8-hourly + metronidazole 400 mg 8-hourly for 5 days",
+        "Ceftriaxone 1 g IV once only, then review the culture result",
+        "Ampicillin 2 g IV 6-hourly + gentamicin 80 mg IV once daily",
+        "Ciprofloxacin 400 mg IV 12-hourly + doxycycline 100 mg 12-hourly"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: post-CS endometritis/puerperal sepsis is polymicrobial and needs IV cover for Gram-positives (ampicillin), Gram-negatives (gentamicin 5 mg/kg = 300 mg once daily) and anaerobes (metronidazole). B is wrong: she is septic (fever, tachycardia), so she needs IV therapy first; oral step-down comes after 48 h afebrile. C is wrong: a single dose with no anaerobic cover is inadequate; do not wait for cultures. D is wrong: it misses anaerobes and 80 mg once daily is a gross under-dose. E is wrong: fluoroquinolones are not first line and doxycycline adds nothing for puerperal sepsis; she may also be breastfeeding.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-c-q03",
+      "stem": "A 26-year-old G3P2 at 20 weeks attends ANC. She is HIV-positive on TLD with a suppressed viral load and takes co-trimoxazole 960 mg once daily. She has not had any IPTp. What is the MOST appropriate malaria prevention?",
+      "options": [
+        "Give IPTp-SP 3 tablets today and monthly until delivery",
+        "Give IPTp-SP but stop co-trimoxazole for one week around each dose",
+        "Weekly chloroquine prophylaxis",
+        "Continue co-trimoxazole and an insecticide-treated net; no SP",
+        "Daily doxycycline 100 mg"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: co-trimoxazole itself protects against malaria, and combining it with SP (another sulfonamide/antifolate) adds no benefit and raises the risk of Stevens–Johnson syndrome and marrow toxicity. She needs an ITN. A is wrong: SP must not be given with co-trimoxazole. B is wrong: co-trimoxazole prophylaxis should not be interrupted; it protects against PCP, toxoplasmosis and bacterial infection. C is wrong: chloroquine is not used for prophylaxis in Uganda because of resistance. E is wrong: doxycycline is contraindicated in pregnancy.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-c-q04",
+      "stem": "A 22-year-old primigravida at 10 weeks is brought in confused and vomiting, temperature 39.4°C, RBS 4.8 mmol/L, Hb 8.2 g/dL. The mRDT is positive for P. falciparum. She weighs 55 kg. What is the MOST appropriate treatment?",
+      "options": [
+        "Oral artemether–lumefantrine 4 tablets at 0 and 8 h, then 12-hourly for 2 days",
+        "IV artesunate 132 mg (2.4 mg/kg) at 0, 12 and 24 h, then daily until she can take oral treatment",
+        "Oral quinine 600 mg 8-hourly + clindamycin 300 mg 8-hourly for 7 days",
+        "IV quinine 1,100 mg (20 mg/kg) as a bolus over 5 minutes",
+        "Wait until 13 weeks, then give IPTp-SP"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: confusion means severe (cerebral) malaria, and IV artesunate 2.4 mg/kg at 0, 12, 24 h then daily is the treatment of choice in ALL trimesters, followed by a full oral ACT course. A is wrong: oral AL is for uncomplicated malaria, and she is vomiting and confused. C is wrong: oral quinine + clindamycin is for uncomplicated 1st-trimester malaria. D is wrong: quinine is a second-line drug here and must never be given as a bolus; the loading dose is infused over 4 h in dextrose (risk of hypotension, arrhythmia and hypoglycaemia). E is wrong: IPTp is prevention, not treatment, and waiting would be fatal.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-c-q05",
+      "stem": "A 30-year-old G2P1 at 28 weeks has been on TLD for 4 months. Her viral load is 1,800 copies/mL. She says she never misses a dose: every morning on an empty stomach she swallows her TLD together with her ferrous sulphate–folic acid tablet and the calcium tablet she was given for pre-eclampsia prevention. What is the MOST appropriate next step?",
+      "options": [
+        "Switch to a second-line protease inhibitor regimen today",
+        "Stop the calcium and iron for the rest of the pregnancy",
+        "Stop dolutegravir because of the neural tube defect risk",
+        "Add a second daily dose of dolutegravir 50 mg",
+        "Counsel her to take TLD 2 h before (or 6 h after) iron and calcium, or all with food, and repeat the VL after enhanced adherence counselling"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: iron and calcium (polyvalent cations) chelate dolutegravir in the gut and reduce its absorption when taken together fasting. Separate them (DTG 2 h before or 6 h after) or take them together with a meal, give adherence counselling, and repeat the VL. A is wrong: one raised VL after 4 months with a clear, fixable cause is not treatment failure; switching needs repeated non-suppression after IAC. B is wrong: she still needs iron and calcium; only the timing must change. C is wrong: the NTD signal fell to the background rate, and at 28 weeks the neural tube closed long ago. D is wrong: twice-daily DTG is for women on rifampicin, not for cation interactions.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pharm-c-q06",
+      "stem": "A 19-year-old primigravida at 18 weeks has a reactive rapid syphilis test at booking. She has no symptoms and has never been treated. She is not allergic to penicillin. What is the MOST appropriate management?",
+      "options": [
+        "Erythromycin 500 mg orally 6-hourly for 14 days",
+        "Wait for an RPR titre before deciding whether to treat",
+        "Benzathine penicillin 2.4 MU IM weekly for 3 weeks, and treat her partner",
+        "Benzathine penicillin 2.4 MU IM single dose; the partner does not need treatment",
+        "Doxycycline 100 mg orally 12-hourly for 28 days"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: an asymptomatic woman with no known infection date has latent syphilis of unknown duration, treated with benzathine penicillin 2.4 MU IM weekly × 3; the partner must be treated or she will be reinfected. A is wrong: erythromycin does not reliably cross the placenta, so the fetus is not treated; it is only for true penicillin allergy. B is wrong: in pregnancy treat on the same day; do not delay for a lab result. D is wrong: a single dose is for early syphilis (<2 years), and partner treatment is essential. E is wrong: doxycycline is contraindicated in pregnancy.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-c-q07",
+      "stem": "Six hours after her first injection of benzathine penicillin for secondary syphilis, a 25-year-old at 30 weeks has a temperature of 38.4°C, myalgia, headache and irregular mild uterine tightenings. There is no rash, wheeze or angio-oedema. BP 110/70, FHR 158 bpm. What is the MOST appropriate management?",
+      "options": [
+        "Paracetamol, fluids, CTG/fetal monitoring and observation; continue the penicillin course as planned",
+        "Label her penicillin-allergic and switch to erythromycin",
+        "Give adrenaline 0.5 mg IM and hydrocortisone IV",
+        "Start nifedipine tocolysis and dexamethasone immediately",
+        "Start ampicillin and gentamicin for presumed chorioamnionitis"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: this is a Jarisch–Herxheimer reaction (fever, myalgia, contractions within 24 h of the first dose), which is self-limiting. Treat symptoms, monitor mother and fetus, and continue treatment. B is wrong: it is not an allergy; switching to erythromycin would leave the fetus untreated. C is wrong: there are no features of anaphylaxis. D is wrong: mild tightenings during a JHR usually settle; tocolysis and steroids are only considered if true preterm labour develops. E is wrong: the timing after penicillin and absence of uterine tenderness or offensive liquor make chorioamnionitis unlikely.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pharm-c-q08",
+      "stem": "A 27-year-old P1, blood group O RhD-negative, has just had a normal delivery at Mengo. Her indirect Coombs test at 28 weeks was negative. The cord blood group is A RhD-positive. She received no anti-D during pregnancy. What is the MOST appropriate action?",
+      "options": [
+        "No action, because ABO incompatibility protects her",
+        "Give anti-D 1,500 IU IM to the baby",
+        "Wait until the next pregnancy and give anti-D at 28 weeks",
+        "Give anti-D immunoglobulin 1,500 IU (300 mcg) IM to the mother within 72 hours",
+        "Give anti-D only if she plans more children and has a positive Kleihauer test"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: a non-sensitised RhD-negative mother of an RhD-positive baby needs anti-D within 72 h of delivery; in Uganda the usual vial is 1,500 IU (300 mcg) IM. A is wrong: ABO incompatibility gives only partial protection; it is not a reason to withhold anti-D. B is wrong: anti-D is never given to the baby. C is wrong: sensitisation happens at this delivery, so waiting is too late. E is wrong: every non-sensitised woman should receive it (future plans can change), and the Kleihauer test guides extra doses rather than the decision to give the standard dose.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-c-q09",
+      "stem": "A 23-year-old G1 at 24 weeks complains of intense vulval itching and a thick white curd-like discharge without odour. Vaginal pH is 4.2 and the wet mount shows hyphae. What is the MOST appropriate treatment?",
+      "options": [
+        "Fluconazole 150 mg orally, repeated weekly until delivery",
+        "Clotrimazole 100 mg vaginal pessary nightly for 7 days",
+        "Metronidazole 2 g orally as a single dose",
+        "Doxycycline 100 mg 12-hourly for 7 days",
+        "No treatment, because candidiasis is normal in pregnancy"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: vulvovaginal candidiasis in pregnancy is treated with a topical azole, and a longer 7-day course of clotrimazole works better in pregnancy. A is wrong: oral fluconazole is avoided in pregnancy (high-dose or prolonged use is linked to craniofacial and cardiac defects, and even single doses have a miscarriage signal). C is wrong: metronidazole treats BV and trichomoniasis, not Candida. D is wrong: doxycycline is contraindicated in pregnancy and does not treat fungi. E is wrong: although candidiasis is common in pregnancy, symptomatic infection should be treated.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-d-q01",
+      "stem": "A 28-year-old P2 living with HIV, on TLD, has just started rifampicin-based treatment for pulmonary TB at a Kampala HC IV. She has been using the combined pill and wants to avoid pregnancy. Which contraceptive advice is MOST appropriate?",
+      "options": [
+        "Continue her 30 mcg combined pill; rifampicin does not affect it",
+        "Insert a Jadelle implant today",
+        "Give DMPA 150 mg IM every 12 weeks (or offer a copper IUD)",
+        "Switch to a levonorgestrel progestogen-only pill",
+        "Double her combined pill to two tablets daily"
+      ],
+      "answer": 2,
+      "explanation": "C is right: rifampicin is a potent CYP3A4 inducer. DMPA (high dose, parenteral) and IUDs are WHO MEC 1 with rifampicin; she should keep using it for 28 days after TB treatment ends. A is wrong: rifampicin makes the COC unreliable (MEC 3); dolutegravir itself does not interact, but rifampicin does. B is wrong: implant levels also fall with rifampicin (MEC 3). D is wrong: the POP is the most vulnerable to enzyme induction. E is wrong: doubling the pill is not a recommended strategy and still leaves her at risk; choose an unaffected method.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-d-q02",
+      "stem": "During repair of a second-degree tear, an intern has infiltrated 25 mL of 2% lignocaine into a 55 kg woman. She says her lips are tingling and she has a metallic taste; one minute later she has a generalised tonic-clonic seizure. Pulse 110, BP 150/90. What is the MOST appropriate immediate management?",
+      "options": [
+        "Stop injecting, call for help, give 100% oxygen and support the airway, and give IV diazepam",
+        "Give a magnesium sulphate loading dose for eclampsia",
+        "Finish the repair quickly so that she can be positioned",
+        "Give naloxone 0.4 mg IV",
+        "Give lignocaine 1 mg/kg IV to prevent ventricular arrhythmias"
+      ],
+      "answer": 0,
+      "explanation": "A is right: this is local anaesthetic systemic toxicity (500 mg = about 9 mg/kg, three times the 3 mg/kg plain maximum). Stop the drug, call for help, secure the airway with oxygen (hypoxia and acidosis worsen toxicity) and stop the seizure with a benzodiazepine; give 20% lipid emulsion if there is cardiovascular instability or arrest. B is wrong: she has just delivered and had no hypertension or proteinuria; the timing with the injection and the prodrome point to LAST (eclampsia is a differential to exclude, not the first treatment). C is wrong: continuing wastes time and may add more drug. D is wrong: naloxone reverses opioids, not local anaesthetics. E is wrong: giving more lignocaine worsens toxicity; amiodarone is used for arrhythmias in LAST.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pharm-d-q03",
+      "stem": "A 36-year-old P4 who smokes 20 cigarettes a day and has migraine with visual aura asks for contraception. BP 132/84. She does not want more children for now but is unsure about sterilisation. Which method is MOST suitable?",
+      "options": [
+        "Combined oral contraceptive pill",
+        "Combined contraceptive patch",
+        "Combined vaginal ring",
+        "Combined pill taken continuously without breaks",
+        "Copper IUD or LNG-IUS"
+      ],
+      "answer": 4,
+      "explanation": "E is right: an IUD (copper or LNG-IUS) is MEC 1–2 for smokers and for migraine with aura, is long-acting and reversible. A, B, C and D are all combined (oestrogen-containing) methods: migraine with aura is MEC 4 at any age, and age ≥35 with ≥15 cigarettes/day is also MEC 4, because of the risk of ischaemic stroke and MI. The route (patch, ring) or continuous use does not remove the oestrogen risk.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-d-q04",
+      "stem": "A term baby is born at Mengo Hospital 2.5 hours after the mother received pethidine 100 mg IM. The baby is floppy and not breathing after drying and stimulation. The heart rate is 90/min. What is the NEXT step?",
+      "options": [
+        "Give naloxone 0.1 mg/kg IM immediately",
+        "Start bag-and-mask ventilation with room air",
+        "Give naloxone to the mother",
+        "Start chest compressions",
+        "Give IV dextrose 10% 2 mL/kg"
+      ],
+      "answer": 1,
+      "explanation": "B is right: per Helping Babies Breathe, a baby who is not breathing after drying and clearing the airway needs ventilation within the Golden Minute; most babies respond, including after pethidine. A is wrong as the next step: naloxone is only an adjunct once ventilation is effective, and it is dangerous if the mother is opioid-dependent. C is wrong: treating the mother now does not help the born baby. D is wrong: compressions start only if HR is below 60/min despite 30 s of effective ventilation. E is wrong: hypoglycaemia is not the cause of apnoea here, and airway/breathing come first.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-d-q05",
+      "stem": "A 24-year-old G2P1 at 10 weeks has vomited for 3 weeks. She is dehydrated, drowsy and confused, with horizontal nystagmus and an unsteady gait. Urine ketones 3+. Before you start IV fluids containing dextrose, which drug MUST be given?",
+      "options": [
+        "Metoclopramide 10 mg IV",
+        "Ondansetron 8 mg IV",
+        "Hydrocortisone 100 mg IV",
+        "Thiamine IV",
+        "Potassium chloride 40 mmol IV bolus"
+      ],
+      "answer": 3,
+      "explanation": "D is right: confusion, nystagmus/ophthalmoplegia and ataxia in hyperemesis suggest Wernicke's encephalopathy. Thiamine must be given before any dextrose, which can use up the last thiamine and worsen it. A and B are useful anti-emetics but do not treat or prevent Wernicke's. C: steroids are a third-line option for refractory hyperemesis, not for this emergency. E is wrong and dangerous: potassium is added to the infusion according to U&E, never given as an IV bolus.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-d-q06",
+      "stem": "A 30-year-old at 38 weeks, on enoxaparin 40 mg SC daily for a previous DVT, took her dose 6 hours ago. She now needs a caesarean for breech presentation in early labour; mother and baby are stable (Category 3). What is the BEST plan for anaesthesia?",
+      "options": [
+        "Proceed now with a spinal, since prophylactic LMWH is safe at any time",
+        "Give protamine to fully reverse the enoxaparin, then spinal",
+        "Wait until at least 12 hours after the last dose, then spinal, if mother and baby remain stable",
+        "Proceed with general anaesthesia now as the routine choice",
+        "Check the APTT and proceed with a spinal if it is normal"
+      ],
+      "answer": 2,
+      "explanation": "C is right: a spinal is usually delayed until at least 12 h after a prophylactic LMWH dose (24 h after a treatment dose) because of the risk of spinal haematoma. In a stable Category 3 case, waiting is safer than GA. If the situation became urgent, a senior would weigh GA against the risk. A is wrong: the 12-hour rule applies. B is wrong: protamine only partly reverses LMWH and is not a routine way to allow a spinal. D is wrong: GA carries aspiration and airway risks and is not the routine choice in a stable woman. E is wrong: the APTT does not reflect LMWH (anti-Xa) activity.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pharm-d-q07",
+      "stem": "A newborn has a flat, hypoplastic nose, and X-rays show stippled epiphyses. The mother has a mechanical mitral valve and continued her anticoagulant throughout the first trimester. Which drug is MOST likely responsible?",
+      "options": [
+        "Warfarin",
+        "Enoxaparin",
+        "Unfractionated heparin",
+        "Aspirin",
+        "Phenytoin"
+      ],
+      "answer": 0,
+      "explanation": "A is right: warfarin embryopathy (nasal hypoplasia, stippled epiphyses) follows exposure at 6–12 weeks. B and C are wrong: heparins are large molecules that do not cross the placenta, which is why they are preferred in pregnancy. D is wrong: low-dose aspirin is not teratogenic. E is wrong: phenytoin causes fetal hydantoin syndrome (craniofacial features and hypoplastic nails/distal phalanges), and she was taking an anticoagulant.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pharm-d-q08",
+      "stem": "A 26-year-old with juvenile myoclonic epilepsy, well controlled on sodium valproate for 8 years, tells you she and her husband want to start trying for a baby. She is on no contraception. What is the MOST appropriate advice?",
+      "options": [
+        "Stop valproate today and start trying to conceive",
+        "Continue valproate and take folic acid 400 mcg daily",
+        "Continue valproate but avoid pregnancy until she is 30",
+        "Double the valproate dose because levels fall in pregnancy",
+        "Use contraception meanwhile, start folic acid 5 mg daily, and refer to a neurologist to switch to lamotrigine or levetiracetam before conceiving"
+      ],
+      "answer": 4,
+      "explanation": "E is right: valproate carries about a 10% risk of major malformation (including NTDs) and a 30–40% risk of neurodevelopmental problems, so it should be switched before conception under specialist care, with high-dose folic acid (5 mg) and effective contraception in the meantime. A is wrong: stopping abruptly risks status epilepticus and SUDEP. B is wrong: folic acid 400 mcg does not remove the valproate risk, and women on AEDs need 5 mg. C is wrong: delaying does not solve the problem; switching does. D is wrong: raising the valproate dose increases teratogenic risk (the dose-rising drug in pregnancy is lamotrigine).",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pharm-d-q09",
+      "stem": "A 29-year-old G3P2 at 32 weeks presents with musculoskeletal low back pain after carrying water. She asks for the diclofenac her neighbour uses. There are no red flags. What is the BEST analgesic plan?",
+      "options": [
+        "Diclofenac 50 mg orally 8-hourly for 5 days",
+        "Paracetamol 1 g orally 6-hourly (max 4 g/day), with physiotherapy advice",
+        "Ibuprofen 400 mg orally 8-hourly, as it is safer than diclofenac",
+        "Codeine 60 mg 6-hourly for 2 weeks",
+        "Pethidine 100 mg IM"
+      ],
+      "answer": 1,
+      "explanation": "B is right: paracetamol is the analgesic of choice at any gestation. A and C are wrong: all NSAIDs are avoided after 20 weeks (fetal renal impairment and oligohydramnios) and contraindicated after 30 weeks (premature closure of the ductus arteriosus); ibuprofen is no safer here. D is wrong: regular opioids for weeks risk dependence, constipation and neonatal withdrawal; they are not first line for simple back pain. E is wrong: a parenteral opioid is excessive for mechanical back pain and is not a take-home plan.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "pharm-a-c01",
+      "title": "Eclampsia on MgSO₄: the reflexes disappear",
+      "presentation": "A 19-year-old primigravida at 37 weeks is brought to Mengo Hospital after a generalised fit at home. BP 176/118, pulse 104, RR 20, SpO₂ 96%. Urine protein 3+. She is post-ictal but breathing. The HC III gave nothing. She weighs 62 kg.",
+      "steps": [
+        {
+          "prompt": "What are your immediate actions and which MgSO₄ regimen will you use?",
+          "answer": "Call for help; left lateral position, airway, suction, **oxygen**; IV access (bloods: FBC, creatinine, LFT, grouping, bedside clotting test, glucose, mRDT). **Pritchard loading dose**: **4 g of 20% IV over 5–10 min** (8 mL of 50% + 12 mL water) **plus 10 g of 50% IM** (5 g in each buttock with 1 mL 2% lignocaine). Draw up **calcium gluconate 10% 10 mL** at the bedside. Insert a **Foley catheter** with hourly urine measurement."
+        },
+        {
+          "prompt": "Her BP remains 174/116 after the loading dose. What do you give?",
+          "answer": "MgSO₄ is not an antihypertensive. Once she can swallow safely: **nifedipine IR 10 mg orally** (swallowed), or while drowsy **hydralazine 5 mg IV slowly** (20 mg diluted to 20 mL, 5 mL over 2–5 min), repeating every 20–30 min to a max of 20 mg. Target **140–150/90–100**; avoid a precipitous fall (fetal distress). Monitor FHR. Plan delivery once stable."
+        },
+        {
+          "prompt": "She delivers by caesarean section. At 02:00 (before the 4-hourly IM dose) she is drowsy, RR 11/min, SpO₂ 91%, patellar reflexes absent, urine 15 mL/h for 3 hours. Interpret and act.",
+          "answer": "**Magnesium toxicity** from **oliguria** (renal excretion). **Withhold** the dose; call the senior and anaesthetist; ABC, **oxygen**, bag-mask ventilation if RR keeps falling; **calcium gluconate 10%, 10 mL (1 g) IV slowly over 10 min**. Continuous SpO₂ and ECG if available. (She had a spinal? then test biceps reflex; general anaesthetic relaxants would also be potentiated.)"
+        },
+        {
+          "prompt": "What investigations and cause-finding do you do?",
+          "answer": "**Serum Mg²⁺** if available (loss of reflexes ≈ 4–5 mmol/L; respiratory depression ≈ 6–7.5 mmol/L), **creatinine, urea, potassium**, FBC and LFT (HELLP), fluid-balance chart review (hidden bleeding, over-restriction or overload), and a **chart review for dosing errors** (double loading at referral, mL/g confusion, 50% given IV)."
+        },
+        {
+          "prompt": "Thirty minutes later RR is 18, SpO₂ 97%, and reflexes have returned. Urine is still 20 mL/h. When and how do you restart MgSO₄?",
+          "answer": "She still needs prophylaxis for **24 h after delivery**. Restart only when **reflexes present, RR ≥16 and urine ≥30 mL/h**; with persisting oliguria, give a **reduced dose** (e.g. 0.5 g/h by infusion, or delay/halve the IM dose per unit protocol, senior decision) with **hourly R-R-U checks**. Restrict fluids to ~80 mL/h; avoid big boluses; consider renal review if creatinine keeps rising."
+        },
+        {
+          "prompt": "What postpartum drug plan and counselling does she need before discharge?",
+          "answer": "Continue antihypertensives (**nifedipine MR 20 mg 12-hourly** or amlodipine/enalapril; not methyldopa long term postpartum), BP 4-hourly for ≥3 days, repeat bloods at 24–48 h, oxytocin not ergometrine, BP review within 1 week. Counsel: recurrence risk, **aspirin 75–150 mg from 12 weeks** and **calcium** in the next pregnancy, lifelong cardiovascular risk, and contraception without oestrogen while hypertensive."
+        }
+      ],
+      "takeaway": "Magnesium is excreted by the kidneys: oliguria turns a therapeutic dose into a toxic one. Check R-R-U before every dose, keep calcium gluconate 1 g at the bedside, and remember the ladder: reflexes go first, then breathing, then the heart."
+    },
+    {
+      "id": "pharm-b-c01",
+      "title": "Augmentation that went too fast",
+      "presentation": "Mrs K, a 34-year-old para 5+0 at 39 weeks, is admitted to Mengo Hospital labour ward in active labour. At 7 cm her progress stalls for 3 hours with 2 weak contractions in 10 minutes; membranes ruptured spontaneously with clear liquor. The night intern starts oxytocin 5 IU in 500 mL of 5% dextrose at 20 drops/min and increases it by 20 drops/min every 15 minutes. One hour later she has 6 contractions in 10 minutes, each lasting about 70 seconds, she is distressed with pain between contractions, and the fetal heart rate is 95 bpm with late decelerations.",
+      "steps": [
+        {
+          "prompt": "Before looking at the fetal heart, what was wrong with the decision to augment and the regimen used?",
+          "answer": "- **Grand multipara (para 5)**: slow progress is **obstruction until proven otherwise**; she needed a senior review for CPD (moulding, caput, descent, Bandl's ring, haematuria) before any oxytocin.\n- **Starting dose too high and escalation too fast**: WHO MCPC starts **2.5 IU in 500 mL at 10 drops/min** and increases by **10 drops/min every 30 min** (oxytocin takes ~30 min to reach steady state).\n- **5% dextrose** as diluent risks **water intoxication**; use NS or RL.\n- Oxytocin in a grand multip should be used only with great caution and close one-to-one monitoring."
+        },
+        {
+          "prompt": "What is happening now, and what do you do in the next 2 minutes?",
+          "answer": "**Uterine tachysystole (hyperstimulation) with fetal distress.**\n1. **Stop the oxytocin immediately** (half-life 3–5 min).\n2. **Left lateral position.**\n3. **IV crystalloid** (Ringer's lactate), oxygen per protocol.\n4. **Call the senior/obstetrician**; continuous FHR auscultation.\n5. Vaginal exam: exclude cord prolapse, check dilatation and for signs of obstruction.\n6. Watch for **rupture**: pain between contractions, scar-like tenderness, contractions suddenly stopping, bleeding, maternal tachycardia."
+        },
+        {
+          "prompt": "Ten minutes later the contractions are still 5–6 in 10 minutes and the FHR is 100 bpm. What drug can help, and at what dose?",
+          "answer": "**Acute tocolysis**: **terbutaline 250 µg (0.25 mg) SC** (or IV slowly over 5 min), or **salbutamol 10 mg in 1 L IV fluid at 10 drops/min** (WHO MCPC). Watch for maternal tachycardia and palpitations. Meanwhile **prepare for delivery**: if the FHR does not recover, she needs a **category 1 caesarean section** (she is not fully dilated)."
+        },
+        {
+          "prompt": "The FHR recovers to 140 bpm with relaxation between contractions. Review finds moulding 1+ and no caput; the head is 2/5 palpable. The senior decides to restart oxytocin. How should it be done? Calculate the starting dose in mIU/min.",
+          "answer": "- Restart only after senior review, at the **lowest dose**: **2.5 IU in 500 mL NS/RL at 10 drops/min**, increasing by **10 drops/min every 30 min** to a max of 60 drops/min; for a multipara, **do not go to a stronger solution**: failure means CS.\n- Dose: 2,500 mIU ÷ 500 mL = **5 mIU/mL**; 10 drops/min ÷ 20 = **0.5 mL/min**; 5 × 0.5 = **2.5 mIU/min**.\n- **One-to-one care**: contractions and FHR every 15–30 min, recorded on the partograph with IU/L and drops/min."
+        },
+        {
+          "prompt": "She delivers a 3.9 kg baby vaginally 3 hours later. What is her PPH risk and what prevention do you give?",
+          "answer": "**High risk of atonic PPH**: grand multipara, large baby, **prolonged oxytocin exposure** (receptor desensitisation), long labour. Give **AMTSL: oxytocin 10 IU IM within 1 minute**, CCT, check tone every 15 min for 2 h, and **continue an oxytocin infusion** (e.g. 20 IU in 1 L) for a few hours. Have **misoprostol 800 µg SL** and **TXA 1 g IV** ready, and a calibrated drape in place."
+        },
+        {
+          "prompt": "Thirty minutes later she has lost 600 mL and her uterus is boggy. Her BP is 150/100 with 2+ protein (previously unrecognised pre-eclampsia). Which drugs do you give and which do you avoid?",
+          "answer": "Start the **E-MOTIVE bundle together**: massage, **oxytocin 10 IU IV slowly + infusion**, **TXA 1 g IV over 10 min** (within 3 h of birth), IV fluids, examine the genital tract and placenta, escalate. Add **misoprostol 800 µg SL**. **Avoid ergometrine and Syntometrine** (hypertension/pre-eclampsia: stroke, eclampsia). Carboprost only if available and she is **not asthmatic**. Also treat the pre-eclampsia (**MgSO₄**, antihypertensive if ≥160/110)."
+        }
+      ],
+      "takeaway": "Oxytocin is life-saving after birth but dangerous before it: in a grand multipara, exclude obstruction first, start low (2.5 mIU/min), go slow (every 30 min), count every contraction, and at the first sign of tachysystole stop the drip, turn her left lateral and consider terbutaline. Afterwards, expect atonic PPH, and always check the BP before ergometrine."
+    },
+    {
+      "id": "pharm-c-c01",
+      "title": "Fever after caesarean section: choosing and dosing antibiotics",
+      "presentation": "Mrs A., a 26-year-old P2 weighing 62 kg, is on day 4 after an emergency caesarean section at an HC IV for obstructed labour after 20 hours of labour with membranes ruptured for 16 hours. She received ceftriaxone 1 g IV at the start of the operation. Today she has a temperature of 38.9°C, pulse 118/min, BP 96/60 mmHg, RR 24/min, a tender bulky uterus, offensive lochia and a slightly red wound. She is breastfeeding. She has no known drug allergies. She is referred to Mengo Hospital.",
+      "steps": [
+        {
+          "prompt": "What are your immediate priorities in the first hour?",
+          "answer": "Recognise **maternal sepsis** (fever, tachycardia, borderline BP, RR ≥22). **ABC**, oxygen if SpO₂ <94%, two large-bore cannulae, **blood cultures** (and wound swab, high vaginal swab), FBC, creatinine, lactate if available, **mRDT/smear**, RBS, group and cross-match. **Fluid bolus 500 mL Ringer's lactate** and reassess. **Catheterise for hourly urine output.** Start **IV antibiotics within 1 hour**. Call a senior."
+        },
+        {
+          "prompt": "Which antibiotics would you start, and why this combination?",
+          "answer": "**Ampicillin 2 g IV 6-hourly + gentamicin 5 mg/kg IV once daily + metronidazole 500 mg IV 8-hourly.** Post-CS endometritis is **polymicrobial**: ampicillin covers streptococci and many Gram-positives, gentamicin covers Gram-negatives (*E. coli*), metronidazole covers anaerobes (*Bacteroides*). An acceptable alternative is ceftriaxone 1–2 g IV daily + metronidazole 500 mg IV 8-hourly."
+        },
+        {
+          "prompt": "Calculate her gentamicin dose. The ward has 80 mg/2 mL ampoules. How do you give it, and why not 80 mg 8-hourly?",
+          "answer": "**5 mg/kg × 62 kg = 310 mg**, rounded to **320 mg (4 ampoules = 8 mL) IV over 3–5 min once daily** (300 mg is also acceptable). Once-daily dosing gives a high peak (concentration-dependent killing), a post-antibiotic effect and **less nephrotoxicity**. **80 mg 8-hourly = 240 mg/day**, an under-dose for her weight. Gentamicin is compatible with breastfeeding."
+        },
+        {
+          "prompt": "On day 2 of treatment her creatinine has risen from 68 to 118 µmol/L and urine output is 20 mL/h. What do you do with the antibiotics?",
+          "answer": "This is **acute kidney injury** in sepsis. **Stop gentamicin** (nephrotoxic and ototoxic, and it accumulates when the kidneys fail) and switch Gram-negative cover to **ceftriaxone 1–2 g IV daily**, continuing **metronidazole** (ampicillin can continue or be dropped once ceftriaxone is running). Optimise fluids with careful balance, avoid NSAIDs, check creatinine and electrolytes daily, and review drug doses."
+        },
+        {
+          "prompt": "After 72 hours she is still febrile. What are you looking for?",
+          "answer": "**Antibiotics do not replace source control.** Look for: **retained products or pelvic abscess / infected haematoma** (ultrasound), **wound infection or collection** (open and drain), **uterine necrosis** or dehiscence with peritonitis (laparotomy, possibly hysterectomy), **mastitis**, **DVT/septic pelvic thrombophlebitis**, **malaria**, UTI/pyelonephritis, chest infection, and **resistant organisms** (review culture results; ESBL → escalate per microbiology, e.g. meropenem at referral level)."
+        },
+        {
+          "prompt": "She improves and is afebrile for 48 hours. How do you complete treatment, and what do you tell her about breastfeeding?",
+          "answer": "Switch to oral therapy, e.g. **amoxicillin 500 mg 8-hourly (or amoxicillin–clavulanate 625 mg 8-hourly) + metronidazole 400 mg 8-hourly** to complete about **7 days** in total (longer for an abscess). **Continue breastfeeding**: penicillins, cephalosporins, gentamicin and standard-dose metronidazole are all compatible. Advise hygiene, danger signs (fever, offensive lochia, wound pus), and review in clinic."
+        }
+      ],
+      "takeaway": "Puerperal sepsis needs the triple regimen (ampicillin + gentamicin 5 mg/kg once daily + metronidazole) within 1 hour, calculated by weight, with daily creatinine and urine output: stop gentamicin at the first sign of AKI and switch to ceftriaxone. If fever persists at 48–72 h, look for the source rather than just changing the antibiotic."
+    },
+    {
+      "id": "pharm-d-c01",
+      "title": "Seizure during a perineal repair: local anaesthetic toxicity",
+      "presentation": "At 02:00 on the Mengo labour ward, a 21-year-old primipara weighing **50 kg** has just had a spontaneous vaginal delivery with a second-degree tear. A junior clerk, unable to find 1% lignocaine, uses a 20 mL vial of **2% lignocaine**, and a colleague had already given 5 mL of 1% for the episiotomy. Midway through the repair the woman says her mouth feels numb, she has ringing in her ears and a 'metal' taste. Blood loss was about 300 mL; BP was 118/72 an hour ago with no proteinuria.",
+      "steps": [
+        {
+          "prompt": "What is the likely diagnosis, and how much lignocaine has she received relative to the safe maximum?",
+          "answer": "**Local anaesthetic systemic toxicity (LAST)**. Dose given: 20 mL × 20 mg/mL = **400 mg** + 5 mL × 10 mg/mL = **50 mg** = **450 mg (9 mg/kg)**. The maximum for plain lignocaine is **3 mg/kg = 150 mg** (15 mL of 1%). She has had **three times** the maximum. Early CNS symptoms (circumoral numbness, tinnitus, metallic taste) come before seizures and cardiac toxicity."
+        },
+        {
+          "prompt": "What do you do in the first minute?",
+          "answer": "1. **Stop injecting** immediately.\n2. **Shout for help** (midwife, doctor on call, anaesthetist); bring the resuscitation trolley.\n3. **Airway and oxygen**: 100% O₂ by face mask, suction ready, recovery position if drowsy.\n4. **IV access** (two cannulas), attach pulse oximeter, BP and ECG if available.\n5. Tell the team the total dose given and ask someone to fetch **20% lipid emulsion** (theatre)."
+        },
+        {
+          "prompt": "She now has a generalised tonic-clonic seizure. How do you manage it, and what differential must you consider?",
+          "answer": "Protect her from injury, support the airway, oxygen, and give **diazepam 10 mg IV slowly** (or midazolam; rectal diazepam 20 mg if no IV). Check a capillary glucose. **Differential**: **postpartum eclampsia** (check BP and urine protein; if hypertensive or proteinuric give **MgSO₄**), hypoglycaemia, epilepsy, amniotic fluid embolism. Here the timing with a large local anaesthetic dose and the prodrome make LAST most likely."
+        },
+        {
+          "prompt": "Her pulse falls to 40/min and BP is 70/40, then she becomes pulseless with a broad-complex rhythm. What now? Calculate the lipid doses.",
+          "answer": "**Start CPR** (ACLS); ventilate with oxygen. Give **20% lipid emulsion**: **bolus 1.5 mL/kg = 75 mL over 1 min**, then **infusion 15 mL/kg/h = 750 mL/h**. If still unstable after 5 min, **repeat the bolus (maximum twice more)** and **double the infusion to 30 mL/kg/h (1,500 mL/h)**. **Maximum cumulative dose 12 mL/kg = 600 mL**. Use **small adrenaline doses (≤1 mcg/kg)**, and **amiodarone, not lignocaine**, for arrhythmias. **Continue CPR for a long time** (at least 60 min): recovery can be slow."
+        },
+        {
+          "prompt": "She recovers after the lipid. What is her aftercare?",
+          "answer": "Transfer to a **high-dependency** bed with continuous monitoring (ECG, SpO₂, BP) for at least **12 h** (cardiac toxicity can recur). Check glucose, electrolytes and, after lipid, **amylase** (pancreatitis). Complete the repair later under a proper block or anaesthesia with a correctly calculated dose. Watch for PPH (she has been stressed and immobile). Keep the baby with her when safe and support breastfeeding. **Debrief** her and her family honestly."
+        },
+        {
+          "prompt": "How could this have been prevented, and what system changes would you suggest?",
+          "answer": "- **Calculate the maximum dose before starting** (3 mg/kg plain; 50 kg → 150 mg = **15 mL of 1%** or **7.5 mL of 2%**) and **add every dose** given by anyone.\n- If only 2% is available, **dilute it** to 1% with sterile saline, or use half the volume.\n- **Aspirate before each injection** and inject slowly in small aliquots.\n- Supervision of junior staff; stock **1% lignocaine** in delivery packs.\n- Keep **lipid emulsion** where local anaesthetics are used (labour ward, theatre) and train staff.\n- **Report** the incident through the hospital's quality/safety system (a learning, no-blame review)."
+        }
+      ],
+      "takeaway": "Lignocaine 1% = 10 mg/mL and 2% = 20 mg/mL; the plain maximum is **3 mg/kg**. Calculate before you inject, aspirate, and recognise LAST early (numb lips, metallic taste, tinnitus). Manage it with stop, call, oxygen, benzodiazepine for seizures, CPR and **20% lipid 1.5 mL/kg then 15 mL/kg/h**."
+    }
+  ],
+  "references": [
+    {
+      "title": "Uganda Clinical Guidelines 2023",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf"
+    },
+    {
+      "title": "WHO recommendations on antenatal corticosteroids for improving preterm birth outcomes",
+      "source": "World Health Organization",
+      "year": 2022,
+      "url": "https://www.who.int/publications/i/item/9789240057296"
+    },
+    {
+      "title": "Hypertension in pregnancy: diagnosis and management (NG133)",
+      "source": "NICE",
+      "year": 2019,
+      "url": "https://www.nice.org.uk/guidance/ng133"
+    },
+    {
+      "title": "Effect of early tranexamic acid administration on mortality, hysterectomy, and other morbidities in women with post-partum haemorrhage (WOMAN): an international, randomised, double-blind, placebo-controlled trial",
+      "source": "The Lancet (WOMAN Trial Collaborators)",
+      "year": 2017,
+      "url": "https://doi.org/10.1016/S0140-6736(17)30638-4"
+    },
+    {
+      "title": "Abortion care guideline",
+      "source": "World Health Organization",
+      "year": 2022,
+      "url": "https://www.who.int/publications/i/item/9789240039483"
+    },
+    {
+      "title": "Heat-stable carbetocin versus oxytocin to prevent hemorrhage after vaginal birth (CHAMPION trial)",
+      "source": "New England Journal of Medicine",
+      "year": 2018,
+      "url": "https://doi.org/10.1056/NEJMoa1805489"
+    },
+    {
+      "title": "WHO Guidelines for malaria",
+      "source": "World Health Organization",
+      "year": 2023,
+      "url": "https://www.who.int/publications/i/item/guidelines-for-malaria"
+    },
+    {
+      "title": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "source": "World Health Organization",
+      "year": 2016,
+      "url": "https://www.who.int/publications/i/item/9789241549912"
+    },
+    {
+      "title": "Medical eligibility criteria for contraceptive use, 5th edition",
+      "source": "World Health Organization",
+      "year": 2015,
+      "url": "https://www.who.int/publications/i/item/9789241549158"
+    },
+    {
+      "title": "Drugs and Lactation Database (LactMed)",
+      "source": "National Library of Medicine (NCBI Bookshelf)",
+      "year": 2006,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+    },
+    {
+      "title": "Reducing the Risk of Venous Thromboembolism during Pregnancy and the Puerperium (Green-top Guideline No. 37a)",
+      "source": "Royal College of Obstetricians and Gynaecologists",
+      "year": 2015,
+      "url": "https://www.rcog.org.uk/media/qejfhcaj/gtg-37a.pdf"
+    }
+  ]
+}
