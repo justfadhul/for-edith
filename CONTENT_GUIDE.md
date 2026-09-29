@@ -195,3 +195,11 @@ Rules:
   examination findings, then differentials, then investigations, then management,
   then complications or follow-up. That rhythm builds acumen.
 - JSON must be valid: escape double quotes inside strings and write no trailing commas.
+
+## Downloadable PDFs
+
+Each topic (and the quick reference) has a PDF in `public/pdf/`: the notes, then the
+flashcards, the MCQs with an answer key, the cases and the references. They are
+generated, not written by hand. After changing any content, run `npm run pdf` (it
+rebuilds only what changed; add `--force` to rebuild everything) and commit
+`public/pdf/`. `npm run validate` fails if a PDF is out of date.

@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Download } from "lucide-react";
 import { loadQuickReference } from "@/lib/content";
 import { Markdown } from "@/components/markdown";
 import { PageHeader } from "@/components/ui";
@@ -19,6 +20,11 @@ export default function QuickReferencePage() {
     <>
       <PageHeader eyebrow="Ward cheat-sheet" title={qr.title}>
         {qr.summary}
+        <div className="mt-4">
+          <a href="/pdf/quick-reference.pdf" download="For Edith - Quick reference.pdf" className="btn btn-outline !min-h-9 !py-1.5 text-[13px]">
+            <Download size={15} /> Download PDF
+          </a>
+        </div>
       </PageHeader>
       <div className="lg:grid lg:grid-cols-[minmax(0,1fr)_16rem] lg:gap-10">
         <Markdown headingIds className="min-w-0">

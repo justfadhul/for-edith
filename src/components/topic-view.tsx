@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import clsx from "clsx";
-import { Bookmark, BookOpen, Check, ExternalLink, Layers, ListChecks, NotebookPen, Stethoscope, Library, List } from "lucide-react";
+import { Bookmark, BookOpen, Check, Download, ExternalLink, Layers, ListChecks, NotebookPen, Stethoscope, Library, List } from "lucide-react";
 import { topicPrep, type TopicCounts } from "@/lib/prep";
 import { addDays, formatDay, rotationInfo } from "@/lib/dates";
 import { effectiveSessions } from "@/lib/schedule";
@@ -20,12 +20,20 @@ const STATUSES: { v: TopicStatus; label: string }[] = [
 ];
 
 /** Save + Mark as done, shown in the record header. */
-export function TopicHeaderActions({ slug }: { slug: string }) {
+export function TopicHeaderActions({ slug, title }: { slug: string; title: string }) {
   const { state, setTopicStatus, toggleBookmark } = useStudy();
   const t = state.topics[slug];
   const done = t?.status === "done";
   return (
     <div className="flex items-center gap-2">
+      <a
+        href={`/pdf/${slug}.pdf`}
+        download={`For Edith - ${title}.pdf`}
+        className="btn btn-outline !min-h-9 !py-1.5 text-[13px]"
+        title="Download notes, flashcards, questions and cases as a PDF"
+      >
+        <Download size={15} /> PDF
+      </a>
       <button
         onClick={() => toggleBookmark(slug)}
         className={clsx("btn btn-outline !min-h-9 !py-1.5 text-[13px]", t?.bookmarked && "!border-brand-line !text-brand-text")}

@@ -5,6 +5,8 @@ import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
 import { studySchema, frontmatterSchema } from "../src/lib/content-schema.mjs";
+import { topicHash, quickRefHash, readManifest } from "./pdf/hash.mjs";
+import { TOPICS } from "../src/content/curriculum.ts";
 
 const root = path.resolve(import.meta.dirname, "..");
 const curriculum = fs.readFileSync(path.join(root, "src/content/curriculum.ts"), "utf8");
@@ -99,6 +101,14 @@ for (const slug of slugs) {
     }
   }
 }
+
+// Downloadable PDFs must match the current content.
+const manifest = readManifest();
+const stale = TOPICS.filter(
+  (t) => slugs.includes(t.slug) && fs.existsSync(path.join(root, "content/topics", t.slug, "notes.md")) && manifest[t.slug] !== topicHash(t.slug, t),
+).map((t) => t.slug);
+if (!only.length && fs.existsSync(path.join(root, "content/quick-reference.md")) && manifest["quick-reference"] !== quickRefHash()) stale.push("quick-reference");
+if (stale.length) err("pdf", `${stale.length} PDF(s) out of date (${stale.join(", ")}). Run \`npm run pdf\` and commit public/pdf.`);
 
 const done = slugs.length - missing;
 console.log(`\n${done}/${slugs.length} topics present · ${errors} error(s) · ${warnings} warning(s)`);

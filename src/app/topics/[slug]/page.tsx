@@ -61,7 +61,7 @@ export default async function TopicPage(props: PageProps<"/topics/[slug]">) {
               <span className="chip">Week {topic.week}</span>
               {c.wordCount > 0 && <span className="chip">{Math.max(1, Math.round(c.wordCount / 200))} min read</span>}
               <div className="ml-auto hidden sm:block">
-                <TopicHeaderActions slug={slug} />
+                <TopicHeaderActions slug={slug} title={topic.title} />
               </div>
             </div>
             <h1 className="h-display !text-[clamp(2.1rem,1.6rem+1.8vw,2.9rem)] !leading-[1.03]">{topic.title}</h1>
@@ -70,7 +70,7 @@ export default async function TopicPage(props: PageProps<"/topics/[slug]">) {
               {topic.faculty.join(" · ")}
             </p>
             <div className="sm:hidden">
-              <TopicHeaderActions slug={slug} />
+              <TopicHeaderActions slug={slug} title={topic.title} />
             </div>
           </div>
         </div>

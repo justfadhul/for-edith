@@ -7,8 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "validate": "node scripts/validate-content.mjs",
-    "check:mcq": "node scripts/check-mcq-letters.mjs"
+    "validate": "node --no-warnings scripts/validate-content.mjs",
+    "check:mcq": "node scripts/check-mcq-letters.mjs",
+    "pdf": "node --no-warnings scripts/build-pdfs.mjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.117.2",
@@ -33,7 +34,12 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.3.6",
+    "playwright-core": "^1.56.1",
+    "rehype-stringify": "^10.0.1",
+    "remark-parse": "^11.0.0",
+    "remark-rehype": "^11.1.2",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "typescript": "^5",
+    "unified": "^11.0.5"
   }
 }
