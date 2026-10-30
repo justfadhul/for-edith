@@ -1,0 +1,512 @@
+{
+  "slug": "paeds-history-communication",
+  "flashcards": [
+    {
+      "id": "phx-f01",
+      "front": "What do you do before taking a history from a sick child?",
+      "back": "**Triage (ETAT)**: emergency signs → treat first, take a **SAMPLE** history during resuscitation; priority signs → assess next."
+    },
+    {
+      "id": "phx-f02",
+      "front": "The four IMCI general danger signs",
+      "back": "**Unable to drink or breastfeed; vomits everything; convulsions; lethargic or unconscious.**"
+    },
+    {
+      "id": "phx-f03",
+      "front": "Danger signs in a young infant (<2 months)",
+      "back": "Not feeding well, convulsions, fast breathing **≥60/min**, severe chest indrawing, fever **≥37.5°C** or temperature **<35.5°C**, movement only when stimulated."
+    },
+    {
+      "id": "phx-f04",
+      "front": "Why record the informant?",
+      "back": "The history comes second-hand: note **who**, **relationship**, whether they **witnessed** events and their **reliability**."
+    },
+    {
+      "id": "phx-f05",
+      "front": "Antenatal items in a paediatric history",
+      "back": "ANC visits, maternal **HIV, syphilis, hepatitis B**, malaria/IPTp, hypertension, diabetes, fever/rash, drugs, alcohol, herbs, bleeding, multiple pregnancy."
+    },
+    {
+      "id": "phx-f06",
+      "front": "Birth and neonatal items",
+      "back": "Gestation, place and mode of delivery, PROM >18 h, maternal fever, **birth weight**, **cried at birth**/resuscitation, NICU admission, jaundice/phototherapy, convulsions, feeding problems."
+    },
+    {
+      "id": "phx-f07",
+      "front": "Breastfeeding questions",
+      "back": "Initiation **within 1 hour**, colostrum, **pre-lacteal feeds**, **exclusive to 6 months**, frequency and night feeds, problems, mother's HIV status/ART."
+    },
+    {
+      "id": "phx-f08",
+      "front": "Complementary feeding standards (WHO)",
+      "back": "Start at **6 months**; 2–3 meals (6–8 m), 3–4 meals + 1–2 snacks (9–23 m); **≥5 of 8 food groups** daily; include animal-source foods; avoid sugary drinks."
+    },
+    {
+      "id": "phx-f09",
+      "front": "What is a 24-hour dietary recall?",
+      "back": "Ask the caregiver to list **everything the child ate and drank yesterday** from waking to sleeping: quantity, frequency and diversity."
+    },
+    {
+      "id": "phx-f10",
+      "front": "UNEPI vaccines at 6, 10 and 14 weeks",
+      "back": "**OPV, DPT-HepB-Hib (pentavalent), PCV** at all three; **rotavirus** at 6 and 10 weeks; **IPV** at 6 and 14 weeks."
+    },
+    {
+      "id": "phx-f11",
+      "front": "UNEPI vaccines at birth, 9 months and 18 months",
+      "back": "Birth: **BCG, OPV0, HepB birth dose**. 9 months: **measles–rubella 1 + yellow fever**. 18 months: **MR2**."
+    },
+    {
+      "id": "phx-f12",
+      "front": "How do you check immunisation without a card?",
+      "back": "Ask by **age and site**, look for the **BCG scar** (right upper arm), record 'unknown (no card)' and plan catch-up. Never assume."
+    },
+    {
+      "id": "phx-f13",
+      "front": "Social smile and head control",
+      "back": "Social smile **6 weeks** (red flag none by 8 weeks); head control **3–4 months** (red flag none by 4 months)."
+    },
+    {
+      "id": "phx-f14",
+      "front": "Sitting and walking milestones",
+      "back": "Sits unsupported **6–8 months** (red flag not by 9 months); walks **12–15 months** (red flag **not by 18 months**)."
+    },
+    {
+      "id": "phx-f15",
+      "front": "Speech milestones",
+      "back": "Babbles 6 months; **2–3 words at 12 months**; 6–20 words at 18 months; **2-word phrases at 2 years** (red flag no words at 18 months, no phrases at 2.5 years)."
+    },
+    {
+      "id": "phx-f16",
+      "front": "The most worrying developmental history finding",
+      "back": "**Regression** (loss of previously acquired skills): always refer."
+    },
+    {
+      "id": "phx-f17",
+      "front": "Early hand preference",
+      "back": "Hand preference before **12–18 months** suggests **weakness of the other side** (e.g. hemiplegic cerebral palsy)."
+    },
+    {
+      "id": "phx-f18",
+      "front": "Correcting for prematurity",
+      "back": "Subtract the weeks born early from the age when assessing milestones, **until 2 years**."
+    },
+    {
+      "id": "phx-f19",
+      "front": "Family history essentials",
+      "back": "Parents' age, health and **HIV status**, consanguinity, **siblings alive/dead and causes**, inherited disease (sickle cell, epilepsy, asthma), **TB in the household**."
+    },
+    {
+      "id": "phx-f20",
+      "front": "Social history essentials (Uganda)",
+      "back": "Who lives at home/main carer, rooms and crowding, **cooking fuel**, water and toilet, **mosquito net use**, income, school, **distance to facility**, stresses and safety."
+    },
+    {
+      "id": "phx-f21",
+      "front": "HEEADSSS",
+      "back": "**H**ome, **E**ducation/employment, **E**ating, **A**ctivities, **D**rugs, **S**exuality, **S**uicide/mood, **S**afety. Start with least threatening; see the adolescent alone."
+    },
+    {
+      "id": "phx-f22",
+      "front": "How do you explain confidentiality to an adolescent?",
+      "back": "'What you tell me stays between us **unless** I think you or someone else is at risk of **serious harm**; then I'd talk with you first about who needs to know.'"
+    },
+    {
+      "id": "phx-f23",
+      "front": "ICE",
+      "back": "Explore the caregiver's **Ideas** (what they think it is), **Concerns** (what worries them), **Expectations** (what they hope we will do)."
+    },
+    {
+      "id": "phx-f24",
+      "front": "SPIKES",
+      "back": "**S**etting, **P**erception, **I**nvitation, **K**nowledge (warning shot, plain words), **E**motions (empathy), **S**trategy and summary."
+    },
+    {
+      "id": "phx-f25",
+      "front": "Teach-back",
+      "back": "Ask the caregiver to **explain back** in their own words how they will give the medicine or what danger signs to watch for; correct misunderstandings."
+    },
+    {
+      "id": "phx-f26",
+      "front": "History red flags for child abuse",
+      "back": "Delay in seeking care; **inconsistent or changing story**; mechanism **not fitting the injury or development**; repeated injuries; frightened child; disclosure."
+    },
+    {
+      "id": "phx-f27",
+      "front": "What to do if you suspect abuse",
+      "back": "Ensure **safety** (admit), document verbatim and body map, inform the **senior**, involve **social worker/probation officer**/police as needed; Uganda helpline **116**; do not confront the family yourself."
+    },
+    {
+      "id": "phx-f28",
+      "front": "What is 'ebiino' and why ask?",
+      "back": "Traditional extraction of infant canine tooth buds ('false teeth') for diarrhoea/fever in parts of Uganda: causes **bleeding, sepsis, tetanus, anaemia**. Ask about traditional treatments."
+    },
+    {
+      "id": "phx-f29",
+      "front": "The opening line of a paediatric case presentation",
+      "back": "Name, **age, sex**, **weight and nutritional status** (Z-scores/MUAC), **immunisation status**, **HIV exposure**, feeding, then presenting complaints with durations."
+    },
+    {
+      "id": "phx-f30",
+      "front": "SBAR handover",
+      "back": "**S**ituation, **B**ackground, **A**ssessment, **R**ecommendation."
+    },
+    {
+      "id": "phx-f31",
+      "front": "SAMPLE history in an emergency",
+      "back": "**S**ymptoms, **A**llergies, **M**edications, **P**ast illnesses, **L**ast meal, **E**vents leading up."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "phx-q01",
+      "stem": "A 14-month-old girl is carried into the paediatric emergency room at Mengo by her mother. She is convulsing, and the mother is distressed and wants to explain the 3-day illness. What should the student do FIRST?",
+      "options": [
+        "Call for help and start emergency treatment (airway, oxygen, glucose, anticonvulsant) while a brief SAMPLE history is taken",
+        "Take a full history including perinatal and immunisation history",
+        "Ask the mother to wait at triage while you find the child's card",
+        "Take the history from the mother in a private room first",
+        "Send the child for a CT scan"
+      ],
+      "answer": 0,
+      "explanation": "**A** is correct: a convulsing child has an **emergency sign**: treat first (ETAT), with a brief **SAMPLE** history (symptoms, allergies, medicines, past illness, last meal, events) during resuscitation; the full history comes once stable. **B** and **D** are wrong: delaying treatment for a full history is dangerous. **C** is wrong: the child needs immediate care, not a queue. **E** is wrong: imaging is not part of emergency management of a convulsing child.",
+      "difficulty": "core"
+    },
+    {
+      "id": "phx-q02",
+      "stem": "A 9-month-old boy is brought by his aunt, who has cared for him since yesterday because his mother travelled. She says 'he has had malaria for 4 days'. What is the MOST important next step in the history?",
+      "options": [
+        "Accept the diagnosis of malaria and move on to the past medical history",
+        "Ask only closed questions to save time",
+        "Refuse to take a history until the mother returns",
+        "Ask what she means by 'malaria', what she has seen herself, and record her as the informant with limited knowledge; contact the mother later",
+        "Ask the aunt about the mother's HIV status in the open ward"
+      ],
+      "answer": 3,
+      "explanation": "**D** is correct: the informant's **relationship and reliability** must be recorded, and local terms like 'malaria' (*omusujja*) often just mean fever; clarify what was **observed** and fill gaps from the mother later. **A** is wrong: accepting a lay diagnosis risks missing pneumonia, meningitis or UTI. **C** is wrong: the child needs assessment now. **B** is wrong: start with open questions and then clarify. **E** is wrong: HIV status should be asked privately and the aunt may not know or have the right to disclose it.",
+      "difficulty": "core"
+    },
+    {
+      "id": "phx-q03",
+      "stem": "A 4-month-old boy is admitted with fast breathing (RR 64/min), chest indrawing and SpO₂ 86%. His mother is quiet and has not mentioned her own health. Which history question MOST changes your immediate management?",
+      "options": [
+        "How many teeth does he have?",
+        "What is your HIV status, and are you on treatment?",
+        "Does the family keep animals?",
+        "Which church do you attend?",
+        "When did he first roll over?"
+      ],
+      "answer": 1,
+      "explanation": "**B** is correct: in a young infant with severe pneumonia and hypoxaemia, **HIV exposure** raises the likelihood of **Pneumocystis pneumonia** (needs high-dose cotrimoxazole and prednisolone), changes testing (DNA PCR) and prophylaxis. Ask privately and sensitively. **A** is wrong: teething is irrelevant. **C** is wrong: animal exposure matters less here. **D** is wrong: religion is context, not management. **E** is wrong: development is part of the full history but does not change immediate treatment.",
+      "difficulty": "core"
+    },
+    {
+      "id": "phx-q04",
+      "stem": "A 3-year-old girl presents with cough for 5 weeks and weight loss. Her mother says she is 'fully immunised'. There is no card. Which is the BEST way to document immunisation status?",
+      "options": [
+        "Write 'fully immunised' as the mother says",
+        "Ask the mother to bring the card next year",
+        "Record 'unimmunised' and give all vaccines again today",
+        "Skip immunisation history because she is over 2 years",
+        "Ask about each vaccine by age and site, look for a BCG scar, and record 'immunisation status unknown, no card; BCG scar present' with a catch-up plan"
+      ],
+      "answer": 4,
+      "explanation": "**E** is correct: without a card, ask by **age and site**, check the **BCG scar**, document the uncertainty and plan catch-up at discharge. A BCG scar matters in a child with suspected TB. **A** is wrong: unverified reports are often inaccurate. **C** is wrong: assuming no vaccines leads to unnecessary injections; follow catch-up guidance. **D** is wrong: immunisation affects the differential at any age (measles, pertussis, TB). **B** is wrong: the information is needed now.",
+      "difficulty": "core"
+    },
+    {
+      "id": "phx-q05",
+      "stem": "A 10-month-old girl (6.0 kg, weight-for-length Z-score −2.8, no oedema) is brought for poor weight gain. Which part of the history is MOST important for planning her management?",
+      "options": [
+        "The father's occupation only",
+        "Family history of asthma",
+        "The age at which she smiled",
+        "A detailed feeding history with 24-hour dietary recall, breastfeeding history and feeding during illness",
+        "The number of rooms in the house only"
+      ],
+      "answer": 3,
+      "explanation": "**D** is correct: in a child with poor growth, the **feeding history** (breastfeeding, timing and type of complementary foods, meal frequency, dietary diversity, 24-hour recall, feeding during illness) explains the problem and guides counselling and nutritional rehabilitation. **A** and **E** are wrong: social factors matter, but alone they do not define the feeding problem. **C** is wrong: early milestones are part of the full history but less useful for the plan. **B** is wrong: asthma history is irrelevant here.",
+      "difficulty": "core"
+    },
+    {
+      "id": "phx-q06",
+      "stem": "A 15-year-old girl attends with her mother because of abdominal pain and missed periods. Which approach is MOST appropriate for the sensitive part of the history?",
+      "options": [
+        "Ask about sexual activity directly in front of her mother",
+        "Explain to both that it is routine to see adolescents alone for part of the visit, then with the girl alone explain confidentiality and its limits and use HEEADSSS",
+        "Avoid asking about sexual activity because she is a minor",
+        "Ask the mother whether her daughter is sexually active",
+        "Order a pregnancy test without telling the girl"
+      ],
+      "answer": 1,
+      "explanation": "**B** is correct: adolescents disclose more when seen **alone** with **confidentiality** explained (including its limits for serious harm); **HEEADSSS** structures the psychosocial history from less to more personal topics. **A** is wrong: she is unlikely to answer honestly and it breaches her privacy. **C** is wrong: missed periods require a sexual history (pregnancy, defilement concerns). **D** is wrong: the mother may not know and it bypasses the patient. **E** is wrong: testing without consent violates her autonomy and trust.",
+      "difficulty": "core"
+    },
+    {
+      "id": "phx-q07",
+      "stem": "A 2-year-old boy is not yet walking independently. He was born at 30 weeks and spent 6 weeks in the neonatal unit with oxygen and jaundice needing phototherapy. Which interpretation is MOST appropriate?",
+      "options": [
+        "He is normal; corrected age is under 15 months, so no concern",
+        "He should be started on anticonvulsants",
+        "Prematurity explains everything; review in 2 years",
+        "Correction for prematurity stops at 12 months",
+        "His corrected age is about 22 months; not walking by 18 months (corrected) is a red flag, so he needs a full developmental and neurological assessment"
+      ],
+      "answer": 4,
+      "explanation": "**E** is correct: born 10 weeks early, his **corrected age is about 21–22 months**; **not walking by 18 months corrected** is a red flag, and his history (very preterm, NICU, significant jaundice) raises the risk of **cerebral palsy** or other disability. **A** is wrong: the corrected age is miscalculated. **C** is wrong: waiting delays therapy. **D** is wrong: correction is applied until 2 years. **B** is wrong: there is no history of seizures.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "phx-q08",
+      "stem": "A 4-year-old boy is brought with a spiral fracture of the femur. The father says he fell from a chair yesterday evening; the mother says he was injured while playing outside 3 days ago. He has bruises of different colours on his back. What is the MOST appropriate action?",
+      "options": [
+        "Discharge with a plaster and advise more supervision",
+        "Confront the parents and accuse them of abuse",
+        "Treat the fracture, admit for safety, document the histories verbatim with a body map, inform the senior and involve the social worker/probation officer",
+        "Call the police yourself before telling anyone else",
+        "Ignore the bruises because children bruise easily"
+      ],
+      "answer": 2,
+      "explanation": "**C** is correct: an **inconsistent history**, **delayed presentation** and **bruises of different ages** are red flags for **non-accidental injury**: ensure safety (admit), document carefully, escalate to the senior and child protection services (social worker, probation and social welfare officer; police as needed). **A** is wrong: the child may be returned to danger. **B** is wrong: confrontation by a student can escalate risk and is not your role. **D** is wrong: follow the institutional process with the senior (who will involve police where appropriate). **E** is wrong: bruises of different ages on the back are not typical accidental bruising.",
+      "difficulty": "core"
+    },
+    {
+      "id": "phx-q09",
+      "stem": "While explaining that her 3-year-old needs admission for severe pneumonia, a mother shouts that she waited 4 hours and the doctors 'do not care'. What is the BEST first response?",
+      "options": [
+        "Tell her the hospital is busy and she must be patient",
+        "Sit down, listen without interrupting, acknowledge her frustration and apologise for the wait, then explain the plan",
+        "Leave and ask a nurse to deal with her",
+        "Tell her she is free to go to another hospital",
+        "Blame the triage nurse"
+      ],
+      "answer": 1,
+      "explanation": "**B** is correct: an angry parent is usually a frightened parent; **listening, acknowledging the emotion and apologising** for the delay de-escalates, after which you can explain the plan. **A** is wrong: it dismisses her concern. **C** is wrong: avoidance worsens the situation (involve a senior if needed, but respond first). **D** is wrong: it risks the child leaving without treatment. **E** is wrong: blaming colleagues is unprofessional and does not help the child.",
+      "difficulty": "core"
+    },
+    {
+      "id": "phx-q10",
+      "stem": "A mother is told her 8-week-old son's DNA PCR is positive. She becomes silent and starts crying. Using SPIKES, what should you do NEXT?",
+      "options": [
+        "Allow silence, acknowledge her emotion with empathy, and give her time before discussing next steps",
+        "Immediately explain the ART regimen and dosing",
+        "Tell her not to cry because HIV is a manageable disease",
+        "Ask her how she got HIV",
+        "End the consultation and ask her to come back next month"
+      ],
+      "answer": 0,
+      "explanation": "**A** is correct: the **E (Emotions)** step of SPIKES: allow silence, respond with empathy, then move to **Strategy** (same-day ART, support, partner testing) when she is ready. **B** is wrong: information given during acute distress is not heard. **C** is wrong: it dismisses her feelings. **D** is wrong: judgemental and irrelevant now. **E** is wrong: the infant needs ART the same day and the mother needs support.",
+      "difficulty": "core"
+    },
+    {
+      "id": "phx-q11",
+      "stem": "A 6-month-old baby has had diarrhoea for 3 days. On history the grandmother reports that 'false teeth' were removed by a traditional healer 2 days ago, and the baby now has bleeding gums and fever. What is the MOST important implication of this history?",
+      "options": [
+        "None; it is a harmless cultural practice",
+        "The baby needs dental referral only",
+        "The diarrhoea is caused by teething",
+        "Risk of bleeding, sepsis, tetanus and anaemia from 'ebiino' extraction: examine the gums, check Hb, assess tetanus risk and treat infection",
+        "Report the grandmother to the police immediately"
+      ],
+      "answer": 3,
+      "explanation": "**D** is correct: **'ebiino' (false teeth) extraction** of canine tooth buds is still practised in parts of Uganda and causes **bleeding, local and systemic infection, tetanus and anaemia**; it changes your examination and treatment. Counsel the family respectfully. **A** is wrong: it is harmful. **C** is wrong: teething does not cause significant diarrhoea; the diarrhoea needs its own assessment. **B** is wrong: the baby needs medical care now. **E** is wrong: education and counselling are appropriate; this is not usually managed as a police matter.",
+      "difficulty": "core"
+    },
+    {
+      "id": "phx-q12",
+      "stem": "A 5-week-old girl is seen with jaundice. Which perinatal or neonatal history item MOST changes your next investigation?",
+      "options": [
+        "Mother's religion",
+        "Father's occupation",
+        "Birth order",
+        "Whether she has started smiling",
+        "Pale (white or clay-coloured) stools and dark urine"
+      ],
+      "answer": 4,
+      "explanation": "**E** is correct: **prolonged jaundice (>14 days) with pale stools and dark urine** suggests **conjugated hyperbilirubinaemia** (biliary atresia until proven otherwise): check conjugated bilirubin urgently and refer (surgery before about 60 days improves outcome). **A**, **C** and **B** are wrong: they do not change the investigation. **D** is wrong: a social smile is expected at about 6 weeks and does not direct the jaundice work-up.",
+      "difficulty": "core"
+    },
+    {
+      "id": "phx-q13",
+      "stem": "A 13-year-old boy living with HIV is admitted with diarrhoea. His viral load is 45,000 copies/mL. During the history alone with you he says he 'takes the medicine sometimes' and doesn't know why he takes it. What is the MOST appropriate response?",
+      "options": [
+        "Tell him he has HIV immediately without involving his caregiver",
+        "Scold him for poor adherence",
+        "Explore barriers to adherence non-judgementally, and work with the caregiver and counsellor towards full disclosure of his HIV status",
+        "Ignore it because adherence is the caregiver's responsibility",
+        "Switch him to second-line ART today"
+      ],
+      "answer": 2,
+      "explanation": "**C** is correct: at 13 he should already know his status (full disclosure is usually aimed for by about 10–12 years); lack of knowledge undermines adherence. Explore barriers kindly and plan **disclosure with the caregiver and counsellor**. **A** is wrong: disclosure should be planned with the caregiver and counselling support, not abrupt. **B** is wrong: blame worsens adherence. **D** is wrong: adolescents need to own their treatment. **E** is wrong: switching requires intensive adherence counselling and repeat viral load per guidelines.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "phx-q14",
+      "stem": "On the ward round you present: 'This is Musa, a 2-year-old with fever and cough.' The consultant asks what is missing from your opening line. Which answer is BEST?",
+      "options": [
+        "The weight and nutritional status (Z-scores/MUAC), immunisation status, HIV exposure and feeding",
+        "The tribe and religion",
+        "The father's name",
+        "The ward bed number only",
+        "The last vaccine batch number"
+      ],
+      "answer": 0,
+      "explanation": "**A** is correct: the opening line of a paediatric presentation includes **age, sex, weight and nutritional status, immunisation status, HIV exposure and feeding**, because these shape the differential and the plan. **B** is wrong: tribe and religion are context, not first-line information. **C**, **D** and **E** are wrong: they do not help clinical reasoning.",
+      "difficulty": "core"
+    },
+    {
+      "id": "phx-q15",
+      "stem": "A 7-year-old boy has recurrent cough and wheeze, worse at night. Which social history question is MOST relevant to his management?",
+      "options": [
+        "What fuel does the family use for cooking, and where is it used?",
+        "Which school sports does he play?",
+        "Does the family have a radio?",
+        "What is the father's tribe?",
+        "How far is the nearest church?"
+      ],
+      "answer": 0,
+      "explanation": "**A** is correct: **indoor smoke from charcoal or firewood** (and tobacco smoke) is a major trigger for asthma and pneumonia; reducing exposure is part of management. **B** is wrong: exercise history matters for exercise-induced symptoms but is less important here. **C**, **D** and **E** are wrong: they do not affect asthma management.",
+      "difficulty": "core"
+    },
+    {
+      "id": "phx-q16",
+      "stem": "You have explained to a mother how to give amoxicillin dispersible tablets twice daily for 5 days. What is the BEST way to check that she has understood?",
+      "options": [
+        "Ask 'Do you understand?'",
+        "Give her a printed leaflet in English",
+        "Ask her to show you how she will prepare a dose and tell you when and for how many days she will give it",
+        "Tell her the pharmacist will explain",
+        "Ask her to sign the chart"
+      ],
+      "answer": 2,
+      "explanation": "**C** is correct: **teach-back** (demonstration and explanation in her own words) is the most reliable check of understanding. **A** is wrong: most people say 'yes' even when unsure. **B** is wrong: she may not read English, and a leaflet does not check understanding. **D** is wrong: you remain responsible for clear communication. **E** is wrong: a signature does not show understanding.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "phx-c01",
+      "title": "The thin toddler with a coughing grandmother",
+      "presentation": "A 2-year-and-3-month-old boy is brought to the Mengo paediatric clinic by his mother with cough for 4 weeks, fever for 2 weeks and weight loss. Weight 9.8 kg, height 82 cm, MUAC 12.3 cm. He is alert with no danger signs.",
+      "steps": [
+        {
+          "prompt": "How do you begin, and who is your informant?",
+          "answer": "Greet the mother and child, introduce yourself, confirm she is the **mother and main carer** (reliable), check triage (no emergency signs), settle the child on her lap and **count the RR** before disturbing him. Begin with an open question: 'Tell me about his cough.'"
+        },
+        {
+          "prompt": "Which HPI details and contacts will you ask about?",
+          "answer": "Cough character and duration, fever pattern, night sweats, weight loss (clothes loose?), appetite, breathing difficulty, wheeze, choking episode (foreign body), diarrhoea; **danger signs**; **treatment already given** (antibiotics, antimalarials, herbs); **contacts**: anyone coughing at home, anyone on TB treatment. The mother reveals the **grandmother, who shares his room, has coughed for 3 months**."
+        },
+        {
+          "prompt": "What paediatric extras do you take, and why each?",
+          "answer": "**Perinatal** (term, SVD, 3.2 kg, cried at birth), **feeding** (breastfed 14 months; now 2 meals/day of porridge and matooke, rarely beans or animal foods: poor diversity), **immunisation** (card: fully immunised, BCG scar present), **development** (walked 13 months, phrases now), **HIV** (mother tested negative 2 months ago), **family** (siblings well), **social** (one room for 5 people, charcoal stove indoors)."
+        },
+        {
+          "prompt": "Summarise the history in one line and give your differentials.",
+          "answer": "'A 2-year-old fully immunised, HIV-unexposed boy with moderate wasting and poor dietary diversity, presenting with 4 weeks of cough, 2 weeks of fever and weight loss, with a likely untreated TB contact in his room.' Differentials: **pulmonary TB**, persistent bacterial pneumonia, HIV-related disease (re-test if any doubt), foreign body, asthma less likely."
+        },
+        {
+          "prompt": "What do you tell the mother at the end, and how do you check understanding?",
+          "answer": "Explain in plain language that the cough may be **TB caught from the grandmother**, that tests (CXR, Xpert on gastric aspirate or stool, HIV test) are needed, that TB is curable, and that the grandmother needs testing too; explore **ICE** (she fears he will die like a cousin); feeding advice; ask her to **teach back** the plan and when to return."
+        }
+      ],
+      "takeaway": "A careful contact, feeding and social history turned a 'chronic cough' into probable TB with malnutrition and a household source."
+    },
+    {
+      "id": "phx-c02",
+      "title": "A developmental concern in an ex-preterm",
+      "presentation": "A 20-month-old girl is brought because 'she is not walking like her cousins'. She was born at 31 weeks and spent 5 weeks in the neonatal unit at a regional referral hospital. Her mother says she sits well, crawls on her tummy and says 'mama'.",
+      "steps": [
+        {
+          "prompt": "What is her corrected age and is this a red flag?",
+          "answer": "Born 9 weeks early: **corrected age ≈ 18 months**. **Not walking at 18 months corrected** is a red flag; combined with prematurity it needs full assessment."
+        },
+        {
+          "prompt": "Which perinatal and neonatal details do you take?",
+          "answer": "Why born early (pre-eclampsia, PROM, infection), antenatal steroids, birth weight, **resuscitation at birth**, oxygen/CPAP, **convulsions**, **jaundice needing phototherapy or exchange**, sepsis/meningitis, feeding difficulties, length of stay, follow-up clinic attendance."
+        },
+        {
+          "prompt": "How do you take the developmental history across the four domains?",
+          "answer": "Gross motor (head control, sitting, crawling style, pulling to stand), fine motor (**hand preference?** reaching, pincer grasp), speech/hearing (babble, words, response to name), social (smile, waving, play). Ask about **regression**. Mother reports she uses only her **right hand** since 9 months."
+        },
+        {
+          "prompt": "What does the early hand preference suggest and what else do you ask?",
+          "answer": "Early (before 12–18 months) hand preference suggests **weakness of the left side**: **hemiplegic cerebral palsy** (e.g. from periventricular injury or neonatal stroke). Ask about stiffness, feeding/swallowing, seizures, vision and hearing, drooling, constipation."
+        },
+        {
+          "prompt": "How do you communicate your concern to the mother?",
+          "answer": "Ask what she has noticed and what she fears (ICE). Explain honestly that her development is slower than expected and that some babies born early have **brain injury affecting movement**, that the doctors will examine her and arrange **physiotherapy and further assessment** (hearing, vision), and that early therapy helps. Avoid labels until assessed; give time for questions; arrange follow-up."
+        }
+      ],
+      "takeaway": "Correct for prematurity, take milestones in all four domains, and treat early hand preference and late walking as red flags."
+    },
+    {
+      "id": "phx-c03",
+      "title": "The adolescent with abdominal pain: seeing her alone",
+      "presentation": "A 15-year-old girl is brought by her mother to the adolescent clinic with lower abdominal pain for 2 weeks and vaginal discharge. Her mother answers all the questions. The girl looks at the floor.",
+      "steps": [
+        {
+          "prompt": "How do you set up the consultation?",
+          "answer": "Introduce yourself to **both**, take the main history with the mother present, then explain: 'With all young people we spend part of the visit alone; it's routine.' Ask the mother to wait outside."
+        },
+        {
+          "prompt": "What do you say about confidentiality?",
+          "answer": "'What you tell me is private. The only time I would share it is if I thought you or someone else was at risk of serious harm, and I would talk with you first.' Check she understands."
+        },
+        {
+          "prompt": "Which HEEADSSS questions do you ask, and in what order?",
+          "answer": "Start with **Home** and **Education** (school, friends), then **Eating**, **Activities**, **Drugs** (alcohol, bhang), then **Sexuality** (relationship, sex, consent, condoms/contraception, STI symptoms, last period), **Suicide/mood**, **Safety** (anyone hurting her, forced sex)."
+        },
+        {
+          "prompt": "She discloses that a 32-year-old neighbour has been having sex with her for 3 months. What are your responsibilities?",
+          "answer": "This is **defilement** (sexual activity with a person under 18) and abuse: thank her for telling you, explain that you must involve others to keep her safe, **inform the senior**, involve the **social worker / probation and social welfare officer** and police per protocol; **examine with a chaperone**, test for **pregnancy, HIV, syphilis and other STIs**, treat STIs (PID likely), offer HIV PEP/emergency contraception if the last contact was within 72 h/5 days; counselling; safety planning before discharge."
+        },
+        {
+          "prompt": "How do you involve her mother?",
+          "answer": "Discuss with the girl first what will be shared and how; with her agreement and a counsellor present, explain the situation to the mother sensitively, focusing on support and safety rather than blame."
+        }
+      ],
+      "takeaway": "Adolescents need time alone with clear confidentiality, a HEEADSSS history and a safeguarding response when abuse is disclosed."
+    }
+  ],
+  "references": [
+    {
+      "title": "Uganda Clinical Guidelines 2023 (IMCI sick child, routine childhood vaccination, nutrition)",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf"
+    },
+    {
+      "title": "Pocket book of hospital care for children, 2nd edition",
+      "source": "World Health Organization",
+      "year": 2013,
+      "url": "https://iris.who.int/handle/10665/81170"
+    },
+    {
+      "title": "Updated guideline: paediatric emergency triage, assessment and treatment (ETAT)",
+      "source": "World Health Organization",
+      "year": 2016,
+      "url": "https://iris.who.int/handle/10665/204463"
+    },
+    {
+      "title": "Engaging with and assessing the adolescent patient (HEEADSSS)",
+      "source": "The Royal Children's Hospital Melbourne clinical practice guidelines",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Engaging_with_and_assessing_the_adolescent_patient/"
+    },
+    {
+      "title": "WHO guideline for complementary feeding of infants and young children 6–23 months of age",
+      "source": "World Health Organization",
+      "year": 2023
+    },
+    {
+      "title": "Consolidated guidelines for the prevention and treatment of HIV and AIDS in Uganda",
+      "source": "Ministry of Health Uganda",
+      "year": 2022
+    },
+    {
+      "title": "Illustrated Textbook of Paediatrics (Lissauer & Carroll), history taking and development chapters",
+      "source": "Elsevier",
+      "year": 2021
+    }
+  ]
+}

@@ -1,0 +1,1032 @@
+{
+  "slug": "paediatric-pharmacology",
+  "flashcards": [
+    {
+      "id": "pdrx-f01",
+      "front": "How do you estimate a child's weight in resuscitation when you cannot weigh?",
+      "back": "**APLS**: 0–12 months (0.5 × age in months) + 4; 1–5 years (2 × age) + 8; 6–12 years (3 × age) + 7. Older formula: **(age + 4) × 2**. A length tape is better. Weigh as soon as possible."
+    },
+    {
+      "id": "pdrx-f02",
+      "front": "Birth weight rules of thumb",
+      "back": "Doubles by **5 months**, triples by **1 year**, quadruples by **2 years**."
+    },
+    {
+      "id": "pdrx-f03",
+      "front": "Why do neonates need longer dosing intervals for gentamicin and ampicillin?",
+      "back": "**Low GFR** at birth (matures over the first year) → slower renal clearance. Higher body water also increases the volume of distribution of water-soluble drugs."
+    },
+    {
+      "id": "pdrx-f04",
+      "front": "Why are ceftriaxone and cotrimoxazole risky in jaundiced neonates?",
+      "back": "They **displace bilirubin from albumin** → free bilirubin crosses the immature blood–brain barrier → **kernicterus**. Ceftriaxone also forms fatal precipitates with **IV calcium** (Ringer's lactate) in neonates."
+    },
+    {
+      "id": "pdrx-f05",
+      "front": "What is grey baby syndrome?",
+      "back": "**Chloramphenicol** toxicity in neonates (immature glucuronidation): vomiting, distension, grey cyanosis, hypothermia, shock. Avoid in preterms and the **first week of life**."
+    },
+    {
+      "id": "pdrx-f06",
+      "front": "Five rules for writing a safe paediatric dose",
+      "back": "Weight on the chart; **mg/kg and calculated dose**; **no trailing zero** (1 mg not 1.0); **leading zero** (0.5 mg not .5); write **micrograms/units in full**; give strength and mL for liquids; cap at the **adult maximum**."
+    },
+    {
+      "id": "pdrx-f07",
+      "front": "Amoxicillin dose for pneumonia (UCG 2023 / WHO 2024)",
+      "back": "**40 mg/kg orally 12-hourly × 5 days** (dispersible 250 mg): **2–12 months 250 mg BD; 1–3 years 500 mg BD; 3–5 years 750 mg BD**. WHO 2024: 3 or 5 days for fast breathing only."
+    },
+    {
+      "id": "pdrx-f08",
+      "front": "Ampicillin dose: child and neonate",
+      "back": "Child: **50 mg/kg IV/IM 6-hourly** (max 2 g). Neonate (WHO): **50 mg/kg 12-hourly in week 1, 8-hourly weeks 2–4** (UCG lists 6-hourly)."
+    },
+    {
+      "id": "pdrx-f09",
+      "front": "Gentamicin doses ('3-5-7.5')",
+      "back": "**7.5 mg/kg once daily** (children and neonates in weeks 2–4); week 1: **5 mg/kg** (≥2.5 kg) or **3 mg/kg** (low birth weight), once daily."
+    },
+    {
+      "id": "pdrx-f10",
+      "front": "Why once-daily gentamicin?",
+      "back": "**Concentration-dependent killing** + **post-antibiotic effect**; drug-free trough → **less nephrotoxicity**; fewer doses missed."
+    },
+    {
+      "id": "pdrx-f11",
+      "front": "Ceftriaxone doses",
+      "back": "**50–80 mg/kg once daily** (sepsis, pneumonia); **100 mg/kg once daily** for meningitis (max **4 g/day**). Neonates 50 mg/kg (100 meningitis) if not jaundiced; never with calcium-containing fluids."
+    },
+    {
+      "id": "pdrx-f12",
+      "front": "Cloxacillin dose and indication",
+      "back": "**25–50 mg/kg IV/IM 6-hourly** (max 2 g); *Staph aureus*: osteomyelitis, septic arthritis, staph pneumonia, skin infections."
+    },
+    {
+      "id": "pdrx-f13",
+      "front": "Metronidazole dose",
+      "back": "**7.5 mg/kg 8-hourly** (max 500 mg/dose); amoebiasis **10 mg/kg 8-hourly**; giardia 5 mg/kg 8-hourly."
+    },
+    {
+      "id": "pdrx-f14",
+      "front": "Cotrimoxazole prophylaxis doses (UCG)",
+      "back": "Once daily: **<5 kg 120 mg; 5–14.9 kg 240 mg; 15–29.9 kg 480 mg; ≥30 kg 960 mg**. HIV-exposed infants from **6 weeks** until HIV is excluded after breastfeeding stops."
+    },
+    {
+      "id": "pdrx-f15",
+      "front": "Benzathine penicillin: never by which route, and doses?",
+      "back": "**Never IV.** Congenital syphilis (asymptomatic) **50,000 IU/kg IM once**; pharyngitis/rheumatic prophylaxis **600,000 IU (<30 kg) or 1.2 MU (≥30 kg)**, prophylaxis every 4 weeks."
+    },
+    {
+      "id": "pdrx-f16",
+      "front": "Dysentery treatment (WHO 2024)",
+      "back": "**Ciprofloxacin 15 mg/kg 12-hourly × 3 days**; second line ceftriaxone 50–80 mg/kg daily × 3 days. No antibiotics for acute watery diarrhoea (except cholera)."
+    },
+    {
+      "id": "pdrx-f17",
+      "front": "IV artesunate dose and schedule",
+      "back": "**3 mg/kg if <20 kg; 2.4 mg/kg if ≥20 kg**, IV/IM at **0, 12, 24 h then daily** until oral (minimum 24 h), then a **full 3-day ACT**."
+    },
+    {
+      "id": "pdrx-f18",
+      "front": "How do you prepare IV artesunate?",
+      "back": "Vial + **1 mL 5% sodium bicarbonate** (shake until clear) + **5 mL saline/5% dextrose** = **10 mg/mL** IV; for IM add 2 mL saline = 20 mg/mL. Never water for injection; use within 1 h."
+    },
+    {
+      "id": "pdrx-f19",
+      "front": "Rectal artesunate dose",
+      "back": "**10 mg/kg single dose**, children **≤6 years** only: **5–<14 kg 100 mg; 14–19 kg 200 mg**. Re-insert if expelled within 30 min. **Pre-referral only: refer immediately.**"
+    },
+    {
+      "id": "pdrx-f20",
+      "front": "AL weight bands",
+      "back": "Artemether–lumefantrine 20/120: **5–14 kg 1 tab; 15–24 kg 2; 25–34 kg 3; ≥35 kg 4**, at 0 and 8 h then BD days 2–3 (6 doses), with milk or fatty food."
+    },
+    {
+      "id": "pdrx-f21",
+      "front": "IV quinine: dose and main danger",
+      "back": "UCG: **10 mg/kg in 5% dextrose over 4 h, 8-hourly** (WHO: loading 20 mg/kg unless quinine in last 12–24 h). Never a bolus. Danger: **hypoglycaemia** (check glucose 4-hourly), cinchonism, arrhythmia."
+    },
+    {
+      "id": "pdrx-f22",
+      "front": "What is post-artesunate delayed haemolysis?",
+      "back": "Haemolytic anaemia **7–21 days** after IV artesunate, especially with high parasitaemia. Check **Hb at 2–3 weeks**; transfuse if severe."
+    },
+    {
+      "id": "pdrx-f23",
+      "front": "Post-discharge malaria chemoprevention (Uganda)",
+      "back": "UCG 2023: severe malaria discharged on **DP**, then **monthly DP courses for 3 months**. WHO: PDMC after admission with severe anaemia in moderate–high transmission areas."
+    },
+    {
+      "id": "pdrx-f24",
+      "front": "Seizure drug ladder (child >1 month)",
+      "back": "**Diazepam 0.5 mg/kg PR** or 0.2–0.3 mg/kg IV (max 10 mg) → repeat once at 10 min → **phenobarbital 15–20 mg/kg** or **phenytoin 15–20 mg/kg in saline** → second agent/ICU. Check glucose."
+    },
+    {
+      "id": "pdrx-f25",
+      "front": "Neonatal seizure drug and dose",
+      "back": "**Phenobarbital 20 mg/kg IV/IM**, further 10 mg/kg to **40 mg/kg**; maintenance **5 mg/kg daily**. Avoid diazepam. Check glucose and calcium."
+    },
+    {
+      "id": "pdrx-f26",
+      "front": "Phenytoin infusion rules",
+      "back": "**Saline only** (precipitates in dextrose), ≤1 mg/kg/min (max 50 mg/min), **ECG/heart-rate monitoring**, good IV line (extravasation necrosis). Never IM."
+    },
+    {
+      "id": "pdrx-f27",
+      "front": "Buccal midazolam doses (NICE/BNFc bands)",
+      "back": "**0.3–0.5 mg/kg** (max 10 mg): 3–11 months 2.5 mg; 1–4 years 5 mg; 5–9 years 7.5 mg; ≥10 years 10 mg."
+    },
+    {
+      "id": "pdrx-f28",
+      "front": "Nebulised salbutamol dose",
+      "back": "**2.5 mg (<5 years), 5 mg (≥5 years)** every 20 min × 3, then 1–4-hourly. MDI + spacer: 2–10 puffs (100 mcg) every 20 min in the first hour."
+    },
+    {
+      "id": "pdrx-f29",
+      "front": "Prednisolone in acute asthma",
+      "back": "**1–2 mg/kg once daily for 3–5 days** (max 20 mg <2 years, 30 mg 2–5 years, 40 mg 6–11 years; UCG 1 mg/kg × 3 days)."
+    },
+    {
+      "id": "pdrx-f30",
+      "front": "IV magnesium sulphate in severe asthma",
+      "back": "**40 mg/kg (25–50), max 2 g, IV over 20 min**, after the first hour of failed standard treatment."
+    },
+    {
+      "id": "pdrx-f31",
+      "front": "Croup treatment doses",
+      "back": "**Dexamethasone 0.15–0.6 mg/kg** single dose (oral/IM); severe: **nebulised adrenaline 1:1000 0.4–0.5 mL/kg (max 5 mL)** and observe ≥2–4 h."
+    },
+    {
+      "id": "pdrx-f32",
+      "front": "Aminophylline loading dose and when to omit it",
+      "back": "**5–6 mg/kg IV (max 300 mg) over ≥20 min** then 5 mg/kg 6-hourly; **omit the loading dose** if theophylline/aminophylline or caffeine given in the past 24 h. Stop if pulse >180, vomiting or fits."
+    },
+    {
+      "id": "pdrx-f33",
+      "front": "Maintenance fluids (UCG 2023)",
+      "back": "**100 mL/kg/day** for first 10 kg + **50 mL/kg** for next 10 kg + **25 mL/kg** for each kg above 20 (Holliday–Segar uses 20). Add 10% per °C fever."
+    },
+    {
+      "id": "pdrx-f34",
+      "front": "Neonatal fluids, days 1 to 4",
+      "back": "**60 → 90 → 120 → 150 mL/kg/day**; day 1–2 **10% dextrose**; IV-only max 100 mL/kg/day unless under phototherapy/radiant heater or dehydrated."
+    },
+    {
+      "id": "pdrx-f35",
+      "front": "Plan C rehydration",
+      "back": "**Ringer's lactate 100 mL/kg**: infants <12 months 30 mL/kg in 1 h then 70 mL/kg in 5 h; children 30 mL/kg in 30 min then 70 mL/kg in 2.5 h."
+    },
+    {
+      "id": "pdrx-f36",
+      "front": "Shock in SAM: fluid and rate",
+      "back": "**15 mL/kg over 1 h** of Ringer's lactate with 5% dextrose (or half-strength Darrow's/0.45% saline with 5% dextrose); repeat once if improving; then ReSoMal 10 mL/kg/h. Not improving → blood 10 mL/kg over 3 h."
+    },
+    {
+      "id": "pdrx-f37",
+      "front": "Low-osmolarity ORS composition",
+      "back": "Na **75**, Cl 65, K **20**, citrate 10, glucose **75** mmol/L; **245 mOsm/L**. One sachet in 1 litre of clean water."
+    },
+    {
+      "id": "pdrx-f38",
+      "front": "Zinc in diarrhoea: UCG versus WHO 2024",
+      "back": "UCG 2023: **10 mg (<6 months) / 20 mg (≥6 months) daily × 10 days**. WHO 2024: suggests **5 mg daily for up to 14 days** (less vomiting)."
+    },
+    {
+      "id": "pdrx-f39",
+      "front": "F-75 volume",
+      "back": "**130 mL/kg/day** (≈100 kcal/kg/day) in 8 three-hourly feeds (12 two-hourly if very sick); **100 mL/kg/day with severe oedema**."
+    },
+    {
+      "id": "pdrx-f40",
+      "front": "RUTF dose (WHO 2023)",
+      "back": "**150–185 kcal/kg/day** until recovery (may reduce to 100–130 once no longer severely wasted). One 92 g sachet ≈ 500 kcal."
+    },
+    {
+      "id": "pdrx-f41",
+      "front": "Hypoglycaemia treatment in a child and a neonate",
+      "back": "Child: **10% dextrose 5 mL/kg IV** (threshold 2.5 mmol/L WHO, 3.0 UCG and SAM). Neonate: **2 mL/kg 10% dextrose** (<2.6 mmol/L). Never undiluted 50%: dilute 1 mL/kg 50% with 4 mL/kg water."
+    },
+    {
+      "id": "pdrx-f42",
+      "front": "Potassium chloride rules",
+      "back": "Only after **urine output** confirmed; **≤40 mmol/L** peripherally; **≤0.2 mmol/kg/h** on the ward; **never bolus**. Maintenance 1–2 mmol/kg/day."
+    },
+    {
+      "id": "pdrx-f43",
+      "front": "Paracetamol dose and maximum",
+      "back": "**15 mg/kg 6-hourly**, max **60 mg/kg/day** (4 g). Neonate 10 mg/kg 6–8-hourly. Toxic: **>150 mg/kg** (UCG: >200 mg/kg in under-6s)."
+    },
+    {
+      "id": "pdrx-f44",
+      "front": "Ibuprofen dose and contraindications",
+      "back": "**5–10 mg/kg 6–8-hourly** (max 40 mg/kg/day), only **>3 months**. Avoid in **dehydration/AKI, dengue/VHF, varicella**, GI bleeding."
+    },
+    {
+      "id": "pdrx-f45",
+      "front": "Oral morphine doses (UCG 2023)",
+      "back": "**1–2 years 0.2–0.4 mg/kg 4-hourly; 2–12 years 0.2–0.5 mg/kg 4-hourly** (max 10 mg start); IV 0.05–0.1 mg/kg. Add a laxative; monitor RR."
+    },
+    {
+      "id": "pdrx-f46",
+      "front": "Why no codeine or aspirin in children?",
+      "back": "Codeine: CYP2D6 ultra-rapid metabolisers → **fatal respiratory depression**. Aspirin: **Reye's syndrome** (<16 years), except Kawasaki/rheumatic fever under specialists."
+    },
+    {
+      "id": "pdrx-f47",
+      "front": "Adrenaline for anaphylaxis",
+      "back": "**1:1000 IM, 0.01 mL/kg** (anterolateral thigh): **<6 years 0.15 mL; 6–12 years 0.3 mL; >12 years 0.5 mL**. Repeat every 5 min."
+    },
+    {
+      "id": "pdrx-f48",
+      "front": "Adrenaline in cardiac arrest",
+      "back": "**1:10,000, 0.1 mL/kg (10 mcg/kg) IV/IO** every 3–5 min (max 1 mg). Make 1:10,000 by 1 mL of 1:1000 + 9 mL saline."
+    },
+    {
+      "id": "pdrx-f49",
+      "front": "Calcium gluconate 10% dose",
+      "back": "**0.5 mL/kg (max 20 mL) slow IV over 5–10 min**: hyperkalaemia, hypocalcaemia, Mg or CCB toxicity. Watch heart rate and the cannula site."
+    },
+    {
+      "id": "pdrx-f50",
+      "front": "Naloxone dose in children",
+      "back": "**0.01 mg/kg** (UCG), increasing to **0.1 mg/kg (max 2 mg)** IV/IM; repeat (short half-life) or infuse."
+    },
+    {
+      "id": "pdrx-f51",
+      "front": "Acetylcysteine regimen",
+      "back": "**150 mg/kg** over 15–60 min, **50 mg/kg** over 4 h, **100 mg/kg** over 16 h (for <20 kg in 3, 7 and 14 mL/kg of 5% dextrose)."
+    },
+    {
+      "id": "pdrx-f52",
+      "front": "Organophosphate poisoning: drugs and end-point",
+      "back": "**Atropine 0.02–0.05 mg/kg IV, doubling every 5 min** until **chest clear**, HR >80, BP normal, dry axillae; **pralidoxime 25–50 mg/kg** over 30 min. Wash skin."
+    },
+    {
+      "id": "pdrx-f53",
+      "front": "Kerosene ingestion: three things NOT to do",
+      "back": "**No emesis, no gastric lavage, no activated charcoal** (aspiration pneumonitis). Oxygen, observe ≥6 h."
+    },
+    {
+      "id": "pdrx-f54",
+      "front": "Iron poisoning thresholds and antidote",
+      "back": "<40 mg/kg elemental unlikely toxic; **>60 mg/kg serious**. **Desferrioxamine 15 mg/kg/h IV** (max 24 h). 200 mg ferrous sulphate = 60–65 mg elemental iron. Charcoal useless."
+    },
+    {
+      "id": "pdrx-f55",
+      "front": "Activated charcoal dose and exclusions",
+      "back": "**0.5–1 g/kg (max 50 g)** within 1 h. Not for kerosene, caustics, iron, alcohols, lithium, or an unprotected airway."
+    },
+    {
+      "id": "pdrx-f56",
+      "front": "TB drug mg/kg doses in children",
+      "back": "**H 10 (7–15), R 15 (10–20), Z 35 (30–40), E 20 (15–25) mg/kg** once daily."
+    },
+    {
+      "id": "pdrx-f57",
+      "front": "RHZ 75/50/150 weight bands",
+      "back": "**4–7.9 kg 1; 8–11.9 kg 2; 12–15.9 kg 3; 16–24.9 kg 4 tablets**; ≥25 kg adult FDCs. Same numbers for RH 75/50 and ethambutol 100 mg."
+    },
+    {
+      "id": "pdrx-f58",
+      "front": "Which children get the 4-month TB regimen?",
+      "back": "**Non-severe TB** (peripheral nodes, uncomplicated intrathoracic nodes or effusion, non-cavitary disease in one lobe) aged 3 months–16 years (UCG: 2 months–16 years): **2HRZ(E)/2HR** (SHINE)."
+    },
+    {
+      "id": "pdrx-f59",
+      "front": "Rifampicin and dolutegravir",
+      "back": "Rifampicin induces DTG metabolism: give **DTG twice daily** during rifampicin and for 2 weeks after."
+    },
+    {
+      "id": "pdrx-f60",
+      "front": "First-line ART for a 12 kg child in Uganda",
+      "back": "**ABC + 3TC + DTG** (pDTG 10 mg dispersible 20 mg, or pALD 60/30/5 four tablets). ≥30 kg: **TLD**."
+    },
+    {
+      "id": "pdrx-f61",
+      "front": "Vitamin A doses",
+      "back": "**<6 months 50,000 IU; 6–11 months 100,000 IU; ≥12 months 200,000 IU.** Measles: days 1, 2 and 14 (UCG). Routine: 6–11 months once, then every 6 months to 5 years."
+    },
+    {
+      "id": "pdrx-f62",
+      "front": "Albendazole and mebendazole doses",
+      "back": "Albendazole **200 mg (12–23 months), 400 mg (≥2 years)** single dose; mebendazole **500 mg** (250 mg <2 years). Not under 1 year."
+    },
+    {
+      "id": "pdrx-f63",
+      "front": "Vitamin K at birth",
+      "back": "**1 mg IM** (term), **0.5 mg IM** (preterm/LBW), within 1 h; prevents vitamin K deficiency bleeding."
+    },
+    {
+      "id": "pdrx-f64",
+      "front": "Caffeine citrate for apnoea of prematurity",
+      "back": "**Loading 20 mg/kg**, then **5 mg/kg once daily** (up to 20 mg/kg/day) from 24 h later; stop 4–5 days after the last apnoea."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "pdrx-q01",
+      "stem": "A 2-year-old girl weighing 12 kg is brought to Mengo Hospital with fever for 3 days and two generalised convulsions. She responds only to pain. Temperature 39.4°C, HR 156/min, RR 44/min, capillary refill 2 s, glucose 5.0 mmol/L, mRDT positive. What is the correct first dose of IV artesunate?",
+      "options": [
+        "29 mg (2.4 mg/kg)",
+        "24 mg (2 mg/kg)",
+        "60 mg (one full vial)",
+        "36 mg (3 mg/kg)",
+        "120 mg (10 mg/kg)"
+      ],
+      "answer": 3,
+      "explanation": "**D** is correct: children **under 20 kg** receive **3 mg/kg** IV artesunate (WHO since 2015, UCG 2023) because small children have lower drug exposure at 2.4 mg/kg: 3 × 12 = 36 mg (3.6 mL of the 10 mg/mL solution). **A** is wrong: 2.4 mg/kg is the dose for children ≥20 kg and adults. **B** is wrong: 2 mg/kg is not a recommended dose. **C** is wrong: giving a whole vial ignores weight-based dosing (5 mg/kg here). **E** is wrong: 10 mg/kg is the **rectal** pre-referral dose, not the IV dose.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q02",
+      "stem": "A 4-day-old boy born at 36 weeks weighing 2.2 kg is admitted to the neonatal unit with poor feeding, temperature 38.3°C and RR 72/min. He is visibly jaundiced to the abdomen. An IV line with Ringer's lactate has been started. Which antibiotic plan is MOST appropriate?",
+      "options": [
+        "Ceftriaxone 100 mg/kg IV once daily through the Ringer's lactate line",
+        "Ampicillin 50 mg/kg IV 12-hourly plus gentamicin 3 mg/kg IV once daily",
+        "Chloramphenicol 25 mg/kg IV 6-hourly",
+        "Cotrimoxazole 4 mg/kg trimethoprim IV 12-hourly",
+        "Amoxicillin 40 mg/kg orally 12-hourly"
+      ],
+      "answer": 1,
+      "explanation": "**B** is correct: first-line for neonatal sepsis is **ampicillin + gentamicin**; in the first week a low-birth-weight baby gets **gentamicin 3 mg/kg once daily** and ampicillin **12-hourly** (WHO; UCG uses 6-hourly). **A** is wrong: ceftriaxone displaces bilirubin in a jaundiced neonate and precipitates with the **calcium in Ringer's lactate** (potentially fatal). **C** is wrong: chloramphenicol causes **grey baby syndrome** in the first week of life. **D** is wrong: sulphonamides displace bilirubin (kernicterus) and are not first line for sepsis. **E** is wrong: a febrile, tachypnoeic, poorly feeding neonate needs parenteral antibiotics in hospital.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q03",
+      "stem": "A 3-year-old boy (14 kg) is convulsing in the emergency room. He received rectal diazepam 7 mg at arrival and IV diazepam 4 mg ten minutes later. Ten minutes after the second dose he is still convulsing. SpO₂ 93% on oxygen, glucose 5.6 mmol/L. What is the MOST appropriate next step?",
+      "options": [
+        "Give a third dose of diazepam 0.5 mg/kg rectally",
+        "Give paracetamol 15 mg/kg rectally and wait",
+        "Give phenobarbital 15–20 mg/kg IV over 15–20 minutes",
+        "Give 10% dextrose 5 mL/kg IV",
+        "Give phenytoin 15 mg/kg in 5% dextrose as a rapid IV push"
+      ],
+      "answer": 2,
+      "explanation": "**C** is correct: after **two benzodiazepine doses** the child is in established status epilepticus; give **phenobarbital 15–20 mg/kg IV (or IM)** over 15–20 min (UCG 10–15 mg/kg) with airway support, or phenytoin. **A** is wrong: more than two benzodiazepine doses greatly increases apnoea risk without much added benefit. **B** is wrong: antipyretics do not stop seizures. **D** is wrong: glucose is 5.6 mmol/L, so dextrose is not indicated. **E** is wrong: phenytoin **precipitates in dextrose** and must be infused slowly (≤1 mg/kg/min) in saline with cardiac monitoring; a rapid push causes arrhythmias.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q04",
+      "stem": "A 10 kg unconscious child with severe malaria has a glucose of 1.9 mmol/L. The emergency trolley has only 50% dextrose ampoules and water for injection. How should you prepare the dose?",
+      "options": [
+        "Give 10 mL of 50% dextrose IV undiluted",
+        "Give 2 mL/kg of 50% dextrose diluted with an equal volume of water",
+        "Give 50 mL of 50% dextrose diluted in 500 mL saline over 4 hours",
+        "Give 5 mL of 50% dextrose IV and recheck after 2 hours",
+        "Mix 10 mL of 50% dextrose with 40 mL of water and give 50 mL IV over a few minutes"
+      ],
+      "answer": 4,
+      "explanation": "**E** is correct: the dose is **10% dextrose 5 mL/kg = 50 mL**; to make it from 50% take **1 mL/kg of 50% (10 mL) + 4 mL/kg of water (40 mL)** (UCG 2023), then recheck glucose in 30 min. **A** is wrong: UCG states never give undiluted 50% dextrose to children (vein damage, extravasation necrosis). **B** is wrong: that makes 25% dextrose (an adult preparation) at double the glucose dose. **C** is wrong: a slow dilute infusion does not correct life-threatening hypoglycaemia quickly. **D** is wrong: 5 mL of 50% is only 2.5 g of glucose given undiluted, and 2 hours is too long to recheck.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q05",
+      "stem": "A 14-month-old girl weighing 6.1 kg (weight-for-length Z-score below −3, MUAC 10.6 cm, no oedema) has had watery diarrhoea for 5 days. She is lethargic with cold hands, capillary refill 4 s, weak fast pulse 168/min. Glucose 4.2 mmol/L. What fluid should you give?",
+      "options": [
+        "Ringer's lactate 20 mL/kg as rapidly as possible, repeated twice",
+        "Plan C: Ringer's lactate 100 mL/kg over 3 hours",
+        "Ringer's lactate with 5% dextrose 15 mL/kg over 1 hour, monitoring pulse and RR every 5–10 minutes",
+        "ReSoMal 5 mL/kg every 30 minutes orally",
+        "Packed cells 10 mL/kg over 3 hours as the first fluid"
+      ],
+      "answer": 2,
+      "explanation": "**C** is correct: a child with **SAM in shock** gets **15 mL/kg over 1 hour** of a dextrose-containing isotonic or half-strength fluid (Ringer's lactate with 5% dextrose, half-strength Darrow's or 0.45% saline with 5% dextrose), with close monitoring; repeat if improving, then ReSoMal. **A** is wrong: standard rapid boluses cause heart failure in SAM. **B** is wrong: Plan C volumes are for children without SAM. **D** is wrong: ReSoMal is for SAM with dehydration without shock (or after shock is treated); this child is shocked. **E** is wrong: blood is given if there is no improvement after the first hour (or severe anaemia), not as the first fluid.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pdrx-q06",
+      "stem": "An 18-month-old boy (10 kg) has cough for 3 days. RR 52/min with lower chest wall indrawing, SpO₂ 95% in air, temperature 38.2°C. He is alert, feeding and has no danger signs. His mother lives 2 km from the HC IV. According to WHO 2024 and UCG 2023, what is the MOST appropriate management?",
+      "options": [
+        "Oral amoxicillin 500 mg (two 250 mg dispersible tablets) twice daily for 5 days at home, with review at day 3",
+        "Admit for IV ampicillin and gentamicin",
+        "Oral amoxicillin 250 mg three times daily for 10 days",
+        "IM ceftriaxone 50 mg/kg daily for 5 days as an outpatient",
+        "Cotrimoxazole 240 mg twice daily for 5 days"
+      ],
+      "answer": 0,
+      "explanation": "**A** is correct: chest-indrawing pneumonia **without danger signs** (and SpO₂ ≥90%) is treated with **oral amoxicillin 40 mg/kg twice daily for 5 days** as an outpatient (WHO 2024 strong recommendation); UCG band for 1–3 years is **500 mg BD**. **B** is wrong: injectable antibiotics and admission are for severe pneumonia (danger signs or hypoxaemia). **C** is wrong: three-times-daily dosing for 10 days is not the recommended regimen (40 mg/kg twice daily for 5 days); longer courses add side effects, cost and resistance without benefit. **D** is wrong: daily injections are unnecessary and expose the child to injection risks. **E** is wrong: cotrimoxazole is no longer recommended for pneumonia because of resistance.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q07",
+      "stem": "A 4-year-old girl (16 kg) on the ward develops wheeze, facial swelling and a BP of 70/40 mmHg two minutes after starting IV ceftriaxone. What is the MOST appropriate first drug and dose?",
+      "options": [
+        "Adrenaline 1:1000, 0.15 mL IM into the anterolateral thigh",
+        "Hydrocortisone 50 mg IV",
+        "Chlorphenamine 1 mg orally",
+        "Adrenaline 1:1000, 1.6 mL IV",
+        "Adrenaline 1:10,000, 0.15 mL IM"
+      ],
+      "answer": 0,
+      "explanation": "**A** is correct: anaphylaxis is treated with **adrenaline 1:1000 IM 0.01 mL/kg**; children **<6 years get 0.15 mL (150 micrograms)** (UCG 2023), repeated every 5 min if needed, plus oxygen and saline 20 mL/kg for hypotension. **B** is wrong: steroids are slow adjuncts and do not treat the airway or shock. **C** is wrong: oral antihistamine is for itch after stabilisation. **D** is wrong: 1:1000 given IV (and at 0.1 mL/kg) is a dangerous overdose that can cause fatal arrhythmias. **E** is wrong: 1:10,000 at 0.15 mL delivers only 15 micrograms, a tenth of the dose.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q08",
+      "stem": "A 3-year-old (15 kg) collapses on the ward; there is no pulse and the monitor shows asystole. CPR is in progress and an intraosseous needle is in. Which adrenaline dose should be given?",
+      "options": [
+        "15 mL of 1:10,000 IO",
+        "0.15 mL of 1:1000 IM",
+        "1.5 mL of 1:1000 IO",
+        "0.5 mL of 1:1000 IO",
+        "1.5 mL of 1:10,000 IO, repeated every 3–5 minutes"
+      ],
+      "answer": 4,
+      "explanation": "**E** is correct: in cardiac arrest adrenaline is **10 micrograms/kg = 0.1 mL/kg of 1:10,000** IV/IO, repeated every 3–5 min: 0.1 × 15 = 1.5 mL. **A** is wrong: 15 mL of 1:10,000 is 1.5 mg, ten times the dose. **B** is wrong: IM adrenaline is for anaphylaxis, not arrest. **C** is wrong: 1.5 mL of 1:1000 is 1.5 mg, a tenfold overdose. **D** is wrong: 0.5 mL of 1:1000 (0.5 mg) is the adult anaphylaxis dose and too much for a 15 kg child in arrest.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q09",
+      "stem": "A 3-year-old boy (14 kg) swallowed ten 500 mg paracetamol tablets from his grandmother's handbag about 3 hours ago. He is well, alert and has vomited once. Paracetamol levels are not available at this hospital. What is the MOST appropriate management?",
+      "options": [
+        "Reassure and discharge because he is asymptomatic",
+        "Give activated charcoal and observe for 24 hours without an antidote",
+        "Start IV acetylcysteine 150 mg/kg, then 50 mg/kg over 4 h, then 100 mg/kg over 16 h, and check LFTs",
+        "Induce vomiting with salt water",
+        "Give oral vitamin K and repeat INR in 24 hours"
+      ],
+      "answer": 2,
+      "explanation": "**C** is correct: he has ingested 5 g = **357 mg/kg**, far above the toxic threshold (**>150 mg/kg**; UCG >200 mg/kg in under-6s). Without levels, treat on the history: **acetylcysteine** is most effective within 8 h; check glucose, LFTs, INR and creatinine. **A** is wrong: patients are usually asymptomatic for the first 24 h while liver injury develops. **B** is wrong: charcoal is most useful within 1 h, and withholding the antidote risks liver failure. **D** is wrong: induced vomiting is not recommended and salt water can cause hypernatraemia. **E** is wrong: vitamin K is the antidote for warfarin, not paracetamol.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q10",
+      "stem": "A 2-year-old girl (11 kg) drank paraffin (kerosene) from a soda bottle 30 minutes ago. She is coughing, RR 46/min, SpO₂ 95% in air. Her mother has already given her milk. What is the MOST appropriate management?",
+      "options": [
+        "Give activated charcoal 1 g/kg by nasogastric tube",
+        "Induce vomiting with ipecac to remove the kerosene",
+        "Perform gastric lavage within the first hour",
+        "Give oxygen as needed, avoid emesis, lavage and charcoal, and observe for at least 6 hours",
+        "Start IV ceftriaxone immediately for aspiration pneumonia"
+      ],
+      "answer": 3,
+      "explanation": "**D** is correct: the danger of kerosene is **aspiration chemical pneumonitis**; management is supportive (oxygen if SpO₂ falls, observation ≥6 h, CXR if breathless) and **no emesis, no lavage, no charcoal** (UCG 2023). **A** is wrong: charcoal does not bind hydrocarbons and provokes vomiting/aspiration. **B** is wrong: vomiting increases aspiration. **C** is wrong: lavage risks aspiration. **E** is wrong: antibiotics are given only if secondary bacterial pneumonia develops.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q11",
+      "stem": "A 6-year-old boy (20 kg) was found playing with a bottle of agricultural insecticide. He is drooling, wheezing, has profuse bronchial secretions, pinpoint pupils, HR 52/min and fasciculations. After decontamination you start IV atropine 1 mg. Which finding BEST tells you that atropine dosing is adequate?",
+      "options": [
+        "Dilated pupils",
+        "Heart rate above 140/min",
+        "A dry mouth",
+        "Return of normal muscle power",
+        "A clear chest on auscultation with no bronchorrhoea"
+      ],
+      "answer": 4,
+      "explanation": "**E** is correct: the goal of atropine in organophosphate poisoning is **drying of bronchial secretions** (clear chest), with HR >80/min, normal BP and dry axillae; double the dose every 5 min until reached. **A** is wrong: pupil size is a poor guide (miosis may persist). **B** is wrong: tachycardia is not the target and may reflect hypoxia or atropine excess. **C** is wrong: dry mouth occurs early and is not a reliable end-point. **D** is wrong: atropine does not reverse nicotinic muscle weakness; that needs **pralidoxime** and ventilation.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q12",
+      "stem": "A 2-day-old baby born at 35 weeks weighing 2.2 kg is started on ampicillin and gentamicin for suspected sepsis at a regional referral hospital. What is the correct gentamicin dose?",
+      "options": [
+        "6.6 mg IV once daily",
+        "16.5 mg IV once daily",
+        "5.5 mg IV 8-hourly",
+        "11 mg IV 12-hourly",
+        "22 mg IV once daily"
+      ],
+      "answer": 0,
+      "explanation": "**A** is correct: in the **first week** a **low-birth-weight** neonate gets **gentamicin 3 mg/kg once daily** (WHO Pocket Book): 3 × 2.2 = 6.6 mg. **B** is wrong: 7.5 mg/kg is the dose for older infants and children (and neonates in weeks 2–4). **C** is wrong: 8-hourly dosing is the old regimen and inappropriate for an immature kidney. **D** is wrong: 5 mg/kg 12-hourly doubles the daily dose. **E** is wrong: 10 mg/kg is an overdose with high oto- and nephrotoxicity risk.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q13",
+      "stem": "A 5-year-old (18 kg) with cerebral malaria is on IV quinine because artesunate is out of stock. Six hours into treatment he becomes restless and sweaty and has a brief generalised convulsion. Temperature 38.0°C. What should you do FIRST?",
+      "options": [
+        "Increase the quinine infusion rate",
+        "Check the blood glucose and give 10% dextrose 5 mL/kg if low",
+        "Give IV mannitol for raised intracranial pressure",
+        "Start phenytoin 20 mg/kg IV",
+        "Give dexamethasone for cerebral oedema"
+      ],
+      "answer": 1,
+      "explanation": "**B** is correct: **quinine stimulates insulin release**, and malaria itself causes hypoglycaemia; a restless, sweaty, convulsing child on quinine is hypoglycaemic until proven otherwise. Check glucose and give **10% dextrose 5 mL/kg**, then run quinine in dextrose and monitor glucose 4-hourly. **A** is wrong: faster quinine worsens hypoglycaemia and cardiotoxicity. **C** is wrong: mannitol is not routine in cerebral malaria. **D** is wrong: a second-line anticonvulsant is not the first step before excluding hypoglycaemia. **E** is wrong: steroids worsen outcome in cerebral malaria.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q14",
+      "stem": "An 8-year-old girl (22 kg) with acute asthma has received salbutamol 5 mg nebulised three times, ipratropium 250 micrograms three times and oral prednisolone 40 mg in the last hour. She still has severe indrawing, cannot complete sentences, SpO₂ 91% on oxygen, HR 150/min. What is the MOST appropriate next drug?",
+      "options": [
+        "Oral salbutamol syrup",
+        "Repeat prednisolone 40 mg",
+        "IV magnesium sulphate 880 mg (40 mg/kg) over 20 minutes",
+        "IV aminophylline 22 mg/kg as a rapid bolus",
+        "IV ceftriaxone"
+      ],
+      "answer": 2,
+      "explanation": "**C** is correct: severe asthma not responding to the first hour of bronchodilators and steroids → **IV MgSO₄ 40 mg/kg (max 2 g) over 20 min**: 40 × 22 = 880 mg. Call for senior help. **A** is wrong: oral salbutamol is slow and ineffective in severe asthma. **B** is wrong: steroids have been given and take hours to work; repeating does not help now. **D** is wrong: the aminophylline loading dose is **5–6 mg/kg over at least 20 min**; 22 mg/kg rapidly could cause fatal arrhythmias and seizures. **E** is wrong: asthma attacks are rarely bacterial; antibiotics do not treat bronchospasm.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pdrx-q15",
+      "stem": "A 2-year-old boy (12 kg) has had a barking cough for 2 days and now has stridor at rest, chest indrawing and agitation. SpO₂ 95%. He is not drooling. What is the MOST appropriate treatment?",
+      "options": [
+        "Examine the throat with a spatula, then give amoxicillin",
+        "Nebulised adrenaline 1:1000 5 mL plus dexamethasone 0.6 mg/kg orally, then observe for at least 2–4 hours",
+        "Nebulised salbutamol 2.5 mg every 20 minutes",
+        "IV ceftriaxone and IV fluids 20 mL/kg",
+        "Discharge with paracetamol and steam inhalation"
+      ],
+      "answer": 1,
+      "explanation": "**B** is correct: **severe croup** (stridor at rest, indrawing) needs **nebulised adrenaline 0.4–0.5 mL/kg of 1:1000 (max 5 mL)** for rapid effect plus a **steroid** (dexamethasone 0.15–0.6 mg/kg), with observation for rebound. **A** is wrong: examining the throat can precipitate complete obstruction, and croup is viral. **C** is wrong: salbutamol treats lower-airway bronchospasm, not subglottic oedema. **D** is wrong: antibiotics and boluses are not indicated. **E** is wrong: a child with stridor at rest needs admission.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q16",
+      "stem": "A 7-year-old girl (21 kg) with HIV on ABC/3TC/DTG is diagnosed with pulmonary TB and starts rifampicin-containing treatment. What change should be made to her ART?",
+      "options": [
+        "Stop ART until TB treatment is completed",
+        "Switch dolutegravir to nevirapine",
+        "No change is needed",
+        "Give dolutegravir twice daily during rifampicin and for 2 weeks after",
+        "Halve the dolutegravir dose"
+      ],
+      "answer": 3,
+      "explanation": "**D** is correct: **rifampicin induces** UGT1A1 and CYP3A, lowering DTG levels; give **DTG twice daily** during rifampicin and for 2 weeks after stopping it. **A** is wrong: ART should not be stopped; it is started or continued within 2–8 weeks of TB treatment depending on CD4/TB type. **B** is wrong: nevirapine interacts badly with rifampicin and has a lower barrier to resistance. **C** is wrong: once-daily DTG would be under-dosed. **E** is wrong: halving would make the under-dosing worse.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pdrx-q17",
+      "stem": "A 6-week-old HIV-exposed infant (4.6 kg) attends the young child clinic at Mengo. The mother has been on TLD for 3 years with a suppressed viral load; the infant completed 6 weeks of nevirapine. A DNA PCR sample is taken today. Which drug should be STARTED today?",
+      "options": [
+        "Cotrimoxazole 120 mg once daily",
+        "Cotrimoxazole 480 mg once daily",
+        "Zidovudine 15 mg twice daily",
+        "Isoniazid 50 mg daily",
+        "Nothing until the PCR result is back"
+      ],
+      "answer": 0,
+      "explanation": "**A** is correct: HIV-exposed infants start **cotrimoxazole prophylaxis at 6 weeks**; **<5 kg = 120 mg once daily** (UCG). Continue until HIV is excluded after breastfeeding ends. **B** is wrong: 480 mg is the dose for 15–29.9 kg. **C** is wrong: AZT is part of enhanced prophylaxis for high-risk infants only, from birth. **D** is wrong: isoniazid preventive therapy is for TB contacts or children living with HIV after excluding TB. **E** is wrong: prophylaxis should not wait for results; PCP peaks at 2–6 months.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q18",
+      "stem": "A 25 kg child admitted with bacterial meningitis is to receive IV maintenance fluids. Using the Uganda Clinical Guidelines 2023 formula, what is the FULL daily maintenance requirement, and what volume would you actually give?",
+      "options": [
+        "1,600 mL/day; give all of it",
+        "2,500 mL/day; give all of it",
+        "1,625 mL/day; give about two-thirds to three-quarters (≈1,100–1,200 mL/day)",
+        "1,250 mL/day; give double because of fever",
+        "1,000 mL/day; give all of it"
+      ],
+      "answer": 2,
+      "explanation": "**C** is correct: UCG: 100 × 10 + 50 × 10 + **25** × 5 = **1,625 mL/day**; in meningitis (ADH excess, cerebral oedema) give about **2/3–3/4 of maintenance** unless dehydrated or shocked. **A** is wrong: 1,600 mL is the Holliday–Segar figure (20 mL/kg above 20 kg), and full maintenance risks hyponatraemia in meningitis. **B** is wrong: 100 mL/kg for all 25 kg ignores the sliding scale. **D** is wrong: 1,250 mL is the requirement for 15 kg; fever adds about 10% per °C, not double. **E** is wrong: 1,000 mL covers only the first 10 kg.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q19",
+      "stem": "An 8-month-old boy weighing 7 kg has severe dehydration from watery diarrhoea (lethargic, very sunken eyes, unable to drink, skin pinch returns very slowly). He is not malnourished (WFL Z-score −1). How should Ringer's lactate be given?",
+      "options": [
+        "700 mL over 1 hour",
+        "210 mL over 30 minutes, then 490 mL over 2.5 hours",
+        "140 mL over 1 hour only, then oral ORS",
+        "525 mL (75 mL/kg) of ORS over 4 hours",
+        "210 mL over 1 hour, then 490 mL over 5 hours"
+      ],
+      "answer": 4,
+      "explanation": "**E** is correct: Plan C for an infant **<12 months** is **100 mL/kg Ringer's lactate: 30 mL/kg (210 mL) in 1 hour, then 70 mL/kg (490 mL) in 5 hours**, reassessing frequently and repeating the first part if the radial pulse is still weak. **A** is wrong: the whole volume in 1 h is too fast. **B** is wrong: 30 min + 2.5 h is the schedule for children **≥12 months**. **C** is wrong: 20 mL/kg alone under-treats severe dehydration. **D** is wrong: ORS 75 mL/kg over 4 h is Plan B (some dehydration), and this child cannot drink.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pdrx-q20",
+      "stem": "A 3-year-old girl (14 kg) has bloody diarrhoea for 2 days with fever 38.5°C. She is drinking eagerly with sunken eyes. Which treatment combination is MOST appropriate?",
+      "options": [
+        "Metronidazole 7.5 mg/kg 8-hourly for 7 days",
+        "ORS Plan B, zinc, and ciprofloxacin 210 mg (15 mg/kg) twice daily for 3 days",
+        "ORS only; antibiotics are not recommended for diarrhoea in children",
+        "Amoxicillin 40 mg/kg twice daily for 5 days",
+        "Loperamide and ORS"
+      ],
+      "answer": 1,
+      "explanation": "**B** is correct: she has **dysentery with some dehydration**: **Plan B ORS** (75 mL/kg over 4 h), **zinc**, and **ciprofloxacin 15 mg/kg 12-hourly × 3 days** (WHO 2024 first line; ceftriaxone second line). **A** is wrong: metronidazole is for amoebiasis (confirmed trophozoites or failure of shigella treatment), not first-line dysentery. **C** is wrong: WHO 2024 strongly recommends antibiotics for diarrhoea with blood in the stool (it advises against them in acute watery diarrhoea). **D** is wrong: amoxicillin is ineffective against *Shigella*. **E** is wrong: antimotility drugs are contraindicated in children, especially with dysentery.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q21",
+      "stem": "A 2-day-old term baby (3.2 kg) has repeated episodes of lip-smacking and rhythmic jerking of the right arm. Glucose 3.4 mmol/L, temperature 36.9°C. What is the MOST appropriate first anticonvulsant?",
+      "options": [
+        "Phenobarbital 64 mg (20 mg/kg) IV over 15–20 minutes",
+        "Phenytoin 20 mg/kg in 10% dextrose",
+        "Diazepam 0.5 mg/kg rectally",
+        "Carbamazepine 5 mg/kg orally",
+        "Midazolam infusion"
+      ],
+      "answer": 0,
+      "explanation": "**A** is correct: **phenobarbital 20 mg/kg** IV (or IM) is first line for neonatal seizures (20 × 3.2 = 64 mg), with further 10 mg/kg doses to 40 mg/kg if needed, after excluding hypoglycaemia (glucose is normal here). **C** is wrong: diazepam is avoided in neonates (apnoea, displacement of bilirubin by the benzoate vehicle, short action). **B** is wrong: phenytoin is second line and must never be given in dextrose. **D** is wrong: oral carbamazepine has no role in acute neonatal seizures. **E** is wrong: midazolam infusions are for refractory seizures in NICU.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q22",
+      "stem": "A nurse on the paediatric ward reads a handwritten chart: 'Morphine .5 mg IV 4-hourly' for a 5 kg infant after surgery and draws up 5 mg. Which prescribing rule would have prevented this error?",
+      "options": [
+        "Always use a trailing zero, e.g. 5.0 mg",
+        "Always write a leading zero before a decimal point, e.g. 0.5 mg",
+        "Abbreviate micrograms as µg",
+        "Prescribe morphine in mL only",
+        "Write 'u' for units"
+      ],
+      "answer": 1,
+      "explanation": "**B** is correct: a **leading zero** (0.5 mg) prevents the decimal point being missed; writing **500 micrograms** is even safer. **A** is wrong: trailing zeros (5.0) cause tenfold overdoses when the point is missed (read as 50). **C** is wrong: 'µg' is misread as 'mg' (a thousandfold error); write micrograms in full. **D** is wrong: prescribing in mL alone without strength is a classic error source. **E** is wrong: 'u' is misread as a zero; write 'units'.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q23",
+      "stem": "A 9-year-old boy (24 kg) with sickle cell disease is admitted with a severe painful crisis in both legs (pain score 8/10). He is well hydrated, SpO₂ 97%. Which analgesic is LEAST appropriate?",
+      "options": [
+        "Paracetamol 15 mg/kg 6-hourly",
+        "Ibuprofen 5–10 mg/kg 8-hourly with food",
+        "Oral morphine 0.2–0.4 mg/kg 4-hourly with a laxative",
+        "Codeine phosphate syrup 1 mg/kg 6-hourly",
+        "IV morphine 0.05–0.1 mg/kg titrated, with RR and SpO₂ monitoring"
+      ],
+      "answer": 3,
+      "explanation": "**D** is correct (least appropriate): **codeine is not used in children** (UCG 2023, WHO): CYP2D6 ultra-rapid metabolisers can develop fatal respiratory depression, and poor metabolisers get no relief. **A** is wrong as an answer: paracetamol is step 1 and appropriate. **B** is wrong as an answer: ibuprofen is appropriate in a hydrated child with normal renal function. **C** is wrong as an answer: oral morphine is appropriate for severe pain. **E** is wrong as an answer: titrated IV morphine with monitoring is standard for severe crisis pain.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q24",
+      "stem": "A 10-month-old girl (8 kg) has measles with conjunctivitis and a cough. She has not received any vitamin A in the last month. What vitamin A regimen is correct per UCG 2023?",
+      "options": [
+        "50,000 IU once",
+        "100,000 IU on day 1, day 2 and day 14",
+        "200,000 IU on day 1 and day 2",
+        "100,000 IU once only",
+        "200,000 IU every 6 months"
+      ],
+      "answer": 1,
+      "explanation": "**B** is correct: UCG 2023 gives **three doses** of vitamin A in measles (diagnosis, next day and day 14); at **6–12 months the dose is 100,000 IU**. **A** is wrong: 50,000 IU is for infants under 6 months. **C** is wrong: 200,000 IU is for children over 12 months. **D** is wrong: a single dose is routine supplementation, not measles treatment. **E** is wrong: 6-monthly 200,000 IU is routine supplementation from 12 months.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q25",
+      "stem": "A 10-year-old girl (28 kg) has rheumatic heart disease with mitral regurgitation. She asks how her monthly injection is dosed. What is her correct secondary prophylaxis?",
+      "options": [
+        "Benzathine penicillin 1.2 MU IV every 4 weeks",
+        "Oral amoxicillin 40 mg/kg twice daily",
+        "Benzathine penicillin 2.4 MU IM every 2 weeks",
+        "Benzathine penicillin 50,000 IU/kg IM once only",
+        "Benzathine penicillin 600,000 IU deep IM every 4 weeks"
+      ],
+      "answer": 4,
+      "explanation": "**E** is correct: for children **<30 kg** secondary prophylaxis is **benzathine penicillin 600,000 IU deep IM every 4 weeks** (1.2 MU from 30 kg), continued for many years (at least 10 years after the last attack/until early adulthood; longer with significant valve disease). **A** is wrong: benzathine penicillin must **never be given IV** (cardiorespiratory arrest). **B** is wrong: amoxicillin is not the prophylactic agent and adherence to twice-daily oral therapy is poor. **C** is wrong: 2.4 MU is an adult syphilis dose. **D** is wrong: 50,000 IU/kg single dose is for asymptomatic congenital syphilis.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q26",
+      "stem": "A 2-year-old boy (11 kg) swallowed about 20 of his mother's ferrous sulphate 200 mg tablets 2 hours ago. He has vomited blood twice, is drowsy and has a capillary refill of 3 s. What is the MOST appropriate specific treatment after resuscitation?",
+      "options": [
+        "Activated charcoal 1 g/kg",
+        "Desferrioxamine 15 mg/kg/h IV infusion",
+        "Acetylcysteine 150 mg/kg IV",
+        "Atropine 0.02 mg/kg IV",
+        "Induced vomiting"
+      ],
+      "answer": 1,
+      "explanation": "**B** is correct: 20 × 60–65 mg = about **1,250 mg elemental iron ≈ 115 mg/kg** (>60 mg/kg is serious) with GI bleeding, drowsiness and poor perfusion: give fluids and **desferrioxamine 15 mg/kg/h IV** (max 80 mg/kg/day, not >24 h). **A** is wrong: charcoal does not bind iron. **C** is wrong: acetylcysteine is for paracetamol. **D** is wrong: atropine is for organophosphates or vagal bradycardia. **E** is wrong: induced vomiting is not recommended and he is already vomiting blood.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q27",
+      "stem": "A 3-year-old boy (13 kg) on day 4 of ampicillin and gentamicin 7.5 mg/kg daily for pyelonephritis has passed only 0.3 mL/kg/h of urine for 12 hours; creatinine has risen from 30 to 75 µmol/L. He is well perfused. What is the MOST appropriate change?",
+      "options": [
+        "Continue gentamicin but give it 12-hourly",
+        "Double the gentamicin dose to overcome the infection",
+        "Add furosemide and continue gentamicin",
+        "Stop gentamicin and switch to ceftriaxone, review fluids and check potassium",
+        "Stop all antibiotics"
+      ],
+      "answer": 3,
+      "explanation": "**D** is correct: rising creatinine and oliguria on an aminoglycoside suggest **nephrotoxicity**; **stop gentamicin**, switch to a non-nephrotoxic antibiotic (**ceftriaxone** 50–80 mg/kg daily), review fluid balance and check potassium. **A** is wrong: more frequent dosing raises troughs and worsens toxicity. **B** is wrong: higher doses worsen kidney and ear damage. **C** is wrong: furosemide adds ototoxicity and does not fix the cause. **E** is wrong: pyelonephritis still needs treatment.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q28",
+      "stem": "A 5-year-old boy weighing 17 kg has uncomplicated malaria (mRDT positive, alert, drinking, no danger signs, Hb 10.5 g/dL). Which regimen is correct?",
+      "options": [
+        "Artemether–lumefantrine 1 tablet twice daily for 3 days",
+        "Artemether–lumefantrine 2 tablets at 0 and 8 hours, then 2 tablets twice daily on days 2 and 3, with milk or food",
+        "Artemether–lumefantrine 4 tablets once daily for 3 days",
+        "IV artesunate 3 mg/kg at 0, 12 and 24 hours",
+        "Quinine tablets 300 mg 8-hourly for 7 days"
+      ],
+      "answer": 1,
+      "explanation": "**B** is correct: AL band **15–24 kg = 2 tablets** per dose, six doses over 3 days (0 h, 8 h, then twice daily), with **fatty food or milk** to improve lumefantrine absorption. **A** is wrong: 1 tablet is the 5–14 kg band. **C** is wrong: AL is given twice daily; once-daily dosing gives inadequate lumefantrine levels. **D** is wrong: IV artesunate is for severe malaria. **E** is wrong: quinine is used only if no ACT is available, and 300 mg is the dose for 24–30 kg.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q29",
+      "stem": "A 3-year-old girl (13 kg) has a 4 cm matted cervical lymph node mass for 6 weeks, fever and weight loss. Her chest X-ray is normal and Xpert on a node aspirate detects TB, rifampicin-sensitive. She is HIV-negative. What is the MOST appropriate regimen?",
+      "options": [
+        "2HRZE/10HR (12 months)",
+        "RHZ 75/50/150 three tablets daily for 2 months, then RH 75/50 three tablets daily for 2 months",
+        "RHZ 75/50/150 two tablets daily for 6 months",
+        "Isoniazid 10 mg/kg daily for 6 months",
+        "Streptomycin plus HRZE for 2 months then HRE for 6 months"
+      ],
+      "answer": 1,
+      "explanation": "**B** is correct: peripheral lymph node TB is **non-severe** TB, so she is eligible for the **4-month regimen 2HRZ/2HR** (WHO 2022; adopted in UCG 2023); at **12–15.9 kg** the dose is **3 tablets** of each dispersible FDC. **A** is wrong: 12 months is for TB meningitis and osteoarticular TB. **C** is wrong: 2 tablets under-doses a 13 kg child, and HRZ for 6 months is not a regimen. **D** is wrong: isoniazid alone is preventive therapy, not treatment of disease. **E** is wrong: streptomycin regimens are obsolete for children.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q30",
+      "stem": "A 14-year-old girl living with HIV now weighs 42 kg. She is on ABC/3TC/DTG with a suppressed viral load. What is the preferred regimen for her weight according to Uganda guidelines?",
+      "options": [
+        "TDF/3TC/DTG (TLD) one tablet once daily",
+        "ABC/3TC + LPV/r",
+        "TDF/3TC/EFV 600",
+        "AZT/3TC/NVP",
+        "Continue paediatric dispersible tablets by weight band"
+      ],
+      "answer": 0,
+      "explanation": "**A** is correct: adolescents **≥30 kg** move to **TLD** (tenofovir/lamivudine/dolutegravir) once daily, the preferred first line (Uganda consolidated guidelines 2022, UCG 2023); switching a suppressed child on DTG to TLD keeps the DTG anchor and simplifies to one pill. **D** is wrong: NVP-based regimens are no longer preferred (resistance, toxicity). **B** is wrong: LPV/r is an alternative or second-line drug. **C** is wrong: EFV 600 is not preferred; EFV 400 is an alternative only if DTG is contraindicated. **E** is wrong: dispersible paediatric formulations are for <20–25 kg.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q31",
+      "stem": "A 5-year-old boy (18 kg) on cotrimoxazole prophylaxis for HIV presents with fever, red eyes, painful mouth ulcers and blistering target lesions over his trunk 3 weeks after restarting it. What is the MOST appropriate action?",
+      "options": [
+        "Halve the cotrimoxazole dose",
+        "Give chlorphenamine and continue cotrimoxazole",
+        "Stop cotrimoxazole permanently, admit for supportive care, and use dapsone for prophylaxis later",
+        "Switch to sulfadoxine–pyrimethamine for malaria protection",
+        "Give a course of oral prednisolone and restart cotrimoxazole once the rash fades"
+      ],
+      "answer": 2,
+      "explanation": "**C** is correct: this is **Stevens–Johnson syndrome** (mucosal involvement + target lesions/blisters): **stop the drug permanently**, admit (fluids, eye and mouth care, analgesia, infection control) and use **dapsone** as alternative PCP prophylaxis. **A** is wrong: SJS is idiosyncratic; any dose can continue the reaction. **B** is wrong: antihistamines do not treat SJS and continuing the drug can be fatal. **D** is wrong: SP is also a sulphonamide and must be avoided. **E** is wrong: rechallenge after SJS is contraindicated.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pdrx-q32",
+      "stem": "A 4-year-old girl (16 kg) with gastroenteritis was given IV metoclopramide 5 mg for vomiting. One hour later her eyes roll upwards and her neck twists to one side; she is conscious and frightened. Glucose 5.4 mmol/L. What is the MOST likely diagnosis and treatment?",
+      "options": [
+        "Febrile seizure: give rectal diazepam 0.5 mg/kg",
+        "Hypoglycaemia: give 10% dextrose 5 mL/kg",
+        "Meningitis: give ceftriaxone 100 mg/kg",
+        "Hypocalcaemic tetany: give calcium gluconate",
+        "Acute dystonic reaction: stop metoclopramide and give diphenhydramine (or benztropine)"
+      ],
+      "answer": 4,
+      "explanation": "**E** is correct: oculogyric crisis and torticollis in a conscious child after metoclopramide is an **acute dystonic reaction** (dopamine blockade); stop the drug and give an anticholinergic such as **diphenhydramine 1 mg/kg IV** (or benztropine/procyclidine); diazepam is an alternative. Avoid metoclopramide in children. **A** is wrong: she is conscious with sustained posturing, not a seizure. **B** is wrong: glucose is normal. **C** is wrong: there are no features of meningitis. **D** is wrong: tetany causes carpopedal spasm, not oculogyric crisis.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q33",
+      "stem": "A 3-year-old boy (14 kg) drank part of a bottle of his grandmother's oral morphine solution. He is very drowsy with pinpoint pupils, RR 8/min and SpO₂ 86%. After opening the airway and starting bag-mask ventilation with oxygen, which drug should you give?",
+      "options": [
+        "Naloxone 0.1 mg/kg (1.4 mg) IV or IM, repeated as needed",
+        "Flumazenil 10 micrograms/kg IV",
+        "Atropine 0.02 mg/kg IV",
+        "Activated charcoal 1 g/kg by mouth",
+        "Diazepam 0.3 mg/kg IV"
+      ],
+      "answer": 0,
+      "explanation": "**A** is correct: opioid toxidrome (coma, miosis, respiratory depression) is reversed by **naloxone**; UCG starts at 0.01 mg/kg and increases to **0.1 mg/kg (max 2 mg)** if no response; in a severely depressed child give the full dose and repeat or infuse because naloxone wears off in about an hour. **B** is wrong: flumazenil reverses benzodiazepines. **C** is wrong: atropine treats bradycardia/organophosphates. **D** is wrong: oral charcoal in a drowsy child with an unprotected airway risks aspiration. **E** is wrong: diazepam would deepen respiratory depression.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pdrx-q34",
+      "stem": "At a health centre II in Wakiso, a village health team member brings a 2-year-old (12 kg) with fever, repeated vomiting and inability to sit up. There are no injectable antimalarials. The nearest hospital is 25 km away. What is the MOST appropriate action?",
+      "options": [
+        "Give artemether–lumefantrine 1 tablet and review tomorrow",
+        "Give paracetamol and observe for 24 hours",
+        "Give rectal artesunate 200 mg and send home with AL",
+        "Give oral quinine 150 mg and refer if no improvement in 48 hours",
+        "Give rectal artesunate 100 mg (one suppository) and refer immediately to hospital"
+      ],
+      "answer": 4,
+      "explanation": "**E** is correct: a child with danger signs (vomiting everything, prostration) has suspected severe malaria; without injectables, give **rectal artesunate 10 mg/kg** (UCG band 5–<14 kg = **one 100 mg suppository**) and **refer immediately** for IV artesunate and a full ACT. **A** is wrong: a child who vomits everything cannot take oral ACT and needs parenteral therapy. **C** is wrong: 200 mg is the band for 14–19 kg, and rectal artesunate is never a complete treatment (CARAMAL lesson). **D** is wrong: oral treatment is unreliable with vomiting, and delay is dangerous. **B** is wrong: observation without antimalarial treatment risks death.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pdrx-q35",
+      "stem": "A 7-month-old (7.5 kg) is admitted with severe anaemia (Hb 3.6 g/dL), malaria and respiratory distress; HR 170/min, capillary refill 2 s, liver 3 cm. The intern prescribes Ringer's lactate 20 mL/kg as a bolus while waiting for blood. What is the BEST response?",
+      "options": [
+        "Agree: give the bolus rapidly to support circulation",
+        "Agree, but give 40 mL/kg instead",
+        "Give 10 mL/kg of 50% dextrose instead",
+        "Cancel the bolus; transfuse whole blood 20 mL/kg (or packed cells 10 mL/kg) urgently, start IV artesunate, and watch for overload",
+        "Give furosemide 1 mg/kg and no blood"
+      ],
+      "answer": 3,
+      "explanation": "**D** is correct: a child with **severe anaemia** and respiratory distress needs **blood**, not crystalloid: boluses dilute Hb further and precipitate heart failure (FEAST). Transfuse **20 mL/kg whole blood or 10 mL/kg packed cells over 3–4 h** (TRACT supports 30 mL/kg whole blood in afebrile children), treat malaria, monitor for overload. **A** and **B** are wrong: crystalloid boluses worsen oxygen delivery and overload the heart. **C** is wrong: 50% dextrose is never given undiluted and glucose is not the problem. **E** is wrong: furosemide alone does not correct the anaemia; it is used only if overload develops.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "pdrx-c01",
+      "title": "Cerebral malaria: artesunate, glucose and the convulsing toddler",
+      "presentation": "A 2-year-old girl is brought to Mengo Hospital from Kasangati HC IV with 3 days of fever and two convulsions this morning. At the HC IV she received rectal diazepam 5 mg and IM artesunate 30 mg 4 hours ago. On arrival she responds only to pain (P on AVPU), temperature 39.2°C, HR 160/min, RR 48/min with deep breathing, capillary refill 3 s, warm hands, mild pallor. Weight 11 kg (WFH Z-score −1), MUAC 13.5 cm, no oedema. Immunisation up to date by card; mother HIV-negative.",
+      "steps": [
+        {
+          "prompt": "What are your immediate priorities in the first 5 minutes?",
+          "answer": "ETAT: airway (recovery position, suction), **oxygen** for deep breathing/low SpO₂, IV access, **bedside glucose** and **Hb (HemoCue)**, mRDT. Estimate and confirm weight (11 kg). Check the referral note: she has had **one benzodiazepine dose** and **IM artesunate at hour 0** (next dose due at hour 12, not a new loading dose)."
+        },
+        {
+          "prompt": "Glucose is 2.0 mmol/L. What do you give and how do you make it?",
+          "answer": "**10% dextrose 5 mL/kg = 55 mL IV** over a few minutes. From 50%: **11 mL of 50% + 44 mL water**. Never undiluted 50%. Recheck glucose in 30 min, then start a dextrose-containing maintenance fluid or NGT feeds; check glucose 4–6-hourly."
+        },
+        {
+          "prompt": "She starts convulsing again 20 minutes later and is still fitting at 5 minutes. Glucose now 5.8 mmol/L. What do you give?",
+          "answer": "Second benzodiazepine dose: **diazepam 0.2–0.3 mg/kg IV (about 3 mg)** or **0.5 mg/kg rectally (5.5 mg)**, max 10 mg. This is her **second** dose. If she is still fitting 10 min later: **phenobarbital 15–20 mg/kg (165–220 mg) IV over 15–20 min** (UCG 10–15 mg/kg) with bag-mask ready, or phenytoin 15–20 mg/kg in saline with cardiac monitoring."
+        },
+        {
+          "prompt": "Hb is 4.8 g/dL. How do you manage fluids and the anaemia?",
+          "answer": "Hb 4–6 with impaired consciousness and deep breathing = **transfuse**: whole blood **20 mL/kg (220 mL)** or packed cells 10 mL/kg over 3–4 h (TRACT: 30 mL/kg whole blood helped afebrile children). **No crystalloid bolus** (FEAST). Maintenance at about 2/3–3/4 of 1,050 mL/day (100 × 10 + 50 × 1) because of coma; watch for overload (crackles, liver)."
+        },
+        {
+          "prompt": "How do you continue antimalarial treatment and what follow-up is needed?",
+          "answer": "**IV artesunate 3 mg/kg = 33 mg** at 12 h and 24 h after the first dose, then daily until she can drink (minimum 24 h), then a **full 3-day ACT** (UCG 2023 discharges severe malaria on **DP**). **PDMC**: monthly DP for 3 months. **Hb at 2–3 weeks** for post-artesunate delayed haemolysis; neurological follow-up; mosquito net counselling."
+        }
+      ],
+      "takeaway": "In cerebral malaria the drug sequence is artesunate (3 mg/kg under 20 kg), glucose (10% dextrose 5 mL/kg), no more than two benzodiazepine doses then phenobarbital, and blood rather than boluses for severe anaemia."
+    },
+    {
+      "id": "pdrx-c02",
+      "title": "The jaundiced, septic neonate: choosing safe antibiotics",
+      "presentation": "A 5-day-old boy born at 36 weeks (birth weight 2.3 kg, now 2.1 kg) is brought to the Mengo neonatal unit with poor feeding for 1 day, lethargy and a temperature of 38.4°C. RR 70/min with grunting, HR 176/min, capillary refill 3 s, SpO₂ 90% in air. He is jaundiced to the knees. The mother had prolonged rupture of membranes (26 h). She is HIV-negative; the baby received vitamin K, tetracycline eye ointment, BCG and OPV0.",
+      "steps": [
+        {
+          "prompt": "What are the first steps?",
+          "answer": "Warmth (skin-to-skin or radiant warmer), **oxygen** to SpO₂ ≥90–95%, IV access, **glucose** (treat <2.6 mmol/L with 2 mL/kg 10% dextrose), blood culture and FBC/CRP if available before antibiotics (do not delay them), serum bilirubin. Weight for dosing: **2.1 kg**."
+        },
+        {
+          "prompt": "Which antibiotics and doses?",
+          "answer": "**Ampicillin 50 mg/kg = 105 mg IV 12-hourly** (WHO week 1; UCG 6-hourly) **+ gentamicin 3 mg/kg = 6.3 mg IV once daily** (LBW, week 1). Once he is >7 days old, gentamicin becomes 7.5 mg/kg once daily and ampicillin 8-hourly."
+        },
+        {
+          "prompt": "A colleague suggests ceftriaxone through the Ringer's lactate drip because 'it covers meningitis'. Respond.",
+          "answer": "**Not in this baby**: ceftriaxone **displaces bilirubin** (kernicterus risk in a jaundiced preterm) and forms **fatal precipitates with calcium** (Ringer's lactate contains calcium). If meningitis is suspected and a cephalosporin is needed, use **cefotaxime 50 mg/kg 8–12-hourly** or higher-dose ampicillin (100 mg/kg) + gentamicin; and do an **LP** when stable."
+        },
+        {
+          "prompt": "What fluids do you prescribe?",
+          "answer": "Day 5: **150 mL/kg/day** total in principle, but if he is on IV fluids only, keep **≤100 mL/kg/day** unless under phototherapy/radiant heater or dehydrated (UCG): about **210 mL/day of 10% dextrose with electrolytes** (or half-normal saline/5% dextrose), plus **expressed breast milk by NGT** as he tolerates; phototherapy increases losses (+10–20%)."
+        },
+        {
+          "prompt": "He has a 2-minute focal seizure on day 2 of treatment. Glucose 3.8 mmol/L. What next?",
+          "answer": "**Phenobarbital 20 mg/kg = 42 mg IV** over 15–20 min (further 10 mg/kg doses to 40 mg/kg), maintenance 5 mg/kg/day; check calcium and sodium; **LP for meningitis** (if positive: antibiotics for **14–21 days**). Avoid diazepam in neonates. Monitor breathing (apnoea) after phenobarbital."
+        }
+      ],
+      "takeaway": "Neonatal antibiotics are dosed by weight and postnatal age; ceftriaxone with jaundice or calcium, chloramphenicol in week 1 and diazepam for neonatal fits are classic errors."
+    },
+    {
+      "id": "pdrx-c03",
+      "title": "Severe acute malnutrition with diarrhoea and shock",
+      "presentation": "A 16-month-old boy is brought to the Mwanamugimu Nutrition Unit at Mulago with diarrhoea for 7 days and vomiting. Weight 6.4 kg, length 74 cm (WFL Z-score < −3), MUAC 10.9 cm, no oedema. He is lethargic, hands cold, capillary refill 4 s, weak pulse 172/min, RR 50/min, temperature 35.6°C. Glucose 2.4 mmol/L. HIV status unknown; mother on ART.",
+      "steps": [
+        {
+          "prompt": "What is your diagnosis and first actions?",
+          "answer": "**Complicated SAM with shock and hypoglycaemia** (and hypothermia). Oxygen, IV access, **10% dextrose 5 mL/kg = 32 mL IV**, warm the child (skin-to-skin, blankets), blood for Hb, malaria test, electrolytes, culture; HIV test."
+        },
+        {
+          "prompt": "Which fluid, how much and how fast?",
+          "answer": "**15 mL/kg over 1 hour = 96 mL** of **Ringer's lactate with 5% dextrose** (or half-strength Darrow's with 5% dextrose / 0.45% saline with 5% dextrose). Check **pulse and RR every 5–10 min**: **stop if pulse rises ≥25/min or RR ≥5/min** (overload). If improving, repeat 15 mL/kg over 1 h, then switch to **ReSoMal 10 mL/kg/h orally/NGT for up to 10 h**."
+        },
+        {
+          "prompt": "Which antibiotics?",
+          "answer": "All complicated SAM: **ampicillin 50 mg/kg = 320 mg IV/IM 6-hourly × 2 days**, then **oral amoxicillin** to complete 7 days, **plus gentamicin 7.5 mg/kg = 48 mg once daily × 7 days**. Add ceftriaxone if no improvement at 48 h or meningitis suspected. Treat malaria if positive."
+        },
+        {
+          "prompt": "How do you start feeding and what micronutrients do you give or withhold?",
+          "answer": "**F-75 130 mL/kg/day = about 830 mL/day**, ~105 mL every 3 h (or 70 mL 2-hourly at first), **day and night**; breastfeed. **No iron** in stabilisation. **Vitamin A only if eye signs or measles**. Zinc/potassium/magnesium come in the mineral mix (no extra KCl bolus). Monitor glucose and temperature."
+        },
+        {
+          "prompt": "Day 6: oedema-free, appetite good, eating RUTF. How much RUTF and what else before discharge to OTC?",
+          "answer": "WHO 2023: **RUTF 150–185 kcal/kg/day** → about **960–1,180 kcal ≈ 2–2.5 sachets (92 g, 500 kcal) per day**, with clean water and continued breastfeeding. No extra iron (RUTF has it). **Albendazole** if ≥1 year (200 mg at 12–23 months), measles vaccine if missed, HIV result and ART/CPT as indicated, follow-up weekly at OTC."
+        }
+      ],
+      "takeaway": "In SAM, fluids are slow (15 mL/kg over 1 h with dextrose), antibiotics are always given, iron is withheld in stabilisation, and F-75 is fed every 2–3 hours day and night."
+    },
+    {
+      "id": "pdrx-c04",
+      "title": "Organophosphate poisoning in a farming household",
+      "presentation": "A 4-year-old boy (16 kg) is brought to a regional referral hospital 40 minutes after drinking from a soda bottle containing a pesticide used on the family's tomatoes. He is drooling, vomiting, has diarrhoea and is wheezing with copious secretions. Pupils pinpoint, HR 56/min, BP 80/50, RR 36/min, SpO₂ 88% in air, fasciculations of the chest wall. Glucose 6.2 mmol/L.",
+      "steps": [
+        {
+          "prompt": "What are your immediate actions?",
+          "answer": "**Protect staff** (gloves), remove contaminated clothes and wash the skin; **airway** (suction), **high-flow oxygen**, IV access. Do **not** induce vomiting. Call for senior help: he may need ventilation. Bring the bottle for identification."
+        },
+        {
+          "prompt": "Which drug do you give first, at what dose, and how do you titrate it?",
+          "answer": "**Atropine 0.02–0.05 mg/kg IV** (UCG child 0.05 mg/kg) = about **0.8 mg**, then **double the dose every 5 min** until **atropinised**: chest clear of secretions, HR >80/min, SBP normal, dry axillae. Then an infusion and slow weaning over 24 h+. Pupils are not the end-point."
+        },
+        {
+          "prompt": "What else is specific?",
+          "answer": "**Pralidoxime 25–50 mg/kg IV over 30 min** (400–800 mg), then **10–20 mg/kg/h** infusion (UCG), most useful within 24 h. **Diazepam 0.2–0.3 mg/kg IV** for fits. Activated charcoal 1 g/kg only if within 1 h and airway protected."
+        },
+        {
+          "prompt": "Two hours later he is agitated, hot (38.9°C), HR 168/min, with dry skin and no bowel sounds; the chest is clear. Interpret.",
+          "answer": "**Atropine toxicity** (anticholinergic: hot, dry, tachycardic, agitated, ileus). **Stop or reduce the atropine infusion**, cool, reassess every 15 min, and restart at a lower rate if secretions return."
+        },
+        {
+          "prompt": "What follow-up and prevention?",
+          "answer": "Watch for the **intermediate syndrome** (proximal and respiratory muscle weakness 24–96 h later): check neck flexion and breathing; ICU if needed. Counsel on storing pesticides in labelled original containers, locked away, never in drink bottles; consider whether supervision/neglect needs social work input."
+        }
+      ],
+      "takeaway": "Organophosphate poisoning: decontaminate, then atropine doubling every 5 minutes until the chest is dry, plus pralidoxime; watch for atropine toxicity and the intermediate syndrome."
+    },
+    {
+      "id": "pdrx-c05",
+      "title": "Life-threatening asthma in a school child",
+      "presentation": "An 8-year-old girl (24 kg) is brought to Mengo emergency by her teacher with breathlessness for 6 hours. She uses a salbutamol inhaler 'sometimes' without a spacer and has no steroid inhaler. She can say only single words, RR 46/min, severe subcostal indrawing, HR 152/min, SpO₂ 88% in air, quiet chest with scattered wheeze.",
+      "steps": [
+        {
+          "prompt": "Classify the attack and give initial treatment.",
+          "answer": "**Severe, bordering on life-threatening** (single words, SpO₂ <92%, quiet chest). Sit her up, **oxygen** to SpO₂ 94–98%, **salbutamol 5 mg nebulised (oxygen-driven) + ipratropium 250 micrograms**, repeated every 20 min × 3 (or MDI 10 puffs via spacer); **prednisolone 1–2 mg/kg (max 40 mg) orally** or **hydrocortisone 4 mg/kg = 96 mg IV** if she cannot swallow. Call a senior."
+        },
+        {
+          "prompt": "After 1 hour she is no better: SpO₂ 91% on oxygen, HR 160. What next?",
+          "answer": "**IV magnesium sulphate 40 mg/kg = 960 mg** (max 2 g) diluted, **over 20 min**; continue frequent/continuous salbutamol. Check potassium (salbutamol lowers it) and glucose; blood gas if available; prepare HDU care."
+        },
+        {
+          "prompt": "Still deteriorating. The intern proposes aminophylline 120 mg IV push. Respond.",
+          "answer": "Aminophylline is second line, with a **narrow therapeutic index**: **loading 5–6 mg/kg (max 300 mg) = 120–144 mg over at least 20 min (preferably 1 h)**, never a push, and **omit the load** if she took theophylline in the past 24 h; then 5 mg/kg 6-hourly. Stop if pulse >180, vomiting or fits. Consider IV salbutamol in HDU; anaesthetist for possible ventilation."
+        },
+        {
+          "prompt": "She improves. What do you check before reducing treatment, and what are the warning signs of drug toxicity?",
+          "answer": "Talking in sentences, RR falling, SpO₂ ≥94% in air, minimal indrawing. Salbutamol toxicity: **tremor, tachycardia, hypokalaemia, lactic acidosis** (rising RR despite less wheeze). Aminophylline toxicity: vomiting, arrhythmia, fits. Magnesium: hypotension, weakness."
+        },
+        {
+          "prompt": "Plan her discharge medicines.",
+          "answer": "Complete **prednisolone 3–5 days**; salbutamol MDI **with a spacer** (taught and checked); start **controller therapy** (GINA 2025 from 6 years: low-dose ICS daily or ICS-formoterol per track; in Uganda often beclometasone/budesonide where available); written action plan; review in 1 week; avoid triggers (smoke)."
+        }
+      ],
+      "takeaway": "Acute asthma: oxygen, salbutamol + ipratropium, early steroids, then IV MgSO₄ 40 mg/kg; aminophylline only slowly with a load of 5–6 mg/kg and never as a push."
+    }
+  ],
+  "references": [
+    {
+      "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf"
+    },
+    {
+      "title": "Pocket book of hospital care for children: guidelines for the management of common childhood illnesses, 2nd edition",
+      "source": "World Health Organization",
+      "year": 2013,
+      "url": "https://iris.who.int/handle/10665/81170"
+    },
+    {
+      "title": "Guideline on management of pneumonia and diarrhoea in children up to 10 years of age",
+      "source": "World Health Organization",
+      "year": 2024,
+      "url": "https://iris.who.int/handle/10665/380059"
+    },
+    {
+      "title": "WHO guidelines for malaria, 10 September 2026",
+      "source": "World Health Organization",
+      "year": 2026,
+      "url": "https://iris.who.int/handle/10665/387504"
+    },
+    {
+      "title": "WHO guideline on the prevention and management of wasting and nutritional oedema (acute malnutrition) in infants and children under 5 years",
+      "source": "World Health Organization",
+      "year": 2023,
+      "url": "https://iris.who.int/handle/10665/376075"
+    },
+    {
+      "title": "WHO consolidated guidelines on tuberculosis. Module 5: management of tuberculosis in children and adolescents",
+      "source": "World Health Organization",
+      "year": 2022,
+      "url": "https://iris.who.int/handle/10665/352522"
+    },
+    {
+      "title": "Updated guideline: paediatric emergency triage, assessment and treatment (ETAT): care of critically ill children",
+      "source": "World Health Organization",
+      "year": 2016,
+      "url": "https://iris.who.int/handle/10665/204463"
+    },
+    {
+      "title": "Consolidated guidelines for the prevention and treatment of HIV and AIDS in Uganda",
+      "source": "Ministry of Health Uganda",
+      "year": 2022
+    },
+    {
+      "title": "Gentamicin: dosing, indications, interactions, adverse effects (pediatric dosing)",
+      "source": "Medscape Drugs & Diseases",
+      "year": 2025,
+      "url": "https://reference.medscape.com/drug/gentamicin-342517"
+    },
+    {
+      "title": "Ceftriaxone: dosing, indications, interactions, adverse effects (pediatric dosing)",
+      "source": "Medscape Drugs & Diseases",
+      "year": 2025,
+      "url": "https://reference.medscape.com/drug/ceftriaxone-342510"
+    },
+    {
+      "title": "Global Strategy for Asthma Management and Prevention (2025 update)",
+      "source": "Global Initiative for Asthma (GINA)",
+      "year": 2025,
+      "url": "https://ginasthma.org/reports/"
+    },
+    {
+      "title": "Mortality after fluid bolus in African children with severe infection (FEAST trial)",
+      "source": "New England Journal of Medicine",
+      "year": 2011,
+      "url": "https://doi.org/10.1056/NEJMoa1101549"
+    }
+  ]
+}

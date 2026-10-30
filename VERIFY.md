@@ -131,3 +131,10 @@ To update a topic, edit `content/topics/<slug>/notes.md` or `study.json`, then r
 - SAM: ceftriaxone 80–100 mg/kg for non-responders (from memory); discharge criteria and RUTF energy (UCG one indicator, ~200 kcal/kg/day vs WHO 2023 both WHZ and MUAC, 150–185 kcal/kg/day).
 - HIV and breastfeeding duration: MIYCAN 2021 stop at 12 months if HIV-negative (24 if positive) vs WHO 2016 up to 24 months; UCG 2023 HIV chapter still says 3–6 months (flagged as outdated).
 - IYCF statistics are UDHS 2016 (2022 equivalents not found). Liver span norms, orchidopexy window (6–12 months), visceral leishmaniasis centres (Amudat, Kacheliba) from memory.
+
+## Paediatrics: drug handbook and clinical methods
+
+- UCG 2023 oral morphine at 1–6 months printed as 0.01 mg/kg (apparent misprint; flagged in notes). ABC/3TC/DTG 60/30/5 2 tablets at 3–5.9 kg (off-label).
+- HPV: UCG 2023 2 doses vs WHO single dose; confirm current UNEPI policy (immunisation topic uses the MoH single-dose poster). R21 schedule in Uganda (6, 7, 8, 18 months used) vs WHO 2026 4 doses from 5 months.
+- Maintenance fluids >20 kg: UCG 25 mL/kg vs Holliday–Segar 20 mL/kg.
+- Pyridoxine for young children on isoniazid; neonatal calcium gluconate 0.5–1 mL/kg; adolescent HIV-test consent age ("commonly 12"); infant AL formulation (<5 kg) stocked in Uganda?

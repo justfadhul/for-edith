@@ -1,0 +1,566 @@
+{
+  "slug": "rational-use-of-investigations",
+  "flashcards": [
+    {
+      "id": "rui-f01",
+      "front": "The one question to ask before ordering any test",
+      "back": "**Will the result change my management?** If neither a positive nor a negative result would change what you do, do not order it."
+    },
+    {
+      "id": "rui-f02",
+      "front": "Define sensitivity",
+      "back": "True positives ÷ all who **have** the disease. A highly sensitive test, when **negative**, rules the disease out (**SnOut**)."
+    },
+    {
+      "id": "rui-f03",
+      "front": "Define specificity",
+      "back": "True negatives ÷ all who **do not have** the disease. A highly specific test, when **positive**, rules the disease in (**SpIn**)."
+    },
+    {
+      "id": "rui-f04",
+      "front": "What happens to PPV when prevalence falls?",
+      "back": "**PPV falls** (more of the positives are false); **NPV rises**. Same test, different meaning in Kampala vs a high-transmission district."
+    },
+    {
+      "id": "rui-f05",
+      "front": "Likelihood ratio formulas",
+      "back": "**LR+ = sensitivity ÷ (1 − specificity)**; **LR− = (1 − sensitivity) ÷ specificity**. LR+ >10 or LR− <0.1 changes probability a lot."
+    },
+    {
+      "id": "rui-f06",
+      "front": "Bedside tests for every sick child (G-H-O-M)",
+      "back": "**Glucose, Hb (HemoCue), Oxygen saturation, Malaria RDT** (plus HIV test if status unknown)."
+    },
+    {
+      "id": "rui-f07",
+      "front": "How long do HRP2 malaria RDTs stay positive after treatment?",
+      "back": "About **2–5 weeks** (sometimes longer). Use **microscopy** to judge treatment response or recurrent fever after recent treatment."
+    },
+    {
+      "id": "rui-f08",
+      "front": "Febrile child, negative malaria RDT, no danger signs: what next?",
+      "back": "**Do not give antimalarials.** Look for another cause (ears, throat, chest, urine, meninges, skin, measles, typhoid)."
+    },
+    {
+      "id": "rui-f09",
+      "front": "Why can't an antibody test diagnose HIV in a 9-month-old?",
+      "back": "**Maternal IgG** crosses the placenta and persists **up to 18 months**: a positive antibody test shows exposure. Use **DNA PCR**."
+    },
+    {
+      "id": "rui-f10",
+      "front": "Uganda EID testing schedule",
+      "back": "DNA PCR at **6 weeks**, **9 months**, and **6 weeks after breastfeeding stops**; rapid antibody test at **18 months**. Start ART the same day as a positive PCR."
+    },
+    {
+      "id": "rui-f11",
+      "front": "Initial TB test in a child who cannot produce sputum",
+      "back": "**Xpert MTB/RIF Ultra** on a **gastric aspirate, nasopharyngeal aspirate or stool** (plus CXR, TST/IGRA, HIV test). Urine **LF-LAM** if HIV-positive."
+    },
+    {
+      "id": "rui-f12",
+      "front": "Does a negative Xpert exclude TB in a child?",
+      "back": "**No.** Childhood TB is paucibacillary; use the **WHO 2022 treatment-decision algorithm** (symptoms, CXR, risk) to treat without confirmation."
+    },
+    {
+      "id": "rui-f13",
+      "front": "Normal CSF after 1 month",
+      "back": "**≤5 lymphocytes, 0 neutrophils** × 10⁶/L; protein **<0.4 g/L**; CSF:blood glucose **≥0.6**."
+    },
+    {
+      "id": "rui-f14",
+      "front": "Normal CSF in a neonate (<1 month)",
+      "back": "Cells **<22** × 10⁶/L (a few neutrophils allowed); protein **<1.0 g/L**; glucose ratio ≥0.6."
+    },
+    {
+      "id": "rui-f15",
+      "front": "CSF pattern of bacterial meningitis",
+      "back": "Neutrophils **100–10,000**, protein **>1.0 g/L**, glucose ratio **<0.4**, turbid; Gram stain may show organisms."
+    },
+    {
+      "id": "rui-f16",
+      "front": "CSF pattern of TB meningitis",
+      "back": "Lymphocytes 50–1,000, **protein 1–5 g/L**, glucose ratio **<0.3**; subacute illness; Xpert Ultra on CSF; HIV test."
+    },
+    {
+      "id": "rui-f17",
+      "front": "Contraindications to LP ('COAGS')",
+      "back": "**C**oma (deep/deteriorating), **O**edema of disc / raised ICP signs (focal signs, unequal pupils, abnormal posture), **A**bnormal clotting/platelets, **G**one into shock, **S**kin infection at site. Give antibiotics first."
+    },
+    {
+      "id": "rui-f18",
+      "front": "UTI culture thresholds",
+      "back": "**≥10⁵ CFU/mL** single organism (clean catch); **≥10⁴** (catheter); **any growth** (suprapubic aspirate). Never culture bag urine."
+    },
+    {
+      "id": "rui-f19",
+      "front": "Urine testing in infants under 3 months (NICE NG224)",
+      "back": "Send **microscopy and culture**; do not rely on dipstick. Nitrite is often negative because urine does not stay long in the infant bladder."
+    },
+    {
+      "id": "rui-f20",
+      "front": "WHO 2024 Hb cut-offs for anaemia in children",
+      "back": "**<10.5 g/dL (6–23 months); <11.0 (24–59 months); <11.5 (5–11 years); <12.0 (12–14 years)**. Severe: <7.0 under 5 years."
+    },
+    {
+      "id": "rui-f21",
+      "front": "Physiological anaemia of infancy",
+      "back": "Hb falls to a **nadir of about 9–11 g/dL at 2–3 months** (term) as HbF-rich cells are replaced; no treatment needed in a well infant."
+    },
+    {
+      "id": "rui-f22",
+      "front": "Lymphocyte predominance in children",
+      "back": "Lymphocytes outnumber neutrophils from about **1 week to 4–5 years** of age: do not call a normal toddler's differential 'viral'."
+    },
+    {
+      "id": "rui-f23",
+      "front": "Why is ALP high in children?",
+      "back": "**Bone growth** (osteoblasts); highest in infancy and the pubertal growth spurt (up to 2–4× adult). Very high with low phosphate → rickets."
+    },
+    {
+      "id": "rui-f24",
+      "front": "Total blood volume in a neonate",
+      "back": "**80–90 mL/kg**. A 1 kg preterm has ~85 mL of blood; keep samples to the minimum (≈1–5% of blood volume per 24 h)."
+    },
+    {
+      "id": "rui-f25",
+      "front": "Common causes of a falsely high potassium",
+      "back": "**Haemolysis** (squeezed heel prick, small needle), **EDTA contamination**, delayed separation, high platelets/WBC."
+    },
+    {
+      "id": "rui-f26",
+      "front": "Why measure glucose promptly?",
+      "back": "Red cells keep using glucose: it falls **≈5–7% per hour** in an unseparated sample. Use a bedside meter or fluoride tube."
+    },
+    {
+      "id": "rui-f27",
+      "front": "Why avoid the Widal test?",
+      "back": "Endemic background antibodies and cross-reactions → **false positives**; early disease → **false negatives**. Use blood culture or treat clinically."
+    },
+    {
+      "id": "rui-f28",
+      "front": "Sickling test limitations",
+      "back": "False negative **under 6 months** (HbF), and cannot tell **trait from disease**. Confirm with **Hb electrophoresis/HPLC** or a validated POC test."
+    },
+    {
+      "id": "rui-f29",
+      "front": "When is a CXR NOT indicated?",
+      "back": "**Non-severe pneumonia, bronchiolitis, asthma**, simple croup. Reserve for severe/non-resolving pneumonia, suspected effusion, TB, foreign body or heart failure."
+    },
+    {
+      "id": "rui-f30",
+      "front": "Investigations for a simple febrile seizure",
+      "back": "**Glucose and malaria test**, look for the focus; **no CT, EEG or routine electrolytes**. LP if meningeal signs, focal/prolonged, not recovering, or <12 months with incomplete Hib/PCV or prior antibiotics."
+    },
+    {
+      "id": "rui-f31",
+      "front": "Febrile infant under 3 months (NICE NG143)",
+      "back": "**FBC, blood culture, CRP, urine microscopy and culture**, CXR only if respiratory signs, stool culture if diarrhoea; **LP if <1 month** or unwell/abnormal bloods; parenteral antibiotics."
+    },
+    {
+      "id": "rui-f32",
+      "front": "G6PD testing pitfall",
+      "back": "During or soon after **acute haemolysis** the result can be falsely normal (young red cells have more enzyme): **repeat after 2–3 months**."
+    },
+    {
+      "id": "rui-f33",
+      "front": "A K⁺ of 7.6 mmol/L in a well, playful child: what do you do?",
+      "back": "Suspect **haemolysis or a bad sample**; check ECG, **repeat a free-flowing venous sample** before treating."
+    },
+    {
+      "id": "rui-f34",
+      "front": "HIV viral load: failure threshold",
+      "back": "**>1,000 copies/mL** on two tests 3 months apart, with **intensive adherence counselling** after the first."
+    },
+    {
+      "id": "rui-f35",
+      "front": "Head CT radiation dose",
+      "back": "About **1–2 mSv**, ≈6–12 months of background radiation; children are more radiosensitive. Use clinical decision rules (PECARN) and ultrasound where possible."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "rui-q01",
+      "stem": "A 2-year-old boy (12 kg) in Kampala has had fever for 1 day with a runny nose and red throat. He is alert, playing, RR 30/min, SpO₂ 98%, no danger signs. A good-quality malaria RDT is negative. What is the MOST appropriate next step?",
+      "options": [
+        "Treat symptomatically with paracetamol, counsel on danger signs and review if fever persists beyond 2–3 days",
+        "Request a thick blood film to confirm the negative RDT",
+        "Give artemether–lumefantrine because malaria is common in Uganda",
+        "Request FBC, CRP and blood culture",
+        "Give amoxicillin for 5 days"
+      ],
+      "answer": 0,
+      "explanation": "**A** is correct: a negative quality-assured RDT in a non-severe febrile child effectively excludes falciparum malaria (high NPV, especially in low-prevalence Kampala); the likely cause is a viral URTI, so symptomatic care and safety-netting are appropriate. **C** is wrong: WHO and UCG require test-before-treat; antimalarials for RDT-negative fever waste drugs and miss the real cause. **B** is wrong: microscopy adds little after a negative RDT in a well child; reserve it for severe illness. **D** is wrong: blood tests would not change management in a well child with a clear viral focus. **E** is wrong: there are no signs of pneumonia or bacterial infection.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rui-q02",
+      "stem": "A 4-year-old girl completed a 3-day course of AL for RDT-confirmed malaria 10 days ago. She now has fever again with cough and RR 46/min. A repeat HRP2 RDT is positive. Which interpretation is MOST appropriate?",
+      "options": [
+        "She has treatment failure and needs quinine",
+        "The RDT may remain positive from the previous infection; do microscopy and look for another cause such as pneumonia",
+        "The positive RDT proves malaria is the cause of her cough",
+        "She has a new P. vivax infection",
+        "The RDT is faulty and should be discarded"
+      ],
+      "answer": 1,
+      "explanation": "**B** is correct: **HRP2 antigen persists for 2–5 weeks** after successful treatment, so a positive RDT 10 days later does not prove active malaria; **microscopy** shows whether parasites are present, and her fast breathing suggests **pneumonia**. **A** is wrong: failure should be confirmed by microscopy, and the second-line treatment would be another ACT (e.g. DP), not quinine. **C** is wrong: parasitaemia (or antigenaemia) can coexist with another illness. **D** is wrong: HRP2 tests detect falciparum, not vivax. **E** is wrong: the result is expected, not a faulty test.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rui-q03",
+      "stem": "A 9-month-old HIV-exposed infant attends the clinic. His mother is on ART with a suppressed viral load and he is breastfeeding. His 6-week DNA PCR was negative. A rapid HIV antibody test done today by a student is positive. What is the MOST appropriate interpretation and action?",
+      "options": [
+        "He is HIV-infected; start ART today",
+        "The antibody test is falsely positive; no further tests are needed until 18 months",
+        "Repeat the antibody test in 1 week",
+        "Stop breastfeeding immediately",
+        "The positive antibody test reflects maternal antibodies; send his scheduled 9-month DNA PCR"
+      ],
+      "answer": 4,
+      "explanation": "**E** is correct: maternal IgG persists up to 18 months, so a positive antibody test in an exposed infant shows **exposure**, not infection; the Uganda EID algorithm calls for a **DNA PCR at 9 months**, then 6 weeks after breastfeeding stops, and a rapid test at 18 months. **A** is wrong: ART is started on a positive PCR, not an antibody test, at this age. **B** is wrong: the test is not false; it just answers a different question, and he still needs his 9-month PCR. **D** is wrong: breastfeeding with a suppressed mother on ART is recommended. **C** is wrong: a repeat antibody test will stay positive for months.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rui-q04",
+      "stem": "A 2-year-old girl (10 kg) has had cough for 5 weeks, fever, and has lost weight (weight-for-height Z-score −2.4). Her grandmother, who lives with her, is on TB treatment. She cannot produce sputum. Which investigation plan is MOST appropriate at a general hospital?",
+      "options": [
+        "Sputum smear microscopy only",
+        "Tuberculin skin test only; treat if positive",
+        "Wait for TB culture results (6–8 weeks) before deciding",
+        "Xpert MTB/RIF Ultra on a gastric aspirate or stool sample, chest X-ray and HIV test",
+        "Widal test and blood culture"
+      ],
+      "answer": 3,
+      "explanation": "**D** is correct: young children rarely produce sputum; **Xpert Ultra on gastric aspirate, nasopharyngeal aspirate or stool** (WHO 2022; widely used in Uganda) plus **CXR** and **HIV testing** is the right package, and with a household contact and growth faltering she can be treated by the WHO treatment-decision algorithm even if Xpert is negative. **A** is wrong: smear is insensitive in paucibacillary childhood TB and she cannot produce sputum. **B** is wrong: TST shows infection, not disease, and alone cannot decide treatment. **C** is wrong: waiting weeks delays treatment in a likely case. **E** is wrong: typhoid tests do not address this picture.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rui-q05",
+      "stem": "A 3-year-old boy is drowsy with fever and neck stiffness. HR 150/min, capillary refill 2 s, BP normal, pupils equal and reactive, no focal signs, no papilloedema, platelet count unknown. The CT scanner is 2 days' wait. What is the MOST appropriate sequence?",
+      "options": [
+        "Wait for the CT scan before LP and antibiotics",
+        "Give ceftriaxone, then do an LP within the next hour if there are no contraindications",
+        "Do an LP and wait for the CSF result before giving antibiotics",
+        "Give paracetamol and observe for 24 hours",
+        "Treat for malaria only after a positive RDT"
+      ],
+      "answer": 1,
+      "explanation": "**B** is correct: suspected bacterial meningitis is an emergency; **antibiotics must not be delayed** for tests. With no clinical signs of raised ICP, shock or focal neurology, an LP can be done promptly (CSF cells and Gram stain still help even shortly after antibiotics; send blood culture first if available). **A** is wrong: CT is not required before LP without clinical signs of raised ICP and must never delay antibiotics. **C** is wrong: waiting for CSF results before antibiotics increases mortality. **D** is wrong: this child is seriously ill. **E** is wrong: malaria testing is appropriate but does not replace treatment of possible meningitis.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "rui-q06",
+      "stem": "CSF from a 14-month-old with 3 weeks of fever, vomiting and a new left sixth nerve palsy shows: clear fluid, WBC 240 × 10⁶/L (85% lymphocytes), protein 2.6 g/L, CSF:blood glucose ratio 0.2, Gram stain negative. What is the MOST likely diagnosis?",
+      "options": [
+        "Tuberculous meningitis",
+        "Normal CSF for age",
+        "Viral meningitis",
+        "Partially treated pneumococcal meningitis",
+        "Cerebral malaria"
+      ],
+      "answer": 0,
+      "explanation": "**A** is correct: a **subacute** illness with cranial nerve palsy and CSF showing **lymphocytes, very high protein (>1 g/L) and very low glucose ratio (<0.3)** is classic **TB meningitis**. **C** is wrong: viral meningitis has protein <1 g/L and normal glucose. **B** is wrong: normal CSF has ≤5 cells and protein <0.4 g/L after 1 month. **D** is wrong: partially treated bacterial meningitis can be lymphocytic but rarely has a 3-week course with such a low glucose and cranial nerve palsy; consider it if antibiotics were given. **E** is wrong: cerebral malaria has essentially normal CSF.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rui-q07",
+      "stem": "A 7-week-old girl has fever of 38.6°C for 1 day, is feeding a little less, and has no focus on examination. She is alert, HR 160/min, RR 48/min, SpO₂ 98%. Malaria RDT negative. Which investigation is MOST important not to omit?",
+      "options": [
+        "Chest X-ray",
+        "Stool microscopy",
+        "Abdominal ultrasound",
+        "Widal test",
+        "Urine microscopy and culture from a clean-catch or catheter sample"
+      ],
+      "answer": 4,
+      "explanation": "**E** is correct: **UTI** is the commonest serious bacterial infection in febrile infants without a focus; under 3 months **send microscopy and culture** (NICE NG224/NG143) from a clean-catch or catheter sample, along with FBC, blood culture and CRP where available, and consider LP. **A** is wrong: CXR is indicated only with respiratory signs. **B** is wrong: no diarrhoea. **D** is wrong: Widal is unreliable and irrelevant here. **C** is wrong: ultrasound is for confirmed atypical or recurrent UTI, not first-line.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rui-q08",
+      "stem": "A 5-month-old boy with gastroenteritis is alert and drinking. A capillary heel-prick sample (difficult, squeezed) shows K⁺ 7.4 mmol/L, Na 137 mmol/L. His ECG is normal. What is the MOST appropriate next step?",
+      "options": [
+        "Give calcium gluconate 0.5 mL/kg IV immediately",
+        "Give insulin and dextrose",
+        "Start salbutamol nebulisers every 20 minutes",
+        "Repeat a free-flowing venous sample before any treatment",
+        "Stop all oral fluids"
+      ],
+      "answer": 3,
+      "explanation": "**D** is correct: a squeezed heel-prick sample is commonly **haemolysed**, releasing intracellular potassium; in a well infant with a normal ECG, **repeat a good sample** before treating. **A**, **B** and **C** are wrong: they treat a probably spurious result and carry risks (bradycardia, hypoglycaemia, tachycardia). **E** is wrong: stopping fluids in gastroenteritis risks dehydration and is not indicated.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rui-q09",
+      "stem": "A 3-month-old girl of a mother with sickle cell trait has a sodium metabisulphite sickling test reported as negative. The father also has the trait. What is the BEST interpretation?",
+      "options": [
+        "She does not have sickle cell disease",
+        "She has sickle cell trait",
+        "The sickling test is unreliable at this age because of high HbF; confirm with Hb electrophoresis/HPLC or a validated point-of-care test",
+        "Repeat the sickling test at 6 weeks",
+        "Start penicillin V and hydroxyurea now"
+      ],
+      "answer": 2,
+      "explanation": "**C** is correct: in early infancy **HbF** is still high, so the sickling test can be falsely negative, and it cannot distinguish trait from disease anyway; with two carrier parents (25% risk of HbSS) she needs **electrophoresis/HPLC or a validated POC test**. **A** and **B** are wrong: a negative sickling test at 3 months does not establish either. **D** is wrong: testing earlier is even less reliable. **E** is wrong: treatment starts after confirmation (penicillin V from about 3 months once SCD is confirmed; hydroxyurea per protocol).",
+      "difficulty": "core"
+    },
+    {
+      "id": "rui-q10",
+      "stem": "A 2-month-old term baby is brought for immunisation. He is feeding well, thriving (weight-for-age Z-score 0) and active. A routine FBC done at a private clinic shows Hb 9.6 g/dL with normal indices for age. The mother is worried. What is the MOST appropriate response?",
+      "options": [
+        "Transfuse 20 mL/kg whole blood",
+        "Start oral iron 6 mg/kg/day",
+        "Explain that this is physiological anaemia of infancy, continue breastfeeding and routine care",
+        "Refer to a haematologist for bone marrow examination",
+        "Check the haemoglobin every week"
+      ],
+      "answer": 2,
+      "explanation": "**C** is correct: Hb falls to a **physiological nadir of about 9–11 g/dL at 2–3 months** as fetal red cells are replaced; a thriving infant needs reassurance, not treatment. **A** is wrong: transfusion has risks and is not indicated. **B** is wrong: term breastfed infants have adequate iron stores at this age; treatment doses are not needed. **D** is wrong: there are no abnormal cell lines or symptoms. **E** is wrong: repeated testing takes blood without changing management.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rui-q11",
+      "stem": "A 6-year-old girl (19 kg) has fever for 10 days, headache, abdominal pain and a relative bradycardia. RDT and malaria smear are negative; urine dipstick is normal. The laboratory offers a Widal test or blood culture (5-day result). Which is the MOST rational approach?",
+      "options": [
+        "Widal test and treat only if titres are raised",
+        "Blood culture, then start empirical treatment for typhoid (e.g. ceftriaxone or azithromycin) while awaiting the result",
+        "No tests; give antimalarials",
+        "Stool microscopy for ova and cysts",
+        "Wait for the blood culture result before treating"
+      ],
+      "answer": 1,
+      "explanation": "**B** is correct: **blood culture** is the most useful test for enteric fever (highest yield in the first week, still useful later); a sick child with a typical picture should be **treated empirically** while awaiting results. **A** is wrong: the Widal test has poor sensitivity and specificity in endemic areas and should not guide treatment. **C** is wrong: malaria has been excluded twice. **D** is wrong: stool microscopy does not diagnose typhoid. **E** is wrong: delaying treatment in a 10-day febrile illness risks complications (perforation, encephalopathy).",
+      "difficulty": "core"
+    },
+    {
+      "id": "rui-q12",
+      "stem": "A 4-year-old (16 kg) with cough and fever for 2 days has RR 44/min, mild chest indrawing, no danger signs and SpO₂ 96%. The intern requests a CXR, FBC and CRP 'to confirm pneumonia'. What is the BEST advice?",
+      "options": [
+        "Agree: all pneumonia needs radiological confirmation",
+        "Do only the CXR because it distinguishes viral from bacterial pneumonia",
+        "These tests will not change management: treat with oral amoxicillin 40 mg/kg twice daily for 5 days and review",
+        "Do a blood culture before any antibiotics",
+        "Request sputum Xpert for TB"
+      ],
+      "answer": 2,
+      "explanation": "**C** is correct: non-severe (chest-indrawing without danger signs, SpO₂ ≥90%) pneumonia is a **clinical diagnosis** treated with oral amoxicillin (WHO 2024); CXR, FBC and CRP do not change management. **A** is wrong: CXR is reserved for severe, non-resolving or complicated pneumonia. **B** is wrong: CXR cannot reliably distinguish bacterial from viral pneumonia. **D** is wrong: blood cultures are low-yield in non-severe pneumonia. **E** is wrong: a 2-day cough without TB features or contact does not warrant TB testing.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rui-q13",
+      "stem": "In a district where 40% of febrile children have malaria, an RDT with sensitivity 95% and specificity 90% is used. In a district where only 4% have malaria, the same test is used. Which statement is TRUE?",
+      "options": [
+        "The positive predictive value is lower in the low-prevalence district",
+        "The sensitivity of the test is lower in the low-prevalence district",
+        "The negative predictive value is lower in the low-prevalence district",
+        "The specificity is higher in the high-prevalence district",
+        "The test performs identically in both districts in every respect"
+      ],
+      "answer": 0,
+      "explanation": "**A** is correct: sensitivity and specificity are properties of the test, but **PPV falls as prevalence falls** because false positives make up a larger share of positive results (here roughly 86% PPV at 40% prevalence versus about 28% at 4%). **B** and **D** are wrong: sensitivity and specificity do not change with prevalence (in principle). **C** is wrong: NPV is **higher** in the low-prevalence district. **E** is wrong: predictive values differ.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "rui-q14",
+      "stem": "A 1.1 kg preterm baby on day 6 in the special care unit has had daily FBC, CRP, electrolytes and blood gases since birth (about 2.5 mL of blood per day). He is stable on feeds and his Hb has fallen from 15.8 to 10.2 g/dL. What is the MOST appropriate change?",
+      "options": [
+        "Transfuse and continue daily bloods",
+        "Stop routine daily bloods; test only when results would change management, using microsamples and batching",
+        "Switch all tests to arterial samples",
+        "Add daily blood cultures",
+        "Continue but take samples from the IV line"
+      ],
+      "answer": 1,
+      "explanation": "**B** is correct: his blood volume is only about **90 mL**; 2.5 mL a day for 6 days is about **15 mL (≈17%)**, a major cause of **iatrogenic anaemia**. Stop routine tests, use capillary microsamples, and batch tests that change management. **A** is wrong: continuing the cause of blood loss is irrational. **C** is wrong: arterial samples do not reduce volume and add risk. **D** is wrong: cultures without clinical suspicion add blood loss and false positives. **E** is wrong: samples from infusing lines are diluted and contaminated.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "rui-q15",
+      "stem": "A 22-month-old (11 kg), fully immunised, had a 3-minute generalised seizure with fever of 39.5°C at home. In the emergency room 40 minutes later he is alert, playful and has no neck stiffness or focal signs. Glucose 5.8 mmol/L; RDT positive. Which plan is MOST appropriate?",
+      "options": [
+        "CT head and EEG before discharge",
+        "LP, electrolytes, calcium and FBC",
+        "Treat malaria with AL, give antipyretics for comfort, observe, and counsel the family; no further investigations",
+        "Start phenobarbital maintenance for 6 months",
+        "Admit for IV artesunate and blood culture"
+      ],
+      "answer": 2,
+      "explanation": "**C** is correct: this is a **simple febrile seizure** (6 months–5 years, generalised, <15 min, full recovery, immunised child) triggered by **uncomplicated malaria**; glucose and RDT were the right tests, and no imaging, EEG or LP is needed. **A** is wrong: neuroimaging and EEG are not indicated after a simple febrile seizure. **B** is wrong: LP is not routine in an alert, immunised child over 12 months with no meningeal signs; electrolytes rarely change management. **D** is wrong: prophylactic anticonvulsants are not recommended. **E** is wrong: a single brief seizure with full recovery is not a criterion for severe malaria (two or more convulsions in 24 h are).",
+      "difficulty": "core"
+    },
+    {
+      "id": "rui-q16",
+      "stem": "A 3-day-old term baby is noticed to be jaundiced to the face and chest at 50 hours of age. She is breastfeeding well. Mother is blood group O Rh-positive. Which is the MOST appropriate investigation?",
+      "options": [
+        "No test: jaundice at 50 hours is always physiological",
+        "Liver function tests and hepatitis serology",
+        "Conjugated bilirubin and abdominal ultrasound",
+        "Total serum (or transcutaneous) bilirubin plotted on an hour-specific nomogram for her gestation and risk factors",
+        "G6PD and Coombs test only, without bilirubin"
+      ],
+      "answer": 3,
+      "explanation": "**D** is correct: visible jaundice should be **measured** (TcB, then TSB if near the threshold) and plotted by **hour of age** on the nomogram (AAP 2022), considering neurotoxicity risk factors (prematurity, haemolysis such as ABO incompatibility with an O mother, G6PD deficiency, sepsis). **A** is wrong: visual assessment is unreliable (especially in dark skin) and physiological jaundice can still reach treatment thresholds. **C** and **B** are wrong: conjugated hyperbilirubinaemia work-up is for prolonged jaundice (>14 days) or pale stools. **E** is wrong: DAT/blood group and G6PD may help explain the cause, but the bilirubin level decides treatment.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rui-q17",
+      "stem": "A 10-year-old boy with sickle cell disease has fever 38.9°C, chest pain and new crackles at the right base, SpO₂ 91% in air. Which investigation is MOST likely to change immediate management?",
+      "options": [
+        "Hb electrophoresis",
+        "Sickling test",
+        "Widal test",
+        "Abdominal ultrasound",
+        "Chest X-ray and Hb (with blood culture where available)"
+      ],
+      "answer": 4,
+      "explanation": "**E** is correct: suspected **acute chest syndrome** (fever, chest pain, new infiltrate, hypoxia) needs a **CXR** to confirm a new infiltrate and an **Hb** to guide transfusion, plus blood culture; management includes oxygen, antibiotics, analgesia and transfusion. **A** and **B** are wrong: his diagnosis of SCD is already known. **C** is wrong: Widal is not useful. **D** is wrong: abdominal ultrasound does not address his chest.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "rui-c01",
+      "title": "Prolonged fever in a toddler: choosing tests that matter",
+      "presentation": "A 3-year-old girl (13 kg) is brought to Mengo Hospital with fever for 12 days despite two courses of antimalarials from a drug shop. She has lost weight, has a cough for 3 weeks, and her father was recently diagnosed with smear-positive TB. On examination: temperature 38.6°C, RR 38/min, SpO₂ 96%, cervical lymph nodes 1.5 cm, mild hepatosplenomegaly, weight-for-height Z-score −2.1. Immunisation complete; HIV status unknown; mother never tested.",
+      "steps": [
+        {
+          "prompt": "Which bedside tests do you do first, and why?",
+          "answer": "**Malaria RDT** (but she had recent antimalarials, so HRP2 may be positive from earlier infection: if positive, do **microscopy**), **Hb (HemoCue)**, **glucose**, **SpO₂** (96%: no oxygen needed), **MUAC**, and an **HIV rapid test** for the mother (and child is ≥18 months, so an antibody test on the child is valid)."
+        },
+        {
+          "prompt": "RDT positive, microscopy negative for parasites. Interpret.",
+          "answer": "**HRP2 persistence** from the recently treated infection; no current parasitaemia. **Do not give more antimalarials**; look for the real cause."
+        },
+        {
+          "prompt": "Which investigations for TB, and which samples?",
+          "answer": "**Xpert MTB/RIF Ultra** on **induced sputum, gastric aspirate or stool** (and node aspirate if a node is accessible), **CXR** (hilar nodes, miliary pattern), **TST/IGRA** if available; HIV test result decides **urine LF-LAM**. Household contact + weight loss + cough >2 weeks = high pre-test probability."
+        },
+        {
+          "prompt": "Xpert on stool is negative; CXR shows right hilar lymphadenopathy. What now?",
+          "answer": "A negative Xpert **does not exclude** paucibacillary childhood TB. Using the **WHO 2022 treatment-decision algorithm** (contact, symptoms, CXR), she qualifies for TB treatment: with intrathoracic nodes without airway obstruction she may have **non-severe TB** (4-month 2HRZ(E)/2HR) if criteria are met; otherwise 6 months. Notify, screen other contacts, give nutritional support."
+        },
+        {
+          "prompt": "Which tests would be wasteful here?",
+          "answer": "**Widal test** (unreliable), **repeated malaria RDTs**, **routine stool microscopy**, CT scans, broad 'fever panels'. A **blood culture** is reasonable if she becomes sicker (typhoid, invasive non-typhoidal Salmonella), and **FBC with film** if pallor or abnormal counts would change management."
+        }
+      ],
+      "takeaway": "Recent antimalarials make HRP2 RDTs misleading, and a negative Xpert does not rule out childhood TB: use pre-test probability and the WHO algorithm."
+    },
+    {
+      "id": "rui-c02",
+      "title": "Febrile young infant: a structured work-up",
+      "presentation": "A 5-week-old boy (4.1 kg) is brought to a regional referral hospital with fever 38.7°C for 12 hours and reduced feeding. He is irritable when handled, HR 178/min, RR 58/min, capillary refill 3 s, fontanelle slightly full. Mother is HIV-negative; he received BCG and OPV0. Glucose 4.2 mmol/L, RDT negative.",
+      "steps": [
+        {
+          "prompt": "What are the immediate priorities before tests?",
+          "answer": "ETAT: warmth, **oxygen** if SpO₂ <90%, IV access, **fluid bolus only with care** (10–20 mL/kg if shocked), and **do not delay antibiotics**: ampicillin 50 mg/kg + gentamicin 7.5 mg/kg (he is >1 week old) or cefotaxime/ceftriaxone if meningitis suspected and not jaundiced."
+        },
+        {
+          "prompt": "Which investigations will you send, and why each?",
+          "answer": "**Blood culture** (bacteraemia; before antibiotics if no delay), **FBC and CRP** (supporting evidence), **urine by catheter or clean catch for microscopy and culture** (UTI common in infants), **LP** (irritable, full fontanelle: meningitis must be excluded), glucose (done). CXR only if respiratory signs."
+        },
+        {
+          "prompt": "Is an LP safe now?",
+          "answer": "Check contraindications: **no shock** after resuscitation, no focal signs, no deep coma, platelets/clotting acceptable, no skin infection. If he is unstable, give antibiotics and do the LP when stable; CSF can still be informative."
+        },
+        {
+          "prompt": "CSF: WBC 1,200 × 10⁶/L (85% neutrophils), protein 1.8 g/L, glucose ratio 0.25, Gram-negative rods. Interpret and act.",
+          "answer": "**Bacterial meningitis** (Gram-negative, e.g. *E. coli*, *Klebsiella*, Salmonella). Use a **cephalosporin with good CSF penetration** (cefotaxime or ceftriaxone at meningitic doses) ± gentamicin per sensitivity; **treat for at least 21 days** for Gram-negative meningitis; monitor head circumference, seizures, hearing."
+        },
+        {
+          "prompt": "Which follow-up tests are rational, and which are not?",
+          "answer": "Rational: culture sensitivities, **sodium** (SIADH) if on IV fluids, **cranial ultrasound** through the fontanelle if not improving (abscess, hydrocephalus), **hearing test** before discharge. Not rational: daily FBC/CRP when he is clearly improving, repeat LP routinely if improving (consider only if not responding or for Gram-negative meningitis per protocol)."
+        }
+      ],
+      "takeaway": "In febrile young infants, antibiotics come first, then a targeted set of cultures (blood, urine, CSF): each test answers a specific question."
+    },
+    {
+      "id": "rui-c03",
+      "title": "A pale child with a confusing set of results",
+      "presentation": "A 6-year-old boy (18 kg) is referred from an HC IV with 'severe anaemia'. He has had tiredness for 2 months, bone pains and easy bruising. Temperature 37.9°C, HR 128/min, RR 28/min, marked pallor, petechiae on the legs, liver 4 cm and spleen 5 cm below the costal margins, cervical lymph nodes 2 cm. HemoCue Hb 4.6 g/dL. RDT negative.",
+      "steps": [
+        {
+          "prompt": "What is your working diagnosis and immediate plan?",
+          "answer": "Pancytopenic picture (pallor, bruising, petechiae) with organomegaly and bone pain: **acute leukaemia until proven otherwise** (differentials: aplastic anaemia, HIV, visceral leishmaniasis, hypersplenism with chronic malaria). Immediate: group and cross-match, **transfuse** (Hb 4.6 with tachycardia), **platelets** if bleeding."
+        },
+        {
+          "prompt": "Which investigations will most change management?",
+          "answer": "**FBC with blood film** (blasts? other cell lines), **HIV test**, **uric acid, potassium, phosphate, calcium, creatinine** (tumour lysis risk), **LDH**, CXR (mediastinal mass in T-cell ALL), and referral for **bone marrow aspirate** at the Uganda Cancer Institute or national referral."
+        },
+        {
+          "prompt": "The FBC shows WBC 86 × 10⁹/L with 70% blasts, platelets 18 × 10⁹/L. What precautions in sampling and transfusion?",
+          "answer": "Sample once with minimal volume; **avoid IM injections and arterial punctures** (low platelets); **transfuse slowly** (very high WBC: hyperviscosity; aim for modest Hb rise); hydrate and start **allopurinol** for tumour lysis prevention; urgent oncology referral."
+        },
+        {
+          "prompt": "His potassium is reported as 7.1 mmol/L but the ECG is normal. Interpret.",
+          "answer": "With a very high white count (and platelets), **pseudohyperkalaemia** from cell lysis in the tube is common: repeat with a carefully handled sample (heparin, prompt analysis) while watching the ECG. True hyperkalaemia from tumour lysis is also possible: treat if ECG changes or a repeat confirms."
+        },
+        {
+          "prompt": "Which tests are unnecessary at this point?",
+          "answer": "Widal, stool microscopy, repeated RDTs, CT scans of multiple regions before diagnosis, and extensive viral serology: none change the urgent plan, which is diagnosis by film and marrow, supportive care and referral."
+        }
+      ],
+      "takeaway": "When the clinical picture points to a serious diagnosis, choose the tests that confirm it and keep the child safe; interpret odd results (like potassium) in light of the disease."
+    }
+  ],
+  "references": [
+    {
+      "title": "Uganda Clinical Guidelines 2023",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf"
+    },
+    {
+      "title": "Pocket book of hospital care for children, 2nd edition",
+      "source": "World Health Organization",
+      "year": 2013,
+      "url": "https://iris.who.int/handle/10665/81170"
+    },
+    {
+      "title": "Fever in under 5s: assessment and initial management (NG143)",
+      "source": "NICE",
+      "year": 2021,
+      "url": "https://www.nice.org.uk/guidance/ng143"
+    },
+    {
+      "title": "Urinary tract infection in under 16s: diagnosis and management (NG224)",
+      "source": "NICE",
+      "year": 2022,
+      "url": "https://www.nice.org.uk/guidance/ng224"
+    },
+    {
+      "title": "CSF interpretation (clinical practice guideline)",
+      "source": "The Royal Children's Hospital Melbourne",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/CSF_interpretation/"
+    },
+    {
+      "title": "WHO consolidated guidelines on tuberculosis. Module 5: management of tuberculosis in children and adolescents",
+      "source": "World Health Organization",
+      "year": 2022,
+      "url": "https://iris.who.int/handle/10665/352522"
+    },
+    {
+      "title": "WHO guidelines for malaria, 10 September 2026",
+      "source": "World Health Organization",
+      "year": 2026,
+      "url": "https://iris.who.int/handle/10665/387504"
+    },
+    {
+      "title": "Guideline on haemoglobin cutoffs to define anaemia in individuals and populations",
+      "source": "World Health Organization",
+      "year": 2024,
+      "url": "https://iris.who.int/handle/10665/376196"
+    },
+    {
+      "title": "Guideline on management of pneumonia and diarrhoea in children up to 10 years of age",
+      "source": "World Health Organization",
+      "year": 2024,
+      "url": "https://iris.who.int/handle/10665/380059"
+    },
+    {
+      "title": "Consolidated guidelines for the prevention and treatment of HIV and AIDS in Uganda",
+      "source": "Ministry of Health Uganda",
+      "year": 2022
+    }
+  ]
+}

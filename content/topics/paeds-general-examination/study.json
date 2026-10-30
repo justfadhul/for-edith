@@ -1,0 +1,529 @@
+{
+  "slug": "paeds-general-examination",
+  "flashcards": [
+    {
+      "id": "pgx-f01",
+      "front": "WHO fast-breathing cut-offs",
+      "back": "**≥60/min** under 2 months; **≥50/min** at 2–12 months; **≥40/min** at 1–5 years. Count for a full minute with the child calm."
+    },
+    {
+      "id": "pgx-f02",
+      "front": "Signs of respiratory distress in a child",
+      "back": "**Lower chest wall indrawing**, nasal flaring, **grunting**, head nodding, tracheal tug, inability to feed or talk, cyanosis."
+    },
+    {
+      "id": "pgx-f03",
+      "front": "WHO definition of shock in a child",
+      "back": "**Cold hands + capillary refill >3 s + weak, fast pulse** (all three)."
+    },
+    {
+      "id": "pgx-f04",
+      "front": "How do you measure capillary refill?",
+      "back": "Press on the **sternum** (or a fingertip at heart level) for **5 s**, release and count; normal **≤2 s**. A cold room prolongs it."
+    },
+    {
+      "id": "pgx-f05",
+      "front": "APLS hypotension formula",
+      "back": "Systolic BP **<70 + (2 × age in years)** for 1–10 years; <60 neonates; <70 infants; <90 over 10 years. Hypotension is a **late** sign."
+    },
+    {
+      "id": "pgx-f06",
+      "front": "Fever and hypothermia thresholds (IMCI)",
+      "back": "Fever: axillary **≥37.5°C**. Hypothermia: **<35.5°C**. Neonatal normal 36.5–37.5°C."
+    },
+    {
+      "id": "pgx-f07",
+      "front": "Normal heart rate ranges (approx.)",
+      "back": "Newborn 120–170; 1 year 105–150; 2 years 95–150; 6 years 75–140; 10 years 60–130 /min (RCH)."
+    },
+    {
+      "id": "pgx-f08",
+      "front": "Length or height?",
+      "back": "**Length lying under 2 years** (two people, infantometer); **height standing from 2 years**. Adjust by **0.7 cm** if the other method is used."
+    },
+    {
+      "id": "pgx-f09",
+      "front": "How to measure head circumference",
+      "back": "Non-stretch tape over the **largest occipitofrontal circumference** (above eyebrows and ears, round the occiput); **3 readings**, record the largest."
+    },
+    {
+      "id": "pgx-f10",
+      "front": "How to measure MUAC",
+      "back": "**Left arm**, **midpoint between acromion and olecranon** (elbow at 90° to find it), arm relaxed, tape snug (not pinching); read to 1 mm."
+    },
+    {
+      "id": "pgx-f11",
+      "front": "MUAC cut-offs (6–59 months)",
+      "back": "**<11.5 cm (red) = SAM**; **11.5–<12.5 cm (yellow) = MAM**; **≥12.5 cm (green) = normal**. Infants 6 weeks–6 months: **<11.0 cm** at risk (WHO 2023)."
+    },
+    {
+      "id": "pgx-f12",
+      "front": "Z-score formula",
+      "back": "**Z = (measured value − reference median) ÷ reference SD** for the same sex and age (or length/height)."
+    },
+    {
+      "id": "pgx-f13",
+      "front": "What does each growth indicator measure?",
+      "back": "**WFH/WFL → wasting** (acute); **HFA/LFA → stunting** (chronic); **WFA → underweight** (mixed); HC-for-age → brain growth; BMI-for-age (5–19 y) → thinness/obesity."
+    },
+    {
+      "id": "pgx-f14",
+      "front": "Z-score interpretation",
+      "back": "Below **−2 = moderate**, below **−3 = severe** (wasting, stunting, underweight). WFH above +2 = overweight, above +3 = obese (under 5)."
+    },
+    {
+      "id": "pgx-f15",
+      "front": "SAM criteria (6–59 months)",
+      "back": "**WFH/WFL < −3 Z**, or **MUAC <11.5 cm**, or **bilateral pitting oedema**."
+    },
+    {
+      "id": "pgx-f16",
+      "front": "Complicated SAM",
+      "back": "SAM **plus** a medical complication (danger signs, severe pneumonia, dehydration, hypothermia, hypoglycaemia, severe anaemia, oedema +++) **or failed RUTF appetite test**, or age <6 months → inpatient care."
+    },
+    {
+      "id": "pgx-f17",
+      "front": "How to test for nutritional oedema",
+      "back": "Press the **dorsum of both feet** with the thumbs for **3 seconds**; a pit remaining on **both** feet = bilateral pitting oedema."
+    },
+    {
+      "id": "pgx-f18",
+      "front": "Oedema grades",
+      "back": "**+** both feet; **++** feet + lower legs, or + hands/forearms; **+++** generalised including the **face**."
+    },
+    {
+      "id": "pgx-f19",
+      "front": "WHO signs of severe dehydration",
+      "back": "Two of: **lethargic/unconscious**, **sunken eyes**, **drinks poorly or unable**, **skin pinch goes back very slowly (≥2 s)**."
+    },
+    {
+      "id": "pgx-f20",
+      "front": "WHO signs of some dehydration",
+      "back": "Two of: **restless/irritable**, **sunken eyes**, **drinks eagerly/thirsty**, **skin pinch goes back slowly**."
+    },
+    {
+      "id": "pgx-f21",
+      "front": "Why are dehydration signs unreliable in SAM?",
+      "back": "Wasting itself causes **sunken eyes and loss of skin turgor**; rely on history of losses, recent change, thirst; treat with **ReSoMal** cautiously."
+    },
+    {
+      "id": "pgx-f22",
+      "front": "How to assess palmar pallor (IMCI)",
+      "back": "Compare the child's **palm** with your own: **some pallor** (paler) or **severe pallor** (very pale/white). Confirm with **Hb**."
+    },
+    {
+      "id": "pgx-f23",
+      "front": "Kramer zones of neonatal jaundice",
+      "back": "1 head/neck; 2 upper trunk; 3 lower trunk/thighs; 4 arms/lower legs; 5 **palms and soles** (high bilirubin). Visual estimates are unreliable: measure."
+    },
+    {
+      "id": "pgx-f24",
+      "front": "Danger features of neonatal jaundice",
+      "back": "Onset **<24 h**, **palms/soles**, preterm or sick baby, **pale stools/dark urine**, lethargy/poor feeding/high-pitched cry/arching (encephalopathy)."
+    },
+    {
+      "id": "pgx-f25",
+      "front": "Growth landmarks: weight",
+      "back": "Birth weight **doubles by 5 months**, **triples by 1 year**, quadruples by 2 years; newborns lose up to ~10% and regain by **10–14 days**."
+    },
+    {
+      "id": "pgx-f26",
+      "front": "Growth landmarks: length and head",
+      "back": "Length **50 cm** at birth, **75 cm** at 1 year, ~**100 cm** at 4 years. HC **35 cm** at birth, ~**47 cm** at 1 year."
+    },
+    {
+      "id": "pgx-f27",
+      "front": "Fontanelle closure",
+      "back": "Posterior by about **2 months**; anterior **12–18 months**. **Bulging** (calm, upright) → raised ICP/meningitis; **sunken** → dehydration."
+    },
+    {
+      "id": "pgx-f28",
+      "front": "Signs of HIV on general examination",
+      "back": "Oral thrush, **generalised lymphadenopathy**, **parotid enlargement**, hepatosplenomegaly, chronic ear discharge, clubbing, failure to thrive, recurrent skin infections."
+    },
+    {
+      "id": "pgx-f29",
+      "front": "Kwashiorkor vs nephrotic syndrome",
+      "back": "Kwashiorkor: poor diet, **skin (flaky paint) and hair changes**, wasting, little proteinuria. Nephrotic: **periorbital onset**, **heavy proteinuria (3+)**, low albumin, high cholesterol, usually well-nourished."
+    },
+    {
+      "id": "pgx-f30",
+      "front": "Mid-parental height",
+      "back": "Boys: (father + mother + 13 cm) ÷ 2; girls: (father + mother − 13 cm) ÷ 2; target range ±8.5 cm."
+    },
+    {
+      "id": "pgx-f31",
+      "front": "BP cuff size",
+      "back": "Bladder width about **40% of arm circumference**, length **80–100%** of circumference; too small a cuff **over-reads**."
+    },
+    {
+      "id": "pgx-f32",
+      "front": "SAM discharge criteria (WHO 2023)",
+      "back": "WFH/WFL **≥ −2** or MUAC **≥12.5 cm** on **two consecutive visits**, no oedema for 2 weeks, clinically well."
+    },
+    {
+      "id": "pgx-f33",
+      "front": "Priority signs (ETAT) mnemonic",
+      "back": "**3 TPR MOB**: Tiny baby, Temperature very high, Trauma; Pallor, Poisoning, Pain; Respiratory distress, Restless/lethargic, Referral; Malnutrition, Oedema of both feet, Burns."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "pgx-q01",
+      "stem": "A 4-month-old boy with cough has a respiratory rate of 46/min counted over a full minute while calm, no chest indrawing, SpO₂ 97%, temperature 37.8°C. He is feeding well. How should his breathing be classified?",
+      "options": [
+        "Fast breathing, because any RR above 40 is fast",
+        "Not fast breathing for his age (cut-off ≥50/min at 2–12 months)",
+        "Severe respiratory distress",
+        "Fast breathing, because he has fever",
+        "Cannot be classified without a chest X-ray"
+      ],
+      "answer": 1,
+      "explanation": "**B** is correct: the WHO cut-off for fast breathing at **2–12 months is ≥50/min**; 46/min is normal, so this is a cough or cold without pneumonia (no indrawing, SpO₂ normal). **A** is wrong: ≥40/min is the cut-off for 1–5 years. **C** is wrong: there are no signs of distress. **D** is wrong: fever raises RR slightly, but the classification still uses age cut-offs. **E** is wrong: the classification is clinical.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pgx-q02",
+      "stem": "A 2-year-old girl with diarrhoea is lethargic. Her hands are cold, capillary refill is 4 s, pulse 170/min and weak, BP 82/50 mmHg. MUAC 13.6 cm, no oedema, Hb 10 g/dL. What is the MOST accurate interpretation?",
+      "options": [
+        "She has shock (cold hands, CRT >3 s, weak fast pulse) and needs immediate IV fluid resuscitation",
+        "She is not in shock because her BP is normal for age",
+        "She has some dehydration and needs ORS 75 mL/kg over 4 hours",
+        "She has SAM and needs ReSoMal",
+        "She needs a CT head for lethargy"
+      ],
+      "answer": 0,
+      "explanation": "**A** is correct: the WHO definition of **shock** is **cold hands + CRT >3 s + weak fast pulse**; **BP is maintained until late** in children (82 mmHg is above 70 + 2 × 2 = 74). She needs rapid **Ringer's lactate** (20 mL/kg UCG; WHO 2016 10–20 mL/kg) and reassessment, then Plan C. **B** is wrong: normal BP does not exclude shock. **C** is wrong: lethargy and shock mean severe dehydration, not some. **D** is wrong: she is not malnourished (MUAC 13.6 cm, no oedema). **E** is wrong: lethargy here is from hypoperfusion.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pgx-q03",
+      "stem": "A 16-month-old boy is measured standing against a wall chart at a health centre: 74 cm. His weight is 8.0 kg. What is the MOST important correction before plotting?",
+      "options": [
+        "Measure him lying on a length board (or add 0.7 cm), because children under 2 years are measured lying",
+        "No correction is needed",
+        "Subtract 0.7 cm because he was standing",
+        "Use weight-for-age only",
+        "Measure his head circumference instead of length"
+      ],
+      "answer": 0,
+      "explanation": "**A** is correct: WHO standards use **recumbent length under 2 years**; ideally remeasure on a length board, or **add 0.7 cm** to a standing measurement. **B** is wrong: standing height under-reads compared with length and may misclassify him. **C** is wrong: 0.7 cm is subtracted when a child **≥2 years** is measured lying. **D** is wrong: WFA cannot separate wasting from stunting. **E** is wrong: HC does not replace length.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pgx-q04",
+      "stem": "A 22-month-old girl weighs 7.6 kg; length 77 cm; MUAC 11.3 cm; no oedema. She is alert, has no danger signs, and finishes the RUTF appetite test portion. What is the MOST appropriate classification and management?",
+      "options": [
+        "Moderate acute malnutrition: counselling only",
+        "Uncomplicated severe acute malnutrition: outpatient therapeutic care with RUTF, amoxicillin and weekly follow-up",
+        "Complicated SAM: admit for F-75",
+        "Normal nutrition because WFA is only mildly low",
+        "Stunting only: no treatment needed"
+      ],
+      "answer": 1,
+      "explanation": "**B** is correct: **MUAC <11.5 cm = SAM**; she passes the **appetite test** and has **no complications**, so she is managed in **outpatient therapeutic care** (RUTF 150–185 kcal/kg/day per WHO 2023, amoxicillin per UCG, regular follow-up, malaria test, HIV test, vaccines). **A** is wrong: MUAC 11.3 cm is below the MAM range (11.5–<12.5). **C** is wrong: no complications and good appetite. **D** is wrong: MUAC alone classifies her as SAM. **E** is wrong: she is wasted, not only stunted.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pgx-q05",
+      "stem": "A 2-year-old boy has swelling of both feet and lower legs that pits after 3 seconds of pressure, sparse reddish hair and peeling skin on the thighs. MUAC 12.9 cm; WFH Z-score −1.2. Urine dipstick: protein trace. What is the MOST likely classification?",
+      "options": [
+        "Normal nutrition because MUAC and WFH are normal",
+        "Nephrotic syndrome",
+        "Severe acute malnutrition (oedematous, kwashiorkor) with oedema grade ++",
+        "Moderate acute malnutrition",
+        "Heart failure"
+      ],
+      "answer": 2,
+      "explanation": "**C** is correct: **bilateral pitting oedema** of feet and lower legs (**++**) with hair and skin changes and little proteinuria is **kwashiorkor = SAM**, regardless of MUAC and WFH (oedema adds weight and can mask wasting). **A** is wrong: oedema overrides the numbers. **B** is wrong: nephrotic syndrome has heavy proteinuria (3+) and periorbital onset. **D** is wrong: any bilateral nutritional oedema is SAM. **E** is wrong: there are no cardiac signs described.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pgx-q06",
+      "stem": "A 15-month-old girl with SAM (WFL < −3, MUAC 10.8 cm, no oedema) has had diarrhoea for 3 days. Her eyes look sunken and her skin pinch returns slowly, but she is alert and drinks eagerly. The mother says her eyes have looked like this for weeks. Which statement is MOST accurate?",
+      "options": [
+        "She has severe dehydration and needs Plan C Ringer's lactate 100 mL/kg",
+        "Give 20 mL/kg normal saline bolus",
+        "She has no dehydration because she is alert",
+        "Sunken eyes and slow skin pinch are unreliable in SAM; treat cautiously as some dehydration with ReSoMal and monitor closely",
+        "Withhold all fluids until electrolytes are available"
+      ],
+      "answer": 3,
+      "explanation": "**D** is correct: in **SAM**, wasting causes **sunken eyes and reduced skin turgor**; rely on the history (diarrhoea, thirst, recent change) and give **ReSoMal** (5 mL/kg every 30 min for 2 h, then 5–10 mL/kg/h alternating with F-75), watching for overload. **A** and **B** are wrong: standard Plan C volumes and boluses can cause heart failure in SAM, and she is not shocked. **C** is wrong: she has fluid losses and is thirsty. **E** is wrong: oral rehydration should not be delayed.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pgx-q07",
+      "stem": "A 3-day-old term baby (3.1 kg) is breastfeeding well. In daylight, after blanching, the skin is yellow down to the knees and on the lower arms, but not on the palms or soles. What is the MOST appropriate action?",
+      "options": [
+        "Reassure: jaundice is normal on day 3",
+        "Refer for exchange transfusion immediately",
+        "Stop breastfeeding and give glucose water",
+        "Start phenobarbital",
+        "Measure the bilirubin (TcB or serum) and plot it by hours of age on the nomogram"
+      ],
+      "answer": 4,
+      "explanation": "**E** is correct: jaundice reaching **Kramer zone 4** suggests a significant level, and visual estimates are unreliable: **measure** and plot on an **hour-specific** nomogram (AAP 2022) to decide on phototherapy. **A** is wrong: physiological jaundice can still need phototherapy. **C** is wrong: stopping breastfeeding worsens jaundice; glucose water is not recommended. **D** is wrong: phenobarbital is not used to treat neonatal jaundice. **B** is wrong: exchange is decided on a measured level.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pgx-q08",
+      "stem": "An 8-month-old boy has fever and vomiting. He is irritable, with a high-pitched cry. When held calmly upright, his anterior fontanelle feels tense and bulging. Which is the MOST important next step?",
+      "options": [
+        "Reassure: the fontanelle bulges when infants cry",
+        "Arrange a skull X-ray",
+        "Give ORS for dehydration",
+        "Treat as possible meningitis: start antibiotics and assess for lumbar puncture",
+        "Measure head circumference and review in 1 week"
+      ],
+      "answer": 3,
+      "explanation": "**D** is correct: a **bulging fontanelle in a calm, upright febrile infant** suggests raised intracranial pressure from **meningitis** until proven otherwise: give antibiotics promptly (ceftriaxone 100 mg/kg) and assess for LP (contraindications include signs of raised ICP: senior decision). **A** is wrong: the assessment was done when calm and upright. **C** is wrong: dehydration causes a **sunken** fontanelle. **B** is wrong: X-ray does not help. **E** is wrong: delay is dangerous.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pgx-q09",
+      "stem": "A 6-year-old girl's BP is measured with an infant cuff that covers only half the length of her upper arm. The reading is 132/88 mmHg. What is the MOST appropriate next step?",
+      "options": [
+        "Diagnose hypertension and start amlodipine",
+        "Order a renal ultrasound immediately",
+        "Ignore the reading because children are never hypertensive",
+        "Check BP on the leg only",
+        "Repeat with a correctly sized cuff (bladder width ≈40% of arm circumference) when she is calm"
+      ],
+      "answer": 4,
+      "explanation": "**E** is correct: a **cuff that is too small over-reads** BP; repeat with the correct size (bladder width ~40% of arm circumference, length 80–100%) with the child calm and seated, and interpret against age/sex/height centiles. **A** is wrong: the reading is unreliable. **C** is wrong: children do get hypertension (glomerulonephritis, renal disease, coarctation). **D** is wrong: leg BP is for coarctation screening, not a replacement. **B** is wrong: investigate only after confirming true hypertension.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pgx-q10",
+      "stem": "A 3-year-old boy (11.2 kg, height 88 cm) has WFH Z-score −1.4 and HFA Z-score −2.6. He is active and well. Which is the BEST interpretation?",
+      "options": [
+        "Severe wasting",
+        "Moderate stunting without wasting: chronic undernutrition",
+        "Normal growth",
+        "Severe stunting with wasting",
+        "Overweight"
+      ],
+      "answer": 1,
+      "explanation": "**B** is correct: **HFA between −2 and −3 = moderate stunting** (chronic undernutrition); **WFH −1.4** means he is **not wasted**. Address diet quality, hygiene and chronic illness, and monitor height velocity. **A** and **D** are wrong: WFH is above −2. **C** is wrong: HFA below −2 is stunting. **E** is wrong: overweight is WFH above +2.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pgx-q11",
+      "stem": "A 9-month-old girl is pale. Her palms are much paler than the examiner's and almost white. HR 168/min, RR 56/min, liver 4 cm below the costal margin, gallop rhythm. What is the MOST appropriate next step?",
+      "options": [
+        "Urgent Hb (HemoCue), malaria test, and prepare for transfusion; treat heart failure carefully",
+        "Start oral iron and review in 1 month",
+        "Give 20 mL/kg Ringer's lactate bolus",
+        "Send stool for ova and cysts and wait",
+        "Reassure: pallor is normal in infants"
+      ],
+      "answer": 0,
+      "explanation": "**A** is correct: **severe palmar pallor** with **tachycardia, tachypnoea, hepatomegaly and gallop** suggests **decompensated severe anaemia** (heart failure): measure Hb now, test for malaria and **transfuse** (packed cells 10 mL/kg slowly or whole blood per guideline; furosemide if overloaded). **B** is wrong: oral iron is far too slow. **C** is wrong: crystalloid worsens heart failure and dilutes Hb. **D** is wrong: stool tests do not change urgent care. **E** is wrong: severe pallor is never normal.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pgx-q12",
+      "stem": "A 7-month-old girl is weighed fully clothed with a thick sweater, a nappy and shoes on a hanging scale: 6.5 kg. Her previous weight on the card 1 month ago (undressed) was 6.4 kg. What is the BEST conclusion?",
+      "options": [
+        "She gained 100 g in a month, which is adequate",
+        "She has SAM",
+        "The measurement is not comparable; reweigh her undressed before judging weight gain",
+        "Weight is unreliable in infants; use MUAC only",
+        "She has gained weight too quickly"
+      ],
+      "answer": 2,
+      "explanation": "**C** is correct: clothes and a wet nappy can weigh **0.3–0.5 kg** (up to 7% of her weight); the true weight may have fallen. **Reweigh undressed** on a calibrated scale before interpreting the trend. **A** is wrong: the gain may be artefactual (and 100 g/month is inadequate at 7 months anyway, normal ~10 g/day). **B** is wrong: SAM needs WFL, MUAC or oedema. **D** is wrong: weight is essential when measured correctly. **E** is wrong: no evidence supports that.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pgx-q13",
+      "stem": "A 5-year-old boy with a 3-week cough has firm, matted, non-tender left cervical lymph nodes 3 cm in size, and small (0.5 cm) mobile nodes in both groins. Which finding is MOST significant?",
+      "options": [
+        "The small inguinal nodes",
+        "Neither: cough is the only important finding",
+        "Both are normal for age",
+        "The matted 3 cm cervical lymph nodes",
+        "The absence of tender nodes means infection is excluded"
+      ],
+      "answer": 3,
+      "explanation": "**D** is correct: **matted, firm cervical nodes >2 cm** with a chronic cough suggest **TB lymphadenitis** (also lymphoma, HIV): investigate with fine-needle aspirate for **Xpert Ultra**, CXR and HIV test. **A** is wrong: small mobile inguinal nodes (<1.5 cm) are common in children. **C** is wrong: 3 cm matted nodes are abnormal. **B** is wrong: the nodes are a key clue. **E** is wrong: TB nodes are classically non-tender.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pgx-q14",
+      "stem": "At a growth-monitoring clinic, a 6-month-old's weight has fallen from the 0 Z-score line at 2 months to the −2 line now. Length is tracking along −0.5. What does this pattern indicate?",
+      "options": [
+        "Normal growth because she is still above −3",
+        "Measurement error, so ignore it",
+        "Stunting",
+        "Overweight",
+        "Growth faltering (crossing two major lines downward) needing assessment of feeding and illness"
+      ],
+      "answer": 4,
+      "explanation": "**E** is correct: **crossing two major Z-score lines downward** is **growth faltering**; at 6 months think of feeding problems (end of exclusive breastfeeding, poor complementary feeding), infection (HIV, TB, diarrhoea) and the mother's health. **A** is wrong: the trend matters more than a single point. **C** is wrong: length is tracking normally, so this is weight faltering, not stunting. **D** is wrong: she is losing ground. **B** is wrong: assume it is real until a careful reweigh says otherwise.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pgx-q15",
+      "stem": "A 12-month-old boy has a head circumference of 50.5 cm (above +3 SD); 3 months ago it was at +1 SD. He has a tense fontanelle and his eyes look downwards ('setting sun'). Which is the MOST appropriate next step?",
+      "options": [
+        "Reassure: big heads run in families",
+        "Recheck head circumference in 6 months",
+        "Urgent cranial ultrasound (open fontanelle) or CT and neurosurgical referral for suspected hydrocephalus",
+        "Start phenobarbital",
+        "Order a skull X-ray only"
+      ],
+      "answer": 2,
+      "explanation": "**C** is correct: **rapidly crossing centiles upward**, a **tense fontanelle** and **setting-sun eyes** indicate **hydrocephalus**: cranial ultrasound or CT and **urgent neurosurgical referral** (e.g. CURE Children's Hospital, Mbale). **A** is wrong: familial macrocephaly grows parallel to centiles without raised ICP signs. **B** is wrong: delay risks brain damage. **D** is wrong: no seizures are described. **E** is wrong: X-ray adds little.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pgx-q16",
+      "stem": "A 4-month-old exclusively breastfed infant weighs 4.3 kg (weight-for-age Z-score −2.6) with MUAC 10.6 cm and no oedema. She is alert, breastfeeding, with no danger signs. According to WHO 2023, how is she classified?",
+      "options": [
+        "An infant under 6 months at risk of poor growth and development (WAZ < −2 and MUAC <11.0 cm), needing assessment of breastfeeding, the mother's health and illness",
+        "Normal, because MUAC cut-offs apply only from 6 months",
+        "Moderate acute malnutrition needing supplementary RUTF",
+        "Uncomplicated SAM managed with RUTF at home",
+        "Stunting only"
+      ],
+      "answer": 0,
+      "explanation": "**A** is correct: the **WHO 2023 wasting guideline** defines infants **<6 months at risk of poor growth and development** by **WAZ < −2**, WLZ < −2, **MUAC <11.0 cm (from 6 weeks)** or oedema; management centres on **breastfeeding support**, the mother's physical and mental health, and treating illness, with inpatient care if severe or complicated. **B** is wrong: WHO now provides an infant MUAC cut-off. **C** and **D** are wrong: RUTF is not for infants under 6 months. **E** is wrong: stunting is defined by length-for-age, which is not given.",
+      "difficulty": "advanced"
+    }
+  ],
+  "cases": [
+    {
+      "id": "pgx-c01",
+      "title": "Measuring and classifying a wasted toddler",
+      "presentation": "A 14-month-old girl is brought to a HC IV in Lira with diarrhoea for 5 days and poor appetite. Her mother stopped breastfeeding at 8 months when she became pregnant again. The child looks thin and irritable.",
+      "steps": [
+        {
+          "prompt": "What do you do first, before measuring?",
+          "answer": "**ETAT triage**: check for emergency signs (airway, breathing, shock: cold hands, CRT, pulse; coma; convulsions; severe dehydration). Then priority signs (visible severe wasting, oedema of both feet). Count **RR**, check **temperature** (hypothermia), and **glucose** if lethargic."
+        },
+        {
+          "prompt": "Describe how you weigh and measure her.",
+          "answer": "Weigh **undressed** on a calibrated infant scale (record to 0.01–0.1 kg): **6.1 kg**. Measure **length lying** with two people on a length board: **71.0 cm**. **MUAC** on the left arm at the acromion–olecranon midpoint: **10.9 cm**. Check **bilateral pitting oedema** on the feet (3 s): none. Head circumference 43.5 cm."
+        },
+        {
+          "prompt": "Plot and interpret the Z-scores.",
+          "answer": "**WFL < −3** (severe wasting), **LFA about −2** (borderline stunting), **WFA < −3** (severely underweight); **MUAC 10.9 cm = red**. **Diagnosis: SAM** (severe wasting)."
+        },
+        {
+          "prompt": "How do you assess dehydration and what is the trap?",
+          "answer": "She is irritable, drinks eagerly, eyes look sunken, skin pinch slow. In **SAM** these signs are unreliable (wasting itself causes them); use history (5 days of diarrhoea, mother says eyes recently sunken), thirst and urine. Treat as **some dehydration with ReSoMal** cautiously, not Plan C."
+        },
+        {
+          "prompt": "Is this complicated or uncomplicated SAM, and what is the next management step?",
+          "answer": "Do the **appetite test** and look for complications. She refuses RUTF and has diarrhoea with dehydration → **complicated SAM: admit** for stabilisation: prevent hypoglycaemia and hypothermia, **ReSoMal**, **antibiotics** (ampicillin + gentamicin), **F-75 130 mL/kg/day** in 8–12 feeds, HIV test, malaria test, then transition to RUTF."
+        }
+      ],
+      "takeaway": "Accurate weight, length, MUAC and an oedema check classify SAM; dehydration signs are unreliable in wasted children, and the appetite test decides inpatient versus outpatient care."
+    },
+    {
+      "id": "pgx-c02",
+      "title": "The swollen child: kwashiorkor or nephrotic syndrome?",
+      "presentation": "A 3-year-old boy is brought to Mengo with swelling that started around the eyes 10 days ago and now involves the legs and scrotum. He weighs 16.5 kg (up from 14.8 kg at a clinic visit 2 months ago), height 95 cm. He eats family meals including beans and fish. Skin and hair look normal.",
+      "steps": [
+        {
+          "prompt": "What do you check on general examination?",
+          "answer": "**Vital signs** (BP for nephritic/hypertension, HR, RR), **oedema distribution and grade** (periorbital, legs, scrotal, ascites; pitting), **skin and hair** (kwashiorkor changes absent), pallor, signs of infection (peritonitis, cellulitis), **pleural effusions**, heart (gallop, raised JVP), liver."
+        },
+        {
+          "prompt": "How do you interpret his weight and nutritional status?",
+          "answer": "His weight has **risen 1.7 kg because of fluid**; WFH and MUAC overestimate nutrition when oedema is present. Oedema starting **periorbitally** in a well-fed child is typical of **nephrotic syndrome**, not kwashiorkor."
+        },
+        {
+          "prompt": "Which bedside test is most useful next?",
+          "answer": "**Urine dipstick**: **protein 3+** supports nephrotic syndrome (also look for blood: nephritic features). Then urine protein:creatinine ratio, **serum albumin** (<25 g/L), cholesterol, creatinine, FBC; screen for **TB, HIV, hepatitis B and malaria** before steroids, and treat worms."
+        },
+        {
+          "prompt": "Dipstick shows protein 4+, no blood; BP 98/60. What is your plan?",
+          "answer": "**Idiopathic nephrotic syndrome** (likely minimal change): **prednisolone 60 mg/m²/day (2 mg/kg, max 60 mg)** for 4 weeks then alternate-day tapering (KDIGO 2021), **salt restriction**, daily weight, urine dipstick monitoring, treat infections (peritonitis risk), avoid excessive diuretics (thrombosis/hypovolaemia), vaccinate (pneumococcal) when stable."
+        },
+        {
+          "prompt": "How would a child with kwashiorkor have differed?",
+          "answer": "Poor diet history, oedema starting in the **feet**, **flaky-paint dermatosis**, **sparse pale hair**, apathy, hepatomegaly, little or trace proteinuria; managed as **SAM** (F-75, antibiotics, no diuretics)."
+        }
+      ],
+      "takeaway": "Bilateral oedema needs its distribution, a urine dipstick and a diet history: heavy proteinuria and periorbital onset point to nephrotic syndrome, skin/hair changes and poor diet to kwashiorkor."
+    },
+    {
+      "id": "pgx-c03",
+      "title": "A jaundiced newborn on the postnatal ward",
+      "presentation": "A 40-hour-old baby girl born at 37 weeks (birth weight 2.9 kg) is noticed to be yellow by the midwife at Mengo. Her mother is blood group O Rh-positive. The baby is breastfeeding 6 times a day. Temperature 36.8°C, HR 140/min, RR 48/min.",
+      "steps": [
+        {
+          "prompt": "How do you examine for jaundice?",
+          "answer": "In **daylight** (or good white light), **blanch** the skin with a finger over the forehead, chest, abdomen, knees, arms and **palms and soles**; look at sclerae and gums. Note the furthest zone (Kramer). Here yellow reaches the **lower abdomen and thighs (zone 3)**."
+        },
+        {
+          "prompt": "What else do you examine in the general examination?",
+          "answer": "**Weight** (loss since birth: 2.68 kg = 7.6% loss), **hydration** (fontanelle, mucous membranes, urine/stool output), **tone, alertness, suck and cry** (encephalopathy signs), **pallor and hepatosplenomegaly** (haemolysis), signs of **sepsis** (temperature, lethargy, RR), cephalhaematoma or bruising."
+        },
+        {
+          "prompt": "What do you do with your visual estimate?",
+          "answer": "**Measure**: TcB, then **total serum bilirubin** if near the threshold; plot by **hours of age** on the AAP 2022 nomogram for 37 weeks, noting **risk factors** (37 weeks, possible **ABO incompatibility** with an O mother, need for G6PD testing)."
+        },
+        {
+          "prompt": "Total serum bilirubin is above the phototherapy line. What is your plan?",
+          "answer": "**Phototherapy** (eyes covered, maximal skin exposure, turn regularly), **increase breastfeeding** to 8–12 times/day (express if needed), monitor temperature and hydration; check **blood groups, DAT, FBC/film, G6PD**; repeat bilirubin in 4–6 h; consider exchange transfusion if it rises towards the exchange line or encephalopathy signs appear."
+        },
+        {
+          "prompt": "Which findings would make you escalate urgently?",
+          "answer": "Jaundice on **palms and soles**, a rapid rise, bilirubin near the **exchange threshold**, **lethargy, poor suck, high-pitched cry, hypertonia/arching, setting-sun eyes** (acute bilirubin encephalopathy), fever or other signs of sepsis, pallor (haemolysis)."
+        }
+      ],
+      "takeaway": "Neonatal jaundice is examined in good light with blanching, but decisions rest on a measured bilirubin plotted by hours of age and risk factors."
+    }
+  ],
+  "references": [
+    {
+      "title": "Uganda Clinical Guidelines 2023 (dehydration, shock in children, nutrition, child growth standards)",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf"
+    },
+    {
+      "title": "WHO guideline on the prevention and management of wasting and nutritional oedema (acute malnutrition) in infants and children under 5 years",
+      "source": "World Health Organization",
+      "year": 2023,
+      "url": "https://iris.who.int/handle/10665/376075"
+    },
+    {
+      "title": "Pocket book of hospital care for children, 2nd edition",
+      "source": "World Health Organization",
+      "year": 2013,
+      "url": "https://iris.who.int/handle/10665/81170"
+    },
+    {
+      "title": "Updated guideline: paediatric emergency triage, assessment and treatment (ETAT)",
+      "source": "World Health Organization",
+      "year": 2016,
+      "url": "https://iris.who.int/handle/10665/204463"
+    },
+    {
+      "title": "Acceptable ranges for physiological variables (clinical practice guideline)",
+      "source": "The Royal Children's Hospital Melbourne",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Normal_Ranges_for_Physiological_Variables/"
+    },
+    {
+      "title": "UK-WHO growth charts 0–4 years",
+      "source": "Royal College of Paediatrics and Child Health",
+      "url": "https://www.rcpch.ac.uk/resources/uk-who-growth-charts-0-4-years"
+    },
+    {
+      "title": "Clinical practice guideline revision: management of hyperbilirubinemia in the newborn infant 35 or more weeks of gestation",
+      "source": "American Academy of Pediatrics (Pediatrics 2022;150:e2022058859)",
+      "year": 2022
+    },
+    {
+      "title": "Guideline on haemoglobin cutoffs to define anaemia in individuals and populations",
+      "source": "World Health Organization",
+      "year": 2024,
+      "url": "https://iris.who.int/handle/10665/376196"
+    }
+  ]
+}
