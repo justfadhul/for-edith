@@ -1,0 +1,300 @@
+{
+  "slug": "immunisation",
+  "flashcards": [
+    { "id": "imz-f01", "front": "Vaccines given at birth in Uganda (current schedule)", "back": "**BCG**, **OPV0** and **hepatitis B birth dose** (HepB-BD introduced 2025)." },
+    { "id": "imz-f02", "front": "Vaccines at 6, 10 and 14 weeks (Uganda)", "back": "**OPV**, **DPT-HepB-Hib (pentavalent)**, **PCV** and **rotavirus** at each visit; **IPV** at 6 and 14 weeks (UCG 2023). The current MoH poster shows rotavirus at 6, 10 and 14 weeks." },
+    { "id": "imz-f03", "front": "Uganda malaria vaccine: product, schedule, coverage area", "back": "**R21/Matrix-M**, 4 doses at **6, 7, 8 and 18 months**, introduced **April 2025** in **107 high-burden districts** (MoH, January 2026)." },
+    { "id": "imz-f04", "front": "Vaccines at 9 months", "back": "**Measles–rubella 1** (0.5 mL SC, left upper arm) + **yellow fever** (0.5 mL, right upper arm)." },
+    { "id": "imz-f05", "front": "Vaccines at 18 months", "back": "**MR2**, **malaria vaccine dose 4** and **vitamin A**." },
+    { "id": "imz-f06", "front": "HPV vaccine in Uganda (2025 onward)", "back": "Girls aged **10 years** (Primary 4): **single dose**; immunocompromised girls (e.g. HIV) still get **2 doses**." },
+    { "id": "imz-f07", "front": "BCG: dose, route, site", "back": "**0.05 mL intradermal** (under 12 months; 0.1 mL from 12 months), **right upper arm**." },
+    { "id": "imz-f08", "front": "Where are pentavalent and PCV injected in an infant?", "back": "Pentavalent: **left** outer thigh. PCV: **right** outer thigh (IPV also right thigh, **2.5 cm** from PCV). All 0.5 mL IM." },
+    { "id": "imz-f09", "front": "Storage temperature for vaccines at a health facility", "back": "**+2 to +8°C**, with the temperature recorded **twice daily** (including weekends)." },
+    { "id": "imz-f10", "front": "Vaccines that must never be frozen", "back": "**Pentavalent, PCV, IPV, HepB, HPV, Td, rotavirus, malaria vaccine** (and diluents). Only OPV and MR may be stored frozen, at district/national level." },
+    { "id": "imz-f11", "front": "How do you read a vaccine vial monitor (VVM)?", "back": "Inner square **lighter** than the outer circle = usable (stages 1–2). Square **same as or darker** than circle = **discard** (stages 3–4)." },
+    { "id": "imz-f12", "front": "The shake test", "back": "Tests freeze damage of adsorbed vaccines: shake a suspect vial and a deliberately frozen control; if the suspect sediments **as fast as or faster** than the control, it was frozen: discard." },
+    { "id": "imz-f13", "front": "How long can reconstituted BCG, MR and yellow fever be used?", "back": "**6 hours** after reconstitution or the **end of the session**, whichever comes first." },
+    { "id": "imz-f14", "front": "Multi-dose vial policy for opened OPV, IPV, pentavalent, PCV, Td", "back": "May be kept for later sessions up to **4 weeks (28 days)** if not expired, VVM OK, stored at +2 to +8°C, not contaminated and **not opened at outreach** (UCG 2023)." },
+    { "id": "imz-f15", "front": "True contraindications to vaccination (the short list)", "back": "**Anaphylaxis** to a previous dose/component; **live vaccines** (BCG, YF) in symptomatic HIV/severe immunosuppression; **encephalopathy within 7 days** of a pertussis dose; **intussusception** (rotavirus); YF under 6 months." },
+    { "id": "imz-f16", "front": "Five false contraindications", "back": "Mild illness/low-grade fever, **malnutrition**, **prematurity/LBW**, on antibiotics, breastfeeding, HIV exposure, jaundice, family history of convulsions, previous local reaction." },
+    { "id": "imz-f17", "front": "UCG 2023: what to do with a severely ill child who is due vaccines", "back": "**Admit and treat**, then **vaccinate at discharge**. Minor illness is not a contraindication." },
+    { "id": "imz-f18", "front": "Anaphylaxis after vaccination: first drug and dose", "back": "**Adrenaline 1 mg/mL (1:1000) 0.01 mL/kg IM** in the anterolateral thigh (max 0.5 mL), repeat every **5 minutes** as needed." },
+    { "id": "imz-f19", "front": "How long should you observe a child after vaccination?", "back": "**15–30 minutes**." },
+    { "id": "imz-f20", "front": "WHO causality categories for AEFI", "back": "**Vaccine product-related**, **vaccine quality defect**, **immunisation error-related**, **immunisation anxiety-related**, **coincidental**." },
+    { "id": "imz-f21", "front": "When must a serious AEFI be reported in Uganda, and to whom?", "back": "To the **district** (DHO/EPI focal person) **within 24 hours** on the AEFI form; it feeds into UNEPI and the **National Drug Authority** pharmacovigilance system. Keep the vials." },
+    { "id": "imz-f22", "front": "Catch-up rules", "back": "**Never restart** a series; give all due antigens at first contact; **4 weeks** minimum between doses; live injectables same day or 4 weeks apart." },
+    { "id": "imz-f23", "front": "MR in a measles outbreak for a 6-month-old", "back": "Give MR from **6 months** ('MR0'); it does **not count**, so repeat at **9 and 18 months**." },
+    { "id": "imz-f24", "front": "Td schedule for women of childbearing age", "back": "Td1 first contact; Td2 ≥4 weeks later; Td3 6 months later; Td4 1 year later; Td5 1 year later (5 doses = long-term protection)." },
+    { "id": "imz-f25", "front": "Vitamin A supplementation doses", "back": "6–11 months **100,000 IU**; 12–59 months **200,000 IU** every **6 months**." },
+    { "id": "imz-f26", "front": "Vaccinating a preterm baby", "back": "Use **chronological age** (do not correct). BCG, OPV0 and HepB at birth or discharge." },
+    { "id": "imz-f27", "front": "Why is measles vaccine given at 9 months?", "back": "**Maternal antibody** neutralises the live vaccine earlier; by 9 months most have lost it while measles risk is high. The 18-month dose catches the ~15% who did not seroconvert." },
+    { "id": "imz-f28", "front": "Acute flaccid paralysis surveillance samples", "back": "**Two stool samples 24 hours apart within 14 days** of paralysis onset, in any child under 15." }
+  ],
+  "mcqs": [
+    {
+      "id": "imz-q01",
+      "stem": "A 6-week-old girl (4.2 kg) is brought to a HC III for her first immunisations. She has had a runny nose and a cough for 2 days; temperature 37.8°C, RR 44/min, no chest indrawing, feeding well. Her mother asks whether to come back next week. What is the MOST appropriate action?",
+      "options": [
+        "Postpone all vaccines until she has been well for 2 weeks",
+        "Give OPV1, pentavalent 1, PCV1, rotavirus 1 and IPV1 today and advise on fever care",
+        "Give only the oral vaccines today and the injections next week",
+        "Give amoxicillin and vaccinate after the course is complete",
+        "Admit her for observation and vaccinate at discharge"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: a mild upper respiratory infection with low-grade fever is a false contraindication; give all due 6-week vaccines today. A is wrong: delaying exposes her to pertussis, pneumococcus and rotavirus and risks dropout. C is wrong: there is no reason to split the vaccines; splitting creates missed opportunities. D is wrong: she has no pneumonia (RR <50, no indrawing), and antibiotics are not a contraindication anyway. E is wrong: admission and vaccination at discharge are for severely ill children, not a well-feeding baby with a cold.",
+      "difficulty": "core"
+    },
+    {
+      "id": "imz-q02",
+      "stem": "A 9-month-old boy (7.0 kg, WHZ −3.1, no oedema) is admitted with severe acute malnutrition and no complications other than poor appetite. His card shows all doses up to 14 weeks. Which plan for his vaccines is MOST appropriate?",
+      "options": [
+        "Withhold all vaccines until he reaches −1 Z",
+        "Give MR only after the RUTF course is completed",
+        "Give yellow fever only, because MR is contraindicated in malnutrition",
+        "Give MR1 and yellow fever (and malaria vaccine if in an eligible district) during this admission, before discharge",
+        "Give a double dose of MR because malnourished children respond poorly"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: malnutrition is a false contraindication and malnourished children are at highest risk of dying from measles; give the due 9-month vaccines (and malaria doses if eligible) during the admission. A is wrong: waiting for nutritional recovery leaves him unprotected for weeks to months. B is wrong: it delays MR without reason. C is wrong: MR is not contraindicated in malnutrition. E is wrong: there is no double dose; the standard 0.5 mL dose is used.",
+      "difficulty": "core"
+    },
+    {
+      "id": "imz-q03",
+      "stem": "At the end of a Monday outreach session, the nurse finds that the HC III vaccine fridge thermometer reads −3°C and the pentavalent vials look slightly cloudy. What is the BEST next step before using the pentavalent stock?",
+      "options": [
+        "Perform a shake test comparing a suspect vial with a deliberately frozen control vial",
+        "Use the vials because pentavalent is heat-sensitive, not cold-sensitive",
+        "Check the VVM; if it is at stage 1 the vials are safe to use",
+        "Warm the vials to room temperature and use them the same day",
+        "Discard all vaccines in the fridge, including OPV and MR"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: pentavalent is an adsorbed, freeze-sensitive vaccine; the shake test detects freeze damage (the suspect vial sediments as fast as the frozen control). B is wrong: freezing destroys adsorbed vaccines (pentavalent, PCV, HepB, Td, IPV, HPV). C is wrong: the VVM shows heat exposure only; it says nothing about freezing. D is wrong: thawing does not restore a freeze-damaged vaccine. E is wrong: OPV and MR are not damaged by freezing; discard only what fails the shake test (and report the cold-chain break).",
+      "difficulty": "core"
+    },
+    {
+      "id": "imz-q04",
+      "stem": "Two minutes after receiving pentavalent, PCV and IPV at 10 weeks, a 5.0 kg baby becomes pale and floppy, with widespread urticaria, stridor and a weak, fast pulse. What is the MOST appropriate first drug?",
+      "options": [
+        "Chlorphenamine 0.1 mg/kg IV",
+        "Hydrocortisone 4 mg/kg IV",
+        "Adrenaline 1 mg/mL, 0.5 mL subcutaneously",
+        "Salbutamol nebuliser 2.5 mg",
+        "Adrenaline 1 mg/mL, 0.05 mL (0.05 mg) IM into the anterolateral thigh"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: this is anaphylaxis; the first-line drug is IM adrenaline 0.01 mg/kg (0.01 mL/kg of 1 mg/mL), here 0.05 mL, into the thigh, repeated every 5 minutes if needed. A is wrong: antihistamines are adjuncts and do not treat airway obstruction or shock. B is wrong: steroids act too slowly and are adjuncts only. C is wrong: 0.5 mL is the adult maximum (ten times this infant's dose), and the subcutaneous route is absorbed less reliably than IM. D is wrong: salbutamol does not treat laryngeal oedema or shock.",
+      "difficulty": "core"
+    },
+    {
+      "id": "imz-q05",
+      "stem": "A 2-year-old girl with symptomatic HIV (oral thrush, WHO stage 3) and no BCG scar is brought for catch-up. Her card shows no BCG and no MR. Which plan is MOST appropriate?",
+      "options": [
+        "Give BCG and MR today",
+        "Give BCG only; MR is contraindicated in HIV",
+        "Give MR today; do not give BCG",
+        "Give neither until her CD4 has recovered on ART",
+        "Give BCG at double dose because immunosuppressed children respond poorly"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: UCG 2023 says do not give a missed BCG to a child with symptomatic HIV (risk of disseminated BCG), but give measles–rubella even in symptomatic HIV because measles is so dangerous. A is wrong: BCG, a live vaccine, is contraindicated in symptomatic HIV. B is wrong: it reverses the rule; MR is given. D is wrong: delaying MR leaves her exposed to measles, which kills HIV-positive children. E is wrong: increasing a live-vaccine dose in immunosuppression is dangerous.",
+      "difficulty": "core"
+    },
+    {
+      "id": "imz-q06",
+      "stem": "A 14-month-old boy from Mukono (9.0 kg) attends clinic. His card shows BCG, OPV0 and the 6-week doses only. His mother is worried that he is 'too old' and 'must start again'. Which plan is MOST appropriate?",
+      "options": [
+        "Give OPV2, pentavalent 2, PCV2, IPV, MR1 and yellow fever today, and continue the series at 4-week intervals",
+        "Restart the full infant series with OPV1, pentavalent 1 and PCV1",
+        "Give only MR and yellow fever; the infant vaccines are no longer needed at 14 months",
+        "Give one vaccine per visit to avoid overloading the immune system",
+        "Refer him to the district hospital for a specialist catch-up plan"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: never restart a series; count documented doses, give all due antigens at the first contact (different sites), and continue at minimum 4-week intervals. B is wrong: restarting wastes doses and delays protection; doses already given count. C is wrong: he still needs pentavalent (diphtheria, pertussis, tetanus, HepB, Hib), PCV and polio doses at 14 months. D is wrong: multiple vaccines at one visit are safe and reduce missed opportunities. E is wrong: catch-up is routine work at any immunising facility.",
+      "difficulty": "core"
+    },
+    {
+      "id": "imz-q07",
+      "stem": "A 4-month-old boy received his 14-week rotavirus vaccine 5 days ago. He now has intermittent screaming episodes with drawing up of the legs, vomiting and a 'red-currant jelly' stool. He is pale between episodes. What is the MOST appropriate next step?",
+      "options": [
+        "Reassure: this is the expected mild gastrointestinal reaction to rotavirus vaccine",
+        "Start oral rehydration salts and zinc for rotavirus gastroenteritis",
+        "Resuscitate, arrange urgent abdominal ultrasound and surgical review for intussusception, and report an AEFI",
+        "Give metronidazole for amoebic dysentery",
+        "Give the next rotavirus dose early to complete the schedule"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: colicky pain, vomiting and red-currant stool within 7 days of rotavirus vaccine suggest intussusception, a rare serious AEFI; resuscitate, confirm by ultrasound, reduce (air/hydrostatic) or operate, report, and give no further rotavirus doses. A is wrong: the expected reaction is mild, short-lived GI upset, not bloody stools and colic. B is wrong: treating as gastroenteritis delays a surgical emergency. D is wrong: amoebic dysentery is rare in young infants and this picture is classic intussusception. E is wrong: a history of intussusception is a contraindication to further rotavirus doses.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "imz-q08",
+      "stem": "A district EPI officer reports that 4 of 12 infants vaccinated with BCG at one outreach post developed fever and fluctuant abscesses at the injection site over the next week. Several were also given MR from the same session. What is the MOST likely category of these AEFIs?",
+      "options": [
+        "Vaccine product-related reaction",
+        "Coincidental events",
+        "Immunisation anxiety-related reaction",
+        "Vaccine quality defect from the manufacturer",
+        "Immunisation error-related reaction"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: a cluster of hot, fluctuant abscesses after one session suggests non-sterile technique or a contaminated reconstituted vial (immunisation error): for example, keeping reconstituted BCG beyond 6 hours or reusing syringes. A is wrong: the expected BCG reaction is a small papule that ulcerates over weeks, not a cluster of febrile abscesses within a week. B is wrong: a cluster linked to one session is unlikely to be chance. C is wrong: anxiety reactions are fainting or hyperventilation in older children, not abscesses. D is wrong: a manufacturing defect would affect many sites using the same lot, not one outreach post.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "imz-q09",
+      "stem": "A mother in Lira (a malaria vaccine district) brings her 10-month-old daughter (7.8 kg). The card shows all doses to 14 weeks and MR1 and yellow fever at 9 months, but no malaria vaccine. What is the MOST appropriate advice?",
+      "options": [
+        "She is too old for the malaria vaccine; continue nets only",
+        "Give malaria vaccine dose 1 today, then doses 2 and 3 at 4-week intervals and dose 4 about 12 months after dose 3",
+        "Give all three primary malaria doses today in different thighs",
+        "Give malaria dose 1 today and dose 4 at 18 months, skipping doses 2 and 3",
+        "Wait until the next ITN campaign; the vaccine replaces the net"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: the malaria vaccine is for young children in eligible districts; a late starter begins now and completes the 3 primary doses at minimum 4-week intervals, with the booster about a year after dose 3. A is wrong: 10 months is within the target age group (under 2). C is wrong: doses of the same vaccine need 4-week intervals to build immunity. D is wrong: skipping primary doses leaves her unprotected. E is wrong: the vaccine adds to nets; it never replaces them.",
+      "difficulty": "core"
+    },
+    {
+      "id": "imz-q10",
+      "stem": "A 6-month-old girl in Kasese is a household contact of her 4-year-old brother, who has a confirmed measles rash that appeared yesterday. She has had all vaccines due up to 14 weeks and is well. What is the MOST appropriate action regarding measles vaccination?",
+      "options": [
+        "No vaccine: she is too young for MR and is protected by maternal antibody",
+        "Give MR now and count it as MR1; give MR2 at 18 months",
+        "Give vitamin A only",
+        "Give MR now (an extra early dose that does not count), then MR1 at 9 months and MR2 at 18 months",
+        "Give MR at 9 months as usual; exposure does not change the schedule"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: UCG 2023 allows MR from 6 months for an exposed child; given early (within 72 hours of exposure it may prevent disease), it does not count, so MR is repeated at 9 and 18 months. A is wrong: maternal antibody is waning by 6 months and exposure is intense in a household. B is wrong: a dose before 9 months gives a weaker response and must not count. C is wrong: vitamin A is for children who have measles (treatment), not a substitute for vaccination of contacts. E is wrong: waiting ignores the outbreak risk.",
+      "difficulty": "core"
+    },
+    {
+      "id": "imz-q11",
+      "stem": "A 10-year-old girl in Primary 4 is being vaccinated against HPV at school in 2026. She is HIV-positive on TLD and suppressed. How many HPV doses does she need according to current Uganda practice?",
+      "options": [
+        "One dose, like all other girls",
+        "None, because HPV vaccine is contraindicated in HIV",
+        "Three doses at 0, 1–2 and 6 months",
+        "Two doses, because she is immunocompromised",
+        "One dose now and a booster at 15 years"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: since 2025 Uganda gives a single dose to 10-year-old girls, except immunocompromised girls (such as those with HIV), who continue with two doses (MoH January 2026). A is wrong: the single-dose schedule excludes immunocompromised girls. B is wrong: HPV vaccine is not live and is safe in HIV; girls with HIV are at high risk of cervical cancer. C is wrong: three doses are used in some countries for immunocompromised people, but Uganda's current guidance is two. E is wrong: no booster at 15 years is in the Ugandan schedule.",
+      "difficulty": "core"
+    },
+    {
+      "id": "imz-q12",
+      "stem": "A 3-month-old baby received pentavalent 2 at 10 weeks. Within 24 hours she developed fever of 38.5°C and inconsolable crying for 3 hours, which settled with paracetamol. Her mother asks whether the 14-week dose should be skipped. What is the BEST advice?",
+      "options": [
+        "Skip all further pertussis-containing doses",
+        "Give the 14-week dose on schedule; give paracetamol 15 mg/kg if fever recurs",
+        "Give the 14-week dose only after a neurological review",
+        "Replace pentavalent with tetanus toxoid only",
+        "Delay the dose until 6 months, when reactions are fewer"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: fever and a few hours of crying after a whole-cell pertussis vaccine are expected minor reactions, not contraindications; continue on schedule with paracetamol advice. A is wrong: only anaphylaxis or encephalopathy within 7 days stops further pertussis doses. C is wrong: no neurological review is needed for an expected febrile reaction. D is wrong: removing the pertussis, Hib and HepB components would leave her unprotected. E is wrong: delay prolongs the period of pertussis risk, which is greatest in young infants.",
+      "difficulty": "core"
+    },
+    {
+      "id": "imz-q13",
+      "stem": "At a HC IV, a nurse is preparing measles–rubella vaccine for the afternoon session. Which practice is CORRECT?",
+      "options": [
+        "Reconstitute with water for injection if the MR diluent has run out",
+        "Keep a reconstituted MR vial until the next day's session if it stays in the fridge",
+        "Use the same syringe to reconstitute the vial and to vaccinate the first child",
+        "Use diluent at room temperature so that the injection is less painful",
+        "Use the diluent from the same manufacturer, pre-cooled, and discard the vial 6 hours after reconstitution or at the end of the session"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: UCG 2023 requires each vaccine's own pre-cooled diluent, and reconstituted MR (like BCG and YF) is discarded after 6 hours or at the session's end, whichever comes first. A is wrong: UCG says never use water for injection as a diluent; wrong diluents have caused deaths. B is wrong: reconstituted MR has no preservative and must not be kept overnight (risk of contamination and toxic shock). C is wrong: a separate mixing syringe is used and discarded; every child gets a new AD syringe. D is wrong: warm diluent added to the cold vaccine heat-shocks it; diluent must be cooled.",
+      "difficulty": "core"
+    },
+    {
+      "id": "imz-q14",
+      "stem": "A baby is born at 34 weeks' gestation weighing 1.9 kg at Mengo. She is now 6 weeks old, weighs 2.6 kg and is well on the KMC unit. Her mother asks whether she should wait until the baby's 'real due date' to start immunisations. What is the BEST advice?",
+      "options": [
+        "Give the 6-week vaccines now, by chronological age, at full dose",
+        "Wait until 6 weeks after the expected date of delivery",
+        "Give half doses because the baby is small",
+        "Give oral vaccines only until she weighs 3 kg",
+        "Give the vaccines but repeat them all at 3 months because preterm babies do not respond"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: preterm and LBW babies are vaccinated according to chronological age with full doses; prematurity is a false contraindication. B is wrong: correcting for prematurity delays protection when infections are most dangerous. C is wrong: doses are never reduced for size. D is wrong: there is no weight threshold for injectable vaccines. E is wrong: preterm infants respond adequately; repeating doses is unnecessary (the exception is a HepB birth dose given under 2 kg, which does not count towards the series).",
+      "difficulty": "core"
+    },
+    {
+      "id": "imz-q15",
+      "stem": "Which statement about the vaccine vial monitor (VVM) is correct?",
+      "options": [
+        "It changes colour when a vaccine has been frozen",
+        "A VVM at stage 3 means the vaccine should be used first",
+        "It shows cumulative heat exposure; use the vial only if the inner square is lighter than the outer circle",
+        "It indicates the expiry date of the vaccine",
+        "It shows whether an opened vial has been contaminated"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: the VVM records cumulative heat exposure; usable while the inner square is lighter than the circle (stages 1–2), discard at stages 3–4. A is wrong: the VVM does not detect freezing (use the shake test or freeze indicators). B is wrong: stage 3 is the discard point; 'use first' applies to stage 2. D is wrong: expiry is printed separately and must also be checked. E is wrong: contamination cannot be seen on the VVM; MDVP rules govern opened vials.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "imz-c01",
+      "title": "The child with no card and a measles outbreak",
+      "presentation": "During a measles outbreak in Kampala, a 13-month-old boy is brought to Mengo's outpatient clinic with a 3-day cough and runny nose; temperature 37.9°C, RR 38/min, no rash, alert and feeding. Weight 8.3 kg (WAZ −1.8), MUAC 13.0 cm. His mother lost his card; she remembers 'injections when he was small' but no visits after 3 months. His 5-year-old sister also has no card.",
+      "steps": [
+        { "prompt": "Can he be vaccinated today? Justify.", "answer": "**Yes.** Mild URTI and low-grade fever are false contraindications; there are no danger signs and he is feeding. In an outbreak, delaying MR is dangerous." },
+        { "prompt": "How will you establish what he has had?", "answer": "Ask where he was vaccinated and check that facility's **child register**; look for a **BCG scar** (right arm). If no record is found, **assume he is unvaccinated** for doses that cannot be confirmed: extra doses are safe." },
+        { "prompt": "He has a BCG scar; the register confirms BCG, OPV0 and 6- and 10-week doses. What do you give today?", "answer": "**OPV3, pentavalent 3, PCV3, IPV (2nd dose if only one given), MR1, yellow fever** (live vaccines same day), plus **malaria vaccine** if the district is eligible and **vitamin A 200,000 IU**. Use separate sites; record on a **new card**." },
+        { "prompt": "What is the plan after today?", "answer": "**MR2** at 18 months (at least 4 weeks after MR1), remaining malaria doses at 4-week intervals then a booster, vitamin A every 6 months, growth monitoring. Write the next date on the card and link to a VHT for follow-up." },
+        { "prompt": "What about his 5-year-old sister?", "answer": "Check her history the same way; give **MR** (any unvaccinated child), catch-up **Td/pentavalent-type** doses per national guidance (Hib not usually needed after 5 years; PCV catch-up generally not after 5), and OPV/IPV. Every contact is an opportunity, including siblings." },
+        { "prompt": "Two days later the boy develops a maculopapular rash, conjunctivitis and fever 39°C. What do you do?", "answer": "This is likely **measles infection** (incubated before vaccination; the vaccine rash comes at 7–12 days and is mild). Isolate, notify the district (**measles IgM** sample), give **vitamin A** (200,000 IU days 1 and 2, repeat at 2–4 weeks if eye signs), screen for pneumonia, diarrhoea and malnutrition, and vaccinate contacts. Report as an AEFI only if the investigation suggests a vaccine link." }
+      ],
+      "takeaway": "Minor illness and a lost card are not reasons to send a child away: confirm what you can, assume unvaccinated where you cannot, give everything due at once, never restart, and immunise the siblings too."
+    },
+    {
+      "id": "imz-c02",
+      "title": "Anaphylaxis at an outreach session",
+      "presentation": "You are a clerk helping at an immunisation outreach under a tree in Wakiso. A 10-year-old girl (28 kg) receives HPV vaccine. Five minutes later she becomes anxious, says her throat feels tight, and develops generalised urticaria and wheeze; pulse 140/min, weak.",
+      "steps": [
+        { "prompt": "How do you distinguish anaphylaxis from an immunisation anxiety reaction (fainting)?", "answer": "**Fainting**: pallor, sweating, slow pulse, brief loss of consciousness, quick recovery lying flat, **no** urticaria, stridor or wheeze. **Anaphylaxis**: skin signs (urticaria, angio-oedema) plus **airway, breathing or circulation** involvement (stridor, wheeze, tachycardia, hypotension). This girl has anaphylaxis." },
+        { "prompt": "What is your immediate management, with doses?", "answer": "Call for help, lie her down (or sit up if breathing is easier; legs raised if hypotensive). **Adrenaline 1 mg/mL 0.01 mL/kg = 0.28 mL** (round to 0.3 mL) **IM anterolateral thigh**; repeat every **5 minutes** if no improvement. Oxygen if available, IV access and **normal saline 20 mL/kg (about 560 mL)** if shocked." },
+        { "prompt": "She improves after one dose. What next?", "answer": "Adjuncts: **chlorphenamine 0.1 mg/kg** (2.5–4 mg) for itch; consider **hydrocortisone 4 mg/kg** (about 110 mg). **Transfer** to the nearest hospital for observation for at least **6–12 hours** (biphasic reactions), with a health worker and a second adrenaline dose drawn up." },
+        { "prompt": "What must happen administratively?", "answer": "Fill in the **AEFI reporting form** and notify the **district within 24 hours** (serious AEFI); keep the **vial and lot number**; record on her card that she must **not receive this vaccine again**; inform her parents honestly." },
+        { "prompt": "Other girls in the queue start to feel faint and dizzy. What is happening and what do you do?", "answer": "Likely **immunisation anxiety-related reactions** (mass psychogenic response), common in adolescent school campaigns. Move girls away from the scene, vaccinate seated, lie down anyone who feels faint, reassure calmly, and examine each for objective signs of anaphylaxis before attributing symptoms to anxiety." },
+        { "prompt": "What should have been in place before the session?", "answer": "**Emergency tray** (adrenaline 1 mg/mL ×3, 1 mL syringes, needles, chart of doses), trained staff, a **15–30-minute observation area**, a referral plan and transport, a phone with the district contact." }
+      ],
+      "takeaway": "Anaphylaxis is rare but must be expected at every session: recognise airway, breathing or circulation involvement, give IM adrenaline 0.01 mL/kg of 1 mg/mL into the thigh at once, observe, refer and report within 24 hours."
+    },
+    {
+      "id": "imz-c03",
+      "title": "Is it the vaccine? Fever and convulsion after 9-month vaccines",
+      "presentation": "A 9-month-old girl from Mityana (7.9 kg) received MR1, yellow fever and malaria dose 3 eight days ago. She is brought to the HC IV with fever 39.6°C for one day and a generalised convulsion lasting 3 minutes, which stopped on its own. She is now drowsy but rousable, RR 40/min, no neck stiffness, fontanelle flat.",
+      "steps": [
+        { "prompt": "What are your immediate actions?", "answer": "ABC; recovery position; **RBS**; temperature control (paracetamol **15 mg/kg ≈ 120 mg**); if she convulses again for >5 minutes, **diazepam 0.5 mg/kg rectally (4 mg)**. Assess for danger signs and shock." },
+        { "prompt": "List your differential diagnosis.", "answer": "(1) **Febrile seizure** due to post-MR fever (days 5–12) or due to another infection; (2) **severe malaria/cerebral malaria**; (3) **bacterial meningitis**; (4) other infections (pneumonia, UTI, otitis); (5) hypoglycaemia; (6) very rarely, YF vaccine-associated neurological disease." },
+        { "prompt": "Which investigations will you do, and why?", "answer": "**Malaria RDT/blood smear** (coincidental malaria is common, and the malaria vaccine does not give full protection); **RBS**; **FBC**; **urinalysis**; **lumbar puncture** if she does not return to full consciousness within an hour, has meningeal signs, or is under 12 months with a first seizure and an unclear source (many clinicians do an LP in this age group)." },
+        { "prompt": "RDT is positive and she recovers fully within 45 minutes. How do you manage and classify?", "answer": "Treat **malaria** (uncomplicated: artemether–lumefantrine by weight; if any severe feature, IV artesunate 3 mg/kg for <20 kg). The seizure is most likely a **febrile seizure due to coincidental malaria**. If an AEFI report is made (seizure within the post-MR window), the investigation would likely classify it as **coincidental**." },
+        { "prompt": "Her mother asks whether her daughter should receive MR2 and malaria dose 4. What do you advise?", "answer": "**Yes.** A febrile seizure is not a contraindication to further MR or malaria doses. Explain fever care after vaccination and that measles itself causes far more seizures, encephalitis and deaths than the vaccine." },
+        { "prompt": "How does this case affect public trust, and what is your role?", "answer": "Rumours that 'the new malaria vaccine causes fits' can reduce uptake (already a problem with completion). Communicate clearly, document the cause, report through the AEFI system, and reassure the community via VHTs." }
+      ],
+      "takeaway": "Most events after vaccination are coincidental: look for malaria, meningitis and hypoglycaemia first, treat the cause, report and classify honestly, and keep the child on schedule."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Routine Immunisation Schedule (poster)", "source": "Ministry of Health Uganda (UNEPI)", "year": 2025, "url": "https://health.go.ug/download/routine-immunization-schedule" },
+    { "title": "Media pack on routine immunization services: update on routine immunization and vaccine-preventable diseases in Uganda", "source": "Ministry of Health Uganda", "year": 2026, "url": "https://health.go.ug/download/media-brief-on-routine-immunization-services-2026" },
+    { "title": "Joint press release: Minister flags off malaria vaccine to 105 districts", "source": "Ministry of Health Uganda, UNICEF, Gavi, WHO", "year": 2025, "url": "https://health.go.ug/download/joint-press-release-minister-flags-off-malaria-vaccine-to-105-districts" },
+    { "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions (Chapter 18: Immunization)", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf" },
+    { "title": "Caregivers' willingness and factors influencing uptake of the malaria vaccine among under-five children at Masaka Regional Referral Hospital, Uganda", "source": "PLOS Global Public Health", "year": 2026, "url": "https://pubmed.ncbi.nlm.nih.gov/42837393/" },
+    { "title": "General knowledge and attitude of healthcare professionals and infrastructural readiness prior to implementation of malaria vaccine in selected hospitals in Tororo district, Uganda", "source": "BMC Public Health", "year": 2025, "url": "https://pubmed.ncbi.nlm.nih.gov/41068667/" },
+    { "title": "Contraindications and Precautions (General Best Practice Guidelines for Immunization)", "source": "Centers for Disease Control and Prevention", "url": "https://www.cdc.gov/vaccines/hcp/imz-best-practices/contraindications-precautions.html" },
+    { "title": "Childhood Vaccination", "source": "MSD Manual Professional Edition", "url": "https://www.msdmanuals.com/professional/pediatrics/childhood-vaccination/childhood-vaccination" },
+    { "title": "Pocket book of hospital care for children, 2nd edition", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" }
+  ]
+}

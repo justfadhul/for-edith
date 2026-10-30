@@ -71,3 +71,12 @@ To update a topic, edit `content/topics/<slug>/notes.md` or `study.json`, then r
 - Neonatal ampicillin frequency: UCG hospital section 6-hourly vs WHO/IMNCI 12-hourly in week 1 then 8-hourly. Gentamicin in LBW: WHO 3 mg/kg vs UCG 4 mg/kg (preterm).
 - Uganda facts: MNT elimination validated 2011; Nsambya human milk bank 2021; which hospitals have bubble CPAP, exchange transfusion, ROP screening, Ponseti clinics; G6PD deficiency common / Rh-negative uncommon.
 - Numbers: HIE prognosis (≈20–40% death/disability in moderate HIE; Thompson score cut-off ≈15); feeding methods by weight band; Ballard/reflex disappearance ages; NICE phototherapy values beyond 60 h (extrapolated) and the "GA × 10 − 100" preterm threshold rule. AAP 2022 thresholds not quoted (page not readable).
+
+## Paediatrics: HIV, immunisation, social paediatrics
+
+- pDTG at 3–5.9 kg: UCG table prints 1 tab; FDA/WHO dose is 5 mg (½ × 10 mg dispersible). Neonatal (<4 weeks) first-line regimen; 3HP eligibility in children.
+- High-risk infant prophylaxis: UCG 2023 says NVP alone × 12 weeks; site follows hiv-in-pregnancy (AZT+NVP 6 weeks then NVP). PEP: UCG lists LPV/r or ATV/r; notes prefer DTG-based.
+- Immunisation: rotavirus doses (MoH poster 6/10/14 wk vs UCG 2023 6/10 wk); IPV timing (UCG 2023: 6 and 14 weeks).
+- Statistics: UDHS 2022 (IMR 36, U5MR 52, stunting 24%, perinatal mortality); VACS 2015 figures; child marriage/teen pregnancy; paediatric HIV numbers.
+- Law: Children (Amendment) Act 2016 section numbers (corporal punishment ban, duty to report); adolescent consent age for HIV testing/SRH; UNCST assent age (8 years).
+- Doses: paediatric STI prophylaxis after defilement (ceftriaxone 25–50 mg/kg max 250 mg; metronidazole); rectal artesunate capsule strength in iCCM (50 vs 100 mg).

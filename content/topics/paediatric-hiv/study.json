@@ -1,0 +1,496 @@
+{
+  "slug": "paediatric-hiv",
+  "flashcards": [
+    {
+      "id": "phiv-f01",
+      "front": "Which test diagnoses HIV in a child under 18 months, and why not a rapid test?",
+      "back": "**DNA PCR** (virological). Maternal IgG crosses the placenta and persists up to 18 months, so an antibody test shows only **exposure**."
+    },
+    {
+      "id": "phiv-f02",
+      "front": "Uganda EID schedule for an HIV-exposed breastfed infant",
+      "back": "DNA PCR at **6 weeks** (or first contact), **9 months**, and **6 weeks after breastfeeding stops**; then a **rapid antibody test at 18 months**."
+    },
+    {
+      "id": "phiv-f03",
+      "front": "A DNA PCR comes back positive. What happens the same day?",
+      "back": "Start **ART the same day** and send a **confirmatory sample** at the same time (plus an HIVDR sample if the mother is failing ART). Do not wait for the confirmatory result."
+    },
+    {
+      "id": "phiv-f04",
+      "front": "Untreated mortality of infants with HIV (UCG 2023)",
+      "back": "About **30% die by 1 year** and **50% by 2 years**."
+    },
+    {
+      "id": "phiv-f05",
+      "front": "Preferred first-line ART for a child ≥4 weeks and ≥3 kg (Uganda 2022/UCG 2023)",
+      "back": "**ABC + 3TC + DTG** (pDTG 10 mg dispersible or ABC/3TC/DTG 60/30/5 FDC). DTG 50 mg film-coated from **20 kg**; **TLD** from **30 kg**."
+    },
+    {
+      "id": "phiv-f06",
+      "front": "pDTG 10 mg dispersible doses by weight band",
+      "back": "6–9.9 kg **1.5 tab** (15 mg); 10–13.9 kg **2** (20 mg); 14–19.9 kg **2.5** (25 mg); 20–24.9 kg **3** (30 mg) or DTG 50 mg ×1. 3–5.9 kg: FDA/WHO ½ tab (5 mg); UCG table prints 1 (verify with the MoH chart)."
+    },
+    {
+      "id": "phiv-f07",
+      "front": "ABC/3TC 120/60 mg dispersible doses (once daily)",
+      "back": "3–5.9 kg **1**; 6–9.9 kg **1.5**; 10–13.9 kg **2**; 14–19.9 kg **2.5**; 20–24.9 kg **3**; ≥25 kg ABC/3TC **600/300 one tablet**."
+    },
+    {
+      "id": "phiv-f08",
+      "front": "How is DTG dosed with rifampicin?",
+      "back": "Same weight-band dose given **twice daily**, continued for **2 weeks after rifampicin stops**."
+    },
+    {
+      "id": "phiv-f09",
+      "front": "Are pDTG 10 mg dispersible and DTG 50 mg film-coated interchangeable mg for mg?",
+      "back": "**No.** They are not bioequivalent: **30 mg pDTG ≈ 50 mg film-coated**."
+    },
+    {
+      "id": "phiv-f10",
+      "front": "Co-trimoxazole prophylaxis doses (once daily)",
+      "back": "<5 kg **120 mg**; 5–14.9 kg **240 mg**; 15–29.9 kg **480 mg**; ≥30 kg **960 mg**."
+    },
+    {
+      "id": "phiv-f11",
+      "front": "When does CTX start and stop in an HIV-exposed infant?",
+      "back": "Start at **6 weeks**; stop when HIV is **excluded after breastfeeding ends**. If infected: continue **for life** (UCG 2023)."
+    },
+    {
+      "id": "phiv-f12",
+      "front": "Alternative if co-trimoxazole is contraindicated",
+      "back": "**Dapsone 2 mg/kg once daily**, max **100 mg**."
+    },
+    {
+      "id": "phiv-f13",
+      "front": "Nevirapine prophylaxis doses (UCG 2023)",
+      "back": "Birth–6 weeks: **10 mg** (2.0–2.49 kg) or **15 mg** (≥2.5 kg) once daily; 6–12 weeks: **20 mg** once daily."
+    },
+    {
+      "id": "phiv-f14",
+      "front": "Which infants are 'high-risk' HIV-exposed?",
+      "back": "Mother on ART **≤4 weeks** before delivery, **VL >1000** in the 4 weeks before delivery, or diagnosed in the **3rd trimester or while breastfeeding**. Give AZT + NVP 6 weeks then NVP 6 weeks (12 weeks)."
+    },
+    {
+      "id": "phiv-f15",
+      "front": "Viral load schedule for children and adolescents (0–19 years)",
+      "back": "At **6 and 12 months** after starting ART, then **every 6 months**."
+    },
+    {
+      "id": "phiv-f16",
+      "front": "Uganda viral load thresholds",
+      "back": "**≤200** copies/mL suppressed; **201–999** low-level viraemia; **≥1000** non-suppressed (IAC, repeat VL, resistance test)."
+    },
+    {
+      "id": "phiv-f17",
+      "front": "Definition of virological failure",
+      "back": "**Two consecutive VLs >1000 copies/mL**, 3–6 months apart, with intensive adherence support in between, after **≥6 months on ART**."
+    },
+    {
+      "id": "phiv-f18",
+      "front": "Classic clinical picture of PCP",
+      "back": "Infant **2–6 months**, severe tachypnoea and **hypoxaemia**, little or no fever, chest **relatively clear**, no response to 48 h of antibiotics; CXR bilateral ground glass."
+    },
+    {
+      "id": "phiv-f19",
+      "front": "PCP treatment (WHO Pocket Book 2013)",
+      "back": "High-dose co-trimoxazole **TMP 8 mg/kg + SMX 40 mg/kg** per dose, IV or oral, **8-hourly for 21 days**, plus **prednisolone 1–2 mg/kg/day** for 1 week if hypoxic; then lifelong prophylaxis."
+    },
+    {
+      "id": "phiv-f20",
+      "front": "In which two OIs is ART deferred, and for how long?",
+      "back": "**Cryptococcal meningitis** (4–6 weeks after antifungals) and **TB meningitis** (4–8 weeks). Other TB: start ART within 2 weeks."
+    },
+    {
+      "id": "phiv-f21",
+      "front": "WHO 2022 induction for cryptococcal meningitis",
+      "back": "**Liposomal amphotericin B 10 mg/kg once**, plus **flucytosine 100 mg/kg/day** and **fluconazole 12 mg/kg/day** (max 800 mg) for **14 days**; then fluconazole consolidation 8 weeks."
+    },
+    {
+      "id": "phiv-f22",
+      "front": "Oral thrush: when is it WHO stage 3, and when stage 4?",
+      "back": "Persistent **oral** candidiasis **after 6 weeks of age** = stage 3. **Oesophageal** candidiasis = stage 4."
+    },
+    {
+      "id": "phiv-f23",
+      "front": "Presumptive severe HIV disease in an antibody-positive infant <18 months",
+      "back": "**Oral thrush + severe pneumonia** or **+ severe sepsis** (any two of these), or **any AIDS-defining condition**. Start ART and confirm with PCR."
+    },
+    {
+      "id": "phiv-f24",
+      "front": "Stages of disclosure to a child with HIV",
+      "back": "Partial disclosure about **6–8 years** ('germs in the blood'), full disclosure about **10–12 years**, before adolescence; then ongoing support (OTZ, peer groups)."
+    },
+    {
+      "id": "phiv-f25",
+      "front": "Abacavir hypersensitivity: what to do",
+      "back": "Fever, rash, GI or respiratory symptoms, usually within 6 weeks: **stop ABC and never re-challenge** (re-challenge can kill)."
+    },
+    {
+      "id": "phiv-f26",
+      "front": "Immunisation differences in HIV",
+      "back": "No **BCG** if symptomatic HIV and missed at birth; avoid **yellow fever** if symptomatic; give **measles–rubella** even if symptomatic; **HPV 2 doses** for girls with HIV."
+    },
+    {
+      "id": "phiv-f27",
+      "front": "Who counts as having advanced HIV disease (WHO)?",
+      "back": "**All children under 5 years**, plus anyone with **CD4 <200** or **WHO stage 3 or 4**."
+    },
+    {
+      "id": "phiv-f28",
+      "front": "Second-line ART for a child failing ABC + 3TC + DTG (UCG 2023)",
+      "back": "**AZT + 3TC + DRV/r** (alternative AZT + 3TC + LPV/r), guided by a resistance test."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "phiv-q01",
+      "stem": "A 10-month-old girl is brought to Mengo's young child clinic for a routine visit. Her mother has been on TLD since ANC; her last viral load 2 months ago was 'target not detected'. The baby had a negative DNA PCR at 6 weeks, completed NVP prophylaxis, takes co-trimoxazole and is still breastfeeding. She weighs 8.4 kg (WAZ −0.3) and is well. Today a rapid HIV antibody test was done by mistake and is POSITIVE. What is the MOST appropriate interpretation and action?",
+      "options": [
+        "She is HIV-infected; start ABC/3TC + pDTG today",
+        "Repeat the rapid test with a second kit; if positive, start ART",
+        "The result reflects maternal antibody; collect the 9-month DNA PCR now and continue co-trimoxazole",
+        "Stop breastfeeding immediately and repeat the rapid test in 3 months",
+        "She is HIV-negative because the 6-week PCR was negative; stop co-trimoxazole"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: under 18 months a positive antibody test shows exposure (maternal IgG), not infection. The 9-month PCR is due, and she stays on CTX while breastfeeding. A is wrong: starting ART on an antibody result in a well infant would wrongly label her as infected. B is wrong: a second antibody kit detects the same maternal IgG. D is wrong: Uganda recommends continued breastfeeding to 12 months while the mother is suppressed, and the next test is a PCR, not an antibody test. E is wrong: a negative 6-week PCR does not exclude infection in a breastfeeding baby who is still exposed.",
+      "difficulty": "core"
+    },
+    {
+      "id": "phiv-q02",
+      "stem": "A 3-year-old boy weighing 12.5 kg is diagnosed HIV-positive today at a HC IV by the national rapid-test algorithm; he stopped breastfeeding at 14 months. He has no TB symptoms and no signs of meningitis, and his grandmother is ready to start treatment today. Which regimen and dose is MOST appropriate?",
+      "options": [
+        "ABC/3TC 120/60 mg 2 tablets + pDTG 10 mg 2 tablets, both once daily",
+        "TDF/3TC/DTG 300/300/50 mg one tablet once daily",
+        "AZT/3TC 60/30 mg 2 tablets + NVP syrup 20 mg, twice daily",
+        "ABC/3TC 120/60 mg 2.5 tablets + DTG 50 mg one tablet once daily",
+        "ABC/3TC 120/60 mg 2 tablets + LPV/r 40/10 pellets 4 sachets once daily"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: at 3 years he is diagnosed by rapid test (over 18 months and not breastfed for more than 6 weeks), and the 10–13.9 kg band takes ABC/3TC 120/60 ×2 + pDTG 10 mg ×2 (20 mg) once daily. B is wrong: TLD is for ≥30 kg; TDF is not used under 30 kg. C is wrong: NVP-based regimens are no longer preferred and fail more often. D is wrong: 2.5 tablets belongs to the 14–19.9 kg band and DTG 50 mg is used only from 20 kg. E is wrong: LPV/r is an alternative only if DTG is unavailable, and it is given twice daily, not once.",
+      "difficulty": "core"
+    },
+    {
+      "id": "phiv-q03",
+      "stem": "A 4-month-old HIV-exposed boy (weight 5.2 kg) presents to Mengo with 4 days of cough and worsening breathing. He has been mixed-fed; his mother was diagnosed HIV-positive at delivery and has 'not started her drugs yet'. Temperature 37.6°C, RR 72/min, severe chest indrawing, SpO₂ 81% in air, a few scattered crackles only. He has oral thrush. Besides oxygen, ampicillin and gentamicin, what is the MOST important additional treatment now?",
+      "options": [
+        "Nebulised salbutamol every 20 minutes",
+        "Oral amoxicillin 40 mg/kg twice daily instead of the IV antibiotics",
+        "Start ABC/3TC + pDTG today and wait for the antibiotics to work",
+        "IV ceftriaxone and await the chest X-ray",
+        "High-dose co-trimoxazole (TMP 8 mg/kg 8-hourly) plus prednisolone"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: an HIV-exposed infant aged 2–6 months with severe hypoxaemia, little fever and a relatively clear chest is PCP until proven otherwise; WHO adds high-dose co-trimoxazole for 21 days and prednisolone 1–2 mg/kg/day if hypoxic. A is wrong: this is not bronchiolitis or asthma, and salbutamol will not treat PCP. B is wrong: severe pneumonia with SpO₂ 81% needs parenteral therapy and admission. C is wrong: ART is important but the life-threatening PCP must be treated first; ART can start within 2 weeks once stable, and his PCR must be sent. D is wrong: ceftriaxone does not cover Pneumocystis, and waiting for imaging delays the key drug.",
+      "difficulty": "core"
+    },
+    {
+      "id": "phiv-q04",
+      "stem": "A 9-year-old girl (24 kg) on ABC/3TC + DTG 50 mg is diagnosed with pulmonary TB (Xpert MTB detected, RIF not detected). She will start RHZE. What change to her ART is MOST appropriate?",
+      "options": [
+        "Stop ART until TB treatment is finished",
+        "Give DTG 50 mg twice daily during rifampicin and for 2 weeks after",
+        "Switch DTG to nevirapine for the duration of TB treatment",
+        "Continue DTG 50 mg once daily; no change is needed",
+        "Switch to TDF/3TC/DTG because TDF protects the liver"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: rifampicin induces UGT1A1/CYP3A and lowers DTG levels, so the weight-band dose is given twice daily and continued for 2 weeks after rifampicin stops. A is wrong: interrupting ART causes rebound and resistance; ART continues. C is wrong: NVP must not be given with rifampicin. D is wrong: once-daily DTG with rifampicin gives sub-therapeutic levels. E is wrong: TDF is used from 30 kg and does not 'protect the liver'; it does nothing about the interaction.",
+      "difficulty": "core"
+    },
+    {
+      "id": "phiv-q05",
+      "stem": "A 13-year-old boy (31 kg) on TLD for 2 years has a viral load of 4,800 copies/mL. Six months ago it was 'target not detected'. His aunt says he moved to a boarding school this term and 'doesn't want friends to see his tablets'. He has not been told his full diagnosis. What is the BEST next step?",
+      "options": [
+        "Switch immediately to AZT + 3TC + DRV/r",
+        "Send an HIV drug-resistance test today and await the result before any counselling",
+        "Begin intensive adherence counselling, plan full disclosure with the aunt, and repeat the viral load after 3 sessions",
+        "Increase DTG to 50 mg twice daily",
+        "Reassure the aunt; a single high viral load is a laboratory error"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: the first step for a non-suppressed VL (≥1000) is IAC (three monthly sessions) addressing the obvious barriers (boarding school, stigma, non-disclosure), then a repeat VL; only if it stays ≥1000 does a resistance test guide a switch. A is wrong: switching before IAC and a repeat VL on a DTG regimen is premature; resistance to DTG is uncommon. B is wrong: resistance testing comes after a second non-suppressed VL, and counselling should not wait. D is wrong: twice-daily DTG is for rifampicin co-treatment or known INSTI resistance, not adherence failure. E is wrong: ignoring a VL of 4,800 in an adolescent with clear adherence barriers risks resistance and disease progression.",
+      "difficulty": "core"
+    },
+    {
+      "id": "phiv-q06",
+      "stem": "A 15-month-old child (7.1 kg, WHZ −3.2, no oedema) is admitted with SAM. The mother's HIV status is unknown and she is not present; the grandmother brought the child. What is the MOST appropriate HIV testing approach?",
+      "options": [
+        "Defer HIV testing until nutritional rehabilitation is complete",
+        "Test the grandmother because she is the caregiver",
+        "Do a DNA PCR only if the CD4 count is low",
+        "Do a rapid antibody test on the child; if positive, send a DNA PCR to confirm infection",
+        "Do a rapid antibody test on the child; if positive, start ART immediately without further tests"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: when the mother is unavailable, UCG 2023 advises a rapid test on the child to establish exposure; under 18 months a positive result needs a DNA PCR to diagnose infection (although ART can start presumptively if criteria for severe HIV disease are met). A is wrong: HIV status changes SAM management and prognosis; test now. B is wrong: the grandmother's status says nothing about the child's exposure. C is wrong: CD4 is not a diagnostic test, and PCR does not depend on it. E is wrong: under 18 months a positive antibody test alone does not prove infection; confirm with PCR unless presumptive severe disease criteria are met.",
+      "difficulty": "core"
+    },
+    {
+      "id": "phiv-q07",
+      "stem": "An HIV-positive 11-year-old girl (28 kg) started ABC/3TC + DTG 50 mg 3 weeks ago (CD4 at baseline 90 cells/µL). She now has fever, a new swollen tender cervical lymph node and worsening cough, though she says she takes every dose. Which is the MOST likely explanation?",
+      "options": [
+        "Abacavir hypersensitivity",
+        "Virological failure due to DTG resistance",
+        "Co-trimoxazole allergy",
+        "Immune reconstitution inflammatory syndrome unmasking TB",
+        "Lymphoid interstitial pneumonitis"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: new inflammatory features (fever, enlarging node, cough) 2–12 weeks after starting ART in a child with a very low CD4 strongly suggest IRIS, usually unmasking TB; investigate for TB (Xpert, CXR, TB-LAM) and continue ART. A is wrong: abacavir hypersensitivity gives fever, rash and GI/respiratory symptoms, not a localised enlarging node; misdiagnosing it would mean stopping abacavir for ever without reason. B is wrong: virological failure cannot be diagnosed at 3 weeks and does not cause acute inflammation. C is wrong: sulfa allergy causes rash and fever, not lymphadenitis. E is wrong: LIP is a slow process with parotid swelling and clubbing, not an acute febrile illness after ART.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "phiv-q08",
+      "stem": "A newborn (2.8 kg) is born at a HC IV to a mother who was diagnosed with HIV at 36 weeks and started TLD 2 weeks before delivery. She plans to breastfeed. What is the MOST appropriate infant prophylaxis?",
+      "options": [
+        "AZT + NVP once/twice daily for 6 weeks, then NVP alone for a further 6 weeks",
+        "NVP 15 mg once daily for 6 weeks",
+        "No prophylaxis because the mother is on TLD",
+        "Co-trimoxazole from birth",
+        "Full ART (ABC/3TC + pDTG) from birth"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: the mother has been on ART for under 4 weeks, so the baby is high-risk: AZT 15 mg twice daily + NVP 15 mg once daily for 6 weeks, then NVP for 6 more weeks (2022 consolidated guidelines; UCG 2023 lists NVP for 12 weeks). B is wrong: 6 weeks of NVP alone is for low-risk infants. C is wrong: maternal ART for only 2 weeks has not suppressed the virus. D is wrong: co-trimoxazole starts at 6 weeks and is not ARV prophylaxis. E is wrong: ABC/3TC + pDTG is not used in the first 4 weeks; full treatment is given to infants diagnosed as infected (or presenting after 6 weeks, per UCG).",
+      "difficulty": "core"
+    },
+    {
+      "id": "phiv-q09",
+      "stem": "A 14-year-old girl on TLD presents to Mengo with 10 days of headache and 2 days of vomiting. She is drowsy (GCS 13), afebrile, with mild neck stiffness. Her CD4 last month was 70 cells/µL. Serum CrAg is positive. A lumbar puncture shows opening pressure 32 cm H₂O. Besides starting antifungals, what is the MOST important additional step?",
+      "options": [
+        "Give dexamethasone 0.15 mg/kg 6-hourly",
+        "Stop TLD until the meningitis has fully resolved, then restart after 6 months",
+        "Give mannitol and avoid further lumbar punctures",
+        "Perform repeated therapeutic lumbar punctures to lower the pressure",
+        "Start acetazolamide to reduce CSF production"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: raised intracranial pressure is a major cause of death in cryptococcal meningitis; therapeutic LPs (remove CSF to halve pressure or below 20 cm H₂O) are repeated daily until pressure is controlled. A is wrong: steroids increase mortality in cryptococcal meningitis. B is wrong: this patient is already on ART; it is not stopped, and in a newly diagnosed patient ART is deferred only 4–6 weeks, not 6 months. C is wrong: mannitol does not help and LPs should be repeated, not avoided. E is wrong: acetazolamide was harmful in trials and is not recommended.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "phiv-q10",
+      "stem": "A 7-year-old (21 kg) has been on ABC/3TC + DTG for 3 years and is suppressed. His mother asks when and how he should be told about his HIV. He has started asking why he 'takes medicine every day when other children don't'. What is the BEST advice?",
+      "options": [
+        "Wait until he is 18 so that he can consent as an adult",
+        "Tell him today that he has HIV and explain sexual transmission",
+        "Begin partial disclosure now ('germs in your blood that the medicine keeps asleep'), planning full disclosure by about 10–12 years",
+        "Tell him the medicine is vitamins so that he does not tell others",
+        "Leave disclosure to his teachers at school"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: at school age a child who asks questions is ready for partial disclosure; full disclosure is planned with the caregiver by about 10–12 years, before adolescence. A is wrong: late disclosure is linked to poor adherence, depression and onward transmission; adolescents need to know before sexual debut. B is wrong: abrupt full disclosure including sexual transmission at 7, without preparation, is not age-appropriate. D is wrong: lying ('vitamins') destroys trust when he finds out and undermines adherence. E is wrong: disclosure belongs to the caregiver with the health team; telling teachers without consent breaches confidentiality.",
+      "difficulty": "core"
+    },
+    {
+      "id": "phiv-q11",
+      "stem": "A 5-year-old HIV-positive girl (16 kg) on ABC/3TC + pDTG is suppressed. She has had 3 years of slowly progressive cough. Examination: finger clubbing, bilateral painless parotid swelling, generalised lymphadenopathy, SpO₂ 95%, no fever, good appetite. CXR shows bilateral reticulonodular shadowing with hilar fullness. Xpert on two induced sputa is negative. What is the MOST likely diagnosis?",
+      "options": [
+        "Miliary tuberculosis",
+        "Lymphoid interstitial pneumonitis",
+        "Pneumocystis pneumonia",
+        "Kaposi sarcoma of the lung",
+        "Staphylococcal pneumonia"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: LIP typically affects HIV-positive children over 2 years and causes a slow course, clubbing, parotid enlargement, lymphadenopathy, a well child and a reticulonodular CXR. A is wrong: miliary TB causes fever, wasting and an ill child, and Xpert or a contact history would usually point to it. C is wrong: PCP is an acute, hypoxic illness of infants aged 2–6 months with ground-glass changes. D is wrong: pulmonary KS is rare, usually with skin or palate lesions and effusions. E is wrong: staphylococcal pneumonia is acute and febrile with pneumatoceles or empyema.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "phiv-q12",
+      "stem": "An 18-month-old HIV-exposed boy (9.8 kg) who stopped breastfeeding at 12 months had negative DNA PCRs at 6 weeks and 9 months. What test is needed now to confirm his final status?",
+      "options": [
+        "A DNA PCR now",
+        "A CD4 count",
+        "A viral load",
+        "No further test; he is negative already",
+        "A rapid HIV antibody test"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: at 18 months, more than 6 weeks after weaning, maternal antibodies have gone and the Uganda algorithm ends with a rapid antibody test; if negative, he is discharged as HIV-negative and CTX is stopped. A is wrong: a PCR 6 weeks after weaning is part of the algorithm, but the final confirmation at 18 months is serological. B is wrong: CD4 does not diagnose HIV. C is wrong: viral load is a monitoring test, not the national diagnostic test for this purpose. D is wrong: the 9-month PCR was taken while he was still breastfeeding, so he needed further testing.",
+      "difficulty": "core"
+    },
+    {
+      "id": "phiv-q13",
+      "stem": "A 2-year-old HIV-positive boy (10.4 kg) started ABC/3TC + pDTG 5 weeks ago. He is brought back with fever 38.9°C, a generalised maculopapular rash, vomiting, abdominal pain and cough that began 2 days ago. What is the MOST appropriate action regarding his ART?",
+      "options": [
+        "Continue all ART and give paracetamol and an antihistamine",
+        "Stop abacavir permanently and replace it with AZT, continuing 3TC and DTG",
+        "Stop all ART for 2 weeks, then restart the same regimen",
+        "Stop DTG because it commonly causes this reaction",
+        "Stop abacavir now and restart it at half dose once the rash settles"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: fever, rash and GI/respiratory symptoms within 6 weeks of starting abacavir suggest hypersensitivity; stop ABC permanently and substitute AZT (AZT + 3TC + DTG is the UCG alternative when ABC is contraindicated). A is wrong: continuing ABC through a hypersensitivity reaction can be fatal. C is wrong: restarting the same regimen re-challenges abacavir, which can cause a fatal reaction. D is wrong: DTG hypersensitivity is rare; the multi-system picture fits abacavir. E is wrong: abacavir must never be re-challenged at any dose.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "phiv-q14",
+      "stem": "A 6-week-old HIV-exposed baby (4.6 kg) attends for her first immunisations at a HC III. Her mother is on TLD and suppressed; the baby is exclusively breastfed and well. Which set of actions is MOST complete today?",
+      "options": [
+        "Give 6-week vaccines, take DBS for DNA PCR, start co-trimoxazole 120 mg once daily, continue NVP to 6 weeks as prescribed, and counsel on exclusive breastfeeding",
+        "Give 6-week vaccines and ask the mother to return at 9 months for testing",
+        "Take a rapid HIV test on the baby and start ART if positive",
+        "Delay vaccines until the PCR result is back",
+        "Start co-trimoxazole 240 mg once daily and advise stopping breastfeeding"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: at 6 weeks the HEI gets routine vaccines, the first DNA PCR, CTX at the <5 kg dose (120 mg), completion of NVP, and feeding counselling. B is wrong: the first PCR is due now, at 6 weeks. C is wrong: a rapid test at 6 weeks detects maternal antibody, so it cannot diagnose infection. D is wrong: vaccines should not be delayed for an HIV result; the baby is well. E is wrong: 240 mg is the 5–14.9 kg dose, and stopping breastfeeding is not advised when the mother is suppressed on ART.",
+      "difficulty": "core"
+    },
+    {
+      "id": "phiv-q15",
+      "stem": "Which statement about co-trimoxazole prophylaxis in Ugandan children is correct (UCG 2023)?",
+      "options": [
+        "It is started at birth in all HIV-exposed infants",
+        "It is stopped once an HIV-positive child's viral load is suppressed",
+        "It is given at 120 mg once daily to a 12 kg child",
+        "It replaces the need for insecticide-treated nets",
+        "It continues for life in children who are HIV-infected"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: UCG 2023 states that infants who become HIV-infected continue co-trimoxazole for life. A is wrong: CTX starts at 6 weeks, not birth. B is wrong: in Uganda's guidance, viral suppression in a child is not a stopping criterion. C is wrong: a 12 kg child takes 240 mg (5–14.9 kg band); 120 mg is for under 5 kg. D is wrong: UCG advises both CTX and ITNs; together they reduce malaria risk by about 97%.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "phiv-c01",
+      "title": "The hypoxic 4-month-old: PCP and presumptive HIV",
+      "presentation": "At 22:00 you are called to the paediatric ward at Mengo Hospital. A 4-month-old boy, weight 4.9 kg, has had 5 days of cough and 2 days of fast breathing. Mother says she 'tested positive when he was born' but did not start ART; the baby got 'some syrup' for 2 weeks only and is mixed-fed. Temperature 37.4°C, RR 76/min, severe chest indrawing, SpO₂ 80% in air, HR 168, capillary refill 2 s, RBS 4.2 mmol/L, alert.",
+      "steps": [
+        {
+          "prompt": "What are your immediate priorities in the first 5 minutes?",
+          "answer": "ETAT: he has an emergency sign (severe respiratory distress, SpO₂ 80%). **Oxygen** by nasal prongs (0.5–1 L/min) or face mask to SpO₂ ≥94%, sit him up, gentle suction if needed. Check circulation (CRT 2 s, not shocked) and glucose (normal). IV access; send FBC, blood culture if available, and **DBS for DNA PCR**. Weigh him (4.9 kg) to dose drugs."
+        },
+        {
+          "prompt": "What is your differential diagnosis, and what is the most likely?",
+          "answer": "Severe pneumonia in an HIV-exposed infant: (1) **PCP**: most likely (age 2–6 months, severe hypoxia, little fever, untreated mother, short prophylaxis, mixed feeding); (2) bacterial pneumonia (pneumococcus, Staph, Gram-negatives); (3) TB; (4) bronchiolitis/viral pneumonia; (5) heart failure. The disproportion between hypoxia and chest signs points to PCP."
+        },
+        {
+          "prompt": "Write the treatment with doses for this 4.9 kg infant.",
+          "answer": "**Ampicillin 50 mg/kg (245 mg) IV 6-hourly + gentamicin 7.5 mg/kg (37 mg) IV once daily** (WHO severe pneumonia). **High-dose co-trimoxazole**: TMP 8 mg/kg ≈ **40 mg TMP / 200 mg SMX** IV or by NGT **8-hourly for 21 days**. **Prednisolone 2 mg/kg/day ≈ 10 mg** once daily for 1 week then taper (hypoxic). Oxygen, maintenance feeds (breast milk by NGT if distressed), careful fluids."
+        },
+        {
+          "prompt": "How do you establish his HIV status, and what does 'presumptive severe HIV disease' mean here?",
+          "answer": "He is under 18 months, so a rapid test shows only exposure; send a **DNA PCR** (POC if available). If PCR is not available quickly and he is antibody-positive, WHO criteria for **presumptive severe HIV disease** are met by **oral thrush + severe pneumonia**, or any AIDS-defining illness such as PCP. That allows starting ART while awaiting PCR confirmation."
+        },
+        {
+          "prompt": "When and with what will you start ART?",
+          "answer": "Once he is stable (within about 1–2 weeks of starting PCP treatment; there is no reason to wait as long as for meningitis): **ABC/3TC 120/60 mg 1 tablet + pDTG** for the 3–5.9 kg band (check the current MoH chart: FDA/WHO 5 mg = ½ tablet; UCG table prints 1 tablet), once daily, after counselling the mother. Send the confirmatory PCR at initiation."
+        },
+        {
+          "prompt": "What else must happen for this family before discharge?",
+          "answer": "**Start the mother on TLD today** and check her VL in 3 months; screen her for TB and cryptococcus if unwell. Continue the baby on **CTX prophylaxis for life** after the 21-day course. Feeding counselling (exclusive breastfeeding to 6 months now that the mother is starting ART, no mixing). Catch-up immunisation (6- and 10-week doses). Test siblings and the partner (index testing). Link to the ART clinic and book review in 2 weeks with a dose check."
+        }
+      ],
+      "takeaway": "In an HIV-exposed infant aged 2–6 months, severe hypoxaemia with a relatively clear chest is PCP: give high-dose co-trimoxazole and prednisolone alongside antibiotics, establish infection by PCR, start ART within 2 weeks, and treat the mother."
+    },
+    {
+      "id": "phiv-c02",
+      "title": "The non-suppressed adolescent at boarding school",
+      "presentation": "A 14-year-old girl, weight 38 kg, attends the Mengo adolescent HIV clinic with her aunt. She acquired HIV perinatally, has been on TLD for 3 years, and her viral load is now 12,400 copies/mL (previously suppressed). She looks well. She started at a boarding secondary school in Wakiso this year.",
+      "steps": [
+        {
+          "prompt": "How will you take her history? Who should be in the room?",
+          "answer": "See her **with the aunt first** (adherence, school, regimen), then **alone** for a confidential **HEADSSS** assessment: Home, Education/employment, Activities, Drugs, Sexuality, Suicide/depression, Safety. Explain confidentiality and its limits (risk of serious harm, abuse)."
+        },
+        {
+          "prompt": "She tells you she hides her tablets at school, often misses doses and has a boyfriend. What are the key issues?",
+          "answer": "(1) **Non-adherence** from stigma and boarding (likely cause of non-suppression); (2) **possible incomplete disclosure/understanding**; (3) **sexual activity**: risk to partner (not suppressed), STIs, pregnancy; (4) possible **depression**; (5) consent and capacity for contraception and SRH services."
+        },
+        {
+          "prompt": "What is the management of her viral load result?",
+          "answer": "**Intensive adherence counselling** (3 monthly sessions) with practical solutions: dose timing that fits school (e.g. evening dose), a **school nurse** or matron as supporter (with her consent), a pill box, phone reminders, OTZ/peer support, treat depression. Check for interacting drugs (antacids, iron, anticonvulsants). **Repeat VL after IAC**. If still ≥1000: **HIV drug-resistance test** and switch per result."
+        },
+        {
+          "prompt": "What sexual and reproductive health care does she need today?",
+          "answer": "Counsel on **U=U** (undetectable = untransmittable) and that she is **not** currently suppressed: condoms every time. Offer **contraception** (DTG has no interaction with implants; EFV would). Screen for STIs and pregnancy. Offer **PrEP** for the partner via his own clinic. Check HPV vaccination (girls with HIV: 2 doses). Screen for **sexual abuse/coercion**: if the partner is an adult, this may be defilement under Ugandan law (she is under 18) and child-protection steps apply."
+        },
+        {
+          "prompt": "What is your plan for her long-term care?",
+          "answer": "Enrol in an **OTZ club** and youth clinic day; **depression screening** (PHQ-A) and counselling; reinforce full disclosure and understanding; plan **transition** to adult care at about 19–24 years; VL every 6 months once suppressed; continue CTX per national guidance; annual review of school support."
+        },
+        {
+          "prompt": "The aunt asks you to tell her everything the girl said in private. How do you respond?",
+          "answer": "Explain that adolescents are entitled to **confidentiality**, which helps them stay in care, and that you will share anything that puts her at **serious risk** (abuse, self-harm). Encourage the girl to share with her aunt and offer to help her do so. Share what the aunt needs to support adherence (the plan), not the private details."
+        }
+      ],
+      "takeaway": "Most adolescent non-suppression is an adherence and psychosocial problem: see the teenager alone, use HEADSSS, give intensive adherence counselling with practical school solutions, address sexual health and safeguarding, and only then test for resistance."
+    },
+    {
+      "id": "phiv-c03",
+      "title": "TB and HIV in a malnourished toddler",
+      "presentation": "A 2-year-6-month-old boy is referred from a HC IV in Mpigi to Mengo. Weight 8.2 kg (WAZ −3.1), height 83 cm (HAZ −2.6), WHZ −2.5, MUAC 12.0 cm, no oedema. He has had cough and fever for 4 weeks and night sweats; his father is on TB treatment. A rapid HIV test today is positive; his mother died last year. Immunisation card: complete up to 9 months; missed MR2.",
+      "steps": [
+        {
+          "prompt": "Is the positive rapid test enough to diagnose HIV here?",
+          "answer": "**Yes.** He is over 18 months and no longer breastfeeding, so a positive antibody test (confirmed by the national algorithm with a second kit) diagnoses infection."
+        },
+        {
+          "prompt": "What investigations will you request and why?",
+          "answer": "**GeneXpert** on gastric aspirate/induced sputum and **stool** (TB, RIF resistance); **CXR** (hilar nodes, miliary); **urine TB-LAM** (AHD: every child under 5 with HIV counts as AHD); **CD4%**; **FBC**; **malaria RDT**; RBS; **viral load** baseline is optional (it is used for monitoring)."
+        },
+        {
+          "prompt": "Xpert on stool: MTB detected, RIF not detected. In what order do you start treatment?",
+          "answer": "Start **TB treatment first** (weight-band RHZE per national/WHO 2022 guidance; a child with non-severe disease may qualify for the 4-month regimen), **co-trimoxazole 240 mg daily** (8.2 kg band), and nutritional support (RUTF for moderate wasting). **Start ART within 2 weeks** once TB drugs are tolerated, because he does not have TB meningitis."
+        },
+        {
+          "prompt": "Write his ART prescription including the TB interaction.",
+          "answer": "6–9.9 kg band: **ABC/3TC 120/60 mg 1.5 tablets once daily** + **pDTG 10 mg 1.5 tablets (15 mg) TWICE daily** while on rifampicin and for 2 weeks after it ends; then pDTG 1.5 tablets once daily. Re-weigh each visit and move to the 10–13.9 kg band (2 tabs each) when he reaches 10 kg."
+        },
+        {
+          "prompt": "Three weeks after starting ART his fever returns and his cervical nodes swell. He is taking all doses. What do you think and do?",
+          "answer": "**TB-IRIS** (paradoxical): common 2–12 weeks after starting ART in TB co-infection. Exclude other causes (malaria, bacterial infection, TB drug resistance or poor TB adherence). **Continue ART and TB treatment**; give NSAIDs or **prednisolone 1–2 mg/kg/day** for severe IRIS; aspirate a fluctuant node."
+        },
+        {
+          "prompt": "What else does the family need?",
+          "answer": "**Catch-up MR2** (measles–rubella can be given even with HIV); trace and test **siblings** and household (index testing, TB contact screening and TPT for contacts once TB is excluded); identify a stable **caregiver/treatment supporter** (orphan); link to OVC and social support; nutrition follow-up; disclosure planning later."
+        }
+      ],
+      "takeaway": "In HIV–TB co-infection start TB treatment first and ART within 2 weeks (not in TB meningitis), double the DTG dose frequency while on rifampicin, expect IRIS, and remember the family: test contacts, nourish, immunise and find a caregiver."
+    }
+  ],
+  "references": [
+    {
+      "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions (Chapter 3: HIV/AIDS)",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf"
+    },
+    {
+      "title": "Consolidated Guidelines for the Prevention and Treatment of HIV and AIDS in Uganda (November 2022)",
+      "source": "Ministry of Health Uganda",
+      "year": 2022,
+      "url": "https://dsduganda.com/wp-content/uploads/2023/05/Consolidated-HIV-and-AIDS-Guidelines-20230516.pdf"
+    },
+    {
+      "title": "Consolidated guidelines on HIV prevention, testing, treatment, service delivery and monitoring: recommendations for a public health approach",
+      "source": "World Health Organization",
+      "year": 2021,
+      "url": "https://www.who.int/publications/i/item/9789240031593"
+    },
+    {
+      "title": "Pocket book of hospital care for children: guidelines for the management of common childhood illnesses, 2nd edition (Chapter 8: HIV/AIDS)",
+      "source": "World Health Organization",
+      "year": 2013,
+      "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+    },
+    {
+      "title": "Tivicay, Tivicay PD (dolutegravir): dosing, indications, interactions",
+      "source": "Medscape Drugs & Diseases",
+      "url": "https://reference.medscape.com/drug/tivicay-tivicay-pd-dolutegravir-999861"
+    },
+    {
+      "title": "Pediatric HIV Infection",
+      "source": "Medscape (eMedicine)",
+      "url": "https://emedicine.medscape.com/article/965086-overview"
+    },
+    {
+      "title": "Human Immunodeficiency Virus (HIV) Infection in Infants and Children",
+      "source": "MSD Manual Professional Edition",
+      "url": "https://www.msdmanuals.com/professional/pediatrics/human-immunodeficiency-virus-hiv-infection-in-infants-and-children/human-immunodeficiency-virus-hiv-infection-in-infants-and-children"
+    }
+  ]
+}

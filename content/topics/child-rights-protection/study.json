@@ -1,0 +1,486 @@
+{
+  "slug": "child-rights-protection",
+  "flashcards": [
+    {
+      "id": "crp-f01",
+      "front": "Who is a child under Ugandan and international law?",
+      "back": "Any person **under 18 years** (UNCRC Art. 1, African Charter, Uganda Constitution, Children Act)."
+    },
+    {
+      "id": "crp-f02",
+      "front": "The four general principles of the UNCRC",
+      "back": "**Non-discrimination** (Art. 2), **best interests** (Art. 3), **life, survival and development** (Art. 6), **respect for the child's views/participation** (Art. 12)."
+    },
+    {
+      "id": "crp-f03",
+      "front": "The four categories of children's rights",
+      "back": "**Survival**, **development**, **protection**, **participation**."
+    },
+    {
+      "id": "crp-f04",
+      "front": "When did Uganda ratify the UNCRC and the African Charter (ACRWC)?",
+      "back": "UNCRC **1990** (adopted 1989); ACRWC **1994**."
+    },
+    {
+      "id": "crp-f05",
+      "front": "Define defilement (Penal Code Act s.129)",
+      "back": "An **unlawful sexual act with a person under 18**. Consent is legally irrelevant."
+    },
+    {
+      "id": "crp-f06",
+      "front": "When is defilement 'aggravated'?",
+      "back": "Victim **under 14**; victim has a **disability**; offender is **HIV-positive**, a **parent/guardian/person in authority**, or a **serial offender**. Maximum penalty: **death**."
+    },
+    {
+      "id": "crp-f07",
+      "front": "WHO forms of child maltreatment",
+      "back": "**Physical**, **sexual**, **emotional** abuse, **neglect**, and **exploitation** (commercial/labour)."
+    },
+    {
+      "id": "crp-f08",
+      "front": "TEN-4-FACESp bruising rule",
+      "back": "Bruising of the **Torso, Ears, Neck** in a child **under 4**; **any** bruise under **4 months**; bruising of **Frenulum, Angle of jaw, Cheek, Eyelid, Subconjunctiva**; **patterned** bruising."
+    },
+    {
+      "id": "crp-f09",
+      "front": "Fractures most specific for abuse",
+      "back": "**Posterior rib** fractures, **metaphyseal corner** fractures, scapular, sternal and spinous process fractures, **multiple fractures of different ages**, fractures in **non-mobile** infants."
+    },
+    {
+      "id": "crp-f10",
+      "front": "Triad of abusive head trauma",
+      "back": "**Subdural haemorrhage**, **retinal haemorrhages**, **encephalopathy**, with an inadequate history."
+    },
+    {
+      "id": "crp-f11",
+      "front": "Burn patterns suggestive of abuse",
+      "back": "**Immersion scalds** with sharp 'glove and stocking' margins, symmetrical, sparing flexures/buttocks; **cigarette burns** (round, 5–10 mm, uniform depth); **contact burns** shaped like the object."
+    },
+    {
+      "id": "crp-f12",
+      "front": "Which investigation is mandatory under 2 years with suspected physical abuse?",
+      "back": "A **skeletal survey** (repeat in 11–14 days if equivocal), plus CT head under 1 year, fundoscopy and clotting screen."
+    },
+    {
+      "id": "crp-f13",
+      "front": "Does a normal genital examination exclude sexual abuse?",
+      "back": "**No.** Most sexually abused children have **normal** genital findings. Write: 'normal examination; does not exclude sexual abuse'."
+    },
+    {
+      "id": "crp-f14",
+      "front": "STIs in a prepubertal child that strongly suggest sexual abuse",
+      "back": "**Gonorrhoea**, **syphilis** (beyond the neonatal period), **trichomonas**, **chlamydia** (after infancy), **HIV** not explained by vertical transmission."
+    },
+    {
+      "id": "crp-f15",
+      "front": "HIV PEP after sexual assault: window and duration",
+      "back": "Start **within 72 hours** (as soon as possible), continue for **28 days**; do not wait for the baseline HIV result."
+    },
+    {
+      "id": "crp-f16",
+      "front": "PEP regimen for an adolescent ≥30 kg",
+      "back": "**TDF/3TC/DTG (TLD)** once daily for 28 days (UCG 2023 still lists TDF + 3TC + ATV/r)."
+    },
+    {
+      "id": "crp-f17",
+      "front": "Emergency contraception after rape",
+      "back": "**Levonorgestrel 1.5 mg** single dose within **72 h** (some effect to 120 h); **3 mg** if on enzyme inducers (EFV, rifampicin). Copper IUD up to 5 days as alternative."
+    },
+    {
+      "id": "crp-f18",
+      "front": "Police forms for medical examination in Uganda",
+      "back": "**PF3**: examination of an injured person (assault). **PF3A**: examination of a victim of a **sexual offence**."
+    },
+    {
+      "id": "crp-f19",
+      "front": "Who is the statutory child-protection officer at district level?",
+      "back": "The **Probation and Social Welfare Officer (PSWO)**."
+    },
+    {
+      "id": "crp-f20",
+      "front": "Uganda's national child helpline",
+      "back": "**Sauti 116** (toll-free, 24 hours)."
+    },
+    {
+      "id": "crp-f21",
+      "front": "How should you interview a child who discloses abuse?",
+      "back": "Open questions, no leading questions, **record their exact words**, do not promise secrecy, tell them they did right to tell, avoid repeated interviews."
+    },
+    {
+      "id": "crp-f22",
+      "front": "Mimics of physical abuse",
+      "back": "**Dermal melanocytosis** (Mongolian spots), **bleeding disorders** (ITP, haemophilia, VKDB, leukaemia), **osteogenesis imperfecta**, **rickets**, **impetigo**, cultural practices (scarification, cupping)."
+    },
+    {
+      "id": "crp-f23",
+      "front": "Age of criminal responsibility and legal marriage age in Uganda",
+      "back": "Criminal responsibility **12 years**; marriage **18 years** (Constitution Art. 31)."
+    },
+    {
+      "id": "crp-f24",
+      "front": "Uganda VACS 2015 headline on sexual violence",
+      "back": "About **1 in 3 girls** and **1 in 6 boys** experienced sexual violence in childhood (verify exact percentages)."
+    },
+    {
+      "id": "crp-f25",
+      "front": "Neglect vs poverty",
+      "back": "Poverty with good care-seeking and use of available resources is **not** neglect. Neglect = persistent failure to meet needs despite available means or support."
+    },
+    {
+      "id": "crp-f26",
+      "front": "What is 'ebiino'?",
+      "back": "A harmful traditional practice in Uganda: **extraction of infants' canine tooth buds** ('false teeth'), causing bleeding, infection, sepsis and death."
+    },
+    {
+      "id": "crp-f27",
+      "front": "HIV testing schedule after sexual assault",
+      "back": "**Baseline**, then **6 weeks** and **3 months** after exposure."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "crp-q01",
+      "stem": "A 3-month-old boy (5.4 kg) is brought to Mengo casualty because he 'won't move his left leg'. The father says he 'rolled off the bed yesterday'. The baby cannot yet roll over. There is a swollen left thigh, two 1 cm bruises on the right cheek and a torn upper lip frenulum. Which is the MOST appropriate next step?",
+      "options": [
+        "Apply a splint, give paracetamol and discharge with an orthopaedic review in a week",
+        "Confront the father and ask him to admit what happened",
+        "Admit, give analgesia, request femur X-ray, skeletal survey, CT head, clotting screen, and inform the social worker, PSWO and police",
+        "Request a femur X-ray only; abuse is unlikely if the parents brought him in",
+        "Report to the police and allow the parents to take him home while they investigate"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: a non-mobile infant with a femoral injury, facial bruising (TEN-4-FACESp) and a torn frenulum, with an implausible mechanism, needs admission as a place of safety, analgesia and a full abuse workup (skeletal survey, CT head under 1 year, clotting), and same-day referral to the social worker, PSWO and police. A is wrong: discharging an infant with suspected abuse back to the possible abuser risks further harm or death. B is wrong: confrontation can endanger the child and is not the clinician's role. D is wrong: bringing a child for care does not exclude abuse, and occult fractures and head injury need to be looked for. E is wrong: the child must be kept safe during the investigation.",
+      "difficulty": "core"
+    },
+    {
+      "id": "crp-q02",
+      "stem": "A 16-year-old girl (52 kg) presents to a HC IV 30 hours after being raped by an unknown man. She is HIV-negative on a rapid test and her urine pregnancy test is negative. She is distressed but has no serious injuries. Which management is MOST complete?",
+      "options": [
+        "Counselling only; PEP is ineffective after 24 hours",
+        "PEP only, because she is young and STIs are unlikely",
+        "Refer her to the police first; medical treatment can wait until the PF3A is issued",
+        "Emergency contraception only, because PEP needs a positive HIV test first",
+        "TLD for 28 days, levonorgestrel 1.5 mg, ceftriaxone, azithromycin and metronidazole, hepatitis B vaccine, forensic samples, PF3A, psychosocial support and follow-up HIV tests"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: within 72 hours she needs PEP (TLD 28 days for ≥30 kg), emergency contraception, STI prophylaxis, HBV vaccination, evidence collection, documentation, support and follow-up testing at 6 weeks and 3 months. A is wrong: PEP is recommended up to 72 hours. B is wrong: STIs and pregnancy are real risks after rape. C is wrong: treatment must never wait for the police form; time-critical drugs (PEP, EC) come first. D is wrong: PEP is given to HIV-negative people; it does not require a positive test.",
+      "difficulty": "core"
+    },
+    {
+      "id": "crp-q03",
+      "stem": "A 14-year-old girl attends ANC at 20 weeks. She says the father is her 'boyfriend', a 24-year-old boda-boda rider, and she agreed to the relationship. What is the legal position and the MOST appropriate action?",
+      "options": [
+        "No offence, because she consented and is over 13",
+        "Defilement, because she is under 18; provide ANC and counselling, assess safety, and report to the police CFPU and PSWO",
+        "Aggravated defilement, because the man is over 18; report only if she agrees",
+        "No offence if the families agree to a marriage",
+        "Defilement only if she was under 12 at the time of conception"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: any sexual act with a person under 18 is defilement whatever the 'consent'; she needs high-risk ANC, HIV/syphilis testing, counselling, safety assessment and a report (if she was under 14 at conception, it is aggravated). A is wrong: consent is irrelevant under 18. C is wrong: aggravation depends on her age (<14), disability, or the offender's HIV status/authority/repeat offending, not his adulthood alone; and the duty to protect is not waived by her wishes. D is wrong: marriage under 18 is unconstitutional and 'settling' does not remove the offence. E is wrong: the threshold is 18 (and 14 for aggravated), not 12.",
+      "difficulty": "core"
+    },
+    {
+      "id": "crp-q04",
+      "stem": "A 6-month-old girl (6.9 kg) has several blue-grey patches over the sacrum and buttocks, each 3–6 cm, non-tender, with no swelling. Her mother says they have been there 'since birth'. She is thriving and developing normally. What is the MOST likely explanation?",
+      "options": [
+        "Dermal melanocytosis (Mongolian blue spots)",
+        "Inflicted bruises from beating",
+        "Immune thrombocytopenia",
+        "Haemophilia A",
+        "Vitamin K deficiency bleeding"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: congenital, non-tender, slate-grey patches over the sacrum/buttocks that do not change are dermal melanocytosis, very common in African infants; documenting them early prevents false accusations. B is wrong: bruises are tender, may be swollen and change colour over days. C is wrong: ITP causes petechiae and bruising in varied sites with bleeding, not stable sacral patches since birth. D is wrong: haemophilia causes bruising with mobility and joint/muscle bleeds, not congenital sacral patches. E is wrong: VKDB presents with bleeding (umbilical, GI, intracranial) in the first months, not unchanged patches since birth.",
+      "difficulty": "core"
+    },
+    {
+      "id": "crp-q05",
+      "stem": "A 5-month-old boy (6.0 kg) is brought with seizures and vomiting. His mother says he 'was fine, then suddenly stopped breathing'. He is drowsy, the fontanelle is bulging, and there are no external injuries. Malaria RDT is negative; RBS 5.4 mmol/L. CSF is bloody in all three tubes. Which investigation will MOST help confirm the likely diagnosis?",
+      "options": [
+        "Repeat lumbar puncture in 24 hours",
+        "Blood culture and start ceftriaxone only",
+        "EEG",
+        "CT head and fundoscopy, with skeletal survey",
+        "Serum calcium and magnesium"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: an infant with encephalopathy, seizures, a bulging fontanelle and bloody CSF without a history of trauma suggests abusive head trauma; CT (subdural haemorrhages) and fundoscopy (retinal haemorrhages) confirm it, and a skeletal survey looks for associated fractures. A is wrong: a repeat LP adds risk and does not identify subdural bleeding or its cause. B is wrong: meningitis should be covered while waiting, but antibiotics do not investigate a likely inflicted head injury. C is wrong: EEG shows seizure activity but not the cause. E is wrong: electrolytes are worth checking but cannot explain bloody CSF and a bulging fontanelle.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "crp-q06",
+      "stem": "A 4-year-old girl (15 kg) is brought with a 3-week vaginal discharge. Swabs grow Neisseria gonorrhoeae. Her mother is HIV-negative and has no STI. What is the MOST appropriate interpretation and action?",
+      "options": [
+        "Non-specific vulvovaginitis due to poor hygiene; advise better hygiene",
+        "Acquired from shared towels; treat and reassure",
+        "Perinatally acquired infection; treat only",
+        "A urinary tract infection misreported as vaginal discharge",
+        "Strong evidence of sexual abuse; treat, test for other STIs and HIV, assess safety, and report to the police and PSWO"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: gonorrhoea in a prepubertal child beyond the neonatal period is diagnostic of sexual contact unless proven otherwise; treat (ceftriaxone weight-based), screen for HIV, syphilis, chlamydia and HBV, protect and report. A is wrong: non-specific vulvovaginitis does not grow gonococcus. B is wrong: non-sexual transmission via fomites is negligible and must not be assumed. C is wrong: perinatal gonococcal infection presents as neonatal conjunctivitis in the first weeks, and the mother is negative. D is wrong: the culture confirms a genital STI, not a UTI.",
+      "difficulty": "core"
+    },
+    {
+      "id": "crp-q07",
+      "stem": "An 8-year-old boy tells you on the ward, 'If I tell you something, will you promise not to tell anyone?' What is the BEST response?",
+      "options": [
+        "'Yes, I promise. Doctors never tell anyone anything.'",
+        "'Then don't tell me; I don't want to get involved.'",
+        "'I can't promise that, because if someone is hurting you I need to get help to keep you safe; but I will only tell people who can help.'",
+        "'You must tell your parents first.'",
+        "'Only if your mother is here with us.'"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: never promise secrecy you cannot keep; explain honestly that you may need to share information to keep the child safe, and only with those who need to know. A is wrong: a broken promise destroys trust, and you cannot keep abuse secret. B is wrong: refusing to listen fails the child and may be the only chance to disclose. D is wrong: the abuser may be a parent; insisting on parental involvement can block disclosure. E is wrong: requiring a parent's presence may silence the child.",
+      "difficulty": "core"
+    },
+    {
+      "id": "crp-q08",
+      "stem": "A 2-year-old boy (8.6 kg, WAZ −3.2) is admitted with pneumonia. He has missed all vaccines after 6 weeks, has untreated scabies, and is often left alone at home while both parents drink at a local bar. During admission he gains 900 g in 10 days on normal ward food. Which conclusion is MOST appropriate?",
+      "options": [
+        "Organic failure to thrive; investigate for malabsorption",
+        "Neglect; involve the social worker and PSWO, support the family and plan follow-up",
+        "Poverty; no protection concern",
+        "Physical abuse; report for prosecution immediately",
+        "Normal growth for an African child"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: rapid weight gain in hospital with ordinary food, missed immunisations, untreated illness and lack of supervision linked to parental alcohol use point to neglect; this needs a child-protection response with family support. A is wrong: organic causes would not usually allow such rapid catch-up on normal feeds. C is wrong: poverty alone does not explain leaving a 2-year-old alone and missed free services; this is a protection concern, though poverty support may be part of the plan. D is wrong: there is no evidence of inflicted injury; neglect is managed mainly through support and monitoring. E is wrong: WAZ −3.2 is severe underweight, not normal.",
+      "difficulty": "core"
+    },
+    {
+      "id": "crp-q09",
+      "stem": "A 9-year-old girl was defiled by a neighbour 3 hours ago. She weighs 26 kg. Her baseline HIV test is negative. Which PEP regimen is MOST appropriate if the ART clinic has all paediatric formulations?",
+      "options": [
+        "TDF/3TC/DTG one tablet daily for 28 days",
+        "Nevirapine syrup for 6 weeks",
+        "Co-trimoxazole prophylaxis",
+        "ABC/3TC 600/300 mg one tablet + DTG 50 mg one tablet once daily for 28 days",
+        "AZT/3TC twice daily for 7 days"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: at 26 kg (25–34.9 kg band) a DTG-based paediatric regimen is ABC/3TC 600/300 one tablet + DTG 50 mg once daily for 28 days (UCG 2023 alternatively lists ABC + 3TC + LPV/r). A is wrong: TDF-based TLD is used from 30 kg. B is wrong: single-drug NVP is infant prophylaxis against vertical transmission, not PEP. C is wrong: co-trimoxazole prevents opportunistic infections, not HIV. E is wrong: two drugs for 7 days is an inadequate PEP regimen and duration.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "crp-q10",
+      "stem": "Which statement about examining a child after suspected sexual abuse is correct?",
+      "options": [
+        "The anogenital examination should be done once, by the most experienced examiner available, with consent/assent",
+        "Every clinician who sees the child should examine the genitalia to confirm findings",
+        "A speculum examination is routine in prepubertal girls",
+        "A normal hymen excludes penetration",
+        "The examination should be done before treating any injuries"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: to avoid re-traumatisation and to preserve evidence quality, one examination by the most experienced person, with consent and assent, is best. B is wrong: repeated examinations re-traumatise the child. C is wrong: speculum examination is not done in prepubertal girls except under anaesthesia for injuries. D is wrong: most abused children have normal findings; the hymen can stretch and heal. E is wrong: life-threatening injuries and bleeding are treated first.",
+      "difficulty": "core"
+    },
+    {
+      "id": "crp-q11",
+      "stem": "A 3-year-old boy (13 kg) is brought with burns to both feet and lower legs. The burns have a sharp, horizontal upper margin at the same level on both legs, with no splash marks; the soles are spared where they touched the bottom of the basin. The mother says he 'stepped into hot water'. What is the MOST likely mechanism?",
+      "options": [
+        "Accidental spill of a hot kettle",
+        "Forced immersion in hot water",
+        "Contact with a hot iron",
+        "Chemical burn from herbal medicine",
+        "Accidental fall into a cooking fire"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: symmetrical 'stocking' burns with a clear tide-mark, no splash marks and sparing of the soles (pressed against the cooler basin floor) indicate a child held in hot water. A is wrong: spills cause irregular, asymmetrical, arrow-shaped burns with splash marks, usually on the front of the body. C is wrong: contact burns take the shape of the object, not circumferential stockings. D is wrong: chemical burns follow where the substance was applied and do not form a uniform horizontal margin. E is wrong: fire burns are irregular, deep and associated with singed hair or clothing.",
+      "difficulty": "core"
+    },
+    {
+      "id": "crp-q12",
+      "stem": "Which of the following is one of the four general principles of the UN Convention on the Rights of the Child?",
+      "options": [
+        "Free primary education for all",
+        "Protection from child labour",
+        "Birth registration within 6 months",
+        "The child's duty to respect parents",
+        "Respect for the views of the child (Article 12)"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: the four general principles are non-discrimination (Art. 2), best interests (Art. 3), life, survival and development (Art. 6), and respect for the child's views (Art. 12). A is wrong: education (Art. 28) is a right but not a general principle. B is wrong: protection from labour (Art. 32) is a protection right, not a general principle. C is wrong: birth registration (Art. 7) is a right, not a principle, and there is no 6-month rule in the Convention. D is wrong: children's duties appear in the African Charter, not among the UNCRC general principles.",
+      "difficulty": "core"
+    },
+    {
+      "id": "crp-q13",
+      "stem": "After you report a case of defilement of a 10-year-old, the girl's uncle tells you that the families have 'settled the matter': the neighbour paid two goats, and they now want to withdraw the case and take her home today. She is medically stable on PEP. What should you do?",
+      "options": [
+        "Accept the settlement; it is a family decision",
+        "Discharge her and stop PEP because the case is closed",
+        "Tell the uncle the police will arrest him",
+        "Explain that defilement is a criminal offence that cannot be settled privately, continue PEP, and inform the PSWO and police CFPU so that her safety at home is assessed before discharge",
+        "Destroy the PF3A to respect the family's wishes"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: aggravated defilement (victim under 14) is a criminal offence that families cannot settle; the child's best interests require continued medical care and a safety assessment before discharge, involving the PSWO and police. A is wrong: 'settling' leaves the child unprotected and is illegal. B is wrong: PEP must be completed for 28 days whatever happens legally. C is wrong: threats escalate conflict and may endanger the child; explain calmly. E is wrong: destroying medical-legal records is unethical and illegal.",
+      "difficulty": "core"
+    },
+    {
+      "id": "crp-q14",
+      "stem": "A 12-year-old boy (35 kg) attends with a fever. You notice multiple linear bruises of different colours across his back and buttocks. He says his teacher 'canes us when we fail'. What is the MOST appropriate response?",
+      "options": [
+        "Corporal punishment is part of Ugandan culture; treat the fever only",
+        "Advise the boy to work harder at school",
+        "Treat the fever, document the injuries (body map), and report to the PSWO/police; corporal punishment in schools is prohibited and causes harm",
+        "Write to the headteacher yourself and demand the teacher's dismissal",
+        "Give the boy analgesia and tell his parents to transfer him to another school"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: multiple bruises of different ages from caning are physical abuse; treat, document and report through the protection system (the Children (Amendment) Act 2016 bans corporal punishment in schools; verify the section). A is wrong: cultural acceptance does not make it lawful or harmless. B is wrong: blaming the child ignores the abuse. D is wrong: the clinician's role is to report through proper channels, not to investigate or discipline. E is wrong: moving schools does not protect the other children or address the abuse.",
+      "difficulty": "core"
+    },
+    {
+      "id": "crp-q15",
+      "stem": "A 7-year-old girl (21 kg) was defiled 96 hours ago and is brought to Mengo today. She is HIV-negative. Which statement about her management is MOST accurate?",
+      "options": [
+        "PEP is no longer recommended (beyond 72 hours), but she still needs STI prophylaxis, hepatitis B vaccination, forensic examination, documentation, psychosocial support, reporting and HIV testing at 6 weeks and 3 months",
+        "PEP should be started because it works up to 7 days",
+        "Emergency contraception is the most urgent intervention",
+        "No medical treatment is needed because the event was more than 72 hours ago",
+        "She should be tested for HIV in 2 years"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: beyond 72 hours PEP is not recommended, but STI prophylaxis, HBV vaccine, examination and evidence (some samples remain useful up to 7 days), support, reporting and follow-up HIV tests remain essential. B is wrong: PEP efficacy beyond 72 hours is unproven and it is not recommended. C is wrong: she is 7 years old and premenarchal, so emergency contraception is not indicated. D is wrong: there is still much medical and psychosocial care to give. E is wrong: follow-up HIV testing is at 6 weeks and 3 months, not 2 years.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "crp-c01",
+      "title": "The baby with a 'fall from the bed'",
+      "presentation": "At 21:00 a 4-month-old boy (5.8 kg, WAZ −0.6) is brought to Mengo casualty by his mother's boyfriend, who says the baby 'fell off the bed this afternoon and has been crying'. The baby is irritable, with a swollen right arm, a 2 cm bruise behind the left ear and small bruises on the chest. He is fully immunised for age and exclusively breastfed. The mother is at work and cannot be reached.",
+      "steps": [
+        {
+          "prompt": "What features of this history and examination raise concern?",
+          "answer": "**Non-mobile infant** (4 months) with bruises in **TEN-4** sites (ear, torso); bruising in any infant under 4 months is a red flag; a **short fall** rarely causes a fracture; brought by a **non-parent** partner (risk factor); possible **delay**."
+        },
+        {
+          "prompt": "What are your immediate actions?",
+          "answer": "ABC; **analgesia** (paracetamol 15 mg/kg ≈ 90 mg); immobilise the arm; **admit** (place of safety); inform the **senior on call**; document the history **verbatim** (who said what); body map and measured descriptions; contact the mother."
+        },
+        {
+          "prompt": "What investigations will you request and why?",
+          "answer": "**X-ray of the arm**; **skeletal survey** (occult rib/metaphyseal fractures); **CT head** (under 1 year: occult subdural); **fundoscopy**; **FBC, platelets, clotting** (bleeding disorder mimic); bone profile (Ca, PO₄, ALP)."
+        },
+        {
+          "prompt": "The skeletal survey shows a transverse right humeral fracture, two healing posterior rib fractures and a metaphyseal corner fracture of the left tibia. Clotting is normal. Interpret.",
+          "answer": "**Multiple fractures of different ages**, including **posterior rib** and **metaphyseal** fractures that are highly specific for **inflicted injury** (squeezing and shaking/twisting). Normal clotting excludes a bleeding mimic. This is **physical abuse** until proven otherwise."
+        },
+        {
+          "prompt": "Who do you involve and what do you document?",
+          "answer": "**Medical social worker**, district **PSWO** and police **CFPU** (same day); the **PF3** when issued; a multidisciplinary meeting. Document clearly and factually: injuries, dates, the explanation given, and that the findings are **not consistent** with a fall from a bed. Assess **other children** in the household."
+        },
+        {
+          "prompt": "The mother arrives and is very distressed. How do you speak to her?",
+          "answer": "Privately, calmly and **non-judgementally**: explain the injuries, that they are not explained by the history, that the law requires you to involve the PSWO and police to keep the baby safe, and what happens next. Listen to her account (she may also be a victim of domestic violence). Do not accuse anyone; avoid speculation."
+        }
+      ],
+      "takeaway": "Any bruise or fracture in a non-mobile infant demands admission, a skeletal survey, CT head and clotting, careful documentation and same-day referral to the PSWO and police; posterior rib and metaphyseal fractures are close to diagnostic of abuse."
+    },
+    {
+      "id": "crp-c02",
+      "title": "A child defiled: the first 72 hours",
+      "presentation": "A 6-year-old girl (19 kg) is brought by her grandmother to a HC IV in Mukono at 10:00. Last night at about 20:00 a 30-year-old male tenant 'took her into his room'. She has pain on passing urine and blood on her underwear. The grandmother has kept the underwear in a plastic bag. HIV status of the girl: negative (tested at 18 months); of the tenant: unknown.",
+      "steps": [
+        {
+          "prompt": "What is the legal classification, and what are your time-critical medical priorities?",
+          "answer": "**Aggravated defilement** (victim under 14). About **14 hours** have passed: **HIV PEP** (start now), **forensic evidence** (before washing; underwear moved into a **paper** bag), **injury assessment**, **STI prophylaxis**, **HepB vaccine** check. EC is not indicated (premenarchal)."
+        },
+        {
+          "prompt": "How will you take the history and obtain consent?",
+          "answer": "From the grandmother, then gently from the child with the grandmother present if she wishes; **open questions**, record the child's **exact words**, avoid repeated questioning. Explain each step; obtain **consent** from the grandmother and **assent** from the child; the child can say 'stop'."
+        },
+        {
+          "prompt": "Examination shows a 1 cm fresh laceration of the posterior fourchette with slight bleeding, and bruising of the labia minora. What do you do?",
+          "answer": "Collect **swabs** (vulval/vaginal introitus) with chain of custody; control bleeding; if the laceration is deep or bleeding persists, refer for **examination under anaesthesia** and repair. Analgesia (paracetamol 15 mg/kg ≈ 285 mg). Document on a body map."
+        },
+        {
+          "prompt": "Write her prophylaxis.",
+          "answer": "**PEP 28 days** (14–19.9 kg band): **ABC/3TC 120/60 mg 2.5 tablets + pDTG 10 mg 2.5 tablets** once daily (or ABC + 3TC + LPV/r per UCG 2023 if DTG unavailable). **STI prophylaxis**: ceftriaxone **50 mg/kg ≈ 250 mg IM** single dose (max 250 mg; verify paediatric dose), **azithromycin 20 mg/kg ≈ 380 mg** single dose, metronidazole weight-based. **Hepatitis B vaccine** if not fully immunised (she had pentavalent: check card). Baseline **HIV, syphilis, HBsAg**."
+        },
+        {
+          "prompt": "What reporting and safety steps follow?",
+          "answer": "Report to the **police CFPU** (PF3A) and the **PSWO**; ensure the tenant has **no access** to the child (safe placement with grandmother if protective); involve the **medical social worker**; Sauti 116 if advice is needed."
+        },
+        {
+          "prompt": "What follow-up does she need?",
+          "answer": "PEP adherence and side-effect check at **2 weeks**; HIV tests at **6 weeks and 3 months**; syphilis repeat; wound review; **psychosocial counselling** (trauma-focused) for her and the grandmother; school support; preparation for court (the clinician may be a witness)."
+        }
+      ],
+      "takeaway": "In child sexual abuse the first hours count: start PEP and STI prophylaxis, preserve evidence, examine once gently, document the child's words, report to police and PSWO, and keep her safe; long-term psychosocial support matters as much as the drugs."
+    },
+    {
+      "id": "crp-c03",
+      "title": "The thin toddler: neglect or poverty?",
+      "presentation": "A 22-month-old girl from a Kampala informal settlement is admitted with diarrhoea. Weight 7.1 kg (WAZ −3.6), length 76 cm (LAZ −2.4), MUAC 11.3 cm, no oedema. Her card shows only BCG and 6-week vaccines. Her 17-year-old mother works long hours selling food at a taxi park and leaves her with a 7-year-old sibling. The mother is HIV-positive; the child's HIV status is unknown.",
+      "steps": [
+        {
+          "prompt": "What are the medical priorities?",
+          "answer": "**SAM** (MUAC <11.5 cm): manage per WHO 2023 SAM guidance: careful rehydration (ReSoMal, not Plan C unless shocked), treat hypoglycaemia/hypothermia, antibiotics, F-75 then F-100/RUTF, micronutrients. **HIV rapid test** (valid at 22 months if she stopped breastfeeding more than 6 weeks ago; otherwise DNA PCR). TB screen."
+        },
+        {
+          "prompt": "Her HIV test is positive. What does this add?",
+          "answer": "She has HIV with SAM (WHO stage 4 if not responding to treatment). Start CTX, screen for TB, start **ART within 2 weeks** once stable. This also reveals a **missed EID** (system failure, possible neglect of care)."
+        },
+        {
+          "prompt": "Is this neglect, poverty, or both? How will you decide?",
+          "answer": "Explore whether the mother can access and use resources: did she know about EID, immunisation and free services? Was she supported? A **17-year-old mother** working to survive is herself a **child** with rights. This is largely **poverty and lack of support** with elements of **neglect** (no supervision, missed care). Decide with the social worker after assessment, not on first impressions."
+        },
+        {
+          "prompt": "Note: the mother is 17. What protection issues arise for her?",
+          "answer": "She became pregnant at about 15: **defilement** occurred. Assess her safety, her own HIV care and viral load, contraception, and whether she is in school; she needs **adolescent-friendly HIV services** and social protection. Involve the PSWO for both mother and child."
+        },
+        {
+          "prompt": "What is your discharge plan?",
+          "answer": "OTP/RUTF follow-up weekly, ART clinic for both (same day appointments), **catch-up immunisation**, link to an **OVC/social protection** programme and childcare support, VHT home visits, family planning for the mother, PSWO follow-up to check supervision arrangements."
+        }
+      ],
+      "takeaway": "Distinguishing neglect from poverty needs assessment, not assumption; the right response is usually support and monitoring, and a young mother may herself be a child whose rights have been violated."
+    }
+  ],
+  "references": [
+    {
+      "title": "Child maltreatment: fact sheet",
+      "source": "World Health Organization",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/child-maltreatment"
+    },
+    {
+      "title": "Children's version of the Convention on the Rights of the Child",
+      "source": "UNICEF",
+      "url": "https://www.unicef.org/child-rights-convention/convention-text-childrens-version"
+    },
+    {
+      "title": "Child maltreatment: when to suspect maltreatment in under 18s (CG89)",
+      "source": "National Institute for Health and Care Excellence",
+      "year": 2017,
+      "url": "https://www.nice.org.uk/guidance/cg89"
+    },
+    {
+      "title": "Child abuse: clinical practice guideline",
+      "source": "Royal Children's Hospital Melbourne",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Child_abuse_guideline/"
+    },
+    {
+      "title": "Overview of Child Maltreatment",
+      "source": "MSD Manual Professional Edition",
+      "url": "https://www.msdmanuals.com/professional/pediatrics/child-maltreatment/overview-of-child-maltreatment"
+    },
+    {
+      "title": "Uganda Clinical Guidelines 2023 (Section 1.2.6: Sexual assault/rape)",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf"
+    },
+    {
+      "title": "Consolidated Guidelines for the Prevention and Treatment of HIV and AIDS in Uganda (PEP)",
+      "source": "Ministry of Health Uganda",
+      "year": 2022,
+      "url": "https://dsduganda.com/wp-content/uploads/2023/05/Consolidated-HIV-and-AIDS-Guidelines-20230516.pdf"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "slug": "professionalism-ethics-paeds",
+  "flashcards": [
+    { "id": "peth-f01", "front": "The four principles of medical ethics", "back": "**Autonomy**, **beneficence**, **non-maleficence**, **justice** (Beauchamp & Childress)." },
+    { "id": "peth-f02", "front": "The guiding standard for decisions about children", "back": "The child's **best interests** (UNCRC Art. 3; Children Act welfare principle)." },
+    { "id": "peth-f03", "front": "Who consents for a child under 18 in Uganda?", "back": "A **parent or legal guardian**. Exceptions: **emergencies** (doctrine of necessity), **emancipated minors**, and specific services where national policy lets adolescents consent (e.g. HIV testing, SRH)." },
+    { "id": "peth-f04", "front": "Elements of valid consent", "back": "**Capacity**, adequate **information** (benefits, risks, alternatives incl. doing nothing), **voluntariness**, and **documentation** for invasive procedures." },
+    { "id": "peth-f05", "front": "The four components of capacity", "back": "**Understand**, **retain**, **weigh** the information, and **communicate** a decision." },
+    { "id": "peth-f06", "front": "What is assent, and from what age is it sought?", "back": "The child's agreement to a procedure even though they cannot legally consent; sought from about **7–8 years** (UNCST research guidelines: 8 years)." },
+    { "id": "peth-f07", "front": "What is the doctrine of necessity?", "back": "Treatment without consent in an **emergency** to save life or prevent serious harm, limited to what is **immediately necessary**." },
+    { "id": "peth-f08", "front": "What is Gillick competence?", "back": "UK case law (1985): a child **under 16** can consent if they understand the nature, purpose, risks and alternatives of the treatment. **Fraser guidelines** apply to contraception." },
+    { "id": "peth-f09", "front": "Who is an emancipated minor?", "back": "A person under 18 treated as an adult for consent because they are **married**, **pregnant or a parent**, or **self-supporting/living independently**." },
+    { "id": "peth-f10", "front": "Limits of adolescent confidentiality", "back": "**Serious risk of harm** to self or others, **abuse** (including defilement), a **legal requirement** (court order, notifiable disease), or with consent." },
+    { "id": "peth-f11", "front": "HEADSSS", "back": "**H**ome, **E**ducation/employment, **A**ctivities, **D**rugs, **S**exuality, **S**uicide/depression, **S**afety." },
+    { "id": "peth-f12", "front": "SPIKES for breaking bad news", "back": "**S**etting, **P**erception, **I**nvitation, **K**nowledge, **E**motions/empathy, **S**trategy and summary." },
+    { "id": "peth-f13", "front": "What word should you use when telling parents their child has died?", "back": "**'Died'** (or 'dead'): clear, not euphemisms like 'we lost him' or 'he has gone'." },
+    { "id": "peth-f14", "front": "Approach to a parent refusing treatment", "back": "**Why** (explore), **Explain**, **Compromise**, **Escalate** (senior, social worker, PSWO, court), **Document**; act under necessity in an emergency." },
+    { "id": "peth-f15", "front": "Jehovah's Witness parents refuse blood for a child with Hb 3 g/dL and respiratory distress", "back": "Explain, involve the **consultant and administration**, **transfuse under necessity** in the child's best interests, document fully, respect beliefs otherwise." },
+    { "id": "peth-f16", "front": "When is a court order sought for treatment?", "back": "When parents **persistently refuse essential but non-emergency** treatment (e.g. planned surgery, chemotherapy), through the High Court/Family and Children Court, with the PSWO." },
+    { "id": "peth-f17", "front": "WHO/UCG transfusion threshold in children", "back": "Hb **<4 g/dL**, or **4–6 g/dL with decompensation** (respiratory distress, shock, impaired consciousness, hyperparasitaemia)." },
+    { "id": "peth-f18", "front": "Transfusion volume in severe anaemia", "back": "Whole blood **20 mL/kg** (TRACT: 30 mL/kg in afebrile children) or packed cells **10 mL/kg**, over **3–4 hours**." },
+    { "id": "peth-f19", "front": "The four-quadrant approach to ethical dilemmas", "back": "**Medical indications**, **patient preferences**, **quality of life**, **contextual features** (Jonsen, Siegler & Winslade)." },
+    { "id": "peth-f20", "front": "Oral morphine starting dose for a 6-year-old in pain (WHO 2012)", "back": "**200–500 µg/kg** every **4 hours** (max starting dose 5 mg), titrated to pain." },
+    { "id": "peth-f21", "front": "What to do after a medication error", "back": "Assess and treat the child, **inform the senior**, **disclose and apologise** to the family, **report** the incident, learn. An apology is not an admission of liability." },
+    { "id": "peth-f22", "front": "Who regulates doctors in Uganda?", "back": "The **Uganda Medical and Dental Practitioners Council (UMDPC)**, which registers practitioners and enforces the Code of Professional Ethics." },
+    { "id": "peth-f23", "front": "Key Ugandan laws/policies on patient rights and data", "back": "**Patients' Charter (2009)**, **HIV Prevention and Control Act (2014)**, **Mental Health Act (2018)**, **Data Protection and Privacy Act (2019)**, Children Act." },
+    { "id": "peth-f24", "front": "Rules for medical students examining children", "back": "Introduce yourself as a student, get **consent**, accept refusal, **chaperone** for intimate examinations, never examine intimate areas without supervision, no patient photos or details on social media." },
+    { "id": "peth-f25", "front": "Should a sibling interpret when breaking bad news?", "back": "**No.** Use a trained interpreter or staff member; children should not interpret sensitive or bad news." },
+    { "id": "peth-f26", "front": "Allocating one oxygen concentrator between two hypoxic children", "back": "**Justice**: by clinical need and likely benefit using transparent criteria (SpO₂, emergency signs), splitters if possible, reassess, escalate the shortage, document." },
+    { "id": "peth-f27", "front": "What is the 'harm threshold' for overriding parents?", "back": "Parents' decisions are respected unless they would expose the child to **serious, avoidable harm** (death or disability), falling outside what a reasonable parent could choose." }
+  ],
+  "mcqs": [
+    {
+      "id": "peth-q01",
+      "stem": "A 5-year-old girl (17 kg) is admitted to Mengo with severe malaria. Hb 2.9 g/dL, RR 58/min, SpO₂ 90%, CRT 4 s, responds only to pain. Her parents, who are Jehovah's Witnesses, understand the risks but refuse blood. What is the MOST appropriate action?",
+      "options": [
+        "Inform the consultant and administration, transfuse under the doctrine of necessity in her best interests, and document the discussions",
+        "Respect the parents' decision and give IV artesunate and oxygen only",
+        "Apply to the High Court for an order and transfuse once it is granted",
+        "Ask the parents to sign a discharge-against-medical-advice form",
+        "Transfuse secretly without telling the parents"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: Hb <4 g/dL with shock, respiratory distress and impaired consciousness is immediately life-threatening; the child's right to life and best interests justify transfusion under necessity, with senior/administrative involvement and full documentation. B is wrong: artesunate and oxygen will not correct the oxygen-carrying deficit fast enough; she is likely to die. C is wrong: a court order is for non-emergency persistent refusal; waiting hours could be fatal. D is wrong: discharging a dying child abandons her. E is wrong: deception destroys trust and is unprofessional; act openly and explain.",
+      "difficulty": "core"
+    },
+    {
+      "id": "peth-q02",
+      "stem": "A 15-year-old girl attends the adolescent clinic alone. She asks for contraception, says she has a 16-year-old boyfriend at school, and does not want her mother to know. She understands the options and risks. What is the MOST appropriate response?",
+      "options": [
+        "Refuse because she is under 18 and needs parental consent",
+        "Call her mother to come and consent",
+        "Report the boyfriend to the police immediately",
+        "See her alone, assess maturity and screen for coercion, encourage involving a trusted adult, provide contraception and condoms if she remains competent and it is in her best interests, and keep confidentiality",
+        "Give contraception only if she agrees to stop the relationship"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: a mature adolescent seeking contraception should be seen confidentially, assessed for understanding and coercion, encouraged (not forced) to involve an adult, and provided with protection per adolescent SRH policy; refusing increases pregnancy and STI risk. A is wrong: national adolescent health policy allows SRH services for adolescents, and refusal causes harm. B is wrong: breaching confidentiality without a safety reason drives adolescents away from services. C is wrong: a relationship between two adolescents is legally defilement but is handled through counselling and child-protection channels with judgement, not an automatic police report, unless there is coercion, a large age gap or exploitation. E is wrong: conditional care is coercive and unethical.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "peth-q03",
+      "stem": "You need to break the news to a mother that her 3-year-old son has Burkitt lymphoma. Which approach is MOST appropriate?",
+      "options": [
+        "Tell her in the corridor straight away so she isn't kept waiting",
+        "Give her the biopsy report to read and ask if she has questions",
+        "In a private room with a nurse and someone she wants present, find out what she knows, give a warning shot, explain in plain language, pause for her reaction, and agree a treatment plan",
+        "Wait until the father can come, without telling her anything in the meantime even if she asks",
+        "Tell her the prognosis is hopeless so that she is prepared"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: SPIKES: private setting, support present, perception, invitation, knowledge in chunks with a warning shot, empathy, and strategy (Burkitt lymphoma is highly curable with chemotherapy). A is wrong: corridors lack privacy and time. B is wrong: handing over a report without explanation is unkind and leads to misunderstanding. D is wrong: you may offer to wait for her husband, but refusing to answer her questions is not honest. E is wrong: it is inaccurate (Burkitt lymphoma has good cure rates) and destroys hope.",
+      "difficulty": "core"
+    },
+    {
+      "id": "peth-q04",
+      "stem": "A 12-year-old boy (32 kg) on ART since infancy asks you directly during a clinic visit, 'Do I have HIV? My friend said these are HIV drugs.' His mother has asked staff not to tell him yet. What is the BEST response?",
+      "options": [
+        "Tell him the drugs are vitamins",
+        "Tell him everything immediately, without his mother",
+        "Refuse to answer and change the subject",
+        "Tell him to ask his teacher",
+        "Acknowledge his question honestly, tell him you will talk with him and his mother together very soon, and plan full disclosure with the mother and counsellor promptly"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: never lie to a child who asks directly; at 12 he is ready for full disclosure, which should be planned quickly with the mother and a counsellor so it happens supportively. A is wrong: lying destroys trust and harms adherence when he finds out. B is wrong: abrupt disclosure without preparation or his mother bypasses the planned, supported process. C is wrong: evasion increases anxiety and he may learn it badly elsewhere. D is wrong: teachers have no role in disclosure, and sharing his status breaches confidentiality.",
+      "difficulty": "core"
+    },
+    {
+      "id": "peth-q05",
+      "stem": "An 8-year-old girl (24 kg) with suspected meningitis needs a lumbar puncture. Her mother consents but the girl is crying and says 'No, I don't want it!' She is alert, with no signs of raised intracranial pressure. What is the MOST appropriate approach?",
+      "options": [
+        "Abandon the LP because she has refused",
+        "Explain to her in simple terms why it is needed, address her fear, use analgesia and comfort measures (mother present), and proceed with the mother's consent because it is important for her health",
+        "Restrain her firmly and proceed without explanation",
+        "Postpone antibiotics until she agrees",
+        "Ask the mother to punish her if she does not cooperate"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: her dissent should be heard and her fear addressed (explanation, local anaesthetic, comfort, parent present); because the LP is important for diagnosis and treatment and the parent has consented, it can proceed with as much cooperation as possible. A is wrong: an 8-year-old's dissent does not override a necessary investigation for a serious illness. C is wrong: restraint without explanation is traumatic and disrespects her developing autonomy. D is wrong: antibiotics must never be delayed in suspected meningitis. E is wrong: threats and punishment are unethical.",
+      "difficulty": "core"
+    },
+    {
+      "id": "peth-q06",
+      "stem": "The father of a 2-year-old boy (10 kg) with severe pneumonia (SpO₂ 86% on admission, now 93% on oxygen) wants to take him home to a herbalist because 'the bills are too high'. What is the BEST first step?",
+      "options": [
+        "Let him go and ask him to sign a DAMA form",
+        "Lock the ward doors to prevent discharge",
+        "Call the police",
+        "Explore his concerns, explain that the child will probably die without oxygen, involve the social worker about fees, and offer to involve the senior and family elders",
+        "Stop the oxygen because he has decided to leave"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: most refusals are driven by cost or fear and can be resolved; explore reasons, explain the risk honestly, remove barriers (social worker, fee waiver), and escalate to seniors; if he still insists while the child is oxygen-dependent, involve administration and the PSWO. A is wrong: a DAMA form is a last resort, not a first step for a hypoxaemic child. B is wrong: detaining families is unlawful and damages trust. C is wrong: police involvement is premature and adversarial. E is wrong: stopping oxygen would harm the child and abandon him.",
+      "difficulty": "core"
+    },
+    {
+      "id": "peth-q07",
+      "stem": "A 14-year-old boy tells you confidentially during a HEADSSS interview that he has been thinking of killing himself and has saved up tablets. He begs you not to tell his parents. What should you do?",
+      "options": [
+        "Tell him you must share this to keep him safe, assess risk, remove access to tablets, involve his parents and the mental health team, and tell him what you will share",
+        "Keep it confidential as he asked",
+        "Tell only your fellow students for advice",
+        "Discharge him with a mental health appointment in 3 months",
+        "Tell his school headteacher"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: serious risk of self-harm is a recognised limit of confidentiality; explain this honestly, assess and reduce risk, involve parents and mental health services, and share only what is needed. B is wrong: keeping it secret could cost his life. C is wrong: telling uninvolved people breaches confidentiality without helping him. D is wrong: active suicidal planning needs urgent assessment, not a 3-month wait. E is wrong: the school is not the first or right channel; parents and clinicians are.",
+      "difficulty": "core"
+    },
+    {
+      "id": "peth-q08",
+      "stem": "Which statement about consent for children in Uganda is MOST accurate?",
+      "options": [
+        "Children aged 12 and over can always consent to any treatment",
+        "Only fathers can consent for children",
+        "A parent or legal guardian consents for a child under 18, the child's assent is sought, and emergencies may be treated under necessity",
+        "Consent is unnecessary for any procedure in a child",
+        "A teacher can consent for surgery during school term"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: the age of majority is 18; parents/guardians consent, assent is sought from the child, and life-saving emergency treatment can proceed under necessity. A is wrong: there is no general rule; only certain services (e.g. HIV testing, SRH) allow adolescent consent per policy. B is wrong: either parent (or a guardian) may consent. D is wrong: consent is required except in emergencies. E is wrong: teachers have no parental responsibility for medical consent (though they may bring a child for emergency care).",
+      "difficulty": "core"
+    },
+    {
+      "id": "peth-q09",
+      "stem": "On the ward you give a 10 kg infant 100 mg of gentamicin IV instead of the prescribed 75 mg (7.5 mg/kg). You realise the error 10 minutes later. The infant is stable. What is the MOST appropriate action?",
+      "options": [
+        "Say nothing because the infant is stable",
+        "Change the chart to read 100 mg",
+        "Blame the nurse who drew up the drug",
+        "Tell the mother that a different drug was given",
+        "Inform the senior at once, monitor the infant (urine output, renal function, consider levels), disclose and apologise to the mother, and complete an incident report"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: patient safety first (monitor for nephrotoxicity/ototoxicity, adjust the next dose), then honest disclosure, apology and incident reporting so the system can learn. A is wrong: concealment is dishonest and may harm the child if monitoring is missed. B is wrong: falsifying records is serious misconduct. C is wrong: blaming others is unprofessional and prevents learning. D is wrong: lying about what happened is dishonest.",
+      "difficulty": "core"
+    },
+    {
+      "id": "peth-q10",
+      "stem": "A clerk takes a photo of a child with a rare skin condition on the ward and posts it on a class WhatsApp group 'for learning', without the face showing. What is the MOST accurate statement?",
+      "options": [
+        "It is acceptable because the face is not visible",
+        "It is unprofessional: images of patients need consent and secure handling, and posting breaches confidentiality and data-protection law",
+        "It is acceptable because it is for education",
+        "It is acceptable if the group is private",
+        "It is acceptable if the parent did not object"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: clinical images are personal (health) data under the Data Protection and Privacy Act 2019; they need explicit consent for a stated purpose and secure storage, and social-media sharing is a breach. A is wrong: the child, the bed or the ward can still identify the patient. C is wrong: an educational purpose does not replace consent and secure handling. D is wrong: 'private' groups are easily forwarded. E is wrong: absence of objection is not informed consent.",
+      "difficulty": "core"
+    },
+    {
+      "id": "peth-q11",
+      "stem": "A 6-year-old boy (18 kg) with suspected Burkitt lymphoma (jaw mass) needs a biopsy and chemotherapy. His parents want to take him to a traditional healer first, 'for 2 months'. The tumour is growing over days. After repeated counselling, the social worker's input and a fee waiver, they still refuse. He is not in immediate danger today. What is the MOST appropriate next step?",
+      "options": [
+        "Discharge him and hope they return",
+        "Give chemotherapy without consent tonight under the doctrine of necessity",
+        "Involve the PSWO and seek a court order authorising treatment, while continuing to talk with the family",
+        "Tell the parents the child will die tomorrow to frighten them",
+        "Accept their decision because they are the parents"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: Burkitt lymphoma is highly curable and fatal without treatment; persistent refusal of essential but non-emergency treatment is the situation for PSWO involvement and a court order, while keeping the relationship open. A is wrong: discharging without a safety plan likely leads to death. B is wrong: necessity covers immediate emergencies; chemotherapy without consent needs legal authority. D is wrong: exaggerating to frighten is dishonest. E is wrong: parental authority is limited by the harm threshold; refusing curable cancer treatment crosses it.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "peth-q12",
+      "stem": "Which of the following is a component of valid informed consent?",
+      "options": [
+        "Signature by a witness only",
+        "The doctor's opinion that the treatment is beneficial",
+        "Agreement obtained after sedation has been given",
+        "Information limited to benefits to avoid scaring the family",
+        "Voluntariness: the decision is made without coercion"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: valid consent requires capacity, adequate information, voluntariness and (for invasive procedures) documentation. A is wrong: a witness signature does not replace the patient's/parent's informed agreement. B is wrong: the doctor's opinion is not consent. C is wrong: sedation impairs capacity. D is wrong: risks and alternatives must be disclosed.",
+      "difficulty": "core"
+    },
+    {
+      "id": "peth-q13",
+      "stem": "A 4-year-old girl (14 kg) with relapsed, treatment-refractory leukaemia is in pain and her parents ask that she 'not be put on machines' and be kept comfortable. She has no prospect of cure. What is the MOST appropriate plan?",
+      "options": [
+        "Agree a palliative care plan with the parents: oral morphine 200–500 µg/kg 4-hourly titrated, paracetamol, a do-not-attempt-resuscitation decision documented, and family support",
+        "Insist on full ICU care because withholding treatment is unethical",
+        "Discharge home without medication because nothing more can be done",
+        "Give only paracetamol to avoid morphine addiction",
+        "Start a new experimental chemotherapy without discussion"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: when cure is impossible, shifting to palliative goals agreed with the family, with adequate opioid analgesia (WHO 2012 dosing) and a documented resuscitation decision, serves her best interests. B is wrong: there is no duty to give futile, burdensome treatment. C is wrong: 'nothing more can be done' is never true: symptom control and support continue. D is wrong: fear of addiction is not a reason to undertreat pain in a dying child. E is wrong: experimental treatment without consent is unethical.",
+      "difficulty": "core"
+    },
+    {
+      "id": "peth-q14",
+      "stem": "You are the only clinician on night duty at a HC IV with one oxygen concentrator (with a flow splitter unavailable). Child A (2 years) has severe pneumonia with SpO₂ 82%; child B (4 years) has asthma, SpO₂ 92%, improving on salbutamol, and is currently on oxygen because he arrived first. What is the MOST ethical decision?",
+      "options": [
+        "Keep oxygen on child B because he arrived first",
+        "Alternate oxygen every hour between both children",
+        "Give oxygen to the child whose family pays the fee",
+        "Move the oxygen to child A, continue to monitor child B closely, and escalate the shortage",
+        "Refuse to treat either child until more oxygen arrives"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: justice requires allocation by need and likely benefit; child A is far more hypoxaemic, while child B is above 90% and improving; monitor B closely and escalate the shortage (and document). A is wrong: 'first come' ignores need. B is wrong: interrupting oxygen for a severely hypoxaemic child is harmful. C is wrong: allocating by payment is unjust. E is wrong: withholding care from both causes avoidable harm.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "peth-q15",
+      "stem": "A mother brings her 7-year-old son (21 kg) for a routine review. During history-taking you need to ask about bed-wetting, which embarrasses him in front of his older sister. Which professional behaviour is MOST appropriate?",
+      "options": [
+        "Ask the question loudly so that everyone in the room can hear clearly",
+        "Ask the sister to step out (with the mother's agreement), explain why you are asking, and ask in a matter-of-fact, kind way",
+        "Skip the question to avoid embarrassment",
+        "Ask the sister to answer for him",
+        "Make a joke about it to relax him"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: respecting privacy and dignity (sending the sibling out with the mother's agreement, explaining, and asking calmly) is professional and gets accurate information. A is wrong: it humiliates the child. C is wrong: skipping clinically relevant questions harms care. D is wrong: the sibling is not the appropriate informant and it embarrasses him further. E is wrong: jokes about a sensitive symptom can shame the child.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "peth-c01",
+      "title": "Blood refused for a child with severe malaria",
+      "presentation": "At 03:00 a 3-year-old girl (12 kg) is brought to Mengo with 3 days of fever and 1 day of fast breathing and drowsiness. Hb (HemoCue) 3.1 g/dL, RDT positive, RR 60, SpO₂ 89%, CRT 4 s, responds to voice only, RBS 4.8 mmol/L. The parents are Jehovah's Witnesses and say: 'Do anything, but no blood.'",
+      "steps": [
+        { "prompt": "What clinical treatment starts immediately, whatever the decision about blood?", "answer": "**Oxygen** to SpO₂ ≥94%; **IV artesunate 3 mg/kg (36 mg)** at 0, 12, 24 h; careful fluids (no large boluses: FEAST); paracetamol 15 mg/kg; monitor glucose, consciousness and vital signs; **group and cross-match** and ask the lab to keep blood ready." },
+        { "prompt": "Is she an indication for transfusion? Justify.", "answer": "**Yes.** Hb <4 g/dL **with decompensation** (respiratory distress, shock signs, impaired consciousness). Without transfusion, mortality is very high within hours. The volume would be **whole blood 20 mL/kg (240 mL)** over 3–4 hours (TRACT: 30 mL/kg in afebrile children)." },
+        { "prompt": "How do you speak to the parents?", "answer": "In private, respectfully: acknowledge their faith and love for their daughter; explain plainly that her blood is too thin to carry oxygen and she may die tonight without a transfusion; explore whether any blood-related treatment is acceptable to them; offer to call their elders or the church's hospital liaison committee; listen." },
+        { "prompt": "They still refuse. What do you do, and who do you involve?", "answer": "Call the **consultant/senior on call** and inform **hospital administration**. Because this is an emergency threatening life, the team transfuses **under the doctrine of necessity in the child's best interests** (Constitution: right to life; Children Act: welfare principle). Tell the parents openly what will be done and why." },
+        { "prompt": "What must be documented?", "answer": "Clinical findings and Hb; the indication; the information given; the parents' refusal and reasons; who was involved (consultant, administration) and when; the decision and its justification; the blood given and the child's response." },
+        { "prompt": "How do you care for the family afterwards?", "answer": "Avoid blame; continue respectful care; minimise further blood sampling; treat anaemia (iron, folic acid after recovery), prevent malaria (ITN), offer **chaplaincy/counselling**; explain that the decision was made by the team, not by them; involve the PSWO only if the family threatens to remove the child unsafely." }
+      ],
+      "takeaway": "Treat the cause and support the child while you talk, but when Hb is critically low with decompensation, the child's right to life overrides parental refusal: transfuse under necessity, with seniors involved, openly and fully documented."
+    },
+    {
+      "id": "peth-c02",
+      "title": "Confidentiality and the adolescent with HIV",
+      "presentation": "A 16-year-old girl (48 kg) on TLD attends the Mengo adolescent clinic with her mother. Her viral load is 2,300 copies/mL. When seen alone, she says she has a 22-year-old boyfriend, misses doses because she hides her tablets from him, and has not told him her status. She asks you not to tell her mother anything.",
+      "steps": [
+        { "prompt": "How do you set up the confidential part of the consultation?", "answer": "Explain to both that you routinely see adolescents alone for part of the visit; then explain to her: what she says stays confidential **unless** there is a risk of serious harm to her or others or abuse, and that you would tell her first." },
+        { "prompt": "What ethical and legal issues arise from what she has told you?", "answer": "(1) **Defilement**: she is under 18 and her partner is an adult (safeguarding duty); (2) **risk of HIV transmission** to her partner (non-suppressed); (3) **non-adherence** linked to non-disclosure; (4) her **confidentiality** and autonomy; (5) possible coercion or transactional sex." },
+        { "prompt": "What will you do about the safeguarding concern?", "answer": "Explore the relationship (coercion? money? violence? where does he live?). Explain gently that, because she is under 18 and he is an adult, the law sees this as defilement and you need to involve the **social worker/PSWO** to keep her safe; tell her what you will share and with whom; involve her in the plan. Share the minimum necessary." },
+        { "prompt": "How do you address her health needs?", "answer": "**IAC** for non-suppression with practical solutions; support **partner disclosure** (assisted disclosure, couple counselling) and partner testing/PrEP; condoms; contraception (DTG has no interaction with hormonal methods); STI screen; mental-health screening; OTZ peer support; repeat VL after IAC." },
+        { "prompt": "Her mother later asks you what her daughter said. How do you respond?", "answer": "Thank her for her support, explain that adolescents are offered confidentiality because it keeps them in care, and that you share anything that puts her at serious risk. Share the **plan** relevant to adherence (with the girl's permission) and encourage the girl to talk with her mother; offer to facilitate." }
+      ],
+      "takeaway": "Adolescent confidentiality is the default and keeps young people in care; its limits (serious harm, abuse including defilement) are explained up front, and when they apply you share the minimum with the right people and tell the adolescent first."
+    },
+    {
+      "id": "peth-c03",
+      "title": "Breaking bad news after a child's death",
+      "presentation": "A 9-month-old boy (7.5 kg) admitted with severe dehydration and septic shock dies at 05:00 despite resuscitation on the Mengo paediatric ward. His 19-year-old mother was asked to wait outside during resuscitation; his father is on his way from Mukono. You are the intern who led the resuscitation; a nurse and a clerk (Edith) are with you.",
+      "steps": [
+        { "prompt": "How do you prepare before speaking to the mother?", "answer": "Confirm the facts (time of death, what was done); find a **private room** (or screened area), sit down; bring the nurse (and a female relative or friend the mother wants); turn off phones; decide what you will say; check whether she speaks English or Luganda and get an interpreter (a staff member, not a child) if needed." },
+        { "prompt": "How do you tell her (using SPIKES)?", "answer": "**Perception**: 'What have you understood about how your baby has been tonight?' **Warning shot**: 'I am very sorry, I have very bad news.' **Knowledge**: 'Despite everything we did, your baby **died** a few minutes ago.' Then **stop and wait**; allow crying; respond with empathy ('This is the worst news a mother can hear')." },
+        { "prompt": "She asks, 'Did I do something wrong? I gave him herbs yesterday.' How do you answer?", "answer": "Honestly and kindly: explain that his illness was a severe infection with dehydration that can progress very quickly; avoid blame; acknowledge her love and that she brought him for help. If the herbs may have contributed, this is not the moment for detail; the facts can be reviewed later in a supportive way." },
+        { "prompt": "What practical steps follow?", "answer": "Offer her time with the baby (to hold him), respect cultural/religious rites (prayer, washing), wait for the father and repeat the conversation with him; explain the death certificate and body release (and whether a post-mortem or police involvement is needed: not usual here); help with transport; give a contact for follow-up; record the conversation in the notes." },
+        { "prompt": "What should happen for the team, and for learning?", "answer": "A brief **debrief** (what went well, what could be better, how people feel); check on the clerk (first death?); present the case at the **child death review** (three delays: herbs and late arrival, triage, fluids/antibiotics timing) without blame." }
+      ],
+      "takeaway": "Tell parents of a child's death in private, clearly (use the word 'died'), with empathy and silence, without blame; then support practical and cultural needs, and look after the team and learn through a no-blame review."
+    }
+  ],
+  "references": [
+    { "title": "Informed Consent", "source": "MSD Manual Professional Edition", "url": "https://www.msdmanuals.com/professional/special-subjects/medicolegal-issues/informed-consent" },
+    { "title": "Babies, children and young people's experience of healthcare (NG204)", "source": "National Institute for Health and Care Excellence", "year": 2021, "url": "https://www.nice.org.uk/guidance/ng204" },
+    { "title": "Children's version of the Convention on the Rights of the Child", "source": "UNICEF", "url": "https://www.unicef.org/child-rights-convention/convention-text-childrens-version" },
+    { "title": "Uganda Clinical Guidelines 2023 (HIV testing and consent; sexual assault; anaemia and transfusion)", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf" },
+    { "title": "Pocket book of hospital care for children, 2nd edition (transfusion thresholds and palliative care)", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "Consolidated Guidelines for the Prevention and Treatment of HIV and AIDS in Uganda (disclosure and adolescent services)", "source": "Ministry of Health Uganda", "year": 2022, "url": "https://dsduganda.com/wp-content/uploads/2023/05/Consolidated-HIV-and-AIDS-Guidelines-20230516.pdf" }
+  ]
+}

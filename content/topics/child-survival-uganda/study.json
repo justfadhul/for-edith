@@ -1,0 +1,295 @@
+{
+  "slug": "child-survival-uganda",
+  "flashcards": [
+    { "id": "csv-f01", "front": "Define the under-five mortality rate (U5MR)", "back": "The probability of dying before the **5th birthday**, expressed **per 1,000 live births**." },
+    { "id": "csv-f02", "front": "Define neonatal and infant mortality rates", "back": "**NMR**: deaths in the first **28 days** per 1,000 live births. **IMR**: deaths before **1 year** per 1,000 live births." },
+    { "id": "csv-f03", "front": "Uganda's NMR, IMR and U5MR (UDHS 2022)", "back": "About **22**, **36** and **52** per 1,000 live births (UDHS 2016: 27, 43, 64)." },
+    { "id": "csv-f04", "front": "SDG 3.2 targets for 2030", "back": "Every country to reduce **NMR to ≤12** and **U5MR to ≤25** per 1,000 live births." },
+    { "id": "csv-f05", "front": "Global under-five deaths in 2024 (WHO)", "back": "**4.9 million**; **47%** were neonatal; global U5MR **37.4**; sub-Saharan Africa **71.6** per 1,000 and **58%** of all deaths." },
+    { "id": "csv-f06", "front": "Leading causes of under-five death globally", "back": "**Preterm birth complications**, **intrapartum events** (asphyxia/trauma), **pneumonia**, **diarrhoea**, **malaria**." },
+    { "id": "csv-f07", "front": "Leading causes of neonatal death", "back": "**Prematurity**, **intrapartum asphyxia**, **sepsis/pneumonia** (about 8 in 10 newborn deaths), plus congenital anomalies." },
+    { "id": "csv-f08", "front": "What proportion of child deaths has undernutrition as an underlying cause?", "back": "About **45%**." },
+    { "id": "csv-f09", "front": "The three components of IMCI", "back": "1. Improve **health-worker case-management skills**. 2. Strengthen **health systems**. 3. Improve **family and community practices**." },
+    { "id": "csv-f10", "front": "IMCI general danger signs (2 months–5 years)", "back": "**Unable to drink or breastfeed**, **vomits everything**, **convulsions**, **lethargic or unconscious**. Any one = urgent referral." },
+    { "id": "csv-f11", "front": "IMCI colour classification", "back": "**Pink**: urgent pre-referral treatment and referral. **Yellow**: specific treatment at the facility/home. **Green**: home care and advice." },
+    { "id": "csv-f12", "front": "Fast-breathing thresholds", "back": "**≥60/min** under 2 months; **≥50/min** at 2–11 months; **≥40/min** at 12–59 months. Count for a full minute." },
+    { "id": "csv-f13", "front": "What does iCCM treat in Uganda, and in which age group?", "back": "**Malaria** (RDT + ACT), **pneumonia** (amoxicillin DT), **diarrhoea** (ORS + zinc) in children **2–59 months**; pre-referral rectal artesunate; newborn home visits; referral of danger signs. Since **2010**." },
+    { "id": "csv-f14", "front": "iCCM amoxicillin dose (250 mg dispersible tablet)", "back": "2–11 months **1 tab**, 1–5 years **2 tabs**, every **12 hours for 5 days**." },
+    { "id": "csv-f15", "front": "Zinc for diarrhoea (UCG 2023)", "back": "2–6 months **10 mg (½ tab)**; 6 months–5 years **20 mg (1 tab)** once daily for **10 days**." },
+    { "id": "csv-f16", "front": "ORS Plan B", "back": "**75 mL/kg over 4 hours**, then reassess." },
+    { "id": "csv-f17", "front": "The three delays model", "back": "1. Delay in **deciding to seek care**. 2. Delay in **reaching** care. 3. Delay in **receiving adequate care** at the facility." },
+    { "id": "csv-f18", "front": "GOBI-FFF", "back": "**G**rowth monitoring, **O**ral rehydration, **B**reastfeeding, **I**mmunisation; **F**emale education, **F**amily spacing, **F**ood supplementation." },
+    { "id": "csv-f19", "front": "Lancet Child Survival Series (2003) key finding", "back": "**23** low-cost interventions at full coverage could prevent about **63%** of child deaths." },
+    { "id": "csv-f20", "front": "ETAT emergency signs", "back": "**A**irway/**B**reathing (obstructed, cyanosis, severe distress), **C**irculation (shock), **C**oma/**C**onvulsions, severe **D**ehydration." },
+    { "id": "csv-f21", "front": "Shock in ETAT (all three needed)", "back": "**Cold hands** + **capillary refill >3 s** + **weak, fast pulse**." },
+    { "id": "csv-f22", "front": "What did the FEAST trial show?", "back": "In African children with severe febrile illness and impaired perfusion **without** hypotensive shock, **fluid boluses increased mortality**. Use boluses only for true shock." },
+    { "id": "csv-f23", "front": "Newborn interventions in the first hour", "back": "Dry and stimulate (HBB if not breathing), **skin-to-skin**, **delayed cord clamping**, **breastfeeding within 1 h**, vitamin K, eye ointment, chlorhexidine cord care, weigh (KMC if <2 kg)." },
+    { "id": "csv-f24", "front": "Kangaroo mother care: current WHO recommendation (2022)", "back": "**Immediate KMC** for all babies **<2 kg** (continuous skin-to-skin started as soon as possible after birth, even before stabilisation)." },
+    { "id": "csv-f25", "front": "WHO recommended number of ANC contacts", "back": "**8** contacts (WHO 2016)." },
+    { "id": "csv-f26", "front": "Postnatal check schedule", "back": "Within **24 hours**, on day **3**, days **7–14**, and at **6 weeks**." },
+    { "id": "csv-f27", "front": "Vitamin A supplementation doses", "back": "6–11 months **100,000 IU**; 12–59 months **200,000 IU** every 6 months (Child Health Days in April and October)." }
+  ],
+  "mcqs": [
+    {
+      "id": "csv-q01",
+      "stem": "A 2-year-old boy (10 kg) is brought to a HC III with 2 days of cough. He is drinking, has no vomiting or convulsions, and is alert. RR 46/min, no chest indrawing, no stridor, SpO₂ 96%, temperature 37.9°C, malaria RDT negative. How should he be classified and managed under IMCI?",
+      "options": [
+        "Severe pneumonia: give the first dose of IM ampicillin and refer",
+        "Cough or cold: home care with a soothing remedy",
+        "Malaria: give artemether–lumefantrine",
+        "Pneumonia: oral amoxicillin 40 mg/kg twice daily, counsel and review in 2 days",
+        "Very severe febrile disease: give IM artesunate and refer"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: at 12–59 months, RR ≥40 is fast breathing; with no chest indrawing, danger signs or hypoxaemia, the classification is pneumonia (yellow): oral amoxicillin (40 mg/kg/dose twice daily, about 400 mg), home care advice and follow-up in 2 days. A is wrong: there is no danger sign, stridor or hypoxaemia, so it is not severe pneumonia. B is wrong: an RR of 46 at 2 years is fast breathing, so this is more than a cold. C is wrong: the RDT is negative, so antimalarials are not indicated. E is wrong: he has no general danger sign or stiff neck to suggest very severe febrile disease.",
+      "difficulty": "core"
+    },
+    {
+      "id": "csv-q02",
+      "stem": "An 18-month-old girl (8.5 kg) died at home of pneumonia in a rural Ugandan district. During the death review, her mother says she noticed fast breathing on day 1 but waited 3 days because her husband was away with the money; when they reached the HC II, it had no amoxicillin, and they were referred but arrived at the hospital 8 hours later. Which delays contributed to this death?",
+      "options": [
+        "All three: deciding to seek care, reaching care and receiving care",
+        "Only the first delay (deciding to seek care)",
+        "Only the second delay (reaching care)",
+        "Only the third delay (receiving adequate care)",
+        "None: pneumonia deaths are not preventable in this setting"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: waiting 3 days for money is delay 1 (decision); the long journey after referral is delay 2 (reaching care); the stock-out at the HC II is delay 3 (receiving adequate care). B is wrong: it ignores the stock-out and the transport problem. C is wrong: it ignores the decision delay and the stock-out. D is wrong: it ignores the family and transport delays, which were just as important. E is wrong: pneumonia deaths are largely preventable with early amoxicillin and oxygen.",
+      "difficulty": "core"
+    },
+    {
+      "id": "csv-q03",
+      "stem": "A 14-month-old boy (8.0 kg) has had watery diarrhoea for 2 days. He is restless and irritable, has sunken eyes, drinks eagerly, and his skin pinch goes back slowly. No blood in the stool. MUAC 13.4 cm, no oedema. What is the MOST appropriate management?",
+      "options": [
+        "Ringer's lactate 100 mL/kg IV over 3 hours (Plan C)",
+        "Ciprofloxacin 15 mg/kg twice daily for 3 days",
+        "ORS 75 mL/kg (600 mL) over 4 hours (Plan B), zinc 20 mg daily for 10 days, continue feeding",
+        "ORS after each loose stool at home (Plan A) and return if worse",
+        "Metronidazole and ORS"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: two signs of 'some dehydration' (restless/irritable, sunken eyes, drinks eagerly, slow skin pinch) without severe signs means Plan B: ORS 75 mL/kg over 4 hours, plus zinc 20 mg daily for 10 days (6 months–5 years) and continued feeding. A is wrong: Plan C is for severe dehydration (lethargy, unable to drink, very slow skin pinch). B is wrong: antibiotics are for dysentery (blood) or cholera, not acute watery diarrhoea. D is wrong: Plan A is for no dehydration. E is wrong: metronidazole has no role without a specific indication such as amoebiasis or giardiasis.",
+      "difficulty": "core"
+    },
+    {
+      "id": "csv-q04",
+      "stem": "The DHO of a district with a U5MR of 70 per 1,000 asks you which statement about Uganda's child mortality is MOST accurate.",
+      "options": [
+        "Neonatal mortality has fallen faster than post-neonatal mortality since 2016",
+        "Malaria vaccine alone will achieve the SDG target for U5MR",
+        "U5MR is calculated per 1,000 children aged under 5 in the population",
+        "Most under-five deaths in hospitals occur after the first week of admission",
+        "Neonatal deaths now make up a growing share (about 40%) of under-five deaths"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: U5MR fell from about 64 to 52 between 2016 and 2022, but NMR fell only from about 27 to 22, so the newborn share keeps rising (about 40%). A is wrong: neonatal mortality has fallen more slowly. B is wrong: the malaria vaccine reduces but does not abolish malaria, and malaria is one of several major causes. C is wrong: U5MR is per 1,000 live births (a probability), not per 1,000 children under 5. D is wrong: most hospital deaths occur within 24–48 hours of admission, reflecting late arrival and triage delays.",
+      "difficulty": "core"
+    },
+    {
+      "id": "csv-q05",
+      "stem": "A 3-year-old girl (12 kg) is carried into Mengo's casualty. She is lethargic, has cold hands, a capillary refill of 4 seconds and a weak, fast pulse (170/min). She has had fever for 2 days; RDT positive. There is no history of diarrhoea, and she is not malnourished. What is the MOST appropriate immediate fluid management (WHO ETAT)?",
+      "options": [
+        "No fluids: FEAST showed that boluses kill children with malaria",
+        "Ringer's lactate 10–20 mL/kg (120–240 mL) IV bolus, reassess, and treat severe malaria with IV artesunate",
+        "Ringer's lactate 60 mL/kg over 15 minutes",
+        "ORS 75 mL/kg over 4 hours by nasogastric tube",
+        "5% dextrose 100 mL/kg over 6 hours"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: she has all three signs of shock (cold hands, CRT >3 s, weak fast pulse); WHO ETAT gives 10–20 mL/kg isotonic crystalloid, then reassesses, alongside IV artesunate 3 mg/kg for severe malaria and a glucose check. A is wrong: FEAST excluded hypotensive shock and showed harm from boluses in children with impaired perfusion but not shock; true shock still needs fluid. C is wrong: 60 mL/kg rapid boluses are not recommended in African febrile children (FEAST). D is wrong: ORS is for dehydration from diarrhoea and is too slow for shock. E is wrong: 5% dextrose is hypotonic and not a resuscitation fluid; 100 mL/kg is the Plan C dehydration regimen.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "csv-q06",
+      "stem": "A VHT in Kamuli sees a 7-month-old boy (7.2 kg) with fever for 1 day. He is feeding well and has no danger signs; RR 44/min, no chest indrawing. The malaria RDT is positive. What should the VHT do?",
+      "options": [
+        "Refer to the HC IV because all infants need facility care",
+        "Give amoxicillin and ACT together",
+        "Give artemether–lumefantrine from the yellow pack (1 tablet twice daily for 3 days) and follow up",
+        "Give rectal artesunate and refer",
+        "Give paracetamol only and repeat the RDT tomorrow"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: iCCM allows VHTs to treat uncomplicated malaria in children 4 months–5 years after a positive RDT; the yellow pack (4 months–2 years) is 1 tablet every 12 hours for 3 days. A is wrong: only infants under 2 months or children with danger signs must be referred. B is wrong: RR 44 is not fast breathing at 7 months (threshold 50), so amoxicillin is not indicated. D is wrong: rectal artesunate is for danger signs (pre-referral), which he does not have. E is wrong: a positive RDT should be treated today; delay risks severe malaria.",
+      "difficulty": "core"
+    },
+    {
+      "id": "csv-q07",
+      "stem": "A 1.6 kg baby is born at 33 weeks at a HC IV in Mubende. She is breathing well, HR 150, temperature 36.2°C, and her mother is well. The nearest neonatal unit is 60 km away and there is no transport tonight. Which intervention will MOST reduce her risk of death?",
+      "options": [
+        "Place her in a cot under extra blankets away from the mother",
+        "Give prophylactic IV ampicillin and gentamicin for 7 days",
+        "Start formula feeds by bottle every 3 hours",
+        "Refer her immediately by boda-boda",
+        "Start continuous skin-to-skin Kangaroo Mother Care and early breastfeeding (with expressed breast milk by cup if needed)"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: for babies under 2 kg, immediate KMC (WHO 2022) reduces mortality by preventing hypothermia, supporting breastfeeding and reducing infection; she is stable, so start it now. A is wrong: separating her from her mother and relying on blankets increases hypothermia risk. B is wrong: she has no signs of infection, and prophylactic antibiotics do not replace thermal care and feeding. C is wrong: breast milk is preferred and bottle-feeding is unsafe; use expressed breast milk by cup if she cannot suckle. D is wrong: an unsafe night journey on a motorbike risks hypothermia and harm; KMC can be started at the HC IV and transfer planned in the morning if needed.",
+      "difficulty": "core"
+    },
+    {
+      "id": "csv-q08",
+      "stem": "Which statement about the Integrated Management of Childhood Illness (IMCI) strategy is correct?",
+      "options": [
+        "It has three components: health-worker skills, health-system strengthening, and family and community practices",
+        "It is a hospital triage system for emergency signs",
+        "It manages only malaria, pneumonia and diarrhoea",
+        "It was designed for doctors in referral hospitals",
+        "It classifies children by final laboratory diagnosis"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: WHO/UNICEF IMCI (1995) has these three components. B is wrong: that is ETAT. C is wrong: IMCI also covers fever/measles, ear problems, malnutrition, anaemia, HIV, immunisation and feeding; it is iCCM that focuses on three illnesses. D is wrong: it was designed for first-level health workers (HCs). E is wrong: it classifies by clinical signs (pink, yellow, green) to decide urgency, not by laboratory diagnosis.",
+      "difficulty": "core"
+    },
+    {
+      "id": "csv-q09",
+      "stem": "A 3-week-old baby (3.1 kg) is brought to a HC III with poor feeding for 1 day, temperature 38.2°C and severe chest indrawing. Her mother refuses referral to the hospital ('no money, no one at home'); after counselling she still cannot go. What is the BEST management option?",
+      "options": [
+        "Send home with oral amoxicillin only and advise review in a week",
+        "Give oral ciprofloxacin and paracetamol",
+        "Give IM ceftriaxone once and discharge",
+        "Give IM gentamicin 5–7.5 mg/kg once daily plus oral amoxicillin 50 mg/kg twice daily, with daily review (WHO PSBI regimen when referral is not possible)",
+        "Give paracetamol and ask her to return if the fever persists"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: this young infant has possible serious bacterial infection (fever, poor feeding, severe indrawing); when referral is impossible, WHO (2015) supports simplified treatment with IM gentamicin plus oral amoxicillin and close follow-up. A is wrong: oral amoxicillin alone is only for fast breathing in infants 7–59 days old, and weekly review is far too late. B is wrong: ciprofloxacin is not a recommended neonatal sepsis regimen. C is wrong: a single dose is inadequate for possible serious bacterial infection. E is wrong: fever with danger signs in a 3-week-old needs antibiotics now.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "csv-q10",
+      "stem": "A district health team in Karamoja wants to reduce child deaths with a fixed budget. Data show high rates of wasting, malaria and measles. Which combination is MOST likely to reduce under-five mortality quickly?",
+      "options": [
+        "Building a new CT scanner at the regional referral hospital",
+        "Community-based management of acute malnutrition (CMAM) with RUTF, measles–rubella catch-up, ITN distribution and iCCM",
+        "Routine chest X-rays for all children with cough",
+        "Training two paediatric surgeons",
+        "A school deworming programme alone"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: the leading local causes (wasting, malaria, measles) each have proven, cost-effective community interventions: CMAM, measles–rubella vaccination, ITNs and iCCM. A is wrong: a CT scanner helps few children at high cost. C is wrong: routine CXR does not change outcomes for most pneumonia and wastes resources. D is wrong: surgical care matters but addresses a small share of child deaths. E is wrong: deworming alone has little effect on mortality.",
+      "difficulty": "core"
+    },
+    {
+      "id": "csv-q11",
+      "stem": "A 9-month-old girl (6.8 kg) presents with cough and fast breathing. RR 58/min, mild chest indrawing, alert, feeding. SpO₂ is 87% in air. She is HIV-unexposed. What is the MOST appropriate classification and action?",
+      "options": [
+        "Pneumonia: oral amoxicillin for 5 days at home",
+        "Cough or cold: home care",
+        "Pneumonia: oral amoxicillin and review in 2 days, because chest indrawing alone is no longer 'severe'",
+        "Bronchiolitis: salbutamol nebulisation and discharge",
+        "Severe pneumonia because of hypoxaemia: oxygen, injectable ampicillin and gentamicin, admit"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: SpO₂ <90% makes this severe pneumonia whatever the other signs; she needs oxygen and injectable antibiotics (ampicillin 50 mg/kg 6-hourly + gentamicin 7.5 mg/kg daily) as an inpatient. A is wrong: chest-indrawing pneumonia can be treated at home with amoxicillin only if there is no hypoxaemia or danger sign. B is wrong: she has fast breathing and indrawing. C is wrong: the hypoxaemia, not the indrawing, makes this severe. D is wrong: salbutamol does not treat hypoxaemic pneumonia, and a hypoxic infant must not be sent home.",
+      "difficulty": "core"
+    },
+    {
+      "id": "csv-q12",
+      "stem": "Which of these is a component of the 'FFF' in UNICEF's GOBI-FFF child survival strategy?",
+      "options": [
+        "Fluid resuscitation",
+        "Family spacing",
+        "Fever treatment",
+        "Fortified flour",
+        "Facility delivery"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: FFF stands for Female education, Family spacing and Food supplementation. A is wrong: fluid resuscitation is ETAT, not GOBI-FFF. C is wrong: fever treatment is not one of the Fs. D is wrong: food fortification is a nutrition intervention but the F is 'food supplementation'. E is wrong: facility delivery is an important newborn intervention but not part of the acronym.",
+      "difficulty": "core"
+    },
+    {
+      "id": "csv-q13",
+      "stem": "A 4-year-old boy (14 kg) has been unconscious for 2 hours after 3 days of fever in a village 40 km from the nearest hospital. A VHT reaches him; the malaria RDT is positive and he responds only to pain. What should the VHT do FIRST?",
+      "options": [
+        "Give pre-referral rectal artesunate and arrange urgent referral",
+        "Give oral artemether–lumefantrine with milk",
+        "Give oral amoxicillin and ORS",
+        "Wait for him to wake up and then give ACT",
+        "Give paracetamol and tepid sponging, then review tomorrow"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: unconsciousness is a danger sign of severe malaria; iCCM gives rectal artesunate (about 10 mg/kg; 3 capsules for 3–5 years per UCG iCCM table) and refers immediately. B is wrong: an unconscious child cannot swallow safely and needs parenteral or rectal treatment. C is wrong: amoxicillin and ORS do not treat severe malaria. D is wrong: waiting risks death; cerebral malaria can kill within hours. E is wrong: fever control does not treat the cause, and delay is lethal.",
+      "difficulty": "core"
+    },
+    {
+      "id": "csv-q14",
+      "stem": "In a ward audit at a regional referral hospital, 60% of child deaths occurred within 24 hours of admission, and many children waited over 2 hours in the outpatient queue. Which intervention is MOST likely to reduce these deaths?",
+      "options": [
+        "Adding a second daily ward round by the consultant",
+        "Buying more broad-spectrum antibiotics such as meropenem",
+        "Implementing ETAT triage at the hospital entrance with oxygen, glucose and fluids immediately available",
+        "Extending outpatient clinic hours",
+        "Building a new paediatric ward"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: early deaths and long waits point to failure to identify and treat emergency signs on arrival; ETAT triage (implemented in many East African hospitals) reduces early inpatient mortality. A is wrong: a second consultant round does not help children who die before being seen. B is wrong: the problem is speed of assessment, not the spectrum of antibiotics; meropenem overuse drives resistance. D is wrong: longer clinic hours do not prioritise the sickest children. E is wrong: more beds do not fix triage delays.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "csv-q15",
+      "stem": "A mother at a HC III in Mityana brings her 6-month-old son for review. He is well, exclusively breastfed, weight 7.4 kg (WAZ +0.1). Which set of preventive actions is MOST complete for today?",
+      "options": [
+        "Start cow's milk and stop breastfeeding to prepare for weaning",
+        "Give the 9-month vaccines early to save a visit",
+        "Deworm with albendazole 400 mg and give vitamin A 200,000 IU",
+        "Counsel on starting complementary foods while continuing breastfeeding, give vitamin A 100,000 IU and malaria vaccine dose 1 (eligible district), check his card, and confirm he sleeps under an ITN",
+        "Advise exclusive breastfeeding until 12 months"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: at 6 months, start complementary feeding with continued breastfeeding, give vitamin A 100,000 IU (6–11 months) and the first malaria vaccine dose in eligible districts, update immunisations and reinforce ITN use. A is wrong: breastfeeding should continue to 2 years and beyond; unmodified cow's milk is not a replacement at 6 months. B is wrong: MR and yellow fever are given at 9 months (early MR only in outbreaks, and it would not count). C is wrong: deworming starts at 1 year, and 200,000 IU is the dose for 12–59 months. E is wrong: breast milk alone is not enough after 6 months; delaying complementary food causes growth faltering.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "csv-c01",
+      "title": "Death review: a child who died of pneumonia",
+      "presentation": "You attend the monthly perinatal and child death review at a general hospital in Luwero. The case: a 13-month-old girl, weight 7.0 kg (WAZ −2.7), died 3 hours after admission with severe pneumonia. She had been coughing for 6 days; the family first bought syrup at a drug shop, then visited a HC II on day 4 (no amoxicillin in stock; referred), and arrived at the hospital on day 6. At triage she waited 90 minutes; SpO₂ was not measured until 40 minutes after admission (78%), and the oxygen concentrator was shared with another child.",
+      "steps": [
+        { "prompt": "Analyse the death using the three delays.", "answer": "**Delay 1 (decision)**: 4 days at home/drug shop before formal care: low recognition of fast breathing as dangerous, drug shop first. **Delay 2 (reaching)**: 2 days from HC II referral to hospital (transport, money). **Delay 3 (receiving care)**: amoxicillin stock-out at HC II; 90-minute triage wait; late SpO₂ measurement; shared oxygen." },
+        { "prompt": "What underlying (contributing) factors do you notice?", "answer": "**Moderate-to-severe underweight** (WAZ −2.7) raising pneumonia mortality; check immunisation (PCV, Hib, MR) and HIV status; possible indoor smoke exposure; household poverty." },
+        { "prompt": "What should have happened at the HC II on day 4?", "answer": "IMCI assessment: if fast breathing only → oral amoxicillin (40 mg/kg/dose BD); if chest indrawing/danger signs → **first dose of antibiotic** (oral amoxicillin or IM ampicillin/gentamicin where available) **before referral**, with a referral note and transport arranged; a pulse oximeter if available. A stock-out should be reported and amoxicillin borrowed from a neighbouring facility." },
+        { "prompt": "What changes at the hospital would you recommend?", "answer": "**ETAT triage** at the door with a trained triage nurse; **pulse oximetry for every child with cough/difficult breathing**; enough **oxygen** (concentrators, cylinders, solar-powered oxygen) with flow splitters; emergency trolley with antibiotics ready; audit time-to-oxygen and time-to-antibiotic." },
+        { "prompt": "What community-level actions would prevent similar deaths?", "answer": "VHT **iCCM** strengthening (amoxicillin stock, respiratory timers), community education on danger signs and **fast breathing**, regulation and training of **drug shops**, PCV/Hib/MR coverage, nutrition programmes, and an emergency transport scheme (e.g. community savings or ambulance hotline)." },
+        { "prompt": "How should the review be conducted so that it improves care?", "answer": "**No-blame**, confidential, focused on systems; agree specific actions with named people and deadlines; feed into **MPDSR** reporting to the district and MoH; follow up implementation at the next meeting." }
+      ],
+      "takeaway": "Child deaths are usually a chain of delays; reviewing each death with the three-delays lens, without blame, turns tragedies into concrete system fixes: triage, oxygen, stock and community recognition."
+    },
+    {
+      "id": "csv-c02",
+      "title": "IMCI at a HC III: the child with several problems",
+      "presentation": "A 20-month-old boy is brought to a HC III in Mayuge with fever for 3 days and diarrhoea for 2 days. Weight 8.2 kg, length 79 cm, MUAC 12.1 cm, no oedema. He is drinking eagerly, not vomiting everything, no convulsions, alert. Temperature 38.6°C, RR 36/min, no chest indrawing. Eyes sunken, skin pinch goes back slowly. No blood in stool. Malaria RDT positive. His card shows vaccines up to 14 weeks only.",
+      "steps": [
+        { "prompt": "Check for general danger signs and classify each main symptom.", "answer": "**No general danger signs.** Cough/breathing: RR 36 at 20 months is normal (<40): **no pneumonia**. Diarrhoea: sunken eyes + slow skin pinch + drinks eagerly = **some dehydration**. Fever: RDT positive = **malaria**. Nutrition: MUAC 12.1 cm = **moderate acute malnutrition**. Immunisation: **incomplete** (missed MR1, YF, malaria vaccine, vitamin A)." },
+        { "prompt": "What treatment will you give today, with doses?", "answer": "**ORS Plan B 75 mL/kg = about 600 mL over 4 hours** at the clinic; **zinc 20 mg** once daily for 10 days; **artemether–lumefantrine 1 tablet** (5–14 kg) at 0 and 8 h, then twice daily for 3 days; **paracetamol 15 mg/kg ≈ 120 mg** for fever; continue breastfeeding and feeding." },
+        { "prompt": "Which preventive actions belong to this visit?", "answer": "**Vitamin A 200,000 IU**, **albendazole 200 mg** (12–23 months) if not given in the last 6 months, **MR1 + yellow fever** today (minor illness is not a contraindication), malaria vaccine if the district is eligible, **HIV test** if status unknown, ITN check." },
+        { "prompt": "What will you tell the mother before she goes home?", "answer": "How to give ORS (small frequent sips; give more after each stool), complete the ACT with milk/fatty food, zinc for 10 days even after diarrhoea stops, feeding advice (energy-dense foods, extra meal daily), and **return immediately** if he cannot drink, becomes sicker, has blood in stool, convulses or is very sleepy." },
+        { "prompt": "When will you follow him up and for what?", "answer": "**2 days** for malaria (and diarrhoea if not improving), **14 days** for moderate acute malnutrition (weight gain, enrol in supplementary feeding if available), and next immunisation date (MR2 at 18 months already due: he is 20 months, so give MR2 4 weeks after MR1)." }
+      ],
+      "takeaway": "IMCI assesses every child for all main symptoms, nutrition and immunisation, classifies each, treats them together and closes preventive gaps at the same visit."
+    },
+    {
+      "id": "csv-c03",
+      "title": "Planning newborn survival at a HC IV",
+      "presentation": "You are an intern at a HC IV in Kiboga that conducts 250 deliveries a month. Last year there were 31 neonatal deaths: 12 from birth asphyxia, 10 in preterm/LBW babies (mostly hypothermia and feeding problems) and 7 from sepsis. The facility has one resuscitation bag-and-mask, no KMC area, and newborns are routinely bathed within an hour of birth.",
+      "steps": [
+        { "prompt": "Estimate the facility's neonatal mortality and comment.", "answer": "About **31 deaths / 3,000 births ≈ 10 per 1,000** facility-born babies. Lower than the national NMR (about 22), but these deaths are concentrated in **preventable** categories (asphyxia, hypothermia, sepsis), and community deaths are not counted." },
+        { "prompt": "How would you reduce asphyxia deaths?", "answer": "**Helping Babies Breathe** training for all midwives with monthly drills (the Golden Minute: dry, stimulate, clear airway if needed, ventilate within 1 minute), **one bag-and-mask per delivery bed** plus spares, functioning suction; **partograph/Labour Care Guide** with fetal heart monitoring to prevent intrapartum hypoxia; timely referral for CS." },
+        { "prompt": "How would you reduce deaths in preterm/LBW babies?", "answer": "Create a **KMC room**; start **immediate KMC** for every baby <2 kg (WHO 2022); **delay bathing for at least 24 hours**; early breastfeeding and expressed breast milk by cup; **antenatal corticosteroids** for women in preterm labour 24–34 weeks where criteria are met; warm room (25–28°C); temperature checks." },
+        { "prompt": "How would you reduce sepsis deaths?", "answer": "Clean birth practices and **handwashing**, **chlorhexidine 7.1% cord gel**, early exclusive breastfeeding, **recognise danger signs** (poor feeding, temperature, fast breathing, lethargy) and treat promptly with **ampicillin 50 mg/kg + gentamicin 5 mg/kg** (per neonatal protocol), and PSBI simplified regimens when referral is impossible." },
+        { "prompt": "How will you know whether the changes work?", "answer": "Track monthly **facility NMR**, **intrapartum stillbirths** (fresh stillbirths) and causes of death through **perinatal death reviews (MPDSR)**; process indicators: % babies <2 kg in KMC, % breastfed within 1 hour, % bathed after 24 h, HBB drill completion." }
+      ],
+      "takeaway": "Most newborn deaths at facility level are from asphyxia, hypothermia/prematurity and sepsis; HBB, immediate KMC, delayed bathing, early breastfeeding, clean cord care and death reviews tackle all three cheaply."
+    }
+  ],
+  "references": [
+    { "title": "Child mortality (under 5 years): fact sheet", "source": "World Health Organization", "year": 2025, "url": "https://www.who.int/news-room/fact-sheets/detail/child-mortality-under-5-years" },
+    { "title": "Newborn mortality: fact sheet", "source": "World Health Organization", "url": "https://www.who.int/news-room/fact-sheets/detail/newborn-mortality" },
+    { "title": "Guideline on management of pneumonia and diarrhoea in children up to 10 years of age", "source": "World Health Organization", "year": 2024, "url": "https://www.who.int/publications/i/item/9789240103412" },
+    { "title": "Uganda Clinical Guidelines 2023 (Chapter 17: Childhood illness, IMNCI and integrated community case management)", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf" },
+    { "title": "Pocket book of hospital care for children, 2nd edition (Chapter 1: Triage and emergency conditions)", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "Media pack on routine immunization services (2026)", "source": "Ministry of Health Uganda", "year": 2026, "url": "https://health.go.ug/download/media-brief-on-routine-immunization-services-2026" },
+    { "title": "Joint press release: Minister flags off malaria vaccine to 105 districts", "source": "Ministry of Health Uganda", "year": 2025, "url": "https://health.go.ug/download/joint-press-release-minister-flags-off-malaria-vaccine-to-105-districts" }
+  ]
+}
