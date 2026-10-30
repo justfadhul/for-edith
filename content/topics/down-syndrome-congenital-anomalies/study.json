@@ -1,0 +1,302 @@
+{
+  "slug": "down-syndrome-congenital-anomalies",
+  "flashcards": [
+    { "id": "dsa-f01", "front": "Birth prevalence of Down syndrome?", "back": "About **1 in 700–1000** live births; risk rises with maternal age." },
+    { "id": "dsa-f02", "front": "Three cytogenetic types of Down syndrome and their frequencies?", "back": "**Free trisomy 21** (nondisjunction) ~95%; **Robertsonian translocation** ~3–4% (often t(14;21)); **mosaicism** ~1–2%." },
+    { "id": "dsa-f03", "front": "Maternal age-related risk of DS at birth?", "back": "~1/1000 at 30; **~1/350 at 35**; **~1/100 at 40**; ~1/30 at 45." },
+    { "id": "dsa-f04", "front": "Recurrence risks in Down syndrome?", "back": "Free trisomy **~1%** (or age risk if higher); translocation carrier **mother 10–15%**, **father 2–5%**; **rob(21;21) carrier 100%**." },
+    { "id": "dsa-f05", "front": "Commonest neonatal finding in Down syndrome?", "back": "**Hypotonia** (with a weak Moro reflex and joint hyperflexibility)." },
+    { "id": "dsa-f06", "front": "List 8 dysmorphic features of DS.", "back": "Flat facial profile, **upslanting palpebral fissures**, epicanthic folds, **Brushfield spots**, small low-set ears, protruding tongue, flat occiput, excess nuchal skin, **single palmar crease**, 5th-finger clinodactyly, **sandal gap**." },
+    { "id": "dsa-f07", "front": "Proportion of DS babies with CHD and the classic lesion?", "back": "**40–50%**; classic lesion **AVSD** (also VSD, ASD, PDA, tetralogy of Fallot)." },
+    { "id": "dsa-f08", "front": "Why echo every newborn with DS, and when should AVSD be repaired?", "back": "AVSD can be **silent** while pulmonary pressures are high; repair by **3–6 months** before **Eisenmenger** physiology." },
+    { "id": "dsa-f09", "front": "GI anomalies associated with DS?", "back": "**Duodenal atresia** (double bubble), **Hirschsprung disease**, anorectal malformation, oesophageal atresia/TOF; later **coeliac disease**." },
+    { "id": "dsa-f10", "front": "What is TAM in Down syndrome?", "back": "**Transient abnormal myelopoiesis**: blasts in ~10% of DS newborns (GATA1 mutation); usually resolves by 3 months, but **20–30% develop AML** (megakaryoblastic) by 4–5 years." },
+    { "id": "dsa-f11", "front": "Thyroid screening in DS (AAP 2022)?", "back": "**TSH at birth, 6 and 12 months, then yearly** (congenital and autoimmune hypothyroidism)." },
+    { "id": "dsa-f12", "front": "Hearing and eye surveillance in DS?", "back": "Hearing: newborn screen, then **every 6 months** until reliable testing, then yearly. Eyes: red reflex at birth, **ophthalmology by 6 months**, then regularly (cataract, refractive error, strabismus, keratoconus)." },
+    { "id": "dsa-f13", "front": "Sleep study recommendation in DS?", "back": "**Polysomnography by 4 years** for all (AAP 2022): OSA affects ~50–75%." },
+    { "id": "dsa-f14", "front": "Atlantoaxial instability in DS: screen how?", "back": "**No routine X-rays** for asymptomatic children (AAP 2022); ask at every visit about **neck pain, torticollis, gait change, weakness, bladder/bowel change**; image urgently if present." },
+    { "id": "dsa-f15", "front": "Why karyotype a baby with obvious DS features?", "back": "To find a **translocation**, which changes **recurrence risk** and requires **parental karyotypes**." },
+    { "id": "dsa-f16", "front": "When does the neural tube close, and NTD prevention?", "back": "By **day 28** after conception. **Folic acid 400 µg/day** from ≥1 month before conception to 12 weeks; **5 mg/day** after a previous NTD, on antiepileptics, or with diabetes." },
+    { "id": "dsa-f17", "front": "Immediate care of a newborn with an open myelomeningocele?", "back": "Cover with **sterile saline-soaked gauze + cling film**, nurse **prone**, **latex-free**, assess level and anal tone, **HC daily**, refer for closure within **48–72 h**." },
+    { "id": "dsa-f18", "front": "What proportion of children with myelomeningocele develop hydrocephalus, and why?", "back": "**80–90%**, due to the **Chiari II malformation** obstructing CSF flow." },
+    { "id": "dsa-f19", "front": "Commonest cause of infant hydrocephalus in Uganda?", "back": "**Postinfectious hydrocephalus** after neonatal sepsis/ventriculitis (treated at CURE Children's Hospital Mbale with ETV ± choroid plexus cauterisation or VP shunts)." },
+    { "id": "dsa-f20", "front": "Signs of hydrocephalus in an infant?", "back": "HC **crossing centiles**, tense/bulging fontanelle, **split sutures**, **sunsetting eyes**, dilated scalp veins, irritability, vomiting, delay." },
+    { "id": "dsa-f21", "front": "VP shunt complications parents must recognise?", "back": "**Blockage** (vomiting, drowsiness, headache, bulging fontanelle), **infection** (fever, red shunt track, abdominal pain), over-drainage." },
+    { "id": "dsa-f22", "front": "Feeding a baby with cleft palate?", "back": "**Upright**, expressed breast milk by **cup/spoon** or special squeezable bottle, small frequent feeds, burp often, **weigh weekly**; NG if failing. Cleft lip alone usually breastfeeds." },
+    { "id": "dsa-f23", "front": "Timing of cleft repair and the 'rule of 10s'?", "back": "Lip at **~3 months** (≥10 weeks, ≥10 lb, Hb ≥10 g/dL); palate at **9–12 months**, before speech." },
+    { "id": "dsa-f24", "front": "Pierre Robin sequence?", "back": "**Micrognathia → glossoptosis → U-shaped cleft palate** with **airway obstruction**; nurse **prone**, nasopharyngeal airway, refer." },
+    { "id": "dsa-f25", "front": "Components of club foot and the order of Ponseti correction?", "back": "**CAVE**: Cavus, Adductus, Varus, Equinus; correct **cavus first**, then adductus and varus together, then equinus (tenotomy)." },
+    { "id": "dsa-f26", "front": "Ponseti bracing regimen?", "back": "Foot-abduction brace **23 h/day for 3 months**, then **nights and naps until 4–5 years**; non-adherence is the main cause of relapse." },
+    { "id": "dsa-f27", "front": "Newborn pulse oximetry screen: pass and fail criteria?", "back": "**Pass**: ≥95% in right hand or foot with **≤3%** difference. **Fail**: <90% in either; repeated 90–94% or >3% difference → echo." },
+    { "id": "dsa-f28", "front": "Immediate management of a hypercyanotic (tet) spell?", "back": "Calm child, **knee-chest position**, **oxygen**, **morphine 0.1–0.2 mg/kg** IV/IM/SC, **0.9% saline 10–20 mL/kg**; specialist propranolol/phenylephrine if persistent." },
+    { "id": "dsa-f29", "front": "Furosemide dose in a child with heart failure (UCG 2023)?", "back": "**1 mg/kg** oral/IV once daily or 12-hourly, increased as needed; **max 8 mg/kg/day**." }
+  ],
+  "mcqs": [
+    {
+      "id": "dsa-q01",
+      "stem": "A term baby born to a 37-year-old para 5 at a HC IV has hypotonia, upslanting palpebral fissures, a flat facial profile, a single palmar crease and a sandal gap. He is feeding slowly, has no murmur and his SpO₂ is 97% in the right hand and foot. What is the MOST important cardiac step?",
+      "options": [
+        "No cardiac assessment needed because there is no murmur",
+        "Repeat auscultation at the 6-week visit and order echo only if a murmur appears",
+        "Chest X-ray only",
+        "Start furosemide prophylactically",
+        "Arrange an echocardiogram in the newborn period regardless of examination"
+      ],
+      "answer": 4,
+      "explanation": "E is right: **every newborn with DS needs an echocardiogram** because 40–50% have CHD and an **AVSD can be silent** early when pulmonary pressures are high. A and B are wrong: absence of a murmur does not exclude AVSD, and delaying risks missing the window for repair before pulmonary hypertension. C is wrong: a normal chest X-ray does not exclude significant CHD. D is wrong: diuretics are for established heart failure, not prophylaxis.",
+      "difficulty": "core"
+    },
+    {
+      "id": "dsa-q02",
+      "stem": "A 1-day-old baby with features of Down syndrome has vomited green fluid after each feed. The abdomen is soft and not distended; no meconium yet. What is the MOST likely diagnosis?",
+      "options": [
+        "Hypertrophic pyloric stenosis",
+        "Gastro-oesophageal reflux",
+        "Duodenal atresia",
+        "Hirschsprung disease",
+        "Necrotising enterocolitis"
+      ],
+      "answer": 2,
+      "explanation": "C is right: **bilious vomiting on day 1** with a **non-distended** abdomen in a baby with DS suggests **duodenal atresia** (obstruction distal to the ampulla); the X-ray shows a double bubble. A is wrong: pyloric stenosis presents at 2–8 weeks with non-bilious projectile vomiting. B is wrong: reflux is not bilious and does not cause obstruction. D is wrong: Hirschsprung disease causes distension and delayed meconium; vomiting comes later. E is wrong: NEC typically affects preterm babies after feeds are established, with distension and bloody stools.",
+      "difficulty": "core"
+    },
+    {
+      "id": "dsa-q03",
+      "stem": "A 24-year-old woman's first baby has Down syndrome. The karyotype shows 46,XX,der(14;21),+21. What is the MOST appropriate next step for recurrence counselling?",
+      "options": [
+        "Karyotype both parents",
+        "Tell her the recurrence risk is about 1% because she is young",
+        "Reassure her that translocations are never inherited",
+        "Advise sterilisation",
+        "No further action is needed"
+      ],
+      "answer": 0,
+      "explanation": "A is right: this is a **Robertsonian translocation**; about a quarter are inherited from a balanced carrier parent, so **both parents need karyotypes** (maternal carrier risk 10–15%, paternal 2–5%). B is wrong: the 1% figure applies to free trisomy, and maternal age is irrelevant for translocations. C is wrong: translocations can be inherited. D is wrong: this is not indicated or appropriate advice; give information and options. E is wrong: recurrence counselling depends on the parental results.",
+      "difficulty": "core"
+    },
+    {
+      "id": "dsa-q04",
+      "stem": "A 7-week-old boy with Down syndrome (3.5 kg) has fast breathing (RR 66), sweating during feeds, poor weight gain and a liver edge 3 cm below the costal margin. SpO₂ is 94%; temperature normal. What is the MOST appropriate initial management?",
+      "options": [
+        "IV ceftriaxone for pneumonia and discharge when afebrile",
+        "High-flow oxygen to keep SpO₂ at 100%",
+        "IV fluids at 150 mL/kg/day",
+        "Furosemide 3.5 mg (1 mg/kg) 12-hourly, feeding support with expressed breast milk, echo and early referral to the Uganda Heart Institute",
+        "Morphine 0.1 mg/kg and knee-chest position"
+      ],
+      "answer": 3,
+      "explanation": "D is right: fast breathing, sweating with feeds, poor weight gain and **hepatomegaly** at 4–8 weeks in DS = **heart failure** from a left-to-right shunt (likely AVSD); give **furosemide 1 mg/kg** (UCG), support feeding, get an echo and refer early for surgery. A is wrong: there is no fever, and treating as pneumonia misses heart failure. B is wrong: excess oxygen is unnecessary (SpO₂ 94%) and may increase pulmonary blood flow. C is wrong: high-volume IV fluids worsen heart failure. E is wrong: morphine and knee-chest position treat tet spells in cyanotic disease, not heart failure.",
+      "difficulty": "core"
+    },
+    {
+      "id": "dsa-q05",
+      "stem": "On day 4 of life, an FBC from a baby with Down syndrome shows a white cell count of 48 × 10⁹/L with 30% blasts; the baby is well, with a mildly enlarged liver. What is the MOST likely diagnosis?",
+      "options": [
+        "Neonatal sepsis",
+        "Transient abnormal myelopoiesis",
+        "Acute lymphoblastic leukaemia requiring immediate chemotherapy",
+        "Polycythaemia",
+        "Laboratory error: repeat in 6 months"
+      ],
+      "answer": 1,
+      "explanation": "B is right: blasts and hepatomegaly in a well DS newborn are typical of **TAM** (~10% of DS newborns), which usually resolves by 3 months but needs haematology follow-up because 20–30% develop AML later. A is wrong: sepsis does not produce 30% blasts in a well baby. C is wrong: TAM is usually self-limiting; chemotherapy is reserved for severe cases. D is wrong: polycythaemia is a raised haematocrit, not blasts. E is wrong: the result needs prompt repeat and specialist review, not a 6-month wait.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "dsa-q06",
+      "stem": "A baby is born at a HC IV with an open, leaking lesion over the lumbosacral spine. The legs move at the hips but not the ankles. What is the MOST appropriate immediate care before transfer?",
+      "options": [
+        "Apply dry gauze and nurse supine to keep the lesion clean",
+        "Apply povidone-iodine and tight bandaging to stop the leak",
+        "Cover with sterile saline-soaked gauze and cling film, nurse prone, use latex-free gloves, measure head circumference and refer for closure within 48–72 hours",
+        "Delay referral until the mother is ready to travel in 1 week",
+        "Perform an LP to check for meningitis"
+      ],
+      "answer": 2,
+      "explanation": "C is right: an open **myelomeningocele** needs a **moist sterile dressing**, prone positioning, latex precautions, baseline HC (hydrocephalus in 80–90%) and **closure within 48–72 h** (CURE Mbale, Mulago). A is wrong: dry gauze sticks and damages neural tissue, and lying supine puts pressure on the lesion. B is wrong: antiseptics and tight dressings damage exposed neural tissue. D is wrong: delay increases infection (meningitis/ventriculitis). E is wrong: an LP is not indicated and is unsafe near the lesion.",
+      "difficulty": "core"
+    },
+    {
+      "id": "dsa-q07",
+      "stem": "A 4-month-old girl treated for neonatal sepsis at 2 weeks has a head circumference that has risen from the 50th centile to above the 99th centile. The fontanelle is tense, the sutures are split and the eyes deviate downward. What is the MOST appropriate next step?",
+      "options": [
+        "Reassure: large heads run in families",
+        "Lumbar puncture to relieve pressure",
+        "Start oral acetazolamide and review in 3 months",
+        "Give vitamin D for rickets",
+        "Cranial ultrasound through the fontanelle and urgent neurosurgical referral"
+      ],
+      "answer": 4,
+      "explanation": "E is right: rapidly crossing HC centiles with raised-pressure signs after neonatal sepsis = **postinfectious hydrocephalus** (the commonest type in Ugandan infants); confirm with **cranial USS** and refer urgently for ETV ± CPC or a VP shunt. A is wrong: familial macrocephaly follows a high centile from birth without symptoms. B is wrong: LP is dangerous in obstructive hydrocephalus and does not treat it. C is wrong: acetazolamide is not definitive treatment and delay causes brain damage and blindness. D is wrong: rickets does not cause raised ICP.",
+      "difficulty": "core"
+    },
+    {
+      "id": "dsa-q08",
+      "stem": "A 2-day-old has a complete unilateral cleft lip and cleft palate. He is choking when breastfeeding and has lost 6% of his birthweight. His jaw is normal-sized and breathing is normal. What is the MOST appropriate feeding plan?",
+      "options": [
+        "Express breast milk and feed upright by cup/spoon (or special squeezable bottle), small frequent feeds, burp often, and weigh regularly",
+        "Stop breast milk and use formula through a standard bottle",
+        "Keep nil by mouth until palate repair",
+        "Give feeds lying flat to reduce choking",
+        "Insert a gastrostomy tube"
+      ],
+      "answer": 0,
+      "explanation": "A is right: babies with **cleft palate** cannot create suction; **upright** feeding of **expressed breast milk** by cup/spoon or a special bottle, with frequent burping and weight checks, is the standard first step (UCG: teach an alternative method). B is wrong: breast milk should continue (it also protects against otitis media), and a standard teat often fails. C is wrong: palate repair is at 9–12 months; starvation is not an option. D is wrong: lying flat increases nasal regurgitation and aspiration. E is wrong: gastrostomy is not needed when simple methods work.",
+      "difficulty": "core"
+    },
+    {
+      "id": "dsa-q09",
+      "stem": "A 2-week-old boy has a right foot that points down and in. It cannot be passively brought to neutral; there is a deep medial crease and the calf is thin. The spine and hips are normal. What is the BEST management?",
+      "options": [
+        "Reassure: it will correct itself by walking age",
+        "Immediate open surgical release",
+        "Physiotherapy stretching only",
+        "Ponseti method: weekly manipulation and above-knee casts, likely Achilles tenotomy, then a foot-abduction brace",
+        "Start casting at 1 year of age"
+      ],
+      "answer": 3,
+      "explanation": "D is right: a **rigid** CAVE deformity is structural **club foot**; the **Ponseti method** started in the first weeks (weekly casts, tenotomy in ~80–90%, brace 23 h/day for 3 months then nights to 4–5 years) succeeds in most. A is wrong: structural club foot does not self-correct; reassurance is only for flexible positional talipes. B is wrong: extensive surgery is no longer first-line and causes stiff feet. C is wrong: stretching alone does not correct a rigid deformity. E is wrong: treatment works best when started early.",
+      "difficulty": "core"
+    },
+    {
+      "id": "dsa-q10",
+      "stem": "A 10-year-old girl with Down syndrome has had neck pain, a head tilt and a change in her gait over 3 weeks; she now has brisk reflexes and upgoing plantars and has wet herself twice. What is the MOST appropriate next step?",
+      "options": [
+        "Reassure: DS children are often clumsy",
+        "Immobilise the neck, arrange urgent cervical spine imaging (flexion/extension X-rays or MRI) and refer to neurosurgery",
+        "Start physiotherapy for neck stretching",
+        "Treat for urinary tract infection only",
+        "Arrange a routine sleep study"
+      ],
+      "answer": 1,
+      "explanation": "B is right: neck pain, torticollis, gait change, UMN signs and new incontinence suggest **atlantoaxial instability with cord compression**; immobilise and image urgently, then neurosurgery. A is wrong: new neurological signs are never just clumsiness. C is wrong: neck manipulation could worsen cord compression. D is wrong: a UTI does not explain UMN signs and torticollis. E is wrong: a sleep study is for OSA, not cord compression.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "dsa-q11",
+      "stem": "A 2-year-old with tetralogy of Fallot (11 kg) becomes deeply cyanosed and floppy after crying during a blood test. SpO₂ is 55%. He is on his mother's lap. What is the MOST appropriate immediate management?",
+      "options": [
+        "Give IV furosemide 11 mg",
+        "Lie him flat and start IV fluids at 150 mL/kg/day",
+        "Give IV digoxin",
+        "Knee-chest position, oxygen, morphine 1.1–2.2 mg IV/IM/SC, and 0.9% saline 110–220 mL",
+        "Immediate cardioversion"
+      ],
+      "answer": 3,
+      "explanation": "D is right: this is a **hypercyanotic (tet) spell**: **knee-chest** position (increases systemic resistance), **oxygen**, **morphine 0.1–0.2 mg/kg** (reduces agitation and infundibular spasm) and a **saline bolus 10–20 mL/kg**. A is wrong: diuretics reduce preload and worsen the spell. B is wrong: lying flat lowers systemic resistance, and maintenance fluids are not a bolus. C is wrong: digoxin increases contractility and can worsen outflow obstruction. E is wrong: this is not an arrhythmia.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "dsa-q12",
+      "stem": "A 30-year-old woman who had a baby with anencephaly asks how to prevent this in her next pregnancy. She is not on any medicines. What is the BEST advice?",
+      "options": [
+        "Folic acid 5 mg daily starting at least 1 month before conception and continuing to 12 weeks of pregnancy",
+        "Folic acid 400 µg daily starting at the first ANC visit",
+        "Iron and folic acid tablets from 20 weeks",
+        "No supplement is needed; anencephaly does not recur",
+        "Vitamin A 200,000 IU monthly"
+      ],
+      "answer": 0,
+      "explanation": "A is right: after a previous NTD the recommended dose is **5 mg daily**, started **before conception** (the neural tube closes by day 28) and continued to 12 weeks. B is wrong: 400 µg is the dose for low-risk women, and starting at the first ANC visit (often after 12 weeks in Uganda) is too late. C is wrong: starting at 20 weeks is far too late. D is wrong: recurrence risk is about 2–5% after one affected pregnancy. E is wrong: high-dose vitamin A is teratogenic and does not prevent NTDs.",
+      "difficulty": "core"
+    },
+    {
+      "id": "dsa-q13",
+      "stem": "A 3-year-old with Down syndrome is reported by his teacher to be 'not listening and slow'. He snores loudly with pauses in breathing at night and is sleepy in the daytime. Which combination of assessments is MOST appropriate first?",
+      "options": [
+        "EEG and brain MRI",
+        "Karyotype repeat and chromosomal microarray",
+        "Coeliac serology only",
+        "Psychology referral only",
+        "Hearing assessment (with otoscopy/tympanometry), TSH, and a sleep study or overnight oximetry"
+      ],
+      "answer": 4,
+      "explanation": "E is right: in DS, apparent inattention and slow progress are often due to **conductive hearing loss** (OME), **hypothyroidism** or **obstructive sleep apnoea** (snoring, pauses, daytime sleepiness); all are treatable. A is wrong: there is no history of seizures or regression. B is wrong: the diagnosis is already known. C is wrong: coeliac testing is for GI symptoms or poor growth. D is wrong: psychology alone misses treatable medical causes.",
+      "difficulty": "core"
+    },
+    {
+      "id": "dsa-q14",
+      "stem": "Which newborn finding is MOST suggestive of trisomy 18 (Edwards syndrome) rather than trisomy 21?",
+      "options": [
+        "Upslanting palpebral fissures and Brushfield spots",
+        "Sandal gap between the first and second toes",
+        "Clenched hands with overlapping fingers and rocker-bottom feet",
+        "Generalised hypotonia",
+        "Single palmar crease"
+      ],
+      "answer": 2,
+      "explanation": "C is right: **clenched hands with overlapping fingers** and **rocker-bottom feet** (with IUGR and a small jaw) are typical of **trisomy 18**. A, B and D are wrong: upslanting fissures, Brushfield spots, sandal gap and hypotonia are typical of **trisomy 21** (trisomy 18 babies are often hypertonic). E is wrong: a single palmar crease occurs in several syndromes and in normal people, so it does not discriminate.",
+      "difficulty": "core"
+    },
+    {
+      "id": "dsa-q15",
+      "stem": "A 3-day-old baby has SpO₂ 92% in the right hand and 84% in the foot on routine pulse oximetry. He is feeding and has no respiratory distress. What is the MOST appropriate next step?",
+      "options": [
+        "Pass the screen and discharge",
+        "Urgent echocardiogram and senior/cardiology review for possible critical congenital heart disease",
+        "Repeat the test in 6 weeks",
+        "Start antibiotics for neonatal sepsis and discharge",
+        "Give 100% oxygen and discharge when saturations improve"
+      ],
+      "answer": 1,
+      "explanation": "B is right: SpO₂ **<90%** in the foot (and an 8% hand–foot difference) **fails** the screen, suggesting **critical CHD** with right-to-left ductal shunting (e.g. coarctation, interrupted arch, pulmonary hypertension); urgent echo and review are needed. A is wrong: the pass criteria are ≥95% with ≤3% difference. C is wrong: the duct may close within days and the baby could collapse. D is wrong: sepsis should be considered, but discharge without cardiac evaluation is unsafe. E is wrong: oxygen may mask the problem, and in duct-dependent lesions can promote duct closure.",
+      "difficulty": "advanced"
+    }
+  ],
+  "cases": [
+    {
+      "id": "dsa-c01",
+      "title": "Breaking the news on the postnatal ward",
+      "presentation": "At Mengo Hospital, Mrs Namutebi (39, para 6) delivered a 2.9 kg baby boy, Joseph, 18 hours ago by SVD. The midwife says 'the baby looks different and is very floppy'. Mrs Namutebi had two ANC visits, no ultrasound, and is HIV-negative.",
+      "steps": [
+        { "prompt": "What will you look for on examination?", "answer": "General: tone (hypotonia), Moro, feeding. Face: flat profile, upslanting palpebral fissures, epicanthic folds, Brushfield spots, small low-set ears, protruding tongue, flat occiput, nuchal skin. Hands/feet: single palmar crease, clinodactyly, sandal gap. Systemic: murmur, femoral pulses, **SpO₂ hand and foot**, abdomen, **anus**, red reflex, hips, spine. Check glucose and temperature." },
+        { "prompt": "He has typical features of DS, no murmur, SpO₂ 97%/96%, anus patent and has passed meconium. What investigations will you arrange?", "answer": "**Karyotype** (rapid FISH/QF-PCR if available), **echocardiogram** (all DS newborns), **FBC and film** (TAM, polycythaemia), **TSH**, hearing screen, red reflex; observe feeding and vomiting." },
+        { "prompt": "How will you tell the parents?", "answer": "With the senior, in a private room, both parents present, baby with them and called by name. Ask what they have noticed. Warning shot, then name it: 'Joseph has a condition called Down syndrome.' Explain it is due to an extra chromosome present from conception, **nobody's fault**, not witchcraft, not contagious. Give balanced information (learning disability, health checks, children walk, talk, attend school, can live long lives). Allow emotion and questions; plan next steps; offer to meet again; document." },
+        { "prompt": "What feeding advice will you give?", "answer": "Breastfeeding is encouraged; hypotonia makes feeds slow, so feed frequently, support the baby's head and chin, express breast milk and **cup-feed** top-ups if needed; monitor weight daily in hospital and weekly after discharge. Watch for vomiting (bilious = emergency) and constipation." },
+        { "prompt": "The karyotype shows free trisomy 21. What is the recurrence risk and what follow-up schedule will you set?", "answer": "Recurrence about **1%** or her age-related risk (~1/100 at 39–40), whichever is higher; offer genetic counselling and early ANC in any future pregnancy. Follow-up: echo result and cardiac plan; **TSH at 6 and 12 months then yearly**; hearing every 6 months; ophthalmology by 6 months; growth and development; immunisations; early intervention; Hb yearly from 1 year; sleep assessment by 4 years; neck-symptom questions at every visit." },
+        { "prompt": "The father says his relatives think the baby is a curse and wants to leave. What do you do?", "answer": "Acknowledge his feelings; correct myths with clear facts; involve the social worker, chaplain or counsellor; offer a family meeting with relatives; link the family to a **parent support group**; screen the mother for depression; arrange early follow-up. Safeguard the baby if there are concerns about abandonment or neglect." }
+      ],
+      "takeaway": "Diagnose DS clinically, confirm by karyotype, screen systematically (echo first), and break the news with compassion, accuracy and a plan."
+    },
+    {
+      "id": "dsa-c02",
+      "title": "The open back at a HC IV",
+      "presentation": "A midwife at Kasangati HC IV calls you about a newborn girl delivered 30 minutes ago with a 4 cm open, red, leaking sac over the lower back. The mother did not take folic acid and booked ANC at 20 weeks.",
+      "steps": [
+        { "prompt": "What is the likely diagnosis and what immediate care do you instruct?", "answer": "**Myelomeningocele** (open NTD). Keep warm; cover with **sterile gauze soaked in warm sterile saline** and cling film; nurse **prone** or on her side; **latex-free** gloves; nothing on the lesion; breastfeed (or expressed milk) if well; start antibiotics if leaking per neonatal protocol; prepare for urgent referral." },
+        { "prompt": "What will you examine and document?", "answer": "Size and level of the lesion, CSF leak; **leg movements** (hip flexion L1–2, knee extension L3–4, ankle movements L4–S2), talipes, hip stability; **anal tone** and wink; bladder dribbling; **head circumference**, fontanelle, sutures; other anomalies (heart, kidneys)." },
+        { "prompt": "Where and how fast should she be referred?", "answer": "To neurosurgery (**CURE Children's Hospital Mbale** or **Mulago**) for closure within **48–72 hours**, with a referral note, mother accompanying, warm and protected lesion, feeding plan. Phone ahead." },
+        { "prompt": "After closure, her HC rises 1.5 cm in a week and the fontanelle is tense. Why, and what next?", "answer": "**Hydrocephalus** from the **Chiari II** malformation (80–90% of MMC). Cranial USS; neurosurgical treatment with **ETV ± CPC** or a **VP shunt**; teach the parents shunt warning signs." },
+        { "prompt": "What long-term problems should the family be prepared for?", "answer": "Leg weakness and reduced sensation (pressure sores, fractures), club feet/hip problems, **neurogenic bladder** (clean intermittent catheterisation, UTIs, renal ultrasound), bowel management, hydrocephalus and shunt problems, latex allergy, scoliosis, learning difficulties; need for physiotherapy, orthoses, wheelchair, school inclusion." },
+        { "prompt": "How should the mother prevent recurrence?", "answer": "**Folic acid 5 mg daily** from at least 1 month before conception to 12 weeks; early ANC booking and an anomaly scan; family planning to allow planned pregnancy. Recurrence risk is about 2–5%." }
+      ],
+      "takeaway": "Protect the open lesion, refer for closure within 48–72 hours, watch the head for hydrocephalus, and prevent recurrence with high-dose pre-conception folic acid."
+    },
+    {
+      "id": "dsa-c03",
+      "title": "The baby with a cleft and a club foot",
+      "presentation": "At the 6-week immunisation clinic at a regional referral hospital, you see baby Okot (3.4 kg; birthweight 3.3 kg) who has a left complete cleft lip and palate and a rigid right foot turned down and in. His mother says feeding is 'a struggle' and that relatives told her not to bring him out of the house.",
+      "steps": [
+        { "prompt": "What concerns you most today and why?", "answer": "**Poor weight gain**: he has gained only 100 g in 6 weeks (expected ~1 kg). With cleft palate, ineffective suction leads to malnutrition and aspiration; this must be fixed before anything else." },
+        { "prompt": "How will you help with feeding?", "answer": "Observe a feed; teach **upright** feeding of **expressed breast milk** by **cup/spoon** or a special squeezable bottle, small frequent feeds, burping; check for aspiration (cough, chest signs); weigh weekly; consider NG feeds or admission if not gaining; check for other anomalies (heart murmur, SpO₂)." },
+        { "prompt": "What will you do about the cleft?", "answer": "Refer to a **cleft team** (e.g. CoRSU or another Smile Train partner) for free surgery: lip at about 3 months when weight and Hb allow (rule of 10s), palate at 9–12 months; arrange hearing follow-up (OME) and later speech therapy and dental care." },
+        { "prompt": "How do you assess and treat the foot?", "answer": "Rigid CAVE deformity = **structural club foot**; examine spine and hips; **Pirani score**; refer to the hospital's **Ponseti clinic** now: weekly casts (cavus first), Achilles tenotomy, then the foot-abduction brace 23 h/day for 3 months and nights to 4–5 years." },
+        { "prompt": "How do you address the relatives' beliefs and the mother's isolation?", "answer": "Explain that clefts and club foot are **common birth differences**, not curses or contagious, and both are very treatable; show before-and-after examples if available; involve the father and family; connect her to other parents and the social worker; encourage her to continue immunisations and clinic visits." },
+        { "prompt": "Give his immunisations today?", "answer": "**Yes**: give all 6-week UNEPI vaccines (OPV1, IPV1, DPT-HepB-Hib1, PCV1, rotavirus 1). Clefts and club foot are not contraindications; give the oral rotavirus vaccine slowly into the inner cheek." }
+      ],
+      "takeaway": "Feeding and growth come first in a baby with a cleft; club foot needs early Ponseti treatment; both families need stigma-busting counselling."
+    }
+  ],
+  "references": [
+    { "title": "Down Syndrome Workup: Approach Considerations, Laboratory Studies, Radiography and Ultrasonography", "source": "Medscape / eMedicine", "year": 2024, "url": "https://emedicine.medscape.com/article/943216-workup" },
+    { "title": "Down Syndrome (Birth Defects: types, causes, health issues)", "source": "Centers for Disease Control and Prevention", "year": 2024, "url": "https://www.cdc.gov/birth-defects/about/down-syndrome.html" },
+    { "title": "Health Supervision for Children and Adolescents With Down Syndrome (Bull MJ, Trotter T, Santoro SL, et al.; Clinical Report)", "source": "American Academy of Pediatrics, Pediatrics 149(5):e2022057010", "year": 2022 },
+    { "title": "Uganda Clinical Guidelines 2023: newborn examination and care, heart failure in children", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "About Folic Acid (folic acid and neural tube defects)", "source": "Centers for Disease Control and Prevention", "year": 2024, "url": "https://www.cdc.gov/folic-acid/about/index.html" },
+    { "title": "About Spina Bifida", "source": "Centers for Disease Control and Prevention", "year": 2024, "url": "https://www.cdc.gov/spina-bifida/about/index.html" },
+    { "title": "Cleft Lip/Cleft Palate", "source": "Centers for Disease Control and Prevention", "year": 2024, "url": "https://www.cdc.gov/birth-defects/about/cleft-lip-cleft-palate.html" },
+    { "title": "About Congenital Heart Defects", "source": "Centers for Disease Control and Prevention", "year": 2024, "url": "https://www.cdc.gov/heart-defects/about/index.html" },
+    { "title": "Hydrocephalus: Background, Epidemiology, Etiology", "source": "Medscape / eMedicine", "year": 2024, "url": "https://emedicine.medscape.com/article/1135286-overview" },
+    { "title": "Pocket Book of Hospital Care for Children, 2nd edition (newborn problems, congenital anomalies)", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" }
+  ]
+}

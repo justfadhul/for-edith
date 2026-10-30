@@ -1,0 +1,297 @@
+{
+  "slug": "paeds-cns-msk-exam",
+  "flashcards": [
+    { "id": "cnm-f01", "front": "What is the first step in the neurological examination of a sick child?", "back": "**ETAT ABCD and conscious level** (AVPU), plus **glucose**; stabilise before the detailed examination." },
+    { "id": "cnm-f02", "front": "AVPU: which levels mean coma?", "back": "**P** (responds only to pain) or **U** (unresponsive) = coma, an ETAT emergency sign." },
+    { "id": "cnm-f03", "front": "Components of the Blantyre coma scale?", "back": "**Motor** 2 localises / 1 withdraws / 0 none; **verbal** 2 appropriate cry / 1 moan or abnormal cry / 0 none; **eyes** 1 watches or follows / 0 fails. Total **0–5**." },
+    { "id": "cnm-f04", "front": "Blantyre score defining unrousable coma (cerebral malaria)?", "back": "**≤2** (WHO); UCG 2023 defines deep coma as **unable to localise a painful stimulus**." },
+    { "id": "cnm-f05", "front": "How do you apply a painful stimulus for the Blantyre motor score?", "back": "**Localise**: firm pressure with the blunt end of a pencil on the **sternum or supraorbital ridge**. **Withdraw**: pressure on a **nail bed** with a horizontal pencil." },
+    { "id": "cnm-f06", "front": "GCS threshold for airway protection?", "back": "**GCS ≤8**." },
+    { "id": "cnm-f07", "front": "Why are Kernig and Brudzinski signs unreliable in infants, and what do you look for instead?", "back": "Meningism is often absent under **12–18 months**; look for a **bulging fontanelle**, irritability (paradoxical), high-pitched cry, poor feeding, drowsiness." },
+    { "id": "cnm-f08", "front": "WHO signs of raised ICP that contraindicate LP?", "back": "**Unequal pupils**, **rigid posture/posturing**, **paralysis of limbs or trunk**, **irregular breathing**; also bradycardia with hypertension, papilloedema, falling coma score." },
+    { "id": "cnm-f09", "front": "UMN vs LMN signs?", "back": "**UMN**: increased tone, brisk reflexes, clonus, upgoing plantar, little wasting. **LMN**: hypotonia, reduced/absent reflexes, wasting, fasciculation." },
+    { "id": "cnm-f10", "front": "Root values of the deep tendon reflexes?", "back": "Biceps **C5–6**, supinator **C5–6**, triceps **C7**, knee **L3–4**, ankle **S1**." },
+    { "id": "cnm-f11", "front": "Reflex grading scale?", "back": "**0** absent, **1+** reduced, **2+** normal, **3+** brisk, **4+** brisk with clonus." },
+    { "id": "cnm-f12", "front": "MRC power grades?", "back": "**0** none, **1** flicker, **2** moves with gravity eliminated, **3** against gravity, **4** against some resistance, **5** normal." },
+    { "id": "cnm-f13", "front": "Until what age is an upgoing (extensor) plantar normal?", "back": "Until about **12–18 months** (once walking is established it is abnormal)." },
+    { "id": "cnm-f14", "front": "Three tests of tone in an infant?", "back": "**Pull-to-sit** (head lag abnormal after 4 months), **ventral suspension** (floppy = inverted U), **vertical suspension** (slips through = hypotonia; scissoring = spasticity)." },
+    { "id": "cnm-f15", "front": "What is Gowers sign and what does it indicate?", "back": "Child 'climbs up' his thighs with his hands to stand from the floor: **proximal (pelvic girdle) weakness**, classically **Duchenne muscular dystrophy**." },
+    { "id": "cnm-f16", "front": "Clinical clues to a peripheral (neuromuscular) cause of floppiness?", "back": "**Alert** face and social, marked **weakness**, **absent reflexes**, **tongue fasciculation**, frog-leg posture (e.g. spinal muscular atrophy)." },
+    { "id": "cnm-f17", "front": "Neurocutaneous stigmata to look for?", "back": "**≥6 café-au-lait macules** (>5 mm pre-pubertal) and axillary freckling (NF1); **ash-leaf macules**, facial angiofibromas, shagreen patch (tuberous sclerosis); facial **port-wine stain** (Sturge–Weber)." },
+    { "id": "cnm-f18", "front": "What is malarial retinopathy and why look for it?", "back": "Patchy **retinal whitening**, vessel colour changes, **white-centred haemorrhages**, ± papilloedema; supports **cerebral malaria** as the cause of coma (absence → think of other causes)." },
+    { "id": "cnm-f19", "front": "Action for acute flaccid paralysis in a child under 15 (UCG 2023)?", "back": "Treat as possible **polio**: notify the district surveillance focal person, **2 stool samples 24 h apart within 14 days** (cold chain), **no IM injections**, monitor breathing." },
+    { "id": "cnm-f20", "front": "Classic features of Guillain–Barré syndrome?", "back": "**Ascending, symmetrical flaccid weakness** with **areflexia**, days–weeks after diarrhoea or respiratory infection; risk of **respiratory and bulbar failure**; CSF high protein, normal cells." },
+    { "id": "cnm-f21", "front": "Cause of foot drop after an injection in the buttock?", "back": "**Sciatic (or common peroneal) nerve injection injury**; prevent by giving IM injections in the **anterolateral thigh** in children." },
+    { "id": "cnm-f22", "front": "Three pGALS screening questions?", "back": "Any **pain or stiffness** in joints, muscles or back? Any difficulty **dressing**? Any difficulty with **stairs**?" },
+    { "id": "cnm-f23", "front": "Position of a septic hip and why?", "back": "**Flexed, abducted, externally rotated**: maximises capsular volume and reduces pain from the effusion." },
+    { "id": "cnm-f24", "front": "Kocher criteria for septic arthritis of the hip?", "back": "**Fever >38.5°C**, **non-weight-bearing**, **ESR >40 mm/h**, **WCC >12 × 10⁹/L**; probability rises with each criterion." },
+    { "id": "cnm-f25", "front": "Empirical antibiotic for septic arthritis in a child (UCG 2023)?", "back": "**Cloxacillin 50 mg/kg IV 6-hourly** (add **ceftriaxone** if Gram-negative/negative stain or **sickle cell disease**: Salmonella); IV 2 weeks then oral to complete 4 weeks." },
+    { "id": "cnm-f26", "front": "Physiological leg alignment by age?", "back": "**Genu varum** (bow legs) normal until about **2 years**; **genu valgum** (knock knees) common at **3–5 years**; then straightens." },
+    { "id": "cnm-f27", "front": "Spinal examination findings and their significance?", "back": "**Sacral dimple/hair tuft/lipoma** = occult dysraphism; **rib hump on forward bend** = scoliosis; **gibbus** = TB spine (Pott's); sensory level/retention = cord compression." },
+    { "id": "cnm-f28", "front": "What is nodding syndrome?", "back": "An epilepsy syndrome of **northern Uganda** (ages ~5–15): repeated **head-nodding** atonic seizures (often triggered by food or cold), cognitive decline, stunting; linked to **onchocerciasis** (UCG 2023 section 9.1.2)." }
+  ],
+  "mcqs": [
+    {
+      "id": "cnm-q01",
+      "stem": "A 2-year-old with malaria is unconscious after a seizure 90 minutes ago. When firm pressure is applied to her sternum with a pencil, she pulls her arm away from a nail-bed stimulus but does not bring her hand to the sternum; she moans; she does not follow her mother's face. What is her Blantyre coma score?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1,
+      "explanation": "B is right: **motor 1** (withdraws, does not localise) + **verbal 1** (moan) + **eyes 0** (does not follow) = **2**, i.e. unrousable coma. A is wrong: it would require two components scoring 0. C is wrong: 3 would need localising pain (motor 2) or an appropriate cry (verbal 2). D and E are wrong: these indicate a nearly or fully conscious child.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cnm-q02",
+      "stem": "A 7-month-old (7 kg) has fever and irritability. You plan an LP. Before proceeding, which finding would MOST make you defer the LP and start antibiotics first?",
+      "options": [
+        "Absent neck stiffness",
+        "Temperature 39.5°C",
+        "A bulging fontanelle while the baby is upright and calm",
+        "Unequal pupils with intermittent extensor posturing",
+        "Positive malaria RDT"
+      ],
+      "answer": 3,
+      "explanation": "D is right: **unequal pupils and posturing** are WHO signs of **raised ICP** with herniation risk, so the LP should be deferred and **ceftriaxone** given immediately. A is wrong: neck stiffness is often absent in infants and is not a contraindication. B is wrong: fever is not a contraindication. C is wrong: a bulging fontanelle on its own suggests meningitis; WHO lists unequal pupils, posturing, limb paralysis and irregular breathing as the contraindications, so judge it with the senior, but it is not the most decisive here. E is wrong: parasitaemia does not exclude meningitis or contraindicate LP.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cnm-q03",
+      "stem": "A 6-year-old boy (20 kg) has had 5 days of progressive leg weakness that is now affecting his arms, beginning 2 weeks after a diarrhoeal illness. Reflexes are absent, plantars flexor, sensation and bladder normal. He is fully immunised. What is the MOST appropriate immediate step besides admission?",
+      "options": [
+        "Notify the case as acute flaccid paralysis, collect 2 stool samples 24 h apart, and monitor respiratory function closely",
+        "Give IM vitamin B complex injections daily",
+        "Discharge with physiotherapy exercises",
+        "Start high-dose oral prednisolone",
+        "Urgent spinal X-ray to look for TB"
+      ],
+      "answer": 0,
+      "explanation": "A is right: ascending areflexic weakness after diarrhoea is **Guillain–Barré syndrome**, but every child <15 with AFP must be **notified with 2 stool samples** (polio surveillance), and the main danger is **respiratory failure**. B is wrong: IM injections are avoided in AFP and vitamins do not treat GBS. C is wrong: progressive weakness needs inpatient monitoring. D is wrong: steroids are not effective in GBS. E is wrong: there is no sensory level, back pain or gibbus to suggest cord compression.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cnm-q04",
+      "stem": "A 5-month-old is assessed for 'floppiness'. She smiles, follows faces and vocalises. She has marked head lag, lies in a frog-leg posture, has absent knee and biceps reflexes and fine twitching of the tongue. What is the MOST likely site of the problem?",
+      "options": [
+        "Cerebral cortex (central hypotonia)",
+        "Basal ganglia",
+        "Cerebellum",
+        "Neuromuscular junction",
+        "Anterior horn cells of the spinal cord"
+      ],
+      "answer": 4,
+      "explanation": "E is right: an **alert** infant with severe weakness, **areflexia** and **tongue fasciculation** has **spinal muscular atrophy** (anterior horn cell disease). A is wrong: central hypotonia usually comes with poor alertness and preserved or brisk reflexes. B is wrong: basal ganglia lesions cause dyskinesia, not areflexic weakness. C is wrong: cerebellar lesions cause ataxia with mild hypotonia and normal power. D is wrong: neuromuscular junction disorders (infant botulism, myasthenia) cause fatigable weakness and ptosis, without fasciculation.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "cnm-q05",
+      "stem": "A 9-month-old is examined for developmental review. Which finding is ABNORMAL?",
+      "options": [
+        "Bilateral upgoing plantar responses",
+        "Absent Moro reflex",
+        "A persistent obligatory asymmetric tonic neck reflex",
+        "Present parachute reflex",
+        "Three beats of ankle clonus that then stop"
+      ],
+      "answer": 2,
+      "explanation": "C is right: the **ATNR should disappear by 4–6 months**; persistence (especially obligatory) at 9 months suggests **cerebral palsy**. A is wrong: upgoing plantars are normal until about 12–18 months. B is wrong: the Moro reflex normally disappears by 3–6 months. D is wrong: the parachute reflex normally appears at 6–9 months. E is wrong: a few unsustained beats of clonus can be normal; sustained clonus (>3–5 beats) is abnormal.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cnm-q06",
+      "stem": "A 7-year-old girl walks with a high-stepping gait on the right and her right foot slaps the ground. She cannot dorsiflex the right ankle; sensation is reduced over the dorsum of the foot; reflexes are normal elsewhere. Her mother says she had 'a quinine injection in the buttock' for malaria 6 weeks ago. What is the MOST likely diagnosis?",
+      "options": [
+        "Right hemiplegic cerebral palsy",
+        "Guillain–Barré syndrome",
+        "Poliomyelitis",
+        "Sciatic (common peroneal division) nerve injection injury",
+        "Duchenne muscular dystrophy"
+      ],
+      "answer": 3,
+      "explanation": "D is right: unilateral **foot drop** with sensory loss over the dorsum after a **buttock injection** points to **sciatic nerve injection injury** (peroneal division most vulnerable). A is wrong: CP is present from early life and causes spasticity, not a new LMN foot drop. B is wrong: GBS is bilateral, ascending and areflexic. C is wrong: polio causes no sensory loss. E is wrong: Duchenne causes symmetrical proximal weakness in boys.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cnm-q07",
+      "stem": "A 4-year-old boy is examined for clumsiness and frequent falls. He gets up from the floor by turning prone and pushing his hands up his thighs; his calves are large and firm; knee jerks are reduced. Which investigation is MOST useful next?",
+      "options": [
+        "EEG",
+        "Serum creatine kinase",
+        "CT brain",
+        "Lumbar puncture",
+        "Blood glucose"
+      ],
+      "answer": 1,
+      "explanation": "B is right: **Gowers sign** with **calf pseudohypertrophy** in a boy suggests **Duchenne muscular dystrophy**; **CK** is markedly raised (often >10 times normal). A is wrong: there are no seizures. C is wrong: the findings point to muscle, not brain. D is wrong: CSF is not helpful in muscular dystrophy. E is wrong: glucose does not explain chronic proximal weakness.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cnm-q08",
+      "stem": "A 3-year-old with sickle cell disease suddenly cannot use her right arm and leg, and her mouth droops on the right. Right-sided reflexes are brisk with an upgoing plantar. Where is the lesion and what is the MOST likely cause?",
+      "options": [
+        "Right cerebral hemisphere; meningitis",
+        "Spinal cord at C5; trauma",
+        "Right brachial plexus; birth injury",
+        "Cerebellum; malaria",
+        "Left cerebral hemisphere; ischaemic stroke"
+      ],
+      "answer": 4,
+      "explanation": "E is right: right **face, arm and leg** with **UMN signs** localise to the **left hemisphere**; in sickle cell disease the likely cause is **ischaemic stroke** (urgent transfusion per protocol, then imaging). A is wrong: a right-hemisphere lesion causes left-sided signs. B is wrong: a cord lesion spares the face and usually affects both sides below the level. C is wrong: a plexus injury causes LMN signs in one arm only, not the face and leg. D is wrong: cerebellar lesions cause ataxia, not hemiparesis with UMN signs.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cnm-q09",
+      "stem": "A 4-year-old (16 kg) has had fever for 2 days and refuses to walk. His right hip is held flexed, abducted and externally rotated, and he screams with any movement. T 39.2°C, WCC 18 × 10⁹/L, ESR 65 mm/h. What is the MOST appropriate next step?",
+      "options": [
+        "Urgent ultrasound-guided or surgical aspiration/drainage of the hip, blood culture, and IV cloxacillin 800 mg 6-hourly",
+        "Discharge with ibuprofen for transient synovitis",
+        "Skin traction and review in 1 week",
+        "Oral amoxicillin and review in 3 days",
+        "Wait for X-ray changes before treating"
+      ],
+      "answer": 0,
+      "explanation": "A is right: with all four **Kocher criteria** (fever >38.5°C, non-weight-bearing, ESR >40, WCC >12), **septic arthritis of the hip** is very likely; it needs urgent **drainage** and IV **cloxacillin 50 mg/kg** (16 × 50 = 800 mg) 6-hourly (UCG), adding ceftriaxone if sickle cell disease or Gram-negative. B is wrong: transient synovitis children are usually afebrile and well. C is wrong: delay risks avascular necrosis and joint destruction. D is wrong: oral amoxicillin is inadequate for septic arthritis. E is wrong: X-rays are normal early.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cnm-q10",
+      "stem": "A 12-year-old boy from Gulu has had 6 months of back pain, weight loss and night sweats; now his legs are weak and stiff with brisk reflexes, upgoing plantars and reduced sensation below the umbilicus. There is a sharp angular prominence in his mid-back. What is the MOST likely diagnosis?",
+      "options": [
+        "Scoliosis",
+        "Guillain–Barré syndrome",
+        "Spinal tuberculosis (Pott's disease) with cord compression",
+        "Nodding syndrome",
+        "Duchenne muscular dystrophy"
+      ],
+      "answer": 2,
+      "explanation": "C is right: chronic back pain, constitutional symptoms, a **gibbus** and a **sensory level with UMN signs** indicate **spinal TB with cord compression**; urgent imaging, TB treatment and surgical review are needed. A is wrong: scoliosis is a lateral curve without a gibbus or cord signs. B is wrong: GBS causes areflexic weakness without a sensory level or gibbus. D is wrong: nodding syndrome causes head-nodding seizures, not cord compression. E is wrong: Duchenne causes proximal weakness with reduced reflexes and no sensory signs.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cnm-q11",
+      "stem": "You are examining a 3-year-old in an OSCE. Which sequence is MOST appropriate?",
+      "options": [
+        "Introduce yourself and gain consent, observe the child playing and walking, then examine tone, power and reflexes, leaving fundoscopy and any painful tests to the end",
+        "Start with fundoscopy while the child is calm, then reflexes, then observation",
+        "Test neck stiffness first in every child to exclude meningitis",
+        "Undress the child completely and lie them flat before saying hello",
+        "Test the plantar response first because it is the most important sign"
+      ],
+      "answer": 0,
+      "explanation": "A is right: in young children, **observation and play come first**, hands-on examination next, and **unpleasant tests last**, after consent. B is wrong: fundoscopy early upsets the child and loses cooperation. C is wrong: meningism is tested when relevant and is unpleasant; it is not the first step in every child (and never before excluding neck injury in trauma). D is wrong: introductions, consent and dignity come first; full undressing is unnecessary. E is wrong: the plantar response is unpleasant and less informative than observation in a toddler.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cnm-q12",
+      "stem": "A 3-year-old (14 kg) with fever and a malaria smear of 250,000/µL has a Blantyre score of 1, equal reactive pupils and no posturing. Fundoscopy shows patchy retinal whitening and white-centred haemorrhages. Glucose is 4.8 mmol/L. Which management is MOST appropriate?",
+      "options": [
+        "Oral artemether–lumefantrine and observation",
+        "LP is contraindicated by the retinal findings; give no antibiotics",
+        "IV quinine only",
+        "Await CT before any treatment",
+        "IV artesunate 42 mg at 0, 12 and 24 h then daily, plus ceftriaxone 1.4 g/day if meningitis cannot be excluded, with 2-hourly coma score and glucose"
+      ],
+      "answer": 4,
+      "explanation": "E is right: a Blantyre score ≤2 with parasitaemia and **malarial retinopathy** = **cerebral malaria**; give **IV artesunate 3 mg/kg** (14 × 3 = 42 mg) and, unless an LP excludes it, cover meningitis with **ceftriaxone 100 mg/kg/day** (1.4 g); monitor coma score and glucose. A is wrong: oral treatment is unsafe and inadequate in severe malaria. B is wrong: malarial retinopathy is not a contraindication to LP and meningitis still needs cover. C is wrong: artesunate is superior to quinine. D is wrong: treatment must not wait for imaging.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "cnm-q13",
+      "stem": "An 18-month-old girl has bowed legs. She walks well, is growing along the 50th centile, has no wrist widening or rib beading, and the bowing is symmetrical. What is the BEST management?",
+      "options": [
+        "Start high-dose vitamin D",
+        "Refer for corrective osteotomy",
+        "Reassure: physiological genu varum, and review growth and alignment in 6–12 months",
+        "Apply long-leg casts",
+        "Order a skeletal survey for abuse"
+      ],
+      "answer": 2,
+      "explanation": "C is right: **symmetrical bowing up to about 2 years** in a well-growing child without signs of rickets is **physiological genu varum**, which corrects spontaneously; reassure and review. A is wrong: there are no clinical features of rickets (check diet and X-ray only if signs appear). B and D are wrong: surgery and casting are not indicated for physiological bowing. E is wrong: there is nothing to suggest abuse.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cnm-q14",
+      "stem": "A 10-year-old boy from Kitgum has 2 years of repeated episodes in which his head drops forward several times when he starts eating, with worsening school performance and poor growth. Neurological examination between episodes shows no focal signs. What is the MOST likely diagnosis?",
+      "options": [
+        "Febrile convulsions",
+        "Nodding syndrome",
+        "Guillain–Barré syndrome",
+        "Cerebral palsy",
+        "Breath-holding attacks"
+      ],
+      "answer": 1,
+      "explanation": "B is right: repeated **head-nodding** (atonic) seizures triggered by **food**, cognitive decline and stunting in a child from **northern Uganda** is typical of **nodding syndrome** (UCG 2023 section 9.1.2; associated with onchocerciasis). A is wrong: he is 10 years old and the episodes are afebrile. C is wrong: GBS causes acute flaccid weakness. D is wrong: CP is a static motor disorder present from early life, not new seizures with decline. E is wrong: breath-holding attacks occur in toddlers, triggered by crying.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cnm-q15",
+      "stem": "A 6-month-old is brought with a large head. Which combination of findings MOST strongly suggests raised intracranial pressure from hydrocephalus?",
+      "options": [
+        "Head circumference on the 97th centile since birth, both parents with large heads, normal development",
+        "Flat anterior fontanelle and closed posterior fontanelle",
+        "Frontal bossing with wide wrists and rib beading",
+        "Head circumference crossing from the 50th to above the 99th centile, tense bulging fontanelle, split sutures and sunsetting eyes",
+        "Plagiocephaly with a flat occiput on one side"
+      ],
+      "answer": 3,
+      "explanation": "D is right: an HC **crossing centiles upward** with a **tense fontanelle, split sutures and sunsetting eyes** indicates **progressive hydrocephalus** with raised pressure. A is wrong: a large but stable head in a well child with large-headed parents is benign familial macrocephaly. B is wrong: a flat fontanelle and a closed posterior fontanelle at 6 months are normal. C is wrong: frontal bossing with wrist widening and a rosary suggests rickets. E is wrong: positional plagiocephaly is a moulding deformity without raised pressure.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "cnm-c01",
+      "title": "The unconscious child on the malaria ward",
+      "presentation": "Akello, a 3-year-old girl (12 kg) from Masaka, was admitted to Mengo with 2 days of fever and 3 generalised seizures. An hour after her last seizure she has not woken up. You are asked to assess her neurologically.",
+      "steps": [
+        { "prompt": "What do you do before the detailed neurological examination?", "answer": "**ABCD**: airway (recovery position, suction), breathing (RR, SpO₂, oxygen), circulation (CRT, pulse), **AVPU**, **glucose** (treat <3.0 mmol/L with 10% dextrose 5 mL/kg = 60 mL), check for ongoing or subtle seizures, temperature." },
+        { "prompt": "How will you score her conscious level?", "answer": "**Blantyre coma scale**: motor (sternal/supraorbital pressure → localises = 2; nail-bed pressure → withdraws = 1; none = 0), verbal (appropriate cry 2, moan 1, none 0), eyes (follows mother's face 1, not 0). She withdraws, moans and does not follow: **M1 V1 E0 = 2** (unrousable coma)." },
+        { "prompt": "What else will you examine, and why?", "answer": "**Pupils** and **posture** (raised ICP), **fontanelle** (closed at 3 y), **neck stiffness/Kernig** (meningitis), **fundoscopy** (malarial retinopathy, papilloedema), tone, reflexes, plantars and limb movements for **focal signs**, breathing pattern, pallor, jaundice, spleen, signs of dehydration and **acidotic breathing**." },
+        { "prompt": "Findings: pupils equal and reactive, no posturing, regular breathing, no neck stiffness, malarial retinopathy present, symmetrical reflexes, flexor plantars. Smear 180,000/µL; Hb 7.2; glucose 4.6. What is your summary and plan?", "answer": "**Cerebral malaria** (BCS 2, retinopathy, repeated seizures); no signs of raised ICP, so **LP** is reasonable to exclude meningitis (or give ceftriaxone if LP is delayed). **IV artesunate 36 mg** (3 mg/kg) at 0, 12, 24 h then daily; seizure management; maintenance fluids (avoid overload); NG feeds if still unconscious after 24 h; 2-hourly BCS and glucose." },
+        { "prompt": "Six hours later her left pupil is larger and sluggish, she has extensor posturing and irregular breathing. What do you do?", "answer": "**Signs of raised ICP**: call the senior/anaesthetist, airway protection (consider intubation where possible), head-up 30° midline, avoid hypotonic fluids, treat seizures and fever, check glucose and Hb; **no LP**; give ceftriaxone if not already started; ICU referral. Routine mannitol/steroids are not recommended in cerebral malaria (WHO); specialist decision." },
+        { "prompt": "She recovers. What neurological follow-up is needed?", "answer": "Examine before discharge (gait, ataxia, tone, vision, hearing, speech, behaviour); arrange review for **neurological sequelae** (epilepsy, hemiparesis, ataxia, cognitive and behaviour problems), **post-discharge malaria chemoprevention** (monthly DP for 3 months, UCG 2023), and a development check at follow-up." }
+      ],
+      "takeaway": "In coma, score the components, look at the pupils, posture and fundi, and let the examination decide whether an LP is safe."
+    },
+    {
+      "id": "cnm-c02",
+      "title": "The child who cannot stand",
+      "presentation": "Mugisha, a 5-year-old boy (18 kg) from Mbarara, has been unable to stand for 2 days. A week earlier he had diarrhoea. His mother says his legs 'became weak like water' and now he struggles to lift his arms. His immunisation card shows all OPV and IPV doses.",
+      "steps": [
+        { "prompt": "What features of the history help you localise the problem?", "answer": "Onset and progression (days, ascending), preceding infection (GBS), pain, fever at onset (polio), symmetry, **bladder and bowel** (cord), **back pain** (cord compression), sensory symptoms, breathing or swallowing difficulty (respiratory/bulbar involvement), **injections**, toxins/poisoning, immunisation." },
+        { "prompt": "Outline your neurological examination.", "answer": "ABC with **respiratory assessment** (RR, SpO₂, single-breath count, cough strength); cranial nerves (facial weakness, swallowing); inspection; **tone**; **power** (MRC, proximal vs distal); **reflexes** and plantars; **sensation** and a **sensory level**; bladder (palpable?); spine (tenderness, gibbus, midline markers); gait if possible." },
+        { "prompt": "Findings: symmetrical flaccid weakness (legs 2/5, arms 4/5), absent reflexes, flexor plantars, no sensory level, bladder normal, mild bilateral facial weakness, single-breath count 14. What is your diagnosis?", "answer": "**LMN pattern**, ascending, symmetrical, areflexic, with facial involvement and no cord level: **Guillain–Barré syndrome**, possibly triggered by *Campylobacter* diarrhoea." },
+        { "prompt": "What must you do immediately in Uganda?", "answer": "Treat as **acute flaccid paralysis**: notify the district surveillance focal person, collect **2 stool samples 24 h apart within 14 days** (cold chain), **avoid IM injections**. Admit for close monitoring of breathing and swallowing (4-hourly single-breath count/SpO₂), NG feeds if swallowing unsafe, DVT/pressure care, pain control." },
+        { "prompt": "When would you escalate, and what specific treatment exists?", "answer": "Escalate to HDU/ICU if single-breath count falls, SpO₂ drops, weak cough, bulbar weakness or autonomic instability. **IVIG** (2 g/kg over 2–5 days) or plasma exchange where available (mostly private/national referral); steroids are not effective. Physiotherapy throughout; most children recover over weeks to months." }
+      ],
+      "takeaway": "Localise first (UMN, LMN, muscle, cord), then remember that every AFP in a child under 15 is notified and sampled for polio."
+    },
+    {
+      "id": "cnm-c03",
+      "title": "The limping child with fever",
+      "presentation": "Nakato, a 6-year-old girl (20 kg) with sickle cell anaemia, presents to the paediatric emergency unit with 3 days of fever and pain in the left leg; she now refuses to walk. She has had painful crises before.",
+      "steps": [
+        { "prompt": "What is your differential diagnosis?", "answer": "**Vaso-occlusive crisis**, **osteomyelitis** (S. aureus, **Salmonella** in sickle cell), **septic arthritis** (hip or knee), **pyomyositis**, avascular necrosis of the femoral head, fracture, and less likely leukaemia." },
+        { "prompt": "How do you examine her?", "answer": "ABC, vitals, pallor, jaundice, hydration; **gait** (refuses), observe the leg position; **look–feel–move**: swelling, redness, warmth, point **bony tenderness** at the metaphysis (osteomyelitis) vs **joint** tenderness, effusion and painful restricted movement (septic arthritis), deep muscle swelling (pyomyositis); hip examination (flexed, abducted, externally rotated = septic hip); examine joints above and below; neurovascular check; spine; other bones." },
+        { "prompt": "Findings: T 39°C, swollen warm left knee with effusion, severely painful on any movement; no bony point tenderness. WCC 22, CRP high. What do you do?", "answer": "Likely **septic arthritis of the left knee**: analgesia (paracetamol 15 mg/kg, opioid if needed), splint, blood culture, **joint aspiration** (Gram stain, culture), hydration, and **IV cloxacillin 50 mg/kg (1 g) 6-hourly plus ceftriaxone** (sickle cell: cover Salmonella) per UCG; orthopaedic referral for washout." },
+        { "prompt": "How long will antibiotics continue and what will you monitor?", "answer": "IV for about **2 weeks**, then oral (e.g. per culture) to complete **4 weeks** (longer if osteomyelitis); monitor fever, CRP, joint swelling and range, Hb (sickle crisis, aplastic crisis), pain; physiotherapy to restore movement." },
+        { "prompt": "What long-term advice is important?", "answer": "Sickle cell care: **hydroxyurea**, folic acid, malaria prevention (bed nets, chemoprophylaxis per UCG), penicillin prophylaxis in young children, **PCV** and other vaccines, early review for fever or bone pain; return immediately if the joint becomes painful again." }
+      ],
+      "takeaway": "A febrile child who will not move a joint has septic arthritis until aspiration proves otherwise; in sickle cell disease cover Salmonella."
+    }
+  ],
+  "references": [
+    { "title": "Pocket Book of Hospital Care for Children, 2nd edition (ETAT, AVPU, coma scales, lumbar puncture contraindications)", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "Uganda Clinical Guidelines 2023: acute flaccid paralysis/poliomyelitis, severe malaria, bacterial meningitis, septic arthritis and osteomyelitis, nodding disease", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management (NG240)", "source": "NICE", "year": 2024, "url": "https://www.nice.org.uk/guidance/ng240/chapter/Recommendations" },
+    { "title": "Cerebral palsy in under 25s: assessment and management (NG62), red flags and signs", "source": "NICE", "year": 2024, "url": "https://www.nice.org.uk/guidance/ng62/chapter/Recommendations" },
+    { "title": "pGALS – paediatric Gait Arms Legs and Spine: a simple examination of the musculoskeletal system (Foster HE, Jandial S)", "source": "Pediatric Rheumatology 11:44", "year": 2013 },
+    { "title": "Clinical features and prognostic indicators in paediatric cerebral malaria: a study of 131 comatose Malawian children (Molyneux ME, Taylor TE, Wirima JJ, Borgstein A) — origin of the Blantyre coma scale", "source": "Quarterly Journal of Medicine 71(265):441–459", "year": 1989 },
+    { "title": "Cerebral Palsy: Practice Essentials (neurological examination findings)", "source": "Medscape / eMedicine", "year": 2024, "url": "https://emedicine.medscape.com/article/1179555-overview" },
+    { "title": "Illustrated Textbook of Paediatrics (Lissauer T, Carroll W): neurological and musculoskeletal examination", "source": "Elsevier", "year": 2022 }
+  ]
+}

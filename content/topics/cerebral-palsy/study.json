@@ -1,0 +1,299 @@
+{
+  "slug": "cerebral-palsy",
+  "flashcards": [
+    { "id": "cpl-f01", "front": "Define cerebral palsy.", "back": "A group of **permanent** disorders of **movement and posture**, causing activity limitation, due to a **non-progressive** disturbance in the **developing** fetal or infant brain; often with epilepsy, sensory, cognitive, communication and behaviour problems and secondary musculoskeletal problems (Rosenbaum 2007)." },
+    { "id": "cpl-f02", "front": "Up to what age can a brain injury cause CP?", "back": "Fetal life to about **2 years** of age (the developing brain)." },
+    { "id": "cpl-f03", "front": "Proportions of spastic, dyskinetic and ataxic CP?", "back": "Spastic **~70–80%**, dyskinetic **~10–15%**, ataxic **<5%**; mixed forms are common." },
+    { "id": "cpl-f04", "front": "Which CP pattern follows periventricular leukomalacia in a preterm baby, and why?", "back": "**Spastic diplegia**: corticospinal fibres to the **legs** run closest to the ventricles in the periventricular white matter." },
+    { "id": "cpl-f05", "front": "Which brain areas are damaged by acute profound asphyxia at term, and what CP results?", "back": "**Basal ganglia and thalamus** → **dyskinetic** CP (or mixed). Prolonged partial asphyxia → watershed cortex → spastic quadriplegia." },
+    { "id": "cpl-f06", "front": "Tetrad of kernicterus sequelae?", "back": "**Dyskinetic CP**, **sensorineural deafness**, **upward-gaze palsy**, **dental enamel dysplasia** ('DDUE')." },
+    { "id": "cpl-f07", "front": "Commonest cause of spastic hemiplegia?", "back": "**Perinatal arterial stroke** (usually MCA territory). Postnatal: sickle cell stroke, head injury, meningitis." },
+    { "id": "cpl-f08", "front": "GMFCS levels I–V (age 6–12)?", "back": "**I** walks without limitations; **II** walks with limitations; **III** walks with a hand-held mobility device; **IV** self-mobility limited, may use powered mobility; **V** transported in a manual wheelchair." },
+    { "id": "cpl-f09", "front": "What does the GMFCS level predict?", "back": "Future mobility, **hip displacement**, scoliosis, feeding/nutrition needs and survival. It is fairly stable after age 2." },
+    { "id": "cpl-f10", "front": "NICE NG62 motor warning signs of CP (corrected age)?", "back": "Not **sitting by 8 months**, not **walking by 18 months**, **hand preference before 1 year**; also abnormal tone, persistent fisting, toe-walking, feeding difficulties." },
+    { "id": "cpl-f11", "front": "Red flags that a child's 'CP' may be another disorder?", "back": "**No risk factors**, **loss of skills**, **family history** of progressive neurological disease, **new focal signs**; also normal MRI, peripheral signs (absent reflexes, fasciculation), abnormal head growth." },
+    { "id": "cpl-f12", "front": "Prevalence of CP in Uganda (Iganga-Mayuge population study)?", "back": "About **3 per 1000 children**, with more severe impairment, malnutrition, epilepsy and postnatal causes than in HIC registers." },
+    { "id": "cpl-f13", "front": "Main causes of CP in Uganda?", "back": "**Birth asphyxia/HIE**, **prematurity**, **neonatal jaundice (kernicterus)**, **neonatal sepsis/meningitis**, hypoglycaemia, **cerebral malaria**, **bacterial meningitis**, head injury, sickle cell stroke, congenital infections." },
+    { "id": "cpl-f14", "front": "Why must every child with developmental delay be tested for HIV in Uganda?", "back": "**HIV encephalopathy** causes delay/regression, acquired microcephaly and spasticity, and improves with **ART** (UCG 2023 recommends testing)." },
+    { "id": "cpl-f15", "front": "How common is epilepsy in CP, and which types carry most risk?", "back": "**15–60%** (about 1 in 3); highest in **spastic quadriplegia** and hemiplegia, and with intellectual disability." },
+    { "id": "cpl-f16", "front": "Leading causes of death in severe CP?", "back": "**Aspiration pneumonia** and **malnutrition** (also status epilepticus)." },
+    { "id": "cpl-f17", "front": "Oral baclofen dosing in a child?", "back": "Start **0.3 mg/kg/day** in 3–4 divided doses, increase every 3 days to **0.75–2 mg/kg/day**; max **40 mg/day (<8 y)**, **60 mg/day (≥8 y)**." },
+    { "id": "cpl-f18", "front": "Main danger of baclofen?", "back": "**Abrupt withdrawal**: seizures, hallucinations, rebound spasticity, hyperthermia. Never stop suddenly; give via NG if nil by mouth." },
+    { "id": "cpl-f19", "front": "Oral diazepam dose for spasticity in children?", "back": "**0.1–0.8 mg/kg/day** divided 6–8-hourly (often a night-time dose); short-term use because of sedation, drooling and tolerance." },
+    { "id": "cpl-f20", "front": "Drug used for dystonic/dyskinetic CP, and the trial you must not forget?", "back": "**Trihexyphenidyl** (specialist input, NICE NG62); always try **levodopa** in unexplained dystonia to catch **dopa-responsive dystonia**." },
+    { "id": "cpl-f21", "front": "Treatment for focal spasticity (e.g. calf causing equinus)?", "back": "**Botulinum toxin A** injection plus **serial casting**/AFOs and physiotherapy; effect lasts 3–6 months." },
+    { "id": "cpl-f22", "front": "UCG 2023 antiepileptic choice by age for generalised tonic–clonic seizures?", "back": "**<2 years: phenobarbital or carbamazepine**; **>2 years: carbamazepine or valproate**. Avoid phenobarbital and phenytoin with intellectual disability/behaviour problems." },
+    { "id": "cpl-f23", "front": "Carbamazepine dosing in children (UCG 2023)?", "back": "Start **5 mg/kg/day**, maintenance **10–20 mg/kg/day** in divided doses." },
+    { "id": "cpl-f24", "front": "Hip surveillance in CP: test and thresholds?", "back": "**AP pelvis X-ray** for Reimers **migration percentage**: **>30% at risk**, **>40% displaced** → orthopaedic referral. Start about age 2, especially GMFCS III–V." },
+    { "id": "cpl-f25", "front": "Safe feeding advice for a child with CP and poor swallowing?", "back": "Feed **upright (90°)** with head slightly flexed, **thickened** textures, small spoonfuls, slow pace; energy-dense food; SLT assessment; NG/gastrostomy if unsafe or poor growth." },
+    { "id": "cpl-f26", "front": "The 'F-words' in childhood disability?", "back": "**Function, Family, Fitness, Fun, Friends, Future** (Rosenbaum and Gorter): set goals in each area." },
+    { "id": "cpl-f27", "front": "Walking prognosis rule of thumb in CP?", "back": "A child who **sits independently by 2 years** will very likely walk (with or without aids); not sitting by about **4 years** → unlikely to walk." }
+  ],
+  "mcqs": [
+    {
+      "id": "cpl-q01",
+      "stem": "A 2-year-old boy born at 29 weeks (birthweight 1.1 kg) is not yet walking. He sits independently and uses his hands to play, but his legs are stiff with brisk knee jerks, ankle clonus and scissoring on vertical suspension. Arms show only mild clumsiness. Which is the MOST likely diagnosis?",
+      "options": [
+        "Spastic hemiplegic CP from a perinatal MCA stroke",
+        "Dyskinetic CP from kernicterus",
+        "Spastic diplegic CP from periventricular leukomalacia",
+        "Ataxic CP from a cerebellar malformation",
+        "Duchenne muscular dystrophy"
+      ],
+      "answer": 2,
+      "explanation": "C is right: a **very preterm** baby with **legs much more affected than arms**, UMN signs and scissoring has **spastic diplegia from PVL** (leg fibres lie nearest the ventricles). A is wrong: hemiplegia affects one side, arm usually more than leg. B is wrong: kernicterus causes involuntary movements and fluctuating tone, not pure spastic legs. D is wrong: ataxic CP gives hypotonia, wide-based gait and tremor, not spasticity. E is wrong: Duchenne causes proximal weakness with reduced reflexes and normal early milestones, not spasticity in a preterm infant.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cpl-q02",
+      "stem": "A 3-year-old girl was diagnosed with 'cerebral palsy' at 18 months because of delayed walking. Her mother now says she used to say 10 words and feed herself, but over 6 months she has stopped talking, has lost weight and her head circumference has fallen from the 50th to below the 3rd centile. Her mother died of an unknown illness last year. Which is the MOST appropriate next step?",
+      "options": [
+        "HIV test (rapid test per the national algorithm) and refer for ART if positive",
+        "Reassure: CP often appears to worsen as the child grows",
+        "Start baclofen to improve her motor function",
+        "Order a hip X-ray for hip surveillance",
+        "Refer to physiotherapy only"
+      ],
+      "answer": 0,
+      "explanation": "A is right: **regression** plus **acquired microcephaly**, weight loss and a mother who died of an unknown illness strongly suggests **HIV encephalopathy**; UCG 2023 says test every child with developmental delay for HIV. ART can halt progression. B is wrong: CP is non-progressive; loss of skills means another diagnosis. C is wrong: baclofen treats spasticity, not the cause. D is wrong: hip surveillance does not address a progressive, treatable disease. E is wrong: physiotherapy alone misses a treatable cause.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cpl-q03",
+      "stem": "A 6-year-old boy with CP walks indoors with a rollator walker and uses a wheelchair pushed by his mother for trips to the market and school. Which GMFCS level BEST describes him?",
+      "options": [
+        "Level I",
+        "Level II",
+        "Level IV",
+        "Level V",
+        "Level III"
+      ],
+      "answer": 4,
+      "explanation": "E is right: walking with a **hand-held mobility device** (walker or crutches) indoors and using a wheelchair for longer distances is **GMFCS III**. A is wrong: level I walks without limitations. B is wrong: level II walks without aids but with limitations (long distances, uneven ground). C is wrong: level IV has limited self-mobility and may use powered mobility; they do not walk functionally with a walker. D is wrong: level V children are transported in a wheelchair and have limited head and trunk control.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cpl-q04",
+      "stem": "A 5-year-old girl with dyskinetic CP has writhing movements of her arms that worsen when she tries to reach, intermittent arching, and drooling. She also does not respond to her name, and her eyes do not look upward. Her mother recalls she was 'very yellow' in the first week of life and had a blood exchange. What should be arranged as a PRIORITY for her development?",
+      "options": [
+        "Brain MRI before anything else",
+        "Formal hearing assessment (OAE/ABR) and audiology",
+        "Hip X-ray every 6 months",
+        "Serum creatine kinase",
+        "EEG"
+      ],
+      "answer": 1,
+      "explanation": "B is right: dyskinetic CP, upward-gaze palsy and neonatal jaundice requiring exchange point to **kernicterus**, which causes **sensorineural deafness**; not responding to her name may be hearing loss rather than cognitive impairment. Early hearing aids and a communication plan matter most. A is wrong: MRI may confirm globus pallidus injury but does not change her immediate developmental care. C is wrong: hip surveillance is relevant but not the most urgent need here. D is wrong: CK is for suspected muscular dystrophy. E is wrong: there is no history of seizures.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "cpl-q05",
+      "stem": "A 4-year-old boy (12 kg, WAZ −2.6) with spastic quadriplegic CP, GMFCS V, is admitted with fever, RR 54 and right basal crackles. His mother says meals take an hour and he coughs and splutters with every feed of thin porridge given by bottle while lying down. After treating the pneumonia, which intervention will MOST reduce his risk of death?",
+      "options": [
+        "Starting oral baclofen",
+        "Weekly physiotherapy for his contractures",
+        "Hip X-ray surveillance",
+        "Safe feeding plan: upright position, thickened energy-dense feeds, SLT assessment and NG/gastrostomy if still unsafe",
+        "Changing his antiepileptic to phenobarbital"
+      ],
+      "answer": 3,
+      "explanation": "D is right: **aspiration pneumonia and malnutrition** are the leading causes of death in severe CP; upright feeding with thickened textures, nutrition support and tube feeding when swallowing is unsafe address both. A is wrong: baclofen treats tone and may worsen trunk control and secretions. B is wrong: physiotherapy is important but does not prevent aspiration deaths. C is wrong: hip surveillance prevents painful dislocation, not death. E is wrong: there is no reason to change, and phenobarbital is sedating and worsens behaviour and cognition.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cpl-q06",
+      "stem": "A 7-year-old (20 kg) with spastic diplegia takes baclofen 10 mg three times daily. He is admitted with gastroenteritis and kept nil by mouth on IV fluids; his baclofen is stopped. On day 2 he becomes agitated, hallucinates, has a temperature of 39.5°C, increased stiffness and a generalised seizure. Which is the MOST likely cause?",
+      "options": [
+        "Baclofen withdrawal",
+        "Febrile convulsion",
+        "Hypernatraemic dehydration",
+        "Bacterial meningitis from the gut",
+        "Neuroleptic malignant syndrome"
+      ],
+      "answer": 0,
+      "explanation": "A is right: **abrupt baclofen withdrawal** causes agitation, hallucinations, hyperthermia, rebound spasticity and seizures; restart it (by NG) and taper only if needed. B is wrong: he is 7, outside the febrile convulsion age range, and hallucinations are not part of it. C is wrong: he is on IV fluids and hypernatraemia would not explain rebound spasticity and hallucinations. D is wrong: gastroenteritis does not cause meningitis, and the timing fits withdrawal. E is wrong: he has received no antipsychotic drug.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "cpl-q07",
+      "stem": "A 9-year-old boy (25 kg) with spastic hemiplegic CP has new focal seizures with secondary generalisation twice a month. He has mild intellectual disability and is often aggressive at school. Using UCG 2023, which is the MOST appropriate first antiepileptic?",
+      "options": [
+        "Phenobarbital 75 mg once daily",
+        "Phenytoin 125 mg twice daily",
+        "Carbamazepine 5 mg/kg/day, increasing to 10–20 mg/kg/day in divided doses",
+        "Ethosuximide",
+        "No treatment until he has status epilepticus"
+      ],
+      "answer": 2,
+      "explanation": "C is right: UCG 2023 recommends **carbamazepine** (or valproate) for children >2 years, starting **5 mg/kg/day** and increasing to **10–20 mg/kg/day**; it suits focal seizures. A and B are wrong: UCG advises **avoiding phenobarbital and phenytoin** in children with intellectual disability or behaviour problems. D is wrong: ethosuximide treats absence seizures only. E is wrong: recurrent seizures need treatment; waiting for status is dangerous.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cpl-q08",
+      "stem": "A 2-year-old boy is referred as 'cerebral palsy' because he walked at 19 months, walks on his toes and falls often. Pregnancy and birth were normal. He has large firm calves, rises from the floor by pushing on his thighs, and has reduced knee jerks. What is the MOST appropriate next investigation?",
+      "options": [
+        "MRI brain",
+        "EEG",
+        "Hip X-ray",
+        "TSH",
+        "Serum creatine kinase"
+      ],
+      "answer": 4,
+      "explanation": "E is right: a boy with **no CP risk factors**, toe-walking, **calf pseudohypertrophy**, **Gowers sign** and **reduced reflexes** probably has **Duchenne muscular dystrophy**; CK is markedly raised. A is wrong: the signs are of muscle disease, not a brain lesion. B is wrong: there are no seizures. C is wrong: hip X-ray is for hip surveillance in established CP. D is wrong: hypothyroidism causes hypotonia and delay but not Gowers sign with pseudohypertrophy.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cpl-q09",
+      "stem": "A 5-year-old girl with GMFCS IV spastic quadriplegia cries during nappy changes. Hip abduction is limited to 15° on the left. An AP pelvis X-ray shows a left migration percentage of 48% and right 18%. What is the MOST appropriate action?",
+      "options": [
+        "Reassure: migration up to 60% is normal in CP",
+        "Refer to orthopaedics for surgical management of the left hip, with analgesia and positioning meanwhile",
+        "Start oral baclofen and repeat the X-ray in 2 years",
+        "Apply a full leg cast for 6 weeks",
+        "Prescribe calcium only"
+      ],
+      "answer": 1,
+      "explanation": "B is right: a migration percentage **>40% = displacement**; with pain and limited abduction she needs **orthopaedic referral** (adductor release/osteotomy) plus pain relief and positioning. A is wrong: >30% is already at risk. C is wrong: baclofen does not reverse hip displacement, and 2 years is far too long to wait. D is wrong: casting does not treat hip displacement. E is wrong: calcium does not address the mechanical problem.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "cpl-q10",
+      "stem": "A 10-month-old boy born at home after a 2-day labour did not cry at birth and fitted on day 1. Now he cannot sit, keeps his hands fisted with thumbs adducted, has a persistent asymmetric tonic neck reflex and stiff legs that cross when held upright. What is the BEST next step at a HC IV?",
+      "options": [
+        "Tell the mother he will catch up and review at 2 years",
+        "Start phenobarbital to prevent seizures",
+        "Refer immediately for selective dorsal rhizotomy",
+        "Explain the likely diagnosis of CP, test for HIV, measure growth, teach positioning/stretching/feeding and refer for physiotherapy and further assessment",
+        "Request a muscle biopsy"
+      ],
+      "answer": 3,
+      "explanation": "D is right: risk factors (asphyxia, neonatal seizures) plus early signs (not sitting, fisting, persistent ATNR beyond 6 months, scissoring) indicate likely **CP**; early intervention, HIV testing (UCG), nutrition and referral for MDT care are the priorities. A is wrong: waiting loses the period of greatest brain plasticity. B is wrong: antiepileptics are not given prophylactically. C is wrong: rhizotomy is a selective specialist procedure for older spastic diplegic walkers, not first management. E is wrong: the signs are of an upper motor neurone lesion, not muscle disease.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cpl-q11",
+      "stem": "A 6-year-old girl with 'dyskinetic CP' was born at term with a normal birth and never had jaundice. Her leg dystonia is mild in the morning but by evening she can barely walk. MRI brain is normal. What is the MOST appropriate next step?",
+      "options": [
+        "Start trihexyphenidyl and accept the diagnosis",
+        "Botulinum toxin to both calves",
+        "Bilateral Achilles tendon lengthening",
+        "Phenobarbital at night",
+        "A trial of levodopa (with carbidopa)"
+      ],
+      "answer": 4,
+      "explanation": "E is right: **no risk factors**, a **normal MRI** and **diurnal variation** suggest **dopa-responsive dystonia**, which responds dramatically to low-dose levodopa. A is wrong: accepting CP misses a treatable mimic. B is wrong: focal treatment does not address the cause. C is wrong: surgery is inappropriate for a treatable neurochemical disorder. D is wrong: phenobarbital does not treat dystonia and causes sedation.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "cpl-q12",
+      "stem": "A 4-year-old boy (15 kg) with spastic diplegia, GMFCS II, has painful night-time spasms and stiffness that make sitting at school difficult. Which is the MOST appropriate oral starting regimen?",
+      "options": [
+        "Baclofen about 1.5 mg three times daily (0.3 mg/kg/day), increasing every 3 days",
+        "Baclofen 20 mg three times daily",
+        "Diazepam 10 mg four times daily",
+        "Phenytoin 5 mg/kg/day",
+        "Carbamazepine 10 mg/kg/day"
+      ],
+      "answer": 0,
+      "explanation": "A is right: baclofen starts at about **0.3 mg/kg/day** (15 × 0.3 = 4.5 mg/day ≈ 1.5 mg three times daily) and is titrated every 3 days towards 0.75–2 mg/kg/day, max 40 mg/day under 8 years. B is wrong: 60 mg/day exceeds the maximum for a child under 8 (40 mg/day) and starts far too high. C is wrong: 40 mg/day of diazepam (about 2.7 mg/kg/day) is a dangerous overdose; the range is 0.1–0.8 mg/kg/day. D and E are wrong: phenytoin and carbamazepine are antiepileptics, not antispasticity drugs.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cpl-q13",
+      "stem": "Which pairing of cause and CP pattern is CORRECT?",
+      "options": [
+        "Periventricular leukomalacia → ataxic CP",
+        "Kernicterus → spastic hemiplegia",
+        "Left middle cerebral artery perinatal stroke → right spastic hemiplegia",
+        "Cerebellar hypoplasia → dyskinetic CP",
+        "Acute profound asphyxia at term → spastic diplegia"
+      ],
+      "answer": 2,
+      "explanation": "C is right: a **left MCA** infarct causes a **right-sided** spastic hemiplegia (arm > leg). A is wrong: PVL causes spastic diplegia. B is wrong: kernicterus causes dyskinetic CP. D is wrong: cerebellar lesions cause ataxic CP. E is wrong: acute profound asphyxia at term injures the basal ganglia/thalamus (dyskinetic) and prolonged partial asphyxia causes quadriplegia; diplegia is typical of preterm PVL.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cpl-q14",
+      "stem": "The mother of a 3-year-old with newly diagnosed CP says her relatives believe the child is cursed, and her husband has left. She asks whether the child should stay home from nursery school. What is the MOST appropriate response?",
+      "options": [
+        "Advise keeping him at home until he can walk",
+        "Explain that CP is caused by an injury to the developing brain, is not a curse or contagious, encourage inclusive schooling, and link her to a parent support group, CBR worker and social worker",
+        "Refer her to a traditional healer to satisfy the relatives",
+        "Tell her that nothing can be done so she should focus on her other children",
+        "Advise residential institutional care"
+      ],
+      "answer": 1,
+      "explanation": "B is right: addressing myths, encouraging **participation and inclusive education**, and linking the family to **parent groups, CBR and social support** is family-centred care that reduces stigma and maternal depression. A is wrong: exclusion harms development and participation. C is wrong: it reinforces harmful beliefs and delays effective care. D is wrong: many interventions improve function, comfort and participation. E is wrong: institutional care is not first-line; children do best with supported families.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cpl-q15",
+      "stem": "Which statement about cerebral palsy is TRUE?",
+      "options": [
+        "Most children with CP have severe intellectual disability",
+        "The brain lesion slowly progresses throughout childhood",
+        "Most CP in high-income countries is due to events during labour",
+        "Spastic CP is the most common motor type",
+        "Ataxic CP is the most common type after preterm birth"
+      ],
+      "answer": 3,
+      "explanation": "D is right: **spastic** CP accounts for about 70–80% of cases. A is wrong: intellectual disability affects about 30–50%, and many (especially diplegia and dyskinetic CP) have normal intelligence. B is wrong: the lesion is non-progressive; only secondary problems change. C is wrong: most CP in HICs has prenatal origins; intrapartum asphyxia explains a minority. E is wrong: spastic diplegia is typical after preterm birth.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "cpl-c01",
+      "title": "The baby who did not cry at birth",
+      "presentation": "Nansubuga brings her 11-month-old son Joel to the Mengo paediatric clinic because 'he cannot sit and his legs are stiff'. He was born at home after a long labour, did not cry for 'a long time' and fitted on the first day. Weight 7.4 kg (WAZ −2.0), length 70 cm (HAZ −1.4), HC 42.5 cm (below the 3rd centile), MUAC 12.8 cm.",
+      "steps": [
+        { "prompt": "What further history do you need?", "answer": "Milestones by domain and **any regression**; antenatal illness, HIV/syphilis status; labour details, resuscitation, neonatal admission, **jaundice**, hypoglycaemia, sepsis; postnatal malaria/meningitis/head injury; seizures now; vision/hearing; **feeding** (time, coughing, chest infections); immunisation; HIV status; family history; social support and beliefs." },
+        { "prompt": "Examination shows head lag, fisted hands with adducted thumbs, persistent ATNR and Moro, brisk reflexes with ankle clonus and scissoring on vertical suspension. What is your assessment?", "answer": "Likely **spastic quadriplegic CP** due to **birth asphyxia (HIE)**, with **microcephaly**, borderline **underweight** and global developmental delay. Persistent primitive reflexes beyond 6 months and scissoring support CP." },
+        { "prompt": "What investigations are appropriate?", "answer": "**HIV test** (UCG 2023), glucose and Hb if unwell, sickle test if indicated; **cranial ultrasound/CT or MRI** where available (cause, hydrocephalus); hearing (OAE/ABR) and vision assessment; EEG only if seizures; TSH if hypotonia or other features." },
+        { "prompt": "How do you break the news?", "answer": "Private room, both parents if possible, ask what they know, use simple words: 'part of Joel's brain was injured around birth; this affects his movement and it will not get worse'. It is not a curse, not contagious, not her fault. Focus on what he can do and what will help. Allow questions; arrange follow-up and written information." },
+        { "prompt": "What is your management plan?", "answer": "**MDT referral**: physiotherapy (positioning, stretching, supported sitting), OT, **SLT feeding assessment**; **nutrition**: upright feeding, thickened energy-dense food, monitor weight monthly; hearing and vision services; seizure plan if fits; immunisation catch-up; link to **CBR worker and a parent group** (e.g. Getting to Know Cerebral Palsy); social work." },
+        { "prompt": "What will you monitor at follow-up?", "answer": "Growth and MUAC, feeding safety and chest infections, seizures, tone and contractures, **GMFCS** classification from about age 2, **hip X-ray** from about 2 years (high risk), vision, hearing, communication, maternal mental health, school inclusion later." }
+      ],
+      "takeaway": "Early diagnosis, nutrition, feeding safety and family support are the most powerful interventions for a Ugandan child with CP."
+    },
+    {
+      "id": "cpl-c02",
+      "title": "Is it really cerebral palsy?",
+      "presentation": "Akello, a 3-year-old girl from Gulu, is referred with 'CP and fits'. She walked at 14 months and spoke in short phrases at 2 years. Over the last 8 months she has stopped speaking, walks on her toes with stiff legs, and has lost weight. Her mother is on ART but Akello has never been tested.",
+      "steps": [
+        { "prompt": "What is the key feature that argues against CP?", "answer": "**Regression**: she achieved walking and phrases normally and then lost skills. CP is **non-progressive**; loss of skills means a progressive or acquired disorder." },
+        { "prompt": "What is the most likely diagnosis, and what other causes would you consider?", "answer": "**HIV encephalopathy** (HIV-exposed, never tested, weight loss, spasticity, regression). Others: TB meningitis sequelae, neurodegenerative/metabolic disease, brain tumour, Rett syndrome (girl with regression, hand-wringing), subacute sclerosing panencephalitis after measles." },
+        { "prompt": "What examination findings would you look for?", "answer": "**Head circumference** trend (acquired microcephaly), growth/MUAC (wasting), lymphadenopathy, oral thrush, hepatosplenomegaly, chronic otitis, signs of TB; neurology: spasticity, reflexes, cranial nerves, fundoscopy; hand stereotypies (Rett)." },
+        { "prompt": "Which investigations will you order first?", "answer": "**HIV rapid test** (child >18 months: antibody algorithm), CD4 and viral load if positive; **CrAg** if CD4 low; CXR and Xpert Ultra if TB suspected; CT/MRI brain (atrophy, basal ganglia calcification); FBC; EEG for fits." },
+        { "prompt": "She is HIV-positive with a CD4 of 9%. What is the management?", "answer": "Start **ART** urgently per the current Uganda consolidated HIV guidelines (after excluding cryptococcal and TB meningitis), **co-trimoxazole prophylaxis**, TB screening and preventive therapy as indicated, nutrition rehabilitation, antiepileptic (carbamazepine; check ART interactions), physiotherapy and family counselling; adherence support." },
+        { "prompt": "What can the family expect?", "answer": "ART often **halts progression** and allows some recovery of skills, though deficits may persist. Regular follow-up of viral load, growth and development; rehabilitation and schooling support; test siblings." }
+      ],
+      "takeaway": "Regression is never CP; in Uganda test every child with developmental delay for HIV."
+    },
+    {
+      "id": "cpl-c03",
+      "title": "The yellow baby who became a floppy, writhing toddler",
+      "presentation": "Mugisha, a 2.5-year-old boy (11 kg), is brought to a regional referral hospital because he cannot sit unsupported and 'his arms and legs move on their own'. He was born at a HC III on day 3 of a public holiday weekend and became very yellow on day 2; he reached hospital on day 6 and had an exchange transfusion. He smiles and laughs appropriately but does not turn to his name.",
+      "steps": [
+        { "prompt": "What type of CP is this, and what is the cause?", "answer": "**Dyskinetic (choreoathetoid/dystonic) CP** from **kernicterus** (bilirubin encephalopathy) after severe neonatal hyperbilirubinaemia treated late." },
+        { "prompt": "What other features of kernicterus will you look for?", "answer": "**Sensorineural hearing loss** (auditory neuropathy), **upward-gaze palsy**, **dental enamel dysplasia** of primary teeth; intellect often relatively preserved (his social smile and laughter are reassuring)." },
+        { "prompt": "What are the immediate priorities in assessment?", "answer": "**Hearing assessment** (OAE may be normal in auditory neuropathy; ABR needed), growth and feeding (dyskinetic children have high energy needs), oromotor function and drooling, seizures, hip examination, communication assessment, HIV status, immunisation." },
+        { "prompt": "Outline his management.", "answer": "Physiotherapy (positioning, supported seating), OT (adapted seating, hand use), **SLT and augmentative communication**, hearing aids/audiology, energy-dense nutrition, **trihexyphenidyl** for dystonia with specialist input (start about 1 mg/day and titrate), drooling management, family support and inclusive education." },
+        { "prompt": "How could this have been prevented?", "answer": "Check every newborn for **jaundice** before discharge and at follow-up visits, teach mothers to recognise yellow skin and poor feeding, measure bilirubin (transcutaneous or serum) and plot against hour-specific thresholds (AAP 2022), early **phototherapy** at HC IV and above, prompt referral for exchange transfusion, and screening for risk factors (prematurity, G6PD deficiency, ABO/Rh incompatibility, sepsis)." }
+      ],
+      "takeaway": "Kernicterus causes dyskinetic CP and deafness; it is entirely preventable with early jaundice detection and phototherapy."
+    }
+  ],
+  "references": [
+    { "title": "Cerebral palsy in under 25s: assessment and management (NG62; 2017, last updated September 2024)", "source": "NICE", "year": 2024, "url": "https://www.nice.org.uk/guidance/ng62/chapter/Recommendations" },
+    { "title": "Cerebral Palsy: Practice Essentials, Background, Anatomy", "source": "Medscape / eMedicine", "year": 2024, "url": "https://emedicine.medscape.com/article/1179555-overview" },
+    { "title": "Cerebral Palsy Treatment & Management", "source": "Medscape / eMedicine", "year": 2024, "url": "https://emedicine.medscape.com/article/1179555-treatment" },
+    { "title": "Cerebral Palsy Medication (muscle relaxants, botulinum toxins, anticholinergics, dopamine prodrugs)", "source": "Medscape / eMedicine", "year": 2024, "url": "https://emedicine.medscape.com/article/1179555-medication" },
+    { "title": "Baclofen (Lioresal): dosing and warnings", "source": "Medscape Drug Reference", "url": "https://reference.medscape.com/drug/lioresal-baclofen-343335" },
+    { "title": "Uganda Clinical Guidelines 2023: section 9.1.1 Epilepsy and HIV developmental monitoring", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "A report: the definition and classification of cerebral palsy, April 2006 (Rosenbaum P, Paneth N, Leviton A, et al.)", "source": "Developmental Medicine & Child Neurology 49(s109):8–14", "year": 2007 },
+    { "title": "Content validity of the expanded and revised Gross Motor Function Classification System (Palisano RJ, Rosenbaum P, Bartlett D, Livingston MH)", "source": "Developmental Medicine & Child Neurology 50(10):744–750", "year": 2008 },
+    { "title": "Prevalence of cerebral palsy in Uganda: a population-based study (Kakooza-Mwesige A, et al.)", "source": "Lancet Global Health 5(12):e1275–e1282", "year": 2017 },
+    { "title": "Early, accurate diagnosis and early intervention in cerebral palsy: advances in diagnosis and treatment (Novak I, et al.)", "source": "JAMA Pediatrics 171(9):897–907", "year": 2017 }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "slug": "febrile-convulsions",
+  "flashcards": [
+    { "id": "fbc-f01", "front": "Define a febrile convulsion.", "back": "A seizure with fever **≥38°C** in a child aged about **6 months to 5 years** (UCG 2023: 3 months to 6 years) **without** CNS infection, metabolic cause or a history of afebrile seizures. A **diagnosis of exclusion**." },
+    { "id": "fbc-f02", "front": "Criteria for a SIMPLE febrile convulsion?", "back": "**Generalised**, lasts **<15 minutes**, **does not recur within 24 h** (same illness), and the child is **fully recovered within 1 hour** ('1-15-1')." },
+    { "id": "fbc-f03", "front": "What makes a febrile convulsion COMPLEX?", "back": "Any of: **focal** onset or Todd's paresis, **≥15 minutes**, **recurrence within 24 h**/same illness, or prolonged altered consciousness (>1 h)." },
+    { "id": "fbc-f04", "front": "Febrile status epilepticus: definition?", "back": "A febrile seizure (or series without recovery) lasting **≥30 minutes**." },
+    { "id": "fbc-f05", "front": "ILAE 2015 time points t1 and t2 for convulsive status epilepticus?", "back": "**t1 = 5 minutes** (start treatment: the seizure is unlikely to stop by itself). **t2 = 30 minutes** (risk of long-term neuronal injury)." },
+    { "id": "fbc-f06", "front": "Rectal diazepam dose for a fitting child?", "back": "**0.5 mg/kg** (= **0.1 mL/kg** of 10 mg/2 mL), **max 10 mg**; repeat once after 10 minutes (UCG 2023, WHO Pocket Book)." },
+    { "id": "fbc-f07", "front": "IV diazepam dose in a child?", "back": "**0.2–0.3 mg/kg** (WHO: 0.25 mg/kg = 0.05 mL/kg) slowly over 1–2 min, max 10 mg. Have a bag-valve-mask ready." },
+    { "id": "fbc-f08", "front": "Buccal midazolam dose for a prolonged seizure?", "back": "**0.3 mg/kg** (range 0.2–0.5 mg/kg), **max 10 mg**; NICE NG217 (2022) first-line in the community. IV 0.15 mg/kg; IM 0.2 mg/kg." },
+    { "id": "fbc-f09", "front": "Maximum number of benzodiazepine doses before a second-line drug?", "back": "**Two** (including any dose given before arrival). Then phenobarbital, phenytoin or levetiracetam." },
+    { "id": "fbc-f10", "front": "Phenobarbital loading dose in status epilepticus (child >1 month)?", "back": "**15–20 mg/kg** IV over 15–20 min (or IM; WHO 15 mg/kg; UCG 10–15 mg/kg), max 1 g. Watch for apnoea and hypotension." },
+    { "id": "fbc-f11", "front": "Phenytoin loading dose and how to give it?", "back": "**15–20 mg/kg IV in 0.9% saline only**, rate **≤1 mg/kg/min** (UCG/WHO: over 60 min), separate good line, cardiac monitoring. Not IM; not in dextrose." },
+    { "id": "fbc-f12", "front": "Levetiracetam dose for established status epilepticus?", "back": "**40 mg/kg IV over 5 minutes, max 3 g** (NICE NG217 2022 suggests it as preferred second-line where available)." },
+    { "id": "fbc-f13", "front": "First-line anticonvulsant in a neonate?", "back": "**Phenobarbital 20 mg/kg** IV/IM; a further **10 mg/kg** after 30 min if needed, up to **40 mg/kg**; maintenance 2.5–5 mg/kg/day (WHO)." },
+    { "id": "fbc-f14", "front": "Treatment of hypoglycaemia in a fitting child?", "back": "**10% dextrose 5 mL/kg IV** rapidly, recheck glucose after 30 min, then dextrose-containing maintenance fluid and feeds. Threshold <3.0 mmol/L (UCG); WHO <2.5 (<3.0 in SAM)." },
+    { "id": "fbc-f15", "front": "UCG 2023 malaria criterion involving convulsions?", "back": "**2 or more convulsions in 24 hours** with parasitaemia = **severe malaria** → IV artesunate." },
+    { "id": "fbc-f16", "front": "IV artesunate dose in a child?", "back": "**3 mg/kg if <20 kg; 2.4 mg/kg if ≥20 kg** at 0, 12 and 24 h, then once daily until oral is tolerated, then full oral ACT; post-discharge chemoprevention (monthly DP for 3 months, UCG 2023)." },
+    { "id": "fbc-f17", "front": "Four risk factors for recurrence of febrile seizures?", "back": "**Age <18 months**, **family history** of febrile seizures, **low peak temperature** at the fit, **short fever duration** before the fit. All 4 → >70%; none → <20%." },
+    { "id": "fbc-f18", "front": "Overall recurrence risk after a first febrile convulsion?", "back": "About **30%** (about 50% if the first was before 12 months)." },
+    { "id": "fbc-f19", "front": "Risk of epilepsy after simple febrile seizures?", "back": "About **1–2%** vs about 1% in all children. Higher after complex seizures, with a family history of epilepsy or neurodevelopmental problems." },
+    { "id": "fbc-f20", "front": "Do antipyretics prevent febrile convulsions?", "back": "**No** (NICE NG143, RCH). Give paracetamol 15 mg/kg 6-hourly for comfort only; NICE also advises against tepid sponging." },
+    { "id": "fbc-f21", "front": "AAP indications for LP after a simple febrile seizure?", "back": "**Meningeal signs or history suggesting meningitis**; an option at **6–12 months if Hib/PCV incomplete or unknown**; an option if **pre-treated with antibiotics**. Uganda: lower threshold (UCG: especially <2 years)." },
+    { "id": "fbc-f22", "front": "Contraindications to LP in a sick child (WHO)?", "back": "Signs of **raised ICP** (unequal pupils, rigid posture/posturing, limb paralysis, irregular breathing), **shock/instability**, **ongoing seizures**, bleeding tendency/low platelets, skin infection at the site. Give antibiotics; LP later." },
+    { "id": "fbc-f23", "front": "Empirical antibiotic for suspected bacterial meningitis in a child (UCG 2023)?", "back": "**Ceftriaxone 100 mg/kg/day IV** (once daily or 12-hourly; max 4 g/day) for 10–14 days; chloramphenicol 25 mg/kg 6-hourly if unavailable." },
+    { "id": "fbc-f24", "front": "Why must phenytoin not be diluted in dextrose?", "back": "It **precipitates** in glucose solutions. Use 0.9% saline and flush the line before and after." },
+    { "id": "fbc-f25", "front": "Three first-aid 'don'ts' for parents during a febrile fit?", "back": "**Don't put anything in the mouth**, **don't restrain** the child, **don't pour water or apply traditional remedies/burns**. Do: time it, lie on side, seek care if >5 min." },
+    { "id": "fbc-f26", "front": "Is a febrile convulsion a reason to stop immunisations?", "back": "**No.** Continue all UNEPI vaccines; they prevent the infections (Hib, pneumococcus, measles) that cause meningitis and seizures." },
+    { "id": "fbc-f27", "front": "Are EEG and CT indicated after a first simple febrile seizure?", "back": "**No.** Reserve for complex/atypical seizures, persistent focal deficit, raised ICP or developmental concerns." }
+  ],
+  "mcqs": [
+    {
+      "id": "fbc-q01",
+      "stem": "A 2-year-old girl (12 kg) is carried into Mengo casualty fitting. Her mother says the generalised jerking started 7 minutes ago at home; nothing was given. There is no IV access yet. Airway is positioned and oxygen is on. Glucose is 4.8 mmol/L. What is the MOST appropriate next step?",
+      "options": [
+        "Wait until the seizure has lasted 15 minutes before giving any drug",
+        "Give diazepam 6 mg rectally",
+        "Give phenobarbital 240 mg IV over 15 minutes",
+        "Give diazepam 6 mg intramuscularly",
+        "Give 10% dextrose 60 mL IV"
+      ],
+      "answer": 1,
+      "explanation": "B is right: a seizure lasting ≥5 minutes needs a benzodiazepine; with no IV access give **diazepam 0.5 mg/kg rectally** (12 kg × 0.5 = 6 mg, max 10 mg). A is wrong: treatment starts at 5 minutes (ILAE t1), not 15; waiting makes benzodiazepines less effective. C is wrong: phenobarbital is second-line after two benzodiazepine doses, and there is no IV line. D is wrong: IM diazepam is absorbed erratically. E is wrong: glucose is normal (4.8 mmol/L), so dextrose is not indicated.",
+      "difficulty": "core"
+    },
+    {
+      "id": "fbc-q02",
+      "stem": "A 15-month-old boy (10 kg) had a 3-minute generalised seizure at home 1 hour ago. He is now playful. Temperature 39.2°C, RR 34, no meningism, fontanelle soft, red bulging left eardrum. Glucose 5.2 mmol/L; malaria RDT negative. He is fully immunised. Which is the MOST appropriate plan?",
+      "options": [
+        "Lumbar puncture, then IV ceftriaxone pending CSF results",
+        "CT scan of the head before discharge",
+        "Start oral phenobarbital 5 mg/kg/day for 6 months",
+        "Treat the otitis media, give paracetamol for comfort, observe and counsel the parents",
+        "Tepid sponge hourly and give paracetamol regularly to prevent another fit"
+      ],
+      "answer": 3,
+      "explanation": "D is right: this is a **simple febrile convulsion** (generalised, <15 min, single, full recovery) with a clear source (otitis media) in a fully immunised child; treat the source, give paracetamol for comfort, observe and counsel. A is wrong: no meningeal signs, full recovery, immunised and >12 months: LP is not indicated. B is wrong: imaging is not indicated for simple febrile seizures. C is wrong: long-term anticonvulsants are not recommended after simple febrile seizures. E is wrong: antipyretics and sponging do not prevent recurrence (NICE NG143).",
+      "difficulty": "core"
+    },
+    {
+      "id": "fbc-q03",
+      "stem": "A 3-year-old (14 kg) has been fitting for 25 minutes. She received rectal diazepam at a HC III 20 minutes ago and IV diazepam 4 mg on arrival 10 minutes ago. An IV line is running and glucose is 5.0 mmol/L. What is the MOST appropriate next drug?",
+      "options": [
+        "Phenobarbital 280 mg IV over 15–20 minutes",
+        "A third dose of IV diazepam 4 mg",
+        "Phenytoin 280 mg IV in 5% dextrose over 5 minutes",
+        "Paracetamol 210 mg rectally",
+        "Midazolam 4 mg buccally"
+      ],
+      "answer": 0,
+      "explanation": "A is right: she has had **two benzodiazepine doses** (one at the HC III counts), so she needs a second-line drug: **phenobarbital 20 mg/kg** (14 × 20 = 280 mg) IV over 15–20 minutes. B is wrong: a third benzodiazepine dose adds respiratory depression with little benefit. C is wrong: phenytoin precipitates in dextrose and must be given at ≤1 mg/kg/min, not over 5 minutes. D is wrong: paracetamol does not stop seizures. E is wrong: midazolam is another benzodiazepine; the maximum of two has been reached.",
+      "difficulty": "core"
+    },
+    {
+      "id": "fbc-q04",
+      "stem": "A 9-month-old boy (8 kg) had a 20-minute fit affecting the right arm and face. Two hours later he is irritable when handled and drowsy (Blantyre 3). Temperature 38.9°C; the fontanelle is full; pupils equal and reactive; no focal weakness; breathing regular; BP normal; platelets 210 × 10⁹/L. He received only 2 of 3 PCV doses. Malaria RDT is positive. What is the MOST appropriate next step?",
+      "options": [
+        "Diagnose cerebral malaria and treat with IV artesunate alone",
+        "Discharge on oral artemether–lumefantrine after observation",
+        "CT scan of the head before any further treatment",
+        "Start daily oral carbamazepine",
+        "Perform a lumbar puncture and start IV ceftriaxone with IV artesunate"
+      ],
+      "answer": 4,
+      "explanation": "E is right: this is a **complex** seizure (focal, 20 min) in an infant with a full fontanelle, irritability, incomplete PCV and slow recovery: **meningitis must be excluded** even though the RDT is positive. There are no signs of raised ICP or shock, so do the LP and treat both (ceftriaxone 100 mg/kg/day + IV artesunate). A is wrong: parasitaemia is common and does not exclude meningitis. B is wrong: a drowsy infant after a complex seizure needs admission. C is wrong: CT would delay treatment and is not routinely needed without raised ICP signs. D is wrong: there is no indication for maintenance anticonvulsants.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "fbc-q05",
+      "stem": "A 4-year-old (16 kg) with fever for 2 days had two generalised convulsions in the last 10 hours, each lasting about 3 minutes. He is now fully alert. Malaria smear: 60,000 parasites/µL; Hb 9.8 g/dL; glucose 5.5 mmol/L; no meningism. According to UCG 2023, what is the BEST management?",
+      "options": [
+        "Oral artemether–lumefantrine and discharge home",
+        "Simple febrile convulsion: paracetamol and reassurance only",
+        "IV artesunate 48 mg at 0, 12 and 24 h, then daily until oral ACT can be taken",
+        "IV quinine as first line",
+        "Blood transfusion and oral ACT"
+      ],
+      "answer": 2,
+      "explanation": "C is right: UCG 2023 defines **2 or more convulsions in 24 h with parasitaemia** as severe malaria; IV artesunate **3 mg/kg** for a child <20 kg (16 × 3 = 48 mg) at 0, 12, 24 h then daily, followed by a full oral ACT course. A is wrong: severe malaria must not be treated with oral ACT alone. B is wrong: two fits in 24 h is by definition complex, and malaria explains them. D is wrong: quinine is only used when artesunate is unavailable. E is wrong: Hb 9.8 g/dL does not need transfusion (threshold Hb <5 g/dL, or <7 with complications per local guidance).",
+      "difficulty": "core"
+    },
+    {
+      "id": "fbc-q06",
+      "stem": "A 6-day-old baby (3 kg) born at home has fever and is having repeated jerking of the limbs with lip-smacking. Glucose is 4.2 mmol/L. An IV line is in. Which is the MOST appropriate anticonvulsant?",
+      "options": [
+        "Phenobarbital 60 mg IV over 15–20 minutes",
+        "Diazepam 1.5 mg rectally",
+        "Phenytoin 60 mg IV in dextrose",
+        "Carbamazepine 15 mg orally",
+        "Paraldehyde 1.2 mL rectally"
+      ],
+      "answer": 0,
+      "explanation": "A is right: in neonates **phenobarbital 20 mg/kg** (3 × 20 = 60 mg) is first line (WHO Pocket Book), with a further 10 mg/kg after 30 min if needed (max 40 mg/kg). This baby also needs a full sepsis/meningitis workup and IV antibiotics. B is wrong: WHO advises phenobarbital instead of diazepam in young neonates. C is wrong: phenytoin is not first line and must never be diluted in dextrose. D is wrong: oral maintenance drugs do not stop an acute seizure. E is wrong: paraldehyde is a legacy drug and not first-line in neonates.",
+      "difficulty": "core"
+    },
+    {
+      "id": "fbc-q07",
+      "stem": "You are about to do an LP on a 2-year-old with fever and a 25-minute fit 3 hours ago. He now has a Blantyre score of 2, the left pupil is larger than the right and sluggish, and he intermittently extends all four limbs. HR 70/min, BP 120/80 mmHg, breathing irregular. What is the MOST appropriate action?",
+      "options": [
+        "Proceed with the LP in the lateral position using a fine needle",
+        "Perform the LP sitting up to reduce the risk of herniation",
+        "Delay all antibiotics until a CT scan is done",
+        "Do not perform the LP; give IV ceftriaxone (and antimalarial if indicated), nurse head-up 30° and seek senior/ICU help",
+        "Give a rapid 20 mL/kg saline bolus to improve cerebral perfusion"
+      ],
+      "answer": 3,
+      "explanation": "D is right: unequal pupils, posturing, bradycardia with hypertension and irregular breathing are **signs of raised ICP**, a contraindication to LP (WHO). Treat empirically now and support ICP (head-up 30°, avoid hypotonic/excess fluid, airway). A and B are wrong: LP in raised ICP risks coning, whatever the position or needle. C is wrong: antibiotics must not be delayed for imaging. E is wrong: he is not in shock; a large bolus may worsen cerebral oedema.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "fbc-q08",
+      "stem": "Which child has the HIGHEST risk of a further febrile convulsion?",
+      "options": [
+        "A 4-year-old whose first fit occurred at 40.5°C after 2 days of fever, no family history",
+        "A 13-month-old whose fit occurred at 38.4°C within 30 minutes of fever onset and whose brother had febrile fits",
+        "A 3-year-old with a simple febrile convulsion caused by malaria",
+        "A 2.5-year-old with a fit at 39.8°C after 24 hours of fever, no family history",
+        "A 5-year-old with a fit after MR vaccination at 9 months who is now well"
+      ],
+      "answer": 1,
+      "explanation": "B is right: this child has **all four recurrence risk factors**: age <18 months, family history, low temperature at the fit, and short fever duration (risk >70%). A is wrong: older age, high temperature and long fever duration are all low-risk features. C is wrong: the cause of fever (malaria) is not a listed risk factor and age 3 is lower risk. D is wrong: no risk factors (risk <20%). E is wrong: a vaccine-associated fit years ago at a now-older age does not predict recurrence; the child is past the usual age range.",
+      "difficulty": "core"
+    },
+    {
+      "id": "fbc-q09",
+      "stem": "A mother of a 20-month-old who had a simple febrile convulsion yesterday asks what she should do if it happens again at home. Which advice is MOST appropriate?",
+      "options": [
+        "Put a spoon between his teeth so he does not bite his tongue",
+        "Hold his arms and legs firmly until the jerking stops",
+        "Pour cold water over him to bring the temperature down quickly",
+        "Give him paracetamol by mouth during the fit",
+        "Lay him on his side on a safe surface, note the time, and go to a health facility if it lasts more than 5 minutes"
+      ],
+      "answer": 4,
+      "explanation": "E is right: the recovery position, timing the fit and seeking care if it lasts >5 minutes (or recurs, or he does not wake properly) is correct first aid. A is wrong: objects in the mouth cause injury and aspiration. B is wrong: restraint can injure the child and does not stop the fit. C is wrong: cold water causes distress and does not stop the seizure. D is wrong: nothing should be given by mouth during a fit (aspiration risk).",
+      "difficulty": "core"
+    },
+    {
+      "id": "fbc-q10",
+      "stem": "An 11-month-old girl (8.5 kg) had a 5-minute generalised fit and is fully alert after 40 minutes. Temperature 39°C; no focus on examination; RDT negative; glucose normal; no meningism. She has had only BCG and the birth OPV dose because the family moved districts. What is the MOST appropriate next step?",
+      "options": [
+        "Discharge with paracetamol; no further tests",
+        "EEG within 48 hours",
+        "Consider a lumbar puncture and examine the urine",
+        "Start intermittent oral diazepam with every future fever",
+        "Prescribe oral amoxicillin and discharge"
+      ],
+      "answer": 2,
+      "explanation": "C is right: she is **6–12 months old and has had no Hib or PCV doses**, so LP is reasonable (AAP option; lower threshold in Uganda), and with no focus a **urine test** is needed to exclude UTI. Catch-up immunisation should follow. A is wrong: with no immunisation and no focus, she needs more assessment. B is wrong: EEG is not indicated after a simple febrile seizure. D is wrong: intermittent diazepam prophylaxis is not routinely recommended. E is wrong: blind antibiotics without a diagnosis may partially treat meningitis and mask it.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "fbc-q11",
+      "stem": "A 3-year-old (15 kg) is in status epilepticus. After two doses of diazepam, phenytoin is chosen. Which prescription is correct?",
+      "options": [
+        "Phenytoin 300 mg IM into the thigh",
+        "Phenytoin 300 mg in 0.9% saline IV over 20–60 minutes with cardiac monitoring",
+        "Phenytoin 300 mg in 5% dextrose IV over 5 minutes",
+        "Phenytoin 75 mg IV push",
+        "Phenytoin 600 mg IV over 30 minutes"
+      ],
+      "answer": 1,
+      "explanation": "B is right: phenytoin **20 mg/kg** (15 × 20 = 300 mg) in **0.9% saline** at **≤1 mg/kg/min** (20–60 min; UCG/WHO over 60 min) with cardiac monitoring through a secure line. A is wrong: IM phenytoin is erratically absorbed and causes tissue necrosis. C is wrong: phenytoin precipitates in dextrose and 5 minutes is far too fast (arrhythmia, hypotension). D is wrong: 5 mg/kg is an inadequate loading dose and a push is dangerous. E is wrong: 40 mg/kg is a double dose.",
+      "difficulty": "core"
+    },
+    {
+      "id": "fbc-q12",
+      "stem": "A 2-year-old (11 kg) with severe acute malnutrition (MUAC 10.8 cm, bilateral pitting oedema) is admitted after a generalised fit. Glucose is 2.7 mmol/L. What is the MOST appropriate immediate step?",
+      "options": [
+        "No treatment: glucose is above 2.5 mmol/L",
+        "Give 50% dextrose 11 mL IV",
+        "Give oral F-75 only after the next feed is due in 3 hours",
+        "Start IV 0.9% saline 20 mL/kg",
+        "Give 10% dextrose 55 mL IV, then feed and recheck glucose in 30 minutes"
+      ],
+      "answer": 4,
+      "explanation": "E is right: in severe malnutrition WHO treats hypoglycaemia at **<3.0 mmol/L** (UCG also uses <3.0): **10% dextrose 5 mL/kg** (11 × 5 = 55 mL) IV, then early feeds and recheck. A is wrong: the 2.5 mmol/L threshold does not apply in SAM. B is wrong: 50% dextrose is hypertonic and damages veins in children; use 10%. C is wrong: a symptomatic, fitting child needs IV glucose now, not a delayed feed. D is wrong: a saline bolus does not treat hypoglycaemia and risks heart failure in SAM.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "fbc-q13",
+      "stem": "Which statement about febrile convulsions is TRUE?",
+      "options": [
+        "Children with simple febrile convulsions have a risk of epilepsy only slightly above that of the general population",
+        "Regular paracetamol during fevers prevents recurrence",
+        "Most simple febrile convulsions cause lasting learning difficulties",
+        "A first simple febrile convulsion needs an EEG",
+        "The peak age is 4–5 years"
+      ],
+      "answer": 0,
+      "explanation": "A is right: the epilepsy risk after simple febrile seizures is about 1–2% compared with about 1% in all children. B is wrong: antipyretics do not prevent recurrence. C is wrong: simple febrile seizures do not affect behaviour, school performance or cognition. D is wrong: EEG is not indicated. E is wrong: the peak age is 12–18 months.",
+      "difficulty": "core"
+    },
+    {
+      "id": "fbc-q14",
+      "stem": "A 7-year-old girl (22 kg) with known sickle cell anaemia presents with fever 38.6°C and a 10-minute fit that started with jerking of the right arm. One hour later she cannot lift her right arm or leg and her speech is slurred. Malaria RDT negative; glucose normal. What is the MOST likely diagnosis?",
+      "options": [
+        "Complex febrile convulsion with Todd's paresis",
+        "Simple febrile convulsion",
+        "Cerebral malaria",
+        "Acute ischaemic stroke complicating sickle cell disease",
+        "Breath-holding attack"
+      ],
+      "answer": 3,
+      "explanation": "D is right: a child with **HbSS** and a new **hemiparesis with dysphasia** has a stroke until proven otherwise; at 7 years she is also outside the febrile convulsion age range. She needs urgent imaging and exchange/simple transfusion per protocol. A is wrong: Todd's paresis is possible, but she is too old for febrile convulsions and the sickle cell history makes stroke the priority diagnosis. B is wrong: a focal 10-minute fit with a deficit is not simple, and the age is wrong. C is wrong: the RDT is negative and the picture is focal. E is wrong: breath-holding attacks are brief, triggered by crying, and do not cause hemiparesis.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "fbc-q15",
+      "stem": "A HC III in Wakiso receives a 3-year-old (14 kg) who is drowsy after two fits today, has a positive malaria RDT and neck stiffness. There are no IV facilities. The child has stopped fitting. What is the BEST pre-referral treatment?",
+      "options": [
+        "Oral artemether–lumefantrine and paracetamol, then refer",
+        "Rectal diazepam 7 mg and refer without antimalarial or antibiotic",
+        "Rectal artesunate 200 mg plus IM ceftriaxone, then urgent referral",
+        "Keep the child for 24 hours of observation before referring",
+        "IM quinine and oral amoxicillin, then refer the next morning"
+      ],
+      "answer": 2,
+      "explanation": "C is right: UCG 2023 advises **pre-referral rectal artesunate** (14–19 kg: 2 × 100 mg suppositories = 200 mg) where IV treatment is not possible, plus a **pre-referral antibiotic** for suspected meningitis, then urgent referral. A is wrong: a drowsy child cannot safely take oral drugs and severe malaria needs parenteral treatment. B is wrong: the fits have stopped, so diazepam is not needed now, and omitting the antimalarial and antibiotic delays life-saving treatment. D is wrong: delaying referral is dangerous. E is wrong: oral amoxicillin does not treat meningitis, and referral must not wait until the morning.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "fbc-c01",
+      "title": "The first fit: a frightened mother at Mengo",
+      "presentation": "Nakato brings her 18-month-old son Brian to Mengo Hospital casualty at 9 pm. One hour ago he 'shook all over and his eyes rolled up' for about 4 minutes at home. He had a runny nose and fever since the afternoon. He is now sleepy but crying when examined.",
+      "steps": [
+        { "prompt": "What are your first actions and what must you check before calling this a febrile convulsion?", "answer": "ETAT ABCD: airway, breathing (SpO₂), circulation, coma score and convulsion status, dehydration. Vital signs. **Glucose** (DEFG). **Malaria RDT**. Assess consciousness (AVPU/Blantyre) and look for **meningism**, a bulging fontanelle and a **rash**. Febrile convulsion is a diagnosis of exclusion." },
+        { "prompt": "What history do you take from Nakato?", "answer": "Exact description (generalised vs focal), duration, number of fits, recovery; fever duration and source symptoms (cough, ear pulling, diarrhoea, urine); vomiting, irritability, neck pain, rash; drugs given (diazepam, antibiotics, herbs); previous fits; development; family history of febrile fits/epilepsy; **UNEPI card** (Hib, PCV); HIV status; feeding and recent weight; possible poisoning." },
+        { "prompt": "Findings: weight 10.5 kg (WAZ −0.4), T 39.4°C, RR 32, HR 140, SpO₂ 98%, Blantyre 5/5 at 1 h, no meningism, red bulging right eardrum. Glucose 5.6 mmol/L, RDT negative. Fully immunised. Sister had febrile fits. What is your diagnosis?", "answer": "**First simple febrile convulsion** (generalised, <15 min, single, full recovery within 1 h) secondary to **right acute otitis media**. No LP needed: >12 months, immunised, no meningism, rapid recovery." },
+        { "prompt": "What treatment do you give?", "answer": "**Amoxicillin** for otitis media (per UCG dosing by weight), **paracetamol 15 mg/kg** (about 160 mg) 6-hourly for comfort, fluids/breastfeeds, light clothing. No anticonvulsant maintenance. Observe overnight (distance, first fit)." },
+        { "prompt": "What is his risk of another febrile fit?", "answer": "He has **two** risk factors (age <18 months and family history), so his risk is higher than the average of about 30%; perhaps around 1 in 2. Explain this honestly but reassure that further simple fits do not harm the brain." },
+        { "prompt": "How do you counsel Nakato before discharge?", "answer": "Explain what a febrile fit is, that it is common and benign, not epilepsy, not witchcraft. Recurrence about 1 in 3 (higher for Brian). Epilepsy risk only about 1–2%. First aid: side position, time it, nothing in the mouth, no restraint or water; go to a facility if >5 min, repeated, or not waking. Paracetamol is for comfort and will not necessarily prevent fits. Continue immunisations; use a mosquito net. Return if drowsy, vomiting, stiff neck or rash." }
+      ],
+      "takeaway": "A simple febrile convulsion is diagnosed only after glucose, malaria and meningitis are considered; then the main treatment is the source of fever plus good counselling."
+    },
+    {
+      "id": "fbc-c02",
+      "title": "Still fitting after two doses",
+      "presentation": "Okello, a 3-year-old boy (14 kg) from Luwero, arrives at the paediatric emergency unit fitting. His father says the fit began 25 minutes ago; at the HC IV he was given rectal diazepam 15 minutes ago. He has had fever for 2 days.",
+      "steps": [
+        { "prompt": "What do you do in the first 2 minutes?", "answer": "Note the times, call for help. Recovery position, suction, **oxygen**, bag-valve-mask ready. Check **glucose** at once. IV/IO access; draw blood for RDT/smear, FBC, culture. Count benzodiazepine doses: **one already given**." },
+        { "prompt": "Glucose is 2.1 mmol/L. What do you give?", "answer": "**10% dextrose 5 mL/kg = 70 mL IV** rapidly; recheck in 30 minutes; then dextrose-containing maintenance fluid. Hypoglycaemia is common in malaria and fasting children and can itself cause fits." },
+        { "prompt": "He is still fitting. Which anticonvulsant now, and at what dose?", "answer": "This will be his **second** benzodiazepine: **IV diazepam 0.2–0.3 mg/kg = about 3.5 mg** (0.25 mg/kg) slowly (or buccal midazolam 0.3 mg/kg = 4.2 mg). Prepare phenobarbital now." },
+        { "prompt": "Ten minutes later he is still fitting. What next?", "answer": "Established status: **phenobarbital 20 mg/kg = 280 mg IV** diluted over 15–20 min (or IM if no line; UCG 10–15 mg/kg), monitoring breathing and BP. Alternative: phenytoin 20 mg/kg (280 mg) in saline over 20–60 min, or levetiracetam 40 mg/kg (560 mg) if available. **No third benzodiazepine.**" },
+        { "prompt": "The fit stops. RDT positive, parasites 300,000/µL, Hb 6.5 g/dL, Blantyre 2 at 1 hour. What are the diagnosis and treatment?", "answer": "**Severe (cerebral) malaria** with hyperparasitaemia, hypoglycaemia and repeated fits. **IV artesunate 3 mg/kg = 42 mg** at 0, 12, 24 h then daily; maintain glucose; transfuse if Hb falls below 5 g/dL or with complications per protocol. Meningitis is not excluded: if no raised-ICP signs do the LP, otherwise start **ceftriaxone 100 mg/kg/day** empirically." },
+        { "prompt": "What monitoring and follow-up are needed?", "answer": "Neuro-observations (Blantyre, pupils) and glucose 1–2-hourly, vital signs, fluid balance, watch for subtle seizures. On recovery: oral ACT course, **post-discharge malaria chemoprevention** (monthly DP for 3 months), hearing/development check, net use, and review for neurological sequelae (cerebral malaria can cause epilepsy, CP-like deficits, behaviour problems)." }
+      ],
+      "takeaway": "Count every benzodiazepine dose, never give more than two, and always treat glucose; in Uganda the 'febrile fit' that does not stop is often cerebral malaria."
+    },
+    {
+      "id": "fbc-c03",
+      "title": "The infant who stays drowsy",
+      "presentation": "Amina, a 9-month-old girl (7.8 kg, WAZ −1.2), is brought to a regional referral hospital after a 20-minute fit involving the left side of her body. She has had fever and vomiting for 3 days and was given an antibiotic syrup from a drug shop yesterday. Two hours later she is still drowsy and irritable when handled.",
+      "steps": [
+        { "prompt": "Why is this not a simple febrile convulsion?", "answer": "It is **focal**, lasted **≥15 minutes**, and she has **not recovered within 1 hour**: a **complex** seizure. Add: 3 days of illness, vomiting, irritability, prior antibiotics. These are red flags for **bacterial meningitis**." },
+        { "prompt": "What examination findings would you look for before an LP?", "answer": "Fontanelle (bulging?), neck stiffness (unreliable at 9 months), petechial rash, pupils, posturing, focal weakness, breathing pattern, HR/BP (Cushing response), CRT and shock, coma score, and platelets/bleeding. Any **raised-ICP sign or shock = no LP now**." },
+        { "prompt": "Fontanelle is bulging; pupils equal; no posturing; breathing regular; BP normal. RDT negative. What next?", "answer": "**Lumbar puncture** (no contraindication), then **ceftriaxone 100 mg/kg/day IV** (780 mg/day) immediately afterwards without waiting for results. Send CSF for cells, Gram stain, protein, glucose (with blood glucose), culture; blood culture; FBC; glucose; HIV test." },
+        { "prompt": "CSF: turbid, WBC 1,200/µL (85% neutrophils), protein 2.1 g/L, glucose 0.8 mmol/L (blood 5.4). Interpret this, given the prior antibiotic.", "answer": "**Bacterial meningitis** (neutrophilic, high protein, CSF:blood glucose ratio 0.15). Prior antibiotics may make the Gram stain and culture negative but do not normalise the cells and glucose this quickly. Treat for **10–14 days**; adjust to culture." },
+        { "prompt": "What supportive care does she need?", "answer": "Treat seizures (benzodiazepine → phenobarbital), glucose monitoring, fluids at about two-thirds maintenance if no shock (watch sodium), NG feeds when safe, antipyretic for comfort, neuro-observations, head circumference daily. Dexamethasone is not routinely used in low-income settings (no benefit shown in African trials)." },
+        { "prompt": "What follow-up do you arrange?", "answer": "**Hearing test** (sensorineural deafness after pneumococcal/Hib meningitis), developmental follow-up, head circumference (hydrocephalus, subdural effusion), seizure follow-up, and **catch-up immunisation** (PCV, DPT-HepB-Hib)." }
+      ],
+      "takeaway": "A complex seizure with slow recovery in an infant, especially after drug-shop antibiotics, is meningitis until the CSF proves otherwise."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023: sections 1.1.5 Febrile Convulsions, 2.1.5 Meningitis, 2.5.2.2 Severe Malaria, 9.1.1 Epilepsy and Status Epilepticus", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Pocket Book of Hospital Care for Children: Guidelines for the Management of Common Childhood Illnesses, 2nd edition (Chart 9, Annex 2)", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "Epilepsies in children, young people and adults (NG217): treating status epilepticus, repeated or cluster seizures and prolonged seizures", "source": "NICE", "year": 2022, "url": "https://www.nice.org.uk/guidance/ng217/chapter/7-Treating-status-epilepticus-repeated-or-cluster-seizures-and-prolonged-seizures" },
+    { "title": "Fever in under 5s: assessment and initial management (NG143)", "source": "NICE", "year": 2021, "url": "https://www.nice.org.uk/guidance/ng143/chapter/Recommendations" },
+    { "title": "Febrile Seizures (overview and treatment)", "source": "Medscape / eMedicine", "year": 2024, "url": "https://emedicine.medscape.com/article/801500-overview" },
+    { "title": "Clinical Practice Guidelines: Febrile seizure", "source": "The Royal Children's Hospital Melbourne", "year": 2024, "url": "https://www.rch.org.au/clinicalguide/guideline_index/Febrile_seizure/" },
+    { "title": "Phenytoin: pediatric dosing (status epilepticus)", "source": "Medscape Drug Reference", "url": "https://reference.medscape.com/drug/dilantin-phenytek-phenytoin-343019" },
+    { "title": "Phenobarbital: pediatric dosing (status epilepticus)", "source": "Medscape Drug Reference", "url": "https://reference.medscape.com/drug/sezaby-phenobarbital-343017" },
+    { "title": "Neurodiagnostic evaluation of the child with a simple febrile seizure (Clinical Practice Guideline)", "source": "American Academy of Pediatrics, Pediatrics 127(2):389–394", "year": 2011 },
+    { "title": "A definition and classification of status epilepticus: Report of the ILAE Task Force on Classification of Status Epilepticus (Trinka et al.)", "source": "Epilepsia 56(10):1515–1523", "year": 2015 },
+    { "title": "WHO Guidelines for malaria (latest consolidated version, replacing the 2021–2025 versions)", "source": "World Health Organization", "year": 2026, "url": "https://www.who.int/publications/i/item/guidelines-for-malaria" }
+  ]
+}

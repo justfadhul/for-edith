@@ -107,3 +107,11 @@ To update a topic, edit `content/topics/<slug>/notes.md` or `study.json`, then r
 - Nephrotic syndrome: local steroid regimen (6+6 weeks or UCG taper vs IPNA/KDIGO 4+4 weeks); local steroid-resistance rate (~20–40% quoted). Kidney failure fluids: UCG 10 mL/kg/day + losses vs ~400 mL/m²/day insensible.
 - Rheumatic fever: benzathine penicillin weight cut-off (UCG 30 kg vs AHA 27 kg); UCG prophylaxis durations as quoted; latent RHD prevalence (~1.5–3%); regional RHD clinics (Lira, Gulu, Mbarara) and regional cancer centres; WHF 2023 echo staging summarised only.
 - Mulago paediatric dialysis capacity; where prostaglandin E1 is available in Uganda.
+
+## Paediatrics: neurology and development
+
+- UCG 2023 §9.1.1 prints child diazepam "0.05 mg/kg PR, 0.02 mg/kg IV" and phenobarbital "0.1 mg/minute" (apparent misprints); notes use 0.5 mg/kg PR and 0.2–0.3 mg/kg IV per UCG §1.1.5 and WHO.
+- Phenytoin maximum loading (local cap 1–1.5 g?); trihexyphenidyl titration; propranolol for tet-spell prevention.
+- Uganda CP prevalence (~3/1000, Kakooza-Mwesige, Lancet Glob Health 2017: citation from memory); postinfectious hydrocephalus share (~60% at CURE Mbale, unsourced); UDHS 2022 stunting/wasting/underweight.
+- PMTCT DNA PCR timing (notes: at 9 months; check full schedule); iron treatment 3 mg/kg/day; malaria vaccine on UNEPI (see immunisation topic).
+- References without URLs to check: AAP 2011 febrile seizure, AAP 2022 Down syndrome, Rosenbaum 2007, Palisano 2008, Novak 2017, Foster pGALS 2013, Molyneux 1989.

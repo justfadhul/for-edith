@@ -1,0 +1,298 @@
+{
+  "slug": "growth-development",
+  "flashcards": [
+    { "id": "gnd-f01", "front": "Four domains of development?", "back": "**Gross motor**; **fine motor and vision**; **speech, language and hearing**; **social, emotional and self-care** (cognition is often added)." },
+    { "id": "gnd-f02", "front": "When does birthweight double, triple and quadruple?", "back": "Doubles by **4–5 months**, triples by **12 months**, quadruples by about **2.5 years**." },
+    { "id": "gnd-f03", "front": "Normal weight loss after birth and when birthweight is regained?", "back": "Up to **7–10%** in the first week; back to birthweight by **2–3 weeks** (NICE NG75: most by 3 weeks; > 10% loss needs feeding assessment)." },
+    { "id": "gnd-f04", "front": "Length at birth, 1 year, 2 years and 4 years?", "back": "**50 cm → 75 cm → ~87 cm → ~100 cm**; then about **5–6 cm/year** until puberty." },
+    { "id": "gnd-f05", "front": "Head circumference at birth and 1 year, and the monthly increments?", "back": "**35 cm → ~46 cm**: +2 cm/month (0–3 m), +1 cm/month (4–6 m), +0.5 cm/month (7–12 m)." },
+    { "id": "gnd-f06", "front": "Define a Z-score and the cut-offs used.", "back": "SDs from the WHO median for age and sex. **< −2 moderate, < −3 severe**; WHZ > +2 overweight, > +3 obese (under 5)." },
+    { "id": "gnd-f07", "front": "Stunting vs wasting vs underweight?", "back": "**Stunting** = low height-for-age (chronic); **wasting** = low weight-for-height or MUAC (acute); **underweight** = low weight-for-age (composite)." },
+    { "id": "gnd-f08", "front": "SAM criteria (WHO 2023, UCG 2023)?", "back": "**WHZ < −3**, or **MUAC < 11.5 cm** (6–59 months), or **bilateral pitting oedema**." },
+    { "id": "gnd-f09", "front": "MAM criteria?", "back": "**WHZ −3 to < −2** or **MUAC 11.5–12.4 cm**." },
+    { "id": "gnd-f10", "front": "How do you measure MUAC correctly?", "back": "**Left** arm, at the **midpoint** between acromion and olecranon, arm hanging relaxed, tape snug but not compressing; only from **6 months**." },
+    { "id": "gnd-f11", "front": "Length or height: which, when?", "back": "**Length lying** under 2 years (or < 87 cm), with two people on a length board; **height standing** from 2 years. Subtract 0.7 cm if a ≥ 2-year-old is measured lying." },
+    { "id": "gnd-f12", "front": "Gross motor limit ages?", "back": "Head control **4 months**; sits unsupported **9 months**; walks alone **18 months**." },
+    { "id": "gnd-f13", "front": "Fine motor and vision limit ages?", "back": "Fixes and follows **3 months**; reaches **6 months**; transfers **9 months**; pincer grip **12 months**." },
+    { "id": "gnd-f14", "front": "Speech and language limit ages?", "back": "Babble by 7–10 months; **6 words with meaning by 18 months**; **2-word phrases by 2 years** (2.5 years at the latest)." },
+    { "id": "gnd-f15", "front": "Social limit ages?", "back": "**Social smile by 8 weeks**; stranger anxiety by 10 months; feeds self with spoon by 18 months; symbolic play by 2–2.5 years." },
+    { "id": "gnd-f16", "front": "Shapes a child can copy by age?", "back": "**Circle 3 y, cross 4 y, square 4.5 y, triangle 5 y**; vertical line 2 y." },
+    { "id": "gnd-f17", "front": "Cube towers by age?", "back": "**3 cubes at 18 months**, **6–7 at 2 years**, **9 at 3 years**." },
+    { "id": "gnd-f18", "front": "When should the Moro, palmar grasp and ATNR disappear, and when does the parachute appear?", "back": "Moro **3–6 months**, palmar grasp **3–4 months**, ATNR **4–6 months**; **parachute appears 6–9 months** and persists." },
+    { "id": "gnd-f19", "front": "Define global developmental delay.", "back": "Significant delay in **two or more domains** in a child **under 5 years** (DQ < 70)." },
+    { "id": "gnd-f20", "front": "How long do you correct for prematurity?", "back": "Until **2 years**: corrected age = chronological age − weeks born before 40 weeks." },
+    { "id": "gnd-f21", "front": "When does the anterior fontanelle close, and causes of delayed closure?", "back": "**12–18 months** (up to 24). Late: **rickets, hypothyroidism, hydrocephalus, Down syndrome**, osteogenesis imperfecta." },
+    { "id": "gnd-f22", "front": "First sign of puberty in girls and boys?", "back": "Girls: **breast bud (thelarche, B2)** ~10–11 y. Boys: **testicular volume ≥ 4 mL (G2)** ~11–12 y." },
+    { "id": "gnd-f23", "front": "Definitions of precocious and delayed puberty?", "back": "Precocious: girls **< 8 y**, boys **< 9 y**. Delayed: girls no breasts by **13 y**; boys testes < 4 mL by **14 y**." },
+    { "id": "gnd-f24", "front": "When does menarche occur relative to thelarche, and peak height velocity in each sex?", "back": "Menarche ~**2–2.5 years after thelarche**, at **B4**. PHV: girls early (B2–3, ~12 y); boys late (G4, ~14 y)." },
+    { "id": "gnd-f25", "front": "Mid-parental height formula?", "back": "Boys: **(father + mother + 13) ÷ 2**; girls: **(father + mother − 13) ÷ 2**; target range **± 8.5 cm**." },
+    { "id": "gnd-f26", "front": "NICE NG75 thresholds for faltering growth?", "back": "Fall across **≥ 1** centile space if birthweight < 9th; **≥ 2** if 9th–91st; **≥ 3** if > 91st; or weight **< 2nd centile**." },
+    { "id": "gnd-f27", "front": "Routine vitamin A and albendazole doses (UCG 2023)?", "back": "Vitamin A **100,000 IU (6–11 m)**, **200,000 IU (12–59 m)** every 6 months. Albendazole **200 mg (1–2 y)**, **400 mg (> 2 y)** every 6 months." },
+    { "id": "gnd-f28", "front": "Why must a child with developmental delay or growth faltering in Uganda have an HIV test?", "back": "HIV causes failure to thrive (up to 50% of infected children) and encephalopathy with delay/regression; **ART** reverses or halts it (UCG 2023)." }
+  ],
+  "mcqs": [
+    {
+      "id": "gnd-q01",
+      "stem": "A 10-month-old boy born at 32 weeks' gestation is brought for review. He rolls both ways and sits with support but not alone; he reaches and transfers objects, babbles 'baba', and smiles at his mother. Tone and reflexes are normal and his head circumference follows the 25th centile. What is the MOST appropriate interpretation?",
+      "options": [
+        "Global developmental delay: refer for MRI",
+        "Gross motor delay suggesting cerebral palsy",
+        "Normal development for chronological age",
+        "Normal development for his corrected age of about 8 months; review in 2 months",
+        "Hearing loss causing delay"
+      ],
+      "answer": 3,
+      "explanation": "D is right: born 8 weeks early, his **corrected age is about 8 months**; sitting alone has a limit age of 9 months and his other skills and neurology are normal. A is wrong: there is no delay in two or more domains once corrected. B is wrong: normal tone, reflexes and other skills make CP unlikely; sitting is not yet overdue. C is wrong: you must use corrected age until 2 years; by chronological age you would wrongly call him delayed. E is wrong: babbling and social smiling suggest normal hearing.",
+      "difficulty": "core"
+    },
+    {
+      "id": "gnd-q02",
+      "stem": "A 2-year-6-month-old boy weighs 10.2 kg and is 84 cm tall. On WHO charts his WAZ is −2.6, HAZ −2.4 and WHZ −1.3. MUAC is 13.4 cm with no oedema. How should his nutritional status be classified?",
+      "options": [
+        "Severe acute malnutrition",
+        "Stunted and underweight, not wasted",
+        "Moderate acute malnutrition",
+        "Normal nutritional status",
+        "Severe stunting with wasting"
+      ],
+      "answer": 1,
+      "explanation": "B is right: HAZ < −2 = **stunting** and WAZ < −2 = **underweight**, but WHZ −1.3 and MUAC 13.4 cm mean he is **not wasted** (chronic, proportionate undernutrition). A is wrong: SAM needs WHZ < −3, MUAC < 11.5 cm or oedema. C is wrong: MAM needs WHZ −3 to −2 or MUAC 11.5–12.4 cm. D is wrong: two Z-scores are below −2. E is wrong: HAZ is −2.4 (moderate, not severe < −3) and there is no wasting.",
+      "difficulty": "core"
+    },
+    {
+      "id": "gnd-q03",
+      "stem": "A 9-month-old girl is brought by her mother, who is worried she always reaches with her right hand and 'keeps the left hand fisted'. She sits alone and babbles. What is the MOST appropriate next step?",
+      "options": [
+        "Reassure: she will be right-handed",
+        "Advise the mother to encourage the left hand and review at 2 years",
+        "Order a karyotype",
+        "Prescribe vitamin D",
+        "Examine carefully for left-sided weakness and refer for neurological assessment"
+      ],
+      "answer": 4,
+      "explanation": "E is right: **hand preference before 12 months is abnormal** and suggests weakness of the other side (e.g. **left hemiplegic CP**, brachial plexus injury); she needs a full neurological examination and referral. A is wrong: handedness is not established until 2–3 years. B is wrong: waiting loses time for early intervention. C is wrong: there are no dysmorphic features or global delay to suggest a chromosomal disorder. D is wrong: rickets does not cause unilateral weakness.",
+      "difficulty": "core"
+    },
+    {
+      "id": "gnd-q04",
+      "stem": "A 15-month-old boy (8.0 kg) has bilateral pitting oedema of both feet and lower legs, MUAC 12.0 cm, WHZ −1.8. He eats the RUTF appetite test well and has no danger signs. What is the MOST appropriate classification and plan according to WHO 2023/UCG 2023?",
+      "options": [
+        "SAM (oedema); outpatient therapeutic care with RUTF if no complications and appetite is good",
+        "MAM; supplementary feeding only",
+        "Normal nutrition because the WHZ is above −2",
+        "Nephrotic syndrome; start prednisolone",
+        "Admit and give IV furosemide for the oedema"
+      ],
+      "answer": 0,
+      "explanation": "A is right: **bilateral pitting oedema = SAM** whatever the WHZ or MUAC; with good appetite and no complications he can be treated in **outpatient therapeutic care**, although oedema +++ or complications would need inpatient care. B is wrong: oedema overrides MUAC; this is not MAM. C is wrong: oedema raises weight and hides wasting. D is wrong: nephrotic syndrome must be excluded with a urine dipstick, but in this context the default is nutritional oedema; steroids are not started blindly. E is wrong: diuretics are contraindicated for nutritional oedema.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "gnd-q05",
+      "stem": "A 2-year-old girl walks, runs, builds a tower of 6 cubes and feeds herself, but says no words. She does not turn when her name is called from behind and had meningitis at 8 months. What is the MOST appropriate next step?",
+      "options": [
+        "Reassure: girls often speak late",
+        "Diagnose autism spectrum disorder and refer to a psychiatrist",
+        "Formal hearing assessment (OAE/ABR) and audiology referral",
+        "Start speech therapy only",
+        "MRI brain"
+      ],
+      "answer": 2,
+      "explanation": "C is right: **isolated speech delay** with no response to her name and a history of **meningitis** (a major cause of sensorineural deafness) means **hearing must be tested first**. A is wrong: no words at 2 years is beyond the 18-month limit age. B is wrong: autism is considered only after hearing is excluded; her play and self-care are good. D is wrong: therapy without knowing her hearing status will fail. E is wrong: imaging does not answer the key question.",
+      "difficulty": "core"
+    },
+    {
+      "id": "gnd-q06",
+      "stem": "Which pair of milestones would a typical 12-month-old child be EXPECTED to show?",
+      "options": [
+        "Copies a circle and rides a tricycle",
+        "Builds a tower of 6 cubes and uses 2-word phrases",
+        "Hops on one foot and dresses without help",
+        "Draws a person with 6 parts and skips",
+        "Neat pincer grip and walks holding on to furniture"
+      ],
+      "answer": 4,
+      "explanation": "E is right: at about 12 months children have a **neat pincer grip** and **cruise** or begin to walk. A is wrong: copying a circle and riding a tricycle are 3-year skills. B is wrong: a 6-cube tower and 2-word phrases are 2-year skills. C is wrong: hopping and dressing independently are 4-year skills. D is wrong: drawing a detailed person and skipping are 5-year skills.",
+      "difficulty": "core"
+    },
+    {
+      "id": "gnd-q07",
+      "stem": "A 7-month-old boy's head circumference was on the 50th centile at birth and at 3 months, but now it is above the 98th centile. He is irritable and vomits; the fontanelle is tense and he looks downwards with the sclera visible above the iris. What is the MOST appropriate next step?",
+      "options": [
+        "Urgent cranial ultrasound through the fontanelle (or CT) and neurosurgical referral",
+        "Reassure: large heads run in families",
+        "Measure again in 3 months",
+        "Start oral vitamin D for rickets",
+        "Lumbar puncture"
+      ],
+      "answer": 0,
+      "explanation": "A is right: an HC **crossing centiles upward**, a tense fontanelle, vomiting and **sunsetting eyes** indicate **hydrocephalus**; image urgently (USS through the open fontanelle) and refer to neurosurgery (e.g. CURE Children's Hospital Mbale, Mulago). B is wrong: familial macrocephaly follows a high centile from birth without symptoms. C is wrong: delay risks brain damage. D is wrong: rickets can cause frontal bossing and a large fontanelle but not raised ICP. E is wrong: LP is dangerous with raised ICP and obstructive hydrocephalus.",
+      "difficulty": "core"
+    },
+    {
+      "id": "gnd-q08",
+      "stem": "A 14-year-old boy is the shortest in his class (HAZ −2.0). His height velocity over the last year is 5 cm. Testicular volume is 3 mL. His father 'grew late, at 17'. Bone age is 11.5 years. Examination is otherwise normal and screening tests (Hb, HIV, urine, TSH) are normal. What is the MOST likely diagnosis?",
+      "options": [
+        "Growth hormone deficiency",
+        "Klinefelter syndrome",
+        "Hypothyroidism",
+        "Constitutional delay of growth and puberty",
+        "Familial short stature"
+      ],
+      "answer": 3,
+      "explanation": "D is right: a short boy with **normal pre-pubertal velocity**, **delayed puberty** (testes < 4 mL at 14), **delayed bone age** and a **family history of late puberty** has **constitutional delay**; expect normal final height. A is wrong: GH deficiency causes a low velocity (< 4 cm/year) with falling centiles. B is wrong: Klinefelter boys are tall with small testes after puberty starts. C is wrong: TSH is normal. E is wrong: in familial short stature puberty and bone age are normal.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "gnd-q09",
+      "stem": "A mother brings her 18-month-old son because 'he used to say mama, dada and ball and wave bye-bye, but over 3 months he has stopped talking, does not look at us, and flaps his hands'. He walks well. His HIV test is negative and hearing is normal. What is the MOST important feature in deciding the next step?",
+      "options": [
+        "His walking is normal, so his development is reassuring",
+        "Boys often talk late, so review at 3 years",
+        "Loss of previously acquired skills (regression), requiring urgent specialist referral",
+        "He needs vitamin A",
+        "He needs a growth chart only"
+      ],
+      "answer": 2,
+      "explanation": "C is right: **regression** of language and social skills is always a red flag (autism spectrum disorder with regression, epileptic encephalopathy, Rett-like or metabolic disorders) and needs urgent specialist assessment. A is wrong: normal motor skills do not offset loss of language and social skills. B is wrong: this is not late talking but loss of skills. D is wrong: vitamin A does not address regression. E is wrong: a growth chart (including HC) is part of the workup but not the deciding feature.",
+      "difficulty": "core"
+    },
+    {
+      "id": "gnd-q10",
+      "stem": "A 6-year-old girl has breast budding (B2) and pubic hair (PH2), with a height velocity of 9 cm in the last year. Her bone age is 8.5 years. What is the MOST appropriate classification and action?",
+      "options": [
+        "Normal puberty: reassure",
+        "Precocious puberty: refer to paediatric endocrinology for evaluation (LH/FSH, pelvic ultrasound, consider MRI brain)",
+        "Premature thelarche: reassure and review in a year",
+        "Delayed puberty",
+        "Obesity-related pseudo-puberty: dietary advice only"
+      ],
+      "answer": 1,
+      "explanation": "B is right: pubertal signs before **8 years** in a girl with **growth acceleration** and **advanced bone age** = **precocious puberty**; she needs endocrine evaluation (central vs peripheral; MRI brain if central, especially under 6–7 years). A is wrong: 6 years is too young. C is wrong: isolated premature thelarche has no pubic hair, no growth spurt and no bone age advance. D is wrong: this is early, not late. E is wrong: there is no mention of obesity, and true pubertal signs with rapid growth need investigation.",
+      "difficulty": "core"
+    },
+    {
+      "id": "gnd-q11",
+      "stem": "A 7-month-old girl is weighed at a HC III. Her weight has fallen from the 50th centile at 4 months to the 9th centile now (crossing 2 centile spaces). She is breastfed and given thin porridge once daily. MUAC 12.8 cm, no oedema, WHZ −1.4, development normal. Her mother's HIV status is unknown. What is the BEST plan?",
+      "options": [
+        "Test mother and child for HIV, counsel on complementary feeding (thick, diverse meals 2–3 times daily plus breastfeeding), give vitamin A 100,000 IU, and review in 2–4 weeks",
+        "Admit for F-75 therapeutic milk",
+        "Start RUTF for SAM",
+        "Stop breastfeeding and start formula",
+        "No action: she is not wasted"
+      ],
+      "answer": 0,
+      "explanation": "A is right: crossing 2 centile spaces is **faltering growth** (NICE NG75); the likely cause is inadequate complementary feeding, but **HIV must be tested** (unknown maternal status). Feeding counselling, vitamin A and early review are appropriate. B is wrong: F-75 is for complicated SAM in inpatient care. C is wrong: she does not meet SAM criteria. D is wrong: breastfeeding should continue to 2 years and beyond. E is wrong: faltering needs action before wasting develops.",
+      "difficulty": "core"
+    },
+    {
+      "id": "gnd-q12",
+      "stem": "A 4-year-old boy cannot copy a circle, speaks only single words, does not play with other children, and cannot walk up stairs. He has a history of cerebral malaria at 18 months with prolonged coma. Hearing and vision are normal. Which term BEST describes his development?",
+      "options": [
+        "Isolated speech delay",
+        "Constitutional delay",
+        "Global developmental delay",
+        "Autism spectrum disorder",
+        "Normal development"
+      ],
+      "answer": 2,
+      "explanation": "C is right: he is delayed in **fine motor, language, social and gross motor** domains (two or more) under 5 years: **global developmental delay**, here probably due to brain injury from cerebral malaria. A is wrong: more than one domain is affected. B is wrong: constitutional delay refers to growth and puberty. D is wrong: autism is defined by social communication difficulties and restricted behaviours, not by motor delay; it is not the best summary of delay in all domains after brain injury. E is wrong: he is far behind the expected milestones.",
+      "difficulty": "core"
+    },
+    {
+      "id": "gnd-q13",
+      "stem": "You are measuring a 20-month-old girl on the ward. Which technique is CORRECT?",
+      "options": [
+        "Measure standing height against a wall with shoes on",
+        "Measure MUAC on the right arm while it is flexed at 90°",
+        "Measure head circumference around the ears and below the occiput",
+        "Weigh her fully dressed and subtract an estimate for clothes",
+        "Measure length lying on a length board with two people, head against the headboard and knees straightened"
+      ],
+      "answer": 4,
+      "explanation": "E is right: under 2 years, measure **length lying** on a length board with **two people**. A is wrong: standing height is used from 2 years and never with shoes. B is wrong: MUAC is measured on the **left** arm hanging relaxed (flex only to find the midpoint). C is wrong: HC is the maximal **occipitofrontal** circumference above the eyebrows and around the occiput. D is wrong: infants should be weighed naked or in minimal clothing; estimates add error.",
+      "difficulty": "core"
+    },
+    {
+      "id": "gnd-q14",
+      "stem": "A 13-year-old girl (HAZ −2.8) has no breast development. She has a low posterior hairline, a wide carrying angle and widely spaced nipples. Her parents are of average height. What is the MOST appropriate investigation?",
+      "options": [
+        "Bone age only and reassure",
+        "Karyotype",
+        "Growth hormone stimulation test first",
+        "Pelvic MRI",
+        "Serum calcium"
+      ],
+      "answer": 1,
+      "explanation": "B is right: short stature, **delayed puberty** and features such as a low hairline, cubitus valgus and a broad chest suggest **Turner syndrome (45,X)**; a **karyotype** confirms it (and should be considered in any unexplained short girl). A is wrong: reassurance misses Turner syndrome with ovarian failure and cardiac/renal associations. C is wrong: GH testing is not first-line here; Turner girls are not GH-deficient. D is wrong: imaging the ovaries is secondary. E is wrong: calcium does not explain this picture.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "gnd-q15",
+      "stem": "Which statement about normal growth and development is CORRECT?",
+      "options": [
+        "The posterior fontanelle closes at 12–18 months",
+        "The palmar grasp reflex should persist until 12 months",
+        "Boys reach peak height velocity earlier in puberty than girls",
+        "A child's height at 2 years is roughly half of adult height",
+        "The parachute reflex disappears by 6 months"
+      ],
+      "answer": 3,
+      "explanation": "D is right: height at 2 years is roughly **half of final adult height**. A is wrong: the **posterior** fontanelle closes by 6–8 weeks; it is the anterior that closes at 12–18 months. B is wrong: the palmar grasp disappears by 3–4 months to allow voluntary reaching. C is wrong: girls reach PHV early (B2–3) and boys late (G4). E is wrong: the parachute **appears** at 6–9 months and persists for life.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "gnd-c01",
+      "title": "The baby who stopped growing",
+      "presentation": "Nabukeera, a 9-month-old girl, is brought to the Mengo young child clinic for measles-rubella vaccination. The nurse notes her weight is 6.6 kg; at 4 months it was 6.4 kg. Her mother is on ART. Birthweight was 3.1 kg at term.",
+      "steps": [
+        { "prompt": "What measurements will you take and how?", "answer": "**Weight** naked on a zeroed scale; **length lying** on a length board with two people; **MUAC** on the left arm (from 6 months); **head circumference**; check **oedema** on both feet. Plot on WHO charts for a girl and calculate WAZ, LAZ, WLZ, HCZ." },
+        { "prompt": "Results: WAZ −2.0, LAZ −1.7, WLZ −1.2, MUAC 12.3 cm, HC normal, no oedema. Interpret.", "answer": "**Growth faltering** (weight crossed from about the 25th centile to below the 3rd: ≥ 2 centile spaces) with **moderate underweight** and **MAM by MUAC** (11.5–12.4 cm); not severely wasted; length is relatively preserved, so this is recent." },
+        { "prompt": "What history will you take?", "answer": "Breastfeeding frequency; when complementary foods started; **24-hour recall** (what, how thick, how often, animal-source foods, who feeds); diarrhoea, cough, fevers; HIV exposure: mother's viral load, child's **DNA PCR results**, co-trimoxazole; immunisations, vitamin A, deworming; development; social situation and food security." },
+        { "prompt": "She was exclusively breastfed to 4 months, then given thin maize porridge twice a day, no eggs, fish or beans; 3 diarrhoeal episodes in 2 months. Development is normal. What investigations?", "answer": "**HIV DNA PCR** per the national PMTCT schedule, Hb, malaria test if febrile, urine dipstick if unexplained fevers, stool if persistent diarrhoea; TB screen if cough or contact. No complex tests needed if she responds to feeding." },
+        { "prompt": "What is your management?", "answer": "**Complementary feeding counselling**: continue breastfeeding; thick porridge enriched with groundnut/simsim paste, milk or egg; mashed beans, fish, vegetables, fruit; **3–4 meals/day from 9 months** plus snacks; responsive feeding, separate bowl. **Vitamin A 100,000 IU**, MR vaccine today, hygiene and handwashing, ORS and **zinc 20 mg daily for 10 days** for future diarrhoea; supplementary food if available. Review in **2 weeks**." },
+        { "prompt": "At review 1 month later she has lost weight and has persistent diarrhoea. What now?", "answer": "Re-measure; screen for SAM. Persistent faltering despite counselling needs a search for **HIV, TB, persistent diarrhoea/malabsorption, UTI** and a home visit or social assessment; treat persistent diarrhoea per UCG; refer to the paediatric clinic; if SAM criteria are met, start the SAM protocol." }
+      ],
+      "takeaway": "Measure, plot and act on the trend; most faltering is feeding-related, but HIV and TB must be excluded in Uganda."
+    },
+    {
+      "id": "gnd-c02",
+      "title": "Not walking at 20 months",
+      "presentation": "Kato, a 20-month-old boy, is brought because he 'does not walk yet'. He was born at 34 weeks at a HC IV, admitted for 2 weeks for 'yellowness and breathing problems'. He sits well, crawls, pulls to stand, says 'mama', 'baba', 'tata' and 'cup', and points to show things.",
+      "steps": [
+        { "prompt": "What is his corrected age, and is he delayed?", "answer": "Corrected age ≈ **20 − 1.5 = 18.5 months**. The limit age for walking is **18 months**, so he is at or just past the limit for walking; language (4 words, pointing) and social skills are about right. This is **isolated gross motor delay**: assess carefully." },
+        { "prompt": "What features in the history and examination would point to CP?", "answer": "Risk factors (prematurity, **neonatal jaundice**, respiratory problems); examination: increased tone in the legs, brisk reflexes, clonus, **scissoring**, toe-walking when supported, persistent primitive reflexes, asymmetry, involuntary movements (kernicterus). Also check hips, spine and feet." },
+        { "prompt": "What other causes of late walking will you consider?", "answer": "**Benign late walking** (bottom-shufflers, familial), **Duchenne muscular dystrophy** (boy: Gowers sign, calves, CK), neuromuscular disease (reflexes, fasciculation), **rickets** (bowing, wrist widening), developmental dysplasia of the hip, hypothyroidism, global delay (but his language is normal), lack of opportunity." },
+        { "prompt": "Examination: normal tone, reflexes and plantar responses; hips abduct fully; no bowing; he bears weight well and cruises. What do you advise?", "answer": "Likely **normal variation** (late walker) given normal neurology and other domains. Reassure, encourage practice (barefoot, push-along toy), measure growth, and **review in 2–3 months**; refer if not walking by about 2 years corrected, if new signs appear, or if any regression. Consider CK if a boy develops a Gowers sign." },
+        { "prompt": "What else must you check in this baby with a history of neonatal jaundice?", "answer": "**Hearing** (kernicterus causes auditory neuropathy), eye movements (upward gaze), teeth (enamel dysplasia), and subtle dystonia; his language is reassuring but formal hearing testing is wise." }
+      ],
+      "takeaway": "Interpret milestones with corrected age, by domain, and with a careful neurological examination; isolated late walking with normal neurology is often benign."
+    },
+    {
+      "id": "gnd-c03",
+      "title": "The short 13-year-old",
+      "presentation": "Atim, a 13-year-old girl from Lira, is referred because she is 'much shorter than her classmates'. Height 132 cm (HAZ −2.9), weight 28 kg. She has no breast development. Her father is 170 cm and her mother 160 cm.",
+      "steps": [
+        { "prompt": "Calculate her mid-parental height and interpret it.", "answer": "MPH = (170 + 160 − 13) ÷ 2 = **158.5 cm**; target range **150–167 cm**. Her current height is well below what her parents' heights predict, so **familial short stature is unlikely**." },
+        { "prompt": "What history will you take?", "answer": "Previous heights (school/clinic records) to estimate **velocity**; birthweight; chronic symptoms (diarrhoea, abdominal pain, cough, fevers); HIV status; sickle cell disease; diet and food security; headaches, visual problems, polyuria (pituitary); thyroid symptoms; school performance; family history of late puberty; recurrent ear infections or heart/kidney problems (Turner)." },
+        { "prompt": "On examination she has a low posterior hairline, wide carrying angle, widely spaced nipples, Tanner B1 PH1, BP 128/80 in the right arm with weak femoral pulses. What is the likely diagnosis?", "answer": "**Turner syndrome (45,X)** with probable **coarctation of the aorta** (raised arm BP, weak femoral pulses). Turner syndrome causes short stature and **ovarian failure** (delayed puberty)." },
+        { "prompt": "Which investigations will you request?", "answer": "**Karyotype** (Mulago/MakCHS genetics or private lab), **echocardiogram** (coarctation, bicuspid aortic valve), **renal ultrasound** (horseshoe kidney), TSH (autoimmune thyroiditis), LH/FSH (raised), bone age, hearing test; screen for coeliac disease and diabetes later." },
+        { "prompt": "What management does she need?", "answer": "Referral to **paediatric endocrinology** and **cardiology** (coarctation repair at the Uganda Heart Institute). **Growth hormone** improves final height (expensive, rarely available in Uganda); **oestrogen replacement** at about 11–12 years to induce puberty and protect bone; counselling about fertility (usually infertile; assisted reproduction with donor eggs), psychosocial support, school support." }
+      ],
+      "takeaway": "Always compare a short child with the parents' heights and look at puberty; a short girl with delayed puberty needs a karyotype for Turner syndrome."
+    }
+  ],
+  "references": [
+    { "title": "WHO Child Growth Standards (length/height-for-age, weight-for-age, weight-for-length/height, BMI-for-age, head circumference and MUAC-for-age; motor development milestones)", "source": "World Health Organization", "year": 2006, "url": "https://www.who.int/tools/child-growth-standards/standards" },
+    { "title": "CDC's Developmental Milestones (Learn the Signs. Act Early.; 2022 revised checklists)", "source": "Centers for Disease Control and Prevention", "year": 2022, "url": "https://www.cdc.gov/act-early/milestones/index.html" },
+    { "title": "Faltering growth: recognition and management of faltering growth in children (NG75)", "source": "NICE", "year": 2017, "url": "https://www.nice.org.uk/guidance/ng75/chapter/Recommendations" },
+    { "title": "Uganda Clinical Guidelines 2023: growth and development monitoring (HIV chapter), IMCI medicines (vitamin A, deworming, zinc, iron), National Immunization Schedule (UNEPI 2022)", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Precocious Puberty: Practice Essentials, Pathophysiology, Epidemiology", "source": "Medscape / eMedicine", "year": 2024, "url": "https://emedicine.medscape.com/article/924002-overview" },
+    { "title": "WHO guideline on the prevention and management of wasting and nutritional oedema (acute malnutrition) in infants and children under 5 years", "source": "World Health Organization", "year": 2023 },
+    { "title": "WHO Guideline for complementary feeding of infants and young children 6–23 months of age", "source": "World Health Organization", "year": 2023 },
+    { "title": "Pocket Book of Hospital Care for Children, 2nd edition", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "Illustrated Textbook of Paediatrics (Lissauer T, Carroll W), chapters on growth, development and puberty", "source": "Elsevier", "year": 2022 }
+  ]
+}
