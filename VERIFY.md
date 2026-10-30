@@ -115,3 +115,11 @@ To update a topic, edit `content/topics/<slug>/notes.md` or `study.json`, then r
 - Uganda CP prevalence (~3/1000, Kakooza-Mwesige, Lancet Glob Health 2017: citation from memory); postinfectious hydrocephalus share (~60% at CURE Mbale, unsourced); UDHS 2022 stunting/wasting/underweight.
 - PMTCT DNA PCR timing (notes: at 9 months; check full schedule); iron treatment 3 mg/kg/day; malaria vaccine on UNEPI (see immunisation topic).
 - References without URLs to check: AAP 2011 febrile seizure, AAP 2022 Down syndrome, Rosenbaum 2007, Palisano 2008, Novak 2017, Foster pGALS 2013, Molyneux 1989.
+
+## Paediatrics: infections
+
+- Malaria: post-discharge DP chemoprevention (UCG all severe malaria vs WHO severe anaemia only); rectal artesunate bands (UCG); Sept 2026 WHO update (AL for <5 kg, vaccine 3 vs 4 doses: recommendations not read); vaccine districts 105 vs 107 and product name; CARAMAL statement from memory.
+- Meningitis: routine dexamethasone on Ugandan wards (unsourced); neonatal gentamicin (UCG 2.5 mg/kg 12-hourly vs WHO 5 mg/kg daily, 3 mg/kg LBW); WHO 2022 6-month TBM regimen in Uganda; cryptococcal doses (L-AmB 10 mg/kg, fluconazole 12 mg/kg); northern Uganda and the meningitis belt.
+- Measles: vitamin A (UCG days 1, 2, 14 for all vs WHO 2 doses); tetracycline eye ointment (UCG 12-hourly × 5 days vs WHO 3×/day × 7 days); outbreak doses from 6 months; year of MR2 introduction.
+- Worms: piperazine and delaying albendazole in Ascaris obstruction; arpraziquantel availability; S. haematobium foci; Child Days deworming ages.
+- UTI: local E. coli/ESBL resistance claims (no local citation); DMSA/MCUG availability; UCG cefixime dosing (16 mg/kg day 1 then 8 mg/kg).

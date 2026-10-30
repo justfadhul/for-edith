@@ -1,0 +1,280 @@
+{
+  "slug": "uti-children",
+  "flashcards": [
+    { "id": "utic-f01", "front": "Which febrile children need a urine test?", "back": "Any infant or young child with **fever and no obvious source** (even after a negative malaria test), all febrile infants under 3 months, and children with urinary symptoms. Half of infants with UTI have fever only." },
+    { "id": "utic-f02", "front": "Preferred urine collection methods in children (NICE)?", "back": "**Clean catch** first; if not possible, **urine collection pad** (never cotton wool/gauze); if not possible or very sick, **catheter** or **ultrasound-guided SPA**. Bag samples only to rule out (negative is useful)." },
+    { "id": "utic-f03", "front": "Significant culture growth by method?", "back": "**SPA: any growth**; **catheter: ≥10,000 CFU/mL** (AAP ≥50,000 in febrile 2–24 month olds); **clean catch: ≥100,000 CFU/mL** of a single organism. Mixed growth = contamination." },
+    { "id": "utic-f04", "front": "Nitrite and leucocyte esterase: sensitivity and specificity?", "back": "**Nitrite**: specific (>90%) but **sensitivity ~50%** (needs ~4 h bladder dwell and nitrate-reducing organisms; often negative in infants). **LE**: sensitivity ~80%, less specific." },
+    { "id": "utic-f05", "front": "NICE dipstick strategy for children 3 months to 3 years?", "back": "**LE or nitrite (or both) positive → send culture and give antibiotics.** Both negative → no antibiotics and no culture unless other criteria apply. Under 3 months: urgent microscopy and culture instead." },
+    { "id": "utic-f06", "front": "NICE dipstick strategy for children ≥3 years?", "back": "LE+ nitrite+ → treat (culture if high/intermediate risk or previous UTI); LE− nitrite+ → treat and culture; LE+ nitrite− → culture, treat only with good clinical evidence; both negative → not UTI." },
+    { "id": "utic-f07", "front": "Definition of upper UTI (NICE)?", "back": "Bacteriuria with **fever ≥38 °C**, or bacteriuria with fever <38 °C and **loin pain/tenderness**. Bacteriuria without systemic features = lower UTI." },
+    { "id": "utic-f08", "front": "Atypical UTI (NICE)?", "back": "**Seriously ill; poor urine flow; abdominal or bladder mass; raised creatinine; septicaemia; failure to respond within 48 h; non-*E. coli* organism.** (SPARSE-N)" },
+    { "id": "utic-f09", "front": "Recurrent UTI (NICE)?", "back": "**≥2 upper UTIs**, or **1 upper + ≥1 lower**, or **≥3 lower UTIs**." },
+    { "id": "utic-f10", "front": "Commonest organisms in childhood UTI?", "back": "***E. coli* (80–90%)**; *Klebsiella*, *Proteus* (boys, stones), *Enterococcus* (infants, abnormal tracts), *Pseudomonas* (catheters), *S. saprophyticus* (adolescent girls). ESBL producers increasing." },
+    { "id": "utic-f11", "front": "Management of UTI in an infant under 3 months?", "back": "**Admit; IV antibiotics**: neonate **ampicillin 50 mg/kg + gentamicin** (5 mg/kg term week 1; 3 mg/kg LBW); 1–3 months cefotaxime/ceftriaxone + ampicillin; **blood culture**, consider **LP**; 10–14 days total; ultrasound." },
+    { "id": "utic-f12", "front": "UCG 2023 treatment of pyelonephritis in children?", "back": "**Ceftriaxone 50–80 mg/kg IV once daily**, then **cefixime** (16 mg/kg day 1 then 8 mg/kg/day) to complete **10 days**; alternative **gentamicin 7.5 mg/kg once daily** ± ampicillin. Refer recurrent infections." },
+    { "id": "utic-f13", "front": "UCG 2023 treatment of cystitis in children?", "back": "**Nitrofurantoin 3 mg/kg/day in 4 divided doses for 7 days** (after meals); second line amoxicillin (only if sensitive). NICE: 3 days for children over 3 months." },
+    { "id": "utic-f14", "front": "Why not use nitrofurantoin for pyelonephritis?", "back": "It achieves **urinary but not renal tissue or blood levels**, so it cannot treat kidney infection or bacteraemia. Use it only for cystitis." },
+    { "id": "utic-f15", "front": "NICE imaging for a child under 6 months with a first typical UTI responding within 48 h?", "back": "**Ultrasound within 6 weeks**; if abnormal, consider MCUG. No DMSA or routine MCUG." },
+    { "id": "utic-f16", "front": "NICE imaging for atypical UTI under 6 months?", "back": "**Ultrasound during the acute infection**, **DMSA 4–6 months** later, and **MCUG**." },
+    { "id": "utic-f17", "front": "NICE imaging for a child 6 months–3 years with recurrent UTI?", "back": "**Ultrasound within 6 weeks** and **DMSA at 4–6 months**; MCUG not routine (consider if dilatation, poor flow, non-*E. coli*, family history of VUR)." },
+    { "id": "utic-f18", "front": "AAP 2011 imaging for febrile UTI at 2–24 months?", "back": "**Renal and bladder ultrasound after the first febrile UTI**; **VCUG only if the ultrasound is abnormal** (hydronephrosis, scarring, suspected high-grade VUR/obstruction) or after a **second** febrile UTI." },
+    { "id": "utic-f19", "front": "VUR grades I–V?", "back": "**I** ureter only; **II** ureter + pelvis/calyces, no dilatation; **III** mild–moderate dilatation; **IV** moderate dilatation and tortuosity, blunted fornices; **V** gross dilatation/tortuosity, loss of papillary impressions." },
+    { "id": "utic-f20", "front": "What did the RIVUR trial (2014) show?", "back": "In children 2–71 months with **VUR grade I–IV** after a febrile UTI, TMP–SMX prophylaxis **roughly halved recurrent UTIs** but **did not reduce renal scarring**, and increased resistant infections." },
+    { "id": "utic-f21", "front": "Prophylactic antibiotic doses?", "back": "**Trimethoprim 2 mg/kg at night** (max 100 mg) or **nitrofurantoin 1 mg/kg at night** (max 50 mg); **cefalexin ~10–12.5 mg/kg** at night under 6 weeks. Not routine after a first UTI." },
+    { "id": "utic-f22", "front": "Clues to posterior urethral valves?", "back": "**Infant boy** with UTI, **weak or dribbling stream**, straining, **palpable bladder**, bilateral hydronephrosis/antenatal hydronephrosis, raised creatinine. **Catheterise**, ultrasound, **MCUG**, urgent paediatric urology." },
+    { "id": "utic-f23", "front": "What is bladder and bowel dysfunction?", "back": "**Voiding dysfunction** (holding, infrequent voiding, incomplete emptying, wetting) with **constipation**; a major cause of recurrent UTI in school-age children. Treat constipation and use timed voiding." },
+    { "id": "utic-f24", "front": "When is a DMSA scan done and what does it show?", "back": "**4–6 months after** an atypical/recurrent UTI (per age, NICE); shows **renal parenchymal scars** and differential function. In Uganda: Mulago nuclear medicine only." },
+    { "id": "utic-f25", "front": "Follow-up for a child with renal scarring?", "back": "**Height, weight, blood pressure and urine protein**; refer to a paediatric nephrologist if bilateral scars, raised BP, proteinuria or impaired renal function (NICE)." },
+    { "id": "utic-f26", "front": "How fast must urine reach the lab?", "back": "Culture within **4 hours** or refrigerate (NICE); UCG 2023: within **2 hours**, or refrigerate at 4 °C for no more than **24 hours**." },
+    { "id": "utic-f27", "front": "Should asymptomatic bacteriuria be treated in children?", "back": "**No** (NICE) — treatment does not prevent scarring and promotes resistance (exceptions such as pregnancy or before urological surgery)." }
+  ],
+  "mcqs": [
+    {
+      "id": "utic-q01",
+      "stem": "A 10-month-old girl (8.4 kg) has had fever of 39.4 °C for 2 days without cough, diarrhoea or rash. She is alert and feeding, HR 150, RR 38, CRT 2 s. Ears, throat and chest are normal. Malaria RDT is negative. What is the MOST appropriate next step?",
+      "options": [
+        "Reassure: viral fever; paracetamol and review in 3 days",
+        "Start oral amoxicillin empirically",
+        "Repeat the malaria RDT tomorrow before any other test",
+        "Attach a urine bag and send the sample for culture",
+        "Collect a clean-catch (or pad) urine for dipstick, and send culture if positive"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: fever without a source in a child under 2 with a negative RDT needs a **urine test**; a **clean-catch** (or pad) sample is preferred, with **dipstick** (LE/nitrite) and **culture if positive** (NICE). A is wrong: UTI is found in about 5–7% of such children and can scar the kidney. B is wrong: amoxicillin is a poor empirical choice in Uganda and treating without a sample prevents diagnosis. C is wrong: a negative RDT with no symptoms of malaria should prompt a search for other causes now. D is wrong: bag cultures have a very high false-positive rate; a positive bag culture is unreliable."
+    },
+    {
+      "id": "utic-q02",
+      "stem": "A 3-week-old boy (3.6 kg) presents with fever 38.6 °C, poor feeding, jaundice and lethargy. HR 182, CRT 3 s. Catheter urine: leucocytes 2+, nitrite negative, microscopy shows pyuria and Gram-negative rods. What is the BEST management?",
+      "options": [
+        "Oral cefixime and outpatient review",
+        "Oral nitrofurantoin for 7 days",
+        "Admit; blood culture, consider LP; IV ampicillin plus gentamicin (or cefotaxime plus ampicillin); fluids; 10–14 days of treatment",
+        "Wait for urine culture before starting antibiotics",
+        "IV ceftriaxone running with Ringer's lactate"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: a febrile, lethargic neonate with UTI has presumed **urosepsis**; admit, take **blood culture**, consider **LP**, and give **IV ampicillin + gentamicin** (or cefotaxime + ampicillin) with fluid support; treat for 10–14 days. A is wrong: infants under 3 months need parenteral treatment in hospital (NICE). B is wrong: nitrofurantoin doesn't treat sepsis or pyelonephritis and is avoided in neonates. D is wrong: treatment must not be delayed in a septic infant. E is wrong: ceftriaxone is avoided in a **jaundiced neonate** and must not be given with **calcium-containing fluids**. A negative nitrite does not exclude UTI in infants."
+    },
+    {
+      "id": "utic-q03",
+      "stem": "A 2-year-old girl (12 kg) has fever 39 °C, vomiting everything and right loin tenderness. Catheter urine: leucocytes 3+, nitrite positive. HR 150, CRT 2 s, mildly dehydrated. Creatinine normal. Which initial antibiotic follows UCG 2023?",
+      "options": [
+        "Ceftriaxone 600–960 mg (50–80 mg/kg) IV once daily, switching to oral cefixime when she can take it, for 10 days in total",
+        "Oral amoxicillin 125 mg 8-hourly for 7 days",
+        "Oral nitrofurantoin 9 mg 6-hourly for 7 days",
+        "Oral co-trimoxazole for 3 days",
+        "IV ceftriaxone single dose then stop"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: this is **pyelonephritis** in a child who is **vomiting everything**, so parenteral treatment is needed: UCG 2023 gives **ceftriaxone 50–80 mg/kg once daily** (12 kg → 600–960 mg), then oral **cefixime** to complete **10 days**. B is wrong: oral treatment is not possible while she vomits everything, and amoxicillin resistance is high. C is wrong: nitrofurantoin does not reach the kidney. D is wrong: co-trimoxazole resistance is high and 3 days is a cystitis course. E is wrong: a single dose is inadequate for pyelonephritis."
+    },
+    {
+      "id": "utic-q04",
+      "stem": "A 7-year-old girl (22 kg) has 2 days of dysuria and frequency without fever or loin pain. Midstream urine dipstick: leucocytes 2+, nitrite positive. She is otherwise well. Which treatment is MOST appropriate under UCG 2023?",
+      "options": [
+        "IV ceftriaxone for 10 days",
+        "Gentamicin 7.5 mg/kg IM once daily for 5 days",
+        "Oral ciprofloxacin for 14 days",
+        "Oral nitrofurantoin about 3 mg/kg/day in 4 divided doses (about 16 mg 6-hourly) for 7 days, with fluids and review of bowel and voiding habits",
+        "No treatment: cystitis resolves spontaneously"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: this is **lower UTI (cystitis)**; UCG 2023 gives **nitrofurantoin 3 mg/kg/day in 4 doses for 7 days** (NICE: 3 days); also address constipation and voiding habits. A is wrong: IV treatment for 10 days is for pyelonephritis in sick children. B is wrong: injectable aminoglycoside is unnecessary for uncomplicated cystitis. C is wrong: fluoroquinolones are second line for resistant infections, and 14 days is excessive. E is wrong: symptomatic bacterial cystitis should be treated."
+    },
+    {
+      "id": "utic-q05",
+      "stem": "A 14-month-old boy (10 kg) has his urine sent from a bag attached for 2 hours. The culture reports 'mixed growth of three organisms, >10^5 CFU/mL'. He is afebrile today and well. What should you do?",
+      "options": [
+        "Start oral antibiotics for 10 days and request an MCUG",
+        "Regard it as probable contamination; if UTI is still suspected, recollect by clean catch or catheter",
+        "Start prophylactic trimethoprim",
+        "Request a DMSA scan",
+        "Diagnose recurrent UTI"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: **mixed growth from a bag sample** is almost always **contamination**; if UTI is still suspected, collect a reliable sample (clean catch, catheter or SPA). A is wrong: treating and imaging on a contaminated bag culture leads to unnecessary antibiotics and invasive tests. C is wrong: there is no confirmed UTI, let alone recurrence. D is wrong: DMSA is for confirmed atypical or recurrent UTI. E is wrong: recurrence requires confirmed episodes."
+    },
+    {
+      "id": "utic-q06",
+      "stem": "A 4-month-old boy (6.1 kg) with febrile UTI has a weak dribbling stream, a bladder palpable 4 cm above the pubis, creatinine 98 µmol/L and bilateral hydronephrosis on ultrasound. What is the MOST important next step after starting antibiotics?",
+      "options": [
+        "DMSA scan in 4–6 months only",
+        "Prophylactic trimethoprim and discharge",
+        "Oral fluids and repeat ultrasound in 6 weeks",
+        "Circumcision this week",
+        "Drain the bladder with a urethral catheter (feeding tube), monitor creatinine and electrolytes, and arrange MCUG and urgent paediatric urology referral"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: an infant boy with poor stream, a **palpable bladder**, **bilateral hydronephrosis** and **raised creatinine** has **posterior urethral valves** until proven otherwise; **catheter drainage**, electrolyte/creatinine monitoring (post-obstructive diuresis, hyperkalaemia), **MCUG** and **paediatric urology** for valve ablation are urgent. A is wrong: DMSA does not address obstruction. B is wrong: prophylaxis without relieving obstruction risks further renal damage. C is wrong: waiting 6 weeks with obstruction and rising creatinine is unsafe. D is wrong: circumcision does not relieve urethral valve obstruction."
+    },
+    {
+      "id": "utic-q07",
+      "stem": "A 2-year-old girl (12 kg) had her first febrile UTI with E. coli, confirmed on a catheter sample. She responded to treatment within 48 hours and is now well. Normal stream, no masses, normal creatinine. According to NICE NG224, what imaging is required?",
+      "options": [
+        "Ultrasound during the acute infection, DMSA at 4–6 months and MCUG",
+        "MCUG only",
+        "No routine imaging",
+        "DMSA scan only",
+        "CT urogram"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: NICE does **not** routinely image children **over 6 months** with a **first typical UTI** that responds within 48 h (table 5). A is wrong: that schedule is for **atypical** UTI in infants under 6 months. B is wrong: MCUG is not routine at 6 months–3 years. D is wrong: DMSA is for atypical or recurrent UTI. E is wrong: CT exposes the child to radiation and is not part of UTI imaging. (Note: the AAP would advise renal and bladder ultrasound after a first febrile UTI at 2–24 months, a well-known difference.)"
+    },
+    {
+      "id": "utic-q08",
+      "stem": "A 15-month-old (9.5 kg) has fever 38.9 °C for a day. Clean-catch urine dipstick: leucocyte esterase negative, nitrite negative. She has coryza and a red throat; RDT negative. What is the BEST interpretation?",
+      "options": [
+        "UTI is unlikely: do not give antibiotics for UTI or send a culture (unless other criteria apply); manage the likely viral URTI and review",
+        "Start antibiotics for UTI and send culture",
+        "Repeat the dipstick on a bag sample",
+        "Send for a DMSA scan",
+        "Give nitrofurantoin for 3 days to be safe"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: in a child aged 3 months to 3 years, **both LE and nitrite negative** makes UTI unlikely (NICE): no antibiotics, no culture unless other criteria (e.g. high risk of serious illness), and look for another source (here a viral URTI). B is wrong: treating with negative dipstick and an alternative source is overtreatment. C is wrong: a bag sample is less reliable than the clean catch already done. D is wrong: there is no confirmed UTI. E is wrong: unnecessary antibiotics promote resistance."
+    },
+    {
+      "id": "utic-q09",
+      "stem": "A 6-year-old girl (20 kg) has had three episodes of cystitis in 8 months. She wets her pants in the day, opens her bowels every 4–5 days with hard stools, and avoids the school latrine. Examination shows faecal loading; BP normal. What is the MOST important intervention?",
+      "options": [
+        "Long-term ciprofloxacin prophylaxis",
+        "Urgent MCUG and ureteric reimplantation",
+        "Cranberry juice only",
+        "Treat constipation (e.g. lactulose or PEG), timed voiding every 2–3 hours, adequate fluids and access to clean toilets, plus imaging for recurrent UTI",
+        "Restrict fluids to reduce wetting"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: recurrent cystitis with daytime wetting, constipation and holding is **bladder and bowel dysfunction**; treating **constipation** and **voiding habits** is the key intervention, and NICE recommends **ultrasound within 6 weeks and DMSA** for recurrent UTI at ≥3 years. A is wrong: fluoroquinolone prophylaxis is not appropriate and does not fix the cause. B is wrong: surgery without evidence of high-grade VUR is inappropriate. C is wrong: cranberry has weak evidence and ignores the cause. E is wrong: fluid restriction concentrates urine and worsens infection risk."
+    },
+    {
+      "id": "utic-q10",
+      "stem": "A 3-year-old boy (14 kg) with pyelonephritis has received IV ceftriaxone for 48 hours, but his fever persists at 39.5 °C and he has worsening right loin pain. Culture shows Klebsiella resistant to ceftriaxone. What is the BEST next step?",
+      "options": [
+        "Continue ceftriaxone for another 5 days",
+        "Urgent renal ultrasound to look for obstruction or abscess, and change antibiotics according to sensitivities (e.g. meropenem for an ESBL)",
+        "Add oral amoxicillin",
+        "Stop antibiotics; it is a viral fever",
+        "Discharge on nitrofurantoin"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: failure to respond within 48 h and a **non-E. coli (resistant)** organism make this an **atypical UTI**; do an **ultrasound during the acute infection** (obstruction, pyonephrosis, abscess) and change to an antibiotic the organism is sensitive to (e.g. **meropenem 20 mg/kg 8-hourly** for ESBL). A is wrong: continuing an ineffective drug delays cure. C is wrong: amoxicillin will not cover a ceftriaxone-resistant Klebsiella. D is wrong: he has culture-proven bacterial infection. E is wrong: nitrofurantoin does not treat pyelonephritis."
+    },
+    {
+      "id": "utic-q11",
+      "stem": "Which urine collection method is the gold standard for diagnosing UTI in a sick 2-month-old?",
+      "options": [
+        "Urine bag",
+        "Cotton wool ball in the nappy",
+        "Midstream sample from the nappy",
+        "Urine from a 24-hour collection",
+        "Ultrasound-guided suprapubic aspiration"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: **ultrasound-guided SPA** is the gold standard (any growth is significant); a catheter sample is the main alternative. A is wrong: bag samples are frequently contaminated. B is wrong: NICE says never use cotton wool, gauze or sanitary towels. C is wrong: urine from a nappy is contaminated. D is wrong: 24-hour collections are not used to diagnose UTI."
+    },
+    {
+      "id": "utic-q12",
+      "stem": "A 9-month-old boy (8.5 kg) had his second febrile E. coli UTI. Ultrasound shows a dilated left renal pelvis and ureter. MCUG shows left VUR with moderate dilatation and tortuosity of the ureter and blunting of the fornices, with papillary impressions preserved. What grade is this, and which management is reasonable?",
+      "options": [
+        "Grade II; no follow-up needed",
+        "Grade V; immediate nephrectomy",
+        "Grade IV; consider continuous antibiotic prophylaxis (e.g. trimethoprim 2 mg/kg at night), treat constipation, DMSA in 4–6 months and paediatric urology/nephrology follow-up",
+        "Grade I; stop all follow-up",
+        "Grade III; ureteric reimplantation this week"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: **moderate dilatation and tortuosity with blunted fornices but preserved papillary impressions = grade IV VUR**; with recurrent febrile UTI, **prophylaxis** (trimethoprim 2 mg/kg nocte) is reasonable (RIVUR: fewer recurrences), plus **DMSA** for scarring and specialist follow-up; circumcision may be discussed in an infant boy. A is wrong: grade II has no dilatation. B is wrong: grade V means gross dilatation with loss of papillary impressions, and nephrectomy is not indicated. D is wrong: grade I is reflux into the ureter only. E is wrong: grade III is mild–moderate dilatation, and surgery is not first line."
+    },
+    {
+      "id": "utic-q13",
+      "stem": "A 3-year-old (14 kg) with a febrile UTI has a CRP of 140 mg/L. A student says this proves pyelonephritis and the child therefore needs a DMSA scan. What is the BEST response?",
+      "options": [
+        "NICE advises against using CRP alone to separate upper from lower UTI; diagnose upper UTI clinically (fever ≥38 °C or loin pain with bacteriuria) and image according to age and type of UTI",
+        "Correct: CRP above 100 mg/L confirms pyelonephritis",
+        "CRP should be repeated daily to guide imaging",
+        "CRP below 20 mg/L excludes UTI",
+        "A raised CRP means MCUG is required"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: NICE NG224 says **do not use CRP alone** to differentiate upper from lower UTI; upper UTI is defined clinically (bacteriuria with fever ≥38 °C, or with loin pain), and imaging follows the age/atypical/recurrent tables. B is wrong: CRP overlaps between upper and lower UTI and is raised by other infections. C is wrong: daily CRP does not determine imaging. D is wrong: a low CRP does not exclude UTI. E is wrong: MCUG indications are based on age, atypical features and recurrence, not CRP."
+    },
+    {
+      "id": "utic-q14",
+      "stem": "An 11-year-old boy (30 kg) from a riverside village in eastern Uganda reports blood at the end of urination for 2 months, without dysuria or fever. Dipstick: blood 3+, leucocytes negative, nitrite negative. Which diagnosis is MOST likely?",
+      "options": [
+        "Acute pyelonephritis",
+        "Cystitis from E. coli",
+        "Bladder and bowel dysfunction",
+        "Urogenital schistosomiasis (S. haematobium)",
+        "Nephrotic syndrome"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: **terminal haematuria** with river exposure and **no pyuria or nitrite** suggests **S. haematobium**; confirm with eggs (terminal spine) in a midday urine and treat with **praziquantel 40 mg/kg**. A is wrong: no fever, loin pain or pyuria. B is wrong: cystitis would give dysuria, leucocytes and often nitrites. C is wrong: BBD gives wetting and recurrent UTI, not isolated terminal haematuria. E is wrong: nephrotic syndrome causes heavy proteinuria and oedema, not terminal haematuria."
+    },
+    {
+      "id": "utic-q15",
+      "stem": "Which statement about antibiotic prophylaxis after childhood UTI is CORRECT?",
+      "options": [
+        "Every child should receive prophylaxis after a first UTI",
+        "In RIVUR, prophylaxis reduced recurrent UTIs in children with VUR but did not reduce renal scarring",
+        "Nitrofurantoin prophylaxis is safe from birth",
+        "Prophylaxis eliminates the need to treat constipation",
+        "Ciprofloxacin is the first-line prophylactic agent in infants"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: the **RIVUR trial (NEJM 2014)** showed TMP–SMX prophylaxis **roughly halved recurrences** in children with VUR grade I–IV but **did not reduce scarring**, and increased resistance. A is wrong: NICE says **do not routinely give prophylaxis after a first UTI**. C is wrong: nitrofurantoin and sulfonamides are avoided under 6 weeks. D is wrong: treating constipation and voiding dysfunction remains essential. E is wrong: trimethoprim, nitrofurantoin or cefalexin (young infants) are used, not ciprofloxacin."
+    }
+  ],
+  "cases": [
+    {
+      "id": "utic-c01",
+      "title": "A febrile infant boy with a palpable bladder",
+      "presentation": "You are the intern at Mengo Hospital paediatric emergency. A 4-month-old boy from Mukono is brought with 2 days of fever, vomiting and irritability. His mother says he 'dribbles' urine and strains. An antenatal scan at 32 weeks said 'kidneys swollen' but was not followed up. Weight 6.1 kg.",
+      "steps": [
+        { "prompt": "What are your first steps?", "answer": "ETAT: airway, breathing (RR 48), **circulation** (HR 172, CRT 2 s: not shocked), irritable but responsive, **glucose** 4.4 mmol/L. RDT (negative). IV access: **blood culture, FBC, creatinine, electrolytes**. Collect urine by **catheter** (sick infant) before antibiotics if quick; start IV antibiotics promptly." },
+        { "prompt": "Catheter urine: leucocytes 3+, nitrite +, >50 WBC/mm3, Gram-negative rods. Examination: palpable bladder 4 cm above the pubis, ballotable kidneys. What is your assessment?", "answer": "**Febrile UTI (presumed pyelonephritis) with urosepsis risk** in an infant under 6 months, with **atypical features** (poor urine flow, bladder mass, likely raised creatinine) suggesting **posterior urethral valves**." },
+        { "prompt": "Creatinine 98 µmol/L, Na 131, K 5.8 mmol/L. Which antibiotics and doses?", "answer": "Because creatinine is raised, **avoid gentamicin**: **ceftriaxone 75 mg/kg ≈ 450 mg IV once daily** (not jaundiced) **plus ampicillin 50 mg/kg = 300 mg IV 6-hourly** for *Enterococcus* cover until culture returns; adjust to sensitivities; total 10–14 days. Paracetamol 15 mg/kg = 90 mg." },
+        { "prompt": "What immediate non-antibiotic measures and monitoring are needed?", "answer": "**Leave a urethral catheter (6–8 Fr feeding tube) on free drainage** to relieve obstruction; **strict input/output**; IV fluids to match output (watch for **post-obstructive diuresis**); **daily creatinine and electrolytes** (hyperkalaemia, hyponatraemia); BP; continue breastfeeding." },
+        { "prompt": "What imaging and referrals will you arrange?", "answer": "**Ultrasound now** (done: bilateral hydroureteronephrosis, thick trabeculated bladder, dilated posterior urethra); **MCUG** once infection is controlled (with antibiotic cover) to confirm valves and VUR; **urgent paediatric urology** (valve ablation, Mulago or another national centre); **paediatric nephrology** follow-up for CKD; **DMSA** at 4–6 months (Mulago)." },
+        { "prompt": "What will you tell the mother about the long-term outlook?", "answer": "The valves can be treated with a small operation, but the kidneys may already be damaged; he needs **lifelong follow-up** of kidney function, BP, growth and bladder function, and early care for any fever (urine test each time). Antenatal hydronephrosis should always be followed up." }
+      ],
+      "takeaway": "An infant boy with UTI and a poor stream or palpable bladder has posterior urethral valves until proven otherwise: drain the bladder, avoid nephrotoxins, scan, and refer to paediatric urology."
+    },
+    {
+      "id": "utic-c02",
+      "title": "A toddler with fever and no focus: getting the sample right",
+      "presentation": "At a HC IV in Wakiso, an 18-month-old girl (10.5 kg) has had fever 39.2 °C for 2 days and vomited twice. She is drinking, alert, with no cough, rash or diarrhoea. HR 148, RR 36, CRT 2 s. Ears and throat normal. RDT negative. Her mother asks for 'an injection for malaria'.",
+      "steps": [
+        { "prompt": "How do you explain your plan to the mother, and which test do you do?", "answer": "Explain that the malaria test is negative and that **urine infection is a common hidden cause** of fever at this age. Collect a **clean-catch** urine (sit her on the mother's lap without a nappy, clean genitals with water, catch urine in a sterile pot) or use a urine pad; dipstick it straight away." },
+        { "prompt": "Dipstick: leucocytes 2+, nitrite +. What next?", "answer": "LE and nitrite positive at 3 months–3 years → **treat as UTI and send culture** (NICE). With fever ≥38 °C this is **upper UTI**. She is drinking and not septic → **oral treatment** possible: **cefixime 8 mg/kg ≈ 84 mg once daily** (UCG gives 16 mg/kg on day 1) to complete **10 days**; paracetamol 15 mg/kg ≈ 160 mg 6-hourly; fluids. Send culture to the hub lab." },
+        { "prompt": "Two days later she still has fever 39 °C and is vomiting. What do you do?", "answer": "Failure to respond within 48 h = **atypical UTI**: admit; **IV ceftriaxone 50–80 mg/kg ≈ 525–840 mg once daily**; check culture/sensitivities and creatinine; **ultrasound now** (obstruction, abscess); reconsider the diagnosis (malaria repeat, other foci)." },
+        { "prompt": "Culture grows E. coli sensitive to ceftriaxone; ultrasound is normal; she recovers. What imaging is needed per NICE?", "answer": "Atypical UTI at 6 months–3 years (table 5): **ultrasound during the acute infection** (done, normal) and **DMSA at 4–6 months**; **MCUG not routine** (consider only if dilatation, poor flow, non-*E. coli* or family history of VUR). In Uganda, DMSA requires referral to Mulago; discuss feasibility." },
+        { "prompt": "What advice do you give at discharge?", "answer": "Complete the antibiotic course; seek care **early** for any future fever and **ask for a urine test**; adequate fluids; avoid constipation; nappy hygiene (wipe front to back); results of investigations in writing; follow-up for DMSA. No routine prophylaxis after a single UTI." }
+      ],
+      "takeaway": "Fever without a source in a toddler means a urine test on a clean sample; treat by age and severity, and let non-response at 48 hours trigger reassessment and imaging."
+    },
+    {
+      "id": "utic-c03",
+      "title": "Recurrent cystitis in a school girl",
+      "presentation": "A 6-year-old girl (20 kg) from Kampala is brought to the paediatric clinic with her third episode of dysuria and frequency in 8 months. She has started wetting her pants during the day. She passes hard stools every 4–5 days and avoids the school latrine. No fever. BP 98/62.",
+      "steps": [
+        { "prompt": "What else must you ask and examine?", "answer": "Fever or loin pain with past episodes (upper vs lower UTI), how previous diagnoses were made (culture?), **bowel habit**, voiding frequency and holding, fluid intake, vaginal discharge or itch (vulvovaginitis, pinworm), **sensitive questions about abuse**, family history of VUR. Examine: abdomen (**faecal loading**), loins, genitalia (inspection only, with chaperone), **spine** (dimple, tuft), lower-limb neurology, BP, growth." },
+        { "prompt": "Clean-catch dipstick: LE +, nitrite +. Culture grows E. coli >10^5 CFU/mL, sensitive to nitrofurantoin. Treat this episode.", "answer": "**Lower UTI**: **nitrofurantoin 3 mg/kg/day ÷ 4 = 15 mg 6-hourly** after meals for 7 days (UCG; NICE 3 days); fluids; paracetamol for discomfort." },
+        { "prompt": "What is the underlying problem, and how will you manage it?", "answer": "**Bladder and bowel dysfunction**: constipation and holding cause incomplete emptying. Treat **constipation** (e.g. **lactulose 0.5–1 mL/kg twice daily** or PEG, titrated to soft daily stools), **timed voiding every 2–3 hours** and double voiding, adequate water, feet supported on the toilet, a **letter to the school** about toilet access, and a bladder/bowel diary." },
+        { "prompt": "Does she need imaging, and which?", "answer": "Yes: **recurrent UTI at ≥3 years** (NICE table 6): **ultrasound within 6 weeks** (with pre- and post-void bladder volumes) and **DMSA at 4–6 months**; MCUG not routine." },
+        { "prompt": "Should she get antibiotic prophylaxis?", "answer": "Consider only if UTIs continue despite treating BBD (e.g. trimethoprim 2 mg/kg at night); RIVUR showed prophylaxis reduces recurrences but not scarring and increases resistance. The first-line 'prophylaxis' here is **fixing constipation and voiding habits**." }
+      ],
+      "takeaway": "Recurrent cystitis in a school-age child is usually bladder and bowel dysfunction: treat the constipation and voiding habits, image as for recurrent UTI, and reserve prophylaxis."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023 (sections 7.2.1 Acute cystitis, 7.2.2 Acute pyelonephritis)", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Urinary tract infection in under 16s: diagnosis and management (NG224)", "source": "NICE", "year": 2022, "url": "https://www.nice.org.uk/guidance/ng224" },
+    { "title": "Pocket Book of Hospital Care for Children, 2nd edition (section 6.8 Urinary tract infection)", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "Subcommittee on Urinary Tract Infection. Urinary tract infection: clinical practice guideline for the diagnosis and management of the initial UTI in febrile infants and children 2 to 24 months", "source": "Pediatrics (American Academy of Pediatrics)", "year": 2011, "url": "https://pubmed.ncbi.nlm.nih.gov/21873693/" },
+    { "title": "RIVUR Trial Investigators. Antimicrobial prophylaxis for children with vesicoureteral reflux", "source": "New England Journal of Medicine", "year": 2014, "url": "https://pubmed.ncbi.nlm.nih.gov/24795142/" },
+    { "title": "Pediatric urinary tract infection (overview, workup, treatment)", "source": "Medscape (eMedicine)", "url": "https://emedicine.medscape.com/article/969643-overview" },
+    { "title": "Urinary tract infection (clinical practice guideline)", "source": "Royal Children's Hospital Melbourne", "year": 2025, "url": "https://www.rch.org.au/clinicalguide/guideline_index/Urinary_tract_infection/" }
+  ]
+}

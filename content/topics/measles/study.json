@@ -1,0 +1,280 @@
+{
+  "slug": "measles",
+  "flashcards": [
+    { "id": "msl-f01", "front": "WHO/IDSR case definition of suspected measles?", "back": "**Fever + generalised maculopapular (non-vesicular) rash + cough, coryza or conjunctivitis** (or any case a clinician suspects)." },
+    { "id": "msl-f02", "front": "What are Koplik spots and when do they appear?", "back": "Small **white/grey 'grains of salt' on a red base** on the buccal mucosa opposite the lower molars; appear **1–2 days before the rash** and fade 1–2 days after it. Pathognomonic." },
+    { "id": "msl-f03", "front": "Stages of measles?", "back": "**Incubation** (~10–12 days to symptoms) → **prodrome** (2–4 days: fever, 3 Cs, Koplik spots) → **exanthem** (rash from hairline/behind ears spreading down over 3 days) → **recovery** (brown staining, fine desquamation)." },
+    { "id": "msl-f04", "front": "Infectious period of measles?", "back": "From **4 days before to 4 days after rash onset** (whole illness if immunocompromised). Isolate until 4 days after the rash appears." },
+    { "id": "msl-f05", "front": "Vitamin A doses for measles by age?", "back": "**<6 months: 50,000 IU; 6–11 months: 100,000 IU; ≥12 months: 200,000 IU**, orally." },
+    { "id": "msl-f06", "front": "Vitamin A schedule: UCG 2023 vs WHO?", "back": "**UCG 2023: day 1, day 2 and day 14** for every case. **WHO: day 1 and day 2**, plus a third dose 2–4 weeks later if there are eye signs of vitamin A deficiency." },
+    { "id": "msl-f07", "front": "Why give vitamin A to every child with measles?", "back": "Measles causes an acute **fall in vitamin A** (use, loss, poor intake); supplementation **reduces mortality** (especially under 2s), **pneumonia** and **corneal damage/blindness**, even in well-nourished children." },
+    { "id": "msl-f08", "front": "Severe complicated measles (IMCI)?", "back": "Measles now or in the last 3 months with **any general danger sign**, **clouding of the cornea**, or **deep or extensive mouth ulcers** → vitamin A, first-dose antibiotic (ampicillin + gentamicin), TEO, urgent referral." },
+    { "id": "msl-f09", "front": "Commonest cause of death in measles?", "back": "**Pneumonia**, often secondary bacterial (*S. pneumoniae*, *S. aureus*, Hib); others: diarrhoea/dehydration, malnutrition, croup, encephalitis." },
+    { "id": "msl-f10", "front": "Commonest complication of measles?", "back": "**Otitis media** (then pneumonia, diarrhoea, croup)." },
+    { "id": "msl-f11", "front": "Eye care in measles?", "back": "Clean eyes 2–3 times daily; **tetracycline 1% eye ointment** if discharge (UCG 12-hourly × 5 days; WHO 3 times daily × 7 days); pad an ulcerated eye; refer corneal ulcers. **Never steroid eye drops.**" },
+    { "id": "msl-f12", "front": "Mouth ulcers in measles: treatment?", "back": "Salt-water mouth cleaning, **gentian violet 0.25%**; severe or smelly ulcers: **benzylpenicillin 50,000 IU/kg 6-hourly + metronidazole 7.5 mg/kg 8-hourly for 5 days**; NGT if not eating." },
+    { "id": "msl-f13", "front": "What is cancrum oris (noma)?", "back": "Rapidly spreading **gangrene of the cheek and mouth** in malnourished children after measles or other infections; treat with penicillin + metronidazole, feeding and nutrition, wound care; reconstructive surgery later." },
+    { "id": "msl-f14", "front": "What does fever persisting >3–4 days after the rash suggest?", "back": "A **complication**: pneumonia, otitis media, diarrhoea, encephalitis, bacteraemia or TB reactivation." },
+    { "id": "msl-f15", "front": "Neurological complications of measles and their timing?", "back": "**Acute encephalitis** (during/soon after rash, ~1/1,000); **ADEM** (days–weeks after); **measles inclusion body encephalitis** (immunocompromised, 1–6 months); **SSPE** (7–10 years later)." },
+    { "id": "msl-f16", "front": "SSPE: key features?", "back": "Fatal persistent measles brain infection, mean **7–10 years** after measles (risk highest if infected **under 2 years**); school decline/behaviour change → **myoclonic jerks** → dementia → death in 1–3 years; **periodic EEG complexes**, **high CSF measles IgG**. Prevented by vaccination." },
+    { "id": "msl-f17", "front": "What is 'immune amnesia'?", "back": "Measles virus kills **memory B and T cells**, erasing immunity to other infections for months to years: more pneumonia, diarrhoea, **TB reactivation**, and a false-negative tuberculin test." },
+    { "id": "msl-f18", "front": "Uganda measles vaccine schedule?", "back": "**MR1 at 9 months and MR2 at 18 months** (measles-rubella); outbreak doses from 6 months do not count towards the routine schedule." },
+    { "id": "msl-f19", "front": "MR vaccine: dose, route and reconstitution rule?", "back": "**0.5 mL subcutaneous** (upper arm); reconstitute only with the supplied diluent; **discard 6 hours** after reconstitution or at the end of the session." },
+    { "id": "msl-f20", "front": "Post-exposure prophylaxis for measles contacts?", "back": "**MR vaccine within 72 hours** for susceptible contacts **aged 6 months or more**; **immunoglobulin within 6 days** for high-risk contacts who cannot be vaccinated (infants <6 months, pregnant, immunocompromised), where available." },
+    { "id": "msl-f21", "front": "Is malnutrition a contraindication to measles vaccine?", "back": "**No** — malnourished children are at highest risk and should be vaccinated (e.g. on admission with SAM if unvaccinated and aged 6 months or more). Contraindications: severe immunosuppression, pregnancy, anaphylaxis." },
+    { "id": "msl-f22", "front": "Uganda measles situation 2025–2026 (MoH)?", "back": "2025: **MR1 92%, MR2 64%**; **66 districts** with outbreaks; **>10,000 cases and 60 deaths** (a third in Karamoja). National MR campaign **1–5 October 2026** for **9–59 months**, regardless of previous doses." },
+    { "id": "msl-f23", "front": "How is measles confirmed for surveillance in Uganda?", "back": "**Serum measles IgM** (best 3–28 days after rash) ± throat swab/urine PCR, sent via the district to **UVRI, Entebbe**. In a confirmed outbreak, further cases are epidemiologically linked." },
+    { "id": "msl-f24", "front": "Measles vs roseola?", "back": "**Roseola** (HHV-6, under 2): high fever for 3–5 days, **rash appears as the fever falls**, child well. **Measles**: 3 Cs, Koplik spots, child miserable, fever peaks after the rash starts." },
+    { "id": "msl-f25", "front": "Measles vs rubella?", "back": "**Rubella**: mild, low fever, **post-auricular/suboccipital lymphadenopathy**, rash fades in 3 days, arthralgia; danger is congenital rubella. **Measles**: high fever, 3 Cs, Koplik spots, confluent rash lasting about a week." },
+    { "id": "msl-f26", "front": "Measles croup: steroids?", "back": "**WHO Pocket Book: do not give steroids for measles croup.** Supportive care, oxygen, nebulised adrenaline for stridor at rest, airway intervention if obstruction." },
+    { "id": "msl-f27", "front": "Common feeding myth in measles?", "back": "Withholding **meat, fish, eggs or milk**. UCG 2023: counter it — increase fluids and nutrition; continue breastfeeding." }
+  ],
+  "mcqs": [
+    {
+      "id": "msl-q01",
+      "stem": "A 3-year-old girl (12 kg, MUAC 13.6 cm) has had fever, cough, runny nose and red eyes for 4 days, and a maculopapular rash that began behind the ears yesterday. She is alert, drinking well, RR 30, SpO2 97%, corneas clear, a few superficial mouth ulcers, no ear discharge. She received MR1 but not MR2. What is the MOST appropriate management?",
+      "options": [
+        "Admit for IV ampicillin and gentamicin",
+        "Give vitamin A 100,000 IU once and discharge",
+        "Vitamin A 200,000 IU today, tomorrow and on day 14, paracetamol, mouth care with gentian violet, isolate at home, and review in 2–3 days",
+        "Prescribe oral ribavirin",
+        "Prescribe prednisolone eye drops for the conjunctivitis"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: non-severe measles with superficial mouth ulcers is managed at home (UCG 2023): **vitamin A 200,000 IU (≥12 months) on day 1, 2 and 14**, paracetamol, salt-water mouth care and **gentian violet 0.25%**, isolation until 4 days after rash onset, good feeding, and review. A is wrong: she has no danger signs, pneumonia or other indication for IV antibiotics. B is wrong: 100,000 IU is the dose for 6–11 months, and one dose is not enough. D is wrong: ribavirin is experimental and not used. E is wrong: steroid eye drops can worsen corneal infection; use tetracycline ointment if there is discharge."
+    },
+    {
+      "id": "msl-q02",
+      "stem": "A 10-month-old boy (7.4 kg) with measles is seen at a HC II. He is lethargic and unable to breastfeed, and the left cornea looks cloudy. What should the health worker do?",
+      "options": [
+        "Give vitamin A 100,000 IU, ampicillin 50 mg/kg IM plus gentamicin 7.5 mg/kg IM, tetracycline eye ointment to both eyes, and refer urgently",
+        "Give vitamin A 200,000 IU and send home with eye ointment",
+        "Apply a steroid eye ointment and review in 3 days",
+        "Refer without any treatment to avoid delay",
+        "Give oral amoxicillin and paracetamol, review tomorrow"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: lethargy and inability to breastfeed (general danger signs) and corneal clouding = **severe complicated measles** (IMCI/UCG 2023): give **vitamin A (100,000 IU for 6–11 months)**, a **first dose of ampicillin + gentamicin IM**, **tetracycline eye ointment**, and **refer urgently**. B is wrong: 200,000 IU is for ≥12 months, and he needs referral. C is wrong: steroids risk corneal perforation. D is wrong: pre-referral treatment (vitamin A, antibiotics, TEO) is essential and quick. E is wrong: a child with danger signs needs hospital care."
+    },
+    {
+      "id": "msl-q03",
+      "stem": "A 2-year-old girl (9.5 kg, weight-for-height Z −2.4) is on day 3 of a measles rash. She has RR 54, lower chest indrawing and SpO2 88% in air; she is alert and drinking. What is the BEST management of her chest?",
+      "options": [
+        "Oral amoxicillin as an outpatient for 3 days",
+        "No antibiotics because measles is viral",
+        "Nebulised salbutamol and discharge",
+        "Oral prednisolone for viral pneumonitis",
+        "Admit; oxygen to keep SpO2 at least 90%, IV ampicillin 475 mg 6-hourly plus gentamicin 70 mg once daily"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: hypoxaemia (SpO2 <90%) makes this **severe pneumonia**, and measles pneumonia is often bacterial; admit, give **oxygen** and **ampicillin 50 mg/kg (475 mg) 6-hourly + gentamicin 7.5 mg/kg (~70 mg) daily** (or ceftriaxone), with nutritional support. A is wrong: WHO 2024 outpatient oral amoxicillin applies only to pneumonia **without** danger signs or hypoxaemia. B is wrong: over half of measles pneumonia is bacterial. C is wrong: there is no wheeze; bronchodilators do not treat pneumonia or hypoxaemia. D is wrong: steroids are not indicated and may worsen infection."
+    },
+    {
+      "id": "msl-q04",
+      "stem": "A child with measles is admitted to a general paediatric ward at a HC IV. In the same bay are a 7-month-old with pneumonia (no measles vaccine yet) and a 3-year-old with malaria who received MR1 and MR2. What is the MOST appropriate infection-control step for the contacts?",
+      "options": [
+        "Give the 7-month-old immunoglobulin only; no action for the 3-year-old",
+        "Move the measles case to isolation and give the 7-month-old MR vaccine within 72 hours (then MR1 at 9 months and MR2 at 18 months as scheduled)",
+        "Give MR vaccine to both children and count the 7-month-old's dose as MR1",
+        "Discharge all three children immediately",
+        "No action: infants under 9 months cannot be vaccinated"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: isolate the case (airborne spread) and give **post-exposure MR vaccine within 72 hours to susceptible contacts aged 6 months or more**; a dose before 9 months does **not** count, so the infant still needs MR1 at 9 months and MR2 at 18 months. The fully vaccinated 3-year-old does not need another dose. A is wrong: vaccine is the preferred PEP from 6 months; immunoglobulin is for those who cannot be vaccinated (e.g. <6 months). C is wrong: the early dose doesn't count as MR1, and the 3-year-old is already protected by two doses. D is wrong: the children are sick and need care. E is wrong: vaccination from 6 months is recommended in outbreaks and after exposure."
+    },
+    {
+      "id": "msl-q05",
+      "stem": "A 4-year-old boy (14 kg) had measles 6 days ago. The rash is fading with brown staining, but his fever (38.9 °C) has persisted, and today he cries holding his right ear, which is discharging pus. RR 28, chest clear. Which is the likeliest diagnosis?",
+      "options": [
+        "Subacute sclerosing panencephalitis",
+        "Normal course of measles",
+        "Measles inclusion body encephalitis",
+        "Acute otitis media complicating measles",
+        "Kawasaki disease"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: fever persisting beyond day 3–4 of the rash signals a complication, and ear pain with purulent discharge is **acute otitis media**, the **commonest complication** of measles; treat with **amoxicillin 40 mg/kg 12-hourly for 5 days** and dry wicking. A is wrong: SSPE occurs years later. B is wrong: fever should settle 2–3 days after the rash appears. C is wrong: MIBE affects immunocompromised children months later with seizures and coma. E is wrong: Kawasaki disease lacks cough/coryza and has lip, hand and node changes; this child has a clear measles history."
+    },
+    {
+      "id": "msl-q06",
+      "stem": "A 5-month-old girl (6 kg) is diagnosed with measles during an outbreak in Kikuube district. Which vitamin A regimen follows UCG 2023?",
+      "options": [
+        "200,000 IU on day 1 and day 2",
+        "100,000 IU once",
+        "50,000 IU on day 1, day 2 and day 14",
+        "No vitamin A under 6 months",
+        "25,000 IU daily for 14 days"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: under 6 months the dose is **50,000 IU**, and UCG 2023 gives **three doses (day 1, day 2, day 14)** to every measles case. A is wrong: 200,000 IU is for children 12 months and older; giving it to a young infant risks toxicity (bulging fontanelle, vomiting). B is wrong: wrong dose for age and a single dose is insufficient. D is wrong: infants under 6 months with measles also benefit from vitamin A. E is wrong: daily low doses are not the measles regimen."
+    },
+    {
+      "id": "msl-q07",
+      "stem": "A 2-year-old (10 kg) is on day 5 of measles when she becomes drowsy and has two generalised seizures. Temperature 38.2 °C, glucose 4.9 mmol/L, Blantyre 3, no neck stiffness, RDT negative. Which is the likeliest explanation and next step?",
+      "options": [
+        "Acute measles encephalitis: control seizures, supportive care, and do an LP (if safe) with ceftriaxone until bacterial meningitis is excluded",
+        "Simple febrile convulsion: reassure and discharge",
+        "SSPE: start isoprinosine",
+        "Hypoglycaemia: give 10% dextrose 5 mL/kg",
+        "Measles croup: give nebulised adrenaline"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: reduced consciousness persisting after repeated seizures during the acute illness suggests **acute measles encephalitis** (about 1 in 1,000 cases); treat seizures (diazepam, then phenobarbital 15–20 mg/kg), give supportive care, and exclude bacterial meningitis (LP if safe, ceftriaxone meanwhile). B is wrong: two seizures with persistent drowsiness are not a simple febrile convulsion. C is wrong: SSPE occurs years later. D is wrong: her glucose is normal. E is wrong: there is no stridor."
+    },
+    {
+      "id": "msl-q08",
+      "stem": "A 14-year-old boy is brought to Mulago neurology clinic with 6 months of declining school grades, personality change and, recently, repetitive jerks of his arms every few seconds. His mother says he had measles at 10 months, before he was vaccinated. Which investigation will MOST support the likely diagnosis?",
+      "options": [
+        "Serum measles IgM",
+        "Malaria blood slide",
+        "CT scan for neurocysticercosis",
+        "Thyroid function tests",
+        "EEG showing periodic complexes and CSF measles IgG antibody titre"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: progressive cognitive decline with **periodic myoclonic jerks** years after measles in infancy is **SSPE**; diagnosis is supported by **periodic high-voltage EEG complexes** and **markedly raised CSF measles IgG** (raised CSF:serum antibody index). A is wrong: IgM indicates acute infection; SSPE shows high IgG. B is wrong: malaria does not cause a 6-month progressive decline. C is wrong: NCC causes seizures but not periodic myoclonus with dementia. D is wrong: hypothyroidism may slow cognition but does not cause periodic myoclonus."
+    },
+    {
+      "id": "msl-q09",
+      "stem": "Which statement about the measles-rubella vaccine in Uganda is CORRECT?",
+      "options": [
+        "It is given intramuscularly at 6 and 10 weeks",
+        "It is given as 0.5 mL subcutaneously at 9 and 18 months, and reconstituted vaccine is discarded after 6 hours",
+        "It is contraindicated in children with moderate acute malnutrition",
+        "One dose at 9 months gives 99% protection",
+        "It can cause SSPE"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: UNEPI gives **MR1 at 9 months and MR2 at 18 months**, **0.5 mL subcutaneously**, and reconstituted live vaccine must be discarded after **6 hours**. A is wrong: those are pentavalent/PCV times and route. C is wrong: malnutrition is an indication, not a contraindication. D is wrong: one dose at 9 months protects about 85% (maternal antibody interference); two doses about 95% or more. E is wrong: SSPE is caused by wild measles virus, not the vaccine."
+    },
+    {
+      "id": "msl-q10",
+      "stem": "A 3-year-old (9 kg, MUAC 11.2 cm, bilateral pitting oedema of the feet) is admitted from Kotido with measles, watery diarrhoea and some dehydration. He is alert, RR 34, SpO2 96%. Which management is MOST appropriate?",
+      "options": [
+        "0.9% saline 20 mL/kg bolus over 15 minutes",
+        "Outpatient care with RUTF only",
+        "Withhold vitamin A because of the oedema",
+        "Vitamin A, ReSoMal for dehydration, F-75 feeds, antibiotics per the SAM protocol, isolation and measles complications care",
+        "Delay feeding until the diarrhoea stops"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: oedema and MUAC <11.5 cm = **complicated SAM** with measles; manage under the **WHO 2023/UCG SAM protocol**: vitamin A, **ReSoMal** (not standard bolus fluids) for dehydration, **F-75**, routine antibiotics, warmth, glucose checks, plus isolation and measles care. A is wrong: boluses are dangerous in SAM unless there is shock. B is wrong: complicated SAM with measles and dehydration needs inpatient care. C is wrong: vitamin A is essential in measles (and SAM with eye signs). E is wrong: early feeding is part of treatment."
+    },
+    {
+      "id": "msl-q11",
+      "stem": "A 14-month-old boy (9 kg) had high fever for 3 days but was playing between fevers. On day 4 the fever suddenly settled and a pink rash appeared on his trunk. He has no cough, coryza or conjunctivitis. Which is the likeliest diagnosis?",
+      "options": [
+        "Measles",
+        "Rubella",
+        "Roseola infantum (HHV-6)",
+        "Scarlet fever",
+        "Meningococcal septicaemia"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: **roseola** typically affects children under 2 with 3–5 days of high fever, followed by a **rash appearing as the fever falls**, in a well child without the 3 Cs. A is wrong: measles has the 3 Cs, Koplik spots and fever that rises with the rash. B is wrong: rubella has mild fever with the rash and occipital/post-auricular nodes. D is wrong: scarlet fever has sore throat, sandpaper rash and strawberry tongue. E is wrong: meningococcal rash is non-blanching purpura in an ill child."
+    },
+    {
+      "id": "msl-q12",
+      "stem": "A 6-year-old (17 kg) recovered from measles 6 weeks ago. Since then she has had cough, night sweats and weight loss of 1.5 kg. Her grandfather has a chronic cough. A tuberculin skin test is negative. What is the BEST interpretation?",
+      "options": [
+        "TB is still likely: measles suppresses cell-mediated immunity, reactivates TB and causes false-negative tuberculin tests; do Xpert on sputum/gastric aspirate and a chest X-ray",
+        "A negative tuberculin test excludes TB",
+        "This is post-measles bronchiolitis obliterans; no further tests needed",
+        "Give another course of vitamin A only",
+        "The cough is a normal post-measles cough; reassure"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: measles causes **immune suppression ('immune amnesia')** that can **reactivate TB** and make the **tuberculin test falsely negative** for weeks; with a TB contact and weight loss, investigate with **GeneXpert** and **chest X-ray**. B is wrong: a negative TST never excludes TB, especially after measles. C is wrong: bronchiolitis obliterans is rare and does not cause night sweats and weight loss. D is wrong: vitamin A does not treat this. E is wrong: weight loss and night sweats are red flags, not a normal post-measles cough."
+    },
+    {
+      "id": "msl-q13",
+      "stem": "During the October 2026 national MR campaign, a mother brings her 3-year-old who received MR1 and MR2 on schedule. She asks whether he needs the campaign dose. What is the correct advice?",
+      "options": [
+        "No: two documented doses mean he must not be vaccinated again",
+        "Only if a measles IgG test is negative",
+        "Only if he has had measles before",
+        "No: campaigns are only for children under 9 months",
+        "Yes: the campaign targets all children aged 9–59 months regardless of previous vaccination status; an extra dose is safe"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: the MoH campaign (1–5 October 2026) aims to vaccinate **all children aged 9–59 months irrespective of previous MR status**, to close immunity gaps; extra doses of MR are safe. A is wrong: there is no harm in an extra dose, and campaigns deliberately ignore previous status. B is wrong: serology is not required. C is wrong: past measles gives immunity, but the campaign does not depend on history. D is wrong: the target age is 9–59 months."
+    },
+    {
+      "id": "msl-q14",
+      "stem": "A 2-year-old (10 kg) on day 4 of measles has a loud barking cough and stridor at rest, with suprasternal recession, SpO2 93% in air. He is alert. What is the MOST appropriate immediate treatment?",
+      "options": [
+        "IV dexamethasone 0.6 mg/kg and discharge",
+        "Keep him calm with his mother, oxygen, nebulised adrenaline 5 mL of 1:1,000, and close monitoring with a plan for airway support if he worsens",
+        "Examine the throat with a tongue depressor to look for a foreign body",
+        "Salbutamol nebuliser and oral amoxicillin",
+        "Lie him flat and sedate him"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: stridor at rest with recession is severe **measles croup**; keep the child calm, give **oxygen**, **nebulised adrenaline** (0.5 mL/kg of 1:1,000, max 5 mL) as a temporary measure, and monitor closely with airway support available. A is wrong: the WHO Pocket Book advises **against steroids in measles croup**, and he is too sick for discharge. C is wrong: throat examination can precipitate complete obstruction. D is wrong: salbutamol does not treat upper-airway (laryngeal) obstruction. E is wrong: lying flat and sedation can worsen obstruction and hide deterioration."
+    },
+    {
+      "id": "msl-q15",
+      "stem": "Which feature BEST distinguishes measles from rubella in a febrile child with a rash?",
+      "options": [
+        "Presence of a maculopapular rash",
+        "Fever",
+        "Rash starting on the face",
+        "Koplik spots with a 3–4-day prodrome of cough, coryza and conjunctivitis",
+        "Lymphadenopathy behind the ears"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: **Koplik spots** and a **prodrome of the 3 Cs** before the rash are characteristic of measles. A is wrong: both cause maculopapular rashes. B is wrong: both cause fever (milder in rubella). C is wrong: both rashes start on the face and spread down. E is wrong: **post-auricular/suboccipital lymphadenopathy** is typical of **rubella**, so it points away from measles."
+    }
+  ],
+  "cases": [
+    {
+      "id": "msl-c01",
+      "title": "Measles with hypoxaemic pneumonia and malnutrition",
+      "presentation": "You are the intern at a regional referral hospital paediatric ward during an outbreak in Kassanda district. A 2-year-old girl is admitted with 4 days of fever, cough, runny nose and red eyes, followed by a rash that started behind her ears 3 days ago. Her brother had a similar illness 2 weeks ago. Weight 9.5 kg, height 82 cm, MUAC 12.1 cm, no oedema.",
+      "steps": [
+        { "prompt": "What do you do first on arrival?", "answer": "**Isolate** (separate bay/room, airborne precautions, immune staff). **ETAT**: RR 54, lower chest indrawing, **SpO2 88%** → **oxygen** by nasal prongs to SpO2 ≥90%; HR 150, CRT 2 s (no shock); alert; no stridor; glucose 4.6. Weigh and measure: **WHZ −2.4** (moderate acute malnutrition), MUAC 12.1 cm (MAM), no oedema." },
+        { "prompt": "What history will you take quickly, and why?", "answer": "Sequence and date of rash (infectiousness until 4 days after rash onset); contacts (brother; notify the outbreak); **card**: MR1 given, **MR2 missed**; recent vitamin A/albendazole (8 months ago); feeding and **food taboos** (family stopped beans and fish); diarrhoea, ear discharge, eye pain, mouth pain; convulsions; **HIV** (mother negative; child unknown); TB contacts." },
+        { "prompt": "Examination shows clear corneas, superficial mouth ulcers, conjunctivitis without pus, no ear discharge, crackles at the right base. What are your diagnoses and treatment, with doses?", "answer": "**Measles with severe (hypoxaemic) pneumonia** and **MAM**. **Vitamin A 200,000 IU** day 1, 2 and 14 (UCG). **Ampicillin 50 mg/kg = 475 mg IV 6-hourly + gentamicin 7.5 mg/kg ≈ 70 mg IV daily** (or ceftriaxone 80–100 mg/kg/day); oxygen; paracetamol 15 mg/kg = 140 mg 6-hourly; salt-water mouth care + gentian violet 0.25%; eye cleaning; continue breastfeeding and feeds (counsel against taboos)." },
+        { "prompt": "What else must you do beyond this child?", "answer": "**Notify** the district surveillance focal person (if this is among the first cases, take serum for IgM to UVRI); check vaccination of **other children on the ward** (vaccinate those aged 6 months or more without 2 doses within 72 h) and **siblings at home**; check staff immunity; health education about MR2 at 18 months." },
+        { "prompt": "On day 3 she is off oxygen, eating, afebrile. What is your discharge plan?", "answer": "Switch to **oral amoxicillin 40 mg/kg 12-hourly** to complete 5 days of antibiotics; **vitamin A day 14** dose (give a date or give to take home per policy); **HIV test**; enrol in a **supplementary feeding/MAM programme** (RUSF), growth monitoring; **MR2** once recovered; review at 1–2 weeks; warn about persistent cough or weight loss in the coming weeks (TB after measles)." }
+      ],
+      "takeaway": "Measles kills through its complications: isolate, give age-dosed vitamin A, treat hypoxaemic pneumonia as bacterial, support nutrition, and protect every contact with MR vaccine."
+    },
+    {
+      "id": "msl-c02",
+      "title": "A cloudy cornea at a HC II",
+      "presentation": "You are on community placement at a HC II in Kagadi district. A mother brings her 10-month-old son, who has had measles for 6 days. Since yesterday he refuses to breastfeed and keeps his eyes closed. A neighbour put 'traditional drops' in his eyes. Weight 7.4 kg.",
+      "steps": [
+        { "prompt": "What will you look for on examination?", "answer": "General danger signs (lethargy, unable to breastfeed, vomiting everything, convulsions); **eyes**: open gently (pus, **corneal clouding or ulcer**, Bitot's spots, dryness); **mouth** (depth and extent of ulcers, thrush, cheek gangrene); chest (RR, indrawing); hydration; MUAC and oedema; temperature." },
+        { "prompt": "He is lethargic, the right cornea is hazy with a central white patch, and there is pus. Classify and treat at the HC II.", "answer": "**Severe complicated measles** (danger sign + corneal clouding). Give **vitamin A 100,000 IU** now (6–11 months); **ampicillin 50 mg/kg = 370 mg IM + gentamicin 7.5 mg/kg ≈ 55 mg IM** (or benzylpenicillin 50,000 IU/kg IM at HC II); clean the eyes, apply **tetracycline 1% eye ointment**, cover the right eye with a pad; check glucose or give sugar water/breast milk by cup; **refer urgently** with a note." },
+        { "prompt": "Why is this eye an emergency?", "answer": "Measles keratitis plus **vitamin A deficiency** (and harmful traditional remedies) can progress to **corneal ulceration, keratomalacia and perforation** within days, causing permanent blindness; measles is a leading cause of childhood blindness in Africa. Vitamin A, antibiotics and an ophthalmologist are needed urgently." },
+        { "prompt": "What will the hospital do for the eye and how will you follow him up?", "answer": "Continue **vitamin A** (day 2 and day 14), topical antibiotics, eye pad, **ophthalmology review** (fluorescein staining; atropine for pain if ulcerated, per ophthalmologist); **never steroid drops**; manage any malnutrition. Follow-up: visual assessment, nutrition, and **MR vaccination for siblings**; he should still receive MR at the scheduled ages (for rubella protection; an extra measles dose is harmless)." },
+        { "prompt": "How do you counsel the mother about traditional eye remedies and feeding?", "answer": "Explain gently that drops of herbs, urine or breast milk can infect or burn the eye; only clean water and the ointment from the clinic should be used. Encourage frequent breastfeeding and soft family foods including fish, eggs and beans (no food taboos); explain danger signs for return." }
+      ],
+      "takeaway": "Corneal clouding in measles is a blindness emergency: vitamin A, first-dose antibiotics, tetracycline ointment, an eye pad and urgent referral, and never steroid eye drops."
+    },
+    {
+      "id": "msl-c03",
+      "title": "A teenager with failing grades and jerks",
+      "presentation": "A 14-year-old boy is referred to Mulago neurology clinic because of 6 months of declining school performance, irritability and forgetfulness. For the past month, his arms jerk every few seconds and he falls. His mother recalls that he had a 'severe measles' at 10 months, before vaccination. Weight 38 kg.",
+      "steps": [
+        { "prompt": "What is your differential diagnosis?", "answer": "**SSPE** (top), HIV encephalopathy, neurocysticercosis or other epilepsy syndromes (progressive myoclonic epilepsy), Wilson's disease, adrenoleukodystrophy, depression or substance use, CNS TB or tumour, HIV-associated opportunistic infections." },
+        { "prompt": "What examination findings support SSPE?", "answer": "**Periodic myoclonic jerks** (every 5–10 s, may cause drop attacks), cognitive impairment, ataxia, spasticity in later stages, **chorioretinitis** on fundoscopy (in some), no fever or meningism." },
+        { "prompt": "Which investigations will you request and what do you expect?", "answer": "**EEG**: periodic high-voltage slow-wave complexes (Radermecker) synchronous with jerks; **CSF**: normal cells and protein, **markedly raised measles IgG** with a raised CSF:serum antibody index (oligoclonal bands); serum measles IgG very high; **MRI**: white-matter changes; HIV test." },
+        { "prompt": "How will you counsel the family?", "answer": "Explain that SSPE is caused by the measles infection he had as a baby, that it is progressive and usually fatal within 1–3 years, that there is **no cure**, and that treatment (antiepileptics for myoclonus, isoprinosine/interferon where available, physiotherapy, nutrition, palliative care) aims at comfort. It is not contagious and is not caused by vaccines." },
+        { "prompt": "What is the public-health lesson?", "answer": "SSPE risk is highest when measles occurs **under 2 years**, before the child is fully protected; the only prevention is **high MR coverage (≥95%, both doses)** so that infants are protected by herd immunity. Uganda's MR2 coverage of 64% (2025) leaves gaps that allow infant infections." }
+      ],
+      "takeaway": "SSPE is a fatal late complication of wild measles in infancy, recognised by cognitive decline with periodic myoclonus, periodic EEG complexes and high CSF measles antibody, and prevented only by vaccination."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023 (section 2.3.3 Measles; 17.3 IMCI measles classification; 17.3.8 immunization and vitamin A)", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Pocket Book of Hospital Care for Children, 2nd edition (section 6.4 Measles)", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "Measles fact sheet", "source": "World Health Organization", "year": 2025, "url": "https://www.who.int/news-room/fact-sheets/detail/measles" },
+    { "title": "Press statement on the measles outbreak and the upcoming national measles-rubella immunization campaign (30 April 2026)", "source": "Ministry of Health Uganda", "year": 2026, "url": "https://health.go.ug/download/press-statement-on-the-measles-outbreak-and-the-upcoming-national-measles-rubella-immunization-campaign" },
+    { "title": "Media brief: Update on routine immunization and vaccine-preventable diseases in Uganda", "source": "Ministry of Health Uganda", "year": 2026, "url": "https://health.go.ug/download/media-brief-on-routine-immunization-services-2026" },
+    { "title": "Guideline on management of pneumonia and diarrhoea in children up to 10 years of age", "source": "World Health Organization", "year": 2024, "url": "https://www.who.int/publications/i/item/9789240103412" },
+    { "title": "Measles (rubeola): overview and treatment", "source": "Medscape (eMedicine)", "url": "https://emedicine.medscape.com/article/966220-overview" },
+    { "title": "Clinical overview of measles", "source": "Centers for Disease Control and Prevention", "year": 2025, "url": "https://www.cdc.gov/measles/hcp/clinical-overview/index.html" }
+  ]
+}

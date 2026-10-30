@@ -1,0 +1,288 @@
+{
+  "slug": "malaria-in-children",
+  "flashcards": [
+    { "id": "malc-f01", "front": "First-line treatment for uncomplicated malaria in a Ugandan child (UCG 2023)?", "back": "**Artemether–lumefantrine (AL) 20/120 mg**, 6 doses at 0, 8, 24, 36, 48 and 60 h, with milk or fatty food. Alternative: artesunate–amodiaquine; second line: DHA–piperaquine." },
+    { "id": "malc-f02", "front": "AL weight bands (tablets per dose)?", "back": "**5–14 kg: 1 · 15–24 kg: 2 · 25–34 kg: 3 · ≥35 kg: 4** (\"5-15-25-35 → 1-2-3-4\")." },
+    { "id": "malc-f03", "front": "IV artesunate dose in children?", "back": "**3 mg/kg if under 20 kg; 2.4 mg/kg if 20 kg or more**, at 0, 12 and 24 h, then every 24 h until oral treatment is possible; then a **full 3-day ACT**." },
+    { "id": "malc-f04", "front": "How is IV artesunate prepared?", "back": "Reconstitute the vial with the **1 mL 5% sodium bicarbonate** supplied; for IV add **5 mL saline or 5% dextrose (10 mg/mL)** and give over about 5 min; for IM add **2 mL saline (20 mg/mL)** into the anterior thigh. Never water for injection. Use within 1 hour." },
+    { "id": "malc-f05", "front": "Pre-referral rectal artesunate doses (UCG 2023)?", "back": "Children **under 6 years only**: **100 mg** (1 suppository) for 4 months to <3 years (5–<14 kg); **200 mg** (2 suppositories) for 3 to <6 years (14–19 kg). Hold buttocks 10 min; repeat if expelled within 30 min; refer immediately." },
+    { "id": "malc-f06", "front": "Blantyre coma scale components?", "back": "**Eyes**: watches/follows 1, fails 0. **Motor**: localises pain 2, withdraws 1, nil/non-specific 0. **Verbal**: appropriate cry 2, moan/abnormal cry 1, none 0. Max 5; **≤2 = unrousable coma**." },
+    { "id": "malc-f07", "front": "Definition of cerebral malaria?", "back": "Unrousable coma (Blantyre ≤2) with *P. falciparum* parasitaemia, persisting **more than 1 hour after a seizure**, with **hypoglycaemia corrected** and other causes (meningitis, encephalitis) excluded." },
+    { "id": "malc-f08", "front": "Severe malarial anaemia (UCG 2023)?", "back": "**Hb <5 g/dL** (PCV <15%) with parasitaemia." },
+    { "id": "malc-f09", "front": "Transfusion criteria and volume in severe malaria?", "back": "Transfuse if **Hb ≤4 g/dL**, or **4–6 g/dL with respiratory distress, impaired consciousness, shock, heart failure or hyperparasitaemia**. **Whole blood 20 mL/kg** or **packed cells 10–15 mL/kg** over 3–4 h (10 mL/kg whole blood once in SAM)." },
+    { "id": "malc-f10", "front": "Treatment of hypoglycaemia in a child with malaria?", "back": "**10% dextrose 5 mL/kg IV** over 5–7 min (make it from 1 mL/kg of 50% + 4 mL/kg water). Recheck in 15–30 min; then dextrose-containing maintenance or NGT feeds. Never undiluted 50%." },
+    { "id": "malc-f11", "front": "Hypoglycaemia threshold in severe malaria?", "back": "UCG 2023 severe criterion: **<2.2 mmol/L** (40 mg/dL). WHO Pocket Book treats below **2.5 mmol/L** (**<3 mmol/L in severe malnutrition**)." },
+    { "id": "malc-f12", "front": "Anticonvulsant doses in severe malaria?", "back": "**Diazepam 0.5 mg/kg rectally** or **0.2–0.3 mg/kg slow IV** (max 10 mg), repeat once after 10 min; then **phenobarbital 15 mg/kg** IV/IM loading (UCG 10–15 mg/kg). Always check glucose." },
+    { "id": "malc-f13", "front": "What did the AQUAMAT trial show?", "back": "In 5,425 African children with severe malaria, **artesunate reduced mortality to 8.5% vs 10.9% with quinine** (22.5% relative reduction), with fewer convulsions, less coma and less hypoglycaemia (Lancet 2010)." },
+    { "id": "malc-f14", "front": "What did the FEAST trial show?", "back": "Fluid boluses in febrile African children with impaired perfusion (most had malaria or sepsis) **increased 48-h mortality** (about 10.6% vs 7.3%). Give boluses only for true shock." },
+    { "id": "malc-f15", "front": "How long does an HRP2 RDT stay positive after cure?", "back": "About **2–3 weeks** (sometimes longer). If fever returns within 3 weeks of treatment, use a **blood slide**." },
+    { "id": "malc-f16", "front": "When does UCG 2023 prefer a blood slide to an RDT?", "back": "Symptoms persist after completing treatment; child returns within 3 weeks of treatment; RDT negative with no other cause for fever. The thin film also gives **% parasitaemia** to follow response." },
+    { "id": "malc-f17", "front": "What is post-discharge malaria chemoprevention (PDMC) in Uganda?", "back": "UCG 2023: discharge every severe malaria case on **DHA–piperaquine**, then a **monthly 3-day DP course for 3 months**, with monthly review. WHO targets children admitted with severe anaemia." },
+    { "id": "malc-f18", "front": "Why recheck Hb 1–4 weeks after severe malaria treated with artesunate?", "back": "**Post-artesunate delayed haemolysis (PADH)**: red cells 'pitted' of parasites by the spleen are destroyed 1–3 weeks later. UCG: repeat Hb before discharge and about 28 days later." },
+    { "id": "malc-f19", "front": "Uganda's malaria vaccine schedule?", "back": "Introduced into routine immunisation in **April 2025** in 105–107 high-burden districts: **4 doses at 6, 7, 8 and 18 months** (0.5 mL IM)." },
+    { "id": "malc-f20", "front": "R21/Matrix-M phase 3 efficacy?", "back": "About **75% in seasonal** and **68% in standard (perennial) transmission sites** over 12 months after 3 doses (Lancet 2024); a booster a year later maintained protection. WHO recommended it in October 2023." },
+    { "id": "malc-f21", "front": "Why does falciparum malaria cause coma when the peripheral count may be low?", "back": "**Sequestration**: mature parasites express PfEMP1 and stick to endothelium in the brain and other organs, so they are hidden from the peripheral film while causing microvascular obstruction, inflammation and brain swelling." },
+    { "id": "malc-f22", "front": "Respiratory distress in severe malaria: commonest mechanism?", "back": "**Metabolic (lactic) acidosis**, usually with severe anaemia, not pneumonia. Deep (Kussmaul) breathing settles with **blood transfusion** and correction of perfusion." },
+    { "id": "malc-f23", "front": "Quinine IV regimen if artemisinins unavailable?", "back": "**20 mg/kg salt loading** in 10 mL/kg 5% dextrose over 2–4 h (omit if quinine in last 12–24 h), then **10 mg/kg every 8 h** over 2–4 h; never as a bolus. Watch for **hypoglycaemia**." },
+    { "id": "malc-f24", "front": "Maintenance fluids for a 12 kg child?", "back": "Holliday–Segar 100/50/20: 10 × 100 + 2 × 50 = **1100 mL/day ≈ 46 mL/h**. Give orally/NGT when possible; transfused blood counts." },
+    { "id": "malc-f25", "front": "Artemisinin partial resistance in Uganda?", "back": "**kelch13 mutations** (e.g. A675V, C469Y) with delayed parasite clearance were documented in **northern Uganda** (NEJM 2021). Partner drugs still cure most; complete the full course and check clearance if the child does not improve." },
+    { "id": "malc-f26", "front": "Most reliable sign of fluid overload in a child?", "back": "An **enlarging liver** (also basal crackles, gallop, eyelid oedema). Measure the liver edge on admission as a baseline." },
+    { "id": "malc-f27", "front": "Malaria prevention package in Uganda?", "back": "LLINs, IRS, **malaria vaccine** (6, 7, 8, 18 months), **SMC in Karamoja** (SP + amodiaquine monthly in the rainy season, 3–59 months), PDMC after severe malaria, IPTp with SP for mothers, cotrimoxazole in HIV, environmental control." }
+  ],
+  "mcqs": [
+    {
+      "id": "malc-q01",
+      "stem": "A 2-year-old boy weighing 11 kg is brought to Mengo emergency unit after two generalised convulsions at home. He is unresponsive: he does not follow his mother's face, withdraws his arm to nail-bed pressure and moans. Temperature 39.2 °C, RR 44, HR 160, CRT 2 s. Malaria RDT is positive. Bedside glucose is 1.9 mmol/L. What is the MOST appropriate immediate action?",
+      "options": [
+        "Give IV artesunate and observe the conscious level for 1 hour",
+        "Give 50% dextrose 1 mL/kg as an IV push",
+        "Give 10% dextrose 55 mL IV over 5–7 minutes and recheck glucose in 15–30 minutes",
+        "Insert a nasogastric tube and give sugar water before any IV drug",
+        "Give 0.9% saline 20 mL/kg as a bolus to improve cerebral perfusion"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: his Blantyre score is 2 (eyes 0, motor 1, verbal 1) and glucose is below 2.5 mmol/L, so hypoglycaemia must be corrected at once with **10% dextrose 5 mL/kg (11 kg × 5 = 55 mL)**, then rechecked; artesunate follows within the hour. A is wrong: artesunate is essential but leaving hypoglycaemia untreated can cause permanent brain injury, and the coma may be due to the low glucose. B is wrong: undiluted 50% dextrose is hyperosmolar and damages veins; UCG says never give it to children. D is wrong: NGT sugar is a fallback only when IV access is impossible. E is wrong: he is not in shock (CRT 2 s) and FEAST showed boluses increase mortality in such children."
+    },
+    {
+      "id": "malc-q02",
+      "stem": "A 4-year-old girl weighing 16 kg is admitted to a HC IV with severe malaria (prostration, RDT positive, Hb 7.2 g/dL, glucose 4.8 mmol/L). She is alert enough to cry but cannot sit. What is the correct first dose of IV artesunate?",
+      "options": [
+        "48 mg (3 mg/kg)",
+        "38.4 mg (2.4 mg/kg)",
+        "160 mg (10 mg/kg)",
+        "51 mg (3.2 mg/kg)",
+        "25.6 mg (1.6 mg/kg)"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: children **under 20 kg** need **3 mg/kg** (WHO since 2015; UCG 2023) because they have lower drug exposure at 2.4 mg/kg; 16 × 3 = 48 mg, at 0, 12 and 24 h. B is wrong: 2.4 mg/kg is the dose for children of 20 kg or more. C is wrong: 10 mg/kg is the rectal artesunate pre-referral dose. D is wrong: 3.2 mg/kg is the IM artemether loading dose. E is wrong: 1.6 mg/kg is the daily IM artemether maintenance dose."
+    },
+    {
+      "id": "malc-q03",
+      "stem": "An 18-month-old boy weighing 9 kg from Kasese lowlands has had fever for 4 days. He is very pale with severe palmar pallor, RR 64 with deep breathing and no chest indrawing, HR 170, CRT 2 s, chest clear, liver 2 cm. Blantyre score 5. RDT positive. HemoCue Hb 3.5 g/dL. Glucose 5.1 mmol/L. SpO2 95%. Which management step will MOST improve his breathing?",
+      "options": [
+        "Oxygen by nasal prongs at 1 L/min",
+        "0.9% saline 20 mL/kg over 15 minutes",
+        "IV ceftriaxone for presumed pneumonia",
+        "Furosemide 1 mg/kg IV",
+        "Whole blood 180 mL over 3–4 hours"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: deep breathing with very severe anaemia and a clear chest is **metabolic acidosis from anaemia**; the treatment is transfusion: whole blood **20 mL/kg (9 × 20 = 180 mL) over 3–4 h** (Hb ≤4 g/dL is an absolute indication). A is wrong: his SpO2 is normal; oxygen does not fix the lack of haemoglobin. B is wrong: he is not shocked, and FEAST showed boluses increase death; it would also dilute his Hb further. C is wrong: chest is clear with no indrawing; antibiotics may be considered for bacteraemia but will not settle the acidotic breathing. D is wrong: there are no signs of fluid overload; furosemide is only for overload during transfusion."
+    },
+    {
+      "id": "malc-q04",
+      "stem": "A 3-year-old girl (13 kg) at a HC II in Kayunga has had fever for 2 days. She now vomits everything and cannot sit up. The RDT is positive. The nearest HC IV is 2 hours away and the HC II has no injectable antimalarials. What should the health worker do?",
+      "options": [
+        "Give the first dose of AL and repeat if she vomits within 30 minutes",
+        "Give rectal artesunate 100 mg (one suppository) and refer immediately",
+        "Give rectal artesunate 200 mg (two suppositories) and refer immediately",
+        "Give rectal artesunate and keep her at the HC II for daily doses",
+        "Give paracetamol and review in 24 hours"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: vomiting everything and prostration are danger signs (severe malaria). At a facility without injectables, UCG 2023 gives **pre-referral rectal artesunate** (children under 6) and **immediate referral**; at 13 kg (5–<14 kg band, under 3 years) the dose is **100 mg = one suppository**. A is wrong: oral treatment is inappropriate when she vomits everything and is prostrate. C is wrong: 200 mg is for children of 3 to <6 years weighing 14–19 kg. D is wrong: rectal artesunate is a bridge only; CARAMAL showed poor outcomes when referral and injectable treatment plus ACT were not completed. E is wrong: delay can be fatal within hours."
+    },
+    {
+      "id": "malc-q05",
+      "stem": "A 5-year-old boy (18 kg) admitted with cerebral malaria has had three convulsions in the ward despite diazepam 0.5 mg/kg rectally given twice 10 minutes apart. Glucose is 4.6 mmol/L, SpO2 96%, airway protected. What is the MOST appropriate next drug?",
+      "options": [
+        "A third dose of rectal diazepam",
+        "Oral carbamazepine via nasogastric tube",
+        "Paracetamol 15 mg/kg and tepid sponging only",
+        "Phenobarbital 270 mg IV over 15–20 minutes",
+        "IV dexamethasone 0.15 mg/kg for cerebral oedema"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: after two benzodiazepine doses, give a second-line drug: **phenobarbital 15 mg/kg** (18 × 15 = 270 mg) IV slowly (or IM), monitoring breathing. A is wrong: more than two benzodiazepine doses adds respiratory depression without much benefit. B is wrong: carbamazepine is a maintenance drug with no role in acute status. C is wrong: fever control helps but will not stop ongoing seizures. E is wrong: steroids are harmful in cerebral malaria (older trials showed prolonged coma) and are not recommended."
+    },
+    {
+      "id": "malc-q06",
+      "stem": "A 6-year-old girl (19 kg) completed a supervised 3-day course of AL 11 days ago for slide-confirmed malaria and recovered. She now presents with 1 day of fever 38.6 °C, no danger signs. An HRP2-based RDT is positive. What is the BEST next step?",
+      "options": [
+        "Request a thick and thin blood slide before deciding on antimalarial treatment",
+        "Diagnose AL treatment failure and give DHA–piperaquine",
+        "Repeat AL because the RDT is positive",
+        "Admit and give IV artesunate",
+        "Reassure: a positive RDT after treatment is always a false positive"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: HRP2 antigen persists for **2–3 weeks after cure**, so a positive RDT within 3 weeks does not prove new or persistent infection; UCG 2023 recommends a **blood slide** in this situation, plus a search for other causes of fever. B is wrong: failure must be confirmed by microscopy before changing drugs. C is wrong: retreating on an RDT alone may miss the real cause (UTI, pneumonia, typhoid). D is wrong: she has no severe features. E is wrong: she may have a genuine new infection; 'always' is untrue."
+    },
+    {
+      "id": "malc-q07",
+      "stem": "A 2-year-old (10 kg) with severe malaria and Blantyre score 2 has received IV artesunate and dextrose. One hour later glucose is 5.2 mmol/L, there has been no further seizure, and he remains Blantyre 2. There is no papilloedema, pupils are equal and reactive, he is haemodynamically stable and the platelet count is 110 x 10^9/L. What should you do next?",
+      "options": [
+        "Give a further dose of artesunate now",
+        "Start IV mannitol",
+        "Perform a lumbar puncture",
+        "Give phenobarbital prophylaxis",
+        "Wait 24 hours and repeat the RDT"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: persistent coma after correction of glucose and seizures needs **meningitis excluded**; with no signs of raised ICP, stable circulation and adequate platelets, **LP is safe** (if not possible, give ceftriaxone). A is wrong: the next artesunate dose is due at 12 h; extra doses do not speed recovery. B is wrong: mannitol has not been shown to help cerebral malaria and is not routine. D is wrong: prophylactic anticonvulsants are not recommended (phenobarbital prophylaxis increased mortality when given without ventilatory support). E is wrong: the RDT is already positive; repeating it adds nothing."
+    },
+    {
+      "id": "malc-q08",
+      "stem": "A 9-month-old girl (7.5 kg, MUAC 12.8 cm) is seen at OPD with 2 days of fever. She is breastfeeding well, alert, RR 42, no vomiting. RDT positive. Which prescription is correct?",
+      "options": [
+        "AL 20/120 mg, 2 tablets per dose for 6 doses",
+        "AL 20/120 mg, 1 tablet once daily for 3 days",
+        "IM artesunate 3 mg/kg, then oral AL",
+        "Quinine tablets 10 mg/kg every 8 hours for 7 days",
+        "AL 20/120 mg, 1 tablet per dose at 0, 8, 24, 36, 48 and 60 hours with breast milk or food"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: uncomplicated malaria in a 5–14 kg child = **1 tablet AL per dose, 6 doses over 3 days**, taken with milk or a fatty meal for lumefantrine absorption. A is wrong: 2 tablets is the 15–24 kg band. B is wrong: AL is given twice daily (6 doses), not once daily. C is wrong: she has no severe features, so parenteral treatment is not indicated. D is wrong: quinine is reserved for when ACTs are unavailable; adherence to 21 doses is poor."
+    },
+    {
+      "id": "malc-q09",
+      "stem": "A 4-year-old boy (15 kg) with severe malaria is in the ward. Since admission he has received 0.9% saline at 100 mL/h for 6 hours plus 300 mL of whole blood. He now has RR 58, fine basal crackles, a gallop rhythm and the liver edge has moved from 2 cm to 5 cm below the costal margin. What is the MOST appropriate action?",
+      "options": [
+        "Give another 20 mL/kg bolus because he is tachycardic",
+        "Stop IV fluids, sit him up, give oxygen and furosemide 1 mg/kg IV",
+        "Start a second unit of blood",
+        "Change to 10% dextrose at the same rate",
+        "Give IV ceftriaxone for hospital-acquired pneumonia and continue fluids"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: an enlarging liver, gallop and crackles mean **fluid overload**; he received far more than maintenance (15 kg ≈ 1250 mL/day ≈ 52 mL/h) plus 20 mL/kg blood. Stop IV fluids, sit up, oxygen, **furosemide 1 mg/kg** (UCG 1–2 mg/kg). A is wrong: more fluid worsens pulmonary oedema. C is wrong: no indication for further blood now, and it would add volume. D is wrong: changing the fluid type does not reduce volume. E is wrong: the picture is overload, not infection; continuing fluids is harmful."
+    },
+    {
+      "id": "malc-q10",
+      "stem": "A 7-year-old girl (24 kg) is ready for discharge after 3 days of IV artesunate for severe malaria with severe anaemia (transfused once). She is eating well, Hb 8.4 g/dL. Which discharge plan follows UCG 2023?",
+      "options": [
+        "Stop antimalarials because IV artesunate has cleared the parasites",
+        "AL for 3 days, then review only if fever recurs",
+        "Weekly chloroquine prophylaxis until the rainy season ends",
+        "DHA–piperaquine for 3 days, then monthly 3-day DP courses for 3 months with Hb rechecked at about 28 days",
+        "Primaquine 0.25 mg/kg single dose and discharge"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: UCG 2023 says discharge all severe malaria cases on **DP**, review monthly for 3 months and give **monthly DP (post-discharge malaria chemoprevention)**, and repeat the Hb around **28 days** because of delayed post-artesunate haemolysis and re-infection. A is wrong: parenteral artesunate must always be followed by a full oral ACT. B is wrong: AL completes treatment but misses PDMC and the Hb follow-up. C is wrong: chloroquine is not used for prevention in this group (high resistance). E is wrong: single low-dose primaquine is a transmission-blocking measure, not treatment completion."
+    },
+    {
+      "id": "malc-q11",
+      "stem": "Which statement about the malaria vaccine in Uganda is correct?",
+      "options": [
+        "It is given as a single dose at birth with BCG",
+        "It replaces the need for bed nets in vaccinated children",
+        "It is given as 4 doses at 6, 7, 8 and 18 months in the routine schedule introduced in April 2025",
+        "It is contraindicated in HIV-exposed infants",
+        "A vaccinated child with fever can be treated without a malaria test"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: the MoH introduced the malaria vaccine into routine immunisation in **April 2025** in 105–107 high-burden districts, **4 doses at 6, 7, 8 and 18 months**. A is wrong: it is not given at birth. B is wrong: efficacy is partial (RTS,S about 36% over 4 years; R21 about 68–75% over the first year), so nets and prompt testing remain essential. D is wrong: HIV exposure is not a contraindication. E is wrong: every febrile child still needs a malaria test (UCG 'test before treat')."
+    },
+    {
+      "id": "malc-q12",
+      "stem": "A 3-year-old boy (14 kg) is admitted with severe malaria. On day 2, the nurse reports passing of dark 'Coca-Cola' urine. Dipstick shows 3+ blood but microscopy shows no red cells. Urine output is 1.2 mL/kg/h. Hb has fallen from 7.8 to 6.1 g/dL. He is alert and breathing normally. What is the BEST interpretation and plan?",
+      "options": [
+        "Haemoglobinuria from intravascular haemolysis: continue artesunate, maintain hydration, monitor Hb and renal function, transfuse if criteria are met",
+        "Acute glomerulonephritis: restrict fluids and give furosemide",
+        "Urinary tract infection: start ciprofloxacin",
+        "Schistosoma haematobium: give praziquantel",
+        "Artesunate allergy: switch to IV quinine"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: dipstick blood without red cells on microscopy = **free haemoglobin (haemoglobinuria)** from intravascular haemolysis, a severe malaria feature; continue artesunate, keep him hydrated, watch creatinine and urine output, and transfuse if Hb falls to ≤4 or he decompensates. B is wrong: AGN gives red cells/casts, oedema and hypertension. C is wrong: there is no pyuria or symptoms of UTI. D is wrong: schistosomal haematuria contains red cells and is chronic. E is wrong: haemolysis is part of the disease (or delayed post-artesunate haemolysis), not an allergy; quinine is less effective."
+    },
+    {
+      "id": "malc-q13",
+      "stem": "A 4-year-old girl (16 kg) arrives with severe malaria. She has cold hands, CRT 4 seconds, a weak fast pulse of 180/min, and is lethargic. Hb is 9.1 g/dL, glucose 4.0 mmol/L. She is not malnourished. What fluid should you give first?",
+      "options": [
+        "No fluid; give maintenance via NGT only",
+        "5% dextrose 20 mL/kg over 15 minutes",
+        "Whole blood 20 mL/kg over 4 hours",
+        "Half-strength Darrow's 15 mL/kg over 1 hour",
+        "0.9% saline (or Ringer's lactate) 10–20 mL/kg rapidly, then reassess"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: cold hands + CRT >3 s + weak fast pulse = **shock** (ETAT), so a crystalloid bolus is indicated: UCG gives 20 mL/kg 0.9% saline in 15 min; WHO ETAT 2016 says 10–20 mL/kg and reassess; then look for sepsis and give antibiotics. A is wrong: FEAST argues against boluses for children *without* shock, but this child has established shock. B is wrong: dextrose solutions do not stay in the circulation and cause hyperglycaemia. C is wrong: her Hb is 9.1 g/dL; blood is for severe anaemia. D is wrong: the slower Darrow's/RL-dextrose regimen is for children with severe acute malnutrition."
+    },
+    {
+      "id": "malc-q14",
+      "stem": "A 5-year-old (18 kg) is being treated with IV quinine because artesunate is out of stock. Six hours after the loading dose he becomes restless and sweaty, then drowsy. Blantyre was 5 on admission, now 3. What is the FIRST thing to check?",
+      "options": [
+        "Serum sodium",
+        "Bedside blood glucose",
+        "Repeat blood slide",
+        "Lumbar puncture",
+        "ECG for QT prolongation"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: quinine stimulates **insulin release** and causes **hypoglycaemia**, which presents with sweating, restlessness and falling consciousness; glucose takes seconds and treatment (10% dextrose 5 mL/kg) is immediate. A is wrong: hyponatraemia is possible but slower to check and less likely. C is wrong: parasite count will not explain an acute fall over minutes. D is wrong: LP may be needed later, but only after glucose is checked and corrected. E is wrong: QT prolongation causes arrhythmia, not this picture, and an ECG comes after the glucose."
+    },
+    {
+      "id": "malc-q15",
+      "stem": "Which feature on its own classifies a parasitaemic child as having SEVERE malaria under UCG 2023?",
+      "options": [
+        "Temperature 38.9 °C",
+        "Two vomits in 24 hours but able to drink",
+        "Palpable spleen 4 cm below the costal margin",
+        "Two generalised convulsions in the past 24 hours",
+        "Hb 7.5 g/dL"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: **two or more convulsions in 24 h** is a defining feature of severe malaria (UCG 2023; WHO). A is wrong: fever alone is uncomplicated (UCG lists hyperpyrexia >39.5 °C only as a supporting feature). B is wrong: severe vomiting means vomiting everything or unable to drink; this child can drink. C is wrong: splenomegaly is common in uncomplicated malaria. E is wrong: severe malarial anaemia is Hb **<5 g/dL**; 7.5 g/dL is moderate anaemia."
+    }
+  ],
+  "cases": [
+    {
+      "id": "malc-c01",
+      "title": "Convulsions and coma in a 3-year-old",
+      "presentation": "You are the intern at Mengo Hospital paediatric emergency at 21:00. A 3-year-old boy from Mukono is carried in by his mother. He has had fever for 3 days, was given 'some tablets' from a drug shop yesterday, and had three generalised convulsions today, the last 30 minutes ago. He has not passed urine since morning. Weight 12 kg.",
+      "steps": [
+        { "prompt": "What do you do in the first 5 minutes?", "answer": "**ETAT**: airway (suction, recovery position), breathing (RR 48, SpO2 93% → oxygen), circulation (HR 158, CRT 2 s, warm hands: not shocked), **coma check**: Blantyre score = eyes 0, motor 1 (withdraws), verbal 1 (moans) = **2**. Not convulsing now. IV access; bedside **glucose, HemoCue Hb, RDT**; cross-match and blood culture. Weigh (12 kg)." },
+        { "prompt": "Glucose is 1.8 mmol/L, Hb 6.4 g/dL, RDT positive. What do you give, with doses?", "answer": "**10% dextrose 5 mL/kg = 60 mL IV** over 5–7 min (12 mL of 50% + 48 mL water), recheck glucose at 15–30 min. **IV artesunate 3 mg/kg = 36 mg** (under 20 kg): 60 mg vial + 1 mL bicarbonate + 5 mL saline = 10 mg/mL → **3.6 mL IV** over 5 min; repeat at 12 and 24 h, then daily. Paracetamol 15 mg/kg = 180 mg rectally for fever. No transfusion yet (Hb >6 and no respiratory distress or shock), but keep blood cross-matched." },
+        { "prompt": "What else must you take from the history now?", "answer": "**What were the tablets** (antimalarial? quinine within 12–24 h?); number and type of seizures (focal → meningitis/encephalitis); vomiting, ability to drink; **dark urine**; previous admissions or transfusions (SCD?); **HIV status** of child and mother; **immunisation card** (Hib, PCV for meningitis risk; malaria vaccine); feeding and weight trend; net use; recent travel." },
+        { "prompt": "One hour later glucose is 5.6 mmol/L, no further seizures, but Blantyre is still 2. Neck is not stiff; pupils equal and reactive; no posturing; BP and pulse stable; platelets 98 x 10^9/L. What is your differential and next step?", "answer": "Differential: **cerebral malaria**, **bacterial meningitis** (co-existing), encephalitis, ongoing **subtle seizures**, post-ictal state from an unwitnessed seizure. No signs of raised ICP and platelets adequate → **lumbar puncture** now. Start **ceftriaxone 100 mg/kg = 1.2 g IV** once daily until CSF results are back (also covers bacteraemia). Look for subtle seizures (eye deviation, nystagmus, twitching)." },
+        { "prompt": "CSF is clear: WBC 2/µL, protein 0.3 g/L, glucose 3.2 mmol/L (blood 5.4), Gram stain negative. How do you manage him on the ward?", "answer": "**Cerebral malaria** confirmed (normal CSF). Continue artesunate; stop ceftriaxone if blood culture negative and CSF normal (or complete a short course if very sick, per senior). **Nursing**: recovery position, turn 2-hourly, **NGT** (feeds and drugs), eye care, catheter for urine output. **Monitoring**: Blantyre, vitals and **glucose 4-hourly**, urine output, liver size, Hb daily. **Fluids**: maintenance 1100 mL/day (about 46 mL/h) including feeds; no boluses. Treat seizures with diazepam then phenobarbital 15 mg/kg = 180 mg." },
+        { "prompt": "He wakes on day 2 and takes oral medication. What is your discharge and follow-up plan?", "answer": "After at least 3 artesunate doses (24 h) and able to swallow: **DHA–piperaquine** 3 days (UCG), then **monthly DP for 3 months (PDMC)**. **Neurological assessment** before discharge (gait, vision, hearing, speech, behaviour): 10–20% have sequelae; refer for rehabilitation if any. **Hb at about 2–4 weeks** (delayed haemolysis). HIV test if not done; iron and deworming once infection settles; net counselling; danger signs; catch-up malaria vaccine per district policy." }
+      ],
+      "takeaway": "In a comatose child with a positive RDT, correct glucose and stop seizures first, give artesunate at the right weight-based dose (3 mg/kg under 20 kg), and do not label it cerebral malaria until meningitis is excluded."
+    },
+    {
+      "id": "malc-c02",
+      "title": "Severe malarial anaemia at a HC IV",
+      "presentation": "You are the medical officer at a HC IV in Kasese district. A 14-month-old girl is brought in by her grandmother with 5 days of fever and 'fast breathing' since this morning. She is still breastfeeding. Weight 8 kg, length 74 cm, MUAC 12.9 cm. The HC IV has a small blood fridge but only one unit of group O whole blood today.",
+      "steps": [
+        { "prompt": "What examination findings will you look for and how do you triage her?", "answer": "ETAT: RR 66, **deep breathing** without chest indrawing, SpO2 94%, HR 172, CRT 2 s, warm hands. **Severe palmar pallor**, no jaundice. Blantyre 5 but irritable; spleen 4 cm; liver 2 cm (baseline). Chest: no crackles. No oedema of the feet. **Emergency/priority**: severe respiratory distress + severe pallor → resuscitation room. Weight-for-length Z about −1 (no SAM; MUAC ≥12.5 cm)." },
+        { "prompt": "Bedside tests: RDT positive, HemoCue Hb 3.2 g/dL, glucose 4.9 mmol/L. What is your diagnosis and immediate management?", "answer": "**Severe malaria with severe malarial anaemia (Hb <5) and respiratory distress from metabolic acidosis.** Oxygen if SpO2 <90% or severe distress. **IV artesunate 3 mg/kg = 24 mg**. **Transfuse whole blood 20 mL/kg = 160 mL over 3–4 h** (Hb ≤4 = absolute indication). No saline bolus (not shocked; FEAST). Group, cross-match and check blood safety labelling; take blood for blood culture/FBC before transfusion if possible." },
+        { "prompt": "What will you monitor during the transfusion?", "answer": "Temperature, pulse, RR and BP **at baseline, 15 minutes, then every 30 min**; watch for **reactions** (fever, rash, rigors, wheeze, hypotension → stop) and **overload** (rising RR, crackles, **liver enlarging**, gallop) → slow/stop and give **furosemide 1 mg/kg = 8 mg IV**. Glucose before and after. Count the transfused volume in the daily fluid total." },
+        { "prompt": "After the transfusion her breathing is 38/min and quiet, Hb 7.0 g/dL. The next morning she is feeding. Which other problems will you look for?", "answer": "**Bacteraemia** (NTS is common with malarial anaemia: give ceftriaxone if febrile despite artesunate, high WBC or very ill), **sickle cell disease** (sickling test: splenomegaly at this age is also seen with malaria, but recurrent severe anaemia or a positive family history suggests SCD), **HIV** (test child; mother's status), **iron deficiency and hookworm** (too young for much hookworm, but check diet), and **growth/feeding** (complementary feeding counselling)." },
+        { "prompt": "Plan her treatment completion, discharge and prevention.", "answer": "Artesunate at 0, 12, 24 h then switch to **DP for 3 days**; **PDMC**: monthly DP for 3 months (both UCG 2023 and WHO, since she had severe anaemia). **Hb recheck at 2 and 4 weeks**; start **iron** (elemental iron about 3 mg/kg/day) once acute illness settles, with folic acid; deworm from 1 year (albendazole 200 mg at 12–23 months). LLIN for the household; malaria vaccine doses per UNEPI (she is past the 6–8 month window, so follow district catch-up policy). Teach the grandmother danger signs." },
+        { "prompt": "If there had been no blood at the HC IV, what would you have done?", "answer": "Give the first dose of **IV/IM artesunate**, oxygen, keep warm, correct glucose, then **refer urgently** to the RRH (Bwera/Fort Portal) with a referral note, a health worker escort if possible, the mother/grandmother to breastfeed, and call ahead. Do **not** give fluid boluses to 'buy time'." }
+      ],
+      "takeaway": "Deep breathing plus profound pallor in a child with malaria is acidosis from anaemia: the treatment is artesunate plus 20 mL/kg whole blood, not a fluid bolus, and severe anaemia earns post-discharge chemoprevention and Hb follow-up."
+    },
+    {
+      "id": "malc-c03",
+      "title": "From VHT to HC III: getting the referral right",
+      "presentation": "A VHT in Kayunga district sees a 2-year-old girl (weight 11 kg) at 07:00. She has had fever for 2 days, and since last night she vomits everything and will not sit up. The VHT's RDT is positive. The family must travel 15 km to the HC III.",
+      "steps": [
+        { "prompt": "What should the VHT do before the child leaves?", "answer": "Recognise **danger signs** (vomiting everything, unable to sit = prostration). Give **rectal artesunate 100 mg** (one suppository; 4 months–<3 years, 5–<14 kg), hold the buttocks together for 10 min, repeat if expelled within 30 min. Keep breastfeeding or give sips of sugar water to prevent hypoglycaemia, keep warm, write a referral note with the time of the dose, and **arrange immediate transport**." },
+        { "prompt": "She arrives at the HC III 3 hours later, drowsy (Blantyre 4), temperature 39.8 °C, RR 40, HR 150, CRT 2 s, glucose 2.3 mmol/L. What do you do?", "answer": "Glucose 2.3 is below 2.5 → **10% dextrose 5 mL/kg = 55 mL IV**, recheck. **IV (or IM) artesunate 3 mg/kg = 33 mg** now (rectal dose does not replace it). **Paracetamol 15 mg/kg = 165 mg**. Look for neck stiffness, pallor (HemoCue), dark urine. If the HC III cannot monitor overnight and give the 12-hour dose, refer to the HC IV with the drug chart." },
+        { "prompt": "At the HC IV next morning she is alert, Hb 8.9 g/dL, tolerating feeds. When can you switch to oral treatment and what will you give?", "answer": "After **at least 3 doses (0, 12, 24 h)** of parenteral artesunate and once she tolerates oral intake: a **full 3-day ACT** (UCG: discharge severe malaria on **DHA–piperaquine**: 10–20 kg band → 1 tablet daily × 3 days), then PDMC monthly × 3 months." },
+        { "prompt": "Her mother asks why the child got sick despite having a net. What will you assess and advise?", "answer": "Check **net use** (every night? torn? enough nets for all children?), the **immunisation card** (malaria vaccine at 6, 7, 8 and 18 months: she is 2 years; check whether she received any doses, as the rollout began in April 2025), early care-seeking (go to the VHT/HC the same day as fever), IRS in the area, and drain stagnant water. Nets reduce but do not abolish risk." },
+        { "prompt": "What would make this case a 'treatment failure' and how would you confirm it?", "answer": "Parasites **persisting or returning within 28 days** of a full, correctly taken course, confirmed by **microscopy** (not RDT, which stays positive). A child who is still febrile with a rising or unchanged parasite count on day 3 suggests slow clearance (relevant given **kelch13 partial resistance in northern Uganda**); report to the senior and use an alternative ACT." }
+      ],
+      "takeaway": "Rectal artesunate at the VHT or HC II is only the start: the child must reach a facility for injectable artesunate, glucose and fluids, followed by a full ACT and chemoprevention."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions (section 2.5.2 Malaria)", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "WHO Guidelines for malaria (consolidated, living guideline; latest version September 2026)", "source": "World Health Organization", "year": 2026, "url": "https://www.who.int/publications/i/item/guidelines-for-malaria" },
+    { "title": "Pocket Book of Hospital Care for Children, 2nd edition (section 6.2 Malaria)", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "Malaria fact sheet", "source": "World Health Organization", "year": 2025, "url": "https://www.who.int/news-room/fact-sheets/detail/malaria" },
+    { "title": "Joint press release: Minister of Health flags off malaria vaccines to 105 districts", "source": "Ministry of Health Uganda", "year": 2025, "url": "https://health.go.ug/download/joint-press-release-minister-flags-off-malaria-vaccine-to-105-districts" },
+    { "title": "Media brief: Update on routine immunization and vaccine-preventable diseases in Uganda", "source": "Ministry of Health Uganda", "year": 2026, "url": "https://health.go.ug/download/media-brief-on-routine-immunization-services-2026" },
+    { "title": "Dondorp AM et al. Artesunate versus quinine in the treatment of severe falciparum malaria in African children (AQUAMAT): an open-label, randomised trial", "source": "Lancet", "year": 2010, "url": "https://pubmed.ncbi.nlm.nih.gov/21062666/" },
+    { "title": "Maitland K et al. Mortality after fluid bolus in African children with severe infection (FEAST)", "source": "New England Journal of Medicine", "year": 2011, "url": "https://pubmed.ncbi.nlm.nih.gov/21615299/" },
+    { "title": "Datoo MS et al. Safety and efficacy of malaria vaccine candidate R21/Matrix-M in African children: a multicentre, double-blind, randomised, phase 3 trial", "source": "Lancet", "year": 2024, "url": "https://pubmed.ncbi.nlm.nih.gov/38310910/" },
+    { "title": "RTS,S Clinical Trials Partnership. Efficacy and safety of RTS,S/AS01 malaria vaccine with or without a booster dose in infants and children in Africa: final results of a phase 3 trial", "source": "Lancet", "year": 2015, "url": "https://pubmed.ncbi.nlm.nih.gov/25913272/" },
+    { "title": "Balikagala B et al. Evidence of artemisinin-resistant malaria in Africa", "source": "New England Journal of Medicine", "year": 2021, "url": "https://pubmed.ncbi.nlm.nih.gov/34551228/" },
+    { "title": "WHO recommends R21/Matrix-M vaccine for malaria prevention in updated advice on immunization", "source": "World Health Organization", "year": 2023, "url": "https://www.who.int/news/item/02-10-2023-who-recommends-r21-matrix-m-vaccine-for-malaria-prevention-in-updated-advice-on-immunization" },
+    { "title": "Artesunate (drug monograph: dosing)", "source": "Medscape Reference", "url": "https://reference.medscape.com/drug/artesunate-342684" },
+    { "title": "Malaria: treatment and management", "source": "Medscape (eMedicine)", "url": "https://emedicine.medscape.com/article/221134-treatment" }
+  ]
+}

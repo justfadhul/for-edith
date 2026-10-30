@@ -1,0 +1,283 @@
+{
+  "slug": "intestinal-worms",
+  "flashcards": [
+    { "id": "wrm-f01", "front": "Routine deworming in Uganda (UCG 2023)?", "back": "Every **6 months from 1 year**: **albendazole 200 mg (12–23 months) / 400 mg (≥2 years)** single dose, or **mebendazole 250 mg (1–2 years) / 500 mg (>2 years)**." },
+    { "id": "wrm-f02", "front": "WHO thresholds for STH preventive chemotherapy?", "back": "**Once yearly** where prevalence is **≥20%**; **twice yearly** where **≥50%**; for preschool and school-age children, adolescent girls and women of reproductive age (WHO 2017)." },
+    { "id": "wrm-f03", "front": "Name the soil-transmitted helminths.", "back": "***Ascaris lumbricoides*** (roundworm), ***Trichuris trichiura*** (whipworm), **hookworms** (*Necator americanus*, *Ancylostoma duodenale*) and ***Strongyloides stercoralis***." },
+    { "id": "wrm-f04", "front": "Which worms penetrate the skin?", "back": "**Hookworm, Strongyloides, Schistosoma** (mnemonic SHS) — prevented by shoes and avoiding infested water." },
+    { "id": "wrm-f05", "front": "How does hookworm cause anaemia?", "back": "Adults attach to the small-intestinal mucosa and **suck blood** (*Necator* ~0.03 mL/day, *Ancylostoma* ~0.15–0.2 mL/day per worm) → chronic blood and protein loss → **iron-deficiency anaemia** and hypoalbuminaemia." },
+    { "id": "wrm-f06", "front": "What is Löffler syndrome?", "back": "Transient **eosinophilic pneumonitis** (cough, wheeze, fleeting infiltrates, eosinophilia) as *Ascaris* (or hookworm) larvae migrate through the lungs." },
+    { "id": "wrm-f07", "front": "Surgical complications of Ascaris?", "back": "**Intestinal obstruction** (worm bolus), volvulus, intussusception, perforation, **biliary ascariasis** (colic, cholangitis), **pancreatitis**, liver abscess, appendicitis." },
+    { "id": "wrm-f08", "front": "Features of heavy Trichuris infection?", "back": "**Trichuris dysentery syndrome** (bloody mucoid diarrhoea), **rectal prolapse**, anaemia, **finger clubbing**, stunting. Treat with **albendazole 400 mg daily × 3 days**." },
+    { "id": "wrm-f09", "front": "Why is Strongyloides special?", "back": "**Autoinfection** (persists for decades), **missed by routine stool microscopy**, not cleared by single-dose albendazole, and **steroids/HTLV-1** trigger **hyperinfection** with Gram-negative sepsis/meningitis. Drug of choice: **ivermectin**." },
+    { "id": "wrm-f10", "front": "Ivermectin dose for Strongyloides?", "back": "**200 µg/kg** orally once daily for 1–2 days (CDC); UCG 2023 150 µg/kg single dose. **Avoid under 15 kg.** Alternative: albendazole 400 mg 12-hourly × 3 days (UCG)." },
+    { "id": "wrm-f11", "front": "What is larva currens?", "back": "A **fast-moving (cm per hour) serpiginous itchy rash** around the buttocks, perineum and trunk from migrating *Strongyloides* larvae (autoinfection)." },
+    { "id": "wrm-f12", "front": "Pinworm: symptoms, diagnosis and treatment?", "back": "**Night-time perianal itch**, poor sleep, vulvovaginitis. **Sticky-tape test** in the morning before washing. **Albendazole 400 mg (200 mg under 2) once, repeat after 2 weeks**; treat the whole household; hygiene." },
+    { "id": "wrm-f13", "front": "Praziquantel doses?", "back": "**Schistosomiasis 40 mg/kg** single dose; **Taenia 5–10 mg/kg** single dose; ***Hymenolepis nana* 25 mg/kg** single dose. Give with food; from 2 years." },
+    { "id": "wrm-f14", "front": "Niclosamide doses for tapeworm (UCG)?", "back": "**<2 years 500 mg; 2–6 years 1 g; >6 years 2 g**, chewed, single dose, followed by bisacodyl 2 hours later." },
+    { "id": "wrm-f15", "front": "What causes neurocysticercosis?", "back": "Swallowing ***Taenia solium* eggs** (faecal–oral from a human tapeworm carrier), not eating pork itself; larvae encyst in the brain → **seizures**, headache, hydrocephalus. **Image before treating** (UCG: refer)." },
+    { "id": "wrm-f16", "front": "S. mansoni vs S. haematobium?", "back": "***mansoni***: mesenteric veins, **lateral spine** eggs in stool, periportal fibrosis, portal hypertension. ***haematobium***: bladder venous plexus, **terminal spine** eggs in **midday urine**, terminal haematuria, hydronephrosis, bladder cancer." },
+    { "id": "wrm-f17", "front": "Why is liver function preserved in schistosomal portal hypertension?", "back": "Eggs cause **periportal (Symmers' pipe-stem) fibrosis** → **presinusoidal** portal hypertension; hepatocytes are spared, so albumin and clotting are usually normal (unlike cirrhosis)." },
+    { "id": "wrm-f18", "front": "Where is S. mansoni endemic in Uganda?", "back": "Shores of **Lake Victoria, Lake Albert, Lake Kyoga** and the **Albert Nile** (fishing communities, e.g. Mayuge, Namayingo, Buliisa, Pakwach)." },
+    { "id": "wrm-f19", "front": "WHO 2022 schistosomiasis guideline: preventive chemotherapy?", "back": "**Annual praziquantel 40 mg/kg** for all age groups **from 2 years** (including adults, pregnant women after the first trimester and lactating women) in communities with prevalence **≥10%**." },
+    { "id": "wrm-f20", "front": "When collect urine for S. haematobium eggs?", "back": "**Midday (10:00–14:00)**, when egg excretion peaks; filter 10 mL (heavy = ≥50 eggs/10 mL). Microscopic haematuria on dipstick is a good screening proxy." },
+    { "id": "wrm-f21", "front": "What does eosinophilia indicate in a child with worms?", "back": "**Tissue-migrating** stages: Ascaris/hookworm larvae, Strongyloides, schistosomes, Toxocara; adults sitting in the gut lumen often give **normal** eosinophils." },
+    { "id": "wrm-f22", "front": "Iron treatment for hookworm anaemia?", "back": "Deworm, then **elemental iron ~3 mg/kg/day for 3 months** with folic acid (after acute malaria/infection is treated); recheck Hb at 4 weeks (expect +1–2 g/dL)." },
+    { "id": "wrm-f23", "front": "Initial management of Ascaris bolus obstruction?", "back": "**NBM, NGT on free drainage, IV fluids and electrolytes, analgesia, early surgical review**; conservative for 24–48 h if no peritonism; anthelmintic per surgeon once settling; **laparotomy** for peritonitis, volvulus, intussusception or failure." },
+    { "id": "wrm-f24", "front": "Age limits for deworming drugs?", "back": "**Albendazole/mebendazole**: not routinely under 12 months. **Ivermectin**: avoid under 15 kg. **Praziquantel**: from 2 years (paediatric arpraziquantel for 3 months–6 years being introduced)." },
+    { "id": "wrm-f25", "front": "Kato-Katz heavy-intensity thresholds (eggs per gram)?", "back": "*Ascaris* **≥50,000**; *Trichuris* **≥10,000**; hookworm **≥4,000**; *S. mansoni* **≥400**." },
+    { "id": "wrm-f26", "front": "Key WASH measures against worms?", "back": "Latrine use, **handwashing with soap**, cutting nails, **wearing shoes**, washing/cooking food, cooking pork and beef well, safe water, **avoiding swimming/washing in lakes and slow rivers**." },
+    { "id": "wrm-f27", "front": "Identify the eggs: lemon-shaped with two polar plugs; round with a bumpy shell; D-shaped flattened on one side.", "back": "**Trichuris** (barrel/lemon with plugs); **Ascaris** (round, mammillated shell); **Enterobius** (D-shaped, flattened on one side)." }
+  ],
+  "mcqs": [
+    {
+      "id": "wrm-q01",
+      "stem": "An 8-year-old girl (21 kg) from Luweero is brought for tiredness and poor school performance. She walks barefoot and the family has no latrine. She is pale, HR 110, no heart failure. Hb 7.2 g/dL, MCV 61 fL, eosinophils 1.2 x 10^9/L. Malaria RDT negative. She was last dewormed 2 years ago. What is the MOST appropriate management?",
+      "options": [
+        "Transfuse whole blood 20 mL/kg today",
+        "Oral iron alone for 3 months",
+        "Praziquantel 40 mg/kg only",
+        "Albendazole 400 mg single dose plus oral elemental iron about 3 mg/kg/day for 3 months, WASH counselling, recheck Hb in 4 weeks",
+        "Ivermectin 200 µg/kg for 2 days only"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: microcytic anaemia with eosinophilia in a barefoot child without a latrine suggests **hookworm**; treat the cause (**albendazole 400 mg**) and the deficiency (**iron ~3 mg/kg/day for 3 months**), counsel on shoes and latrines, and recheck Hb at 4 weeks. A is wrong: she is compensated with Hb >4 g/dL; transfusion carries risk and is not indicated. B is wrong: iron without deworming leaves ongoing blood loss. C is wrong: praziquantel treats schistosomes, not hookworm, and there is no water-contact history. E is wrong: ivermectin is for Strongyloides; it does not replace iron and is not first line for hookworm."
+    },
+    {
+      "id": "wrm-q02",
+      "stem": "A 3-year-old boy (11.5 kg) vomited a long pink worm yesterday. He now has colicky abdominal pain, bilious vomiting and no stool for 2 days. HR 140, CRT 2 s, abdomen distended with a mobile periumbilical sausage-shaped mass, no guarding. Ultrasound shows a bolus of worms. What is the BEST initial management?",
+      "options": [
+        "Albendazole 400 mg orally now and discharge",
+        "Nil by mouth, nasogastric tube on free drainage, IV fluids with potassium, and urgent surgical review",
+        "Immediate laparotomy",
+        "Oral mebendazole 100 mg 12-hourly for 3 days at home",
+        "Barium meal to confirm the diagnosis"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: this is **partial small-bowel obstruction from an Ascaris bolus** without peritonism; start conservative management (**NBM, NGT decompression, IV fluids/electrolytes, analgesia**) with early surgical review; anthelmintic per the surgeon once the obstruction settles. A is wrong: oral treatment during obstruction may be vomited or provoke worm activity, and discharge is unsafe. C is wrong: surgery is for peritonitis, volvulus, intussusception or failure of conservative treatment. D is wrong: home treatment is unsafe for obstruction. E is wrong: barium is contraindicated in suspected obstruction and adds nothing to the ultrasound."
+    },
+    {
+      "id": "wrm-q03",
+      "stem": "A 6-year-old boy (19 kg) with newly diagnosed nephrotic syndrome is about to start prednisolone 60 mg/m2/day at a regional referral hospital in eastern Uganda. He has had intermittent loose stools and an itchy rash on his buttocks. Eosinophils are 1.4 x 10^9/L; stool wet prep is negative. What should be done before starting steroids?",
+      "options": [
+        "Nothing; a negative stool test excludes worms",
+        "Delay steroids for 3 months",
+        "Praziquantel 40 mg/kg",
+        "Repeat the stool wet prep weekly for a month",
+        "Give ivermectin 200 µg/kg (about 4 mg) and then start prednisolone"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: diarrhoea, an itchy buttock rash (larva currens) and eosinophilia suggest **Strongyloides**, which routine microscopy often misses; steroids can trigger fatal **hyperinfection**, so give **ivermectin 200 µg/kg** (19 kg → about 4 mg) before or as steroids start. A is wrong: a single wet prep has very low sensitivity for Strongyloides. B is wrong: nephrotic syndrome needs prompt steroids; empirical treatment makes them safe. C is wrong: praziquantel does not treat Strongyloides. D is wrong: delaying treatment for repeated tests is unnecessary when empirical ivermectin is cheap and safe."
+    },
+    {
+      "id": "wrm-q04",
+      "stem": "A 5-year-old girl (17 kg) wakes every night scratching her bottom and has developed vulval itching. Her 2 siblings have similar symptoms. Which is the BEST diagnostic test?",
+      "options": [
+        "Sticky-tape test of the perianal skin first thing in the morning before washing",
+        "Stool microscopy for ova",
+        "Full blood count for eosinophilia",
+        "Midday urine microscopy",
+        "Abdominal ultrasound"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: nocturnal perianal itch in several family members suggests **pinworm (Enterobius)**, whose females lay eggs on the **perianal skin at night**; the **sticky-tape test** in the morning (repeat on 3 mornings) detects them. B is wrong: eggs are rarely present in stool. C is wrong: pinworm rarely causes eosinophilia (no tissue migration). D is wrong: urine is for S. haematobium. E is wrong: ultrasound cannot show pinworms."
+    },
+    {
+      "id": "wrm-q05",
+      "stem": "For the same pinworm-infected 5-year-old (17 kg) and her family, which treatment plan is CORRECT?",
+      "options": [
+        "Praziquantel 40 mg/kg once for the child only",
+        "Ivermectin for the child only",
+        "Albendazole 400 mg for the child and family members (200 mg for any child aged 12–23 months), repeated after 2 weeks, plus nail-cutting, handwashing and washing bedding",
+        "Albendazole 400 mg daily for 3 days for the child only",
+        "Antihistamines alone"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: pinworm reinfects through fingers and bedding, so **treat the whole household** with **albendazole single dose, repeated after 2 weeks** (eggs hatch after the first dose), plus hygiene measures. A is wrong: praziquantel is for flukes and tapeworms. B is wrong: ivermectin is not first line and treating only the child leads to reinfection. D is wrong: the 3-day course is for heavy Trichuris; the key for pinworm is the repeat dose and family treatment. E is wrong: antihistamines relieve itch but do not kill the worms."
+    },
+    {
+      "id": "wrm-q06",
+      "stem": "A 12-year-old boy (30 kg) from Buliisa on the shore of Lake Albert presents with vomiting about 200 mL of fresh blood. He fishes with his father daily. HR 128, BP 92/60, pale. Spleen 8 cm below the costal margin, liver left lobe palpable, no jaundice, no ascites. Albumin 38 g/L, INR 1.1. What is the likeliest cause of the bleeding?",
+      "options": [
+        "Peptic ulcer from NSAIDs",
+        "Alcoholic cirrhosis",
+        "Hyperreactive malarial splenomegaly with thrombocytopenia",
+        "Oesophageal varices from presinusoidal portal hypertension due to Schistosoma mansoni",
+        "Hepatitis B cirrhosis"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: a lakeside fisherman's son with **massive splenomegaly, left-lobe hepatomegaly, haematemesis and preserved liver function** (normal albumin and INR, no jaundice) has **hepatosplenic S. mansoni** with **periportal fibrosis → presinusoidal portal hypertension → varices**. A is wrong: there is no NSAID history, and it would not explain the huge spleen. B is wrong: cirrhosis would impair synthetic function, and alcohol is unlikely at 12. C is wrong: HMS causes a huge spleen but not varices and haematemesis. E is wrong: hepatitis B cirrhosis would usually show low albumin, raised INR or jaundice."
+    },
+    {
+      "id": "wrm-q07",
+      "stem": "For the boy in the previous question, after resuscitation and endoscopic band ligation at Mulago, which antiparasitic treatment is indicated?",
+      "options": [
+        "Albendazole 400 mg single dose",
+        "Praziquantel 40 mg/kg (1.2 g) single dose once stable",
+        "Ivermectin 200 µg/kg",
+        "Niclosamide 2 g",
+        "No antiparasitic treatment because fibrosis is irreversible"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: **praziquantel 40 mg/kg** (30 kg → 1.2 g) kills adult schistosomes, stopping new egg deposition; early periportal fibrosis in children can regress. A is wrong: albendazole does not kill schistosomes. C is wrong: ivermectin is for Strongyloides. D is wrong: niclosamide treats tapeworms only. E is wrong: treatment prevents further damage and fibrosis may partly regress in children."
+    },
+    {
+      "id": "wrm-q08",
+      "stem": "A 10-year-old boy (26 kg) from a district with S. haematobium foci reports blood in his urine at the end of urination for 3 months. He swims in a slow river after school. No dysuria, BP 104/66, no oedema. Dipstick: blood 3+, protein trace, leucocytes negative, nitrites negative. What is the BEST next test?",
+      "options": [
+        "Urine culture for E. coli",
+        "Renal biopsy",
+        "Stool Kato-Katz",
+        "ASO titre and complement",
+        "Microscopy of a filtered midday urine sample for eggs with a terminal spine"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: **terminal haematuria** with river exposure suggests **S. haematobium**; eggs (terminal spine) are best found in **midday (10:00–14:00) urine** after filtration. A is wrong: no pyuria, nitrites or dysuria; UTI is unlikely. B is wrong: invasive and not indicated. C is wrong: stool Kato-Katz detects S. mansoni, not S. haematobium. D is wrong: post-streptococcal GN gives oedema, hypertension and brown urine with casts, which he does not have."
+    },
+    {
+      "id": "wrm-q09",
+      "stem": "A 7-year-old girl (22 kg) has had bloody mucoid diarrhoea for 2 months, tenesmus, and her rectum prolapsed twice this week. She is pale (Hb 8.1 g/dL) and has finger clubbing. Stool shows numerous barrel-shaped eggs with polar plugs. What is the MOST appropriate treatment?",
+      "options": [
+        "Albendazole 400 mg once daily for 3 days, iron, and gentle reduction of the prolapse",
+        "Albendazole 400 mg single dose",
+        "Ciprofloxacin for shigellosis",
+        "Metronidazole for amoebiasis",
+        "Immediate rectopexy"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: barrel-shaped eggs with polar plugs are **Trichuris**; heavy infection causes **Trichuris dysentery syndrome, rectal prolapse, anaemia and clubbing**. Single-dose cure rates are poor, so give **albendazole 400 mg daily for 3 days**, iron, and reduce the prolapse (it usually resolves once the worms are cleared). B is wrong: a single dose often fails in heavy whipworm infection. C is wrong: the stool shows Trichuris eggs, not a bacterial dysentery picture. D is wrong: there is no evidence of amoebiasis. E is wrong: surgery is rarely needed; the prolapse resolves with treatment."
+    },
+    {
+      "id": "wrm-q10",
+      "stem": "A 9-year-old girl (25 kg) from a pig-rearing village has had three focal seizures with secondary generalisation over a month. She is well between seizures and has no fever. Her father passes 'white flat pieces' in his stool. What is the BEST next step?",
+      "options": [
+        "Praziquantel 40 mg/kg immediately at the health centre",
+        "Albendazole 400 mg single dose and discharge",
+        "Brain imaging (CT or MRI) and referral, with anticonvulsants; treat the father's tapeworm with praziquantel",
+        "Lumbar puncture and ceftriaxone",
+        "Reassure: febrile seizures"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: focal seizures in a child whose household contact carries a **T. solium** tapeworm suggest **neurocysticercosis**; she needs **imaging** to define cyst number and stage, **anticonvulsants**, and specialist decisions about albendazole and steroids (UCG: refer). The **father must be treated** (praziquantel 5–10 mg/kg or niclosamide) to stop egg shedding. A is wrong: antiparasitic treatment without imaging can trigger inflammation, seizures and raised ICP. B is wrong: single-dose albendazole does not treat NCC and discharge ignores the seizures. D is wrong: there is no fever or meningism. E is wrong: she is afebrile, 9 years old and the seizures are focal."
+    },
+    {
+      "id": "wrm-q11",
+      "stem": "A mother brings her 9-month-old (8 kg) to a Child Days Plus outreach asking for 'worm medicine' and vitamin A. The baby is well, breastfeeding, and growing along the 0 Z-score line. What should the nurse give?",
+      "options": [
+        "Albendazole 200 mg and vitamin A 200,000 IU",
+        "Albendazole 400 mg and vitamin A 100,000 IU",
+        "Mebendazole 500 mg only",
+        "Vitamin A 100,000 IU only; start deworming at 12 months",
+        "Praziquantel 40 mg/kg and vitamin A 100,000 IU"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: routine **vitamin A** starts at **6 months** (100,000 IU for 6–11 months) while routine deworming starts at **12 months** (UCG 2023; WHO). A is wrong: no routine albendazole under 12 months, and 200,000 IU is the dose for ≥12 months. B is wrong: 400 mg albendazole is for ≥2 years and not for infants. C is wrong: no routine mebendazole under 1 year. E is wrong: praziquantel is given from 2 years and only in schistosomiasis-endemic programmes."
+    },
+    {
+      "id": "wrm-q12",
+      "stem": "A 4-year-old boy (14 kg) from Mayuge has hookworm and S. mansoni eggs on stool microscopy. He is well apart from mild pallor (Hb 9.6 g/dL). Which treatment combination is CORRECT?",
+      "options": [
+        "Ivermectin 2.8 mg plus albendazole 400 mg",
+        "Albendazole 400 mg single dose plus praziquantel 40 mg/kg (560 mg) single dose with food, and iron",
+        "Praziquantel 5 mg/kg plus mebendazole 100 mg",
+        "Albendazole 200 mg plus niclosamide 1 g",
+        "Mebendazole 500 mg alone because it treats all worms"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: polyparasitism is common at the lake; give **albendazole 400 mg** (≥2 years) for hookworm and **praziquantel 40 mg/kg** (14 × 40 = 560 mg) with food for S. mansoni, plus iron for the anaemia. A is wrong: ivermectin is avoided under 15 kg and does not treat schistosomes. C is wrong: 5 mg/kg praziquantel is the tapeworm dose, too low for schistosomiasis. D is wrong: 200 mg albendazole is for 12–23 months, and niclosamide treats tapeworm only. E is wrong: benzimidazoles do not kill schistosomes."
+    },
+    {
+      "id": "wrm-q13",
+      "stem": "A 2-year-old (12 kg) develops cough, wheeze and low-grade fever 10 days after his mother noticed an itchy rash on his feet. Chest X-ray shows patchy migratory infiltrates; eosinophils 2.1 x 10^9/L. Stool microscopy is negative. What is the likeliest explanation?",
+      "options": [
+        "Bacterial pneumonia",
+        "Acute asthma",
+        "Pulmonary tuberculosis",
+        "Foreign-body aspiration",
+        "Löffler syndrome from larval migration through the lungs (hookworm or Ascaris), before eggs appear in the stool"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: an itchy foot rash (larval skin penetration: 'ground itch'), then **cough, wheeze, migratory infiltrates and marked eosinophilia** with a **negative stool** (prepatent period) is **Löffler syndrome** from migrating larvae. Treat with an anthelmintic later (when adults are in the gut) and support symptoms. A is wrong: bacterial pneumonia does not cause marked eosinophilia or migratory shadows. B is wrong: a first episode of wheeze with eosinophilia and infiltrates after a skin rash fits larval migration better. C is wrong: TB has a subacute course with weight loss and contact history. D is wrong: no choking episode, and a foreign body gives fixed, not migratory, signs."
+    },
+    {
+      "id": "wrm-q14",
+      "stem": "A 6-year-old girl (18 kg) presents with severe colicky right upper quadrant pain, vomiting and mild jaundice 3 days after receiving albendazole at school. Ultrasound shows a tubular structure with a central echogenic line in a dilated common bile duct. Temperature 37.8 °C. What is the likeliest diagnosis?",
+      "options": [
+        "Biliary ascariasis",
+        "Acute viral hepatitis",
+        "Gallstones from sickle cell disease",
+        "Hydatid cyst rupture",
+        "Acute appendicitis"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: **biliary ascariasis** presents with biliary colic, vomiting and mild jaundice; ultrasound shows a **worm (tube with a central line, 'railway track') in the bile duct**; worms may migrate after anthelmintics or fever. Manage conservatively (NBM, analgesia, antispasmodics, antibiotics if cholangitis), with ERCP if persistent. B is wrong: viral hepatitis lacks colic and a duct mass. C is wrong: pigment stones would show acoustic shadowing, not a tubular worm, and there is no SCD history. D is wrong: hydatid disease gives cystic liver lesions. E is wrong: appendicitis does not cause jaundice or duct dilatation."
+    },
+    {
+      "id": "wrm-q15",
+      "stem": "Which statement about Strongyloides stercoralis is CORRECT?",
+      "options": [
+        "It is reliably diagnosed by a single routine stool wet prep",
+        "Single-dose albendazole mass treatment eliminates it",
+        "It can persist for decades through autoinfection and cause fatal hyperinfection when steroids are given",
+        "It is acquired by eating undercooked pork",
+        "It causes terminal haematuria"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: Strongyloides completes its life cycle within the host (**autoinfection**), so it persists for decades, and **immunosuppression (steroids, HTLV-1)** can trigger **hyperinfection** with Gram-negative sepsis and meningitis. A is wrong: larvae are few and intermittent; routine wet preps miss most infections (use concentration, agar plate or serology). B is wrong: WHO notes it is **not** sensitive to albendazole mass treatment; ivermectin is needed. D is wrong: it is acquired through skin penetration by soil larvae; pork transmits Taenia solium. E is wrong: terminal haematuria is S. haematobium."
+    }
+  ],
+  "cases": [
+    {
+      "id": "wrm-c01",
+      "title": "Vomiting worms and a blocked bowel",
+      "presentation": "You are the intern on the paediatric surgical ward at a regional referral hospital. A 3-year-old boy from Wakiso is admitted with 2 days of colicky abdominal pain, bilious vomiting and no stool, after vomiting a long pink worm at home. He has never been dewormed. Weight 11.5 kg, height 89 cm, MUAC 13.8 cm.",
+      "steps": [
+        { "prompt": "What are your first priorities?", "answer": "ETAT: airway (vomiting: positioning, suction), breathing, **circulation** (HR 140, CRT 2 s: mild dehydration, not shocked), glucose. **NBM**, **NGT on free drainage**, IV access, bloods (Hb, electrolytes, group and save), **IV fluids**: correct deficit (mild, 5% ≈ 575 mL over 24 h) plus maintenance 1075 mL/day, with **potassium** once passing urine. Analgesia." },
+        { "prompt": "What will you look for on abdominal examination, and which findings would mean surgery?", "answer": "Distension, visible peristalsis, **mobile sausage-shaped mass** (worm bolus), bowel sounds, tenderness. **Surgery** if **peritonism** (guarding, rebound), fever with tachycardia out of proportion, **blood per rectum** (intussusception/gangrene), signs of volvulus, free air on X-ray, or failure of conservative care in 24–48 h." },
+        { "prompt": "Ultrasound shows a 'whirlpool' bolus of worms in the jejunum; erect X-ray shows air–fluid levels; K+ 3.1 mmol/L. No peritonism. What is your plan?", "answer": "**Partial small-bowel obstruction from an Ascaris bolus**: conservative management for 24–48 h: NBM, NGT, IV fluids with **KCl**, 4-hourly abdominal review and girth measurement, strict input/output. **Anthelmintic per the surgeon** once obstruction settles (classically piperazine, which paralyses worms flaccidly, where available; then albendazole later). Avoid giving albendazole during complete obstruction." },
+        { "prompt": "On day 2 he passes many worms in stool, the distension settles and he is hungry. What next?", "answer": "Remove NGT, start oral fluids then feeds; give **albendazole 400 mg** (≥2 years) once tolerating oral intake (if not already given per surgeon), repeat routinely every 6 months. Check Hb and growth; vitamin A if due; **deworm the household**; WASH counselling (latrine, handwashing, nails, shoes, washing vegetables)." },
+        { "prompt": "Why do children aged 1–5 get Ascaris obstruction more than adults?", "answer": "Their **small-bowel lumen is narrow**, they have **heavy worm loads** from frequent soil contact and hand-to-mouth behaviour, and irritation (fever, drugs, anaesthesia) causes worms to **tangle into a bolus** that blocks the narrow ileum or jejunum." }
+      ],
+      "takeaway": "An Ascaris bolus is a surgical problem first: decompress, rehydrate and watch for peritonism; deworm once the bowel recovers, then fix the household's sanitation."
+    },
+    {
+      "id": "wrm-c02",
+      "title": "Pallor and a big spleen on the shores of Lake Victoria",
+      "presentation": "At a HC IV in Mayuge district, a 9-year-old boy is brought by his aunt for tiredness, poor school performance and a 'swollen tummy'. He swims and fishes in the lake daily and walks barefoot. Weight 22 kg, height 121 cm. Last dewormed 14 months ago.",
+      "steps": [
+        { "prompt": "What will you look for on examination?", "answer": "Pallor (palms, conjunctivae), koilonychia, heart rate and signs of heart failure, **oedema**, jaundice; abdomen: **liver (left lobe), spleen size**, ascites, prominent veins; skin; growth: **Z-scores** (weight-for-age −2.1, height-for-age −2.3 = **stunted**); MUAC." },
+        { "prompt": "He is pale, HR 108, spleen 4 cm, left lobe of the liver palpable, no jaundice. HemoCue Hb 6.8 g/dL. Stool wet prep: hookworm eggs and eggs with a lateral spine. Interpret.", "answer": "**Polyparasitism**: **hookworm** (iron-deficiency anaemia) and **S. mansoni** (lateral-spine eggs) with early **hepatosplenic** involvement. Anaemia is moderate–severe but compensated (no heart failure; Hb >4)." },
+        { "prompt": "Prescribe treatment with doses.", "answer": "**Albendazole 400 mg** single dose; **praziquantel 40 mg/kg = 880 mg** (≈ 1½ × 600 mg tablets) single dose with food (can split into two doses 4–6 h apart); **elemental iron ~3 mg/kg/day ≈ 66 mg/day** (e.g. ferrous sulphate 200 mg tablet once daily ≈ 65 mg elemental) with folic acid for **3 months**; malaria RDT (and treat if positive) before starting iron. No transfusion (Hb >4, compensated)." },
+        { "prompt": "Which investigation would help assess his liver disease and what would you expect?", "answer": "**Abdominal ultrasound**: **periportal fibrosis** (thickened echogenic portal tracts, 'pipe-stem'), splenomegaly, portal vein diameter; LFTs/albumin usually **normal** (presinusoidal disease). FBC: microcytosis, **eosinophilia**. Refer if varices suspected (any haematemesis or melaena)." },
+        { "prompt": "What prevention and follow-up will you arrange?", "answer": "Recheck Hb at **4 weeks** (expect +1–2 g/dL); repeat deworming every 6 months and **annual praziquantel** through the school programme; counsel on **shoes**, latrine use, avoiding lake water contact where possible, safe water; nutrition support for stunting; teach the aunt warning signs (vomiting blood, black stools, abdominal swelling)." }
+      ],
+      "takeaway": "Lakeside children often carry several worms at once: treat hookworm with albendazole plus iron and S. mansoni with praziquantel 40 mg/kg, and watch the spleen for portal hypertension."
+    },
+    {
+      "id": "wrm-c03",
+      "title": "Steroids, diarrhoea and a hidden worm",
+      "presentation": "A 6-year-old girl (19 kg) from Tororo is diagnosed with nephrotic syndrome at a regional referral hospital (heavy proteinuria, albumin 18 g/L, generalised oedema). The plan is prednisolone 60 mg/m2/day. She has had intermittent loose stools for months and an itchy rash around her buttocks that 'moves'.",
+      "steps": [
+        { "prompt": "Why should you think about worms before starting prednisolone?", "answer": "In an endemic area, **Strongyloides** may be present silently (autoinfection for years). High-dose steroids suppress cell-mediated immunity and can trigger **hyperinfection/dissemination** with Gram-negative sepsis and meningitis, often fatal. Her chronic loose stools and **moving rash (larva currens)** raise suspicion." },
+        { "prompt": "Her FBC shows eosinophils 1.4 x 10^9/L; a single stool wet prep is negative. What do you conclude and do?", "answer": "A single wet prep has **low sensitivity** for Strongyloides; eosinophilia plus symptoms make it likely. **Treat empirically: ivermectin 200 µg/kg ≈ 4 mg** (she weighs 19 kg, above the 15 kg threshold) once daily for 1–2 days, plus **albendazole 400 mg** for other STH. If possible, send concentrated stool/agar plate culture or serology. Start prednisolone without long delay." },
+        { "prompt": "Two weeks into prednisolone she develops fever, abdominal pain, cough, and drowsiness; blood culture grows E. coli. What do you suspect?", "answer": "**Strongyloides hyperinfection** (larvae carrying gut bacteria across the bowel wall → Gram-negative sepsis ± meningitis), or steroid-related sepsis/peritonitis (nephrotic children are also prone to pneumococcal peritonitis). Look for larvae in stool and sputum." },
+        { "prompt": "How do you manage suspected hyperinfection?", "answer": "ABC and sepsis care: IV access, fluids carefully (nephrotic), **ceftriaxone** (cover Gram-negatives; LP if safe for meningitis), **ivermectin 200 µg/kg daily until stool/sputum negative for 2 weeks**, **reduce steroids** to the lowest safe dose after discussion with the nephrologist, HDU/ICU referral, check HIV/HTLV-1 if available." },
+        { "prompt": "What is the key lesson for future steroid prescriptions?", "answer": "Before high-dose steroids (nephrotic syndrome, TB meningitis, severe asthma courses, leukaemia), **screen for or empirically treat Strongyloides** in children from endemic areas; it costs little and prevents a highly lethal complication." }
+      ],
+      "takeaway": "Strongyloides hides from routine stool tests and from albendazole; give ivermectin before high-dose steroids in a child from an endemic area."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023 (sections 2.4.1 Intestinal worms, 2.4.1.1 Taeniasis, 2.4.6 Schistosomiasis; 17.3.8 routine deworming)", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Preventive chemotherapy to control soil-transmitted helminth infections in at-risk population groups (guideline)", "source": "World Health Organization", "year": 2017, "url": "https://www.who.int/publications/i/item/9789241550116" },
+    { "title": "WHO guideline on control and elimination of human schistosomiasis", "source": "World Health Organization", "year": 2022, "url": "https://www.who.int/publications/i/item/9789240041608" },
+    { "title": "Soil-transmitted helminth infections (fact sheet)", "source": "World Health Organization", "url": "https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections" },
+    { "title": "Schistosomiasis (fact sheet)", "source": "World Health Organization", "url": "https://www.who.int/news-room/fact-sheets/detail/schistosomiasis" },
+    { "title": "Clinical care of soil-transmitted helminths", "source": "Centers for Disease Control and Prevention", "year": 2024, "url": "https://www.cdc.gov/sth/hcp/clinical-care/index.html" },
+    { "title": "Clinical care of Strongyloides", "source": "Centers for Disease Control and Prevention", "year": 2024, "url": "https://www.cdc.gov/strongyloides/hcp/clinical-care/index.html" },
+    { "title": "Clinical treatment of taeniasis", "source": "Centers for Disease Control and Prevention", "year": 2024, "url": "https://www.cdc.gov/taeniasis/hcp/clinical-care/index.html" },
+    { "title": "Ascariasis (overview)", "source": "Medscape (eMedicine)", "url": "https://emedicine.medscape.com/article/212510-overview" },
+    { "title": "Strongyloidiasis (overview)", "source": "Medscape (eMedicine)", "url": "https://emedicine.medscape.com/article/229312-overview" },
+    { "title": "Taylor-Robinson DC et al. Public health deworming programmes for soil-transmitted helminths in children living in endemic areas (Cochrane review)", "source": "Cochrane Database of Systematic Reviews", "year": 2019, "url": "https://pubmed.ncbi.nlm.nih.gov/31508807/" }
+  ]
+}

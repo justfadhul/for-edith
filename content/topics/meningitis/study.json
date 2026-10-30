@@ -1,0 +1,282 @@
+{
+  "slug": "meningitis",
+  "flashcards": [
+    { "id": "mng-f01", "front": "Commonest organisms causing neonatal meningitis?", "back": "**Group B streptococcus, *E. coli* and other Gram-negatives (*Klebsiella*)**, *Listeria* (rarely isolated in Africa), *S. pneumoniae*, *S. aureus*. Mnemonic **GEL**." },
+    { "id": "mng-f02", "front": "Commonest organisms causing bacterial meningitis after 3 months?", "back": "***S. pneumoniae*, *N. meningitidis*, *Hib*** (rare since vaccination); in Uganda also **non-typhoidal *Salmonella*** (infants, HIV, malaria, SCD, malnutrition)." },
+    { "id": "mng-f03", "front": "Signs of meningitis in a young infant?", "back": "Fever or hypothermia, **irritability**, high-pitched cry, **poor feeding**, vomiting, lethargy, **seizures**, apnoea, **bulging fontanelle** (late). Neck stiffness is often absent." },
+    { "id": "mng-f04", "front": "Kernig's and Brudzinski's signs?", "back": "**Kernig**: with hip flexed to 90°, extending the knee causes pain/resistance. **Brudzinski**: passive neck flexion causes involuntary hip and knee flexion. Both are unreliable under about 1 year." },
+    { "id": "mng-f05", "front": "Contraindications to lumbar puncture (SPIRAL)?", "back": "**S**hock, **P**latelets low/extensive purpura or bleeding risk, **I**CP raised (GCS ≤9 or falling, unequal/sluggish pupils, posturing, focal signs, Cushing triad), **R**espiratory failure, **A**ctive (uncontrolled) seizures, **L**ocal skin infection at the site." },
+    { "id": "mng-f06", "front": "Normal CSF in a child over 1 month?", "back": "Clear; **WBC 0–5/µL, no neutrophils**; **protein <0.4 g/L**; **CSF:blood glucose ≥0.6** (≥2.5 mmol/L); opening pressure <20 cm H2O." },
+    { "id": "mng-f07", "front": "Normal CSF in a neonate?", "back": "**WBC up to about 20/µL**, **protein up to 1.0 g/L** (higher in preterms), glucose ratio ≥0.6. Thresholds are higher than in older children." },
+    { "id": "mng-f08", "front": "Typical CSF in bacterial meningitis?", "back": "**Turbid**, **neutrophils 100–10,000/µL**, **protein >1 g/L**, **CSF:blood glucose <0.4** (WHO: glucose <1.5 mmol/L); Gram stain positive in about half." },
+    { "id": "mng-f09", "front": "Typical CSF in TB meningitis?", "back": "Clear with a **cobweb clot**, **lymphocytes 50–500/µL**, **protein 1–5 g/L (very high)**, **glucose very low (ratio <0.3)**; ZN rarely positive; send GeneXpert Ultra." },
+    { "id": "mng-f10", "front": "Typical CSF in cryptococcal meningitis?", "back": "Clear, **few cells (often <50, may be near 0)**, lymphocytes, normal to mildly raised protein, normal/low glucose, **India ink and CrAg positive**, **opening pressure high (>25 cm H2O)**." },
+    { "id": "mng-f11", "front": "Empirical antibiotic for meningitis in a child over 1 month (UCG 2023)?", "back": "**Ceftriaxone 100 mg/kg/day** IV/IM, once daily or 50 mg/kg 12-hourly, **max 4 g/day**, for **10–14 days**. Alternative: chloramphenicol 25 mg/kg 6-hourly." },
+    { "id": "mng-f12", "front": "Empirical antibiotics for neonatal meningitis (UCG 2023)?", "back": "**Ampicillin 50–100 mg/kg** (12-hourly week 1, 8-hourly after) **+ gentamicin** (UCG 2.5 mg/kg 12-hourly; WHO 5 mg/kg daily term, 3 mg/kg LBW), or cefotaxime + ampicillin; **21 days**." },
+    { "id": "mng-f13", "front": "Why avoid ceftriaxone in some neonates?", "back": "It **displaces bilirubin** (kernicterus risk in jaundiced/preterm babies) and forms **fatal precipitates with calcium-containing IV fluids** (e.g. Ringer's lactate). Use cefotaxime." },
+    { "id": "mng-f14", "front": "Dexamethasone dose and timing in bacterial meningitis?", "back": "**0.15 mg/kg IV 6-hourly for 4 days** (2–4 days), first dose **with or 10–20 min before** the first antibiotic; not if >12 h after antibiotics. NICE: over 3 months; continue only for pneumococcus or Hib." },
+    { "id": "mng-f15", "front": "Where is dexamethasone NOT recommended (WHO Pocket Book)?", "back": "**Neonates**, presumed **cerebral malaria**, presumed **viral encephalitis**, and routine use in low-income settings (no benefit shown). **Always give steroids in TB meningitis.**" },
+    { "id": "mng-f16", "front": "Meningococcal contact prophylaxis doses (child)?", "back": "**Ciprofloxacin 10 mg/kg** single oral dose (max 500 mg) (UCG first choice); or **ceftriaxone** single IM dose (UCG 150 mg under 12 years); or **rifampicin 10 mg/kg** (5 mg/kg under 1 month) 12-hourly × 2 days (max 600 mg)." },
+    { "id": "mng-f17", "front": "Hib household prophylaxis?", "back": "**Rifampicin 20 mg/kg once daily for 4 days** (max 600 mg) when there is an unvaccinated or incompletely vaccinated child under 4 in the household." },
+    { "id": "mng-f18", "front": "Commonest long-term complication of bacterial meningitis and the follow-up?", "back": "**Sensorineural hearing loss** (most after pneumococcal meningitis). NICE NG240: **audiology within 4 weeks** of being well enough, preferably before discharge." },
+    { "id": "mng-f19", "front": "Subdural effusion after meningitis: clues?", "back": "Infant with **persistent or recurrent fever**, **enlarging head circumference**, bulging fontanelle, seizures or focal signs, typically after Hib or pneumococcal meningitis. Cranial US (open fontanelle) or CT." },
+    { "id": "mng-f20", "front": "TB meningitis regimen in Uganda and WHO 2022?", "back": "UCG 2023: **2RHZE/10RH** (12 months) + steroids. WHO 2022 children's guideline: alternative **6-month intensive regimen (6HRZEto)** for TBM without suspected drug resistance." },
+    { "id": "mng-f21", "front": "Steroid dose in TB meningitis?", "back": "**Dexamethasone 0.6 mg/kg/day** (WHO Pocket Book) or **prednisolone 2 mg/kg/day (max 60 mg) for 4 weeks**, then taper over 2–4 weeks." },
+    { "id": "mng-f22", "front": "MRC staging of TB meningitis?", "back": "**Stage I**: alert, no focal signs. **Stage II**: GCS 11–14 or focal signs (e.g. cranial nerve palsy). **Stage III**: GCS ≤10. Higher stage = worse outcome." },
+    { "id": "mng-f23", "front": "Cryptococcal meningitis induction (WHO 2022)?", "back": "**Single high-dose liposomal amphotericin B 10 mg/kg** + **flucytosine 100 mg/kg/day** + **fluconazole 12 mg/kg/day** (max 800 mg) for 14 days; therapeutic LPs for high pressure; **delay ART 4–6 weeks**." },
+    { "id": "mng-f24", "front": "How do you manage raised CSF pressure in cryptococcal meningitis?", "back": "**Therapeutic lumbar punctures**: drain CSF until the opening pressure halves or is <20 cm H2O, repeated daily while symptomatic. No steroids, acetazolamide or mannitol." },
+    { "id": "mng-f25", "front": "Why measure blood glucose immediately before LP?", "back": "To calculate the **CSF:blood glucose ratio**; a CSF glucose that looks normal may be low relative to a high blood glucose (e.g. after dextrose)." },
+    { "id": "mng-f26", "front": "Fluids in bacterial meningitis?", "back": "Give **full maintenance** isotonic fluids (100/50/20 mL/kg/day), NGT feeds when safe. Restrict (to about two-thirds) only with **SIADH** (Na <130, not dehydrated) or raised ICP; never restrict in shock." },
+    { "id": "mng-f27", "front": "Effect of antibiotics given before the LP?", "back": "CSF **cells, protein and glucose** are little affected in the first ~24 h, but **culture and Gram stain** are often negative. Antigen/PCR tests help." },
+    { "id": "mng-f28", "front": "Best LP site in a child?", "back": "**L3/4 or L4/5** interspace, on the line joining the iliac crests; in infants use **L4/5** (the cord ends lower). Child lying on the side, held curled, or sitting for neonates." }
+  ],
+  "mcqs": [
+    {
+      "id": "mng-q01",
+      "stem": "A 7-month-old boy (7.2 kg) presents to Mulago with 2 days of fever, refusal to breastfeed and irritability. He had one generalised seizure lasting 3 minutes at home. He has received pentavalent 1 and 2 only. Temperature 39.0 °C, HR 170, RR 44, CRT 2 s, SpO2 96%. He is irritable, the fontanelle is bulging, there is no neck stiffness, no rash, and pupils are equal and reactive. Malaria RDT is positive. Glucose 4.8 mmol/L. What is the MOST appropriate next step?",
+      "options": [
+        "Treat as malaria with IV artesunate and observe because the RDT explains the seizure",
+        "Lumbar puncture, then ceftriaxone 100 mg/kg IV (plus artesunate) without delay",
+        "CT head before any lumbar puncture",
+        "Diagnose a simple febrile convulsion and give paracetamol",
+        "Give ceftriaxone only if the CSF Gram stain is positive"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: irritability, poor feeding and a **bulging fontanelle** in an infant are signs of meningitis; a positive RDT does not exclude it. He has no contraindication (no shock, no coma, no focal signs, no purpura), so do the **LP now and start ceftriaxone 100 mg/kg (720 mg) within the hour**, while also treating malaria. A is wrong: parasitaemia is common and meningitis often coexists. C is wrong: NICE advises against routine imaging before LP and CT is rarely available; he has no signs of raised ICP warranting delay. D is wrong: a bulging fontanelle and irritability are not features of a simple febrile convulsion. E is wrong: the Gram stain is negative in up to 60% of bacterial meningitis; treat on clinical and CSF cell grounds."
+    },
+    {
+      "id": "mng-q02",
+      "stem": "A 4-year-old girl (15 kg) arrives with 12 hours of fever and vomiting. She is drowsy (GCS 8), with HR 52 and BP 128/84, irregular breathing, and the left pupil is larger and sluggish. There is no rash. What is the BEST immediate management?",
+      "options": [
+        "Immediate lumbar puncture to confirm meningitis before antibiotics",
+        "Lumbar puncture after a 20 mL/kg saline bolus",
+        "Oral amoxicillin and observation for 24 hours",
+        "Secure the airway, head up 30 degrees, ceftriaxone 1.5 g IV now, consider mannitol, and defer the lumbar puncture",
+        "IV dexamethasone alone and await CT before any antibiotic"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: GCS ≤9, **bradycardia with hypertension and irregular breathing (Cushing triad)** and an **unequal sluggish pupil** mean raised ICP with impending herniation, an absolute contraindication to LP. Protect the airway, nurse head-up, give **ceftriaxone 100 mg/kg (1.5 g)** immediately, consider an osmotic agent (mannitol 0.25–0.5 g/kg) and seek critical care; tap later when safe. A is wrong: LP now risks coning. B is wrong: she is not in shock and a bolus may worsen cerebral oedema; it does not make LP safe. C is wrong: oral antibiotics are inadequate for suspected bacterial meningitis. E is wrong: antibiotics must not be delayed for imaging or steroids."
+    },
+    {
+      "id": "mng-q03",
+      "stem": "A 3-year-old boy (13 kg) has CSF results: turbid; WBC 1,800/µL (85% neutrophils); protein 1.9 g/L; glucose 1.0 mmol/L with blood glucose 5.5 mmol/L; Gram stain shows Gram-negative diplococci. Which is the likeliest organism?",
+      "options": [
+        "Neisseria meningitidis",
+        "Streptococcus pneumoniae",
+        "Haemophilus influenzae type b",
+        "Mycobacterium tuberculosis",
+        "Cryptococcus neoformans"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: a neutrophilic CSF with high protein and low glucose ratio (1.0/5.5 = 0.18) is bacterial, and **Gram-negative diplococci** are typical of ***N. meningitidis***. B is wrong: pneumococci are **Gram-positive** diplococci. C is wrong: Hib appears as Gram-negative **coccobacilli/rods**, not diplococci. D is wrong: TB gives a lymphocytic CSF and is acid-fast, not Gram-negative. E is wrong: Cryptococcus is a yeast seen on India ink, with few cells."
+    },
+    {
+      "id": "mng-q04",
+      "stem": "A 12-day-old girl (2.9 kg, term, birth weight 3.1 kg) is admitted with poor feeding, temperature 38.4 °C, lethargy and two episodes of apnoea. She is jaundiced (serum bilirubin 210 µmol/L). CSF: WBC 650/µL (70% neutrophils), protein 2.4 g/L, glucose ratio 0.2, Gram-negative rods. IV fluids running are Ringer's lactate with dextrose. Which antibiotic plan is MOST appropriate?",
+      "options": [
+        "Ceftriaxone 290 mg IV once daily via the same line",
+        "Chloramphenicol 25 mg/kg 6-hourly",
+        "Oral amoxicillin for 7 days",
+        "Benzylpenicillin alone for 14 days",
+        "Cefotaxime 50 mg/kg IV 8-hourly plus ampicillin (and gentamicin per unit protocol) for at least 21 days"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: Gram-negative neonatal meningitis needs a third-generation cephalosporin that crosses the blood–brain barrier, given for **at least 21 days**; **cefotaxime** (8-hourly after the first week) is preferred, with ampicillin (and often gentamicin) until sensitivities return. A is wrong: ceftriaxone is avoided in a **jaundiced neonate** (bilirubin displacement) and must never run with **calcium-containing Ringer's lactate**. B is wrong: chloramphenicol causes **grey baby syndrome** under 1 month. C is wrong: oral treatment is inadequate for meningitis. D is wrong: penicillin does not cover Gram-negative rods."
+    },
+    {
+      "id": "mng-q05",
+      "stem": "A 2-year-old (12 kg) had a 4-minute generalised tonic–clonic seizure with a temperature of 39.5 °C. He has had a runny nose for 2 days. Thirty minutes after the seizure he is playing, alert, with a soft fontanelle and no neck stiffness. He has had no antibiotics. His immunisations are complete including PCV and pentavalent. Malaria RDT negative. What is the MOST appropriate plan?",
+      "options": [
+        "Lumbar puncture and ceftriaxone",
+        "Start phenobarbital maintenance",
+        "Treat the fever, find the source (URTI), counsel the parents and observe; lumbar puncture is not needed",
+        "CT scan of the brain",
+        "Admit for 5 days of IV antibiotics"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: this is a **simple febrile convulsion**: age 6 months–5 years, single brief generalised seizure, **fully alert within an hour**, a clear viral source, fully vaccinated, no prior antibiotics and no meningism. Manage fever, treat the cause, counsel and observe. A is wrong: LP is indicated for complex seizures, slow recovery, meningism, age under ~12 months with doubt, or prior antibiotics, none of which apply. B is wrong: anticonvulsant prophylaxis is not indicated for febrile convulsions. D is wrong: imaging is not needed for a simple febrile convulsion. E is wrong: there is no evidence of bacterial infection."
+    },
+    {
+      "id": "mng-q06",
+      "stem": "A 5-year-old boy (18 kg) with suspected pneumococcal meningitis arrives at a Kampala private hospital 6 hours after onset of illness. He is HIV-negative, well nourished, and has had no antibiotics. Your consultant follows NICE NG240. Regarding dexamethasone, what is the correct approach?",
+      "options": [
+        "Give dexamethasone 0.6 mg/kg/day for 4 weeks",
+        "Give dexamethasone 2.7 mg IV with or just before the first ceftriaxone dose, then 6-hourly for 4 days",
+        "Give dexamethasone only after 48 hours if hearing loss develops",
+        "Never give dexamethasone to children under 12 years",
+        "Give dexamethasone and delay ceftriaxone until the steroid has run in for 2 hours"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: NICE recommends IV dexamethasone for children **over 3 months** with strongly suspected bacterial meningitis: **0.15 mg/kg (18 × 0.15 = 2.7 mg) 6-hourly for 4 days**, the first dose **with or before** the first antibiotic, continued only if the organism is pneumococcus or Hib. A is wrong: 0.6 mg/kg/day for weeks is the **TB meningitis** regimen. C is wrong: steroids work only by blunting the early inflammatory burst; late use after deafness has no benefit. D is wrong: age over 3 months is the NICE criterion. E is wrong: antibiotics must never be delayed for steroids."
+    },
+    {
+      "id": "mng-q07",
+      "stem": "A 3-year-old girl (12 kg) has had fever and vomiting for 14 days. Her grandmother, who lives with her, has a chronic cough. She is drowsy (GCS 12) with a left VI nerve palsy. She has no BCG scar. CSF: clear, WBC 220/µL (85% lymphocytes), protein 2.6 g/L, glucose 0.9 mmol/L (blood 5.0). Gram stain negative. What is the MOST appropriate management?",
+      "options": [
+        "Ceftriaxone for 14 days and repeat LP",
+        "Aciclovir for presumed herpes encephalitis",
+        "Fluconazole for cryptococcal meningitis",
+        "Start anti-TB treatment with steroids now (while sending CSF GeneXpert and a chest X-ray)",
+        "Wait for CSF TB culture before starting treatment"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: a **subacute** course, **TB contact**, no BCG, **VI nerve palsy** (stage II) and a lymphocytic CSF with **very high protein and very low glucose** (ratio 0.18) = **TB meningitis**. Start TB treatment (UCG 2RHZE/10RH, or the WHO 2022 6-month intensive regimen where adopted) and **steroids** today. A is wrong: bacterial meningitis gives neutrophils and an acute course. B is wrong: HSV gives normal CSF glucose and an acute picture. C is wrong: no HIV history, and crypto CSF usually has few cells. E is wrong: TB culture takes weeks; delay worsens death and disability."
+    },
+    {
+      "id": "mng-q08",
+      "stem": "A 13-year-old boy (30 kg) with perinatally acquired HIV stopped ART a year ago. He has had headache for 2 weeks and vomiting for 3 days. GCS 15, no focal signs, mild neck stiffness. Serum CrAg positive. CSF opening pressure 34 cm H2O; WBC 8/µL; protein 0.6 g/L; India ink shows encapsulated yeasts. Which plan is CORRECT?",
+      "options": [
+        "Liposomal amphotericin B 10 mg/kg once plus flucytosine and fluconazole for 14 days, therapeutic LPs, and restart ART after 4–6 weeks",
+        "Restart ART today and give fluconazole 200 mg daily",
+        "Dexamethasone and mannitol to lower intracranial pressure",
+        "Ceftriaxone for 14 days because the neck is stiff",
+        "Start TB treatment because the CSF protein is raised"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: **cryptococcal meningitis** (CrAg, India ink, high opening pressure) needs WHO 2022 induction (**single-dose liposomal amphotericin B 10 mg/kg + flucytosine 100 mg/kg/day + fluconazole 12 mg/kg/day** for 14 days), **therapeutic LPs** for pressure >25 cm H2O, and **ART delayed 4–6 weeks** (early ART increases mortality). B is wrong: immediate ART risks fatal IRIS and fluconazole 200 mg is a maintenance dose. C is wrong: steroids worsen outcomes in crypto and mannitol is not used; CSF drainage is the treatment. D is wrong: few cells and yeasts show this is not bacterial. E is wrong: the protein is only mildly raised and yeasts are visible."
+    },
+    {
+      "id": "mng-q09",
+      "stem": "A 6-year-old (20 kg) is admitted with meningococcal meningitis from a school in Arua. She has a 2-year-old brother and her parents at home. Which is the MOST appropriate prophylaxis for her brother according to UCG 2023?",
+      "options": [
+        "No prophylaxis is needed for household contacts",
+        "Amoxicillin 25 mg/kg 8-hourly for 5 days",
+        "Benzylpenicillin IM single dose",
+        "Rifampicin 20 mg/kg once daily for 4 days",
+        "Ciprofloxacin 10 mg/kg as a single oral dose"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: UCG 2023 recommends **ciprofloxacin** for close contacts of meningococcal disease (especially under 5s): **10 mg/kg single dose** for children under 12 (max 500 mg); alternatives are ceftriaxone single IM dose or rifampicin 10 mg/kg 12-hourly for 2 days. A is wrong: household contacts have a much higher risk and need prophylaxis. B is wrong: amoxicillin does not eradicate nasopharyngeal carriage. C is wrong: penicillin treats disease but does not reliably clear carriage. D is wrong: 20 mg/kg daily for 4 days is the **Hib** prophylaxis regimen."
+    },
+    {
+      "id": "mng-q10",
+      "stem": "A 9-month-old girl (7 kg) on day 8 of ceftriaxone for pneumococcal meningitis develops a new fever of 38.8 °C and two focal seizures. Her head circumference has increased from 43 cm on admission to 45 cm, and the fontanelle is tense. She is otherwise feeding. What is the MOST appropriate next investigation?",
+      "options": [
+        "Repeat malaria RDT",
+        "Urine culture",
+        "Cranial ultrasound through the anterior fontanelle",
+        "EEG",
+        "Stop ceftriaxone and observe for drug fever"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: new fever, focal seizures, a **2 cm increase in head circumference** and a tense fontanelle after pneumococcal meningitis suggest **subdural effusion/empyema or hydrocephalus**; with an open fontanelle, **cranial ultrasound** is quick, safe and available at most Ugandan hospitals (CT if not). A is wrong: malaria does not explain the enlarging head. B is wrong: UTI does not explain focal seizures and head growth. D is wrong: EEG does not identify the structural cause. E is wrong: drug fever is a diagnosis of exclusion; this picture needs imaging and possibly neurosurgical drainage."
+    },
+    {
+      "id": "mng-q11",
+      "stem": "Which CSF finding is NORMAL for a 5-day-old term baby but would be abnormal in a 2-year-old?",
+      "options": [
+        "Neutrophils 300/µL",
+        "WBC 15/µL with protein 0.9 g/L",
+        "CSF:blood glucose ratio 0.25",
+        "Positive Gram stain",
+        "Opening pressure 40 cm H2O"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: neonatal CSF normally has **up to about 20 WBC/µL** and **protein up to 1.0 g/L**, whereas after 1 month the limits are **≤5 WBC/µL and protein <0.4 g/L**. A is wrong: 300 neutrophils is abnormal at any age. C is wrong: a ratio below 0.4 is abnormal at any age (normal ≥0.6). D is wrong: a positive Gram stain is never normal. E is wrong: 40 cm H2O is markedly raised at any age."
+    },
+    {
+      "id": "mng-q12",
+      "stem": "A 2-year-old (11 kg) with fever and drowsiness has a spreading non-blanching purpuric rash over the legs and trunk, cold hands, CRT 4 s, HR 180, BP 70/40. Platelets are 45 x 10^9/L. Which sequence is BEST?",
+      "options": [
+        "Lumbar puncture, then antibiotics, then fluids",
+        "Wait for blood culture results before antibiotics",
+        "Oral ciprofloxacin and discharge with review in 24 hours",
+        "IV/IO access, ceftriaxone 1.1 g immediately, 10–20 mL/kg crystalloid bolus with reassessment, glucose check; no lumbar puncture now",
+        "Platelet transfusion first, then lumbar puncture, then antibiotics"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: this is **meningococcal septicaemia with shock**: give **ceftriaxone 100 mg/kg (1.1 g)** at once, resuscitate with 10–20 mL/kg boluses and reassess, check glucose, and seek critical care. **Shock, extensive purpura and low platelets** all contraindicate LP. A is wrong: LP is contraindicated and would delay life-saving treatment. B is wrong: antibiotics must not wait for cultures. C is wrong: this child is critically ill. E is wrong: correcting platelets to perform an LP delays antibiotics; LP is not needed to start treatment."
+    },
+    {
+      "id": "mng-q13",
+      "stem": "A 4-year-old boy (16 kg) with bacterial meningitis on day 2 has serum sodium 126 mmol/L, is clinically euvolaemic (moist mucosa, CRT 2 s, normal BP, passing concentrated urine) and has had no seizures. He is on full maintenance IV fluids. What is the BEST fluid adjustment?",
+      "options": [
+        "Reduce isotonic fluids to about two-thirds of maintenance and recheck sodium in 6–12 hours",
+        "Increase fluids to 1.5 times maintenance",
+        "Switch to 5% dextrose in water",
+        "Give 20 mL/kg 0.9% saline bolus",
+        "Give 3% saline 5 mL/kg immediately"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: hyponatraemia with euvolaemia and concentrated urine in meningitis suggests **SIADH**; the guideline approach is to **restrict isotonic fluids to about two-thirds of maintenance** and monitor sodium. B is wrong: more free water worsens hyponatraemia and cerebral oedema. C is wrong: hypotonic dextrose-water lowers sodium further. D is wrong: he is not shocked; a bolus adds volume without correcting SIADH. E is wrong: hypertonic saline is for **symptomatic** (seizures) or severe (<120 mmol/L) hyponatraemia."
+    },
+    {
+      "id": "mng-q14",
+      "stem": "A 10-month-old (8 kg) has been treated for 10 days for Hib meningitis and is now well. The mother asks what follow-up is needed. Which is the MOST important test to arrange before or soon after discharge?",
+      "options": [
+        "Repeat lumbar puncture to confirm sterile CSF",
+        "Serum ferritin",
+        "EEG in all survivors",
+        "Repeat blood culture at 2 weeks",
+        "Hearing assessment (OAE/ABR) within 4 weeks"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: **sensorineural hearing loss** is the commonest sequela of bacterial meningitis (especially Hib and pneumococcus); NICE NG240 advises **audiology within 4 weeks**, and early detection allows hearing aids or cochlear implant referral before ossification. A is wrong: a test-of-cure LP is not needed in an uncomplicated recovering child. B is wrong: iron status is not a priority follow-up. C is wrong: EEG is only for children with ongoing seizures. D is wrong: repeat blood culture is not needed after clinical cure."
+    },
+    {
+      "id": "mng-q15",
+      "stem": "A HC III in Kole district receives a 3-year-old girl (14 kg) with fever, neck stiffness and drowsiness (responds to voice). There is no laboratory for CSF and the hospital is 40 km away. What should the clinician do before referral?",
+      "options": [
+        "Perform an LP and send the CSF with the patient",
+        "Give oral amoxicillin and refer",
+        "Give ceftriaxone 1.4 g IM (or IV), check glucose, manage fever and refer urgently",
+        "Give IV fluids 20 mL/kg and refer",
+        "Observe for 6 hours and refer if worse"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: UCG 2023 says refer all suspected meningitis **after a pre-referral dose of antibiotic**: **ceftriaxone 100 mg/kg (1.4 g)** IM or IV, plus checking glucose, treating fever and seizures, and urgent referral. A is wrong: LP without lab support delays treatment and may be unsafe at HC III. B is wrong: oral amoxicillin does not achieve CSF levels. D is wrong: she is not shocked; boluses are not indicated. E is wrong: delay increases death and disability."
+    }
+  ],
+  "cases": [
+    {
+      "id": "mng-c01",
+      "title": "An irritable 8-month-old with a bulging fontanelle",
+      "presentation": "You are the intern on call at Mengo Hospital. An 8-month-old boy from Wakiso is brought at 14:00 with 2 days of fever, refusal to breastfeed and irritability. Thirty minutes ago he had a seizure of the left arm lasting 10 minutes. Weight 7.6 kg. His card shows BCG, OPV0–3, pentavalent 1–2, PCV 1–2; he missed the 14-week visit.",
+      "steps": [
+        { "prompt": "What are your priorities in the first 5 minutes?", "answer": "ETAT: airway, breathing (RR 44, SpO2 96%), circulation (HR 168, CRT 2 s, warm: not shocked), consciousness (irritable, responds to voice: AVPU V), not convulsing now. **Glucose 4.6 mmol/L**, RDT, blood culture, FBC, electrolytes. Examine for rash, fontanelle (bulging), pupils, focal signs, neck." },
+        { "prompt": "Is an LP safe? What will you check first?", "answer": "Check for **contraindications**: no shock, no respiratory failure, seizure has stopped, no extensive purpura, platelets (FBC) if available, no focal neurology now, pupils equal and reactive, conscious level not falling, no skin infection over the back. A focal seizure that has stopped with full recovery is not by itself a contraindication. **LP is reasonable now** if it does not delay antibiotics beyond the first hour; measure blood glucose just before." },
+        { "prompt": "CSF is turbid: WBC 2,400/µL (90% neutrophils), protein 2.1 g/L, glucose 0.8 mmol/L (blood 5.2), Gram-positive diplococci. Interpret and treat.", "answer": "**Acute bacterial meningitis, probably pneumococcal** (ratio 0.15). **Ceftriaxone 100 mg/kg = 760 mg IV once daily** (or 380 mg 12-hourly) for 10–14 days. Dexamethasone: per unit policy (NICE would give 0.15 mg/kg = 1.1 mg 6-hourly × 4 days with the first antibiotic; WHO/UCG do not recommend routinely). Paracetamol 15 mg/kg = 115 mg; diazepam 0.5 mg/kg PR if further seizures, phenobarbital 15–20 mg/kg if recurrent." },
+        { "prompt": "Outline his supportive care and monitoring.", "answer": "**Maintenance fluids** 100 mL/kg/day = 760 mL/day (≈32 mL/h), mostly as breast milk/NGT feeds if safe; **daily sodium** (SIADH); **head circumference daily** (baseline today); GCS/AVPU, pupils, vitals 4-hourly; turn and nurse head-up 30°; glucose checks. **Notify** the district surveillance focal person." },
+        { "prompt": "On day 7 he becomes febrile again and the head circumference has increased by 1.5 cm. What do you suspect and do?", "answer": "**Subdural effusion/empyema**, **hydrocephalus** or **abscess** (also consider phlebitis, drug fever, nosocomial infection). **Cranial ultrasound** via the open fontanelle (CT if unclear), repeat LP if the ultrasound is unhelpful, neurosurgical opinion if empyema or obstructive hydrocephalus. Continue antibiotics; consider extending duration." },
+        { "prompt": "What will you arrange at discharge?", "answer": "**Hearing assessment within 4 weeks** (OAE/ABR at Mulago/Mengo ENT), **developmental follow-up** (milestones, tone, vision), seizure plan, **catch-up pentavalent 3 and PCV 3** today, measles-rubella at 9 months, HIV test if not documented, growth monitoring, and danger signs for return." }
+      ],
+      "takeaway": "In an infant, irritability, poor feeding and a bulging fontanelle are meningitis signs; tap when safe, treat within the hour, measure the head daily and never forget the hearing test."
+    },
+    {
+      "id": "mng-c02",
+      "title": "A lethargic 10-day-old on the neonatal unit",
+      "presentation": "A 10-day-old girl, born at term at a HC IV (birth weight 3.1 kg), is brought to the Mengo neonatal unit with 1 day of poor feeding and 'sleepiness'. Her mother had prolonged rupture of membranes (30 hours) and fever in labour. Today the baby weighs 2.9 kg.",
+      "steps": [
+        { "prompt": "What specific findings will you look for?", "answer": "Temperature (38.4 °C or hypothermia), lethargy, poor suck, **high-pitched cry**, **apnoea** or desaturation, **bulging fontanelle**, seizures (subtle: lip-smacking, cycling, eye deviation), jaundice, capillary refill, glucose, signs of other foci (umbilicus, skin, chest). Weigh (2.9 kg = 6% below birth weight)." },
+        { "prompt": "She has two apnoeic episodes and is jaundiced (bilirubin 210 µmol/L). Glucose 2.1 mmol/L. What immediate care?", "answer": "Stimulate/bag and mask as needed, oxygen to SpO2 ≥92%, warm (incubator/radiant warmer), **10% dextrose 2 mL/kg = 6 mL IV**, then maintenance IV 10% dextrose (about 150 mL/kg/day at day 10) or NGT expressed breast milk if tolerated. Blood culture, FBC, CRP. **LP** once breathing and glucose are stable." },
+        { "prompt": "CSF: WBC 650/µL (70% neutrophils), protein 2.4 g/L, glucose ratio 0.2, Gram-negative rods. Prescribe.", "answer": "**Cefotaxime 50 mg/kg = 145 mg IV 8-hourly** (age >7 days) **plus ampicillin 100 mg/kg = 290 mg IV 8-hourly** (± gentamicin per protocol: WHO 7.5 mg/kg daily after week 1; UCG 2.5 mg/kg 12-hourly), adjusting to culture. **Avoid ceftriaxone** (jaundice, calcium-containing fluids). Duration **at least 21 days**. Seizures: **phenobarbital 20 mg/kg = 58 mg IV** loading." },
+        { "prompt": "Culture grows Klebsiella resistant to cefotaxime (ESBL). What now?", "answer": "Switch to **meropenem 40 mg/kg IV 8-hourly** (meningitis dose) for at least 21 days; repeat LP at 48–72 h to confirm sterilisation; monitor for ventriculitis/abscess with cranial ultrasound. Report to infection control (ESBL outbreaks in neonatal units)." },
+        { "prompt": "What follow-up does she need?", "answer": "**Hearing screen (ABR)**, cranial ultrasound before discharge, **head circumference** at every visit, neurodevelopmental follow-up (cerebral palsy, epilepsy, delay), breastfeeding support and weight gain, immunisations (BCG, OPV, HepB birth dose if missed), and maternal counselling about early signs of illness." }
+      ],
+      "takeaway": "Neonatal meningitis looks like 'not feeding well and sleepy'; LP every septic neonate when stable, use ampicillin plus cefotaxime (not ceftriaxone with jaundice or calcium) and treat Gram-negative meningitis for at least 21 days."
+    },
+    {
+      "id": "mng-c03",
+      "title": "Headache in an adolescent with HIV: crypto or TB?",
+      "presentation": "A 13-year-old boy (30 kg, BMI-for-age Z −2.2) with perinatally acquired HIV comes to Mulago paediatric emergency with 2 weeks of headache, 3 days of vomiting and blurred vision. He stopped ART a year ago. His mother was treated for TB 6 months ago.",
+      "steps": [
+        { "prompt": "What is your differential diagnosis?", "answer": "**Cryptococcal meningitis**, **TB meningitis** (household contact), bacterial meningitis (less likely with 2 weeks), toxoplasmosis or other space-occupying lesion (CNS lymphoma rare), HIV encephalopathy, cerebral malaria (fever?)." },
+        { "prompt": "Examination: GCS 15, mild neck stiffness, no focal signs, bilateral papilloedema. What tests, and is LP safe?", "answer": "**Serum CrAg** (positive), RDT, FBC, electrolytes, creatinine, CD4, viral load later, chest X-ray, sputum/gastric Xpert. Papilloedema in crypto is usually from communicating high CSF pressure; with **no focal signs and normal consciousness**, many guidelines proceed with LP **with opening pressure**, but if focal signs or reduced GCS, image first (CT) to exclude a mass lesion. Discuss with the senior." },
+        { "prompt": "LP: opening pressure 36 cm H2O, WBC 8/µL, protein 0.6 g/L, glucose 2.6 mmol/L (blood 5.0), India ink positive, CSF CrAg positive, Xpert negative. Treatment?", "answer": "**Cryptococcal meningitis.** Induction: **liposomal amphotericin B 10 mg/kg = 300 mg IV once** + **flucytosine 100 mg/kg/day = 750 mg 6-hourly** + **fluconazole 12 mg/kg/day = 360 mg daily** for 14 days (WHO 2022); then fluconazole 6–12 mg/kg/day for 8 weeks, then 6 mg/kg/day (max 200 mg). **Therapeutic LP**: drain CSF until pressure <20 cm H2O or halved; repeat daily while symptomatic. Pre-hydration and potassium with amphotericin; monitor creatinine and K+." },
+        { "prompt": "When will you restart ART and what else is needed?", "answer": "**Delay ART 4–6 weeks** after starting antifungals (early ART increases mortality; UCG flowchart). Start **cotrimoxazole**. Screen for TB thoroughly (given the contact); if TB is diagnosed, treat it too and plan ART timing with the ART clinic. Enhanced adherence counselling and psychosocial support for an adolescent who stopped ART; disclosure and school issues." },
+        { "prompt": "How would the CSF have differed if this were TB meningitis?", "answer": "TBM: more cells (**lymphocytes 50–500/µL**), **protein 1–5 g/L**, **very low glucose (ratio <0.3)**, cobweb clot; India ink/CrAg negative; possible cranial nerve palsy and hydrocephalus. Treatment would be **2RHZE/10RH (or WHO 2022 6-month intensive regimen) plus steroids**, with ART after 4–8 weeks." }
+      ],
+      "takeaway": "In an HIV-positive child with subacute headache, check serum CrAg and the CSF opening pressure; cryptococcal meningitis needs combination antifungal induction, repeated pressure-relieving LPs and delayed ART, while TBM needs TB drugs plus steroids."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023 (sections 2.1.5 Meningitis, 2.1.5.1 Neonatal meningitis, 2.1.5.2–3 Cryptococcal and TB meningitis; 3.1.10.2 Cryptococcal meningitis)", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Pocket Book of Hospital Care for Children, 2nd edition (section 6.3 Meningitis)", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management (NG240)", "source": "NICE", "year": 2024, "url": "https://www.nice.org.uk/guidance/ng240" },
+    { "title": "Pediatric bacterial meningitis (overview, workup, treatment)", "source": "Medscape (eMedicine)", "url": "https://emedicine.medscape.com/article/961497-overview" },
+    { "title": "CSF interpretation (clinical practice guideline)", "source": "Royal Children's Hospital Melbourne", "year": 2024, "url": "https://www.rch.org.au/clinicalguide/guideline_index/CSF_interpretation/" },
+    { "title": "Meningitis and encephalitis (clinical practice guideline)", "source": "Royal Children's Hospital Melbourne", "year": 2024, "url": "https://www.rch.org.au/clinicalguide/guideline_index/Meningitis_encephalitis/" },
+    { "title": "Brouwer MC et al. Corticosteroids for acute bacterial meningitis (Cochrane review)", "source": "Cochrane Database of Systematic Reviews", "year": 2015, "url": "https://pubmed.ncbi.nlm.nih.gov/26362566/" },
+    { "title": "Meningitis fact sheet", "source": "World Health Organization", "url": "https://www.who.int/news-room/fact-sheets/detail/meningitis" }
+  ]
+}
