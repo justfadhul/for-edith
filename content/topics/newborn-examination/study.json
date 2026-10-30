@@ -1,0 +1,461 @@
+{
+  "slug": "newborn-examination",
+  "flashcards": [
+    {
+      "id": "nbe-f01",
+      "front": "When should a newborn be examined?",
+      "back": "Quick check **at birth**; full head-to-toe exam **within 24 h and before discharge** (UCG: do not discharge under 24 h); again at **3-7 days** and **6 weeks**, and at any sick visit."
+    },
+    {
+      "id": "nbe-f02",
+      "front": "Normal respiratory rate, heart rate and temperature of a term newborn.",
+      "back": "RR **30-60/min** (count a full minute), HR **100-160/min**, axillary temperature **36.5-37.5 C**."
+    },
+    {
+      "id": "nbe-f03",
+      "front": "Normal term weight, length and head circumference.",
+      "back": "Weight **2.5-4.0 kg**, length about **48-53 cm**, OFC about **33-37 cm** (mean about 35). Plot on WHO/INTERGROWTH charts."
+    },
+    {
+      "id": "nbe-f04",
+      "front": "How do you measure head circumference?",
+      "back": "Non-stretch tape around the **occiput and just above the eyebrows**; take the **largest of three** measurements; plot it (microcephaly below -2 SD)."
+    },
+    {
+      "id": "nbe-f05",
+      "front": "Anterior and posterior fontanelles: size and closure.",
+      "back": "Anterior: diamond, about **1-4 cm**, closes by **12-18 months**. Posterior: small triangle, closes by **6-8 weeks**. Bulging = raised ICP (meningitis); sunken = dehydration."
+    },
+    {
+      "id": "nbe-f06",
+      "front": "How to check the red reflex.",
+      "back": "Dim room, ophthalmoscope at 0 dioptres, **30-50 cm** away, light into both pupils: normal = **symmetrical red/orange glow**. Absent, dull, white or asymmetric → **urgent ophthalmology** (cataract, retinoblastoma)."
+    },
+    {
+      "id": "nbe-f07",
+      "front": "Barlow test.",
+      "back": "Hip and knee flexed 90 degrees, hip **adducted**, gentle **posterior pressure** through the knee: a clunk as the head **slips out** = dislocatable (unstable) hip."
+    },
+    {
+      "id": "nbe-f08",
+      "front": "Ortolani test.",
+      "back": "From flexion, **abduct** the hip while **lifting the greater trochanter**: a clunk as the head **slides back in** = dislocated, reducible hip."
+    },
+    {
+      "id": "nbe-f09",
+      "front": "Risk factors for developmental dysplasia of the hip.",
+      "back": "**Breech** presentation, **family history**, **female**, **first-born**, **oligohydramnios**, large baby, **tight swaddling with hips extended**."
+    },
+    {
+      "id": "nbe-f10",
+      "front": "Moro reflex: how to elicit, normal response, disappearance.",
+      "back": "Support head and back, let the head drop 1-2 cm: arms **abduct and extend**, hands open, then **adduct** with a cry. Disappears by about **4-6 months**."
+    },
+    {
+      "id": "nbe-f11",
+      "front": "Meaning of an asymmetric or absent Moro reflex.",
+      "back": "**Asymmetric**: Erb's palsy, clavicle or humerus fracture. **Absent**: severe CNS depression (HIE, sepsis, drugs). **Persistent beyond 6 months**: cerebral palsy."
+    },
+    {
+      "id": "nbe-f12",
+      "front": "Age of disappearance of primitive reflexes.",
+      "back": "Stepping **~2 months**; rooting and sucking **~4 months**; palmar grasp **3-6 months**; Moro and ATNR **~4-6 months**; plantar grasp **9-12 months**."
+    },
+    {
+      "id": "nbe-f13",
+      "front": "New Ballard score: components and formula.",
+      "back": "**6 neuromuscular** (posture, square window, arm recoil, popliteal angle, scarf sign, heel-to-ear) + **6 physical** (skin, lanugo, plantar surface, breast, eye/ear, genitals). Total -10 to 50. **GA = (2 × score + 120) ÷ 5.**"
+    },
+    {
+      "id": "nbe-f14",
+      "front": "Ballard score of 30 equals what gestation?",
+      "back": "(2 × 30 + 120) ÷ 5 = **36 weeks**."
+    },
+    {
+      "id": "nbe-f15",
+      "front": "Pulse oximetry screening for critical congenital heart disease.",
+      "back": "Right hand and a foot after 24 h: **pass** if **95% or more** in either with a difference of **3% or less**; **fail** if below 90%; 90-94% or difference above 3% → repeat once, then senior review/echo."
+    },
+    {
+      "id": "nbe-f16",
+      "front": "Why must you feel the femoral pulses?",
+      "back": "Weak or absent femorals (or brachio-femoral delay) suggest **coarctation of the aorta** or another duct-dependent left heart lesion."
+    },
+    {
+      "id": "nbe-f17",
+      "front": "How to examine the palate.",
+      "back": "**Inspect with a torch and tongue depressor AND palpate** with a clean gloved finger (also tests suck). Inspection alone misses posterior/submucous clefts."
+    },
+    {
+      "id": "nbe-f18",
+      "front": "When should urine and meconium be passed?",
+      "back": "Urine within **24 h**; meconium within **24 h** (almost all term babies by 48 h). Delay → Hirschsprung disease, anorectal malformation, meconium ileus."
+    },
+    {
+      "id": "nbe-f19",
+      "front": "Normal weight loss after birth.",
+      "back": "Up to **7-10%** in the first 3-5 days; regain birth weight by **10-14 days**. More than 10% → feeding problem."
+    },
+    {
+      "id": "nbe-f20",
+      "front": "List benign newborn findings.",
+      "back": "**Mongolian blue spots**, **erythema toxicum**, **milia**, **Epstein pearls**, breast engorgement, white/bloody vaginal discharge, subconjunctival haemorrhage, acrocyanosis, umbilical hernia, hydrocele."
+    },
+    {
+      "id": "nbe-f21",
+      "front": "Why document Mongolian spots?",
+      "back": "They are grey-blue patches (sacrum/buttocks), very common in African babies, present at birth and benign; documenting them prevents later **confusion with bruising/abuse**."
+    },
+    {
+      "id": "nbe-f22",
+      "front": "Positional vs structural talipes.",
+      "back": "**Positional** talipes corrects **fully with gentle passive movement** (reassure, stretch). **Structural club foot** is rigid → refer early for **Ponseti casting**."
+    },
+    {
+      "id": "nbe-f23",
+      "front": "Action for ambiguous genitalia.",
+      "back": "**Do not assign sex**; check **glucose and electrolytes** (salt-wasting **CAH** can cause shock in week 1-2); urgent senior/endocrine referral; sensitive counselling."
+    },
+    {
+      "id": "nbe-f24",
+      "front": "Management of an open neural tube defect at birth.",
+      "back": "Cover with **sterile saline-soaked gauze**, nurse **prone**, keep warm, avoid latex, IV access if needed, **refer** to neurosurgery (e.g. CURE Children's Hospital Mbale); folic acid counselling for future pregnancies."
+    },
+    {
+      "id": "nbe-f25",
+      "front": "Single umbilical artery: significance.",
+      "back": "Normal cord has **2 arteries + 1 vein**. A single artery is associated with **renal and other anomalies**: examine carefully; renal ultrasound if other findings."
+    },
+    {
+      "id": "nbe-f26",
+      "front": "Central vs peripheral cyanosis in the newborn.",
+      "back": "**Acrocyanosis** (blue hands/feet) is normal in the first 24-48 h. **Central cyanosis** (blue tongue/lips) is never normal: check SpO2, think heart/lung disease."
+    },
+    {
+      "id": "nbe-f27",
+      "front": "Routine care to confirm at the newborn examination (Uganda).",
+      "back": "**Vitamin K 1 mg IM** (0.5 mg preterm/LBW), **tetracycline eye ointment**, **chlorhexidine** cord care, **BCG + OPV0** (HepB birth dose where introduced), HIV prophylaxis if exposed, breastfeeding within 1 h, danger-sign counselling."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "nbe-q01",
+      "stem": "During a discharge examination of a 20-hour-old term baby, you shine an ophthalmoscope into both eyes from 40 cm. The right pupil glows orange-red; the left pupil looks white. The baby is feeding well. What is the MOST appropriate action?",
+      "options": [
+        "Reassure; recheck at the 6-week visit",
+        "Prescribe chloramphenicol eye ointment",
+        "Recheck after 1 week in brighter light",
+        "Discharge and advise the mother to watch for squint",
+        "Refer urgently to an ophthalmologist for possible cataract or retinoblastoma"
+      ],
+      "answer": 4,
+      "explanation": "E is right: an absent or white red reflex (leukocoria) suggests cataract or retinoblastoma; both need urgent ophthalmology assessment because early treatment preserves vision (cataract) and life (retinoblastoma). A, C and D are wrong: waiting delays sight- and life-saving treatment. B is wrong: there is no conjunctivitis; antibiotic ointment does not treat leukocoria."
+    },
+    {
+      "id": "nbe-q02",
+      "stem": "A 2-day-old baby girl born by breech CS is examined. With the hip and knee flexed and the hip adducted, gentle backward pressure on the knee produces a clunk as the femoral head slips out of the socket. What is the name of this test and the MOST appropriate next step?",
+      "options": [
+        "Ortolani test; reassure",
+        "Galeazzi test; X-ray of the pelvis today",
+        "Barlow test (positive); refer for hip ultrasound and orthopaedic review, and avoid tight swaddling",
+        "Trendelenburg test; physiotherapy",
+        "Barlow test; repeat it 10 times to confirm"
+      ],
+      "answer": 2,
+      "explanation": "C is right: adduction with posterior pressure that dislocates the hip is a positive Barlow test; with risk factors (breech, female) she needs ultrasound and orthopaedic follow-up (Pavlik harness if confirmed), and families should avoid swaddling with the legs straight. A is wrong: Ortolani relocates a dislocated hip by abduction and lifting. B is wrong: Galeazzi compares knee heights, and X-rays are not useful before the femoral head ossifies (about 4-6 months). D is wrong: Trendelenburg is a walking-child test. E is wrong: repeated forceful testing can damage the hip."
+    },
+    {
+      "id": "nbe-q03",
+      "stem": "A mother is worried about grey-blue patches over her 1-day-old son's lower back and buttocks. They were present at birth, are flat, non-tender and uniform in colour. What is the MOST appropriate response?",
+      "options": [
+        "Explain these are Mongolian blue spots, a common benign birthmark, and document them in the notes",
+        "Suspect non-accidental injury and inform the police",
+        "Order a coagulation screen and platelet count",
+        "Apply hydrocortisone cream",
+        "Refer to dermatology for laser treatment"
+      ],
+      "answer": 0,
+      "explanation": "A is right: Mongolian spots (dermal melanocytosis) are very common in African babies, present at birth and benign; documenting them prevents later confusion with bruising. B is wrong: findings present at birth that are uniform and non-tender are not bruises. C is wrong: there is no bleeding problem. D is wrong: steroids do nothing for pigment. E is wrong: they fade over years and need no treatment."
+    },
+    {
+      "id": "nbe-q04",
+      "stem": "A term baby is examined at 12 hours. His hands and feet are bluish but his tongue and lips are pink. RR 48, HR 138, temperature 36.8 C, SpO2 98% in the right hand. What is the MOST likely explanation?",
+      "options": [
+        "Cyanotic congenital heart disease",
+        "Methaemoglobinaemia",
+        "Persistent pulmonary hypertension",
+        "Acrocyanosis, a normal finding in the first 24-48 hours",
+        "Septic shock"
+      ],
+      "answer": 3,
+      "explanation": "D is right: blue hands and feet with a pink tongue and normal SpO2 is peripheral cyanosis (acrocyanosis), normal in the first days; keep warm. A and C are wrong: they cause central cyanosis and low SpO2. B is wrong: methaemoglobinaemia gives central cyanosis (chocolate-coloured blood) with an oximetry reading in the mid-80s. E is wrong: the baby is well with normal vital signs."
+    },
+    {
+      "id": "nbe-q05",
+      "stem": "A baby's gestational age is unknown. The New Ballard score is 20. What is the estimated gestation and the MOST appropriate implication?",
+      "options": [
+        "28 weeks: very preterm, ventilate electively",
+        "32 weeks: preterm; needs special newborn care (KMC, feeding support, and referral if very small)",
+        "36 weeks: late preterm; routine care",
+        "38 weeks: term; routine care",
+        "40 weeks: term; discharge at 6 hours"
+      ],
+      "answer": 1,
+      "explanation": "B is right: GA = (2 × 20 + 120) ÷ 5 = 32 weeks. A 32-week baby is very preterm/moderately preterm with risks of hypothermia, poor suck, apnoea and RDS; he needs KMC, feeding support and, per UCG, referral if below 32 weeks or below 1.5 kg. A is wrong: 28 weeks corresponds to a score of 10, and elective ventilation is not indicated. C, D and E are wrong: they correspond to scores of 30, 35 and 40."
+    },
+    {
+      "id": "nbe-q06",
+      "stem": "A 30-hour-old term baby has a soft systolic murmur, is feeding well and pink. Femoral pulses are hard to feel compared with the brachial pulses. SpO2 is 98% in the right hand and 91% in the foot. What is the MOST appropriate next step?",
+      "options": [
+        "Reassure: murmurs in the first days are innocent",
+        "Discharge and review at 6 weeks",
+        "Urgent senior review, echocardiography and referral for possible coarctation/duct-dependent lesion",
+        "Start oral amoxicillin",
+        "Give furosemide and discharge"
+      ],
+      "answer": 2,
+      "explanation": "C is right: weak femoral pulses with a pre-/post-ductal SpO2 difference of 7% (above 3%) and a post-ductal value below 95% suggest a duct-dependent left heart lesion such as coarctation; the baby can collapse when the duct closes. Urgent echo and referral (Uganda Heart Institute) are needed. A and B are wrong: the femoral and oximetry findings make an innocent murmur unlikely. D is wrong: there is no infection. E is wrong: diuretics do not treat duct-dependent disease, and discharge is unsafe."
+    },
+    {
+      "id": "nbe-q07",
+      "stem": "A 1-day-old baby with polyhydramnios on the antenatal scan is drooling frothy saliva and coughs and turns blue with the first breastfeed. What is the MOST appropriate next step?",
+      "options": [
+        "Encourage more frequent breastfeeds",
+        "Give gripe water",
+        "Discharge with advice to burp the baby",
+        "Start antibiotics only",
+        "Stop oral feeds, pass an orogastric tube and request an X-ray; keep upright with suction and refer to paediatric surgery"
+      ],
+      "answer": 4,
+      "explanation": "E is right: polyhydramnios, frothy drooling and choking with feeds suggest oesophageal atresia (often with tracheo-oesophageal fistula). A tube that will not pass and coils in the upper pouch on X-ray confirms it; stop feeds, suction the pouch, nurse head-up and refer. A, B and C are wrong: further feeding risks aspiration pneumonia. D is wrong: antibiotics may be needed for aspiration but do not address the obstruction."
+    },
+    {
+      "id": "nbe-q08",
+      "stem": "You are examining a 1-day-old baby's mouth. On inspection with a torch the palate looks intact, but your gloved finger feels a notch at the back of the hard palate. The baby has had difficulty breastfeeding with milk coming from the nose. What is the MOST appropriate management?",
+      "options": [
+        "Reassure; the palate is intact on inspection",
+        "Diagnose a posterior cleft palate; support feeding with expressed breast milk by cup/spoon and refer to a cleft surgery service",
+        "Start bottle feeding with a standard teat",
+        "Give nystatin drops",
+        "Advise the mother to stop breastfeeding and use formula through a nasogastric tube permanently"
+      ],
+      "answer": 1,
+      "explanation": "B is right: a palpable notch with nasal regurgitation is a posterior (or submucous) cleft palate, which inspection alone misses; UCG advises helping the mother breastfeed or teaching an alternative method (cup feeding of EBM) and referral (e.g. CoRSU, Mulago). A is wrong: inspection alone is insufficient. C is wrong: standard teats are ineffective with a cleft; special feeding methods are needed. D is wrong: there is no thrush. E is wrong: breast milk should continue, and permanent NGT feeding is not needed."
+    },
+    {
+      "id": "nbe-q09",
+      "stem": "A 36-hour-old baby has not passed meconium. Abdomen is distended and he vomited green fluid twice. What is the MOST appropriate immediate step?",
+      "options": [
+        "Give a glycerine suppository and continue breastfeeding",
+        "Reassure; some babies take 72 hours",
+        "Give oral laxatives",
+        "Stop feeds, pass an NGT on free drainage, start IV fluids, inspect the anus, and refer urgently to paediatric surgery",
+        "Give an enema with soap water"
+      ],
+      "answer": 3,
+      "explanation": "D is right: bilious vomiting is a surgical emergency (malrotation with volvulus, atresia, Hirschsprung disease) until proven otherwise; with delayed meconium and distension, decompress, give IV fluids, check anal patency and position, and refer urgently. A and C are wrong: they treat constipation and delay surgery. B is wrong: almost all term babies pass meconium by 48 h, and bilious vomiting is never normal. E is wrong: soap enemas are dangerous."
+    },
+    {
+      "id": "nbe-q10",
+      "stem": "A baby born after shoulder dystocia has an asymmetric Moro reflex: the right arm does not abduct. There is crepitus and swelling over the right clavicle; the grasp reflex is normal. What is the MOST likely diagnosis?",
+      "options": [
+        "Fractured right clavicle",
+        "Cerebral palsy",
+        "Hypoxic-ischaemic encephalopathy",
+        "Klumpke palsy",
+        "Septic arthritis of the shoulder"
+      ],
+      "answer": 0,
+      "explanation": "A is right: crepitus and swelling over the clavicle with reduced arm movement (pseudoparalysis) after shoulder dystocia is a clavicle fracture; it heals in 7-10 days with gentle handling. B is wrong: CP is not diagnosed at birth and does not cause local crepitus. C is wrong: HIE causes generalised changes, not a unilateral finding with crepitus. D is wrong: Klumpke palsy affects the hand (absent grasp). E is wrong: septic arthritis appears days later with fever and swelling of the joint."
+    },
+    {
+      "id": "nbe-q11",
+      "stem": "A mother asks when she can take her healthy term baby home. The baby is 10 hours old, breastfeeding well, has passed urine, and the examination is normal. According to UCG 2023, what is the BEST answer?",
+      "options": [
+        "Immediately, since the examination is normal",
+        "After the baby is at least 24 hours old, feeding well, with BCG and OPV0 given and danger-sign counselling done",
+        "After 7 days",
+        "Only after the baby regains birth weight",
+        "Only after the cord falls off"
+      ],
+      "answer": 1,
+      "explanation": "B is right: UCG says do not discharge a baby under 24 hours old, assess breastfeeding before discharge, give BCG and polio 0, and counsel on danger signs and the 3-7-day visit. A is wrong: it is earlier than UCG advises. C, D and E are wrong: healthy term babies do not need to stay that long; regaining birth weight takes 10-14 days and the cord usually separates in 5-15 days."
+    },
+    {
+      "id": "nbe-q12",
+      "stem": "Which reflex normally persists the LONGEST in infancy?",
+      "options": [
+        "Stepping reflex",
+        "Rooting reflex",
+        "Moro reflex",
+        "Plantar grasp reflex",
+        "Palmar grasp reflex"
+      ],
+      "answer": 3,
+      "explanation": "D is right: the plantar grasp persists until about 9-12 months (it must fade before walking). A is wrong: stepping fades by about 2 months. B is wrong: rooting fades by about 4 months. C is wrong: Moro fades by about 4-6 months. E is wrong: palmar grasp fades by about 3-6 months."
+    },
+    {
+      "id": "nbe-q13",
+      "stem": "A term baby's examination shows clitoromegaly, fused labioscrotal folds and no palpable gonads. The parents ask whether the baby is a boy or a girl. What is the MOST appropriate response?",
+      "options": [
+        "Avoid assigning sex, explain that tests are needed, check glucose and electrolytes, and refer urgently for possible congenital adrenal hyperplasia",
+        "Register the baby as a girl because there are no testes",
+        "Register the baby as a boy because of the enlarged phallus",
+        "Reassure and review at 6 weeks",
+        "Arrange surgery in the first week"
+      ],
+      "answer": 0,
+      "explanation": "A is right: ambiguous genitalia with impalpable gonads in an apparently female baby is most often congenital adrenal hyperplasia in a 46,XX baby; salt-wasting crises (hyponatraemia, hyperkalaemia, hypoglycaemia, shock) can occur in the first 1-2 weeks. Do not assign sex until assessed. B and C are wrong: guessing sex causes harm. D is wrong: delay risks an adrenal crisis. E is wrong: early surgery is not indicated."
+    },
+    {
+      "id": "nbe-q14",
+      "stem": "Which examination finding in a newborn MOST needs action before discharge?",
+      "options": [
+        "Milia on the nose",
+        "White vaginal discharge in a female baby",
+        "Bilateral breast swelling",
+        "Erythema toxicum on the trunk",
+        "Jaundice visible at 16 hours of age"
+      ],
+      "answer": 4,
+      "explanation": "E is right: jaundice in the first 24 hours is always pathological (haemolysis, sepsis); measure bilirubin urgently and treat. A, B, C and D are wrong: milia, physiological vaginal discharge, breast engorgement from maternal hormones and erythema toxicum are benign; reassure the mother."
+    },
+    {
+      "id": "nbe-q15",
+      "stem": "A term baby has a 1 cm deep dimple above the natal cleft with a tuft of hair over it. Neurological examination of the legs is normal and the anus is patent. What is the MOST appropriate next step?",
+      "options": [
+        "Reassure: sacral dimples are always benign",
+        "Probe the dimple with a cotton bud",
+        "Arrange a spinal ultrasound and neurosurgical review for possible occult spinal dysraphism",
+        "Shave the tuft and apply antiseptic",
+        "Start antibiotics"
+      ],
+      "answer": 2,
+      "explanation": "C is right: a deep dimple above the natal cleft with a hair tuft is an atypical marker of occult spinal dysraphism (tethered cord), which should be imaged (ultrasound in infancy) and reviewed. A is wrong: small, shallow dimples within the natal cleft are usually benign, but this one has high-risk features. B is wrong: probing can introduce infection into a sinus tract. D is wrong: cosmetic measures miss the underlying lesion. E is wrong: there is no infection."
+    }
+  ],
+  "cases": [
+    {
+      "id": "nbe-c01",
+      "title": "The routine discharge check that wasn't routine",
+      "presentation": "You are the junior clerk on the Mengo postnatal ward. A 22-year-old primigravida delivered a 3.0 kg girl by assisted breech delivery 22 hours ago at 39 weeks. The mother is HIV-negative (retested in labour), RPR negative, blood group A positive. The midwife asks you to do the discharge examination because the family wants to go home.",
+      "steps": [
+        {
+          "prompt": "What will you check in the records and ask the mother before examining?",
+          "answer": "Gestation, **breech presentation** (DDH and birth injury risk), labour/ROM duration, maternal fever, Apgar and resuscitation, **birth weight**, vitamin K/eye ointment/BCG/OPV0 given, maternal HIV/syphilis/HBsAg; ask about **feeding** (number of feeds, attachment), **urine and meconium**, and **any concerns**."
+        },
+        {
+          "prompt": "Describe the order you will use for the examination.",
+          "answer": "Warm room, hands washed. **Observe** colour, breathing (RR 60 s), posture, movements, cry. **Measure** weight, OFC, length, temperature and plot. **Head-to-toe**: fontanelles and sutures, face, eyes (**red reflex**), ears, nose, **palate (look and feel)**, neck and clavicles, chest, heart (**femorals**, SpO2), abdomen and cord, genitalia, **anus**, limbs and feet. **Back and spine** in ventral suspension. Skin. **Neuro and reflexes**. **Hips last** (Barlow/Ortolani). Observe a breastfeed."
+        },
+        {
+          "prompt": "The left hip gives a clunk on abduction and lifting of the trochanter; abduction on that side is limited. What is this and what will you do?",
+          "answer": "A **positive Ortolani test**: a dislocated, reducible left hip (**DDH**), with risk factors **breech, female, first-born**. Explain to the parents; avoid tight swaddling with legs extended; refer for **hip ultrasound and orthopaedic review** (Pavlik harness if confirmed); document carefully. Do not repeat the test forcefully."
+        },
+        {
+          "prompt": "She also has an asymmetric Moro (right arm moves less) and holds the right arm internally rotated with the wrist flexed, grasp intact. Interpretation?",
+          "answer": "**Right Erb's palsy (C5-C6)** from traction during the breech delivery; exclude a clavicle/humerus fracture (palpate; X-ray if crepitus). Gentle handling, pin the sleeve for comfort in the first week, then **passive physiotherapy**; review regularly; refer if no biceps recovery by **3 months**."
+        },
+        {
+          "prompt": "Can she go home today? What will you tell the mother?",
+          "answer": "She can go home after **24 h** if feeding well and the rest of the exam is normal, with **orthopaedic and physiotherapy appointments** arranged. Counsel: danger signs (not feeding, fever, fast breathing, convulsions, yellow palms/soles), cord care with chlorhexidine, warmth, exclusive breastfeeding, how to handle the arm and avoid tight swaddling, **3-7-day review** and **6-week immunisation and hip/arm check**."
+        }
+      ],
+      "takeaway": "Risk factors from the history (breech, female, first-born) direct the exam: the hips and brachial plexus must be examined carefully before every discharge, and findings must lead to clear referral and follow-up."
+    },
+    {
+      "id": "nbe-c02",
+      "title": "A baby with no known dates",
+      "presentation": "A 17-year-old girl arrives at a HC IV in Hoima fully dilated and delivers a baby boy weighing 1.9 kg 20 minutes later. She has had no ANC and does not know her LNMP. The baby cries at birth. At 14 hours he is in skin-to-skin contact; temperature 36.4 C, RR 58, feeding 'a little'.",
+      "steps": [
+        {
+          "prompt": "How will you estimate his gestation?",
+          "answer": "**New Ballard score** (best at 12-20 h): 6 neuromuscular items (posture, square window, arm recoil, popliteal angle, scarf sign, heel-to-ear) and 6 physical items (skin, lanugo, plantar creases, breast, ear/eye, genitals). GA = (2 × score + 120) ÷ 5."
+        },
+        {
+          "prompt": "His Ballard score is 25. Interpret this together with his weight.",
+          "answer": "(2 × 25 + 120) ÷ 5 = **34 weeks**. 1.9 kg at 34 weeks is about the **10th-50th centile** → **preterm AGA, LBW**. He is at risk of hypothermia, hypoglycaemia, poor feeding, jaundice and infection."
+        },
+        {
+          "prompt": "What else must you examine and check?",
+          "answer": "Full head-to-toe exam; **glucose** (LBW, poor feeding); temperature (36.4 = cold stress); feeding observation; signs of infection; jaundice; vitamin K (0.5 mg preterm/LBW per local protocol), eye ointment, chlorhexidine; **mother's HIV, syphilis and HBsAg tests now** (no ANC), and start prophylaxis if positive."
+        },
+        {
+          "prompt": "What is your management plan?",
+          "answer": "**Continuous KMC**, cover head; support breastfeeding, EBM by **cup** if suck weak (day 1 about 60 mL/kg/day ≈ 115 mL/day, 3-hourly ≈ 14 mL); glucose monitoring before feeds; daily weight; BCG and OPV0 before discharge; keep until feeding well, gaining weight 3 days and temperature stable 3 days (UCG small-baby care). Adolescent mother support, family planning."
+        },
+        {
+          "prompt": "On day 4 he is jaundiced to the lower abdomen and feeding 8 times a day by breast and cup. What do you do, and when can he go home?",
+          "answer": "Measure **bilirubin** (TcB/serum) and plot it on a **preterm (34-week) threshold** (WHO: lower thresholds for babies below 35 weeks or with risk factors; NICE gestation-specific graphs); start **phototherapy** if above the line and keep feeding. Discharge (UCG small baby) when **breastfeeding well, gaining weight on 3 consecutive days, temperature normal for 3 days in KMC**, the mother is confident, and BCG/OPV0 are given; then weekly weighing until 3 kg."
+        }
+      ],
+      "takeaway": "When dates are unknown, the New Ballard score plus weight lets you classify the baby (preterm vs SGA) and plan the right care."
+    },
+    {
+      "id": "nbe-c03",
+      "title": "The 6-week check of an HIV-exposed infant",
+      "presentation": "A 6-week-old girl born at term (birth weight 3.1 kg) attends Mengo MCH clinic with her mother, who is HIV-positive on TLD (viral load suppressed at 36 weeks). The baby has taken daily NVP since birth. Today she weighs 4.4 kg and length is 55 cm. The mother has no concerns.",
+      "steps": [
+        {
+          "prompt": "What will you assess in the history at this visit?",
+          "answer": "Feeding (**exclusive breastfeeding**, frequency, any other fluids), urine/stool, **NVP adherence** and any missed doses, mother's ART adherence and latest **viral load**, illnesses since birth, development (**social smile** by 6 weeks, follows faces), immunisations (BCG scar, OPV0), mother's health, family planning."
+        },
+        {
+          "prompt": "Interpret her growth.",
+          "answer": "Weight gain 1.3 kg in 6 weeks ≈ **31 g/day** (normal about 25-35 g/day); plot weight-for-age, length-for-age and weight-for-length on **WHO charts**; expect Z-scores between -2 and +2."
+        },
+        {
+          "prompt": "Which parts of the newborn examination must be repeated at 6 weeks, and why?",
+          "answer": "**Hips** (DDH can appear later), **red reflex** (cataract, retinoblastoma), **heart** (murmurs appear as pulmonary pressure falls; femoral pulses), **testes** (in boys), **fontanelle and head circumference** (hydrocephalus/microcephaly), **tone and reflexes** (early CP signs), **eyes fixing and following**, BCG scar."
+        },
+        {
+          "prompt": "What tests and treatments are due today?",
+          "answer": "**DNA PCR** (HIV early infant diagnosis at 6 weeks), **cotrimoxazole prophylaxis** from 6 weeks until HIV is excluded per national guidelines, review NVP plan (low-risk: stop at 6 weeks; high-risk: continue NVP to 12 weeks per Uganda guidelines), **6-week vaccines** (OPV1, DPT-HepB-Hib1, PCV1, rotavirus 1 per UNEPI)."
+        },
+        {
+          "prompt": "What counselling will you give?",
+          "answer": "Continue **exclusive breastfeeding to 6 months**; mother's ART adherence and VL monitoring; return for PCR result; danger signs; next immunisation at **10 weeks**; family planning."
+        }
+      ],
+      "takeaway": "The 6-week visit repeats the key newborn screens (hips, eyes, heart, growth, development) and adds HIV early infant diagnosis, cotrimoxazole and the first UNEPI vaccines for an HIV-exposed infant."
+    }
+  ],
+  "references": [
+    {
+      "title": "Uganda Clinical Guidelines 2023 (16.5.2 General care of newborn after delivery; 17.1.1 Newborn examination/danger signs)",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023"
+    },
+    {
+      "title": "Physical Examination of the Newborn",
+      "source": "MSD Manual Professional Edition",
+      "year": 2024,
+      "url": "https://www.msdmanuals.com/professional/pediatrics/care-of-newborns-and-infants/physical-examination-of-the-newborn"
+    },
+    {
+      "title": "Gestational Age (New Ballard score)",
+      "source": "MSD Manual Professional Edition",
+      "year": 2024,
+      "url": "https://www.msdmanuals.com/professional/pediatrics/perinatal-problems/gestational-age"
+    },
+    {
+      "title": "Pocket book of hospital care for children, 2nd edition (3.3 Routine care for all newborns; 3.6 Danger signs)",
+      "source": "World Health Organization",
+      "year": 2013,
+      "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+    },
+    {
+      "title": "Birth Injuries",
+      "source": "MSD Manual Professional Edition",
+      "year": 2024,
+      "url": "https://www.msdmanuals.com/professional/pediatrics/perinatal-problems/birth-injuries"
+    },
+    {
+      "title": "WHO recommendations for care of the preterm or low-birth-weight infant",
+      "source": "World Health Organization",
+      "year": 2022,
+      "url": "https://www.who.int/publications/i/item/9789240058262"
+    }
+  ]
+}

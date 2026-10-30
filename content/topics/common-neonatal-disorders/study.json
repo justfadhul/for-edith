@@ -1,0 +1,283 @@
+{
+  "slug": "common-neonatal-disorders",
+  "flashcards": [
+    { "id": "cnd-f01", "front": "List the WHO/UCG danger signs in a newborn or young infant.", "back": "**Not feeding well**, **convulsions**, **drowsy/unconscious or moves only when stimulated**, **RR 60 or more**, **severe chest indrawing**, **grunting**, temperature **above 37.5 C or below 35.5 C**, **central cyanosis**." },
+    { "id": "cnd-f02", "front": "Define early- and late-onset neonatal sepsis.", "back": "**Early-onset**: first **72 h** (some use 7 days), usually maternal organisms acquired in labour. **Late-onset**: after 72 h, community or hospital-acquired." },
+    { "id": "cnd-f03", "front": "Maternal risk factors that justify antibiotics in a newborn under 1 day (WHO).", "back": "**ROM more than 18 h** before delivery, maternal **fever above 38 C** in labour, **foul-smelling or purulent liquor**. Give ampicillin + gentamicin for at least 2 days and reassess." },
+    { "id": "cnd-f04", "front": "Ampicillin dose and frequency in neonatal sepsis (WHO).", "back": "**50 mg/kg IV/IM every 12 h in week 1, every 8 h in weeks 2-4**; **100 mg/kg/dose** for meningitis. (UCG hospital protocol: 50 mg/kg IV 6-hourly.)" },
+    { "id": "cnd-f05", "front": "Gentamicin dose in neonates (WHO/UCG).", "back": "Week 1: **5 mg/kg once daily** (normal weight), **3 mg/kg** LBW (WHO) or **4 mg/kg** preterm (UCG). Weeks 2-4: **7.5 mg/kg once daily**." },
+    { "id": "cnd-f06", "front": "Antibiotics when staphylococcal infection is likely (UCG 2023).", "back": "**Cloxacillin 50 mg/kg IV/IM 6-hourly + gentamicin 5-7 mg/kg once daily**; for omphalitis with flare, many pustules or abscess." },
+    { "id": "cnd-f07", "front": "Second-line antibiotic if no improvement after 48-72 h (UCG).", "back": "Change ampicillin to **ceftriaxone 100 mg/kg once daily** (or per culture). Avoid ceftriaxone in jaundiced/preterm babies if possible and never with IV calcium." },
+    { "id": "cnd-f08", "front": "Duration of antibiotics in neonatal infection.", "back": "Culture negative and well: **stop at 48 h** (NICE: 36 h with reassuring CRP). Sepsis **7-10 days** (UCG 10). Meningitis **21 days**." },
+    { "id": "cnd-f09", "front": "Why is jaundice in the first 24 hours always pathological?", "back": "Physiological mechanisms cannot raise bilirubin that fast; it means **haemolysis** (ABO, Rh, G6PD, spherocytosis) or **infection**. Measure TSB within **2 h** (NICE)." },
+    { "id": "cnd-f10", "front": "IMNCI/UCG definition of severe jaundice in a young infant.", "back": "**Any jaundice in a baby under 24 h old**, or **yellow palms and soles at any age** → refer urgently, prevent hypoglycaemia, keep warm." },
+    { "id": "cnd-f11", "front": "Define prolonged jaundice and what to check.", "back": "Jaundice beyond **14 days (term)** or **21 days (preterm)**. Check **conjugated bilirubin** (above 25 umol/L abnormal), **stool/urine colour**, TSH, urine culture, G6PD." },
+    { "id": "cnd-f12", "front": "NICE phototherapy thresholds for a baby of 38 weeks or more.", "back": "**100** at birth, **200 at 24 h**, **250 at 48 h**, **300 at 72 h**, **350 umol/L from 96 h**." },
+    { "id": "cnd-f13", "front": "NICE exchange thresholds for a baby of 38 weeks or more.", "back": "**100** at birth, **300 at 24 h**, rising to **450 umol/L from 42 h** onwards, or any signs of acute bilirubin encephalopathy." },
+    { "id": "cnd-f14", "front": "WHO Pocket Book phototherapy thresholds (healthy 35 weeks or more).", "back": "Day 1: **any visible jaundice**; day 2: **260 umol/L**; day 3+: **310 umol/L**. Lower for preterm/risk factors (day 2 170, day 3+ 250)." },
+    { "id": "cnd-f15", "front": "When do you stop phototherapy and what then?", "back": "When TSB is **50 umol/L below the phototherapy threshold** (NICE); recheck for **rebound 12-18 h** later." },
+    { "id": "cnd-f16", "front": "Features of acute bilirubin encephalopathy and kernicterus.", "back": "Acute: lethargy, poor suck, hypotonia → **hypertonia, retrocollis, opisthotonus, high-pitched cry**, fever, seizures. Chronic (kernicterus): **choreoathetoid CP**, **sensorineural deafness**, upward gaze palsy, dental enamel dysplasia." },
+    { "id": "cnd-f17", "front": "Kramer zones of jaundice.", "back": "1 head/neck (~100), 2 upper trunk (~150), 3 lower trunk/thighs (~200), 4 arms/lower legs (~250), 5 **palms and soles (above 250 umol/L)**. A rough guide only." },
+    { "id": "cnd-f18", "front": "Treatment of symptomatic neonatal hypoglycaemia.", "back": "**10% dextrose 2 mL/kg IV** over 5 min, then **10% dextrose infusion** (60 mL/kg/day day 1); recheck glucose in **30 min**. No IV: EBM or 10% dextrose by NGT." },
+    { "id": "cnd-f19", "front": "Babies at risk of hypoglycaemia.", "back": "**Preterm**, **LBW/SGA**, **infant of a diabetic mother**, **asphyxia**, **sepsis**, **hypothermia**, delayed/poor feeding, maternal beta-blockers." },
+    { "id": "cnd-f20", "front": "Local umbilical infection: treatment per UCG.", "back": "Clean with boiled cooled water, dry, **gentian violet 0.5% three times daily**, **oral amoxicillin** (250 mg DT: ¼ tab under 1 month/4 kg, 12-hourly for 5 days), **review in 2 days**." },
+    { "id": "cnd-f21", "front": "Treatment of gonococcal ophthalmia neonatorum (UCG 2023).", "back": "**Ceftriaxone 125 mg IM single dose + azithromycin syrup 20 mg/kg once daily for 3 days**, frequent saline irrigation, admit/follow up in 2 days, **treat both parents** and screen for HIV/syphilis." },
+    { "id": "cnd-f22", "front": "Caput succedaneum vs cephalhaematoma vs subgaleal haemorrhage.", "back": "**Caput**: soft oedema, crosses sutures, present at birth, gone in days. **Cephalhaematoma**: limited by sutures, appears later, lasts weeks, jaundice. **Subgaleal**: boggy, crosses sutures, spreads, causes **shock** (vacuum)." },
+    { "id": "cnd-f23", "front": "Describe Erb's palsy.", "back": "**C5-C6** injury: arm adducted, internally rotated, elbow extended, wrist flexed (**waiter's tip**), absent Moro on that side, **grasp preserved**. Most recover; refer if no biceps recovery by 3 months." },
+    { "id": "cnd-f24", "front": "Skin pustules: when local vs systemic treatment?", "back": "**Fewer than 10** pustules, baby well: clean + **gentian violet**. **10 or more**, bullae, abscess or swelling/hardness: **serious infection** → IV cloxacillin + gentamicin." },
+    { "id": "cnd-f25", "front": "WHO classification of hypothermia.", "back": "Normal **36.5-37.5 C**; cold stress **36.0-36.4**; moderate **32.0-35.9**; severe **below 32 C**." },
+    { "id": "cnd-f26", "front": "Double-volume exchange transfusion volume.", "back": "**2 × 80 = 160 mL/kg** in term babies (about 200 mL/kg in preterm); keep intensive phototherapy going." },
+    { "id": "cnd-f27", "front": "Why avoid ceftriaxone in jaundiced neonates?", "back": "It **displaces bilirubin from albumin**, raising free bilirubin and kernicterus risk; it also precipitates with **IV calcium** (fatal reactions). Use cefotaxime where available." }
+  ],
+  "mcqs": [
+    {
+      "id": "cnd-q01",
+      "stem": "A 5-day-old, 3.0 kg baby is brought to a HC IV with poor feeding for 1 day. Temperature 35.3 C after warming, RR 66/min, mild chest indrawing, glucose 3.1 mmol/L. The referral hospital is 1 hour away. What is the MOST appropriate action?",
+      "options": [
+        "Give oral amoxicillin and review in 2 days",
+        "Give paracetamol and reassess in 4 hours",
+        "Give ampicillin 150 mg IM + gentamicin 15 mg IM, keep warm (skin-to-skin), support feeding, and refer urgently",
+        "Admit and observe without antibiotics until a blood culture is available",
+        "Give ceftriaxone 300 mg IM and send home"
+      ],
+      "answer": 2,
+      "explanation": "C is right: hypothermia below 35.5 C after warming, fast breathing and poor feeding are danger signs (very severe disease/PSBI). UCG/IMNCI: give the first dose of ampicillin 50 mg/kg (150 mg) plus gentamicin 5 mg/kg (15 mg, under 7 days) IM, prevent hypoglycaemia, keep warm and refer urgently. A is wrong: oral amoxicillin is for local bacterial infection only. B is wrong: she is hypothermic, and antipyretics are not used in neonates. D is wrong: blood culture is not available at HC IV and antibiotics must not be delayed. E is wrong: a baby with danger signs needs admission, and ceftriaxone is second line."
+    },
+    {
+      "id": "cnd-q02",
+      "stem": "A term baby (3.4 kg) on day 12 is admitted with fever 38.5 C, lethargy and a bulging fontanelle. CSF shows 450 white cells/mm3. Which regimen is MOST appropriate?",
+      "options": [
+        "Ampicillin 340 mg IV 8-hourly plus gentamicin 25.5 mg IV once daily for 21 days",
+        "Ampicillin 170 mg IV 12-hourly plus gentamicin 17 mg IV once daily for 7 days",
+        "Oral amoxicillin for 10 days",
+        "Benzylpenicillin alone for 5 days",
+        "Ceftriaxone single dose IM"
+      ],
+      "answer": 0,
+      "explanation": "A is right: this is neonatal meningitis in week 2. Ampicillin meningitis dose is 100 mg/kg (340 mg) and from week 2 is given 8-hourly; gentamicin in weeks 2-4 is 7.5 mg/kg once daily (25.5 mg); meningitis needs 21 days (UCG/WHO). B is wrong: it uses sepsis doses, week-1 frequency and too short a course. C is wrong: oral therapy is inadequate for meningitis. D is wrong: monotherapy for 5 days is inadequate for Gram-negative and other neonatal pathogens. E is wrong: a single dose treats ophthalmia, not meningitis."
+    },
+    {
+      "id": "cnd-q03",
+      "stem": "A baby born at 39 weeks is noticed to be yellow at 14 hours of age. She is feeding well. Mother is group O positive. What is the MOST appropriate next step?",
+      "options": [
+        "Reassure; review at the 6-day postnatal visit",
+        "Advise sunlight exposure for 30 minutes twice daily",
+        "Stop breastfeeding and give glucose water",
+        "Measure serum bilirubin urgently (within 2 hours), check baby's blood group and DAT, and plot against the age-specific threshold",
+        "Start ceftriaxone for presumed sepsis"
+      ],
+      "answer": 3,
+      "explanation": "D is right: jaundice in the first 24 h is always pathological (NICE: TSB within 2 h); a group O mother raises the possibility of ABO haemolytic disease, so check the baby's group and DAT, and use the hour-specific chart (NICE phototherapy at 12 h is 150 umol/L). A is wrong: day-1 jaundice needs same-day assessment. B is wrong: sunlight is not a safe or reliable treatment. C is wrong: stopping breastfeeding worsens jaundice and dehydration. E is wrong: sepsis is possible, but ceftriaxone is a poor choice in a jaundiced neonate and there are no other signs of sepsis yet."
+    },
+    {
+      "id": "cnd-q04",
+      "stem": "A term baby at 48 hours has a TSB of 270 umol/L. He is well, feeding and not haemolysing. According to NICE CG98 (38 weeks or more), what is the MOST appropriate management?",
+      "options": [
+        "No treatment; recheck in 1 week",
+        "Exchange transfusion",
+        "IVIG 500 mg/kg",
+        "Phenobarbital to induce liver enzymes",
+        "Start phototherapy and repeat TSB in 6-12 hours"
+      ],
+      "answer": 4,
+      "explanation": "E is right: the NICE phototherapy threshold at 48 h is 250 umol/L and the exchange threshold is 450, so 270 needs phototherapy with repeat TSB. A is wrong: the level is above the phototherapy line. B is wrong: it is far below the exchange threshold and there are no signs of encephalopathy. C is wrong: IVIG is for isoimmune haemolysis with rapidly rising bilirubin. D is wrong: phenobarbital is not recommended for treating neonatal jaundice."
+    },
+    {
+      "id": "cnd-q05",
+      "stem": "A 7-week-old exclusively breastfed baby is still jaundiced. He is thriving, but his stools are pale cream and his urine stains the nappy dark yellow. What is the MOST important next step?",
+      "options": [
+        "Reassure; this is breast milk jaundice",
+        "Measure conjugated bilirubin and refer urgently to a paediatric surgeon/hepatology service for possible biliary atresia",
+        "Start phototherapy",
+        "Stop breastfeeding for 48 hours",
+        "Give vitamin K and review in 1 month"
+      ],
+      "answer": 1,
+      "explanation": "B is right: pale stools and dark urine in prolonged jaundice indicate conjugated (cholestatic) jaundice; biliary atresia must be excluded urgently because the Kasai operation works best before about 60 days. A is wrong: breast milk jaundice is unconjugated with normal yellow stools. C is wrong: phototherapy does not treat conjugated jaundice (and can cause bronze baby syndrome). D is wrong: stopping breastfeeding is unnecessary and harmful. E is wrong: vitamin K may be needed (fat malabsorption), but delaying a month risks liver failure."
+    },
+    {
+      "id": "cnd-q06",
+      "stem": "A 6-hour-old infant of a mother with gestational diabetes (birth weight 4.3 kg) is jittery and feeding poorly. Glucose is 1.8 mmol/L. IV access is obtained. What is the MOST appropriate treatment?",
+      "options": [
+        "10% dextrose 8.6 mL IV over 5 minutes, then a 10% dextrose infusion, recheck glucose in 30 minutes",
+        "50% dextrose 2 mL/kg IV",
+        "Formula feed only and recheck in 4 hours",
+        "Glucagon as first line",
+        "Hydrocortisone 10 mg IV"
+      ],
+      "answer": 0,
+      "explanation": "A is right: symptomatic hypoglycaemia (jittery, poor feeding, 1.8 mmol/L) needs 10% dextrose 2 mL/kg IV (4.3 kg × 2 = 8.6 mL), followed by an infusion and a recheck in 30 min; IDM babies have hyperinsulinism and often need a continuous infusion. B is wrong: 50% dextrose is hyperosmolar, damages veins and causes rebound hypoglycaemia in neonates. C is wrong: a symptomatic baby who is feeding poorly needs IV glucose, and 4 hours is too long. D and E are wrong: glucagon and hydrocortisone are for persistent hypoglycaemia despite a high glucose infusion rate, under specialist advice."
+    },
+    {
+      "id": "cnd-q07",
+      "stem": "A 4-day-old baby has a red umbilicus with pus. The redness extends 2 cm onto the surrounding abdominal wall. He is feeding but less vigorously; temperature 37.9 C. What is the MOST appropriate management?",
+      "options": [
+        "Gentian violet and review in 2 days",
+        "Apply ash or herbal paste to dry the stump",
+        "Oral amoxicillin for 5 days at home",
+        "Admit, blood culture, cloxacillin 50 mg/kg IV 6-hourly plus gentamicin",
+        "Chlorhexidine gel only"
+      ],
+      "answer": 3,
+      "explanation": "D is right: redness spreading onto the abdominal wall (periumbilical flare) with fever is serious bacterial infection with staphylococcal risk; UCG advises cloxacillin 50 mg/kg 6-hourly plus gentamicin, after cultures. A and C are wrong: gentian violet and oral amoxicillin are for local umbilical infection without spreading redness or systemic signs. B is wrong: applying substances to the stump is harmful (infection, tetanus). E is wrong: chlorhexidine is for prevention, not treatment of established cellulitis."
+    },
+    {
+      "id": "cnd-q08",
+      "stem": "A 3-day-old baby has markedly swollen eyelids with copious thick yellow pus from both eyes. The mother had vaginal discharge in pregnancy that was not treated. Which treatment is MOST appropriate according to UCG 2023?",
+      "options": [
+        "Tetracycline eye ointment alone 3 times daily",
+        "Chloramphenicol eye drops and review in 1 week",
+        "Ceftriaxone 125 mg IM once plus azithromycin 20 mg/kg daily for 3 days, saline eye washes, and treatment of both parents",
+        "Breast milk drops into the eyes",
+        "Oral amoxicillin for 7 days"
+      ],
+      "answer": 2,
+      "explanation": "C is right: copious purulent discharge with lid swelling on day 2-5 suggests gonococcal ophthalmia, which can perforate the cornea; UCG treats both gonorrhoea and chlamydia with ceftriaxone 125 mg IM stat plus azithromycin 20 mg/kg daily for 3 days, with irrigation and treatment of both parents. A is wrong: UCG states topical tetracycline has no added benefit in active disease. B is wrong: topical therapy alone and a week's delay risk blindness. D is wrong: breast milk is not a treatment for gonococcal infection. E is wrong: amoxicillin does not reliably treat gonococcus (resistance) or chlamydia."
+    },
+    {
+      "id": "cnd-q09",
+      "stem": "After a vacuum delivery, a baby has a firm swelling over the right parietal bone that does not cross the suture lines, first noticed at 8 hours. He is well, Hb normal. What is the MOST appropriate advice?",
+      "options": [
+        "Aspirate the swelling to prevent calcification",
+        "This is a cephalhaematoma: reassure, it resolves over weeks; watch for jaundice",
+        "This is a subgaleal haemorrhage: transfuse now",
+        "This is caput succedaneum: it will be gone by tomorrow",
+        "Apply a pressure bandage"
+      ],
+      "answer": 1,
+      "explanation": "B is right: a firm swelling limited by suture lines, appearing hours after birth, is a subperiosteal cephalhaematoma; it resolves over weeks to 3 months, and breakdown of the blood can increase jaundice. A is wrong: aspiration risks infection. C is wrong: subgaleal haemorrhage is boggy, crosses sutures and causes shock. D is wrong: caput is oedema present at birth that crosses sutures. E is wrong: pressure bandaging is unnecessary."
+    },
+    {
+      "id": "cnd-q10",
+      "stem": "A baby born after shoulder dystocia holds the right arm adducted and internally rotated, with the elbow extended and the wrist flexed. The grasp reflex is present. What is the MOST likely diagnosis?",
+      "options": [
+        "Klumpke palsy (C8-T1)",
+        "Fractured humerus",
+        "Cerebral palsy",
+        "Erb's palsy (C5-C6)",
+        "Septic arthritis of the shoulder"
+      ],
+      "answer": 3,
+      "explanation": "D is right: the 'waiter's tip' posture with preserved grasp is Erb's palsy from stretching of the upper brachial plexus roots (C5-C6), typically after shoulder dystocia. A is wrong: Klumpke palsy affects the hand (claw hand, absent grasp, possibly Horner syndrome). B is wrong: a fracture causes swelling, pain and crepitus; it can coexist but does not give this posture with intact grasp. C is wrong: cerebral palsy is not diagnosed at birth and does not cause an isolated flaccid arm. E is wrong: septic arthritis develops days later with fever and swelling."
+    },
+    {
+      "id": "cnd-q11",
+      "stem": "A 2-day-old, 2.2 kg baby born at 36 weeks has an axillary temperature of 34.8 C in the postnatal ward. What is the BEST immediate management?",
+      "options": [
+        "Give a warm bath",
+        "Put a hot-water bottle directly against the skin",
+        "Start antibiotics only",
+        "Wrap in a single blanket and recheck in 6 hours",
+        "Skin-to-skin KMC or incubator, cover the head, check glucose and feed, look for signs of sepsis, recheck temperature within an hour"
+      ],
+      "answer": 4,
+      "explanation": "E is right: 34.8 C is moderate hypothermia (32.0-35.9 C). Rewarm with skin-to-skin/KMC or an incubator, cover the head, check and treat hypoglycaemia, feed, and look for sepsis; recheck within the hour. A is wrong: bathing increases evaporative heat loss. B is wrong: hot-water bottles directly on skin cause burns. C is wrong: antibiotics may be needed if sepsis is suspected, but rewarming and glucose come first. D is wrong: a single blanket and a 6-hour wait are inadequate."
+    },
+    {
+      "id": "cnd-q12",
+      "stem": "A 3.2 kg baby born to a mother with ROM for 24 hours and fever 38.6 C in labour is well at 1 hour. What is the MOST appropriate plan?",
+      "options": [
+        "Take a blood culture (if available) and start ampicillin + gentamicin; reassess at 48 hours and stop if well and culture negative",
+        "Observe only; antibiotics only if the baby becomes unwell",
+        "Give a 10-day course of ceftriaxone",
+        "Give oral amoxicillin for 5 days",
+        "Treat the mother only"
+      ],
+      "answer": 0,
+      "explanation": "A is right: WHO advises IM/IV ampicillin + gentamicin for at least 2 days for newborns with documented risk factors (ROM over 18 h, maternal fever above 38 C, foul liquor), continuing only if there are signs of sepsis or a positive culture. B is wrong: in a setting with limited monitoring, both risk factors together justify prophylaxis/empirical treatment. C is wrong: ceftriaxone is second line and a 10-day course is unnecessary if the baby stays well with negative cultures. D is wrong: oral amoxicillin is not adequate empirical therapy for early-onset sepsis. E is wrong: the baby is at risk too."
+    },
+    {
+      "id": "cnd-q13",
+      "stem": "A term baby on phototherapy for jaundice (no haemolysis) has a TSB of 205 umol/L at 96 hours. The NICE phototherapy threshold at this age is 350 umol/L. What is the MOST appropriate decision?",
+      "options": [
+        "Continue phototherapy until the baby is no longer visibly yellow",
+        "Start exchange transfusion",
+        "Stop phototherapy (more than 50 umol/L below the threshold) and recheck bilirubin 12-18 hours later for rebound",
+        "Stop and discharge with no further checks",
+        "Add IVIG"
+      ],
+      "answer": 2,
+      "explanation": "C is right: NICE advises stopping phototherapy once TSB is 50 umol/L or more below the phototherapy threshold, and checking for rebound 12-18 h after stopping. A is wrong: visible jaundice persists below treatment thresholds; continuing exposes the baby to unnecessary separation and fluid loss. B is wrong: the level is far below the exchange line. D is wrong: a rebound check is recommended. E is wrong: there is no haemolysis and the level is falling."
+    },
+    {
+      "id": "cnd-q14",
+      "stem": "A 2-day-old baby has 4 small pustules on the neck and axilla. He is feeding well and active, temperature 36.9 C. What is the MOST appropriate management per UCG 2023?",
+      "options": [
+        "Admit for IV cloxacillin and gentamicin",
+        "Clean with boiled cooled water, dry, apply gentian violet 0.5%, and review in 2 days",
+        "Apply hydrocortisone cream",
+        "Bathe the baby in salty water",
+        "No treatment needed"
+      ],
+      "answer": 1,
+      "explanation": "B is right: fewer than 10 pustules in a well baby is a local skin infection; UCG advises home treatment (wash, dry, gentian violet 0.5%) and review in 2 days. A is wrong: systemic antibiotics are for 10 or more pustules, bullae, swelling/hardness or a sick baby. C is wrong: steroids worsen bacterial infection. D is wrong: salty baths are not a treatment and irritate the skin. E is wrong: these are pustules, not benign erythema toxicum, and need treatment and review."
+    },
+    {
+      "id": "cnd-q15",
+      "stem": "A 10-day-old preterm baby (1.6 kg) is septic and deeply jaundiced (TSB near the exchange threshold). Blood culture is pending. Which antibiotic choice is MOST appropriate to AVOID if an alternative exists?",
+      "options": [
+        "Ampicillin",
+        "Gentamicin",
+        "Cloxacillin",
+        "Ceftriaxone",
+        "Cefotaxime"
+      ],
+      "answer": 3,
+      "explanation": "D is right: ceftriaxone displaces bilirubin from albumin, increasing the risk of kernicterus in a deeply jaundiced preterm, and must never be given with IV calcium in neonates. A, B and C are wrong as answers because ampicillin, gentamicin and cloxacillin do not displace bilirubin and are standard neonatal choices. E is wrong as an answer because cefotaxime is the preferred third-generation cephalosporin in jaundiced neonates."
+    }
+  ],
+  "cases": [
+    {
+      "id": "cnd-c01",
+      "title": "The cold, sleepy baby with a smelly cord",
+      "presentation": "A 7-day-old boy is brought to Mengo emergency by his grandmother. He was born at home in Mukono to a 17-year-old mother; birth weight was not measured. Cow ghee was applied to the cord. For 2 days he has been feeding poorly and 'sleeping too much'. Weight 2.6 kg, axillary temperature 35.2 C, RR 68/min with chest indrawing, HR 178, CRT 4 seconds. The umbilicus is red and smelly with redness spreading 3 cm onto the abdomen.",
+      "steps": [
+        { "prompt": "What are your first actions?", "answer": "**ABC**: oxygen if SpO2 below 90%; **IV/IO access**; **glucose** check; warm (incubator/radiant warmer or skin-to-skin once stable); CRT 4 s with HR 178 = poor perfusion → **normal saline 10 mL/kg = 26 mL** over 10-20 min and reassess; blood culture; start antibiotics immediately." },
+        { "prompt": "Glucose is 1.9 mmol/L. What do you give?", "answer": "**10% dextrose 2 mL/kg = 5.2 mL IV** over 5 min, then **10% dextrose maintenance** (about 60-90 mL/kg/day by day 7 depending on hydration, with sodium after day 2, e.g. 10% dextrose/0.18% saline); recheck glucose in 30 min." },
+        { "prompt": "Which antibiotics and doses?", "answer": "Omphalitis with flare = staphylococcal risk: **cloxacillin 50 mg/kg = 130 mg IV 6-hourly + gentamicin** (day 7: 5 mg/kg = 13 mg once daily per UCG/WHO week 1; from day 8, 7.5 mg/kg = 19.5 mg). Add cover for Gram-negatives/anaerobes if necrotising fasciitis suspected; LP once stable." },
+        { "prompt": "What other diagnosis must you think of in a home birth with substances on the cord?", "answer": "**Neonatal tetanus** (day 3-14, inability to suck, trismus, spasms). Check for trismus, rigidity, spasms on stimulation; ask the mother's Td status." },
+        { "prompt": "On day 3 of treatment, he is warm, feeding by NGT, culture grows S. aureus sensitive to cloxacillin. Plan?", "answer": "Continue **cloxacillin** (stop gentamicin if sensitivities allow) for **10-14 days** total (longer if deep infection/osteomyelitis); daily cord care; advance EBM to cup/breast; daily weight; **BCG/OPV0** before discharge; counsel on cord care (chlorhexidine, nothing else)." },
+        { "prompt": "What counselling and public health actions are needed?", "answer": "Teach the mother and grandmother **clean cord care**, hand-washing, exclusive breastfeeding, warmth, danger signs; check and start **maternal Td**; HIV and syphilis testing for the mother if not done; family planning for the teenage mother; link to the village health team for follow-up." }
+      ],
+      "takeaway": "A cold, sleepy neonate with a spreading umbilical infection has sepsis with shock risk: give oxygen, fluid, glucose and anti-staphylococcal antibiotics in mg/kg doses at once, and think of tetanus when the cord has been contaminated."
+    },
+    {
+      "id": "cnd-c02",
+      "title": "Early jaundice in a group O mother's baby",
+      "presentation": "At Kawempe National Referral Hospital, a 39-week, 3.3 kg baby girl born by SVD is noticed to be yellow at 18 hours of age. The mother is a para 2, blood group O positive; her first child 'needed blue lights'. The baby is feeding well. Temperature 36.8 C.",
+      "steps": [
+        { "prompt": "Why is this jaundice concerning?", "answer": "**Jaundice under 24 h is always pathological.** A group O mother and a sibling who needed phototherapy suggest **ABO haemolytic disease**; also consider G6PD deficiency, Rh disease (mother is Rh positive, so unlikely), sepsis and congenital infection." },
+        { "prompt": "What investigations do you request?", "answer": "**TSB now** (NICE: within 2 h), **baby's blood group and DAT**, FBC with reticulocytes and film (spherocytes), G6PD if available; blood culture and CRP if any sign of infection; repeat TSB 4-6-hourly while rising." },
+        { "prompt": "TSB at 18 h is 190 umol/L. Interpret it.", "answer": "NICE (38 weeks or more): phototherapy threshold at 18 h = **175 umol/L**, exchange = **250 umol/L**. She is **above the phototherapy line**: start phototherapy now (intensive/double lights if rising fast), continue breastfeeding, repeat TSB in 4-6 h." },
+        { "prompt": "Six hours later (24 h) TSB is 260 umol/L despite phototherapy. DAT is positive. What next?", "answer": "Rise of 70 in 6 h = **11.7 umol/L/h** (above 8.5/h). The 24-h exchange threshold is **300**. Give **intensive multiple phototherapy**, consider **IVIG 500 mg/kg (1.65 g) over 4 h** (NICE, isoimmune haemolysis with rise above 8.5 umol/L/h), cross-match **O-negative/compatible blood** for possible **double-volume exchange (160 mL/kg = about 530 mL)**, recheck TSB in 4 h, watch for encephalopathy." },
+        { "prompt": "What are the early signs of acute bilirubin encephalopathy you will monitor for?", "answer": "**Lethargy, poor suck, hypotonia**, then **high-pitched cry, hypertonia, retrocollis and opisthotonus**, fever, seizures. Any of these = **immediate exchange transfusion**." },
+        { "prompt": "What follow-up does she need?", "answer": "Rebound TSB after stopping phototherapy; **Hb at 2-4 weeks** (late anaemia from ongoing haemolysis); **hearing screen**; development review; counsel about risk in future pregnancies (ABO disease often recurs)." }
+      ],
+      "takeaway": "Day-1 jaundice is haemolysis or sepsis until proven otherwise: measure TSB, plot it by age in hours, start phototherapy early, and escalate to IVIG or exchange when the rise is fast or near the exchange line."
+    },
+    {
+      "id": "cnd-c03",
+      "title": "Sticky eyes and a sick mother",
+      "presentation": "A 4-day-old baby born at a HC III in Luwero is brought to a HC IV because both eyes are swollen shut with thick yellow pus since yesterday. No tetracycline was given at birth. The mother had an untreated vaginal discharge in the third trimester; her HIV test at ANC was negative but she has not been retested. The baby is feeding well, temperature 37.0 C, weight 3.1 kg.",
+      "steps": [
+        { "prompt": "What is the likely diagnosis and why is it urgent?", "answer": "**Gonococcal ophthalmia neonatorum** (onset day 2-5, copious pus, lid oedema). It can cause **corneal ulceration and perforation within days → blindness**." },
+        { "prompt": "How do you treat the baby?", "answer": "**Ceftriaxone 125 mg IM single dose** (WHO 50 mg/kg, max 125 mg) **plus azithromycin 20 mg/kg = 62 mg orally once daily for 3 days** (UCG, chlamydia co-infection); **irrigate eyes with saline** frequently (gloves, open lids carefully: pus may be under pressure); admit or review twice daily; refer urgently if no improvement or corneal haze." },
+        { "prompt": "What investigations would help where available?", "answer": "**Eye swab Gram stain** (Gram-negative intracellular diplococci) and culture; check for systemic gonococcal infection (sepsis, arthritis) if unwell." },
+        { "prompt": "What must be done for the parents?", "answer": "Treat **both parents** for gonorrhoea and chlamydia per UCG STI guidelines; **retest the mother for HIV and syphilis** (and HBsAg); partner notification; condom counselling." },
+        { "prompt": "How could this have been prevented?", "answer": "**ANC STI screening and treatment**, and **tetracycline 1% eye ointment to both eyes of all newborns at delivery** (UCG prevention)." }
+      ],
+      "takeaway": "Copious purulent eye discharge in the first week is gonococcal until proven otherwise: give systemic ceftriaxone plus azithromycin, irrigate, and treat both parents."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023 (2.1.7.1 Neonatal septicaemia; 3.2.9.1 Neonatal conjunctivitis; 17.1 Sick newborn; 17.2 Sick young infant)", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Pocket book of hospital care for children, 2nd edition (Chapter 3 and neonatal drug doses)", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "WHO recommendations for management of serious bacterial infections in infants aged 0-59 days", "source": "World Health Organization", "year": 2024, "url": "https://www.who.int/publications/i/item/9789240102903" },
+    { "title": "Jaundice in newborn babies under 28 days (CG98), last updated 2023: recommendations and threshold table", "source": "NICE", "year": 2023, "url": "https://www.nice.org.uk/guidance/cg98/chapter/Recommendations" },
+    { "title": "Neonatal infection: antibiotics for prevention and treatment (NG195)", "source": "NICE", "year": 2021, "url": "https://www.nice.org.uk/guidance/ng195" },
+    { "title": "Clinical Practice Guideline Revision: Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation", "source": "Kemper AR, et al. American Academy of Pediatrics. Pediatrics 2022;150(3):e2022058859", "year": 2022, "url": "https://doi.org/10.1542/peds.2022-058859" },
+    { "title": "Neonatal Sepsis Treatment & Management", "source": "Medscape eMedicine", "year": 2024, "url": "https://emedicine.medscape.com/article/978352-treatment" },
+    { "title": "Neonatal Jaundice Treatment & Management", "source": "Medscape eMedicine", "year": 2024, "url": "https://emedicine.medscape.com/article/974786-treatment" },
+    { "title": "Birth Injuries", "source": "MSD Manual Professional Edition", "year": 2024, "url": "https://www.msdmanuals.com/professional/pediatrics/perinatal-problems/birth-injuries" }
+  ]
+}

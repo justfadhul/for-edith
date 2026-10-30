@@ -1,0 +1,464 @@
+{
+  "slug": "neonatal-tetanus",
+  "flashcards": [
+    {
+      "id": "ntet-f01",
+      "front": "WHO case definition of confirmed neonatal tetanus.",
+      "back": "An infant with **normal ability to suck and cry in the first 2 days** of life who **loses this ability between days 3 and 28** and **becomes rigid or has spasms**."
+    },
+    {
+      "id": "ntet-f02",
+      "front": "Organism and source in neonatal tetanus.",
+      "back": "**Clostridium tetani** (anaerobic Gram-positive spore-former in soil/animal faeces); spores enter the **umbilical stump** via an unsterile cutting instrument or substances applied to the cord (cow dung, ash, herbs)."
+    },
+    {
+      "id": "ntet-f03",
+      "front": "Why does maternal immunisation prevent neonatal tetanus?",
+      "back": "Maternal **anti-tetanus IgG** (from TT/Td) **crosses the placenta** and neutralises toxin in the newborn."
+    },
+    {
+      "id": "ntet-f04",
+      "front": "Mechanism of action of tetanospasmin.",
+      "back": "Retrograde axonal transport to the spinal cord/brainstem; cleaves **synaptobrevin** in inhibitory interneurons, blocking release of **GABA and glycine** → unopposed motor firing (rigidity, spasms) and autonomic instability."
+    },
+    {
+      "id": "ntet-f05",
+      "front": "Why does recovery from tetanus take weeks?",
+      "back": "Toxin binding is **irreversible**; recovery needs **new nerve terminal sprouting**, which takes about **3-6 weeks**."
+    },
+    {
+      "id": "ntet-f06",
+      "front": "Usual age at presentation (UCG 2023).",
+      "back": "**3-14 days** after birth, with irritability and **difficulty feeding (trismus)**, then rigidity and generalised spasms."
+    },
+    {
+      "id": "ntet-f07",
+      "front": "Classic signs of neonatal tetanus.",
+      "back": "**Trismus** (cannot suck), **risus sardonicus**, clenched fists, generalised **rigidity**, **opisthotonus**, **spasms provoked by touch, noise or light**, baby **conscious** between spasms."
+    },
+    {
+      "id": "ntet-f08",
+      "front": "How do you distinguish tetanus spasms from seizures?",
+      "back": "Tetanus: **conscious and alert** between spasms, spasms **provoked by stimuli**, trismus and rigidity. Seizures (sepsis, HIE, hypoglycaemia): altered consciousness, not stimulus-triggered, often subtle movements."
+    },
+    {
+      "id": "ntet-f09",
+      "front": "Two features of poor prognosis in tetanus.",
+      "back": "**Incubation period below 7 days** and **period of onset (first symptom to first spasm) below 48 h**; also fever, tachycardia, frequent severe spasms, LBW, apnoea."
+    },
+    {
+      "id": "ntet-f10",
+      "front": "Is any lab test diagnostic of tetanus?",
+      "back": "**No.** Diagnosis is **clinical**. CSF is normal; cultures of the stump are unreliable. Tests exclude mimics (glucose, calcium, CSF) and find complications."
+    },
+    {
+      "id": "ntet-f11",
+      "front": "TIG dose in neonatal tetanus (UCG 2023).",
+      "back": "**Human tetanus immunoglobulin 500 IU IM**, split into **at least 2 sites**, **away from** the vaccine site. Give as early as possible (neutralises only unbound toxin)."
+    },
+    {
+      "id": "ntet-f12",
+      "front": "Alternative if TIG is not available.",
+      "back": "**Equine tetanus antitoxin** (e.g. 5,000 IU per older WHO protocols; check product) with test dose and **adrenaline ready**; IVIG (contains antitoxin) where available."
+    },
+    {
+      "id": "ntet-f13",
+      "front": "First-line antibiotic in neonatal tetanus (UCG 2023).",
+      "back": "**Metronidazole 15 mg/kg IV loading over 60 min**, then **7.5 mg/kg 12-hourly** (under 4 weeks old; 8-hourly over 4 weeks). UCG lists 14 days."
+    },
+    {
+      "id": "ntet-f14",
+      "front": "Second-line antibiotic for neonatal tetanus (UCG).",
+      "back": "**Benzylpenicillin 100,000 IU/kg every 12 h for 10-14 days**. Metronidazole is preferred because penicillin is a GABA antagonist."
+    },
+    {
+      "id": "ntet-f15",
+      "front": "Diazepam dose for tetanus spasms (UCG 2023).",
+      "back": "**0.2 mg/kg IV** or **0.5 mg/kg rectally every 1-4 hours** as needed; watch for apnoea."
+    },
+    {
+      "id": "ntet-f16",
+      "front": "Chlorpromazine dose in neonatal tetanus (UCG).",
+      "back": "**1 mg/kg orally via NGT every 8 hours**, often alternated with diazepam."
+    },
+    {
+      "id": "ntet-f17",
+      "front": "Environment for a baby with tetanus.",
+      "back": "**Quiet, dark, cool** room, minimal handling, **cluster care about 30 min after a sedative**, suction and bag-mask at the bedside."
+    },
+    {
+      "id": "ntet-f18",
+      "front": "Feeding plan in neonatal tetanus (UCG).",
+      "back": "Start **IV fluids**; insert an NGT and start **expressed breast milk 24 h after admission in small frequent feeds**; mother expresses every 3 h."
+    },
+    {
+      "id": "ntet-f19",
+      "front": "Does recovery from tetanus give immunity?",
+      "back": "**No.** Too little toxin to induce immunity: give a **DTP-containing vaccine** (UCG: first DPT dose at diagnosis, different site from TIG) and complete the schedule."
+    },
+    {
+      "id": "ntet-f20",
+      "front": "Td schedule for women of childbearing age.",
+      "back": "**Td1** first contact; **Td2** at least **4 weeks** later; **Td3** at least **6 months** later; **Td4** and **Td5** each at least **1 year** later. Td2 at least **2 weeks before delivery**."
+    },
+    {
+      "id": "ntet-f21",
+      "front": "The six 'cleans' of delivery.",
+      "back": "Clean **hands**, clean **perineum**, clean **delivery surface**, clean **blade**, clean **cord tie**, clean **cord care**."
+    },
+    {
+      "id": "ntet-f22",
+      "front": "Uganda cord care policy.",
+      "back": "**Chlorhexidine 7.1% digluconate gel daily for 7 days**; keep the stump clean and dry, fold the nappy below it, **put nothing else on it** (UCG 2023)."
+    },
+    {
+      "id": "ntet-f23",
+      "front": "Is neonatal tetanus notifiable in Uganda?",
+      "back": "**Yes** (UCG 2023). Notify the district surveillance focal person; investigate the case (mother's Td, birth place, cord practices)."
+    },
+    {
+      "id": "ntet-f24",
+      "front": "WHO global figures for neonatal tetanus deaths.",
+      "back": "About **7,700 deaths in 2021**, an **84% reduction** from about 46,900 in 2000."
+    },
+    {
+      "id": "ntet-f25",
+      "front": "Main causes of death in neonatal tetanus.",
+      "back": "**Apnoea/laryngospasm and respiratory failure**, **aspiration pneumonia**, secondary **sepsis**, autonomic instability, exhaustion and dehydration."
+    },
+    {
+      "id": "ntet-f26",
+      "front": "What is the MNT elimination target?",
+      "back": "Fewer than **1 neonatal tetanus case per 1,000 live births in every district** per year."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "ntet-q01",
+      "stem": "An 8-day-old baby born at home is brought because he stopped breastfeeding 2 days ago. He has a fixed grimace, clenched fists and his whole body stiffens when the nurse touches him. Between episodes his eyes are open and he follows faces. Temperature 37.6 C. What is the MOST likely diagnosis?",
+      "options": [
+        "Bacterial meningitis",
+        "Neonatal tetanus",
+        "Hypoxic-ischaemic encephalopathy",
+        "Hypoglycaemic seizures",
+        "Kernicterus"
+      ],
+      "answer": 1,
+      "explanation": "B is right: a home-born baby who fed normally, then stopped sucking (trismus) on day 6, with risus sardonicus, clenched fists, stimulus-provoked spasms and preserved consciousness has neonatal tetanus. A is wrong: meningitis causes reduced consciousness, fever and often a bulging fontanelle; seizures are not triggered by touch. C is wrong: HIE is abnormal from birth after a hypoxic delivery. D is wrong: hypoglycaemic seizures come with lethargy and respond to glucose. E is wrong: kernicterus occurs with deep jaundice and lethargy."
+    },
+    {
+      "id": "ntet-q02",
+      "stem": "Which mechanism BEST explains the spasms of tetanus?",
+      "options": [
+        "Blockade of acetylcholine release at the neuromuscular junction",
+        "Direct invasion of muscle by Clostridium tetani",
+        "Antibody-mediated destruction of acetylcholine receptors",
+        "Blockade of GABA and glycine release from inhibitory interneurons in the spinal cord and brainstem",
+        "Cerebral cortical irritation causing epileptic discharges"
+      ],
+      "answer": 3,
+      "explanation": "D is right: tetanospasmin travels retrogradely to the CNS and cleaves synaptobrevin in inhibitory interneurons, blocking GABA and glycine release; motor neurons fire unopposed. A is wrong: that is botulinum toxin, which causes flaccid paralysis. B is wrong: the bacteria stay at the wound; the disease is toxin-mediated. C is wrong: that is myasthenia gravis. E is wrong: the cortex is not affected, which is why the baby stays conscious."
+    },
+    {
+      "id": "ntet-q03",
+      "stem": "A 2.6 kg, 9-day-old baby is admitted to a regional referral hospital with neonatal tetanus. He is having frequent spasms. Which set of initial orders is MOST appropriate (UCG 2023)?",
+      "options": [
+        "TIG 500 IU IM in two sites, first DPT dose in a different site, metronidazole 39 mg IV loading then 19.5 mg 12-hourly, diazepam 0.5 mg IV every 1-4 h as needed, quiet dark room",
+        "Benzylpenicillin alone and discharge when spasms stop",
+        "Phenobarbital 20 mg/kg and observe; antitoxin only if no improvement in 3 days",
+        "TIG 500 IU IM into the same site as the DPT vaccine and ceftriaxone",
+        "Tetanus toxoid only, because it will stimulate antibodies quickly"
+      ],
+      "answer": 0,
+      "explanation": "A is right: UCG 2023 advises TIG 500 IU IM in at least 2 sites, a first DPT dose at a different site, metronidazole 15 mg/kg loading (39 mg) then 7.5 mg/kg 12-hourly (19.5 mg) for infants under 4 weeks, diazepam 0.2 mg/kg IV (0.52 mg) every 1-4 h, and a quiet dark room. B is wrong: penicillin is second line and antitoxin and sedation are essential. C is wrong: TIG must be given early because it only neutralises unbound toxin. D is wrong: TIG and vaccine must be given at different sites, and ceftriaxone does not replace metronidazole. E is wrong: vaccine alone takes weeks to work and does not treat the disease."
+    },
+    {
+      "id": "ntet-q04",
+      "stem": "Thirty minutes after a dose of rectal diazepam, a baby with neonatal tetanus becomes floppy, stops breathing and his SpO2 falls to 78%. What is the MOST appropriate immediate action?",
+      "options": [
+        "Give another dose of diazepam to prevent further spasms",
+        "Give TIG again",
+        "Insert an NGT and feed",
+        "Give chlorpromazine",
+        "Open the airway, suction, and give bag-mask ventilation with oxygen until breathing resumes; then reduce the sedation dose"
+      ],
+      "answer": 4,
+      "explanation": "E is right: this is apnoea from over-sedation (benzodiazepine respiratory depression). Support the airway and breathing with bag-mask ventilation, then titrate sedation down. Always keep a bag and mask at the bedside. A and D are wrong: more sedatives deepen respiratory depression. B is wrong: TIG is given once and does not reverse apnoea. C is wrong: feeding a non-breathing baby risks aspiration and delays resuscitation."
+    },
+    {
+      "id": "ntet-q05",
+      "stem": "A 2.9 kg, 8-day-old baby with neonatal tetanus has received TIG and diazepam. The umbilical stump is moist and smelly. The ward stocks the drugs below. Which antibiotic order is MOST appropriate to eliminate the source of toxin, according to UCG 2023?",
+      "options": [
+        "Ceftriaxone 290 mg IV once daily for 5 days",
+        "Gentamicin 14.5 mg IV once daily for 7 days",
+        "Metronidazole 43.5 mg IV over 60 min, then 22 mg IV every 12 hours",
+        "Benzylpenicillin 290,000 IU IV every 12 hours as first choice",
+        "Ciprofloxacin 30 mg orally twice daily"
+      ],
+      "answer": 2,
+      "explanation": "C is right: UCG lists metronidazole as first line: 15 mg/kg loading over 60 min (43.5 mg), then 7.5 mg/kg (about 22 mg) every 12 hours for infants under 4 weeks; it kills C. tetani and is associated with lower mortality than penicillin. D is wrong: benzylpenicillin 100,000 IU/kg 12-hourly is the second-line option, partly because penicillin is a GABA antagonist. A is wrong: ceftriaxone is not the recommended treatment for C. tetani (though it may be used for secondary sepsis). B is wrong: gentamicin has no activity against anaerobes such as C. tetani. E is wrong: ciprofloxacin has no role here."
+    },
+    {
+      "id": "ntet-q06",
+      "stem": "A mother whose baby is admitted with neonatal tetanus received one Td dose at ANC 3 weeks before delivery. What is the MOST appropriate action for her before discharge?",
+      "options": [
+        "Give Td now and schedule the remaining doses to complete 5 doses",
+        "No vaccine is needed; she has already had one dose",
+        "Give TIG 500 IU to the mother",
+        "Vaccinate only in her next pregnancy",
+        "Give her antibiotics for tetanus"
+      ],
+      "answer": 0,
+      "explanation": "A is right: she had only one dose (Td1 gives no protection) and future babies are at risk; give Td2 now (at least 4 weeks after Td1) and plan Td3-Td5. B is wrong: one dose is not protective. C is wrong: TIG is passive treatment for an infected person, not prevention for her. D is wrong: delaying leaves her and future babies unprotected; Td2 should be given at least 2 weeks before a delivery. E is wrong: she does not have tetanus."
+    },
+    {
+      "id": "ntet-q07",
+      "stem": "Which feature of the history BEST supports neonatal tetanus over neonatal sepsis in a 7-day-old with stiffness?",
+      "options": [
+        "Fever of 38 C",
+        "Poor feeding",
+        "Mother had prolonged rupture of membranes",
+        "The baby sucked normally for the first 4 days and has spasms provoked by touch, with normal consciousness between them",
+        "Jaundice to the abdomen"
+      ],
+      "answer": 3,
+      "explanation": "D is right: normal sucking early, then loss of sucking with stimulus-provoked spasms and preserved consciousness is the classic tetanus picture (WHO case definition). A and B are wrong: fever and poor feeding are non-specific and common in sepsis. C is wrong: prolonged ROM is a risk factor for early-onset sepsis, not tetanus. E is wrong: jaundice is non-specific."
+    },
+    {
+      "id": "ntet-q08",
+      "stem": "On day 2 of admission, a baby with neonatal tetanus is having fewer spasms on sedation. How should he be fed?",
+      "options": [
+        "Bottle-feed formula every 2 hours",
+        "Breastfeed directly on demand",
+        "Continue IV fluids and start small, frequent NGT feeds of expressed breast milk",
+        "Nil by mouth for 2 weeks on IV fluids only",
+        "Glucose water by cup"
+      ],
+      "answer": 2,
+      "explanation": "C is right: UCG advises IV fluids initially, then NGT feeds of expressed breast milk from 24 h after admission in small, frequent feeds, reducing IV fluids as feeds increase. A and B are wrong: trismus prevents sucking and oral feeding risks aspiration and spasms. D is wrong: prolonged nil by mouth causes malnutrition and infection risk. E is wrong: cup feeding a baby with trismus risks aspiration and glucose water gives no nutrition."
+    },
+    {
+      "id": "ntet-q09",
+      "stem": "Which TWO features together predict the WORST prognosis in neonatal tetanus?",
+      "options": [
+        "Late onset (day 20) and long period of onset",
+        "Presentation at a hospital and use of TIG",
+        "Normal temperature and slow heart rate",
+        "Good weight and mild trismus",
+        "Incubation period below 7 days and period of onset below 48 hours"
+      ],
+      "answer": 4,
+      "explanation": "E is right: a short incubation (below 7 days) and a short period of onset (first symptom to first spasm below 48 h) indicate a large toxin load and predict severe disease and death. A is wrong: later onset and slow progression are better. B is wrong: early hospital care and TIG improve outcome. C and D are wrong: these are favourable features."
+    },
+    {
+      "id": "ntet-q10",
+      "stem": "A baby is recovering from neonatal tetanus after 4 weeks in hospital. The mother asks whether he is now protected against tetanus for life. What is the BEST answer?",
+      "options": [
+        "Yes, natural infection gives lifelong immunity",
+        "No; the illness does not give immunity, so he must complete his DTP-containing vaccines on schedule",
+        "Yes, the TIG he received will protect him for life",
+        "He only needs one booster at school age",
+        "Immunity depends on his blood group"
+      ],
+      "answer": 1,
+      "explanation": "B is right: the tiny amount of toxin that causes disease does not induce immunity, so survivors must be actively immunised (pentavalent at 6, 10, 14 weeks and boosters per UNEPI). A is wrong for the same reason. C is wrong: TIG is passive and lasts only weeks. D is wrong: he needs the full primary series. E is wrong: blood group is irrelevant."
+    },
+    {
+      "id": "ntet-q11",
+      "stem": "You are asked to do a lumbar puncture on a baby with suspected neonatal tetanus because a colleague is worried about meningitis. The baby is alert between frequent spasms and the fontanelle is flat. What is the MOST appropriate approach?",
+      "options": [
+        "Do the LP immediately without sedation",
+        "LP is contraindicated in all newborns",
+        "LP is usually unnecessary when the picture is classic; if meningitis cannot be excluded, sedate first and cluster the procedure, expecting normal CSF in tetanus",
+        "Give TIG intrathecally during the LP as routine care",
+        "Delay all treatment until CSF results are back"
+      ],
+      "answer": 2,
+      "explanation": "C is right: tetanus is a clinical diagnosis; CSF is normal. LP is only needed if meningitis cannot be excluded, and procedures should be done after sedation and clustered, because stimulation triggers spasms and apnoea. A is wrong: an unsedated LP will provoke severe spasms. B is wrong: LP is an important test in neonates when meningitis is suspected. D is wrong: intrathecal TIG has been studied but is not routine care. E is wrong: TIG, metronidazole and sedation should not wait."
+    },
+    {
+      "id": "ntet-q12",
+      "stem": "A traditional birth attendant asks what she should put on the cord after cutting it. What is the BEST advice according to Uganda's guidelines?",
+      "options": [
+        "Cow ghee to keep it soft",
+        "Ash to dry it quickly",
+        "Herbal paste to prevent bleeding",
+        "Methylated spirit and a tight bandage",
+        "Chlorhexidine 7.1% gel daily for 7 days, keep it clean and dry, and put nothing else on it"
+      ],
+      "answer": 4,
+      "explanation": "E is right: UCG advises chlorhexidine gel daily for 7 days (if unavailable, put nothing), keep the stump clean and dry, fold the nappy below it, and do not apply anything else or bandage. A, B and C are wrong: ghee, ash and herbs can carry tetanus spores and bacteria. D is wrong: bandaging the stump is discouraged and spirit is not the national recommendation."
+    },
+    {
+      "id": "ntet-q13",
+      "stem": "Which statement about the WHO surveillance definition of neonatal tetanus is CORRECT?",
+      "options": [
+        "The baby must have had normal sucking and crying in the first 2 days and lost them between days 3 and 28, with rigidity or spasms",
+        "A positive umbilical culture for C. tetani is required",
+        "The baby must be febrile",
+        "Onset must be in the first 48 hours of life",
+        "The mother must have had tetanus"
+      ],
+      "answer": 0,
+      "explanation": "A is right: that is the WHO confirmed-case definition. B is wrong: diagnosis is clinical; cultures are unreliable and not required. C is wrong: fever is not part of the definition. D is wrong: onset in the first 2 days argues against tetanus (normal feeding in the first 2 days is required). E is wrong: the mother is usually unimmunised, not infected."
+    },
+    {
+      "id": "ntet-q14",
+      "stem": "A HC III midwife calls about a 6-day-old with trismus and spasms. The hospital is 3 hours away. TIG is not stocked. What is the MOST appropriate action?",
+      "options": [
+        "Keep the baby at HC III and give oral feeds",
+        "Wait until the morning to arrange transport",
+        "Give tetanus toxoid only and send home",
+        "Give a sedative dose (e.g. rectal diazepam 0.5 mg/kg), a first dose of antibiotic, keep warm and quiet, and refer immediately with the mother and bag-mask on the journey",
+        "Give a large dose of IV diazepam and send by motorcycle"
+      ],
+      "answer": 3,
+      "explanation": "D is right: UCG says refer to hospital immediately; stabilise first with sedation (rectal diazepam 0.5 mg/kg works without IV access), an antibiotic dose (metronidazole or benzylpenicillin), warmth and a calm environment, and send with a health worker able to bag-ventilate. A is wrong: oral feeding risks aspiration and the baby needs hospital care. B is wrong: delay increases mortality. C is wrong: toxoid alone does not treat the disease. E is wrong: large doses of IV diazepam without monitoring cause apnoea, and an unaccompanied motorcycle trip is unsafe."
+    },
+    {
+      "id": "ntet-q15",
+      "stem": "Which is the MOST effective single public-health intervention to prevent neonatal tetanus?",
+      "options": [
+        "Giving antibiotics to all newborns",
+        "Immunising women of childbearing age with tetanus-diphtheria (Td) vaccine",
+        "Giving TIG to every newborn",
+        "Bathing newborns immediately after birth",
+        "Applying gentian violet to every cord"
+      ],
+      "answer": 1,
+      "explanation": "B is right: maternal Td immunisation (with clean delivery and cord care) is the main reason global neonatal tetanus deaths fell by 84% between 2000 and 2021 (WHO); maternal antibodies cross the placenta. A is wrong: antibiotics do not prevent toxin disease and promote resistance. C is wrong: universal TIG is impractical and unnecessary when mothers are immunised. D is wrong: early bathing causes hypothermia. E is wrong: chlorhexidine (not gentian violet) is the recommended cord antiseptic, and cord care alone does not replace immunisation."
+    }
+  ],
+  "cases": [
+    {
+      "id": "ntet-c01",
+      "title": "A stiff baby from an island in Lake Victoria",
+      "presentation": "A 10-day-old boy from Buvuma island is brought by boat to a regional referral hospital. He was born at home with a traditional birth attendant; the cord was cut with a new razor blade but dressed with cow dung 'to make it fall off quickly'. He breastfed well until day 6, then 'refused the breast'. Since yesterday his body becomes stiff and arches when touched. The mother, aged 18, attended ANC once and does not remember any injection. Weight 2.7 kg, T 37.9 C, HR 170, RR 56, SpO2 93% in air.",
+      "steps": [
+        {
+          "prompt": "What is your diagnosis and how does it fit the WHO definition?",
+          "answer": "**Neonatal tetanus.** He sucked and cried normally in the first 2 days, lost the ability to suck on day 6 (between days 3 and 28), and now has rigidity and spasms. Risk factors: home birth, **cow dung on the cord**, **unimmunised mother**."
+        },
+        {
+          "prompt": "What will you look for on examination?",
+          "answer": "Observe before touching: **trismus**, **risus sardonicus**, clenched fists, rigidity, **opisthotonus**, spasms provoked by touch/noise/light, **consciousness between spasms**, fontanelle (normal), umbilicus (infection), hydration, chest (aspiration), vitals and SpO2."
+        },
+        {
+          "prompt": "What are your immediate actions in the first 30 minutes?",
+          "answer": "Airway: suction, side position, **oxygen** to SpO2 above 90%; **bag and mask at the bedside**. Control spasms: **diazepam 0.5 mg/kg rectal = 1.35 mg** or **0.2 mg/kg IV = 0.54 mg** once IV access is obtained after sedation. **Quiet, dark room**. Glucose check. IV fluids."
+        },
+        {
+          "prompt": "Write the specific treatment with doses (2.7 kg, 10 days old).",
+          "answer": "**TIG 500 IU IM**, divided between both thighs, away from the vaccine; **first pentavalent (DTP-containing) dose** in another site; **metronidazole 40.5 mg IV over 60 min**, then **20 mg IV 12-hourly** (UCG; course per local protocol, UCG lists 14 days); **diazepam 0.54 mg IV every 1-4 h** as needed alternating with **chlorpromazine 2.7 mg via NGT 8-hourly**; clean and debride the stump, chlorhexidine; antibiotics for omphalitis (cloxacillin + gentamicin) if there is spreading redness."
+        },
+        {
+          "prompt": "Describe the nursing and feeding plan.",
+          "answer": "Minimal handling, **cluster care 30 min after sedation**; suction as needed; turn 2-3-hourly; monitor spasms/hour, RR, HR, SpO2, temperature, intake/output, daily weight. **IV fluids first**, then **NGT EBM from 24 h** in small, frequent feeds, increasing daily; mother expresses every 3 h; eye and mouth care; slow weaning of sedation over weeks as spasms settle."
+        },
+        {
+          "prompt": "On day 4 he has an apnoea with cyanosis during a spasm. How do you respond and adjust care?",
+          "answer": "**Bag-mask ventilation with oxygen** until breathing resumes; suction; check SpO2 and glucose. Review sedation: frequent spasms with apnoea may need more regular dosing (or an infusion with monitoring), whereas apnoea after a dose suggests **over-sedation**: reduce. Consider referral for ventilation if apnoeas recur and ICU is available."
+        },
+        {
+          "prompt": "What public health actions are required?",
+          "answer": "**Notify** the district surveillance focal person (notifiable disease); **case investigation** (place of birth, TBA practices, mother's Td); give the **mother Td now** and schedule Td2-Td5; community sensitisation on clean cord care and facility delivery; check Td coverage in the area."
+        }
+      ],
+      "takeaway": "Neonatal tetanus is diagnosed at the bedside: a baby who fed normally, then develops trismus and stimulus-provoked spasms while conscious. Treat with TIG, metronidazole, careful sedation and excellent nursing, and treat the community by vaccinating mothers."
+    },
+    {
+      "id": "ntet-c02",
+      "title": "Spasms or seizures?",
+      "presentation": "A 5-day-old girl is brought to Mengo emergency with 'fits'. She was born at Mengo by SVD after ROM for 30 hours; mother had fever in labour. She breastfed for the first 2 days, then became sleepy. Today she has rhythmic jerking of the right arm and leg lasting 2 minutes, and between episodes she is drowsy and does not open her eyes. T 38.6 C, fontanelle bulging, umbilicus clean and dry (chlorhexidine applied). Mother received 3 doses of Td.",
+      "steps": [
+        {
+          "prompt": "Is this tetanus? Give your reasoning.",
+          "answer": "**Unlikely.** She is **drowsy between episodes** (tetanus babies are alert), the movements are **rhythmic clonic seizures**, not stimulus-provoked spasms; there is **fever** and a **bulging fontanelle**; facility birth with clean cord care; mother **immunised (3 doses of Td)**. Most likely **early-onset sepsis with meningitis** (ROM 30 h, maternal fever)."
+        },
+        {
+          "prompt": "What are your immediate actions?",
+          "answer": "ABC, oxygen; **glucose** check; **phenobarbital 20 mg/kg IV** for seizures; blood culture; **ampicillin 100 mg/kg 12-hourly + gentamicin 5 mg/kg daily** (first week; meningitis doses) or ceftriaxone/cefotaxime per protocol; **LP** when stable."
+        },
+        {
+          "prompt": "Which features would make you reconsider tetanus?",
+          "answer": "Home birth with **dirty cord practices**, **unimmunised mother**, **trismus**, **risus sardonicus**, **spasms provoked by touch/noise**, **normal consciousness** between spasms, normal fontanelle and CSF."
+        },
+        {
+          "prompt": "What is the expected CSF in each condition?",
+          "answer": "Meningitis: **raised white cells**, high protein, low glucose, organisms on Gram stain. Tetanus: **normal CSF**."
+        },
+        {
+          "prompt": "What is the learning point for history-taking?",
+          "answer": "Always ask **'Did the baby suck normally after birth, and when did it stop?'**, **'Is the baby awake between the attacks?'**, **'What was put on the cord?'** and **'How many tetanus injections did the mother receive?'**"
+        }
+      ],
+      "takeaway": "Tetanus spasms happen in an alert baby and are provoked by stimuli; seizures with drowsiness, fever and a bulging fontanelle point to meningitis."
+    },
+    {
+      "id": "ntet-c03",
+      "title": "Prevention at the antenatal clinic",
+      "presentation": "You are with the midwife at a HC IV ANC clinic in Mubende. A 17-year-old primigravida at 30 weeks attends ANC for the first time. She has no Td card. She plans to deliver at home with her grandmother 'like everyone in our village'. Her older sister lost a baby at 9 days old with 'stiffness'.",
+      "steps": [
+        {
+          "prompt": "What is her risk, and what probably happened to her sister's baby?",
+          "answer": "She is **unimmunised**, planning a **home birth**: high risk of **maternal and neonatal tetanus**. Her sister's baby likely died of **neonatal tetanus** (stiffness at day 9)."
+        },
+        {
+          "prompt": "What Td doses will you give and when?",
+          "answer": "**Td1 today** (first contact); **Td2 at least 4 weeks later**, i.e. at about 34 weeks, at least **2 weeks before delivery**; then **Td3** 6 months after Td2, **Td4** and **Td5** a year apart."
+        },
+        {
+          "prompt": "What will you counsel about birth and cord care?",
+          "answer": "Birth plan for **facility delivery** with a skilled attendant; if birth happens at home, the **six cleans** (hands, perineum, surface, blade, tie, cord care); **chlorhexidine 7.1% gel daily for 7 days**, nothing else on the cord; danger signs in the baby (stops sucking, stiffness, spasms, fever) → come immediately."
+        },
+        {
+          "prompt": "What else should her first ANC visit include?",
+          "answer": "HIV, syphilis and HBsAg testing, Hb, blood group, urinalysis, BP, IPTp-SP, iron/folic acid, ITN, nutrition, deworming per guidelines, birth preparedness and complication readiness, adolescent-friendly counselling and support, family planning after birth."
+        },
+        {
+          "prompt": "How does this link to Uganda's MNT elimination status?",
+          "answer": "Elimination (below 1 case per 1,000 live births in every district) must be **maintained** by high Td coverage, clean births and surveillance; every missed woman like her is a gap. Report any neonatal tetanus case for investigation."
+        }
+      ],
+      "takeaway": "Neonatal tetanus is prevented at ANC: give Td at first contact and the second dose at least 2 weeks before birth, plan a clean facility delivery, and teach chlorhexidine-only cord care."
+    }
+  ],
+  "references": [
+    {
+      "title": "Uganda Clinical Guidelines 2023 (2.1.8 Tetanus; 2.1.8.1 Neonatal tetanus; 16.5.4 Newborn hygiene)",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023"
+    },
+    {
+      "title": "Tetanus: fact sheet",
+      "source": "World Health Organization",
+      "year": 2024,
+      "url": "https://www.who.int/news-room/fact-sheets/detail/tetanus"
+    },
+    {
+      "title": "Tetanus: Background, Pathophysiology, Etiology",
+      "source": "Medscape eMedicine",
+      "year": 2024,
+      "url": "https://emedicine.medscape.com/article/229594-overview"
+    },
+    {
+      "title": "Tetanus Treatment & Management",
+      "source": "Medscape eMedicine",
+      "year": 2024,
+      "url": "https://emedicine.medscape.com/article/229594-treatment"
+    },
+    {
+      "title": "Tetanus",
+      "source": "MSD Manual Professional Edition",
+      "year": 2024,
+      "url": "https://www.msdmanuals.com/professional/infectious-diseases/anaerobic-bacteria/tetanus"
+    },
+    {
+      "title": "Pocket book of hospital care for children, 2nd edition (differential diagnosis of convulsions in the young infant)",
+      "source": "World Health Organization",
+      "year": 2013,
+      "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+    }
+  ]
+}

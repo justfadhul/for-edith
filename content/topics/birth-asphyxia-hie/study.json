@@ -1,0 +1,279 @@
+{
+  "slug": "birth-asphyxia-hie",
+  "flashcards": [
+    { "id": "hie-f01", "front": "WHO definition of birth asphyxia.", "back": "**Failure to initiate and sustain breathing at birth.** Physiologically: impaired gas exchange causing hypoxaemia, hypercapnia and metabolic acidosis." },
+    { "id": "hie-f02", "front": "Difference between neonatal encephalopathy and HIE.", "back": "**Neonatal encephalopathy** is the clinical syndrome (altered consciousness, tone, feeding, seizures) in a baby of 35 weeks or more; **HIE** is encephalopathy caused by intrapartum hypoxia-ischaemia." },
+    { "id": "hie-f03", "front": "Criteria supporting an intrapartum hypoxic-ischaemic cause.", "back": "Cord/early arterial **pH below 7.0** and/or **base deficit 12 mmol/L or more**; **Apgar 0-3 beyond 5 min** (or below 5 at 5 and 10 min); early moderate/severe encephalopathy; multi-organ dysfunction; sentinel event; compatible imaging." },
+    { "id": "hie-f04", "front": "Sarnat stage 1 (mild) features.", "back": "**Hyperalert**, irritable, jittery; normal or increased tone; strong Moro; weak suck; **dilated pupils** (sympathetic); **no seizures**; lasts under 24 h; usually **normal outcome**." },
+    { "id": "hie-f05", "front": "Sarnat stage 2 (moderate) features.", "back": "**Lethargic**, **mild hypotonia**, weak Moro and suck, strong distal flexion, **constricted pupils**, bradycardia (parasympathetic), **seizures common**; lasts 2-14 days; variable outcome." },
+    { "id": "hie-f06", "front": "Sarnat stage 3 (severe) features.", "back": "**Stupor/coma**, **flaccid**, absent reflexes (Moro, suck), decerebrate posturing, variable/poorly reactive pupils, apnoea; seizures may be suppressed; **high mortality, survivors usually disabled**." },
+    { "id": "hie-f07", "front": "What happens in the latent phase of HIE and why does it matter?", "back": "After resuscitation, brain energy partly recovers for about **6 hours** before **secondary energy failure** (6-72 h). This is the **therapeutic window**: cooling must start within 6 h; supportive care aims to prevent secondary injury." },
+    { "id": "hie-f08", "front": "Name six factors that worsen secondary brain injury.", "back": "**Hyperthermia**, **hypoglycaemia** (and hyperglycaemia), **seizures**, **hypotension**, hypoxaemia/**hyperoxia**, **hypocapnia** (over-ventilation), infection, fluid overload." },
+    { "id": "hie-f09", "front": "Target temperature for a baby with HIE in a Ugandan ward.", "back": "**36.5-37.5 C**. Avoid **hyperthermia** (radiant warmer too high, overwrapping). Do not actively cool outside a NICU protocol." },
+    { "id": "hie-f10", "front": "Therapeutic hypothermia protocol (where offered).", "back": "Whole-body cooling to **33.5 C for 72 h**, started **within 6 h** of birth, for babies **36 weeks or more** with **moderate/severe HIE**, then rewarm at 0.5 C/h; needs NICU support." },
+    { "id": "hie-f11", "front": "What did the HELIX trial show?", "back": "In tertiary units in **India, Sri Lanka and Bangladesh** (Lancet Global Health 2021), cooling **did not reduce death or disability** and **significantly increased death**. So cooling is not standard care in LMICs like Uganda." },
+    { "id": "hie-f12", "front": "Phenobarbital regimen for neonatal seizures.", "back": "**Loading 20 mg/kg IV** over 15-20 min; if seizures persist, further **10 mg/kg** doses to **40 mg/kg total**; maintenance **5 mg/kg/day once daily**. Watch for apnoea." },
+    { "id": "hie-f13", "front": "Second-line anticonvulsants in neonates.", "back": "**Phenytoin 20 mg/kg IV** over 20-30 min in saline (cardiac monitoring), or **levetiracetam 40-60 mg/kg**, or midazolam (NICU). Diazepam is not routine (apnoea, displaces bilirubin)." },
+    { "id": "hie-f14", "front": "Day-1 fluids in HIE.", "back": "**10% dextrose 60 mL/kg/day**, restricted (e.g. 40 mL/kg/day or insensible losses + urine output) if **oliguric or hyponatraemic**." },
+    { "id": "hie-f15", "front": "Define oliguria in a neonate.", "back": "Urine output **below 1 mL/kg/h** (after the first 24 h). Weigh nappies: 1 g = 1 mL." },
+    { "id": "hie-f16", "front": "Glucose infusion rate (GIR) formula.", "back": "**GIR (mg/kg/min) = (% dextrose × mL/kg/day) ÷ 144.** 10% at 60 mL/kg/day = 4.2 mg/kg/min." },
+    { "id": "hie-f17", "front": "Why does asphyxia injure the kidneys and gut?", "back": "The **diving reflex** redistributes blood to the **brain, heart and adrenals**, starving the kidneys, gut, liver, skin and lungs → AKI, NEC/feed intolerance, liver injury." },
+    { "id": "hie-f18", "front": "Treatment of hypocalcaemic seizures in a neonate.", "back": "**10% calcium gluconate 2 mL/kg slow IV** over about 10 min with heart rate monitoring (risk of bradycardia and extravasation burns), then maintenance." },
+    { "id": "hie-f19", "front": "WHO clinical prognostic rule for HIE.", "back": "A baby who **within a week is still floppy or spastic, unresponsive and cannot suck** has severe brain injury and will do poorly; one who is normally active usually does well." },
+    { "id": "hie-f20", "front": "Main long-term complications of HIE.", "back": "**Cerebral palsy** (spastic quadriplegia, dyskinetic), **epilepsy**, intellectual disability, cortical visual impairment, hearing loss, microcephaly, feeding difficulty." },
+    { "id": "hie-f21", "front": "Basal ganglia/thalamus vs watershed injury pattern.", "back": "**Acute profound** insult (cord prolapse, rupture, abruption) → basal ganglia/thalami → dyskinetic/spastic CP. **Prolonged partial** insult (long obstructed labour) → watershed cortex/white matter → cognitive problems, spastic CP." },
+    { "id": "hie-f22", "front": "Pupils in mild vs moderate HIE.", "back": "Mild: **dilated** (sympathetic overactivity). Moderate: **constricted** (parasympathetic), with bradycardia and secretions." },
+    { "id": "hie-f23", "front": "What should a HC III/IV do for an asphyxiated baby before referral?", "back": "HBB resuscitation; keep warm (not hot); glucose check or EBM/sugar water by cup/NGT; **phenobarbital 20 mg/kg** (IV/IM) if convulsing; first dose of **ampicillin + gentamicin** if risk factors; refer with the mother and a note." },
+    { "id": "hie-f24", "front": "Important mimics of HIE to exclude.", "back": "**Sepsis/meningitis**, **hypoglycaemia**, intracranial or **subgaleal haemorrhage**, maternal drugs (opioids, MgSO4), hypocalcaemia, inborn errors of metabolism, neonatal stroke, neuromuscular disease." },
+    { "id": "hie-f25", "front": "When do HIE seizures usually start?", "back": "Usually **within the first 12-24 hours** of life; often **subtle** (lip smacking, eye deviation, cycling, apnoea)." },
+    { "id": "hie-f26", "front": "Thompson score.", "back": "A 0-22 bedside HIE score (tone, consciousness, fits, posture, Moro, grasp, suck, respiration, fontanelle) used in LMIC research and some Ugandan units; higher = worse; about 15 or more predicts poor outcome." }
+  ],
+  "mcqs": [
+    {
+      "id": "hie-q01",
+      "stem": "A term baby born after a 3-hour second stage needed 4 minutes of bag-mask ventilation. At 12 hours he is lethargic, hypotonic, with a weak suck, constricted pupils and an episode of lip smacking with eye deviation. Which Sarnat stage is he?",
+      "options": [
+        "Stage 1 (mild)",
+        "Normal post-resuscitation state",
+        "Stage 2 (moderate)",
+        "Stage 3 (severe)",
+        "Cannot be staged without an EEG"
+      ],
+      "answer": 2,
+      "explanation": "C is right: lethargy, hypotonia, weak suck, constricted pupils (parasympathetic) and seizures (the lip smacking and eye deviation are subtle seizures) define Sarnat stage 2. A is wrong: stage 1 babies are hyperalert with normal or increased tone, dilated pupils and no seizures. B is wrong: encephalopathy with seizures is not normal. D is wrong: stage 3 babies are stuporous/comatose and flaccid with absent reflexes. E is wrong: Sarnat staging is clinical; EEG adds detail but is not required."
+    },
+    {
+      "id": "hie-q02",
+      "stem": "A 3.0 kg term baby with moderate HIE has a generalised clonic seizure at 8 hours. Glucose is 4.1 mmol/L. IV access is in place. What is the MOST appropriate first drug?",
+      "options": [
+        "Phenobarbital 60 mg IV over 15-20 minutes",
+        "Diazepam 3 mg IV repeated every 5 minutes",
+        "Phenytoin 60 mg IV push over 1 minute",
+        "10% dextrose 6 mL IV",
+        "Paracetamol 45 mg rectally"
+      ],
+      "answer": 0,
+      "explanation": "A is right: phenobarbital is first line (WHO/UCG); 20 mg/kg × 3.0 kg = 60 mg IV slowly over 15-20 min, with extra 10 mg/kg doses to 40 mg/kg if needed. B is wrong: diazepam is not recommended routinely in neonates (apnoea) and 1 mg/kg repeated is an overdose. C is wrong: phenytoin is second line and must be given slowly (max 1 mg/kg/min) with cardiac monitoring. D is wrong: glucose is normal, so dextrose will not stop the seizure. E is wrong: there is no fever, and paracetamol is not an anticonvulsant."
+    },
+    {
+      "id": "hie-q03",
+      "stem": "A baby with moderate HIE is under a radiant warmer on day 1. The nurse records an axillary temperature of 38.2 C. There are no other signs of infection. What is the MOST appropriate immediate action?",
+      "options": [
+        "Increase the radiant warmer to prevent shivering",
+        "Give paracetamol 15 mg/kg and continue as before",
+        "Apply ice packs and a fan to bring the temperature to 33.5 C",
+        "Reduce/turn off the warmer, remove extra wraps, recheck in 15-30 min, and consider sepsis",
+        "Ignore it; hyperthermia is protective after asphyxia"
+      ],
+      "answer": 3,
+      "explanation": "D is right: hyperthermia worsens secondary brain injury after asphyxia; the commonest cause on the ward is environmental (warmer/wraps). Correct it and recheck, while keeping sepsis in mind. A is wrong: it makes hyperthermia worse. B is wrong: antipyretics are not used in neonates (WHO: control the environment) and do not address the cause. C is wrong: uncontrolled cooling with ice and fans outside a NICU protocol is dangerous, and HELIX showed increased mortality with cooling in LMICs. E is wrong: hyperthermia is harmful, not protective."
+    },
+    {
+      "id": "hie-q04",
+      "stem": "A 3.2 kg baby with moderate HIE on 10% dextrose 60 mL/kg/day has passed 15 mL of urine in 24 hours. Weight is now 3.35 kg, sodium 127 mmol/L, and he has mild periorbital oedema. What is the MOST appropriate fluid plan?",
+      "options": [
+        "Increase fluids to 90 mL/kg/day as per day-2 routine",
+        "Give furosemide and increase fluids to 120 mL/kg/day",
+        "Give normal saline 20 mL/kg bolus to improve kidney perfusion",
+        "Add potassium chloride to the infusion",
+        "Restrict fluids to insensible losses plus urine output, avoid potassium, recheck electrolytes and creatinine"
+      ],
+      "answer": 4,
+      "explanation": "E is right: urine output is about 0.2 mL/kg/h (oliguria), with weight gain, oedema and hyponatraemia: AKI and/or SIADH with fluid retention. Restrict to insensible losses (about 30-40 mL/kg/day) plus urine output, avoid potassium, monitor creatinine and sodium. A is wrong: routine increases cause fluid overload and cerebral oedema. B is wrong: increasing fluids is the opposite of what is needed. C is wrong: he is overloaded, not hypovolaemic. D is wrong: potassium is dangerous in AKI (hyperkalaemia)."
+    },
+    {
+      "id": "hie-q05",
+      "stem": "Which statement about therapeutic hypothermia for HIE is MOST accurate for a Ugandan regional referral hospital?",
+      "options": [
+        "It should be started at any time in the first week",
+        "It is not standard care; in LMIC units the HELIX trial found no benefit and more deaths, so the priority is to avoid hyperthermia",
+        "It is first-line care for all asphyxiated babies, including preterm babies below 34 weeks",
+        "Passive cooling with fans is a safe alternative when no device is available",
+        "It cures HIE if started within 24 hours"
+      ],
+      "answer": 1,
+      "explanation": "B is right: HELIX (India, Sri Lanka, Bangladesh, 2021) found that cooling did not reduce death or disability and increased mortality; cooling is offered only within NICU protocols, and the ward priority is normothermia (36.5-37.5 C). A is wrong: the window is within 6 hours. C is wrong: cooling trials were in babies of 36 weeks or more with moderate/severe HIE. D is wrong: uncontrolled cooling causes overcooling and harm. E is wrong: even in HICs cooling reduces, not abolishes, death/disability (NNT about 6-9), and it must start within 6 h."
+    },
+    {
+      "id": "hie-q06",
+      "stem": "A term baby is floppy and lethargic at 30 hours. Labour was normal and short; Apgar 9 and 10. The mother had a fever of 38.6 C in labour and membranes ruptured 22 hours before birth. The fontanelle is full. What is the MOST likely diagnosis?",
+      "options": [
+        "Mild HIE",
+        "Severe HIE",
+        "Neonatal sepsis with possible meningitis",
+        "Maternal opioid effect",
+        "Benign neonatal sleep myoclonus"
+      ],
+      "answer": 2,
+      "explanation": "C is right: a normal labour with good Apgar scores makes HIE unlikely; maternal fever, prolonged ROM and a full fontanelle point to early-onset sepsis/meningitis. Take cultures, do an LP when stable, and start ampicillin + gentamicin (meningitis doses). A and B are wrong: HIE requires a hypoxic insult and is present from birth; this baby was vigorous. D is wrong: opioid depression is present at birth and wears off over hours, not starting at 30 h. E is wrong: benign sleep myoclonus occurs in a well, alert baby only during sleep."
+    },
+    {
+      "id": "hie-q07",
+      "stem": "A baby born by vacuum extraction after a prolonged second stage becomes pale and tachycardic at 4 hours. There is a boggy, fluctuant scalp swelling crossing the suture lines, extending to the neck, and the head circumference has increased by 2 cm. What is the MOST appropriate next step?",
+      "options": [
+        "Aspirate the swelling to reduce pressure",
+        "Reassure; it is caput succedaneum and will resolve in 48 hours",
+        "Apply a tight head bandage and continue routine care",
+        "Start phenobarbital for presumed HIE",
+        "Treat as subgaleal haemorrhage: IV access, saline 10 mL/kg and urgent blood, vitamin K, check Hb and clotting, monitor head circumference"
+      ],
+      "answer": 4,
+      "explanation": "E is right: a fluctuant swelling crossing sutures after vacuum, with pallor, tachycardia and rising head circumference, is a subgaleal haemorrhage, which can hold most of a baby's blood volume. Resuscitate with volume and blood, give vitamin K and correct coagulopathy. A is wrong: aspiration introduces infection and does not stop bleeding. B is wrong: caput is a soft oedematous swelling present at birth without shock. C is wrong: bandaging does not control the bleed and delays resuscitation. D is wrong: the problem is haemorrhagic shock, not HIE seizures."
+    },
+    {
+      "id": "hie-q08",
+      "stem": "A 3.5 kg baby with HIE continues to have seizures 30 minutes after a 70 mg phenobarbital loading dose. Glucose is 3.8 mmol/L. What is the MOST appropriate next step?",
+      "options": [
+        "Give another phenobarbital dose of 35 mg (10 mg/kg) IV slowly, with a bag and mask ready",
+        "Give a second full 70 mg dose immediately as an IV push",
+        "Give diazepam 5 mg IV",
+        "Wait 24 hours for the phenobarbital to work",
+        "Give 10% dextrose 2 mL/kg"
+      ],
+      "answer": 0,
+      "explanation": "A is right: if seizures persist after the 20 mg/kg load, WHO advises further 10 mg/kg doses up to 40 mg/kg total (here 35 mg slowly), watching for apnoea. B is wrong: a second 20 mg/kg as a push risks apnoea and hypotension; doses should be given slowly in 10 mg/kg steps. C is wrong: 5 mg diazepam (about 1.4 mg/kg) is an overdose and diazepam is not routine in neonates. D is wrong: ongoing seizures worsen brain injury and must be treated. E is wrong: glucose is normal."
+    },
+    {
+      "id": "hie-q09",
+      "stem": "Which finding at 7 days of life BEST predicts a poor neurological outcome in a term baby with HIE, when MRI and EEG are not available?",
+      "options": [
+        "A single seizure on day 1 that was controlled with phenobarbital",
+        "Physiological jaundice on day 4",
+        "Still unresponsive, floppy or spastic, and unable to suck",
+        "Weight loss of 7% from birth weight",
+        "Apgar 4 at 1 minute"
+      ],
+      "answer": 2,
+      "explanation": "C is right: the WHO Pocket Book states that an infant who within a week is still floppy or spastic, unresponsive and cannot suck has severe brain injury and will do poorly. A is wrong: a single early, controlled seizure is less predictive. B is wrong: physiological jaundice is unrelated. D is wrong: 7% weight loss is within normal limits. E is wrong: the 1-minute Apgar has poor prognostic value; prolonged low Apgar (e.g. 0-3 at 10 min) is more meaningful."
+    },
+    {
+      "id": "hie-q10",
+      "stem": "After asphyxia, blood is redirected to protect certain organs. Which organ is MOST protected by this diving reflex?",
+      "options": [
+        "Kidneys",
+        "Gut",
+        "Skin",
+        "Adrenal glands",
+        "Liver"
+      ],
+      "answer": 3,
+      "explanation": "D is right: during hypoxia, blood is redistributed to the brain, heart and adrenals. A, B, C and E are wrong: the kidneys (AKI), gut (NEC, feed intolerance), skin and liver (raised enzymes, coagulopathy, hypoglycaemia) are sacrificed, which explains multi-organ dysfunction after asphyxia."
+    },
+    {
+      "id": "hie-q11",
+      "stem": "A term baby at a HC IV needed 3 minutes of bag-mask ventilation, now breathes at 50/min but is lethargic with a weak suck. The nearest SCBU is 2 hours away. Which plan is MOST appropriate before referral?",
+      "options": [
+        "Discharge home with the mother; return if seizures",
+        "Give expressed colostrum by cup/NGT or check glucose, keep normothermic (skin-to-skin), and refer with a referral note and the mother",
+        "Wrap in three blankets under a heater because asphyxiated babies get cold",
+        "Give phenobarbital 20 mg/kg as prophylaxis even though there are no seizures",
+        "Give sodium bicarbonate to correct presumed acidosis"
+      ],
+      "answer": 1,
+      "explanation": "B is right: an encephalopathic baby needs SCBU care; before referral, prevent hypoglycaemia (EBM or check glucose), keep 36.5-37.5 C (skin-to-skin), give antibiotics if risk factors, and refer with documentation. A is wrong: a lethargic baby with a weak suck after resuscitation must not go home. C is wrong: overheating worsens brain injury. D is wrong: prophylactic phenobarbital is not recommended without seizures. E is wrong: sodium bicarbonate is listed by UCG as a harmful practice in newborn resuscitation."
+    },
+    {
+      "id": "hie-q12",
+      "stem": "Which pattern of brain injury is MOST typical after an acute, near-total insult such as a cord prolapse with 25 minutes of profound bradycardia?",
+      "options": [
+        "Parasagittal watershed injury only",
+        "Periventricular leukomalacia",
+        "Isolated germinal matrix haemorrhage",
+        "Basal ganglia and thalamic injury",
+        "Cerebellar hypoplasia"
+      ],
+      "answer": 3,
+      "explanation": "D is right: an acute profound insult damages the most metabolically active deep grey matter (basal ganglia and thalami), leading to dyskinetic or spastic quadriplegic CP. A is wrong: watershed injury follows prolonged partial insults. B and C are wrong: PVL and germinal matrix haemorrhage are injuries of preterm babies. E is wrong: cerebellar hypoplasia is developmental, not an acute hypoxic pattern."
+    },
+    {
+      "id": "hie-q13",
+      "stem": "A baby with moderate HIE on day 2 has a seizure. Glucose 3.9 mmol/L, total calcium 1.5 mmol/L (low). He has already received 40 mg/kg phenobarbital. What is the MOST appropriate next step?",
+      "options": [
+        "10% calcium gluconate 2 mL/kg slow IV over 10 minutes with heart-rate monitoring",
+        "Another 20 mg/kg phenobarbital",
+        "10% calcium gluconate 2 mL/kg as a rapid IV push",
+        "Oral calcium only",
+        "Magnesium sulphate 50% 1 mL/kg IV push"
+      ],
+      "answer": 0,
+      "explanation": "A is right: hypocalcaemia is a treatable cause of seizures after asphyxia; WHO advises 10% calcium gluconate 2 mL/kg as a slow IV infusion, monitoring heart rate, then supplementation. B is wrong: he has reached the 40 mg/kg maximum and the cause is metabolic. C is wrong: a rapid push causes bradycardia/arrhythmia and extravasation burns. D is wrong: oral calcium is too slow for an acute seizure. E is wrong: magnesium may be needed if hypomagnesaemic, but 50% undiluted 1 mL/kg as a push is dangerous and not first line here."
+    },
+    {
+      "id": "hie-q14",
+      "stem": "When is it MOST appropriate to start enteral feeds in a baby with moderate HIE?",
+      "options": [
+        "Immediately at birth, full volume by bottle",
+        "Only after discharge",
+        "After 2 weeks of IV fluids",
+        "When stable: no seizures for about 24 hours, abdomen soft with bowel sounds; start small EBM feeds by NGT and advance as tolerated",
+        "Only when the baby can suck at the breast"
+      ],
+      "answer": 3,
+      "explanation": "D is right: once stable, start small volumes of expressed breast milk by NGT (e.g. 10-20 mL/kg/day) and advance by 20-30 mL/kg/day, moving to cup/breast as the suck returns. A is wrong: an encephalopathic baby cannot coordinate feeds safely, and the gut may be ischaemic. B and C are wrong: prolonged IV fluids increase infection risk and delay recovery. E is wrong: waiting for a good suck may take days to weeks; NGT feeding allows nutrition meanwhile."
+    },
+    {
+      "id": "hie-q15",
+      "stem": "Which statement about the Apgar score is CORRECT?",
+      "options": [
+        "A 1-minute Apgar of 3 confirms birth asphyxia",
+        "Resuscitation should start after the 1-minute Apgar is recorded",
+        "The Apgar score describes the baby's condition but alone does not diagnose asphyxia; an Apgar of 0-3 beyond 5 minutes supports a hypoxic cause",
+        "A 5-minute Apgar of 7 rules out HIE",
+        "Apgar scores are not affected by prematurity or maternal drugs"
+      ],
+      "answer": 2,
+      "explanation": "C is right: Apgar is a description that is affected by many factors; prolonged low scores support (but do not prove) an intrapartum hypoxic cause. A is wrong: a single low 1-minute score is common and often recovers. B is wrong: resuscitation must start within the Golden Minute, never waiting for the Apgar. D is wrong: some babies with HIE have reasonable 5-minute scores, especially after effective resuscitation. E is wrong: prematurity, maternal sedation and congenital anomalies lower Apgar scores."
+    }
+  ],
+  "cases": [
+    {
+      "id": "hie-c01",
+      "title": "Obstructed labour, a non-breathing baby and seizures",
+      "presentation": "A 19-year-old primigravida is referred from a HC III in Wakiso to Mengo after 16 hours of labour with no progress. She has an emergency CS for obstructed labour. The baby boy is born with thick meconium, floppy, not breathing, HR 60/min. He is ventilated with bag and mask; HR rises above 100 at 4 minutes and he gasps at 6 minutes. Apgar 1, 3, 6. Birth weight 3.3 kg.",
+      "steps": [
+        { "prompt": "After resuscitation, what are your immediate priorities on arrival in the newborn unit?", "answer": "Airway and breathing (SpO2 90-95%, avoid hyperoxia; CPAP/bag-mask if apnoea), **temperature 36.5-37.5 C** (avoid overheating), **glucose** now, IV access with **10% dextrose 60 mL/kg/day** (≈ 8.3 mL/h), check perfusion; observe for seizures; vitamin K; inform the senior and the mother." },
+        { "prompt": "At 6 hours he is lethargic, hypotonic, weak suck, pupils constricted, HR 105. Stage him and list what you will monitor.", "answer": "**Sarnat stage 2 (moderate HIE).** Monitor 1-2-hourly: temperature, HR, RR/apnoea, SpO2, seizures; glucose 3-6-hourly; urine output (weigh nappies), daily weight, electrolytes/creatinine where available; repeat Sarnat at least daily." },
+        { "prompt": "At 10 hours he has cycling movements of the legs and eye deviation for 2 minutes. What will you do (with doses)?", "answer": "Airway, oxygen, **check glucose** (and calcium). Give **phenobarbital 20 mg/kg = 66 mg IV over 15-20 min**; if seizures continue, **10 mg/kg = 33 mg** up to a total of **40 mg/kg (132 mg)**; maintenance **5 mg/kg/day = 16.5 mg once daily** from 12-24 h. Bag and mask ready for apnoea." },
+        { "prompt": "What else could be causing or contributing to his encephalopathy, and how will you check?", "answer": "**Sepsis/meningitis** (long labour, multiple vaginal examinations at HC III: blood culture, CRP, LP when stable; start ampicillin + gentamicin), **hypoglycaemia** (glucose), **hypocalcaemia** (calcium), **intracranial or subgaleal haemorrhage** (head exam, Hb), meconium aspiration with hypoxaemia (CXR, SpO2)." },
+        { "prompt": "On day 2 urine output is 0.4 mL/kg/h and sodium 128 mmol/L. How do you adjust his care?", "answer": "**AKI/SIADH**: restrict fluids to insensible losses + urine output (about 30-40 mL/kg/day + measured output), no potassium, recheck electrolytes and creatinine, **extend gentamicin interval or stop it** if cultures negative at 48 h, weigh twice daily." },
+        { "prompt": "On day 7 he is alert, tone improving and sucking from a cup. How do you counsel the family about prognosis and follow-up?", "answer": "Improvement in alertness, tone and suck by day 7 is **encouraging**, but moderate HIE carries a risk of CP, epilepsy and developmental delay. Plan: continue breastfeeding/cup feeds, review at 6 weeks and then 3, 6, 9, 12 and 18 months for development, head growth, hearing and vision; early physiotherapy if tone abnormal; decide on stopping phenobarbital (senior); immunise (BCG/OPV0). Be honest and supportive; give danger signs." },
+        { "prompt": "What could have prevented this?", "answer": "Partograph use and **early referral** when the alert/action lines were crossed, timely CS, fetal heart monitoring, avoiding long delays in transport, and skilled resuscitation at birth. Discuss in the perinatal death/near-miss (MPDSR) review without blame." }
+      ],
+      "takeaway": "In moderate HIE, keep the baby normothermic, glycaemic and well ventilated, treat seizures with phenobarbital in mg/kg, restrict fluids when urine output falls, exclude sepsis, and judge prognosis by recovery of suck and tone over the first week."
+    },
+    {
+      "id": "hie-c02",
+      "title": "A floppy baby after vacuum delivery",
+      "presentation": "At Kawempe National Referral Hospital, a 4.0 kg baby girl was born by vacuum extraction after a 2.5-hour second stage. She cried at 2 minutes after stimulation (Apgar 5 and 8). At 3 hours the midwife calls you because she is pale and 'not active'. HR 182/min, RR 64/min, CRT 4 seconds, temperature 36.8 C. Glucose 3.2 mmol/L.",
+      "steps": [
+        { "prompt": "What examination finding are you specifically looking for, and why?", "answer": "A **boggy, fluctuant scalp swelling crossing suture lines**, spreading to the forehead/neck, with **increasing head circumference** = **subgaleal haemorrhage** (vacuum), which can cause hypovolaemic shock. Compare with caput (soft oedema, crosses sutures, present at birth, no shock) and cephalhaematoma (bounded by sutures, no shock)." },
+        { "prompt": "You find a fluctuant swelling over the whole scalp. What is your immediate management?", "answer": "**Call for help**; IV/IO access; **normal saline 10 mL/kg (40 mL)** over 5-10 min, repeat as needed; urgent **cross-match**, give **O-negative/group-specific blood** 10-20 mL/kg; **vitamin K**; check Hb, platelets, clotting (FFP if DIC); monitor HR, CRT, head circumference hourly; keep warm; nil by mouth initially." },
+        { "prompt": "How do you distinguish encephalopathy due to shock from HIE?", "answer": "HIE: hypoxic insult before/at birth, needs resuscitation, encephalopathy from birth. This baby was relatively vigorous (Apgar 8 at 5 min) and deteriorated later with **signs of shock** (tachycardia, prolonged CRT, pallor): **hypovolaemia** from bleeding is the main cause, though shock can cause secondary hypoxic-ischaemic injury." },
+        { "prompt": "What complications will you monitor for over the next days?", "answer": "**Hypovolaemic shock**, DIC, **jaundice** (breakdown of the haematoma: check bilirubin), seizures, AKI, infection. Monitor Hb, bilirubin, urine output, neurology." },
+        { "prompt": "How do you counsel the parents?", "answer": "Explain that bleeding happened under the scalp after the vacuum delivery, what you are doing (fluids, blood), that the swelling resolves over weeks, the risk of jaundice and the need for observation, and follow-up for development. Document and report through clinical audit." }
+      ],
+      "takeaway": "Not every floppy baby after a difficult delivery has HIE: a pale, tachycardic baby after vacuum delivery may be bleeding into a subgaleal haemorrhage and needs volume and blood immediately."
+    },
+    {
+      "id": "hie-c03",
+      "title": "Day 5: is this still asphyxia?",
+      "presentation": "A term 3.1 kg baby boy admitted with mild HIE (hyperalert, jittery, no seizures) after a prolonged labour is ready for discharge on day 3. On day 5 the mother returns to Mengo because he has stopped feeding and is 'too sleepy'. Temperature 38.3 C, HR 176, RR 66, mild chest indrawing, fontanelle full. Glucose 2.4 mmol/L.",
+      "steps": [
+        { "prompt": "What is the most likely diagnosis and why is it not worsening HIE?", "answer": "**Late-onset neonatal sepsis, possibly meningitis.** HIE is maximal in the first 72 h and then improves; a baby who was improving and then deteriorates with **fever, tachycardia, tachypnoea and a full fontanelle** has a new problem." },
+        { "prompt": "What are your first actions?", "answer": "ABC; oxygen if SpO2 below 90%; **10% dextrose 2 mL/kg = 6 mL IV** and recheck in 30 min; maintenance glucose; blood culture; start antibiotics **without delay**; LP when stable (within 2 h of antibiotics ideally)." },
+        { "prompt": "Which antibiotics and doses (day 5, 3.1 kg)?", "answer": "Meningitis doses: **ampicillin 100 mg/kg = 310 mg IV 12-hourly** (first week; 8-hourly after day 7) + **gentamicin 5 mg/kg = 15.5 mg IV once daily**; or per UCG/WHO, **ceftriaxone 50 mg/kg 12-hourly or 100 mg/kg once daily** with gentamicin if meningitis likely (avoid ceftriaxone if jaundiced or with IV calcium). Duration **21 days** if meningitis confirmed." },
+        { "prompt": "What supportive care does he need?", "answer": "Temperature control (undress, no paracetamol in neonates per UCG), fluids 10% dextrose with careful volume, NGT EBM when stable, monitor glucose, seizures (phenobarbital if needed), SpO2, urine output." },
+        { "prompt": "What is the lesson for follow-up of babies with HIE?", "answer": "Discharge counselling must include **danger signs** (not feeding, fever, fast breathing, convulsions, sleepiness), and any deterioration after initial improvement should be treated as a **new illness**, most often sepsis." }
+      ],
+      "takeaway": "HIE improves after the first 72 hours; a new deterioration with fever or a full fontanelle is sepsis or meningitis until proven otherwise."
+    }
+  ],
+  "references": [
+    { "title": "Pocket book of hospital care for children, 2nd edition (sections 3.5 HIE, 3.7 Convulsions, 3.10 Supportive care)", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "Uganda Clinical Guidelines 2023 (16.5.1 Newborn resuscitation; 17.1 Sick newborn)", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Hypoxic-Ischemic Encephalopathy Treatment & Management", "source": "Medscape eMedicine", "year": 2024, "url": "https://emedicine.medscape.com/article/973501-treatment" },
+    { "title": "Hypothermia for moderate or severe neonatal encephalopathy in low-income and middle-income countries (HELIX): a randomised controlled trial in India, Sri Lanka, and Bangladesh", "source": "Thayyil S, et al. Lancet Global Health 2021;9(9):e1273-e1285", "year": 2021, "url": "https://pubmed.ncbi.nlm.nih.gov/34358491/" },
+    { "title": "Phenobarbital (Sezaby) dosing: neonatal seizures", "source": "Medscape Drugs & Diseases", "year": 2024, "url": "https://reference.medscape.com/drug/sezaby-phenobarbital-343017" },
+    { "title": "Physical Examination of the Newborn", "source": "MSD Manual Professional Edition", "year": 2024, "url": "https://www.msdmanuals.com/professional/pediatrics/care-of-newborns-and-infants/physical-examination-of-the-newborn" }
+  ]
+}

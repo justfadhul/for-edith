@@ -1,0 +1,479 @@
+{
+  "slug": "prematurity-low-birth-weight",
+  "flashcards": [
+    {
+      "id": "prem-f01",
+      "front": "Define preterm birth and its subgroups.",
+      "back": "Born **before 37 completed weeks**. Extremely preterm **below 28 weeks**; very preterm **28 to below 32**; moderate-late preterm **32 to below 37** (late preterm 34-36+6)."
+    },
+    {
+      "id": "prem-f02",
+      "front": "Define LBW, VLBW and ELBW.",
+      "back": "Birth weight **below 2,500 g** (LBW), **below 1,500 g** (VLBW), **below 1,000 g** (ELBW), regardless of gestation."
+    },
+    {
+      "id": "prem-f03",
+      "front": "What is SGA, and what is its main early risk?",
+      "back": "Birth weight **below the 10th centile** for gestation and sex. Main early risks: **hypoglycaemia** (low glycogen stores), **polycythaemia**, hypothermia, asphyxia."
+    },
+    {
+      "id": "prem-f04",
+      "front": "WHO 2022: who should receive Kangaroo Mother Care, when, and for how long?",
+      "back": "**All preterm or LBW infants**, started **as soon as possible after birth** (immediate KMC), for **8-24 hours per day** (as many hours as possible)."
+    },
+    {
+      "id": "prem-f05",
+      "front": "WHO temperature classification in the newborn.",
+      "back": "Normal **36.5-37.5 C**; cold stress **36.0-36.4**; moderate hypothermia **32.0-35.9**; severe hypothermia **below 32 C**."
+    },
+    {
+      "id": "prem-f06",
+      "front": "Total daily fluid volumes for a newborn on days 1-4 (WHO Pocket Book).",
+      "back": "Day 1 **60**, day 2 **90**, day 3 **120**, day 4+ **150 mL/kg/day** (up to 180 when tolerating feeds). Count IV + enteral together."
+    },
+    {
+      "id": "prem-f07",
+      "front": "How do you start feeds in a VLBW (below 1.5 kg) baby on day 1?",
+      "back": "**10 mL/kg/day** of expressed breast milk (or 2-4 mL every 2 h by NGT if well) with the rest (~50 mL/kg/day) as IV 10% dextrose; advance by 1-2 mL per feed per day (Pocket Book) or **up to 30 mL/kg/day** (WHO 2022)."
+    },
+    {
+      "id": "prem-f08",
+      "front": "Order of preference of milk for a preterm baby (WHO 2022).",
+      "back": "**Mother's own milk** → **donor human milk** (if a safe milk bank exists) → **preterm formula** only if neither is available."
+    },
+    {
+      "id": "prem-f09",
+      "front": "At what gestation does suck-swallow-breathe coordination usually mature?",
+      "back": "About **32-34 weeks**. Before this, feed by **nasogastric/orogastric tube**; then cup/paladai; then breast."
+    },
+    {
+      "id": "prem-f10",
+      "front": "Define apnoea of prematurity.",
+      "back": "Cessation of breathing for **20 seconds or more**, or shorter with **bradycardia (HR below 100)** or desaturation, in a preterm baby (usually below 34 weeks), with no other cause found."
+    },
+    {
+      "id": "prem-f11",
+      "front": "Caffeine citrate regimen for apnoea of prematurity (WHO Pocket Book).",
+      "back": "**Loading 20 mg/kg** oral or IV over 30 min, then **5 mg/kg once daily** from 24 h later (may increase in 5 mg/kg steps to max 20 mg/kg/day). Continue to about **34-35 weeks PMA** and 5-7 days apnoea-free."
+    },
+    {
+      "id": "prem-f12",
+      "front": "Aminophylline dose if caffeine is unavailable.",
+      "back": "**6 mg/kg IV** over 20 min loading, then **2.5 mg/kg 12-hourly** in week 1 (4 mg/kg 12-hourly in weeks 2-4). Narrower safety margin than caffeine."
+    },
+    {
+      "id": "prem-f13",
+      "front": "Clinical features of RDS.",
+      "back": "Preterm baby with **tachypnoea, expiratory grunt, intercostal/subcostal recession, nasal flaring and cyanosis**, starting **within 4 h of birth**, worsening over 24-48 h and improving after 48-72 h."
+    },
+    {
+      "id": "prem-f14",
+      "front": "Mechanism of RDS.",
+      "back": "**Surfactant deficiency** (immature type II pneumocytes) → alveolar collapse at end-expiration → atelectasis, V/Q mismatch, hypoxaemia, increased work of breathing."
+    },
+    {
+      "id": "prem-f15",
+      "front": "CPAP settings for a preterm with RDS.",
+      "back": "Bubble CPAP starting at **5-6 cm H2O** (up to 7-8), FiO2 titrated to **SpO2 90-95%**, correct prong size, NGT on free drainage, nasal care."
+    },
+    {
+      "id": "prem-f16",
+      "front": "SpO2 target in preterm babies on oxygen, and why.",
+      "back": "**90-95%**. Below this: hypoxic injury and death; above: **retinopathy of prematurity** and lung injury (BPD)."
+    },
+    {
+      "id": "prem-f17",
+      "front": "Who should be screened for ROP and when?",
+      "back": "International: **below 31-32 weeks or below 1.5 kg**; LMIC programmes often wider (up to 34 weeks / 2.0 kg, or any unmonitored oxygen). First exam at **4 weeks after birth or 31 weeks PMA, whichever is later**."
+    },
+    {
+      "id": "prem-f18",
+      "front": "Signs of necrotising enterocolitis.",
+      "back": "**Abdominal distension**, feed intolerance, **bilious aspirates/vomit**, **blood in stool**, abdominal tenderness/discoloration, plus apnoea, lethargy, temperature instability. AXR: **pneumatosis intestinalis**."
+    },
+    {
+      "id": "prem-f19",
+      "front": "Management of suspected NEC.",
+      "back": "**Stop feeds**, NGT on free drainage, IV fluids, **ampicillin + gentamicin + metronidazole** (10 days), oxygen if needed, transfuse if Hb below 10 g/dL, AXR; surgical review if perforation."
+    },
+    {
+      "id": "prem-f20",
+      "front": "Iron and vitamin D supplementation in preterm/LBW babies.",
+      "back": "**Iron 2-4 mg/kg/day** elemental from **2 weeks to 6 months**; **vitamin D 400 IU/day** once on full feeds (WHO)."
+    },
+    {
+      "id": "prem-f21",
+      "front": "WHO admission threshold for special newborn care.",
+      "back": "All babies **below 2.0 kg or below 35 weeks** should be admitted to a special care unit. UCG 2023: refer babies **below 1.5 kg or below 32 weeks** urgently from HC III/IV."
+    },
+    {
+      "id": "prem-f22",
+      "front": "Discharge criteria for a LBW baby.",
+      "back": "No danger signs; **feeding well** (breast/cup) and **gaining weight on 3 consecutive days**; temperature normal for **3 consecutive days**; mother confident; vaccines and follow-up arranged."
+    },
+    {
+      "id": "prem-f23",
+      "front": "How often should a LBW baby be reviewed after discharge?",
+      "back": "**Weekly** for weight and feeding until **3 kg** (WHO); growth and development plotted on **corrected age** until 2 years."
+    },
+    {
+      "id": "prem-f24",
+      "front": "Do preterm babies receive vaccines at corrected or chronological age?",
+      "back": "**Chronological age.** BCG and OPV0 at birth/before discharge; UNEPI 6-10-14 week vaccines from 6 weeks after birth."
+    },
+    {
+      "id": "prem-f25",
+      "front": "Why do preterm babies lose heat so easily?",
+      "back": "Large **surface-area-to-weight ratio**, thin permeable skin (**evaporative** loss), little **brown fat** and subcutaneous fat, extended posture, cannot shiver."
+    },
+    {
+      "id": "prem-f26",
+      "front": "Calculate feeds: 1.5 kg baby on 150 mL/kg/day, 3-hourly.",
+      "back": "1.5 × 150 = **225 mL/day** ÷ 8 feeds = about **28 mL 3-hourly**."
+    },
+    {
+      "id": "prem-f27",
+      "front": "Approximate KMC position.",
+      "back": "Baby in **nappy, hat and socks**, upright **skin-to-skin between the mother's breasts**, head turned to one side and slightly extended, secured with a binder, covered by mother's clothes; mother sleeps propped up."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "prem-q01",
+      "stem": "A baby is born at a HC IV at 33 weeks by early scan, weight 1.70 kg. At 1 hour of age she is pink, RR 52/min, no grunting, temperature 35.8 C (axillary). The mother is well and wants to hold her. What is the MOST appropriate next step?",
+      "options": [
+        "Place her under a 100 W bulb and recheck the temperature after 4 hours",
+        "Give her a warm bath to raise the temperature quickly",
+        "Start skin-to-skin Kangaroo Mother Care now, cover the head, and recheck the temperature in 1 hour",
+        "Refer immediately to the regional referral hospital without warming",
+        "Give 10% dextrose 2 mL/kg IV before any warming"
+      ],
+      "answer": 2,
+      "explanation": "C is right: she has moderate hypothermia (32.0-35.9 C) but is otherwise stable; WHO 2022 recommends immediate KMC for preterm/LBW babies, and skin-to-skin is the most effective way to rewarm and to start breastfeeding. Recheck within an hour. A is wrong: bulbs are unreliable, can burn, and 4 hours is too long. B is wrong: bathing a small cold baby worsens heat loss (evaporation). D is wrong: a 1.7 kg baby can be cared for at HC IV (UCG refers below 1.5 kg or below 32 weeks), and referring a cold baby without warming is dangerous. E is wrong: there is no hypoglycaemia documented; check glucose and feed, but warming is the priority and does not need to wait for IV dextrose."
+    },
+    {
+      "id": "prem-q02",
+      "stem": "A 1.2 kg baby born at 30 weeks is on day 2. He is stable in room air, abdomen soft, passed meconium. Which feeding plan is MOST appropriate today?",
+      "options": [
+        "Total fluids 90 mL/kg/day: small 2-hourly NGT feeds of expressed breast milk with the remainder as IV fluid",
+        "Nil by mouth until day 7, IV 10% dextrose 150 mL/kg/day",
+        "Direct breastfeeding on demand only",
+        "Formula 20 mL 3-hourly by bottle",
+        "IV fluids 90 mL/kg/day plus full NGT feeds of 150 mL/kg/day"
+      ],
+      "answer": 0,
+      "explanation": "A is right: day 2 total fluids are 90 mL/kg/day (WHO Pocket Book). A VLBW baby who is stable should receive expressed breast milk by NGT from day 1, advancing gradually, with the balance IV. B is wrong: prolonged nil by mouth increases infection risk and delays gut maturation, and 150 mL/kg/day IV on day 2 risks fluid overload (IV should not exceed about 100 mL/kg/day). C is wrong: a 30-week baby cannot coordinate suck-swallow-breathe (matures about 32-34 weeks). D is wrong: formula is the last choice and bottles are discouraged; 20 mL 3-hourly is 133 mL/kg/day, too much for day 2. E is wrong: it double-counts fluids (240 mL/kg/day total), a classic error."
+    },
+    {
+      "id": "prem-q03",
+      "stem": "A 29-week baby (1.1 kg) on day 2 has three episodes in 6 hours where breathing stops for about 25 seconds with HR dropping to 80/min; she recovers with gentle stimulation. Temperature 36.8 C, glucose 3.4 mmol/L, no signs of sepsis, on ampicillin and gentamicin for maternal PPROM. What is the MOST appropriate drug treatment?",
+      "options": [
+        "Phenobarbital 20 mg/kg IV",
+        "Diazepam 0.3 mg/kg IV",
+        "Adrenaline 0.01 mg/kg IV",
+        "Caffeine citrate 20 mg/kg loading dose, then 5 mg/kg daily",
+        "Aminophylline 20 mg/kg IV, then 20 mg/kg daily"
+      ],
+      "answer": 3,
+      "explanation": "D is right: these are typical apnoeas of prematurity in a 29-week baby; temperature and glucose are normal and sepsis is being covered. WHO 2022 strongly recommends caffeine for treatment of apnoea; the Pocket Book dose is caffeine citrate 20 mg/kg load, then 5 mg/kg once daily. A is wrong: phenobarbital is for seizures and would worsen apnoea. B is wrong: diazepam depresses respiration. C is wrong: adrenaline is for HR below 60 despite ventilation and compressions during resuscitation. E is wrong: aminophylline is the second choice and these are caffeine-like doses (aminophylline load is 6 mg/kg, maintenance 2.5 mg/kg 12-hourly); 20 mg/kg aminophylline would be toxic."
+    },
+    {
+      "id": "prem-q04",
+      "stem": "A baby born at 31 weeks by emergency CS for severe pre-eclampsia (mother received one dose of dexamethasone) develops grunting, subcostal recession and RR 74/min at 2 hours of age. SpO2 is 86% in air. Bubble CPAP is available. What is the MOST appropriate management?",
+      "options": [
+        "Oxygen by head box at 10 L/min and observe",
+        "Start bubble CPAP 5-6 cm H2O with blended oxygen to SpO2 90-95%, IV fluids, and ampicillin + gentamicin after a blood culture",
+        "Give furosemide 1 mg/kg IV for lung fluid",
+        "Start NGT feeds of 150 mL/kg/day to prevent hypoglycaemia",
+        "Wait for a chest X-ray before any respiratory support"
+      ],
+      "answer": 1,
+      "explanation": "B is right: this is likely RDS (preterm, onset within 4 h, grunting and recession). WHO 2022 strongly recommends CPAP for RDS, with oxygen titrated to SpO2 90-95%; IV fluids and antibiotics are given because pneumonia/sepsis cannot be excluded clinically. A is wrong: high-flow unblended oxygen without pressure does not recruit alveoli and risks hyperoxia (ROP). C is wrong: diuretics have no role in RDS. D is wrong: a baby in respiratory distress should initially be nil by mouth or on small trophic feeds, and 150 mL/kg/day on day 1 is far too much. E is wrong: a CXR helps but must not delay treatment of a hypoxic, grunting baby."
+    },
+    {
+      "id": "prem-q05",
+      "stem": "A 32-week, 1.4 kg baby on day 8 who has been stable and feeding well on NGT suddenly develops abdominal distension, bilious aspirates and fresh blood in the stool. She has had two new apnoeas. What is the MOST appropriate immediate step?",
+      "options": [
+        "Increase the caffeine dose and continue feeds",
+        "Change to formula feeds",
+        "Give a glycerine suppository and continue feeds",
+        "Reduce the feeds by half and recheck in 24 hours",
+        "Stop feeds, put the NGT on free drainage, start IV fluids and ampicillin + gentamicin + metronidazole, and request an abdominal X-ray"
+      ],
+      "answer": 4,
+      "explanation": "E is right: distension, bilious aspirates, bloody stool and new apnoeas in a preterm on feeds suggest necrotising enterocolitis. Management is nil by mouth, gastric decompression, IV fluids, triple antibiotics (WHO Pocket Book: 10 days), AXR (pneumatosis, free air), and surgical review if perforation. A is wrong: the apnoeas are a sign of systemic illness (NEC/sepsis), not simple apnoea of prematurity. B is wrong: formula increases NEC risk. C is wrong: continuing feeds in NEC is dangerous. D is wrong: half feeds still stresses an ischaemic gut; feeds must stop."
+    },
+    {
+      "id": "prem-q06",
+      "stem": "A term baby weighing 2.1 kg (below the 3rd centile) is born to a mother with chronic hypertension. At 3 hours he is alert, sucking eagerly, temperature 36.7 C. Which complication should you MOST actively screen for in the first 24 hours?",
+      "options": [
+        "Respiratory distress syndrome",
+        "Hypoglycaemia",
+        "Retinopathy of prematurity",
+        "Necrotising enterocolitis",
+        "Apnoea of prematurity"
+      ],
+      "answer": 1,
+      "explanation": "B is right: a term SGA baby has small glycogen and fat stores and is at high risk of hypoglycaemia (and polycythaemia); feed early and check glucose before feeds in the first 24 h. A is wrong: RDS is a problem of preterm surfactant deficiency, not of a term growth-restricted baby. C is wrong: ROP affects very preterm babies exposed to oxygen. D is wrong: NEC is mainly a preterm problem. E is wrong: apnoea of prematurity is, by definition, a problem of preterm babies."
+    },
+    {
+      "id": "prem-q07",
+      "stem": "You are calculating fluids for a 1.6 kg baby on day 3 of life. He tolerates 8 mL of expressed breast milk every 2 hours by NGT. What should the IV fluid rate be?",
+      "options": [
+        "8 mL/h",
+        "1 mL/h",
+        "6 mL/h",
+        "4 mL/h (total 192 mL/day minus feeds 96 mL/day = 96 mL/day IV)",
+        "No IV fluid is needed"
+      ],
+      "answer": 3,
+      "explanation": "D is right: day 3 total fluids = 120 mL/kg/day × 1.6 = 192 mL/day. Feeds = 8 mL × 12 = 96 mL/day. IV = 192 − 96 = 96 mL/day = 4 mL/h. Showing the working is the key skill. A is wrong: 8 mL/h is 192 mL/day of IV on top of the feeds (double counting). B is wrong: 1 mL/h (24 mL/day) under-hydrates him. C is wrong: 6 mL/h (144 mL/day IV) plus 96 mL of feeds gives 240 mL/day, i.e. the day-4 volume of 150 mL/kg/day. E is wrong: feeds alone give only 60 mL/kg/day on day 3."
+    },
+    {
+      "id": "prem-q08",
+      "stem": "A 28-week baby has been on bubble CPAP with 100% oxygen (no blender) for 10 days at a district hospital. SpO2 has been 98-100% throughout. Which long-term complication is this practice MOST likely to cause?",
+      "options": [
+        "Retinopathy of prematurity",
+        "Sensorineural hearing loss",
+        "Cerebral palsy from kernicterus",
+        "Hypothyroidism",
+        "Developmental dysplasia of the hip"
+      ],
+      "answer": 0,
+      "explanation": "A is right: prolonged hyperoxia (SpO2 98-100% on unblended oxygen) in a very preterm baby drives abnormal retinal vessel growth: ROP. Target SpO2 90-95% and screen this baby. B is wrong: hearing loss is linked to hyperbilirubinaemia, aminoglycosides, meningitis and hypoxia, not to high SpO2. C is wrong: kernicterus results from bilirubin, not oxygen. D is wrong: hypothyroidism is not caused by oxygen. E is wrong: DDH is linked to breech, female sex and family history."
+    },
+    {
+      "id": "prem-q09",
+      "stem": "A mother of a 1.5 kg baby born at 33 weeks asks how long each day she should keep the baby in the Kangaroo position. According to WHO 2022, what is the BEST answer?",
+      "options": [
+        "One hour, twice a day",
+        "Only at night",
+        "Only after the baby reaches 2 kg",
+        "Only while breastfeeding",
+        "As many hours as possible, ideally continuously day and night (at least 8 and up to 24 h/day), starting now"
+      ],
+      "answer": 4,
+      "explanation": "E is right: WHO 2022 recommends KMC for all preterm/LBW infants, started as soon as possible after birth, for 8-24 hours per day (as many hours as possible). A and D are wrong: short sessions give much less benefit. B is wrong: KMC is continuous, day and night, with relatives able to take turns. C is wrong: waiting until 2 kg misses the period of greatest benefit; immediate KMC reduces mortality."
+    },
+    {
+      "id": "prem-q10",
+      "stem": "A 34-week, 2.0 kg baby on day 6 is feeding well at the breast, gaining weight for 2 days, temperature 36.6-37.0 C for 3 days in KMC, no danger signs. The mother is keen to go home today; she lives 40 km away. What is the MOST appropriate decision?",
+      "options": [
+        "Discharge today with no follow-up because he is over 2 kg",
+        "Keep in hospital until he reaches 2.5 kg",
+        "Keep one more day to confirm weight gain on 3 consecutive days, then discharge with KMC at home and weekly weighing until 3 kg",
+        "Discharge today on formula top-ups to speed weight gain",
+        "Transfer to an incubator for 3 more days"
+      ],
+      "answer": 2,
+      "explanation": "C is right: WHO/UCG discharge criteria include weight gain on 3 consecutive days, normal temperature for 3 days, feeding well, no danger signs and a confident mother; he has weight gain for only 2 days. Follow-up should be weekly until 3 kg. A is wrong: a weight threshold alone is not a discharge criterion, and follow-up is essential. B is wrong: there is no need to wait for 2.5 kg once criteria are met. D is wrong: formula top-ups undermine exclusive breastfeeding and add infection risk. E is wrong: a stable baby in KMC does not need an incubator."
+    },
+    {
+      "id": "prem-q11",
+      "stem": "Which statement about immunisation of a 30-week preterm baby is CORRECT according to WHO/UNEPI practice?",
+      "options": [
+        "BCG and OPV0 should be given at birth or before discharge, and later vaccines by chronological age",
+        "All vaccines should be delayed until the corrected age of 40 weeks",
+        "BCG is contraindicated below 2.5 kg",
+        "The 6-week vaccines should be given at 6 weeks corrected age",
+        "Preterm babies should not receive rotavirus vaccine"
+      ],
+      "answer": 0,
+      "explanation": "A is right: WHO advises that LBW babies receive scheduled birth vaccines at birth or by discharge and later doses by chronological age. B and D are wrong: corrected age is used for growth and development, not immunisation; delaying leaves the baby unprotected. C is wrong: low weight is not a contraindication to BCG in the UNEPI programme. E is wrong: rotavirus vaccine is given to preterm babies by chronological age when clinically stable."
+    },
+    {
+      "id": "prem-q12",
+      "stem": "A 32-week baby on day 4 in the newborn unit has temperature 35.2 C despite a warm room, is feeding poorly and has a new apnoea. Glucose is 2.1 mmol/L. After giving 10% dextrose 2 mL/kg IV, what is the MOST important next step?",
+      "options": [
+        "Increase the caffeine dose",
+        "Take a blood culture and start ampicillin + gentamicin",
+        "Give paracetamol",
+        "Stop all feeds for 72 hours",
+        "Reassure the mother that this is normal for prematurity"
+      ],
+      "answer": 1,
+      "explanation": "B is right: hypothermia, poor feeding, apnoea and hypoglycaemia together in a preterm baby are classic non-specific signs of sepsis. After correcting glucose, warm the baby, take a culture and start empirical ampicillin + gentamicin. A is wrong: a new apnoea with other danger signs must not be blamed on prematurity. C is wrong: there is no fever, and antipyretics are not used in neonates. D is wrong: feeds may need to be reduced while unwell, but a blanket 72-hour stop is not indicated and risks further hypoglycaemia. E is wrong: these are danger signs."
+    },
+    {
+      "id": "prem-q13",
+      "stem": "A 1.3 kg, 31-week baby is born at a HC III. The midwife has dried and warmed her; she is breathing with mild recession, SpO2 not available. What is the MOST appropriate plan according to UCG 2023?",
+      "options": [
+        "Keep at HC III and discharge home after 24 hours if feeding",
+        "Bathe and dress the baby before referral",
+        "Refer urgently to hospital in skin-to-skin KMC with the mother, after feeding or giving expressed breast milk and a first antibiotic dose if indicated",
+        "Wait until she is 1.5 kg before referral",
+        "Give formula by bottle and refer the next morning"
+      ],
+      "answer": 2,
+      "explanation": "C is right: UCG 2023 classifies a baby below 1.5 kg or below 32 weeks as 'very small baby: refer urgently to hospital for special care' and stresses extra warmth during referral; KMC during transport is the safest method, and prevention of hypoglycaemia and early antibiotics improve survival. A is wrong: very small babies need specialised care and should not be discharged early. B is wrong: bathing a small baby causes hypothermia. D is wrong: delay increases risk of death. E is wrong: bottles and formula are not preferred, and delaying referral is dangerous."
+    },
+    {
+      "id": "prem-q14",
+      "stem": "Which pathophysiological feature BEST explains why respiratory distress syndrome improves after 48-72 hours?",
+      "options": [
+        "Absorption of lung fluid by lymphatics",
+        "Closure of the ductus arteriosus",
+        "Clearance of meconium from the airways",
+        "Endogenous surfactant production increases after birth",
+        "Maturation of brainstem respiratory control"
+      ],
+      "answer": 3,
+      "explanation": "D is right: RDS is due to surfactant deficiency; birth triggers increased surfactant production, so the disease is self-limiting if the baby is supported for the first 2-3 days. A is wrong: lung fluid clearance explains transient tachypnoea of the newborn. B is wrong: ductal closure is not the mechanism of recovery in RDS (a PDA may even worsen it). C is wrong: that is meconium aspiration syndrome. E is wrong: brainstem maturation explains the resolution of apnoea of prematurity."
+    },
+    {
+      "id": "prem-q15",
+      "stem": "A 6-week-old baby born at 30 weeks (birth weight 1.25 kg) attends the follow-up clinic. Weight is 2.1 kg, feeding exclusively on breast milk. She is on vitamin D. What is MOST important to add today?",
+      "options": [
+        "Cow's milk to increase weight gain",
+        "Ceftriaxone prophylaxis",
+        "Delay her 6-week vaccines until 6 weeks corrected age",
+        "Stop KMC because she is above 2 kg",
+        "Oral iron 2-4 mg/kg/day until 6 months, give the 6-week vaccines, and arrange ROP and hearing follow-up"
+      ],
+      "answer": 4,
+      "explanation": "E is right: human-milk-fed preterm babies need enteral iron (WHO: 2-4 mg/kg/day from 2 weeks to 6 months), vaccines by chronological age, and screening for ROP (born below 32 weeks) and hearing. A is wrong: cow's milk is unsuitable before 12 months and displaces breast milk. B is wrong: there is no indication for antibiotic prophylaxis. C is wrong: immunisation uses chronological age. D is wrong: KMC can continue at home until the baby no longer tolerates it (around 2.5 kg or term)."
+    }
+  ],
+  "cases": [
+    {
+      "id": "prem-c01",
+      "title": "A 1.4 kg baby with breathing difficulty at Mengo",
+      "presentation": "You are the junior clerk on the Mengo Hospital newborn unit. A baby boy is admitted from labour ward at 1 hour of age. He was born vaginally at 31 weeks (early scan) after preterm labour; membranes ruptured 26 hours before birth; the mother had a temperature of 38.4 C in labour and received one dose of dexamethasone. Birth weight 1.40 kg. He is grunting with subcostal recession, RR 76/min, axillary temperature 35.6 C, SpO2 85% in air, HR 168/min.",
+      "steps": [
+        {
+          "prompt": "What are your immediate priorities in the first 5 minutes?",
+          "answer": "**Warmth**: radiant warmer/incubator or skin-to-skin if stable enough; hat. **Breathing**: position, oxygen to SpO2 90-95%, prepare **bubble CPAP 5-6 cm H2O** with blended oxygen. **IV access** and **glucose check**. Call the senior. Draw a **blood culture** and start antibiotics. Minimal handling."
+        },
+        {
+          "prompt": "What history and examination findings will you document, and why?",
+          "answer": "Gestation (31 weeks, early scan: reliable), **steroids** (only 1 dose: incomplete), **ROM 26 h and maternal fever** (sepsis risk), resuscitation at birth, maternal HIV/VL, syphilis, HBsAg. Exam: RR, grunting, recession, air entry, SpO2, CRT, temperature, tone, fontanelle, abdomen, Ballard to confirm gestation, weight on preterm chart (1.40 kg at 31 weeks = AGA)."
+        },
+        {
+          "prompt": "What is your differential diagnosis for his respiratory distress?",
+          "answer": "**RDS** (preterm, onset within 4 h, incomplete steroids) is most likely, but **congenital pneumonia/early-onset sepsis** is very possible (ROM 26 h, maternal fever) and cannot be excluded clinically. Others: transient tachypnoea (less likely in a 31-weeker after vaginal birth), pneumothorax, hypothermia, congenital heart disease."
+        },
+        {
+          "prompt": "What investigations will you request and what will change management?",
+          "answer": "**Glucose** (now and 3-6-hourly), **blood culture**, **FBC and CRP** (at 18-24 h), **CXR** (ground-glass and air bronchograms in RDS; patchy in pneumonia; exclude pneumothorax). LP later if culture positive or he has seizures. A positive culture or rising CRP means a full course (7-10 days; 21 days if meningitis)."
+        },
+        {
+          "prompt": "Write the management plan with doses (he weighs 1.40 kg).",
+          "answer": "1. Bubble **CPAP 5-6 cm H2O**, FiO2 to SpO2 **90-95%**. 2. **Ampicillin 50 mg/kg = 70 mg IV 12-hourly** + **gentamicin 3 mg/kg = 4.2 mg IV once daily** (WHO LBW dose; UCG 4 mg/kg = 5.6 mg). 3. Fluids day 1 **60 mL/kg/day = 84 mL/day = 3.5 mL/h** of 10% dextrose; start **trophic EBM 10 mL/kg/day** once stable. 4. **Caffeine citrate 20 mg/kg = 28 mg** load then **7 mg daily** (consider prevention below 34 weeks / treat apnoea). 5. Vitamin K 0.5 mg IM, chlorhexidine cord care, eye ointment. 6. Monitor T, RR, SpO2, HR, glucose; strict fluid chart; weigh daily."
+        },
+        {
+          "prompt": "On day 3 he is in room air, culture negative, CRP normal. On day 9 he develops apnoeas, temperature 35.4 C and a distended abdomen with bilious aspirates. What do you do?",
+          "answer": "Think **late-onset sepsis and NEC**. Stop feeds, NGT on free drainage, IV fluids, **blood culture**, start **ampicillin (or cloxacillin if skin/line sepsis) + gentamicin 5 mg/kg (now 7.5 mg/kg after week 1 per WHO) + metronidazole**; or second line per unit (ceftriaxone/meropenem) if hospital-acquired. AXR for pneumatosis/free air; Hb and transfuse if below 10 g/dL; surgical review if perforation. Warm and check glucose."
+        },
+        {
+          "prompt": "What follow-up does he need after discharge?",
+          "answer": "Weekly weighing until **3 kg**; KMC at home; exclusive breastfeeding; **iron** 2-4 mg/kg/day from 2 weeks to 6 months and vitamin D; **ROP screen** at 4 weeks of age (born below 32 weeks, exposed to oxygen); hearing screen (gentamicin, sepsis); development review using corrected age; vaccines by chronological age."
+        }
+      ],
+      "takeaway": "In a preterm baby with respiratory distress and sepsis risk factors, treat RDS (CPAP, safe oxygen) and sepsis together, count total fluids carefully, and remember that a new apnoea later in the stay is sepsis or NEC until proven otherwise."
+    },
+    {
+      "id": "prem-c02",
+      "title": "Twins at a HC IV: who stays and who goes?",
+      "presentation": "You are on rotation at a HC IV in Mpigi. A 24-year-old para 2 has just delivered twins at about 34 weeks (LNMP uncertain, no scan). Twin 1 (girl) weighs 1.95 kg; twin 2 (boy) weighs 1.35 kg. Both cried at birth. At 30 minutes, twin 2's temperature is 35.4 C and he is not attaching to the breast; twin 1 is 36.4 C and suckling.",
+      "steps": [
+        {
+          "prompt": "How do you classify each twin and what does UCG 2023 advise?",
+          "answer": "Twin 1: **LBW (1.5-2.5 kg)** 'small baby': care at HC IV with KMC, breastfeeding support, cup feeds if needed, daily assessment. Twin 2: **VLBW (below 1.5 kg)** 'very small baby': **refer urgently to hospital** with extra warmth during referral. Twins should be discharged together only when both are fit."
+        },
+        {
+          "prompt": "What will you do for twin 2 before he leaves?",
+          "answer": "**KMC** on the mother or a relative (or both twins on the mother), hat and socks; **glucose** check if possible and **expressed colostrum** by cup/spoon or NGT (or 10% dextrose 2 mL/kg IV if hypoglycaemic and IV possible); **vitamin K**, eye ointment, chlorhexidine cord care; consider the first dose of **ampicillin + gentamicin** if risk factors; write a **referral note** (times, weights, temperatures, treatments)."
+        },
+        {
+          "prompt": "How will you estimate gestation, given uncertain dates?",
+          "answer": "**New Ballard score** on both (neuromuscular + physical maturity). The difference between twins also helps: twin 2 may be **SGA** (discordant growth, e.g. placental insufficiency) rather than more preterm. Plot weights on INTERGROWTH-21st charts."
+        },
+        {
+          "prompt": "Twin 1 stays. What feeding and thermal plan will you write?",
+          "answer": "**Continuous KMC** (8-24 h/day); breastfeed on demand at least 8-12 times/day; if not suckling well, **expressed breast milk by cup**: day 1 60 mL/kg/day = **about 120 mL/day = 15 mL 3-hourly**, increasing daily to 150 mL/kg/day. Check temperature 4-6-hourly, glucose before feeds in the first 24 h, daily weight, jaundice check."
+        },
+        {
+          "prompt": "When can twin 1 be discharged and what counselling will you give?",
+          "answer": "When **feeding well**, **gaining weight 3 consecutive days**, **temperature normal 3 days**, mother confident, and (UCG) when **both twins are fit to go home**. Counsel: KMC at home, exclusive breastfeeding, hygiene and cord care, **danger signs** (not feeding, cold, fast breathing, convulsions, yellow palms/soles), BCG/OPV0 before discharge, weekly weighing until 3 kg."
+        },
+        {
+          "prompt": "What antenatal opportunities were missed, and what will you tell the mother for the future?",
+          "answer": "No early scan (accurate dating), no plan for twin delivery at a hospital with a newborn unit, possibly no **antenatal steroids**. Advise early ANC, early scan, birth spacing (family planning), delivery planning in hospital for future multiple or high-risk pregnancy."
+        }
+      ],
+      "takeaway": "Classify every small baby by weight and gestation: babies 1.5-2.5 kg can be cared for at HC IV with KMC and cup feeding, while babies below 1.5 kg or below 32 weeks need urgent, warm referral after glucose and infection prevention."
+    },
+    {
+      "id": "prem-c03",
+      "title": "Weight loss and poor feeding in a late preterm baby",
+      "presentation": "A 36-week baby girl born by elective CS (birth weight 2.40 kg) is brought back to Mengo outpatients on day 5. The mother says the baby 'sleeps all the time' and feeds for only a few minutes. She weighs 2.10 kg today. Temperature 36.3 C, RR 48, HR 150, mildly jaundiced to the abdomen, palms and soles not yellow. Mother HIV-negative, blood group O positive.",
+      "steps": [
+        {
+          "prompt": "What is her percentage weight loss and is it acceptable?",
+          "answer": "(2.40 − 2.10) ÷ 2.40 = **12.5%**. More than **10%** is excessive and suggests **inadequate milk intake** (late preterm babies are sleepy with weak sucks)."
+        },
+        {
+          "prompt": "What focused history and examination will you do?",
+          "answer": "Feeds per 24 h (target 8-12), duration, audible swallowing, wet nappies (6 or more/day by day 5) and stool colour (transitioning to yellow by day 4-5), any other fluids. Breast exam (engorgement, cracked nipples). Baby: hydration (fontanelle, mucosa), jaundice extent, temperature, signs of sepsis (lethargy, poor tone), **observe a breastfeed** (attachment, suckling)."
+        },
+        {
+          "prompt": "Which bedside and lab tests are useful?",
+          "answer": "**Glucose**, **temperature**, **serum (or transcutaneous) bilirubin** (late preterm + poor feeding = higher risk; compare to 35-37 week thresholds), **serum sodium** if available (hypernatraemic dehydration), and FBC/CRP/blood culture if any sign of sepsis."
+        },
+        {
+          "prompt": "How will you manage her?",
+          "answer": "Admit for feeding support: correct positioning and attachment, feed **at least every 3 h** (wake her), **express breast milk** after feeds and give by cup to reach about **150 mL/kg/day** (≈ 360 mL/day ≈ 45 mL 3-hourly by birth weight; start lower and increase), skin-to-skin/KMC for warmth (36.3 C = cold stress), phototherapy if bilirubin above threshold, treat hypoglycaemia if present, sepsis work-up if unwell."
+        },
+        {
+          "prompt": "What is the key lesson about late preterm babies?",
+          "answer": "**Late preterm (34-36+6) babies look like term babies but behave like preterm ones**: weak suck, sleepiness, hypothermia, hypoglycaemia and jaundice. Do not discharge early; check feeding, weight and jaundice at a **2-3-day review**."
+        }
+      ],
+      "takeaway": "Late preterm babies are at risk of poor feeding, excess weight loss, hypothermia and jaundice; calculate percentage weight loss, observe a feed, and support expressed breast milk feeding before problems become emergencies."
+    }
+  ],
+  "references": [
+    {
+      "title": "WHO recommendations for care of the preterm or low-birth-weight infant",
+      "source": "World Health Organization",
+      "year": 2022,
+      "url": "https://www.who.int/publications/i/item/9789240058262"
+    },
+    {
+      "title": "Pocket book of hospital care for children: guidelines for the management of common childhood illnesses, 2nd edition (Chapter 3: Problems of the neonate and young infant)",
+      "source": "World Health Organization",
+      "year": 2013,
+      "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+    },
+    {
+      "title": "Uganda Clinical Guidelines 2023 (sections 16.5.3 Extra care of small babies; 17.1 Sick newborn)",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023"
+    },
+    {
+      "title": "Preterm birth: fact sheet",
+      "source": "World Health Organization",
+      "year": 2023,
+      "url": "https://www.who.int/news-room/fact-sheets/detail/preterm-birth"
+    },
+    {
+      "title": "Apnea of Prematurity Treatment & Management",
+      "source": "Medscape eMedicine",
+      "year": 2024,
+      "url": "https://emedicine.medscape.com/article/974971-treatment"
+    },
+    {
+      "title": "Respiratory Distress Syndrome Treatment & Management",
+      "source": "Medscape eMedicine",
+      "year": 2024,
+      "url": "https://emedicine.medscape.com/article/976034-treatment"
+    },
+    {
+      "title": "Retinopathy of Prematurity: Background, Etiology, Pathophysiology",
+      "source": "Medscape eMedicine",
+      "year": 2024,
+      "url": "https://emedicine.medscape.com/article/976220-overview"
+    }
+  ]
+}

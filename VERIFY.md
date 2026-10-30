@@ -64,3 +64,10 @@ To update a topic, edit `content/topics/<slug>/notes.md` or `study.json`, then r
 - Lipid emulsion regimen for LAST (1.5 mL/kg, then 15 mL/kg/h, max 12 mL/kg) and whether it is stocked.
 - LNG emergency contraception 3 mg for BMI >26 or weight >70 kg (FSRH advice; WHO does not specify).
 - PTU/carbimazole and domperidone doses; atosiban regimen (rarely available).
+
+## Paediatrics: neonatology (week 1)
+
+- Neonatal tetanus: metronidazole course length (UCG 2023 reads 14 days; many references 7–10); equine antitoxin 5,000 IU (older WHO protocols; UCG gives TIG 500 IU only).
+- Neonatal ampicillin frequency: UCG hospital section 6-hourly vs WHO/IMNCI 12-hourly in week 1 then 8-hourly. Gentamicin in LBW: WHO 3 mg/kg vs UCG 4 mg/kg (preterm).
+- Uganda facts: MNT elimination validated 2011; Nsambya human milk bank 2021; which hospitals have bubble CPAP, exchange transfusion, ROP screening, Ponseti clinics; G6PD deficiency common / Rh-negative uncommon.
+- Numbers: HIE prognosis (≈20–40% death/disability in moderate HIE; Thompson score cut-off ≈15); feeding methods by weight band; Ballard/reflex disappearance ages; NICE phototherapy values beyond 60 h (extrapolated) and the "GA × 10 − 100" preterm threshold rule. AAP 2022 thresholds not quoted (page not readable).
