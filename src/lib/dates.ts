@@ -30,29 +30,32 @@ export function startOfToday(): Date {
 
 export interface RotationInfo {
   start: Date;
-  /** Day offset of today from the start (can be negative or > 41). */
+  /** Day offset of today from the start (can be negative or past the last day). */
   dayIndex: number;
   phase: "before" | "during" | "after";
   /** 1–6 while the rotation is running */
   week: number | null;
+  /** Days to the last day (Obs & Gyn: the progressive written test). */
   daysToTest: number;
 }
 
 /**
  * Rotation position. Pass `now` from useNow(): while it is 0 (server render and
  * hydration) the result is pinned to the rotation's first day so markup matches.
+ * `defaultStart` and `lastDay` come from the rotation (see ROTATIONS); useRotation() fills them in.
  */
-export function rotationInfo(startISO: string | null | undefined, now?: number): RotationInfo {
-  const today = now === undefined ? startOfToday() : now ? startOfDay(new Date(now)) : parseDate(startISO || DEFAULT_START);
-  const start = parseDate(startISO || DEFAULT_START);
+export function rotationInfo(startISO: string | null | undefined, now?: number, defaultStart = DEFAULT_START, lastDay = 39): RotationInfo {
+  const startStr = startISO || defaultStart;
+  const today = now === undefined ? startOfToday() : now ? startOfDay(new Date(now)) : parseDate(startStr);
+  const start = parseDate(startStr);
   const dayIndex = Math.round((today.getTime() - start.getTime()) / DAY);
-  const phase = dayIndex < 0 ? "before" : dayIndex > 39 ? "after" : "during";
+  const phase = dayIndex < 0 ? "before" : dayIndex > lastDay ? "after" : "during";
   return {
     start,
     dayIndex,
     phase,
     week: phase === "during" ? Math.floor(dayIndex / 7) + 1 : null,
-    daysToTest: 39 - dayIndex,
+    daysToTest: lastDay - dayIndex,
   };
 }
 

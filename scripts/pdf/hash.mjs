@@ -12,9 +12,14 @@ export const MANIFEST = path.join(PDF_DIR, "manifest.json");
 
 const read = (p) => (fs.existsSync(p) ? fs.readFileSync(p, "utf8") : "");
 
-/** Hash of everything that ends up in a topic's PDF. `meta` is the curriculum entry. */
+/**
+ * Hash of everything that ends up in a topic's PDF. `meta` is the curriculum entry. Obs & Gyn
+ * entries are hashed without the rotation fields (added later), so their PDFs stay up to date;
+ * other rotations' PDFs depend on the rotation (its name and week themes are on the cover).
+ */
 export function topicHash(slug, meta) {
   const dir = path.join(root, "content/topics", slug);
+  if (meta?.rotation === "obgyn") meta = Object.fromEntries(Object.entries(meta).filter(([k]) => k !== "rotation" && k !== "sharedWith"));
   return crypto
     .createHash("sha256")
     .update(`v${PDF_TEMPLATE_VERSION}\n${JSON.stringify(meta)}\n${read(path.join(dir, "notes.md"))}\n${read(path.join(dir, "study.json"))}`)

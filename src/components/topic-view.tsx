@@ -4,9 +4,10 @@ import { useEffect, useState } from "react";
 import clsx from "clsx";
 import { Bookmark, BookOpen, Check, Download, ExternalLink, Layers, ListChecks, NotebookPen, Stethoscope, Library, List } from "lucide-react";
 import { topicPrep, type TopicCounts } from "@/lib/prep";
-import { addDays, formatDay, rotationInfo } from "@/lib/dates";
+import { addDays, formatDay } from "@/lib/dates";
 import { effectiveSessions } from "@/lib/schedule";
-import type { Session } from "@/content/curriculum";
+import type { RotationId, Session } from "@/content/curriculum";
+import { rotationInfoFor } from "@/lib/use-rotation";
 import type { ClinicalCase, Heading, Reference } from "@/lib/types";
 import { useStudy, type TopicStatus } from "@/lib/store/study-store";
 import { FlashcardDeck, type DeckCard } from "@/components/flashcard-deck";
@@ -57,12 +58,15 @@ export function TopicDetails({
   slug,
   counts,
   sessions,
+  rotation,
   faculty,
   weekLabel,
 }: {
   slug: string;
   counts: TopicCounts;
   sessions: Session[];
+  /** The topic's own rotation (its sessions are dated from that rotation's start). */
+  rotation: RotationId;
   faculty: string[];
   weekLabel: string;
 }) {
@@ -70,7 +74,7 @@ export function TopicDetails({
   const t = state.topics[slug];
   const status = t?.status ?? "not_started";
   const prep = topicPrep(state, slug, counts);
-  const { start } = rotationInfo(state.settings.rotationStart);
+  const { start } = rotationInfoFor(state.settings, rotation);
   const rows: [string, React.ReactNode][] = [
     ...effectiveSessions(sessions, state.overrides)
       .filter((s) => !s.ghostOf)
@@ -78,6 +82,7 @@ export function TopicDetails({
         i === 0 ? "Session" : "",
         <span key={s.key}>
           {formatDay(addDays(start, s.day), { weekday: "short", day: "numeric", month: "short" })} · {s.time.split("–")[0]} · {s.mode}
+          {s.presenting && <span className="ml-1.5 inline-block whitespace-nowrap rounded-md bg-brand-soft px-1.5 py-px text-[11.5px] font-medium text-brand-text">You&apos;re presenting</span>}
           {s.movedFrom && <span className="ml-1.5 rounded-md bg-peach-soft px-1.5 py-px text-[11.5px] font-medium text-peach-text">Moved</span>}
         </span>,
       ]),

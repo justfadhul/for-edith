@@ -4,8 +4,8 @@ import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import clsx from "clsx";
 import { Pill } from "lucide-react";
+import { useRotation } from "@/lib/use-rotation";
 
-const HREF = "/topics/obs-gyn-pharmacology";
 const KEY = "for-edith:drug-fab";
 const MARGIN = 12;
 const DRAG_THRESHOLD = 6;
@@ -39,6 +39,7 @@ function defaultPx(w: number, h: number, bw: number, bh: number) {
  * The spot is remembered on this device.
  */
 export function DrugFab() {
+  const { rotation } = useRotation();
   const ref = useRef<HTMLAnchorElement>(null);
   const [pos, setPos] = useState<{ x: number; y: number } | null>(null);
   const [dragging, setDragging] = useState(false);
@@ -115,9 +116,9 @@ export function DrugFab() {
   return (
     <Link
       ref={ref}
-      href={HREF}
-      aria-label="Open the drug handbook (drag to move)"
-      title="Drug handbook · drag to move"
+      href={`/topics/${rotation.handbookSlug}`}
+      aria-label={`Open the ${rotation.name} drug handbook (drag to move)`}
+      title={`${rotation.name} drug handbook · drag to move`}
       draggable={false}
       onPointerDown={onPointerDown}
       onPointerMove={onPointerMove}

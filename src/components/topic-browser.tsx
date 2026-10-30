@@ -4,15 +4,19 @@ import Link from "next/link";
 import { useMemo, useState } from "react";
 import clsx from "clsx";
 import { Bookmark, Clock, Layers, ListChecks, Stethoscope } from "lucide-react";
-import { WEEK_THEMES, WEEK_GROUPS, weekLabel, type TopicKind } from "@/content/curriculum";
+import { WEEK_GROUPS, weekLabel, type TopicKind } from "@/content/curriculum";
+import { forRotation, ROTATIONS } from "@/content/rotations";
+import { useRotation } from "@/lib/use-rotation";
 import type { TopicSummary } from "@/lib/types";
 import { useStudy, type TopicStatus } from "@/lib/store/study-store";
 import { KindChip, StatusDot } from "@/components/ui";
 
 type StatusFilter = "all" | TopicStatus | "saved";
 
-export function TopicBrowser({ topics }: { topics: TopicSummary[] }) {
+export function TopicBrowser({ topics: allTopics }: { topics: TopicSummary[] }) {
   const { state } = useStudy();
+  const { rotation } = useRotation();
+  const topics = useMemo(() => forRotation(allTopics, rotation.id), [allTopics, rotation.id]);
   const [q, setQ] = useState("");
   const [kind, setKind] = useState<TopicKind | "all">("all");
   const [status, setStatus] = useState<StatusFilter>("all");
@@ -62,11 +66,17 @@ export function TopicBrowser({ topics }: { topics: TopicSummary[] }) {
         return (
           <section key={w} id={`week-${w}`} className="mt-8 scroll-mt-32">
             <h2 className="mb-3 h-section">
-              <span className="text-brand">{weekLabel(w)}</span> · {WEEK_THEMES[w]}
+              <span className="text-brand">{weekLabel(w)}</span> · {rotation.weekThemes[w]}
             </h2>
             <div className="grid gap-3 md:grid-cols-2">
               {wt.map((t) => (
-                <TopicCard key={t.slug} t={t} status={state.topics[t.slug]?.status} saved={!!state.topics[t.slug]?.bookmarked} />
+                <TopicCard
+                  key={t.slug}
+                  t={t}
+                  from={t.rotation !== rotation.id ? ROTATIONS[t.rotation].name : undefined}
+                  status={state.topics[t.slug]?.status}
+                  saved={!!state.topics[t.slug]?.bookmarked}
+                />
               ))}
             </div>
           </section>
@@ -77,13 +87,24 @@ export function TopicBrowser({ topics }: { topics: TopicSummary[] }) {
   );
 }
 
-function TopicCard({ t, status, saved }: { t: TopicSummary; status?: TopicStatus; saved: boolean }) {
+/** "Paediatrics · 46 topics · 6 weeks", for the page header. */
+export function RotationTopicCount() {
+  const { rotation } = useRotation();
+  return (
+    <span data-rot-scoped>
+      {rotation.name} · {rotation.topics.length} topics · 6 weeks
+    </span>
+  );
+}
+
+function TopicCard({ t, status, saved, from }: { t: TopicSummary; status?: TopicStatus; saved: boolean; from?: string }) {
   return (
     <Link href={`/topics/${t.slug}`} className="card group flex flex-col p-4 transition hover:border-brand">
       <div className="flex items-center gap-2">
         <StatusDot status={status} />
         <KindChip kind={t.kind} />
-        {t.discipline !== "skills" && <span className="text-xs capitalize text-ink-3">{t.discipline}</span>}
+        {t.discipline !== "skills" && t.kind !== "reference" && <span className="text-xs capitalize text-ink-3">{t.discipline}</span>}
+        {from && <span className="text-xs text-ink-3">From {from}</span>}
         {saved && <Bookmark size={14} className="ml-auto fill-brand text-brand" />}
       </div>
       <h3 className="mt-2 font-semibold leading-snug group-hover:text-brand">{t.title}</h3>

@@ -5,7 +5,14 @@ export const dynamic = "force-static";
 
 export async function GET() {
   const cards = TOPICS.flatMap((t) =>
-    loadStudy(t.slug).flashcards.map((f) => ({ ...f, topic: t.slug, topicTitle: t.title, week: t.week })),
+    loadStudy(t.slug).flashcards.map((f) => ({
+      ...f,
+      topic: t.slug,
+      topicTitle: t.title,
+      week: t.week,
+      rotation: t.rotation,
+      ...(t.sharedWith ? { sharedWith: t.sharedWith } : {}),
+    })),
   );
   return Response.json(cards);
 }

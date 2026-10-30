@@ -6,8 +6,8 @@ import GithubSlugger from "github-slugger";
 import { cache } from "react";
 import { TOPICS, TOPIC_BY_SLUG, type Topic } from "@/content/curriculum";
 import { frontmatterSchema, studySchema } from "@/lib/content-schema.mjs";
-import type { StudyData, TopicContent, TopicSummary, Heading } from "@/lib/types";
-import { drugHandbook, HANDBOOK_SLUG } from "@/lib/drug-handbook";
+import type { StudyData, TopicContent, TopicSummary, Heading, SearchEntry } from "@/lib/types";
+import { drugHandbook } from "@/lib/drug-handbook";
 
 const CONTENT_DIR = path.join(process.cwd(), "content");
 const TOPICS_DIR = path.join(CONTENT_DIR, "topics");
@@ -157,7 +157,7 @@ export const searchIndex = cache(() => {
 const topicEntries = () =>
   TOPICS.flatMap((t) => {
     const c = loadTopic(t.slug)!;
-    return [
+    const entries: Omit<SearchEntry, "rotation" | "sharedWith">[] = [
       {
         slug: t.slug,
         title: t.title,
@@ -167,8 +167,8 @@ const topicEntries = () =>
         anchor: "",
       },
       ...c.highYield.map((h) => ({ slug: t.slug, title: t.title, week: t.week, kind: "fact" as const, text: h, anchor: "" })),
-      ...(t.slug === HANDBOOK_SLUG
-        ? drugHandbook().flatMap((g) =>
+      ...(t.kind === "reference" && drugHandbook(t.slug).length
+        ? drugHandbook(t.slug).flatMap((g) =>
             sectionChunks(g.body, g.headings).map((sec) => ({
               slug: t.slug,
               title: `Drug handbook · ${g.title}`,
@@ -191,5 +191,6 @@ const topicEntries = () =>
           }))),
       ...c.study.flashcards.map((f) => ({ slug: t.slug, title: t.title, week: t.week, kind: "card" as const, text: `${f.front} — ${f.back}`, anchor: "" })),
     ];
+    return entries.map((e): SearchEntry => ({ ...e, rotation: t.rotation, ...(t.sharedWith ? { sharedWith: t.sharedWith } : {}) }));
   });
 

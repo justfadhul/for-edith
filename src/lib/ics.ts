@@ -7,6 +7,8 @@ import type { EffectiveSession } from "@/lib/schedule";
 const EAT_OFFSET_H = 3;
 
 export type ReminderOptions = {
+  /** The rotation's name, e.g. "Paediatrics" (calendar name). */
+  calendarName: string;
   /** Session modes to include. */
   modes: Set<string>;
   minutesBefore: number[];
@@ -66,10 +68,10 @@ export function buildIcs(
   const lines = [
     "BEGIN:VCALENDAR",
     "VERSION:2.0",
-    "PRODID:-//For Edith//Obs & Gyn timetable//EN",
+    `PRODID:-//For Edith//${opts.calendarName} timetable//EN`,
     "CALSCALE:GREGORIAN",
     "METHOD:PUBLISH",
-    "X-WR-CALNAME:For Edith · Obs & Gyn",
+    `X-WR-CALNAME:${esc(`For Edith · ${opts.calendarName}`)}`,
     "X-WR-TIMEZONE:Africa/Kampala",
   ];
 
@@ -111,7 +113,7 @@ export function buildIcs(
     const at = hh + mm / 60;
     lines.push(
       "BEGIN:VEVENT",
-      "UID:daily-study@for-edith",
+      `UID:daily-study-${opts.calendarName.replace(/[^a-z0-9]/gi, "").toLowerCase()}@for-edith`,
       `DTSTAMP:${now}`,
       `DTSTART:${stamp(start, at)}`,
       `DTEND:${stamp(start, at + 0.25)}`,

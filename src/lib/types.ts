@@ -1,4 +1,4 @@
-import type { Topic } from "@/content/curriculum";
+import type { RotationId, Topic } from "@/content/curriculum";
 
 export interface Flashcard {
   id: string;
@@ -72,4 +72,7 @@ export type SearchEntry = {
   anchor: string;
   /** Overrides the default link (e.g. drug handbook chapters). */
   href?: string;
+  /** The topic's rotation (absent for the quick reference). */
+  rotation?: RotationId;
+  sharedWith?: RotationId[];
 };

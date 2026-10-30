@@ -4,6 +4,7 @@ import { createContext, useCallback, useContext, useEffect, useMemo, useRef, use
 import type { Session as AuthSession, SupabaseClient } from "@supabase/supabase-js";
 import { getSupabase, supabaseConfigured } from "@/lib/supabase";
 import { newCard, review, type CardState, type Grade } from "./srs";
+import { DEFAULT_ROTATION, isRotationId, type RotationId } from "@/content/rotations";
 
 // ── State shape ──────────────────────────────────────────────
 export type TopicStatus = "not_started" | "in_progress" | "done";
@@ -48,7 +49,12 @@ export interface SessionOverride {
   updatedAt: string;
 }
 export interface Settings {
+  /** Obs & Gyn start (Monday of week 1). */
   rotationStart: string | null;
+  /** Paediatrics start (Monday of week 1). */
+  paedsStart: string | null;
+  /** The rotation every list follows. */
+  rotation: RotationId;
   displayName: string | null;
   updatedAt: string;
 }
@@ -66,7 +72,7 @@ export interface StudyState {
 
 const EPOCH = new Date(0).toISOString();
 const emptyState = (): StudyState => ({
-  settings: { rotationStart: null, displayName: null, updatedAt: EPOCH },
+  settings: { rotationStart: null, paedsStart: null, rotation: DEFAULT_ROTATION, displayName: null, updatedAt: EPOCH },
   topics: {},
   notes: {},
   cards: {},
@@ -77,20 +83,33 @@ const emptyState = (): StudyState => ({
 });
 
 const STORAGE_KEY = "for-edith:v1";
+/** Mirror of the active rotation, read by the pre-paint script in the layout. */
+export const ROTATION_KEY = "for-edith:rotation";
 const now = () => new Date().toISOString();
 const newer = (a?: { updatedAt: string }, b?: { updatedAt: string }) =>
   !b || (a && a.updatedAt > b.updatedAt);
 
+/** Fills in settings added after the data was saved (and drops unknown rotations). */
+function normaliseSettings(v: Partial<Settings> | undefined): Settings {
+  const base = emptyState().settings;
+  const s = { ...base, ...v };
+  return { ...s, rotation: isRotationId(s.rotation) ? s.rotation : DEFAULT_ROTATION };
+}
+
 function loadLocal(): StudyState {
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
-    if (raw) return { ...emptyState(), ...JSON.parse(raw) };
+    if (raw) {
+      const parsed = JSON.parse(raw);
+      return { ...emptyState(), ...parsed, settings: normaliseSettings(parsed.settings) };
+    }
   } catch {}
   return emptyState();
 }
 function saveLocal(s: StudyState) {
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(s));
+    localStorage.setItem(ROTATION_KEY, s.settings.rotation);
   } catch {}
 }
 
@@ -109,8 +128,11 @@ async function selectAll(sb: SupabaseClient, table: string, order: string) {
   }
 }
 
-async function pullRemote(sb: SupabaseClient): Promise<StudyState> {
-  const s = emptyState();
+/** Settings as stored in Supabase. The rotation columns are undefined until migration 0003 has run. */
+type RemoteSettings = Omit<Settings, "rotation" | "paedsStart"> & { rotation?: RotationId; paedsStart?: string | null };
+
+async function pullRemote(sb: SupabaseClient): Promise<StudyState & { settings: RemoteSettings }> {
+  const s: StudyState & { settings: RemoteSettings } = emptyState();
   const [settings, topics, notes, cards, questions, sessions, cases, overrides] = await Promise.all([
     sb.from("user_settings").select("*").maybeSingle(),
     selectAll(sb, "topic_progress", "topic_slug"),
@@ -126,6 +148,9 @@ async function pullRemote(sb: SupabaseClient): Promise<StudyState> {
   if (settings.data)
     s.settings = {
       rotationStart: settings.data.rotation_start,
+      // Absent (not null) when the columns don't exist yet: keep this device's values.
+      paedsStart: "paeds_start" in settings.data ? settings.data.paeds_start : undefined,
+      rotation: isRotationId(settings.data.active_rotation) ? settings.data.active_rotation : undefined,
       displayName: settings.data.display_name,
       updatedAt: settings.data.updated_at,
     };
@@ -186,6 +211,8 @@ const rows = {
   settings: (uid: string, v: Settings) => ({
     user_id: uid,
     rotation_start: v.rotationStart,
+    paeds_start: v.paedsStart,
+    active_rotation: v.rotation,
     display_name: v.displayName,
     updated_at: v.updatedAt,
   }),
@@ -258,7 +285,7 @@ const TABLES = {
 type KeyedSection = keyof typeof TABLES;
 
 /** Merge two states: per key, the most recently updated record wins. */
-function merge(local: StudyState, remote: StudyState) {
+function merge(local: StudyState, remote: StudyState & { settings: RemoteSettings }) {
   const merged = emptyState();
   const toPush: { [K in KeyedSection]: string[] } & { settings: boolean; sessions: QuizSession[] } = {
     topics: [],
@@ -270,8 +297,15 @@ function merge(local: StudyState, remote: StudyState) {
     settings: false,
     sessions: [],
   };
-  merged.settings = newer(local.settings, remote.settings) ? local.settings : remote.settings;
-  toPush.settings = merged.settings === local.settings && local.settings.updatedAt !== EPOCH;
+  const localWins = Boolean(newer(local.settings, remote.settings));
+  merged.settings = localWins
+    ? local.settings
+    : {
+        ...remote.settings,
+        rotation: remote.settings.rotation ?? local.settings.rotation,
+        paedsStart: remote.settings.paedsStart === undefined ? local.settings.paedsStart : remote.settings.paedsStart,
+      };
+  toPush.settings = localWins && local.settings.updatedAt !== EPOCH;
   for (const section of Object.keys(TABLES) as KeyedSection[]) {
     const l = local[section] as Record<string, { updatedAt: string }>;
     const r = remote[section] as Record<string, { updatedAt: string }>;
@@ -341,6 +375,11 @@ export function StudyProvider({ children }: { children: React.ReactNode }) {
     setHydrated(true);
   }, []);
 
+  // The pre-paint script hides rotation lists until the saved rotation is applied (see layout).
+  useEffect(() => {
+    if (hydrated) delete document.documentElement.dataset.rotPending;
+  }, [hydrated]);
+
   // Track the Supabase auth session.
   useEffect(() => {
     const sb = getSupabase();
@@ -368,6 +407,26 @@ export function StudyProvider({ children }: { children: React.ReactNode }) {
     [uid],
   );
 
+  /** Upserts settings; if the server lacks the rotation columns (migration 0003 not run), retries without them. */
+  const pushSettings = useCallback(
+    async (v: Settings) => {
+      const sb = getSupabase();
+      if (!sb || !uid) return;
+      const row = rows.settings(uid, v);
+      let { error } = await sb.from("user_settings").upsert(row, { onConflict: "user_id" });
+      if (error && /active_rotation|paeds_start|PGRST204|column/i.test(`${error.code} ${error.message}`)) {
+        // eslint-disable-next-line @typescript-eslint/no-unused-vars
+        const { active_rotation, paeds_start, ...legacy } = row;
+        ({ error } = await sb.from("user_settings").upsert(legacy, { onConflict: "user_id" }));
+      }
+      if (error) {
+        setSyncStatus("error");
+        setSyncError(error.message);
+      } else setSyncStatus("synced");
+    },
+    [uid],
+  );
+
   const fullSync = useCallback(async () => {
     const sb = getSupabase();
     if (!sb || !uid) return;
@@ -379,7 +438,7 @@ export function StudyProvider({ children }: { children: React.ReactNode }) {
       setState(merged);
       saveLocal(merged);
       const writes: Promise<unknown>[] = [];
-      if (toPush.settings) writes.push(push("user_settings", "user_id", rows.settings(uid, merged.settings)));
+      if (toPush.settings) writes.push(pushSettings(merged.settings));
       for (const section of Object.keys(TABLES) as KeyedSection[]) {
         const [table, conflict, toRow] = TABLES[section];
         const keys = toPush[section];
@@ -396,7 +455,7 @@ export function StudyProvider({ children }: { children: React.ReactNode }) {
       setSyncStatus("error");
       setSyncError(e instanceof Error ? e.message : String(e));
     }
-  }, [uid, push]);
+  }, [uid, push, pushSettings]);
 
   useEffect(() => {
     if (!hydrated) return;
@@ -482,7 +541,7 @@ export function StudyProvider({ children }: { children: React.ReactNode }) {
       updateSettings: (patch) => {
         const next = { ...stateRef.current.settings, ...patch, updatedAt: now() };
         commit((s) => ({ ...s, settings: next }));
-        if (uid) void push("user_settings", "user_id", rows.settings(uid, next));
+        if (uid) void pushSettings(next);
       },
       signOut: async () => {
         await getSupabase()?.auth.signOut();
@@ -490,7 +549,7 @@ export function StudyProvider({ children }: { children: React.ReactNode }) {
       resyncNow: fullSync,
       resetLocal: () => commit(() => emptyState()),
     }),
-    [state, hydrated, syncStatus, syncError, session, updateTopic, commit, push, uid, fullSync],
+    [state, hydrated, syncStatus, syncError, session, updateTopic, commit, push, pushSettings, uid, fullSync],
   );
 
   return <StudyContext.Provider value={value}>{children}</StudyContext.Provider>;

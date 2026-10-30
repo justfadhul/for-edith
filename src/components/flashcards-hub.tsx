@@ -2,17 +2,21 @@
 
 import { useEffect, useMemo, useState } from "react";
 import clsx from "clsx";
-import { WEEK_GROUPS, REFERENCE_WEEK } from "@/content/curriculum";
+import { WEEK_GROUPS, REFERENCE_WEEK, type RotationId } from "@/content/curriculum";
+import { forRotation } from "@/content/rotations";
+import { useRotation } from "@/lib/use-rotation";
 import { FlashcardDeck, type DeckCard } from "@/components/flashcard-deck";
 import { useStudy } from "@/lib/store/study-store";
 import { useNow } from "@/lib/use-now";
 
-type Card = DeckCard & { week: number };
+type Card = DeckCard & { week: number; rotation: RotationId; sharedWith?: RotationId[] };
 
 export function FlashcardsHub() {
   const { state } = useStudy();
   const now = useNow();
-  const [cards, setCards] = useState<Card[] | null>(null);
+  const { rotation } = useRotation();
+  const [allCards, setCards] = useState<Card[] | null>(null);
+  const cards = useMemo(() => (allCards ? forRotation(allCards, rotation.id) : null), [allCards, rotation.id]);
   const [week, setWeek] = useState<number | "all">("all");
   const [error, setError] = useState(false);
 
@@ -45,12 +49,12 @@ export function FlashcardsHub() {
               week === w ? "border-brand-line bg-brand-soft text-brand" : "border-line bg-surface text-ink-2",
             )}
           >
-            {w === "all" ? "All weeks" : w === REFERENCE_WEEK ? "Drugs" : `Week ${w}`}
+            {w === "all" ? "All weeks" : w === REFERENCE_WEEK ? (rotation.id === "obgyn" ? "Drugs" : "Reference") : `Week ${w}`}
             <span className="ml-1.5 opacity-70">{dueFor(w)}</span>
           </button>
         ))}
       </div>
-      <FlashcardDeck key={String(week)} cards={filtered} newLimit={25} emptyHint="No flashcards for this week yet." />
+      <FlashcardDeck key={`${rotation.id}-${week}`} cards={filtered} newLimit={25} emptyHint="No flashcards for this week yet." />
       <p className="mt-6 text-center text-xs text-ink-3">
         Shortcuts: <kbd>Space</kbd> flip · <kbd>1</kbd>–<kbd>4</kbd> Again / Hard / Good / Easy. Up to 25 new cards per session.
       </p>

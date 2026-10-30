@@ -1,7 +1,8 @@
 # For Edith 🩺
 
-A mobile-friendly study companion for Edith's **6-week Obstetrics & Gynaecology junior clerkship** at
-Uganda Christian University School of Medicine (Year 3, Semester 2).
+A mobile-friendly study companion for Edith's 6-week junior clerkships at Uganda Christian University School of
+Medicine (Year 3): **Obstetrics & Gynaecology** and **Paediatrics & Child Health**. A switcher at the top of the
+sidebar (or the top bar on a phone) picks the active rotation; every list, the timetable and reminders follow it.
 
 Every topic on the rotation timetable gets:
 
@@ -32,7 +33,8 @@ npm run dev                  # http://localhost:3000
 
 1. Create a project at [supabase.com](https://supabase.com).
 2. In **SQL Editor**, run [`supabase/migrations/0001_init.sql`](supabase/migrations/0001_init.sql), then
-   [`0002_session_overrides.sql`](supabase/migrations/0002_session_overrides.sql) (rescheduled sessions). They create
+   [`0002_session_overrides.sql`](supabase/migrations/0002_session_overrides.sql) (rescheduled sessions) and
+   [`0003_paeds_rotation.sql`](supabase/migrations/0003_paeds_rotation.sql) (active rotation, Paediatrics start). They create
    the tables with row-level security so each user only sees their own data.
 3. In **Project Settings → API**, copy the **Project URL** and the **anon / publishable key** into
    `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY`.
@@ -51,7 +53,9 @@ npm run dev                  # http://localhost:3000
 ## Editing content
 
 See [`CONTENT_GUIDE.md`](CONTENT_GUIDE.md) for the format, and [`VERIFY.md`](VERIFY.md) for items a senior should confirm. Topics and the timetable are defined in
-[`src/content/curriculum.ts`](src/content/curriculum.ts). After editing, run:
+[`src/content/curriculum.ts`](src/content/curriculum.ts) (Obs & Gyn) and
+[`src/content/paeds-curriculum.ts`](src/content/paeds-curriculum.ts) (Paediatrics), tied together in
+[`src/content/rotations.ts`](src/content/rotations.ts). After editing, run:
 
 ```bash
 npm run validate    # structure, minimum counts, duplicate ids

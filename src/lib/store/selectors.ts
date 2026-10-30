@@ -1,7 +1,8 @@
 import type { StudyState } from "./study-store";
 
-export function cardsDue(state: StudyState, now = Date.now()) {
-  return Object.values(state.cards).filter((c) => new Date(c.due).getTime() <= now).length;
+/** Cards due for review, optionally only those of the given topics (e.g. the active rotation's). */
+export function cardsDue(state: StudyState, now = Date.now(), topics?: Set<string>) {
+  return Object.values(state.cards).filter((c) => (!topics || topics.has(c.topic)) && new Date(c.due).getTime() <= now).length;
 }
 
 export function quizAccuracy(state: StudyState) {

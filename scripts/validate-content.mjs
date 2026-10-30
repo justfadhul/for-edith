@@ -9,9 +9,9 @@ import { topicHash, quickRefHash, readManifest } from "./pdf/hash.mjs";
 import { TOPICS } from "../src/content/curriculum.ts";
 
 const root = path.resolve(import.meta.dirname, "..");
-const curriculum = fs.readFileSync(path.join(root, "src/content/curriculum.ts"), "utf8");
-const topicBlock = curriculum.slice(0, curriculum.indexOf("export const TOPIC_BY_SLUG"));
-const allSlugs = [...topicBlock.matchAll(/slug: "([^"]+)"/g)].map((m) => m[1]);
+// Every topic of every rotation (Obs & Gyn in curriculum.ts, Paediatrics in paeds-curriculum.ts).
+const allSlugs = TOPICS.map((t) => t.slug);
+const dupes = allSlugs.filter((s, i) => allSlugs.indexOf(s) !== i);
 
 const args = process.argv.slice(2);
 const strict = args.includes("--strict");
@@ -33,10 +33,11 @@ let missing = 0;
 const err = (slug, msg) => (errors++, console.log(`  ✖ [${slug}] ${msg}`));
 const warn = (slug, msg) => (warnings++, console.log(`  ⚠ [${slug}] ${msg}`));
 const seenIds = new Map();
+for (const d of new Set(dupes)) err(d, "slug is defined twice in the curriculum");
 
 for (const slug of slugs) {
   if (!allSlugs.includes(slug)) {
-    err(slug, "unknown slug (not in src/content/curriculum.ts)");
+    err(slug, "unknown slug (not in src/content/curriculum.ts or paeds-curriculum.ts)");
     continue;
   }
   const dir = path.join(root, "content/topics", slug);

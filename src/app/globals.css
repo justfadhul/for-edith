@@ -190,6 +190,9 @@ body {
   letter-spacing: -0.006em;
 }
 ::selection { background: var(--brand-soft); color: var(--ink); }
+/* Until the saved rotation is loaded, don't show the server-rendered (Obs & Gyn) lists. */
+html[data-rot-pending] main,
+html[data-rot-pending] [data-rot-scoped] { visibility: hidden; }
 @layer base {
   :focus-visible { outline: none; box-shadow: var(--ring); border-radius: 8px; }
 }

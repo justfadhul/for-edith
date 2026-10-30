@@ -1,8 +1,12 @@
 // Curriculum for the UCU Junior Clerkship Obstetrics & Gynaecology rotation
 // (Trinity Semester, Year 3 Semester 2). Source: "Final Schedule Y3 Semester 2".
+// The Paediatrics rotation lives in ./paeds-curriculum.ts; ./rotations.ts ties the two together.
+// (Imports carry the .ts extension so the Node scripts can load this file directly.)
+import { PAEDS_TOPICS } from "./paeds-curriculum.ts";
 
 export type TopicKind = "lecture" | "tutorial" | "skill" | "reference";
-export type Discipline = "obstetrics" | "gynaecology" | "skills" | "foundations";
+export type Discipline = "obstetrics" | "gynaecology" | "paediatrics" | "neonatology" | "skills" | "foundations";
+export type RotationId = "obgyn" | "paeds";
 
 export interface Topic {
   slug: string;
@@ -13,9 +17,15 @@ export interface Topic {
   /** Lecturer(s)/facilitator(s) from the timetable */
   faculty: string[];
   blurb: string;
+  /** The rotation the topic belongs to (its week and sessions are in that rotation). */
+  rotation: RotationId;
+  /** Other rotations that list it too, under Reference. */
+  sharedWith?: RotationId[];
 }
 
-export const TOPICS: Topic[] = [
+type ObsTopic = Omit<Topic, "rotation">;
+
+const OBS_TOPICS: ObsTopic[] = [
   // ── Week 1 ──────────────────────────────────────────────
   {
     slug: "partograph-labour-monitoring",
@@ -134,6 +144,7 @@ export const TOPICS: Topic[] = [
     discipline: "skills",
     faculty: ["Sr Kiggundu", "Dr Kaduyu"],
     blurb: "Hand hygiene, PPE, instrument processing, waste segregation and PEP.",
+    sharedWith: ["paeds"],
   },
   {
     slug: "ectopic-pregnancy",
@@ -290,6 +301,7 @@ export const TOPICS: Topic[] = [
     discipline: "skills",
     faculty: ["Dr Nassimu"],
     blurb: "Helping Babies Breathe: the Golden Minute, bag-and-mask ventilation and APGAR.",
+    sharedWith: ["paeds"],
   },
   {
     slug: "vvf-rvf",
@@ -331,7 +343,7 @@ export const TOPICS: Topic[] = [
 ];
 
 // ── Reference (not a timetabled session) ─────────────────
-TOPICS.push({
+OBS_TOPICS.push({
   slug: "obs-gyn-pharmacology",
   title: "Obs & Gyn Pharmacology",
   week: 0,
@@ -340,6 +352,12 @@ TOPICS.push({
   faculty: [],
   blurb: "The drugs you will prescribe on the ward: MgSO₄ and its toxicity, antihypertensives, uterotonics, tocolytics, antibiotics, antimalarials, contraception, analgesia and drug safety in pregnancy.",
 });
+
+/** The Obs & Gyn rotation's own topics. */
+export const OBGYN_TOPICS: Topic[] = OBS_TOPICS.map((t) => ({ ...t, rotation: "obgyn" }));
+
+/** Every topic of every rotation (static pages, data routes, search and PDFs). */
+export const TOPICS: Topic[] = [...OBGYN_TOPICS, ...PAEDS_TOPICS];
 
 export const TOPIC_BY_SLUG: Record<string, Topic> = Object.fromEntries(
   TOPICS.map((t) => [t.slug, t]),
@@ -372,6 +390,7 @@ export type SessionMode =
   | "Clinical work"
   | "Grand round"
   | "Paediatrics"
+  | "Self-directed learning"
   | "Assessment";
 
 export interface Session {
@@ -382,10 +401,17 @@ export interface Session {
   mode: SessionMode;
   faculty?: string;
   topic?: string;
+  /** Edith presents this tutorial. */
+  presenting?: boolean;
+  /** Set on sessions outside Obs & Gyn, so their reschedule keys never collide. */
+  rotation?: RotationId;
 }
 
 /** Default rotation start (Monday, 17 Aug 2026) — overridable in Settings. */
 export const DEFAULT_START = "2026-08-17";
+
+/** Notes shown on the timetable for particular weeks. */
+export const WEEK_NOTES: Record<number, string> = {};
 
 const CW = "Clinical work (at rotation sites)";
 

@@ -4,11 +4,12 @@ import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import clsx from "clsx";
 import { Play, Timer, Zap, TrendingDown } from "lucide-react";
-import { WEEK_GROUPS, weekLabel } from "@/content/curriculum";
+import { WEEK_GROUPS, weekLabel, type RotationId } from "@/content/curriculum";
+import { forRotation } from "@/content/rotations";
 import type { StudyData } from "@/lib/types";
 import { useStudy } from "@/lib/store/study-store";
-import { formatDay, rotationInfo } from "@/lib/dates";
-import { useNow } from "@/lib/use-now";
+import { formatDay } from "@/lib/dates";
+import { useRotation } from "@/lib/use-rotation";
 import { QuizRunner, type QuizQuestion } from "@/components/quiz-runner";
 
 interface TopicLite {
@@ -16,6 +17,8 @@ interface TopicLite {
   title: string;
   week: number;
   mcqs: number;
+  rotation: RotationId;
+  sharedWith?: RotationId[];
 }
 
 type Filter = "any" | "unseen" | "wrong";
@@ -29,11 +32,14 @@ function shuffle<T>(a: T[]) {
   return r;
 }
 
-export function QuizBuilder({ topics }: { topics: TopicLite[] }) {
+export function QuizBuilder({ topics: allTopics }: { topics: TopicLite[] }) {
   const { state } = useStudy();
-  const now = useNow();
+  const { rotation, info } = useRotation();
+  // The active rotation's topics; the selection starts as "everything" in every rotation.
+  const topics = useMemo(() => forRotation(allTopics, rotation.id), [allTopics, rotation.id]);
   const [mode, setMode] = useState<"practice" | "exam">("practice");
-  const [selected, setSelected] = useState<Set<string>>(() => new Set(topics.map((t) => t.slug)));
+  const [picked, setSelected] = useState<Set<string>>(() => new Set(allTopics.map((t) => t.slug)));
+  const selected = useMemo(() => new Set(topics.filter((t) => picked.has(t.slug)).map((t) => t.slug)), [topics, picked]);
   const [count, setCount] = useState(20);
   const [filter, setFilter] = useState<Filter>("any");
   const [running, setRunning] = useState<{ questions: QuizQuestion[]; mode: "practice" | "exam"; minutes?: number } | null>(null);
@@ -47,7 +53,7 @@ export function QuizBuilder({ topics }: { topics: TopicLite[] }) {
   const available = topics.filter((t) => selected.has(t.slug)).reduce((n, t) => n + t.mcqs, 0);
   const toggleWeek = (w: number) => {
     const ws = topics.filter((t) => t.week === w).map((t) => t.slug);
-    const all = ws.every((s) => selected.has(s));
+    const all = ws.every((s) => picked.has(s));
     setSelected((prev) => {
       const next = new Set(prev);
       ws.forEach((s) => (all ? next.delete(s) : next.add(s)));
@@ -87,7 +93,7 @@ export function QuizBuilder({ topics }: { topics: TopicLite[] }) {
       byTopic.set(q.topic, x);
     }
     return [...byTopic.entries()]
-      .filter(([, x]) => x.a >= 3)
+      .filter(([slug, x]) => x.a >= 3 && topics.some((t) => t.slug === slug))
       .map(([slug, x]) => ({ slug, acc: x.c / x.a, title: topics.find((t) => t.slug === slug)?.title ?? slug }))
       .sort((a, b) => a.acc - b.acc)
       .slice(0, 5);
@@ -100,7 +106,6 @@ export function QuizBuilder({ topics }: { topics: TopicLite[] }) {
       </div>
     );
 
-  const info = rotationInfo(state.settings.rotationStart, now);
   const soFar = topics.filter((t) => info.phase === "after" || (info.week !== null && t.week <= info.week)).map((t) => t.slug);
 
   return (
@@ -110,7 +115,7 @@ export function QuizBuilder({ topics }: { topics: TopicLite[] }) {
         <div className="grid gap-3 sm:grid-cols-3">
           <Preset
             icon={<Timer />}
-            title="Progressive test mock"
+            title={rotation.testDay !== null ? "Progressive test mock" : "Mock exam"}
             sub="50 Qs · 60 min · all topics"
             onClick={() => start({ slugs: topics.map((t) => t.slug), n: 50, m: "exam", f: "any" })}
           />
@@ -141,12 +146,20 @@ export function QuizBuilder({ topics }: { topics: TopicLite[] }) {
           </Field>
           <Field label={`Topics (${selected.size} selected · ${available} questions)`}>
             <div className="mb-2 flex flex-wrap gap-2">
-              <button className="chip hover:bg-line" onClick={() => setSelected(new Set(topics.map((t) => t.slug)))}>Select all</button>
-              <button className="chip hover:bg-line" onClick={() => setSelected(new Set())}>Clear</button>
+              <button className="chip hover:bg-line" onClick={() => setSelected((prev) => new Set([...prev, ...topics.map((t) => t.slug)]))}>
+                Select all
+              </button>
+              <button
+                className="chip hover:bg-line"
+                onClick={() => setSelected((prev) => new Set([...prev].filter((s) => !topics.some((t) => t.slug === s))))}
+              >
+                Clear
+              </button>
             </div>
             <div className="space-y-3">
               {WEEK_GROUPS.map((w) => {
                 const wt = topics.filter((t) => t.week === w);
+                if (!wt.length) return null;
                 const all = wt.every((t) => selected.has(t.slug));
                 return (
                   <div key={w}>

@@ -3,16 +3,40 @@
 import Link from "next/link";
 import { CheckCircle2, ChevronRight } from "lucide-react";
 import { useStudy } from "@/lib/store/study-store";
-import { weekLabel } from "@/content/curriculum";
+import { WEEK_GROUPS, weekLabel } from "@/content/curriculum";
+import { useRotation } from "@/lib/use-rotation";
 
-interface Group {
-  week: number;
-  theme: string;
-  cases: { id: string; title: string; slug: string; topicTitle: string; steps: number }[];
+interface CaseItem {
+  id: string;
+  title: string;
+  slug: string;
+  topicTitle: string;
+  steps: number;
 }
 
-export function CaseList({ groups }: { groups: Group[] }) {
+/** "12 cases" in the active rotation, for the page header. */
+export function CaseCount({ cases }: { cases: CaseItem[] }) {
+  const { rotation, slugs } = useRotation();
+  const n = cases.filter((c) => slugs.has(c.slug)).length;
+  return (
+    <span data-rot-scoped>
+      {rotation.name} · {n} {n === 1 ? "case" : "cases"}
+    </span>
+  );
+}
+
+/** The active rotation's cases, grouped by the week of their topic. */
+export function CaseList({ cases }: { cases: CaseItem[] }) {
   const { state } = useStudy();
+  const { rotation } = useRotation();
+  const weekOf = Object.fromEntries(rotation.topics.map((t) => [t.slug, t.week]));
+  const groups = WEEK_GROUPS.map((w) => ({ week: w, theme: rotation.weekThemes[w], cases: cases.filter((c) => weekOf[c.slug] === w) }));
+  if (!groups.some((g) => g.cases.length))
+    return (
+      <div className="card p-8 text-center text-ink-3">
+        Cases for {rotation.name} are being written. Check back soon, or try the flashcards and questions.
+      </div>
+    );
   return (
     <div className="space-y-8">
       {groups.map((g) =>

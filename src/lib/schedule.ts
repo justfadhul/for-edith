@@ -1,9 +1,13 @@
 import type { Session } from "@/content/curriculum";
 import type { SessionOverride } from "@/lib/store/study-store";
 
-/** Stable id for a timetable slot (its original day, time and subject). */
+/**
+ * Stable id for a timetable slot (its original day, time and subject). Sessions of rotations
+ * other than Obs & Gyn carry a prefix, so keys never collide and older Obs & Gyn keys still match.
+ */
 export function sessionKey(s: Session) {
-  return `d${s.day}|${s.time}|${s.topic ?? s.title}`;
+  const prefix = s.rotation && s.rotation !== "obgyn" ? `${s.rotation}:` : "";
+  return `${prefix}d${s.day}|${s.time}|${s.topic ?? s.title}`;
 }
 
 /** Only teaching tied to a topic can be moved (lectures, tutorials, skills, bedside). */

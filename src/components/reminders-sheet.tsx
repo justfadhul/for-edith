@@ -3,11 +3,12 @@
 import { useEffect, useState } from "react";
 import clsx from "clsx";
 import { Bell, CalendarPlus, Check, X } from "lucide-react";
-import { SESSIONS, TOPICS, type SessionMode } from "@/content/curriculum";
+import { TOPICS, type SessionMode } from "@/content/curriculum";
 import { useStudy } from "@/lib/store/study-store";
 import { effectiveSessions } from "@/lib/schedule";
-import { addDays, formatDay, rotationInfo } from "@/lib/dates";
+import { addDays, formatDay } from "@/lib/dates";
 import { useNow } from "@/lib/use-now";
+import { useRotation } from "@/lib/use-rotation";
 import Link from "next/link";
 import { buildIcs } from "@/lib/ics";
 
@@ -18,7 +19,7 @@ const GROUPS: { id: string; label: string; modes: SessionMode[]; on: boolean }[]
   { id: "teaching", label: "Lectures, tutorials, skills & bedside teaching", modes: ["Lecture", "Tutorial", "Skills session", "Bedside teaching"], on: true },
   { id: "assessment", label: "Assessments & the written test", modes: ["Assessment"], on: true },
   { id: "rounds", label: "Ward rounds & grand rounds", modes: ["Ward round", "Grand round"], on: false },
-  { id: "routine", label: "Clinical work & paediatrics", modes: ["Clinical work", "Paediatrics"], on: false },
+  { id: "routine", label: "Clinical work, integrated lectures & self-directed learning", modes: ["Clinical work", "Paediatrics", "Self-directed learning"], on: false },
 ];
 
 type Prefs = { groups: string[]; before: number[]; evening: boolean; daily: boolean; dailyAt: string };
@@ -51,7 +52,9 @@ export function RemindersSheet({ onClose }: { onClose: () => void }) {
   const [prefs, setPrefs] = useState<Prefs>(DEFAULTS);
   const [done, setDone] = useState(false);
   const now = useNow();
-  const info = rotationInfo(state.settings.rotationStart, now);
+  const { rotation, info } = useRotation();
+  // Only offer the kinds of session this rotation has.
+  const groups = GROUPS.filter((g) => rotation.sessions.some((s) => g.modes.includes(s.mode)));
 
   useEffect(() => {
     const frame = requestAnimationFrame(() => setPrefs(loadPrefs()));
@@ -75,13 +78,13 @@ export function RemindersSheet({ onClose }: { onClose: () => void }) {
   };
   const toggleIn = <T,>(list: T[], v: T) => (list.includes(v) ? list.filter((x) => x !== v) : [...list, v]);
 
-  const modes = new Set(GROUPS.filter((g) => prefs.groups.includes(g.id)).flatMap((g) => g.modes));
-  const sessions = effectiveSessions(SESSIONS, state.overrides).filter((s) => !s.ghostOf && modes.has(s.mode));
+  const modes = new Set(groups.filter((g) => prefs.groups.includes(g.id)).flatMap((g) => g.modes));
+  const sessions = effectiveSessions(rotation.sessions, state.overrides).filter((s) => !s.ghostOf && modes.has(s.mode));
   const moved = sessions.filter((s) => s.movedFrom).length;
 
   const download = () => {
-    const { start } = rotationInfo(state.settings.rotationStart);
-    const ics = buildIcs(effectiveSessions(SESSIONS, state.overrides), start, TITLES, {
+    const ics = buildIcs(effectiveSessions(rotation.sessions, state.overrides), info.start, TITLES, {
+      calendarName: rotation.name,
       modes,
       minutesBefore: prefs.before,
       eveningBefore: prefs.evening,
@@ -91,7 +94,7 @@ export function RemindersSheet({ onClose }: { onClose: () => void }) {
     const url = URL.createObjectURL(new Blob([ics], { type: "text/calendar;charset=utf-8" }));
     const a = document.createElement("a");
     a.href = url;
-    a.download = "for-edith-timetable.ics";
+    a.download = `for-edith-${rotation.id}-timetable.ics`;
     document.body.appendChild(a);
     a.click();
     a.remove();
@@ -117,7 +120,9 @@ export function RemindersSheet({ onClose }: { onClose: () => void }) {
             <h2 id="reminders-title" className="text-[19px] font-semibold leading-snug tracking-[-0.02em]">
               Reminders on your phone
             </h2>
-            <p className="mt-0.5 text-[13px] leading-snug text-ink-3">Adds your timetable to your phone&apos;s calendar, which alerts you even when this site is closed.</p>
+            <p className="mt-0.5 text-[13px] leading-snug text-ink-3">
+              Adds your {rotation.name} timetable to your phone&apos;s calendar, which alerts you even when this site is closed.
+            </p>
           </div>
           <button onClick={onClose} aria-label="Close" className="grid h-9 w-9 shrink-0 place-items-center rounded-lg text-ink-3 hover:bg-surface-2">
             <X size={18} />
@@ -126,9 +131,9 @@ export function RemindersSheet({ onClose }: { onClose: () => void }) {
 
         {now > 0 && info.phase === "after" && (
           <div className="mt-4 rounded-xl border border-peach/30 bg-peach-soft px-3.5 py-2.5 text-[13px] leading-snug text-ink-2">
-            <b className="text-peach-text">Check your dates.</b> Your rotation is set to start on{" "}
+            <b className="text-peach-text">Check your dates.</b> Your {rotation.name} rotation is set to start on{" "}
             {formatDay(info.start, { weekday: "short", day: "numeric", month: "short" })} and ended on{" "}
-            {formatDay(addDays(info.start, 39), { day: "numeric", month: "short" })}, so these reminders would be in the past.{" "}
+            {formatDay(addDays(info.start, rotation.lastDay), { day: "numeric", month: "short" })}, so these reminders would be in the past.{" "}
             <Link href="/account" className="font-medium text-brand-text underline">
               Set your start date
             </Link>{" "}
@@ -137,7 +142,7 @@ export function RemindersSheet({ onClose }: { onClose: () => void }) {
         )}
 
         <Section title="Include">
-          {GROUPS.map((g) => (
+          {groups.map((g) => (
             <Check_ key={g.id} checked={prefs.groups.includes(g.id)} onChange={() => update({ groups: toggleIn(prefs.groups, g.id) })}>
               {g.label}
             </Check_>

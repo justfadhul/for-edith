@@ -6,7 +6,14 @@ import { QuizBuilder } from "@/components/quiz-builder";
 export const metadata: Metadata = { title: "Quiz" };
 
 export default function QuizPage() {
-  const topics = topicSummaries().map((t) => ({ slug: t.slug, title: t.title, week: t.week, mcqs: t.counts.mcqs }));
+  const topics = topicSummaries().map((t) => ({
+    slug: t.slug,
+    title: t.title,
+    week: t.week,
+    mcqs: t.counts.mcqs,
+    rotation: t.rotation,
+    ...(t.sharedWith ? { sharedWith: t.sharedWith } : {}),
+  }));
   return (
     <>
       <PageHeader eyebrow="Single best answer" title="Quiz & mock exams">

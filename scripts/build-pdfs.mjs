@@ -13,7 +13,8 @@ import rehypeSlug from "rehype-slug";
 import rehypeStringify from "rehype-stringify";
 import { chromium } from "playwright-core";
 import { rehypeCallouts } from "../src/lib/rehype-callouts.mjs";
-import { TOPICS, WEEK_THEMES } from "../src/content/curriculum.ts";
+import { TOPICS } from "../src/content/curriculum.ts";
+import { ROTATIONS } from "../src/content/rotations.ts";
 import { PDF_DIR, MANIFEST, topicHash, quickRefHash, readManifest } from "./pdf/hash.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
@@ -212,11 +213,11 @@ function topicHtml(topic, notes, study) {
   return page(
     topic.title,
     `<header class="cover">
-      <div class="eyebrow">For Edith · Obstetrics &amp; Gynaecology junior clerkship</div>
+      <div class="eyebrow">For Edith · ${esc(ROTATIONS[topic.rotation].longName)} junior clerkship</div>
       <h1>${esc(topic.title)}</h1>
       <div class="meta">
         <span class="chip brand">${kindLabel}</span>
-        ${topic.week ? `<span class="chip">Week ${topic.week} · ${esc(WEEK_THEMES[topic.week] ?? "")}</span>` : ""}
+        ${topic.week ? `<span class="chip">Week ${topic.week} · ${esc(ROTATIONS[topic.rotation].weekThemes[topic.week] ?? "")}</span>` : ""}
         ${topic.week && topic.discipline !== "skills" ? `<span class="chip" style="text-transform:capitalize">${esc(topic.discipline)}</span>` : ""}
         ${topic.faculty?.length ? `<span class="chip">${esc(topic.faculty.join(", "))}</span>` : ""}
       </div>
@@ -239,6 +240,12 @@ function quickRefHtml(src) {
   );
 }
 
+/** A topic's study.json, or an empty one while it is still being written. */
+function readStudy(slug) {
+  const file = path.join(root, "content/topics", slug, "study.json");
+  return fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, "utf8")) : { flashcards: [], mcqs: [], cases: [], references: [] };
+}
+
 // ---- build ----
 fs.mkdirSync(PDF_DIR, { recursive: true });
 const manifest = readManifest();
@@ -255,7 +262,7 @@ for (const t of TOPICS) {
     hash,
     out,
     title: t.title,
-    html: () => topicHtml(t, fs.readFileSync(notes, "utf8"), JSON.parse(fs.readFileSync(path.join(root, "content/topics", t.slug, "study.json"), "utf8"))),
+    html: () => topicHtml(t, fs.readFileSync(notes, "utf8"), readStudy(t.slug)),
   });
 }
 const qrFile = path.join(root, "content/quick-reference.md");

@@ -2,7 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ChevronLeft, ChevronRight, Sparkles, BookOpen, GraduationCap, Wrench, Pill } from "lucide-react";
-import { TOPICS, SESSIONS, WEEK_THEMES, REFERENCE_WEEK } from "@/content/curriculum";
+import { TOPICS, REFERENCE_WEEK } from "@/content/curriculum";
+import { ROTATIONS, rotationNeighbours } from "@/content/rotations";
 import { loadTopic } from "@/lib/content";
 import { Markdown } from "@/components/markdown";
 import { KindChip } from "@/components/ui";
@@ -29,10 +30,10 @@ export default async function TopicPage(props: PageProps<"/topics/[slug]">) {
   const c = loadTopic(slug);
   if (!c) notFound();
   const { topic, study } = c;
-  const i = TOPICS.findIndex((t) => t.slug === slug);
-  const prev = TOPICS[i - 1];
-  const next = TOPICS[i + 1];
-  const sessions = SESSIONS.filter((s) => s.topic === slug);
+  const rotation = ROTATIONS[topic.rotation];
+  // Previous / next within the topic's own rotation.
+  const { prev, next } = rotationNeighbours(slug);
+  const sessions = rotation.sessions.filter((s) => s.topic === slug);
   const questions = study.mcqs.map((q) => ({ ...q, topic: slug }));
   const cards = study.flashcards.map((f) => ({ ...f, topic: slug }));
 
@@ -46,18 +47,18 @@ export default async function TopicPage(props: PageProps<"/topics/[slug]">) {
   ]
     .map((j) => ({ ...j, h: c.headings.find((h) => h.depth === 2 && j.re.test(h.text)) }))
     .filter((j) => j.h);
-  // The drug handbook is split into chapters with their own pages.
-  const handbook =
-    topic.kind === "reference"
-      ? drugHandbook().map(({ slug: g, title, blurb, icon, tone, items }) => ({
-          slug: g,
-          title,
-          blurb,
-          icon,
-          tone,
-          items: items.map(({ id, text }) => ({ id, text })),
-        }))
-      : null;
+  // A drug handbook (reference topic with notes) is split into chapters with their own pages.
+  const chapters = topic.kind === "reference" ? drugHandbook(slug) : [];
+  const handbook = chapters.length
+    ? chapters.map(({ slug: g, title, blurb, icon, tone, items }) => ({
+        slug: g,
+        title,
+        blurb,
+        icon,
+        tone,
+        items: items.map(({ id, text }) => ({ id, text })),
+      }))
+    : null;
   if (handbook) jump.length = 0;
   const Icon = KIND_ICON[topic.kind];
 
@@ -72,8 +73,21 @@ export default async function TopicPage(props: PageProps<"/topics/[slug]">) {
           <div className="flex min-w-0 flex-1 flex-col gap-2">
             <div className="flex flex-wrap items-center gap-1.5">
               <KindChip kind={topic.kind} />
-              {topic.discipline !== "skills" && topic.week !== REFERENCE_WEEK && <span className="chip capitalize">{topic.discipline}</span>}
-              {topic.week !== REFERENCE_WEEK && <span className="chip">Week {topic.week}</span>}
+              {topic.discipline !== "skills" && topic.discipline !== "paediatrics" && topic.week !== REFERENCE_WEEK && (
+                <span className="chip capitalize">{topic.discipline}</span>
+              )}
+              <span className="chip">{rotation.name}</span>
+              {topic.week !== REFERENCE_WEEK && (
+                <span className="chip">
+                  Week {topic.week} · {rotation.weekThemes[topic.week]}
+                </span>
+              )}
+              {sessions.some((x) => x.presenting) && <span className="chip !border-transparent !bg-brand !text-white">You&apos;re presenting</span>}
+              {topic.sharedWith?.map((r) => (
+                <span key={r} className="chip">
+                  Also in {ROTATIONS[r].name}
+                </span>
+              ))}
               {c.wordCount > 0 && <span className="chip">{Math.max(1, Math.round(c.wordCount / 200))} min read</span>}
               <div className="ml-auto hidden sm:block">
                 <TopicHeaderActions slug={slug} title={topic.title} />
@@ -162,8 +176,9 @@ export default async function TopicPage(props: PageProps<"/topics/[slug]">) {
               slug={slug}
               counts={{ flashcards: cards.length, mcqs: questions.length, cases: study.cases.length }}
               sessions={sessions}
+              rotation={topic.rotation}
               faculty={topic.faculty}
-              weekLabel={topic.week === REFERENCE_WEEK ? "Reference · not timetabled" : `${topic.week} · ${WEEK_THEMES[topic.week]}`}
+              weekLabel={topic.week === REFERENCE_WEEK ? "Reference · not timetabled" : `${topic.week} · ${rotation.weekThemes[topic.week]}`}
             />
             <div className="border-t border-line pt-4">
               <div className="mb-2 text-[12px] font-medium text-ink-3">{handbook ? "Chapters" : "On this page"}</div>

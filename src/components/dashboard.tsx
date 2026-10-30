@@ -3,14 +3,16 @@
 import Link from "next/link";
 import clsx from "clsx";
 import { ArrowRight, Check, ChevronRight, Flame, Layers, ListChecks, Stethoscope, BookOpen } from "lucide-react";
-import { WEEK_THEMES, WEEKS, type Session } from "@/content/curriculum";
+import { WEEKS } from "@/content/curriculum";
+import { forRotation } from "@/content/rotations";
 import type { TopicSummary } from "@/lib/types";
 import { useStudy, type StudyState } from "@/lib/store/study-store";
 import { cardsDue, quizAccuracy, studyStreak } from "@/lib/store/selectors";
-import { addDays, formatDay, rotationInfo, toISODate } from "@/lib/dates";
+import { addDays, formatDay, toISODate, type RotationInfo } from "@/lib/dates";
 import { useNow } from "@/lib/use-now";
 import { parseTimeRange, topicPrep } from "@/lib/prep";
 import { effectiveSessions } from "@/lib/schedule";
+import { useRotation } from "@/lib/use-rotation";
 
 interface CaseLink {
   id: string;
@@ -22,14 +24,17 @@ interface CaseLink {
 
 const MODE_LABEL: Record<string, string> = { Lecture: "Lecture", Tutorial: "Tutorial", "Skills session": "Skills session", "Bedside teaching": "Bedside teaching" };
 
-export function Dashboard({ topics, sessions, cases }: { topics: TopicSummary[]; sessions: Session[]; cases: CaseLink[] }) {
+export function Dashboard({ topics: allTopics, cases: allCases }: { topics: TopicSummary[]; cases: CaseLink[] }) {
   const { state, hydrated } = useStudy();
   const now = useNow();
-  const info = rotationInfo(state.settings.rotationStart, now);
+  const { rotation, info, slugs } = useRotation();
+  const sessions = rotation.sessions;
+  const topics = forRotation(allTopics, rotation.id);
+  const cases = allCases.filter((c) => slugs.has(c.slug));
   const done = topics.filter((t) => state.topics[t.slug]?.status === "done").length;
   const totalCards = topics.reduce((n, t) => n + t.counts.flashcards, 0);
-  const seenCards = Object.keys(state.cards).length;
-  const due = hydrated ? cardsDue(state, now || undefined) : 0;
+  const seenCards = Object.values(state.cards).filter((c) => slugs.has(c.topic)).length;
+  const due = hydrated ? cardsDue(state, now || undefined, slugs) : 0;
   const acc = quizAccuracy(state);
   const streak = studyStreak(state);
   const bySlug = Object.fromEntries(topics.map((t) => [t.slug, t]));
@@ -79,7 +84,7 @@ export function Dashboard({ topics, sessions, cases }: { topics: TopicSummary[];
         <div className="flex flex-1 flex-col gap-2.5">
           <div className="text-[13px] text-ink-3">
             {todayLabel}
-            {info.phase === "during" && ` · Week ${info.week} of 6`}
+            {info.phase === "during" && ` · ${rotation.name} week ${info.week} of 6`}
           </div>
           <h1 className="h-display !text-[clamp(2.5rem,1.8rem+2.6vw,3.5rem)] !leading-none">
             {greeting(now)}, <em>{name}</em>
@@ -87,6 +92,8 @@ export function Dashboard({ topics, sessions, cases }: { topics: TopicSummary[];
           <RotationBar
             info={info}
             hydrated={hydrated}
+            daysPerWeek={rotation.daysPerWeek}
+            totalDays={rotation.lastDay + 1}
             weekDone={WEEKS.map((w) => {
               const wt = topics.filter((t) => t.week === w);
               return wt.length ? wt.filter((t) => state.topics[t.slug]?.status === "done").length / wt.length : 0;
@@ -102,13 +109,13 @@ export function Dashboard({ topics, sessions, cases }: { topics: TopicSummary[];
                         : nextSession.day === info.dayIndex + 1
                           ? `tomorrow ${nextSession.time.split("–")[0]}`
                           : `${formatDay(addDays(info.start, nextSession.day), { weekday: "short", day: "numeric", month: "short" })} ${nextSession.time.split("–")[0]}`,
-                    mode: nextSession.mode,
+                    mode: nextSession.presenting ? "you're presenting" : nextSession.mode,
                   }
                 : null
             }
           />
         </div>
-        <Countdown info={info} done={done} total={topics.length} hydrated={hydrated} />
+        <Countdown info={info} done={done} total={topics.length} hydrated={hydrated} hasTest={rotation.testDay !== null} />
       </section>
 
       {/* Up next + side stack */}
@@ -119,6 +126,9 @@ export function Dashboard({ topics, sessions, cases }: { topics: TopicSummary[];
               <span className="h-1.5 w-1.5 rounded-full bg-brand" />
               {sessionWhen}
             </span>
+            {nextSession?.presenting && (
+              <span className="inline-flex items-center gap-1 rounded-full bg-brand px-2.5 py-0.5 font-medium text-white">You&apos;re presenting</span>
+            )}
             {nextSession?.movedFrom && (
               <Link href="/schedule" className="inline-flex items-center gap-1 rounded-full bg-peach-soft px-2.5 py-0.5 font-medium text-peach-text">
                 Rescheduled from {formatDay(addDays(info.start, nextSession.movedFrom.day), { weekday: "short", day: "numeric" })}{" "}
@@ -241,10 +251,10 @@ export function Dashboard({ topics, sessions, cases }: { topics: TopicSummary[];
                 )}
               >
                 <span className={clsx("font-semibold", current && "text-brand-text")}>Week {w}</span>
-                <span className={clsx("truncate", current && "font-medium")}>{WEEK_THEMES[w]}</span>
+                <span className={clsx("truncate", current && "font-medium")}>{rotation.weekThemes[w]}</span>
                 <span className="hidden text-ink-2 sm:block">{wt.length} topics</span>
                 <span className="h-[5px] rounded-full bg-surface-3">
-                  <span className="block h-full rounded-full bg-brand" style={{ width: `${(wd / wt.length) * 100}%` }} />
+                  <span className="block h-full rounded-full bg-brand" style={{ width: `${wt.length ? (wd / wt.length) * 100 : 0}%` }} />
                 </span>
                 <span className={clsx("hidden justify-self-start rounded-md px-2 py-0.5 text-[12px] font-medium sm:block", status.cls)}>{status.label}</span>
               </Link>
@@ -282,22 +292,26 @@ function greeting(now: number) {
 function RotationBar({
   info,
   hydrated,
+  daysPerWeek,
+  totalDays,
   weekDone,
   next,
 }: {
-  info: ReturnType<typeof rotationInfo>;
+  info: RotationInfo;
   hydrated: boolean;
+  daysPerWeek: number;
+  totalDays: number;
   weekDone: number[];
   next: { href: string; title: string; when: string; mode: string } | null;
 }) {
   const byTime = info.phase !== "after";
   const fill = (i: number) =>
-    !hydrated ? 0 : byTime ? Math.min(1, Math.max(0, (info.dayIndex + 1 - i * 7) / 5)) : weekDone[i];
+    !hydrated ? 0 : byTime ? Math.min(1, Math.max(0, (info.dayIndex + 1 - i * 7) / daysPerWeek)) : weekDone[i];
   const label =
     info.phase === "before"
       ? `Starts in ${-info.dayIndex} day${info.dayIndex === -1 ? "" : "s"}`
       : info.phase === "during"
-        ? `Day ${Math.min(40, info.dayIndex + 1)} of 40`
+        ? `Day ${Math.min(totalDays, info.dayIndex + 1)} of ${totalDays}`
         : "Rotation complete · topics revised";
   return (
     <div className="flex max-w-xl flex-col gap-2 pt-1">
@@ -330,15 +344,15 @@ function RotationBar({
   );
 }
 
-function Countdown({ info, done, total, hydrated }: { info: ReturnType<typeof rotationInfo>; done: number; total: number; hydrated: boolean }) {
-  const pct = hydrated ? done / total : 0;
+function Countdown({ info, done, total, hydrated, hasTest }: { info: RotationInfo; done: number; total: number; hydrated: boolean; hasTest: boolean }) {
+  const pct = hydrated && total ? done / total : 0;
   return (
     <div className="flex items-center gap-3.5 self-start rounded-[14px] border border-line bg-surface px-4 py-3.5 md:self-auto">
       <div className="grid h-[52px] w-[52px] place-items-center rounded-full" style={{ background: `conic-gradient(var(--brand) 0 ${pct * 100}%, var(--surface-3) ${pct * 100}% 100%)` }}>
         <div className="grid h-[42px] w-[42px] place-items-center rounded-full bg-surface text-[13px] font-semibold tabular-nums">{Math.round(pct * 100)}%</div>
       </div>
       <div className="flex flex-col gap-0.5">
-        <div className="text-[13px] font-semibold">{info.phase === "before" ? "Rotation starts" : info.phase === "during" ? "Progressive test" : "Rotation complete"}</div>
+        <div className="text-[13px] font-semibold">{info.phase === "before" ? "Rotation starts" : info.phase === "during" ? (hasTest ? "Progressive test" : "Rotation ends") : "Rotation complete"}</div>
         <div className="text-[13px] text-ink-2">
           {info.phase === "before" && (
             <>

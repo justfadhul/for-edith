@@ -5,6 +5,8 @@ import Link from "next/link";
 import { BookOpen, Hash, Layers, Sparkles } from "lucide-react";
 import type { SearchEntry } from "@/lib/types";
 import { weekLabel } from "@/content/curriculum";
+import { ROTATIONS, topicInRotation } from "@/content/rotations";
+import { useRotation } from "@/lib/use-rotation";
 
 const KIND_ICON = {
   topic: <BookOpen size={16} />,
@@ -45,6 +47,7 @@ export function SearchView() {
   const [index, setIndex] = useState<SearchEntry[] | null>(null);
   const [q, setQ] = useState("");
   const inputRef = useRef<HTMLInputElement>(null);
+  const { id: rotation } = useRotation();
 
   useEffect(() => {
     inputRef.current?.focus();
@@ -67,13 +70,15 @@ export function SearchView() {
       if (!variants.every((vs) => vs.some((v) => hay.includes(v)))) continue;
       const first = variants[0].find((v) => hay.includes(v))!;
       let score = KIND_WEIGHT[e.kind] + (e.slug === "quick-reference" ? 12 : 0);
+      // Prefer the active rotation's topics.
+      if (e.rotation && topicInRotation({ rotation: e.rotation, sharedWith: e.sharedWith }, rotation)) score += 8;
       if (variants.some((vs) => vs.some((v) => norm(e.title).includes(v)))) score += 20;
       if (e.heading && variants.some((vs) => vs.some((v) => norm(e.heading!).includes(v)))) score += 15;
       score += Math.min(10, hay.split(first).length - 1);
       scored.push({ e, score, hit: first });
     }
     return scored.sort((a, b) => b.score - a.score).slice(0, 60);
-  }, [index, q]);
+  }, [index, q, rotation]);
 
   return (
     <div className="mx-auto max-w-3xl">
@@ -106,7 +111,9 @@ export function SearchView() {
                 <span className="mt-0.5 text-brand">{KIND_ICON[r.kind]}</span>
                 <div className="min-w-0 flex-1">
                   <div className="text-xs text-ink-3">
-                    {r.slug !== "quick-reference" ? `${KIND_LABEL[r.kind]} · ${weekLabel(r.week)} · ${r.title}` : "⚡ Quick reference"}
+                    {r.slug !== "quick-reference"
+                      ? `${KIND_LABEL[r.kind]} · ${r.rotation ? `${ROTATIONS[r.rotation].name} ` : ""}${weekLabel(r.week)} · ${r.title}`
+                      : "⚡ Quick reference"}
                   </div>
                   {r.heading && <div className="text-sm font-semibold">{r.heading}</div>}
                   <div className="line-clamp-3 text-sm text-ink-2">{r.kind === "topic" ? r.title : snippet(r.text, hit)}</div>

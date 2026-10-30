@@ -5,29 +5,31 @@ import { ChevronLeft, ChevronRight, ListChecks, Layers } from "lucide-react";
 import { Markdown } from "@/components/markdown";
 import { ChapterList, GroupIcon } from "@/components/drug-handbook";
 import { TableOfContents } from "@/components/topic-view";
-import { drugHandbook, HANDBOOK_SLUG } from "@/lib/drug-handbook";
+import { drugHandbook } from "@/lib/drug-handbook";
+import { TOPICS, TOPIC_BY_SLUG } from "@/content/curriculum";
 
 export const dynamicParams = false;
 
+/** Chapters of every drug handbook (reference topic) that has notes. */
 export function generateStaticParams() {
-  return drugHandbook().map((g) => ({ slug: HANDBOOK_SLUG, section: g.slug }));
+  return TOPICS.filter((t) => t.kind === "reference").flatMap((t) => drugHandbook(t.slug).map((g) => ({ slug: t.slug, section: g.slug })));
 }
 
 export async function generateMetadata(props: PageProps<"/topics/[slug]/[section]">): Promise<Metadata> {
-  const { section } = await props.params;
-  const g = drugHandbook().find((g) => g.slug === section);
+  const { slug, section } = await props.params;
+  const g = TOPIC_BY_SLUG[slug]?.kind === "reference" ? drugHandbook(slug).find((g) => g.slug === section) : undefined;
   return g ? { title: `${g.title} · Drug handbook`, description: g.blurb } : {};
 }
 
 export default async function DrugChapterPage(props: PageProps<"/topics/[slug]/[section]">) {
   const { slug, section } = await props.params;
-  const groups = drugHandbook();
+  const groups = TOPIC_BY_SLUG[slug]?.kind === "reference" ? drugHandbook(slug) : [];
   const i = groups.findIndex((g) => g.slug === section);
-  if (slug !== HANDBOOK_SLUG || i < 0) notFound();
+  if (i < 0) notFound();
   const g = groups[i];
   const prev = groups[i - 1];
   const next = groups[i + 1];
-  const base = `/topics/${HANDBOOK_SLUG}`;
+  const base = `/topics/${slug}`;
   const cards = groups.map(({ slug, title, blurb, icon, tone, items }) => ({ slug, title, blurb, icon, tone, items: items.map(({ id, text }) => ({ id, text })) }));
 
   return (

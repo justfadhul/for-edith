@@ -3,11 +3,13 @@
 import { useState } from "react";
 import Link from "next/link";
 import clsx from "clsx";
-import { ArrowRight, Check, ChevronLeft, ChevronRight, MoveRight } from "lucide-react";
-import { WEEKS, WEEK_THEMES, type Session, type SessionMode } from "@/content/curriculum";
+import { ArrowRight, Check, ChevronLeft, ChevronRight, MapPin, MoveRight } from "lucide-react";
+import { WEEKS, type Session, type SessionMode } from "@/content/curriculum";
+import type { RotationConfig } from "@/content/rotations";
 import { useStudy, type StudyState } from "@/lib/store/study-store";
-import { addDays, formatDay, rotationInfo } from "@/lib/dates";
+import { addDays, formatDay } from "@/lib/dates";
 import { useNow } from "@/lib/use-now";
+import { useRotation } from "@/lib/use-rotation";
 import { fmtHour, parseTimeRange } from "@/lib/prep";
 import { effectiveSessions, type EffectiveSession } from "@/lib/schedule";
 import { RescheduleSheet } from "@/components/reschedule-sheet";
@@ -26,6 +28,7 @@ const CAT_OF: Record<SessionMode, Cat> = {
   Assessment: "assessment",
   "Clinical work": "routine",
   Paediatrics: "routine",
+  "Self-directed learning": "routine",
 };
 
 // `tone` names the CSS colour tokens (--x, --x-soft, --x-text) used for the card.
@@ -82,10 +85,20 @@ function layoutDay(items: EffectiveSession[]): Ev[] {
   return evs;
 }
 
-export function Timetable({ sessions, titles }: { sessions: Session[]; titles: Record<string, string> }) {
+/** "You're presenting" tag for the tutorials Edith presents. */
+function PresentingBadge({ short = false, className }: { short?: boolean; className?: string }) {
+  return (
+    <span title="You're presenting" className={clsx("shrink-0 rounded-full bg-brand px-1.5 text-[10px] font-semibold leading-4 text-white", className)}>
+      {short ? "Presenting" : "You’re presenting"}
+    </span>
+  );
+}
+
+export function Timetable({ titles }: { titles: Record<string, string> }) {
   const { state } = useStudy();
   const now = useNow();
-  const info = rotationInfo(state.settings.rotationStart, now);
+  const { rotation, info } = useRotation();
+  const sessions = rotation.sessions;
   const defaultWeek = info.week ?? (info.phase === "before" ? 1 : 6);
   const [week, setWeek] = useState<number | null>(null);
   const w = week ?? defaultWeek;
@@ -93,7 +106,8 @@ export function Timetable({ sessions, titles }: { sessions: Session[]; titles: R
   const [hidden, setHidden] = useState<Set<Cat>>(() => new Set<Cat>(["routine"]));
   const todayIdx = info.dayIndex;
   const [pickedDay, setPickedDay] = useState<number | null>(null);
-  const days = [0, 1, 2, 3, 4].map((d) => (w - 1) * 7 + d);
+  const days = Array.from({ length: rotation.daysPerWeek }, (_, d) => (w - 1) * 7 + d);
+  const cols = { gridTemplateColumns: `56px repeat(${days.length}, minmax(0, 1fr))` };
   const dayOfWeek = pickedDay !== null && days.includes(pickedDay) ? pickedDay : days.includes(todayIdx) ? todayIdx : days[0];
 
   const [open, setOpen] = useState<EffectiveSession | null>(null);
@@ -105,7 +119,7 @@ export function Timetable({ sessions, titles }: { sessions: Session[]; titles: R
   const nowH = now ? new Date(now).getHours() + new Date(now).getMinutes() / 60 : -1;
   const weekHours = hourRange(days.flatMap((d) => byDay[d]));
   const first = addDays(info.start, days[0]);
-  const last = addDays(info.start, days[4]);
+  const last = addDays(info.start, days[days.length - 1]);
   const range = `${first.getDate()}–${last.getDate()} ${formatDay(last, { month: "short" })}`;
   const live = eff.filter((s) => !s.ghostOf);
   const teachingCount = live.filter((s) => days.includes(s.day) && s.topic).length;
@@ -157,8 +171,13 @@ export function Timetable({ sessions, titles }: { sessions: Session[]; titles: R
         </div>
       </div>
       <p className="-mt-2 text-[13.5px] text-ink-2">
-        {WEEK_THEMES[w]} · {teachingCount} teaching sessions{toPrepare ? ` · ${toPrepare} still to prepare` : " · all prepared"}
+        {rotation.weekThemes[w]} · {teachingCount} teaching sessions{toPrepare ? ` · ${toPrepare} still to prepare` : " · all prepared"}
       </p>
+      {rotation.weekNotes[w] && (
+        <div className="-mt-1 flex items-center gap-2 rounded-[14px] border border-lilac/25 bg-lilac-soft px-4 py-2.5 text-[13.5px] font-medium text-lilac-text">
+          <MapPin size={15} className="shrink-0" /> {rotation.weekNotes[w]}
+        </div>
+      )}
 
       {/* Filters */}
       <div className="no-scrollbar -mx-4 flex gap-1.5 overflow-x-auto px-4 sm:mx-0 sm:flex-wrap sm:px-0">
@@ -206,7 +225,7 @@ export function Timetable({ sessions, titles }: { sessions: Session[]; titles: R
         <>
           {/* Desktop week grid */}
           <div className="card hidden overflow-hidden md:block">
-            <div className="grid grid-cols-[56px_repeat(5,minmax(0,1fr))] border-b border-line">
+            <div className="grid border-b border-line" style={cols}>
               <div />
               {days.map((d) => {
                 const date = addDays(info.start, d);
@@ -227,7 +246,7 @@ export function Timetable({ sessions, titles }: { sessions: Session[]; titles: R
                 );
               })}
             </div>
-            <div className="grid grid-cols-[56px_repeat(5,minmax(0,1fr))] py-2">
+            <div className="grid py-2" style={cols}>
               <HourGutter from={weekHours.from} to={weekHours.to} hour={60} />
               {days.map((d) => (
                 <DayColumn
@@ -249,7 +268,7 @@ export function Timetable({ sessions, titles }: { sessions: Session[]; titles: R
 
           {/* Phone: week strip + day timeline */}
           <div className="md:hidden">
-            <div className="grid grid-cols-5 gap-1.5 border-b border-line pb-3">
+            <div className="grid gap-1.5 border-b border-line pb-3" style={{ gridTemplateColumns: `repeat(${days.length}, minmax(0, 1fr))` }}>
               {days.map((d) => {
                 const date = addDays(info.start, d);
                 const sel = d === dayOfWeek;
@@ -282,7 +301,7 @@ export function Timetable({ sessions, titles }: { sessions: Session[]; titles: R
           </div>
         </>
       ) : (
-        <Agenda sessions={visible.filter((s) => !s.ghostOf)} titles={titles} state={state} now={now} />
+        <Agenda sessions={visible.filter((s) => !s.ghostOf)} titles={titles} rotation={rotation} start={info.start} todayIdx={todayIdx} />
       )}
       {open && <RescheduleSheet session={open} title={open.topic ? titles[open.topic] ?? open.title : open.title} onClose={() => setOpen(null)} />}
     </div>
@@ -361,7 +380,7 @@ function DayColumn({
           left: `calc(${(e.col / e.cols) * 100}% + ${gap}px)`,
           width: `calc(${100 / e.cols}% - ${gap * 2}px)`,
         };
-        const compact = height < 56;
+        const compact = height < 60;
 
         if (e.ghostOf) {
           return (
@@ -389,9 +408,10 @@ function DayColumn({
           <>
             <span className={clsx("flex items-center gap-1.5 text-[11.5px] tabular-nums", assessment ? "text-white/70" : "text-ink-2")}>
               {!c.muted && !assessment && <span className={clsx("h-1.5 w-1.5 shrink-0 rounded-full", c.dot)} />}
-              <span className="truncate">{e.time}</span>
+              <span className={e.presenting ? "shrink-0" : "truncate"}>{e.time}</span>
               {live && <span className="rounded-full bg-brand px-1.5 text-[10px] font-semibold leading-4 text-white">Now</span>}
               {e.movedFrom && <span className="rounded-full bg-peach px-1.5 text-[10px] font-semibold leading-4 text-white">Moved</span>}
+              {e.presenting && <PresentingBadge short className="min-w-0 truncate" />}
               {e.topic && (
                 <span className="ml-auto flex">
                   <PrepDot status={state.topics[e.topic]?.status} />
@@ -421,6 +441,7 @@ function DayColumn({
           "absolute flex flex-col gap-0.5 overflow-hidden rounded-[10px] border px-2.5 py-1.5 text-left",
           live && "shadow-pop",
           e.movedFrom && "outline outline-1 outline-offset-1 outline-peach/60",
+          e.presenting && !e.movedFrom && "outline outline-[1.5px] outline-offset-1 outline-brand/70",
           e.topic && "transition hover:shadow-card hover:brightness-[0.985]",
         );
         return e.topic ? (
@@ -497,6 +518,7 @@ function DayList({
                 )}
                 {live && <span className="rounded-full bg-brand px-1.5 text-[10px] font-semibold leading-4 text-white">Now</span>}
                 {e.movedFrom && <span className="rounded-full bg-peach px-1.5 text-[10px] font-semibold leading-4 text-white">Moved</span>}
+                {e.presenting && !e.ghostOf && <PresentingBadge />}
               </span>
               <span
                 className={clsx(
@@ -536,26 +558,42 @@ function DayList({
   );
 }
 
-function Agenda({ sessions, titles, state, now }: { sessions: Session[]; titles: Record<string, string>; state: StudyState; now: number }) {
-  const info = rotationInfo(state.settings.rotationStart, now);
+function Agenda({
+  sessions,
+  titles,
+  rotation,
+  start,
+  todayIdx,
+}: {
+  sessions: Session[];
+  titles: Record<string, string>;
+  rotation: RotationConfig;
+  start: Date;
+  todayIdx: number;
+}) {
   return (
     <div className="flex flex-col gap-8">
       {WEEKS.map((w) => {
-        const days = [0, 1, 2, 3, 4].map((d) => (w - 1) * 7 + d);
+        const days = Array.from({ length: rotation.daysPerWeek }, (_, d) => (w - 1) * 7 + d);
         return (
           <section key={w}>
             <h2 className="h-section mb-3">
-              <span className="text-brand-text">Week {w}</span> · {WEEK_THEMES[w]}
+              <span className="text-brand-text">Week {w}</span> · {rotation.weekThemes[w]}
             </h2>
+            {rotation.weekNotes[w] && (
+              <p className="-mt-1.5 mb-3 flex items-center gap-1.5 text-[13px] font-medium text-lilac-text">
+                <MapPin size={14} /> {rotation.weekNotes[w]}
+              </p>
+            )}
             <div className="flex flex-col gap-3">
               {days.map((day) => {
                 const items = sessions.filter((s) => s.day === day);
                 if (!items.length) return null;
-                const isToday = day === info.dayIndex;
+                const isToday = day === todayIdx;
                 return (
                   <div key={day} className={clsx("card overflow-hidden", isToday && "!border-brand-line")}>
                     <div className={clsx("flex items-center justify-between px-4 py-2 text-[13px] font-semibold", isToday ? "bg-brand text-white" : "bg-surface-2")}>
-                      <span>{formatDay(addDays(info.start, day), { weekday: "long", day: "numeric", month: "long" })}</span>
+                      <span>{formatDay(addDays(start, day), { weekday: "long", day: "numeric", month: "long" })}</span>
                       {isToday && <span>Today</span>}
                     </div>
                     <ul className="divide-y divide-line">
@@ -566,7 +604,10 @@ function Agenda({ sessions, titles, state, now }: { sessions: Session[]; titles:
                             <span className="w-24 shrink-0 text-[12px] font-medium tabular-nums text-ink-3">{s.time}</span>
                             <span className={clsx("mt-1.5 h-2 w-2 shrink-0 rounded-[3px]", c.dot)} />
                             <span className="min-w-0 flex-1">
-                              <span className="block text-[14px] font-medium leading-snug">{s.topic ? titles[s.topic] ?? s.title : s.title}</span>
+                              <span className="flex flex-wrap items-center gap-x-2 gap-y-0.5 text-[14px] font-medium leading-snug">
+                                {s.topic ? titles[s.topic] ?? s.title : s.title}
+                                {s.presenting && <PresentingBadge />}
+                              </span>
                               <span className="block text-[12px] text-ink-3">
                                 {s.mode}
                                 {s.faculty && ` · ${s.faculty}`}

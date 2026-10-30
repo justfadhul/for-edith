@@ -76,7 +76,7 @@ export function SectionTitle({ children, action }: { children: React.ReactNode; 
   );
 }
 
-export function PageHeader({ eyebrow, title, children }: { eyebrow?: string; title: string; children?: React.ReactNode }) {
+export function PageHeader({ eyebrow, title, children }: { eyebrow?: React.ReactNode; title: string; children?: React.ReactNode }) {
   return (
     <div className="mb-7 mt-3">
       {eyebrow && (

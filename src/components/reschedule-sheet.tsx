@@ -5,7 +5,8 @@ import Link from "next/link";
 import clsx from "clsx";
 import { ArrowRight, BookOpen, CalendarClock, RotateCcw, X } from "lucide-react";
 import { useStudy } from "@/lib/store/study-store";
-import { addDays, formatDay, rotationInfo, toISODate, parseDate } from "@/lib/dates";
+import { addDays, formatDay, toISODate, parseDate } from "@/lib/dates";
+import { rotationInfoFor } from "@/lib/use-rotation";
 import { parseTimeRange, fmtHour } from "@/lib/prep";
 import type { EffectiveSession } from "@/lib/schedule";
 
@@ -14,7 +15,7 @@ const DAY = 86_400_000;
 /** Details of a timetable session, with "move to another day/time". */
 export function RescheduleSheet({ session, title, onClose }: { session: EffectiveSession; title: string; onClose: () => void }) {
   const { state, moveSession, resetSession } = useStudy();
-  const { start } = rotationInfo(state.settings.rotationStart);
+  const { start } = rotationInfoFor(state.settings, session.rotation ?? "obgyn");
   // A ghost stands in the original slot; edit the live (moved) session.
   const current = session.ghostOf ? { day: session.ghostOf.day, time: session.ghostOf.time } : { day: session.day, time: session.time };
   const original = session.movedFrom ?? (session.ghostOf ? { day: session.day, time: session.time } : null);

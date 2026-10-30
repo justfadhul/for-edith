@@ -5,11 +5,22 @@ import clsx from "clsx";
 import { Cloud, CloudOff, Download, LogOut, RefreshCw, Trash2 } from "lucide-react";
 import { useStudy } from "@/lib/store/study-store";
 import { getSupabase } from "@/lib/supabase";
-import { DEFAULT_START } from "@/content/curriculum";
+import { ROTATIONS, ROTATION_IDS } from "@/content/rotations";
+import { formatDay, parseDate } from "@/lib/dates";
 import { PageHeader } from "@/components/ui";
 import { RemindersButton } from "@/components/reminders-sheet";
+import { RotationSwitch } from "@/components/nav";
 
 type Theme = "system" | "light" | "dark";
+
+const fmtStart = (iso: string) => formatDay(parseDate(iso), { day: "numeric", month: "short", year: "numeric" });
+
+/** "The timetable default is 17 Aug 2026 for both rotations." */
+function defaultsText() {
+  const starts = new Set(ROTATION_IDS.map((r) => ROTATIONS[r].defaultStart));
+  if (starts.size === 1) return `The timetable default is ${fmtStart([...starts][0])} for both rotations.`;
+  return `The timetable defaults are ${ROTATION_IDS.map((r) => `${fmtStart(ROTATIONS[r].defaultStart)} (${ROTATIONS[r].name})`).join(" and ")}.`;
+}
 
 export function AccountView() {
   const { state, sync, updateSettings, signOut, resyncNow, resetLocal, hydrated } = useStudy();
@@ -94,19 +105,31 @@ export function AccountView() {
             onBlur={(e) => e.target.value !== (state.settings.displayName ?? "") && updateSettings({ displayName: e.target.value || null })}
           />
         </label>
-        <label className="block">
-          <span className="mb-1 block text-sm font-medium">Rotation start date (Monday of week 1)</span>
-          <input
-            type="date"
-            className="input"
-            disabled={!hydrated}
-            value={state.settings.rotationStart ?? DEFAULT_START}
-            onChange={(e) => updateSettings({ rotationStart: e.target.value || null })}
-          />
-          <span className="mt-1 block text-xs text-ink-3">
-            The timetable default is 17 Aug 2026. If your group rotates later, set your own start date and every date shifts to match.
-          </span>
-        </label>
+        <div>
+          <span className="mb-1 block text-sm font-medium">Current rotation</span>
+          <RotationSwitch className="w-fit" />
+          <span className="mt-1 block text-xs text-ink-3">Your topics, timetable, flashcards and reminders follow the rotation you pick.</span>
+        </div>
+        <div className="grid gap-4 sm:grid-cols-2">
+          {ROTATION_IDS.map((r) => {
+            const key = r === "paeds" ? "paedsStart" : "rotationStart";
+            return (
+              <label key={r} className="block">
+                <span className="mb-1 block text-sm font-medium">{ROTATIONS[r].name} start (Monday of week 1)</span>
+                <input
+                  type="date"
+                  className="input"
+                  disabled={!hydrated}
+                  value={state.settings[key] ?? ROTATIONS[r].defaultStart}
+                  onChange={(e) => updateSettings({ [key]: e.target.value || null })}
+                />
+              </label>
+            );
+          })}
+        </div>
+        <p className="-mt-2 text-xs text-ink-3">
+          {defaultsText()} If your group rotates at a different time, set your own start date and every date shifts to match.
+        </p>
         <div>
           <span className="mb-1 block text-sm font-medium">Appearance</span>
           <div className="flex gap-1.5">

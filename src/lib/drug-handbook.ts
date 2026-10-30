@@ -1,14 +1,20 @@
 import "server-only";
 import { cache } from "react";
+import GithubSlugger from "github-slugger";
 import { extractHeadings, loadTopic } from "@/lib/content";
 import type { Heading } from "@/lib/types";
+import { ROTATIONS } from "@/content/rotations";
 
-export const HANDBOOK_SLUG = "obs-gyn-pharmacology";
+/** The Obs & Gyn drug handbook. Each rotation names its own in ROTATIONS (handbookSlug). */
+export const HANDBOOK_SLUG = ROTATIONS.obgyn.handbookSlug;
 
 export type Tone = "brand" | "lilac" | "peach" | "accent" | "steel";
 
-/** The handbook's chapters. Each takes the H2 sections of notes.md whose titles match. */
-const GROUPS: { slug: string; title: string; blurb: string; icon: string; tone: Tone; match: RegExp }[] = [
+type ChapterDef = { slug: string; title: string; blurb: string; icon: string; tone: Tone };
+type GroupDef = ChapterDef & { match: RegExp };
+
+/** The Obs & Gyn handbook's chapters. Each takes the H2 sections of notes.md whose titles match. */
+const OBS_GROUPS: GroupDef[] = [
   { slug: "before-you-prescribe", title: "Before you prescribe", blurb: "How to think about a drug in pregnancy, and the checks before and after every dose.", icon: "clipboard", tone: "steel", match: /nutshell|clinical acumen|clinical workup/i },
   { slug: "magnesium-sulphate", title: "Magnesium sulphate", blurb: "Regimens, dilution maths, R-R-U monitoring, toxicity and calcium gluconate.", icon: "brain", tone: "brand", match: /magnesium/i },
   { slug: "antihypertensives", title: "Antihypertensives", blurb: "Nifedipine, hydralazine, labetalol, methyldopa; aspirin and calcium for prevention.", icon: "heart", tone: "lilac", match: /antihypertensive/i },
@@ -50,10 +56,54 @@ function chapterItems(body: string): Heading[] {
   return (h3.length >= 2 ? h3 : all).map((h) => ({ ...h, text: clean(h.text) }));
 }
 
-/** Splits the pharmacology notes into chapters. Unmatched sections stay with the previous chapter. */
-export const drugHandbook = cache((): DrugGroup[] => {
-  const c = loadTopic(HANDBOOK_SLUG);
-  if (!c?.body) return [];
+/** Chapter groupings by handbook. A handbook without one gets a chapter per H2 section. */
+const GROUPINGS: Record<string, GroupDef[]> = {
+  [HANDBOOK_SLUG]: OBS_GROUPS,
+};
+
+const TONES: Tone[] = ["brand", "lilac", "peach", "accent", "steel"];
+const ICON_HINTS: [RegExp, string][] = [
+  [/emergenc|resus|shock/i, "siren"],
+  [/antibiotic|infect|sepsis/i, "shield"],
+  [/malaria|worm|parasit/i, "bug"],
+  [/hiv|art|antiretro/i, "ribbon"],
+  [/fluid|electrolyte|dehydrat/i, "droplet"],
+  [/vaccin|immunis|injection/i, "syringe"],
+  [/neonat|newborn|baby/i, "baby"],
+  [/seizure|convuls|anticonvuls|neuro/i, "brain"],
+  [/heart|cardi/i, "heart"],
+  [/pain|analges|sedat|anaesthe/i, "stethoscope"],
+  [/revision|pearl|mnemonic|high-yield/i, "sparkles"],
+  [/principle|nutshell|before|dosing|prescrib/i, "clipboard"],
+];
+
+/** Fallback: one chapter per H2 section, titled by its heading. */
+function h2Groups(sections: string[]): ChapterDef[] {
+  const slugger = new GithubSlugger();
+  return sections.map((s, i) => {
+    const title = s.slice(3, s.indexOf("\n")).replace(/[*_`]/g, "").trim();
+    const firstPara = s
+      .split("\n")
+      .slice(1)
+      .find((l) => l.trim() && !/^[#>|`\-*\d]/.test(l.trim()));
+    const blurb = (firstPara ?? "").replace(/\[([^\]]+)\]\([^)]*\)/g, "$1").replace(/[*_`]/g, "").trim();
+    return {
+      slug: slugger.slug(title),
+      title,
+      blurb: blurb.length > 140 ? `${blurb.slice(0, 137).trimEnd()}…` : blurb,
+      icon: ICON_HINTS.find(([re]) => re.test(title))?.[1] ?? "pill",
+      tone: TONES[i % TONES.length],
+    };
+  });
+}
+
+/**
+ * Splits a reference topic's notes (a drug handbook) into chapters. Unmatched sections stay
+ * with the previous chapter. Returns [] when the topic has no notes yet.
+ */
+export const drugHandbook = cache((slug: string = HANDBOOK_SLUG): DrugGroup[] => {
+  const c = loadTopic(slug);
+  if (!c?.body || c.topic.kind !== "reference") return [];
   const sections: string[] = [];
   let inCode = false;
   for (const line of c.body.split("\n")) {
@@ -61,15 +111,18 @@ export const drugHandbook = cache((): DrugGroup[] => {
     if (!inCode && line.startsWith("## ")) sections.push("");
     if (sections.length) sections[sections.length - 1] += line + "\n";
   }
+  const grouping = GROUPINGS[slug];
+  const groups: ChapterDef[] = grouping ?? h2Groups(sections);
   const bodies = new Map<string, string>();
-  let current = GROUPS[0].slug;
-  for (const s of sections) {
+  if (!groups.length) return [];
+  let current = groups[0].slug;
+  sections.forEach((s, i) => {
     const title = s.slice(3, s.indexOf("\n"));
-    const g = GROUPS.find((g) => g.match.test(title));
+    const g = grouping ? grouping.find((g) => g.match.test(title)) : groups[i];
     if (g) current = g.slug;
     bodies.set(current, (bodies.get(current) ?? "") + s);
-  }
-  return GROUPS.filter((g) => bodies.has(g.slug)).map(({ slug, title, blurb, icon, tone }) => {
+  });
+  return groups.filter((g) => bodies.has(g.slug)).map(({ slug, title, blurb, icon, tone }) => {
     const body = bodies.get(slug)!;
     const headings = extractHeadings(body);
     return {

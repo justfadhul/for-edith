@@ -1,5 +1,5 @@
 import { topicSummaries, loadStudy } from "@/lib/content";
-import { TOPICS, SESSIONS } from "@/content/curriculum";
+import { TOPICS } from "@/content/curriculum";
 import { Dashboard } from "@/components/dashboard";
 import { DrugFab } from "@/components/drug-fab";
 
@@ -10,7 +10,7 @@ export default function Home() {
   );
   return (
     <>
-      <Dashboard topics={topics} sessions={SESSIONS} cases={cases} />
+      <Dashboard topics={topics} cases={cases} />
       <DrugFab />
     </>
   );
