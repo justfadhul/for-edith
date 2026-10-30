@@ -145,7 +145,7 @@
   "mcqs": [
     {
       "id": "fel-q01",
-      "stem": "A 3-year-old (14 kg) admitted with bacterial meningitis cannot feed. She is alert, CRT 2 s, normal pulses. Which IV fluid prescription is MOST appropriate for the first 24 hours?",
+      "stem": "A 3-year-old (14 kg) admitted with bacterial meningitis cannot feed. She is alert, CRT 2 s, normal pulses. Serum sodium is 129 mmol/L and she is not dehydrated. Which IV fluid prescription is MOST appropriate for the first 24 hours?",
       "options": [
         "5% dextrose at 50 mL/h",
         "0.9% saline with 5% glucose at about 33 mL/h",
@@ -154,7 +154,7 @@
         "0.9% saline with 5% glucose plus KCl 40 mmol/L at 100 mL/h"
       ],
       "answer": 1,
-      "explanation": "B is correct: maintenance = 1000 + 200 = 1200 mL/day (50 mL/h); meningitis raises ADH, so give about 2/3 (≈ 800 mL/day ≈ 33 mL/h) of an isotonic fluid with glucose (NICE NG29). A is wrong: plain 5% dextrose is hypotonic and, at full maintenance, risks hyponatraemic seizures. C is wrong: she is not shocked, so no bolus. D is wrong: half-strength Darrow's is hypotonic and the volume is unrestricted. E is wrong: 100 mL/h is twice maintenance, and potassium should not start until urine output is confirmed.",
+      "explanation": "B is correct: maintenance = 1000 + 200 = 1200 mL/day (50 mL/h); meningitis raises ADH and her sodium is already low (SIADH), so give about 2/3 (≈ 800 mL/day ≈ 33 mL/h) of an isotonic fluid with glucose (NICE NG29). (Without hyponatraemia or raised ICP, WHO and Cochrane 2016 favour full isotonic maintenance in meningitis.) A is wrong: plain 5% dextrose is hypotonic and, at full maintenance, risks hyponatraemic seizures. C is wrong: she is not shocked, so no bolus. D is wrong: half-strength Darrow's is hypotonic and the volume is unrestricted. E is wrong: 100 mL/h is twice maintenance, and potassium should not start until urine output is confirmed.",
       "difficulty": "core"
     },
     {

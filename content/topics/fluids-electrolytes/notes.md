@@ -4,7 +4,7 @@ summary: Children need fluid prescribed like a drug, by weight (Holliday–Segar
 highYield:
   - "Maintenance (Holliday–Segar): 100 mL/kg/day for the first 10 kg + 50 mL/kg/day for the next 10 kg + 20 mL/kg/day above 20 kg; hourly = 4/2/1 mL/kg/h. UCG 2023 uses 25 mL/kg/day above 20 kg."
   - "Use isotonic maintenance fluid (Na 131–154 mmol/L, e.g. 0.9% saline with 5% glucose, or Ringer's lactate with glucose) (NICE NG29); never give plain 5% dextrose as maintenance: it causes hyponatraemia."
-  - "Sick children (meningitis, pneumonia, bronchiolitis, post-op) retain water (ADH): give 2/3 maintenance (NICE 50–80%) and check sodium daily."
+  - "Sick children (meningitis, pneumonia, bronchiolitis, post-op) retain water (ADH): give 2/3 maintenance (NICE 50–80%) and check sodium daily. In meningitis, WHO and Cochrane (2016) favour full isotonic maintenance unless Na is low or ICP is raised (see Meningitis)."
   - "Shock (cold hands + CRT > 3 s + weak fast pulse): UCG 20 mL/kg RL/NS as fast as possible; WHO ETAT 2016 10–20 mL/kg over 30–60 min; reassess after each bolus. No rapid bolus if only 1–2 signs (FEAST)."
   - "SAM with shock: 15 mL/kg over 1 h of a glucose-containing fluid; severe anaemia with shock: blood, not more crystalloid."
   - "Deficit (mL) = % dehydration × weight (kg) × 10. Add it to maintenance; most guidelines replace a deficit over 24 h (hypernatraemia over 48 h or more)."
@@ -128,7 +128,7 @@ About **98% of potassium is inside cells**; serum K is a poor guide to total sto
 
 - **First ask "is this child in shock?"** Only shock earns a bolus. Fast heart rate from fever, crying or malaria, or cool hands alone, is not shock.
 - **If shock, ask "why?"** Hypovolaemia (diarrhoea, bleeding, burns), sepsis, **severe anaemia** (blood, not saline), **SAM** (15 mL/kg slowly), **cardiogenic** (bolus worsens it: big liver, gallop, crackles), DKA (cautious bolus).
-- **Calculate, then round down for a sick child.** Meningitis, pneumonia, bronchiolitis, post-op and head injury: **2/3 maintenance**. AGN and AKI: **insensible losses (about 400 mL/m²/day, roughly 15–25 mL/kg/day) plus urine output**.
+- **Calculate, then round down for a sick child.** Meningitis, pneumonia, bronchiolitis, post-op and head injury: **2/3 maintenance** (NICE approach; in meningitis without hyponatraemia or raised ICP, WHO and Cochrane 2016 favour full isotonic maintenance: see Meningitis). AGN and AKI: **insensible losses (about 400 mL/m²/day, roughly 15–25 mL/kg/day) plus urine output**.
 - **The best monitor is the scale.** A child who gains more than 5% on IV fluids is overloaded.
 - **Seizure on IV fluids = glucose, then sodium.** Hypoglycaemia is quicker to fix; hyponatraemia is the commonest hidden cause.
 - **Potassium: "no pee, no K"**. Never add KCl until urine is flowing, never inject KCl as a push, and **mix the bag well** after adding it.
@@ -141,7 +141,7 @@ About **98% of potassium is inside cells**; serum K is a poor guide to total sto
 1. **ETAT**: airway, breathing (SpO₂, give oxygen if < 90%), **circulation** (cold hands, CRT, pulse), coma, convulsions, **severe dehydration**.
 2. **Weigh** (or estimate: (age in years + 4) × 2 for 1–10 years, as a last resort).
 3. **IV or IO access**; draw **glucose, Hb/HemoCue, electrolytes and creatinine** (if the lab can run them), malaria RDT, group and cross-match if pale.
-4. **Glucose < 3 mmol/L** → **10% glucose 5 mL/kg IV**.
+4. **Glucose < 2.5 mmol/L** (WHO; **< 3 mmol/L in SAM**; UCG 2023 uses < 3.0) → **10% glucose 5 mL/kg IV**.
 5. **Shock** → bolus (see Management A), unless SAM (15 mL/kg over 1 h) or severe anaemia (blood) or heart failure (no bolus).
 6. **Convulsing** → glucose, benzodiazepine, then think sodium.
 7. **Stop** any running hypotonic fluid and any potassium infusion while you assess.

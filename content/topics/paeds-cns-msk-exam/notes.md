@@ -249,7 +249,7 @@ For a skill topic, the workup is the **pre-examination assessment** and the **po
 ### Step 0: First 5 minutes
 
 1. **Is it safe to do a full examination now?** ETAT: airway, breathing (SpO₂, RR), circulation (CRT, pulse), **coma** (AVPU), **convulsions**, dehydration.
-2. **Glucose** in any child with altered consciousness or seizures; treat <3.0 mmol/L (UCG) with 10% dextrose 5 mL/kg.
+2. **Glucose** in any child with altered consciousness or seizures; treat <3.0 mmol/L (UCG; WHO <2.5, <3.0 in SAM) with 10% dextrose 5 mL/kg (neonate 2 mL/kg).
 3. **If convulsing**: treat first (diazepam 0.5 mg/kg PR, max 10 mg; see Febrile Convulsions).
 4. **If trauma**: immobilise the cervical spine before any neck examination.
 5. **If unstable**: do a **focused** neuro exam (coma score, pupils, posture, limb movements, fontanelle, neck stiffness unless trauma) and complete the rest later.
@@ -365,7 +365,7 @@ The examination itself has no complications if done gently, but **what you find 
 
 | Drug | Dose | Route | Frequency | Duration / max | Notes |
 |---|---|---|---|---|---|
-| **10% dextrose** | **5 mL/kg** | IV | Bolus; recheck in 30 min | | For glucose <3.0 mmol/L (UCG) |
+| **10% dextrose** | **5 mL/kg** | IV | Bolus; recheck in 30 min | | For glucose <3.0 mmol/L (UCG; WHO <2.5, <3.0 in SAM) |
 | **Diazepam** | **0.5 mg/kg** (rectal) or **0.2–0.3 mg/kg** (IV) | PR / IV | Once; repeat once after 10 min | **Max 10 mg/dose**; 2 doses total | For a seizure ≥5 min |
 | **Artesunate** | **3 mg/kg** (<20 kg); **2.4 mg/kg** (≥20 kg) | IV (or IM) | 0, 12, 24 h, then daily | Until oral ACT tolerated | Severe/cerebral malaria |
 | **Ceftriaxone** | **100 mg/kg/day** | IV/IM | Once daily or divided 12-hourly | **Max 4 g/day**; 10–14 days for meningitis | Pre-referral IM dose at HC level |

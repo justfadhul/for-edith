@@ -159,7 +159,7 @@
     {
       "id": "pgx-f32",
       "front": "SAM discharge criteria (WHO 2023)",
-      "back": "WFH/WFL **≥ −2** or MUAC **≥12.5 cm** on **two consecutive visits**, no oedema for 2 weeks, clinically well."
+      "back": "WFH/WFL **≥ −2** **and** MUAC **≥12.5 cm** on **two consecutive visits**, no oedema for 2 weeks, clinically well. (UCG 2023 still discharges on the admission indicator alone: WHZ ≥ −2 **or** MUAC ≥12.5 cm.)"
     },
     {
       "id": "pgx-f33",

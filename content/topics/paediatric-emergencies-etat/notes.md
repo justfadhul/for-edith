@@ -322,7 +322,7 @@ ARRIVAL ──► TRIAGE (15–20 s)
 8. **Stop fluids at once** if the child develops fluid overload: crackles, rising RR, enlarging liver, gallop rhythm.
 
 > [!UGANDA]
-> Older Ugandan and WHO pocket-book (2013) charts say **20 mL/kg "as rapidly as possible"** for shock. The **WHO ETAT 2016** update, influenced by FEAST, recommends **10–20 mL/kg over 30–60 minutes** with reassessment, and **no bolus** for impaired circulation without full shock. **UCG 2023** (section 1.1.2.1, hypovolaemic shock in children, mainly bleeding and fluid loss) still says **20–30 mL/kg over 60 minutes, repeated up to 60 mL/kg**, then blood. ETAT 2016 remains WHO's current paediatric emergency guideline. In practice: febrile shock (malaria/sepsis) → ETAT 2016 cautious boluses; haemorrhage or fluid loss → UCG volumes plus blood. Ask your senior which chart Mengo's emergency area uses; in an exam, quote ETAT 2016 and mention FEAST.
+> **UCG 2023** and the WHO Pocket Book (2013) say **20 mL/kg Ringer's lactate or 0.9% saline "as rapidly as possible"** for shock (UCG's hypovolaemic-shock section 1.1.2.1, mainly bleeding and fluid loss, words it as 20–30 mL/kg over 60 minutes, repeated up to 60 mL/kg, then blood). The **WHO ETAT 2016** update, influenced by FEAST, recommends **10–20 mL/kg over 30–60 minutes** with reassessment, and **no bolus** for impaired circulation without full shock. Both say **15 mL/kg over 1 hour** in SAM. ETAT 2016 remains WHO's current paediatric emergency guideline. In practice: febrile shock (malaria/sepsis) → ETAT 2016 cautious boluses; haemorrhage or fluid loss → UCG volumes plus blood. Ask your senior which chart Mengo's emergency area uses; in an exam, quote ETAT 2016 and mention FEAST.
 
 #### Shock in a child **with** SAM
 

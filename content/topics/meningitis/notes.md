@@ -313,7 +313,7 @@ The full table with Ugandan availability is in **Clinical workup, Step 4**. Core
 |---|---|
 | **Seizures** | Diazepam 0.5 mg/kg PR or 0.2–0.3 mg/kg IV (max 10 mg), repeat once; **phenobarbital 15–20 mg/kg** IV loading (UCG 10–15 mg/kg), or phenytoin 15–20 mg/kg IV over 20 min; maintenance phenobarbital 5 mg/kg/day |
 | **Fever / pain** | Paracetamol 15 mg/kg 6-hourly (not in neonates per UCG) |
-| **Fluids** | **Full maintenance** (100/50/20 mL/kg/day), isotonic (0.9% saline with 5% dextrose or equivalent), ideally via NGT feeds when safe. **Restrict to about two-thirds** only if there is **SIADH** (Na <130 mmol/L, no dehydration) or signs of raised ICP; never restrict in shock or dehydration |
+| **Fluids** | **Full maintenance** (100/50/20 mL/kg/day), isotonic (0.9% saline with 5% dextrose or equivalent), ideally via NGT feeds when safe. **Restrict to about two-thirds** only if there is **SIADH** (Na <130 mmol/L, no dehydration) or signs of raised ICP; never restrict in shock or dehydration (WHO; Cochrane 2016. NICE NG29 and some wards restrict high-ADH states to 2/3 routinely, as in *Fluids & Electrolytes*) |
 | **Raised ICP** | Head up 30°, neutral neck, treat seizures/fever/hypoglycaemia, avoid hypotonic fluids, ensure oxygenation; consider **mannitol 0.25–0.5 g/kg IV** over 20–30 min (or 3% saline 3–5 mL/kg) as a temporary measure (NICE: osmotic agents, not glycerol); paediatric critical care advice |
 | **Hyponatraemia** | Usually SIADH: fluid adjustment; if Na <120 or seizures, 3% saline 2–3 mL/kg over 10–20 min |
 | **Nutrition** | NGT feeds if drowsy; breastfeeding continues |

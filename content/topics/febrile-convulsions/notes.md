@@ -173,7 +173,7 @@ Take it from the eyewitness while the nurse sets up drugs. Each answer changes t
 |---|---|---|
 | **Random blood glucose** | Glucometer, finger or heel prick | Hypoglycaemia (treat <3.0 mmol/L per UCG); also check after dextrose and 30 min later |
 | **Malaria RDT** (and smear) | Finger prick; thick and thin film for parasite count | Malaria; parasitaemia + ≥2 fits/24 h or impaired consciousness = severe malaria |
-| **Haemoglobin (HemoCue)** | Finger prick | Severe anaemia (Hb <5 g/dL) from malaria or sickle cell: transfusion |
+| **Haemoglobin (HemoCue)** | Finger prick | Severe anaemia (Hb <5 g/dL) from malaria or sickle cell: transfuse if Hb ≤4 g/dL, or 4–6 g/dL with distress, shock or coma |
 | **SpO₂** | Pulse oximeter | Hypoxaemia from the fit, aspiration or pneumonia |
 | **Urine dipstick** | Clean-catch or bag (catheter if needed) | Nitrites/leucocytes in UTI (send culture) |
 | **Bedside CSF look** | After LP | Cloudy CSF → treat as bacterial meningitis immediately |

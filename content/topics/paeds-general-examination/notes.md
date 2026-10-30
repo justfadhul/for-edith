@@ -355,13 +355,13 @@ A 2-year-old has swelling of both feet and legs and hands for 2 weeks, sparse pa
 | Finding | Action |
 |---|---|
 | **SAM with complications or failed appetite test, or any SAM under 6 months** | **Admit to inpatient therapeutic care** (stabilisation): treat/prevent hypoglycaemia, hypothermia, dehydration (ReSoMal), infection (antibiotics), start **F-75**; correct micronutrients; then transition to F-100/RUTF |
-| **Uncomplicated SAM** (6–59 months, passes appetite test) | **Outpatient therapeutic care (OTC)**: **RUTF 150–185 kcal/kg/day** (WHO 2023), **amoxicillin** (UCG), weekly/fortnightly follow-up, treat malaria, deworm, vaccinate, HIV test |
+| **Uncomplicated SAM** (6–59 months, passes appetite test) | **Outpatient therapeutic care (OTC)**: **RUTF 150–185 kcal/kg/day** (WHO 2023; UCG about 200 kcal/kg/day), **amoxicillin** (UCG), weekly/fortnightly follow-up, treat malaria, deworm, vaccinate, HIV test |
 | **MAM** | Nutrition counselling, **supplementary feeding** (specially formulated foods where available, prioritised for MUAC 11.5–11.9 cm, WAZ < −3, age <24 months: WHO 2023), treat illnesses, follow-up every 2 weeks |
 | **Infant <6 months at risk of poor growth and development** (WHO 2023) | Breastfeeding support (re-lactation), assess the mother's health, treat illness; inpatient if severe or medical complications |
 | **Stunting** | Counsel on diet quality, hygiene, breastfeeding, and look for chronic disease (HIV, TB, chronic diarrhoea, heart disease); monitor height velocity; stunting is largely **prevented**, not "treated", after 2 years |
 | **Overweight/obesity** | Diet and activity counselling for the family; screen BP and, if severe, glucose |
 
-**Discharge from SAM treatment (WHO 2023)**: WFH/WFL ≥ −2 Z or MUAC ≥12.5 cm for **two consecutive visits**, no oedema for 2 weeks, clinically well.
+**Discharge from SAM treatment**: **WHO 2023**: WFH/WFL ≥ −2 Z **and** MUAC ≥12.5 cm on **two consecutive visits**, no oedema for 2 weeks, clinically well. **UCG 2023** (and most Ugandan wards) still discharge on the **admission indicator alone** (WHZ ≥ −2 **or** MUAC ≥12.5 cm) with no oedema for 2 weeks.
 
 ### 3. Dehydration
 
@@ -455,7 +455,7 @@ Show the caregiver the chart: "This line is where most healthy girls her age are
 | Neonatal weight loss | Up to ~**10%**; regained by **10–14 days** |
 | Anterior fontanelle | Closes **12–18 months**; posterior by ~2 months |
 | Skin pinch | Severe dehydration **≥2 s** |
-| SAM discharge (WHO 2023) | WFH ≥ −2 or MUAC ≥12.5 cm on 2 consecutive visits, no oedema |
+| SAM discharge | WHO 2023: WFH ≥ −2 **and** MUAC ≥12.5 cm on 2 consecutive visits, no oedema; UCG 2023: admission indicator alone (WHZ ≥ −2 or MUAC ≥12.5 cm) |
 
 ### Classic exam traps
 

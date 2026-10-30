@@ -138,3 +138,14 @@ To update a topic, edit `content/topics/<slug>/notes.md` or `study.json`, then r
 - HPV: UCG 2023 2 doses vs WHO single dose; confirm current UNEPI policy (immunisation topic uses the MoH single-dose poster). R21 schedule in Uganda (6, 7, 8, 18 months used) vs WHO 2026 4 doses from 5 months.
 - Maintenance fluids >20 kg: UCG 25 mL/kg vs Holliday–Segar 20 mL/kg.
 - Pyridoxine for young children on isoniazid; neonatal calcium gluconate 0.5–1 mL/kg; adolescent HIV-test consent age ("commonly 12"); infant AL formulation (<5 kg) stocked in Uganda?
+
+## Paediatrics: cross-topic review
+
+- Shock bolus: UCG 2023 is quoted as "20 mL/kg as rapidly as possible" (fluids, diarrhoea, ETAT, malaria) but ETAT also cites UCG §1.1.2.1 as "20–30 mL/kg over 60 min, up to 60 mL/kg". Confirm which wording UCG 2023 prints in each section; the site teaches UCG 20 mL/kg rapid vs WHO ETAT 2016 10–20 mL/kg over 30–60 min, SAM 15 mL/kg over 1 h.
+- Fluids in meningitis: Meningitis topic follows WHO/Cochrane 2016 (full isotonic maintenance unless Na <130 or raised ICP); Fluids and Drug Handbook follow NICE NG29 (2/3–3/4 in high-ADH states). Both positions are now cross-referenced and the two MCQs carry hyponatraemia so either rule gives the same answer. Which does Mengo use?
+- Hypoglycaemia threshold in a non-malnourished child: WHO <2.5 mmol/L vs UCG 2023 §1.1.6 <3.0 (site gives both; UCG severe-malaria criterion <2.2).
+- Neonatal gentamicin per UCG: Common Neonatal Disorders quotes 5–7 mg/kg once daily (4 mg/kg preterm); Meningitis quotes UCG 2.5 mg/kg 12-hourly. Confirm both UCG sections. WHO 5 mg/kg (3 mg/kg LBW) wk 1, 7.5 mg/kg after is the site default.
+- Benzathine penicillin <30 kg: URTI quotes UCG tonsillitis as 30,000 IU/kg, RHD quotes UCG 600,000 IU; diphtheria (UCG) by age <10 y / ≥10 y. Secondary-prophylaxis duration harmonised to "≥10 years or until 25 (UCG; AHA 21)": confirm UCG wording.
+- Rectal artesunate: iCCM capsule bands (1/2/3 capsules by age, 50 vs 100 mg) vs UCG malaria chapter 100 mg (5–<14 kg) / 200 mg (14–19 kg).
+- Buccal midazolam: 0.3 mg/kg (WHO/APLS) vs 0.3–0.5 mg/kg (BNFc bands); site uses 0.3–0.5 mg/kg, max 10 mg.
+- Vitamin A third dose: UCG gives day 14 to every measles case; WHO only with eye signs (immunisation and drug handbook previously said day 15).

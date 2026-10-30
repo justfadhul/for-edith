@@ -207,7 +207,7 @@ Kerosene and paraffin have **low viscosity and surface tension**: tiny amounts s
 | **Pulse oximetry** | Right-sized probe; warm extremity; steady trace for 30–60 s | **<90% = severe pneumonia, give oxygen**; 90–93% = monitor closely |
 | **Malaria RDT** | Every febrile child | Co-treat malaria |
 | **Random blood glucose** | Lethargic, not feeding, SAM | Hypoglycaemia → 10% dextrose 5 mL/kg |
-| **Haemoglobin (HemoCue)** | Pallor, severe illness | Severe anaemia (Hb <5 g/dL, or <7 with distress) → transfuse; heart failure from anaemia mimics pneumonia |
+| **Haemoglobin (HemoCue)** | Pallor, severe illness | Severe anaemia → transfuse if Hb ≤4 g/dL, or 4–6 g/dL with respiratory distress, shock or impaired consciousness; heart failure from anaemia mimics pneumonia |
 | **HIV rapid test / DNA PCR** | Status unknown; infants of positive mothers need PCR | PCP risk; ART; cotrimoxazole |
 | **MUAC tape** | 6–59 months | <11.5 cm = SAM |
 | **Bronchodilator trial** | Wheeze + fast breathing: salbutamol 2 puffs via spacer or 2.5 mg neb, re-count after 15–20 min | Fast breathing resolves = bronchospasm, not pneumonia |
@@ -309,12 +309,12 @@ Kerosene and paraffin have **low viscosity and surface tension**: tiny amounts s
    - **Convulsions**: diazepam 0.5 mg/kg rectally or 0.2–0.3 mg/kg IV; if continuous, phenobarbital 15–20 mg/kg IV/IM loading (UCG lists 10–15 mg/kg IM), then 3–5 mg/kg/day.
    - **Glucose**: prevent hypoglycaemia (feeds; dextrose if not feeding).
 8. **Monitoring** (UCG 2023): RR every 2 hours (more often if very sick), temperature 6-hourly, **SpO₂ at least every 3–6 hours** (UCG minimum 12-hourly; every 3 h while on oxygen is better practice), feeding, alertness, work of breathing.
-9. **Treat co-existing conditions**: malaria (IV artesunate if severe), SAM (WHO 2023 SAM protocol), anaemia (transfuse if Hb <5 g/dL or <7 with distress), HIV (cotrimoxazole, ART).
+9. **Treat co-existing conditions**: malaria (IV artesunate if severe), SAM (WHO 2023 SAM protocol), anaemia (transfuse if Hb ≤4 g/dL, or 4–6 g/dL with respiratory distress, shock or impaired consciousness), HIV (cotrimoxazole, ART).
 
 ### C. Young infants (<2 months)
 
 - **Admit all** (UCG 2023). Keep warm (skin-to-skin), breastfeed or expressed milk by NGT, prevent hypoglycaemia.
-- **Ampicillin 50 mg/kg IV 6-hourly** (12-hourly in the first week of life) **+ gentamicin** **5 mg/kg once daily** (term, first week of life) / **7.5 mg/kg once daily** (>7 days); preterm/LBW: reduce dose (specialist).
+- **Ampicillin 50 mg/kg IV** (WHO: **12-hourly in week 1, 8-hourly in weeks 2–4**, 6-hourly from 1 month; UCG 2023 uses 6-hourly at all ages) **+ gentamicin** **5 mg/kg once daily** (term, first week of life) / **7.5 mg/kg once daily** (>7 days); LBW in week 1: **3 mg/kg** (WHO; UCG 4 mg/kg preterm).
 - Severely ill: **ceftriaxone 100 mg/kg once daily** (UCG 2023) (avoid with calcium-containing IV fluids and in jaundiced neonates; cefotaxime preferred where available).
 - Oxygen to keep SpO₂ **≥90%** (UCG: >94% for neonates with emergency signs).
 - At least 5 days, and 3 days after the infant is well; **10 days** if septicaemia; **21 days** if meningitis (UCG).

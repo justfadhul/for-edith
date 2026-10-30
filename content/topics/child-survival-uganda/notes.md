@@ -10,7 +10,7 @@ highYield:
   - "IMCI (WHO/UNICEF, 1995) has three components: improve health-worker case management skills, strengthen health systems, and improve family and community practices. It follows the sequence: assess → classify (pink/yellow/green) → identify treatment → treat → counsel → follow up."
   - "General danger signs (2 months–5 years): unable to drink or breastfeed, vomits everything, convulsions (now or in this illness), lethargic or unconscious. Any one = urgent referral after pre-referral treatment."
   - "iCCM (Uganda since 2010): VHTs treat children 2–59 months for malaria (RDT + ACT), pneumonia (amoxicillin DT 250 mg: 2–11 months 1 tab, 1–5 years 2 tabs, 12-hourly for 5 days) and diarrhoea (ORS + zinc 10 days), give pre-referral rectal artesunate and refer danger signs."
-  - "Zinc for diarrhoea (UCG 2023): 2–6 months 10 mg (½ tab) and 6 months–5 years 20 mg (1 tab) once daily for 10 days, with low-osmolarity ORS."
+  - "Zinc for diarrhoea (UCG 2023): 2–6 months 10 mg (½ tab) and 6 months–5 years 20 mg (1 tab) once daily for 10 days, with low-osmolarity ORS (WHO 2024 suggests 5 mg daily)."
   - "Lancet Child Survival Series (2003): about two-thirds (63%) of child deaths could be prevented with 23 existing low-cost interventions at full coverage; breastfeeding, ORS, ITNs, antibiotics for pneumonia and sepsis, and vaccines head the list."
   - "Newborn high-impact package: skilled birth attendance, Helping Babies Breathe (the Golden Minute), immediate drying and skin-to-skin, delayed cord clamping, breastfeeding within 1 hour, chlorhexidine cord care, vitamin K, eye prophylaxis, Kangaroo Mother Care (iKMC for all <2 kg, WHO 2022), and early treatment of sepsis."
   - "GOBI-FFF (UNICEF): Growth monitoring, Oral rehydration, Breastfeeding, Immunisation; Female education, Family spacing, Food supplementation."
@@ -167,7 +167,7 @@ Child survival is public health, but it is practised **one child at a time**. Th
 1. **E**mergency signs (ABCD: Airway/Breathing, Circulation, Coma/Convulsions, Dehydration) → treat immediately in the emergency area.
 2. **P**riority signs ("3 TPR-MOB": **T**iny baby <2 months, **T**emperature very high, **T**rauma; **P**allor (severe), **P**oisoning, **P**ain (severe); **R**estless/irritable/lethargic, **R**espiratory distress, **R**eferral (urgent); **M**alnutrition (visible severe wasting), **O**edema of both feet, **B**urns (major)) → assess and treat next.
 3. **Q**ueue (non-urgent) → routine IMCI.
-4. Check **RBS** and **SpO₂** in every sick child; give oxygen if SpO₂ <90%; treat hypoglycaemia (glucose <3 mmol/L, or <2.5 in malnourished) with **10% dextrose 5 mL/kg IV** (or sugar water by NGT).
+4. Check **RBS** and **SpO₂** in every sick child; give oxygen if SpO₂ <90%; treat hypoglycaemia (glucose <2.5 mmol/L, or <3 mmol/L in malnourished) with **10% dextrose 5 mL/kg IV** (or sugar water by NGT).
 
 ### Step 1: Focused history
 
@@ -277,7 +277,7 @@ In child survival the "differential" is the **cause of death or severe illness**
 | **Dysentery** | Ciprofloxacin | **15 mg/kg** | Oral | Twice daily | 3 days | Max 500 mg per dose |
 | **Uncomplicated malaria** | **Artemether–lumefantrine** 20/120 mg | 5–14 kg **1 tab**; 15–24 kg **2**; 25–34 kg **3**; ≥35 kg **4** | Oral with fatty food/milk | At 0, 8 h, then twice daily | **3 days** (6 doses) | Infants <5 kg: treat per UCG |
 | **Severe malaria** | **Artesunate** | **3 mg/kg** if <20 kg; **2.4 mg/kg** if ≥20 kg | IV (or IM) | At 0, 12, 24 h, then daily | Until able to take oral, then full ACT course | |
-| **Pre-referral (severe malaria, community/HC II)** | **Rectal artesunate** | About **10 mg/kg**; UCG 2023 iCCM table by age: 4–11 months **1 capsule**, 1–3 years **2**, 3–5 years **3** (check the capsule strength in your pack, 50 or 100 mg) | Rectal | Once | Then refer immediately | If expelled within 30 min, repeat |
+| **Pre-referral (severe malaria, community/HC II)** | **Rectal artesunate** | About **10 mg/kg**; UCG 2023 iCCM table by age: 4–11 months **1 capsule**, 1–3 years **2**, 3–5 years **3** (check the capsule strength in your pack, 50 or 100 mg); the UCG 2023 malaria chapter gives **100 mg** (5–<14 kg, 4 months–<3 years) and **200 mg** (14–19 kg, 3–<6 years), as in *Malaria in Children* | Rectal | Once | Then refer immediately | If expelled within 30 min, repeat |
 | **Vitamin A** (prevention) | Retinol | 6–11 months **100,000 IU**; 12–59 months **200,000 IU** | Oral | Every 6 months | – | Measles/SAM: treatment schedule |
 | **Deworming** | Albendazole | 12–23 months **200 mg**; ≥2 years **400 mg** | Oral | Single dose | Every 6 months | Or mebendazole 500 mg single dose (≥1 year) |
 | **Newborn** | Vitamin K (phytomenadione) | **1 mg** (0.5 mg if <1.5 kg) | IM | Once | At birth | |
@@ -295,7 +295,7 @@ In child survival the "differential" is the **cause of death or severe illness**
 1. **Triage** within minutes of arrival: emergency, priority or queue.
 2. **Airway/Breathing**: position, suction, **oxygen** if SpO₂ <90% or central cyanosis, bag-mask ventilation if not breathing.
 3. **Circulation**: shock (cold hands + CRT >3 s + weak fast pulse): **10–20 mL/kg Ringer's/saline** over 30–60 min (WHO; avoid large boluses in severe malaria/febrile illness without shock); in **SAM** 15 mL/kg over 1 h of a dextrose-containing solution; transfuse if Hb <5 g/dL.
-4. **Coma/Convulsions**: recovery position, **glucose** (10% dextrose 5 mL/kg), **diazepam 0.5 mg/kg rectal** or 0.3 mg/kg IV (or midazolam 0.2–0.5 mg/kg buccal), phenobarbital 20 mg/kg if fits continue.
+4. **Coma/Convulsions**: recovery position, **glucose** (10% dextrose 5 mL/kg), **diazepam 0.5 mg/kg rectal** or 0.3 mg/kg IV (or midazolam 0.3–0.5 mg/kg buccal, max 10 mg), phenobarbital 20 mg/kg if fits continue.
 5. **Dehydration (severe)**: Plan C.
 6. **Then**: full assessment, specific treatment, monitoring chart, nutrition, immunisation check.
 
@@ -360,7 +360,7 @@ At population level, the "complications" of failed child survival are:
 | Stunting, Uganda | About **24%** (UDHS 2022) |
 | Fast breathing | **≥60** (<2 m), **≥50** (2–11 m), **≥40** (1–5 y) |
 | Amoxicillin (pneumonia) | **40 mg/kg/dose twice daily**; iCCM 250 mg: 1 tab (2–11 m) or 2 tabs (1–5 y) 12-hourly for 5 days |
-| Zinc | **10 mg** (2–6 months) / **20 mg** (6 months–5 years) daily for **10 days** |
+| Zinc | **10 mg** (2–6 months) / **20 mg** (6 months–5 years) daily for **10 days** (UCG 2023); WHO 2024 suggests **5 mg daily** |
 | ORS Plan B | **75 mL/kg over 4 h** |
 | Plan C | **100 mL/kg** Ringer's (30 then 70 mL/kg; over 6 h in infants, 3 h if ≥12 months) |
 | AL bands | 5–14 kg 1; 15–24 kg 2; 25–34 kg 3; ≥35 kg 4 tabs, twice daily × 3 days |

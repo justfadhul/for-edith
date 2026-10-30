@@ -410,7 +410,7 @@ Westley components: level of consciousness (0 or 5), cyanosis (0, 4 or 5), strid
 | Paracetamol | Pain, fever | 15 mg/kg | Oral | 6-hourly | 2–3 days | 60 mg/kg/day |
 | Ibuprofen | Pain | 5–10 mg/kg | Oral | 8-hourly with food | 2–3 days | Avoid if dehydrated, asthma with NSAID sensitivity |
 | Penicillin V | GAS tonsillitis | 10–20 mg/kg | Oral | 6-hourly | 10 days | 500 mg/dose |
-| Benzathine penicillin | GAS tonsillitis; diphtheria contacts | 600,000 IU (<30 kg); 1.2 MU (≥30 kg) | Deep IM | Once | Single | Anaphylaxis kit ready |
+| Benzathine penicillin | GAS tonsillitis; diphtheria contacts | 600,000 IU (<30 kg); 1.2 MU (≥30 kg) (diphtheria, UCG: 600,000 IU <10 years, 1.2 MU ≥10 years) | Deep IM | Once | Single | Anaphylaxis kit ready |
 | Amoxicillin | AOM, sinusitis, GAS | 40–45 mg/kg (WHO/IMCI; UCG 15 mg/kg 8-hourly) | Oral (dispersible) | 12-hourly | 5 days AOM; 7–10 days sinusitis; 10 days GAS (50 mg/kg once daily) | 1 g/dose |
 | Amoxicillin-clavulanate | AOM/sinusitis failure | 45 mg/kg (amoxicillin component) | Oral | 12-hourly | 7–10 days | Diarrhoea |
 | Ceftriaxone | Epiglottitis, mastoiditis, severe AOM failure | 50–100 mg/kg | IV/IM | Once daily | 7–14 days | 2 g (4 g in meningitis) |

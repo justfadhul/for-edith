@@ -439,7 +439,7 @@ Then: systemic examination, Tanner stage (if > 8 years), developmental assessmen
 | **Vitamin A** | **< 6 months: 50,000 IU**; **6–11 months: 100,000 IU**; **12–59 months: 200,000 IU** | Oral | **Every 6 months** from 6 months (routine) | Treatment: 3 doses (day 0, 1 and 4 weeks) for measles, persistent diarrhoea or eye signs (UCG); in SAM follow the SAM protocol | Do not repeat within 1 month (toxicity) except as a treatment schedule |
 | **Albendazole** | **1–2 years: 200 mg**; **> 2 years: 400 mg** | Oral | Single dose **every 6 months** | | Or mebendazole 250 mg (1–2 y) / 500 mg (> 2 y) single dose (UCG 2023) |
 | **Iron** (ferrous sulphate, elemental iron) | Treatment of iron-deficiency anaemia: **3 mg/kg/day** elemental iron (range 3–6); UCG HC band: syrup 25 mg/mL, 1 mL daily < 1 year; ½ tablet (200 mg) daily 1–5 years | Oral, after meals | Once daily | 14 days in IMCI, then reassess; continue ~3 months after Hb normalises in confirmed deficiency | Treat malaria first in malarious areas; deworm; **do not give iron in the acute phase of SAM** |
-| **Zinc** (for diarrhoea) | **2–6 months: 10 mg; > 6 months: 20 mg** | Oral | Once daily | **10 days** (UCG 2023) | With ORS; reduces duration and recurrence |
+| **Zinc** (for diarrhoea) | **2–6 months: 10 mg; > 6 months: 20 mg** (UCG 2023; WHO 2024 suggests 5 mg) | Oral | Once daily | **10 days** (UCG 2023) | With ORS; reduces duration and recurrence |
 | **Vitamin D** (rickets) | Treatment 2,000–6,000 IU/day (or a single high dose per specialist) + calcium 500 mg/day; prevention 400 IU/day | Oral | Daily | 2–3 months then maintenance | Check ALP and X-ray response |
 
 ### C. Managing developmental concerns step by step
@@ -529,7 +529,7 @@ Then: systemic examination, Tanner stage (if > 8 years), developmental assessmen
 | Mid-parental height | Boys (F + M + 13)/2; girls (F + M − 13)/2; **± 8.5 cm** |
 | Vitamin A | **50,000 IU** (< 6 m), **100,000 IU** (6–11 m), **200,000 IU** (12–59 m) every 6 months |
 | Albendazole | **200 mg** (1–2 y), **400 mg** (> 2 y) every 6 months |
-| Zinc (diarrhoea) | **10 mg** (2–6 m), **20 mg** (> 6 m) daily for **10 days** |
+| Zinc (diarrhoea) | **10 mg** (2–6 m), **20 mg** (> 6 m) daily for **10 days** (UCG 2023); WHO 2024 **5 mg** |
 
 ### Classic exam traps
 

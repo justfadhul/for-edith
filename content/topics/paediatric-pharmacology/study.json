@@ -563,7 +563,7 @@
     },
     {
       "id": "pdrx-q18",
-      "stem": "A 25 kg child admitted with bacterial meningitis is to receive IV maintenance fluids. Using the Uganda Clinical Guidelines 2023 formula, what is the FULL daily maintenance requirement, and what volume would you actually give?",
+      "stem": "A 25 kg child admitted with bacterial meningitis is to receive IV maintenance fluids. His sodium is 128 mmol/L and he is not dehydrated. Using the Uganda Clinical Guidelines 2023 formula, what is the FULL daily maintenance requirement, and what volume would you actually give?",
       "options": [
         "1,600 mL/day; give all of it",
         "2,500 mL/day; give all of it",
@@ -572,7 +572,7 @@
         "1,000 mL/day; give all of it"
       ],
       "answer": 2,
-      "explanation": "**C** is correct: UCG: 100 × 10 + 50 × 10 + **25** × 5 = **1,625 mL/day**; in meningitis (ADH excess, cerebral oedema) give about **2/3–3/4 of maintenance** unless dehydrated or shocked. **A** is wrong: 1,600 mL is the Holliday–Segar figure (20 mL/kg above 20 kg), and full maintenance risks hyponatraemia in meningitis. **B** is wrong: 100 mL/kg for all 25 kg ignores the sliding scale. **D** is wrong: 1,250 mL is the requirement for 15 kg; fever adds about 10% per °C, not double. **E** is wrong: 1,000 mL covers only the first 10 kg.",
+      "explanation": "**C** is correct: UCG: 100 × 10 + 50 × 10 + **25** × 5 = **1,625 mL/day**; in meningitis with hyponatraemia (SIADH) give about **2/3–3/4 of maintenance** unless dehydrated or shocked (without hyponatraemia or raised ICP, WHO and Cochrane 2016 favour full isotonic maintenance; see *Meningitis*). **A** is wrong: 1,600 mL is the Holliday–Segar figure (20 mL/kg above 20 kg), and full maintenance would worsen his hyponatraemia. **B** is wrong: 100 mL/kg for all 25 kg ignores the sliding scale. **D** is wrong: 1,250 mL is the requirement for 15 kg; fever adds about 10% per °C, not double. **E** is wrong: 1,000 mL covers only the first 10 kg.",
       "difficulty": "core"
     },
     {

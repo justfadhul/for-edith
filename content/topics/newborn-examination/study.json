@@ -410,7 +410,7 @@
         },
         {
           "prompt": "What tests and treatments are due today?",
-          "answer": "**DNA PCR** (HIV early infant diagnosis at 6 weeks), **cotrimoxazole prophylaxis** from 6 weeks until HIV is excluded per national guidelines, review NVP plan (low-risk: stop at 6 weeks; high-risk: continue NVP to 12 weeks per Uganda guidelines), **6-week vaccines** (OPV1, DPT-HepB-Hib1, PCV1, rotavirus 1 per UNEPI)."
+          "answer": "**DNA PCR** (HIV early infant diagnosis at 6 weeks), **cotrimoxazole prophylaxis** from 6 weeks until HIV is excluded per national guidelines, review NVP plan (low-risk: stop at 6 weeks; high-risk: AZT + NVP for 6 weeks, then NVP alone to 12 weeks per the 2022 consolidated guidelines), **6-week vaccines** (OPV1, DPT-HepB-Hib1, PCV1, rotavirus 1 per UNEPI)."
         },
         {
           "prompt": "What counselling will you give?",

@@ -19,7 +19,7 @@
     { "id": "malc-f16", "front": "When does UCG 2023 prefer a blood slide to an RDT?", "back": "Symptoms persist after completing treatment; child returns within 3 weeks of treatment; RDT negative with no other cause for fever. The thin film also gives **% parasitaemia** to follow response." },
     { "id": "malc-f17", "front": "What is post-discharge malaria chemoprevention (PDMC) in Uganda?", "back": "UCG 2023: discharge every severe malaria case on **DHA–piperaquine**, then a **monthly 3-day DP course for 3 months**, with monthly review. WHO targets children admitted with severe anaemia." },
     { "id": "malc-f18", "front": "Why recheck Hb 1–4 weeks after severe malaria treated with artesunate?", "back": "**Post-artesunate delayed haemolysis (PADH)**: red cells 'pitted' of parasites by the spleen are destroyed 1–3 weeks later. UCG: repeat Hb before discharge and about 28 days later." },
-    { "id": "malc-f19", "front": "Uganda's malaria vaccine schedule?", "back": "Introduced into routine immunisation in **April 2025** in 105–107 high-burden districts: **4 doses at 6, 7, 8 and 18 months** (0.5 mL IM)." },
+    { "id": "malc-f19", "front": "Uganda's malaria vaccine schedule?", "back": "Introduced into routine immunisation in **April 2025** in 107 high-burden districts: **4 doses at 6, 7, 8 and 18 months** (0.5 mL IM)." },
     { "id": "malc-f20", "front": "R21/Matrix-M phase 3 efficacy?", "back": "About **75% in seasonal** and **68% in standard (perennial) transmission sites** over 12 months after 3 doses (Lancet 2024); a booster a year later maintained protection. WHO recommended it in October 2023." },
     { "id": "malc-f21", "front": "Why does falciparum malaria cause coma when the peripheral count may be low?", "back": "**Sequestration**: mature parasites express PfEMP1 and stick to endothelium in the brain and other organs, so they are hidden from the peripheral film while causing microvascular obstruction, inflammation and brain swelling." },
     { "id": "malc-f22", "front": "Respiratory distress in severe malaria: commonest mechanism?", "back": "**Metabolic (lactic) acidosis**, usually with severe anaemia, not pneumonia. Deep (Kussmaul) breathing settles with **blood transfusion** and correction of perfusion." },
@@ -171,7 +171,7 @@
         "A vaccinated child with fever can be treated without a malaria test"
       ],
       "answer": 2,
-      "explanation": "C is correct: the MoH introduced the malaria vaccine into routine immunisation in **April 2025** in 105–107 high-burden districts, **4 doses at 6, 7, 8 and 18 months**. A is wrong: it is not given at birth. B is wrong: efficacy is partial (RTS,S about 36% over 4 years; R21 about 68–75% over the first year), so nets and prompt testing remain essential. D is wrong: HIV exposure is not a contraindication. E is wrong: every febrile child still needs a malaria test (UCG 'test before treat')."
+      "explanation": "C is correct: the MoH introduced the malaria vaccine into routine immunisation in **April 2025** in 107 high-burden districts, **4 doses at 6, 7, 8 and 18 months**. A is wrong: it is not given at birth. B is wrong: efficacy is partial (RTS,S about 36% over 4 years; R21 about 68–75% over the first year), so nets and prompt testing remain essential. D is wrong: HIV exposure is not a contraindication. E is wrong: every febrile child still needs a malaria test (UCG 'test before treat')."
     },
     {
       "id": "malc-q12",
@@ -194,10 +194,10 @@
         "5% dextrose 20 mL/kg over 15 minutes",
         "Whole blood 20 mL/kg over 4 hours",
         "Half-strength Darrow's 15 mL/kg over 1 hour",
-        "0.9% saline (or Ringer's lactate) 10–20 mL/kg rapidly, then reassess"
+        "0.9% saline (or Ringer's lactate) 10–20 mL/kg bolus, then reassess"
       ],
       "answer": 4,
-      "explanation": "E is correct: cold hands + CRT >3 s + weak fast pulse = **shock** (ETAT), so a crystalloid bolus is indicated: UCG gives 20 mL/kg 0.9% saline in 15 min; WHO ETAT 2016 says 10–20 mL/kg and reassess; then look for sepsis and give antibiotics. A is wrong: FEAST argues against boluses for children *without* shock, but this child has established shock. B is wrong: dextrose solutions do not stay in the circulation and cause hyperglycaemia. C is wrong: her Hb is 9.1 g/dL; blood is for severe anaemia. D is wrong: the slower Darrow's/RL-dextrose regimen is for children with severe acute malnutrition."
+      "explanation": "E is correct: cold hands + CRT >3 s + weak fast pulse = **shock** (ETAT), so a crystalloid bolus is indicated: UCG 2023 gives 20 mL/kg 0.9% saline or Ringer's lactate as rapidly as possible; WHO ETAT 2016 says 10–20 mL/kg over 30–60 min and reassess after each bolus; then look for sepsis and give antibiotics. A is wrong: FEAST argues against boluses for children *without* shock, but this child has established shock. B is wrong: dextrose solutions do not stay in the circulation and cause hyperglycaemia. C is wrong: her Hb is 9.1 g/dL; blood is for severe anaemia. D is wrong: the slower Darrow's/RL-dextrose regimen is for children with severe acute malnutrition."
     },
     {
       "id": "malc-q14",

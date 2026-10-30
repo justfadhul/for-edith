@@ -55,7 +55,7 @@ The bedside skill is simple and life-saving: **assess the degree of dehydration 
 
 - **Globally**, diarrhoea is the **third leading cause of death in children under 5**: about **444,000 under-five deaths a year**, plus about 51,000 children aged 5–9 (WHO fact sheet). Pneumonia and diarrhoea together cause **23% of under-five deaths** (WHO 2024 guideline).
 - **Uganda**: diarrhoea is one of the "big three" with pneumonia and malaria in every district report. Peaks follow the rains and **cholera outbreaks** recur in border districts (Kasese, Busia, Mbale, Namayingo), refugee settlements and Kampala's informal settlements.
-- **Rotavirus vaccine** (two doses at **6 and 10 weeks** in the UNEPI schedule) has cut severe rotavirus admissions; measles–rubella vaccine and vitamin A also prevent diarrhoeal deaths.
+- **Rotavirus vaccine** (**6 and 10 weeks** per UCG 2023; the 2025/26 MoH poster shows **6, 10 and 14 weeks**, depending on the brand) has cut severe rotavirus admissions; measles–rubella vaccine and vitamin A also prevent diarrhoeal deaths.
 - **Malnutrition and diarrhoea feed each other**: diarrhoea causes weight loss and zinc loss; malnourished children have more, longer and deadlier episodes. UDHS 2022: **26% of under-fives stunted, 2.9% wasted**.
 
 > [!UGANDA]
@@ -502,7 +502,7 @@ Most children with acute watery diarrhoea need **no laboratory test at all**: th
 | Cholera (child) | **Doxycycline 2–4 mg/kg single dose** or azithromycin **20 mg/kg** single dose (max 1 g) |
 | SAM dehydration | ReSoMal **5 mL/kg every 30 min × 2 h**, then **5–10 mL/kg/h** up to 10 h |
 | SAM shock | **15 mL/kg over 1 h** (glucose-containing fluid); blood **10 mL/kg over 3 h** if not improving |
-| Hypoglycaemia | RBS < 3 mmol/L → **10% glucose 5 mL/kg IV** |
+| Hypoglycaemia | RBS < 2.5 mmol/L (WHO; < 3 in SAM; UCG < 3.0) → **10% glucose 5 mL/kg IV** |
 | Fast breathing | ≥ 60 (< 2 mo), ≥ 50 (2–12 mo), ≥ 40 (1–5 y) |
 
 ### Classic exam traps

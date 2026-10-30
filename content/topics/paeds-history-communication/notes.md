@@ -8,7 +8,7 @@ highYield:
   - "**Paediatric extras** beyond the adult history: **perinatal**, **feeding/nutrition**, **immunisation** (check the card), **growth**, **development**, and **HIV exposure** (mother's status, ART, infant prophylaxis, EID results)."
   - "**Perinatal history**: ANC attendance, maternal HIV/syphilis/malaria/hypertension, gestation, place and mode of delivery, **birth weight**, **cried at birth** or needed resuscitation, NICU admission, jaundice."
   - "**Feeding**: breastfeeding initiated within 1 hour, **exclusive breastfeeding to 6 months**, complementary foods from **6 months**, meal frequency and dietary diversity (24-hour recall), feeding during illness."
-  - "**Immunisation (UNEPI)**: birth BCG, OPV0, HepB; **6, 10, 14 weeks** OPV, pentavalent, PCV, rotavirus (6, 10) and IPV (6, 14); **9 months** MR and yellow fever; **18 months** MR2; malaria vaccine where introduced. Look for the **BCG scar**."
+  - "**Immunisation (UNEPI)**: birth BCG, OPV0, HepB; **6, 10, 14 weeks** OPV, pentavalent, PCV, rotavirus (6, 10 per UCG 2023; 6, 10, 14 on the 2025/26 MoH poster, brand-dependent) and IPV (6, 14); **9 months** MR and yellow fever; **18 months** MR2; malaria vaccine where introduced. Look for the **BCG scar**."
   - "**Key milestones**: social smile **6 weeks**, head control **3–4 months**, sits unsupported **6–8 months**, walks **12–15 months**; **refer if not walking at 18 months**, no words at 18 months, or any **loss of skills**."
   - "**Adolescents**: see them **alone** for part of the consultation, explain **confidentiality and its limits** (risk of serious harm), and use **HEEADSSS**: Home, Education/employment, Eating, Activities, Drugs, Sexuality, Suicide/mood, Safety."
   - "**Communication tools**: open then closed questions, **ICE** (ideas, concerns, expectations), signposting, summarising, avoiding jargon, **teach-back**; break bad news with **SPIKES**."
@@ -113,7 +113,7 @@ Name, **age** (date of birth: in months for infants, exact days for neonates), s
 | Birth | BCG, OPV0, Hepatitis B birth dose |
 | 6 weeks | OPV1, DPT-HepB-Hib1, PCV1, Rota1, IPV1 |
 | 10 weeks | OPV2, DPT-HepB-Hib2, PCV2, Rota2 |
-| 14 weeks | OPV3, DPT-HepB-Hib3, PCV3, IPV2 |
+| 14 weeks | OPV3, DPT-HepB-Hib3, PCV3, IPV2 (+ Rota3 on the 2025/26 MoH poster, brand-dependent) |
 | 6, 7, 8 and 18 months | Malaria vaccine (R21) in districts where it has been introduced (verify current schedule) |
 | 9 months | Measles–rubella 1, yellow fever |
 | 18 months | Measles–rubella 2 |

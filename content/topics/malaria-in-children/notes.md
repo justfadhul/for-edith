@@ -12,7 +12,7 @@ highYield:
   - "Transfuse whole blood 20 mL/kg (or packed cells 10–15 mL/kg) over 3–4 h if Hb ≤4 g/dL, or Hb 4–6 g/dL with respiratory distress, shock, impaired consciousness or heart failure."
   - "No routine fluid boluses (FEAST trial): give boluses only for true shock; otherwise maintenance fluids or NGT feeds, and watch the liver edge for overload."
   - "Convulsions: diazepam 0.5 mg/kg rectally or 0.2–0.3 mg/kg slow IV (max 10 mg), once more after 10 min; then phenobarbital 15 mg/kg IV/IM loading. Check glucose every time."
-  - "Uganda added the malaria vaccine to routine immunisation in April 2025: 4 doses at 6, 7, 8 and 18 months in 105–107 high-burden districts."
+  - "Uganda added the malaria vaccine to routine immunisation in April 2025: 4 doses at 6, 7, 8 and 18 months in 107 high-burden districts."
   - "Artemisinin partial resistance (kelch13 mutations) has been documented in northern Uganda, so check that parasites are clearing and always complete the partner drug."
 ---
 

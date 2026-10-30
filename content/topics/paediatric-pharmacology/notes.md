@@ -431,7 +431,7 @@ Most antibiotics on a Ugandan paediatric ward are prescribed for **pneumonia, se
 | **Class** | Long-acting depot penicillin (IM only) |
 | **Mechanism** | Slow release from the muscle gives low penicillin levels for **2–4 weeks** |
 | **Indications (paeds)** | **Asymptomatic congenital syphilis** (baby of an untreated/inadequately treated RPR-positive mother, normal examination); **streptococcal pharyngitis**; **secondary prophylaxis of rheumatic fever/RHD** |
-| **Dose, route, frequency** | **Congenital syphilis (asymptomatic): 50,000 IU/kg deep IM single dose** (anterolateral thigh). **Pharyngitis: 600,000 IU if <30 kg, 1.2 MU if ≥30 kg, single dose.** **Rheumatic fever prophylaxis: 600,000 IU (<30 kg) or 1.2 MU (≥30 kg) IM every 4 weeks** (every 3 weeks in high-risk patients), for at least 10 years or to age 21 (longer with severe RHD) |
+| **Dose, route, frequency** | **Congenital syphilis (asymptomatic): 50,000 IU/kg deep IM single dose** (anterolateral thigh). **Pharyngitis: 600,000 IU if <30 kg, 1.2 MU if ≥30 kg, single dose.** **Rheumatic fever prophylaxis: 600,000 IU (<30 kg) or 1.2 MU (≥30 kg) IM every 4 weeks** (every 3 weeks in high-risk patients), for at least 10 years or until age 25 (UCG 2023; AHA: age 21), longer (to 40 or lifelong) with residual valve disease |
 | **Maximum** | 2.4 MU per dose |
 | **Side effects** | **Painful injection** (can be reconstituted with lignocaine), allergy |
 | **Contraindications / cautions** | Penicillin anaphylaxis. **Never IV** (cardiorespiratory arrest, embolic gangrene). Never for neurosyphilis or symptomatic congenital syphilis (poor CSF levels) |
@@ -750,7 +750,7 @@ Fluids are drugs. They have a dose (mL/kg), a rate, side effects (overload, hypo
 - **Examples**: 8 kg → 800 mL/day; 15 kg → 1,000 + 250 = **1,250 mL/day**; 30 kg → 1,000 + 500 + 250 = **1,750 mL/day** (UCG) or 1,700 mL (Holliday–Segar).
 - Add **10% for each °C of fever** (UCG); give more for ongoing losses (diarrhoea, burns).
 - **Give it orally or by NGT whenever possible** (breast milk counts). IV maintenance: **isotonic fluid with 5% dextrose** (e.g. Ringer's lactate or 0.9% saline with 5% dextrose; UCG lists half-normal saline with 5% dextrose). NICE (NG29) and AAP 2018 recommend **isotonic** maintenance fluids to prevent **hospital-acquired hyponatraemia**; sick children (meningitis, pneumonia, post-op) secrete ADH and should often get **two-thirds to three-quarters of maintenance**.
-- **Meningitis, cerebral malaria, severe pneumonia**: restrict to **~2/3 to 3/4 of maintenance** unless dehydrated or shocked.
+- **Meningitis, cerebral malaria, severe pneumonia**: restrict to **~2/3 to 3/4 of maintenance** unless dehydrated or shocked (NICE approach). In meningitis, WHO and Cochrane (2016) favour **full isotonic maintenance** unless there is hyponatraemia (SIADH, Na <130) or raised ICP: see *Meningitis*.
 
 ### Neonatal fluids (UCG 2023)
 
@@ -831,7 +831,7 @@ If only IV fluids are given, **do not exceed 100 mL/kg/day** unless dehydrated, 
 
 - **Antibiotics for all inpatients** (see Antimicrobials). **Hypoglycaemia <3 mmol/L**: 50 mL of 10% glucose/sucrose orally or by NGT, or **10% dextrose 5 mL/kg IV**, then feed 2-hourly.
 - **No iron in the stabilisation phase** (free iron feeds bacteria and causes oxidative damage). Start iron in rehabilitation if on F-100; **RUTF already contains iron**.
-- **Vitamin A**: only if **eye signs** of deficiency or **recent measles** (F-75, F-100 and RUTF contain vitamin A): days 1, 2 and 15.
+- **Vitamin A**: only if **eye signs** of deficiency or **recent measles** (F-75, F-100 and RUTF contain vitamin A): days 1, 2 and 14.
 - **Folic acid** and **zinc/copper** come in the mineral mix of F-75/F-100.
 - **Measles vaccine** if unvaccinated; **albendazole** in rehabilitation (≥1 year); treat malaria and test for HIV and TB.
 
@@ -1111,11 +1111,11 @@ Both TB and HIV drugs are given by **weight band** using **child-friendly disper
 | **Birth** (first contact) | **BCG**, **OPV0**, **Hepatitis B birth dose** (within the first 7 days; ideally 24 h) | BCG **0.05 mL intradermal right upper arm** (<12 months; 0.1 mL after 11 months); HepB 0.5 mL IM left thigh; OPV 2 drops |
 | **6 weeks** | **OPV1, DPT-HepB-Hib1 (pentavalent), PCV1, Rota1, IPV1** | Penta IM left thigh; PCV IM right thigh; Rota 2 drops oral (inner cheek); IPV IM right thigh 2.5 cm from PCV |
 | **10 weeks** | **OPV2, Penta2, PCV2, Rota2** | |
-| **14 weeks** | **OPV3, Penta3, PCV3, IPV2** | |
+| **14 weeks** | **OPV3, Penta3, PCV3, IPV2** (+ **Rota3** on the 2025/26 MoH poster, brand-dependent; UCG 2023 lists rotavirus at 6 and 10 weeks only) | |
 | **6, 7, 8 months and 18 months** | **Malaria vaccine (R21/Matrix-M)**, introduced in 2025 in high-burden districts (WHO 2026: four doses from 5 months, 4th dose 6–18 months after the 3rd; **verify** the current Ugandan districts and ages) | IM |
 | **9 months** | **Measles–rubella (MR1)**, **yellow fever** | MR 0.5 mL SC left upper arm; YF 0.5 mL SC right upper arm |
 | **18 months** | **MR2** | SC left upper arm |
-| **10 years (girls)** | **HPV** (UCG 2023: 2 doses 6 months apart; WHO now allows a single dose: check the current UNEPI policy) | IM left upper arm |
+| **10 years (girls)** | **HPV**: **single dose** (MoH/UNEPI since 2025, per WHO); **2 doses 6 months apart if HIV-positive or immunocompromised**. UCG 2023 still prints 2 doses for all | IM left upper arm |
 
 **Principles**: give each vaccine at the recommended age or at the **first contact after it**; **minor illness is not a contraindication**; admitted severely ill children are vaccinated **at discharge**; **do not give BCG to a child with symptomatic HIV/AIDS**; an exposed unimmunised infant aged 6–9 months can get MR early and then again at 9 months; **live vaccines** (BCG, MR, YF, OPV, rota) are avoided in severe immunosuppression and on high-dose steroids (≥2 mg/kg/day prednisolone for ≥14 days); campaign doses do not replace routine doses.
 
