@@ -1,0 +1,297 @@
+{
+  "slug": "skin-diseases-children",
+  "flashcards": [
+    { "id": "skin-f01", "front": "Macule vs papule vs plaque?", "back": "**Macule**: flat colour change <1 cm. **Papule**: raised solid lesion <0.5–1 cm. **Plaque**: raised flat-topped lesion >1 cm." },
+    { "id": "skin-f02", "front": "Vesicle vs bulla vs pustule vs wheal?", "back": "**Vesicle**: fluid-filled <0.5 cm. **Bulla**: fluid-filled >0.5 cm. **Pustule**: pus-filled. **Wheal**: transient itchy oedematous plaque lasting <24 h (urticaria)." },
+    { "id": "skin-f03", "front": "The SCALE order for describing a rash?", "back": "**S**ite/distribution, **C**olour, **A**rrangement, **L**esion type (primary then secondary), **E**xtras (mucosa, nails, hair, nodes, systemic features)." },
+    { "id": "skin-f04", "front": "Typical sites of scabies burrows in a child, and in an infant?", "back": "Child: **finger webs, wrists, elbows, anterior axillary folds, nipples, umbilicus/waist, buttocks, genitals**. Infant: also **palms, soles, face and scalp**." },
+    { "id": "skin-f05", "front": "Why does scabies itch start weeks after infestation and continue after treatment?", "back": "The itch is a **delayed hypersensitivity** to mites, eggs and faeces: starts **3–6 weeks** after first infestation and can last **2–4 weeks** after successful treatment." },
+    { "id": "skin-f06", "front": "Permethrin 5% for scabies: how to use?", "back": "From **2 months**: apply **neck to toe** (whole body including scalp and face in infants, avoiding eyes/mouth), wash off after **8–12 h**, **repeat after 7 days**; treat all contacts at the same time." },
+    { "id": "skin-f07", "front": "Benzyl benzoate 25% dilutions for children (UCG 2023)?", "back": "**2–12 years: 1 part lotion + 1 part water. Under 2 years: 1 part lotion + 3 parts water.** Apply at bedtime to the whole body, wash off in the morning, repeat." },
+    { "id": "skin-f08", "front": "Ivermectin for scabies?", "back": "**200 µg/kg orally** with food, **two doses 7 days apart**; children **≥15 kg**; not in pregnancy. Used for crusted scabies (with topical), outbreaks and topical failure." },
+    { "id": "skin-f09", "front": "General measures in scabies?", "back": "Treat **all household members and close contacts simultaneously**; wash bedding/clothes/towels in hot water and sun-dry or seal in a bag for 72 h; cut nails; antihistamine at night." },
+    { "id": "skin-f10", "front": "What is crusted (Norwegian) scabies?", "back": "Hyperinfestation with thousands of mites causing thick crusts, often little itch, in **HIV, malnutrition, steroids or disability**; highly contagious. Ivermectin (multiple doses) + topical scabicide + keratolytic; isolate; HIV test." },
+    { "id": "skin-f11", "front": "Why must tinea capitis be treated orally?", "back": "The dermatophyte lives **inside the hair shaft and follicle**, which topical antifungals cannot reach (UCG 2023)." },
+    { "id": "skin-f12", "front": "Griseofulvin for tinea capitis?", "back": "**UCG 2023: 10 mg/kg/day** once daily after meals for **6 weeks** (double in severe infection); international guides **15–25 mg/kg/day** for 6–8 weeks; give **with fatty food**." },
+    { "id": "skin-f13", "front": "Terbinafine weight bands for tinea capitis?", "back": "**<20 kg: 62.5 mg; 20–40 kg: 125 mg; >40 kg: 250 mg** once daily for **4 weeks** (best for *Trichophyton*)." },
+    { "id": "skin-f14", "front": "What is a kerion and how is it managed?", "back": "A boggy, pustular, tender inflammatory mass of **tinea capitis**; treat with **oral antifungal** ± short oral steroid; **do not incise** (not an abscess)." },
+    { "id": "skin-f15", "front": "Treatment of tinea corporis (UCG 2023)?", "back": "**Whitfield's ointment** (benzoic + salicylic acid) 12-hourly until 2 weeks after clearing, or **clotrimazole 1% / miconazole 2%** twice daily for 2–3 weeks; oral griseofulvin if extensive or failing." },
+    { "id": "skin-f16", "front": "What is tinea incognito?", "back": "Tinea treated with a **steroid cream** (often an over-the-counter combination cream): inflammation is suppressed, the fungus spreads and the rash loses its typical appearance." },
+    { "id": "skin-f17", "front": "Non-bullous vs bullous impetigo?", "back": "**Non-bullous**: honey-coloured crusts around nose/mouth (*S. aureus* ± *S. pyogenes*). **Bullous**: flaccid blisters leaving collarettes of scale, caused by **staphylococcal exfoliative toxin**." },
+    { "id": "skin-f18", "front": "Impetigo treatment (UCG 2023)?", "back": "**<5 lesions**: clean with chlorhexidine 0.05%, **gentian violet 0.5% 12-hourly for 3 days** or mupirocin 2% 8-hourly for 5–7 days. **>5 lesions, fever or spread**: **cloxacillin 12.5–25 mg/kg 6-hourly for 7 days** (erythromycin 7.5 mg/kg 6-hourly if allergic)." },
+    { "id": "skin-f19", "front": "Which renal complication follows streptococcal skin infection, and when?", "back": "**Post-streptococcal glomerulonephritis** about **3–6 weeks** after impetigo/infected scabies (1–2 weeks after pharyngitis): haematuria, oedema, hypertension, oliguria." },
+    { "id": "skin-f20", "front": "Stepped treatment for atopic eczema?", "back": "**Emollients and soap substitute for all**; mild: hydrocortisone 1%; moderate: moderate-potency steroid (e.g. clobetasone 0.05%); severe: potent (betamethasone 0.1%) short courses, not face/genitals; sedating antihistamine at night; treat infection." },
+    { "id": "skin-f21", "front": "What is a fingertip unit?", "back": "Cream squeezed from a 5 mm nozzle along an adult index finger from tip to first crease: about **0.5 g**, enough for an area of **two adult palms**." },
+    { "id": "skin-f22", "front": "Eczema herpeticum: features and treatment?", "back": "Painful, clustered **punched-out erosions** on eczematous skin with fever (HSV). **Aciclovir** 20 mg/kg (max 400 mg) orally 5 times daily, or **IV 10–20 mg/kg 8-hourly** if unwell or near the eye; eye review." },
+    { "id": "skin-f23", "front": "Molluscum contagiosum: appearance, course and HIV clue?", "back": "Pearly **umbilicated papules** 1–5 mm; poxvirus; self-limiting over **6–18 months**. **Extensive, giant or facial molluscum in an older child → test for HIV**." },
+    { "id": "skin-f24", "front": "Cetirizine and chlorphenamine doses for children (UCG 2023)?", "back": "**Cetirizine**: 1–6 years 2.5 mg, ≥6 years 5 mg once daily. **Chlorphenamine**: 1–2 years 1 mg 12-hourly; 2–5 years 1 mg 6-hourly; 5–12 years 2 mg 6-hourly." },
+    { "id": "skin-f25", "front": "What is papular urticaria?", "back": "Insect-bite hypersensitivity (mosquitoes, fleas, bedbugs): crops of itchy papules with a central punctum on exposed skin in young children; bed nets, treat bedbugs/fleas, antihistamine, short mild steroid." },
+    { "id": "skin-f26", "front": "SJS vs overlap vs TEN by body surface area?", "back": "**SJS <10%**, **SJS/TEN overlap 10–30%**, **TEN >30%** of body surface with epidermal detachment; mucosal involvement in all." },
+    { "id": "skin-f27", "front": "Commonest SJS triggers in Ugandan children?", "back": "**Cotrimoxazole** (and other sulfonamides), **nevirapine**, **anticonvulsants** (carbamazepine, phenytoin, phenobarbital, lamotrigine), **anti-TB drugs**, NSAIDs, allopurinol; Mycoplasma infection." },
+    { "id": "skin-f28", "front": "Key management steps in SJS/TEN?", "back": "**Stop the drug**, admit, fluids like a burn, non-adherent dressings, **eye review within 24 h**, mouth/genital care, nutrition, analgesia, treat proven infection; **no routine steroids**; never rechallenge; switch cotrimoxazole prophylaxis to **dapsone 2 mg/kg daily**." },
+    { "id": "skin-f29", "front": "WHO clinical stage 2 skin/mucosal conditions in children?", "back": "**Papular pruritic eruption**, extensive molluscum, extensive wart virus infection, fungal nail infection, **herpes zoster**, recurrent oral ulcers, lineal gingival erythema, angular cheilitis." },
+    { "id": "skin-f30", "front": "Skin care in kwashiorkor (WHO)?", "back": "Zinc (in feeds); **0.01% potassium permanganate** soaks 10 min daily; **barrier cream** (zinc and castor oil, petroleum jelly, tulle gras) to raw areas; gentian violet or nystatin to sores; avoid nappies." }
+  ],
+  "mcqs": [
+    {
+      "id": "skin-q01",
+      "stem": "A 7-year-old boy (22 kg) has 4 weeks of itching that keeps him awake. His mother and two siblings also itch. There are excoriated papules and burrows in the finger webs, wrists and around the umbilicus and penis. What is the MOST appropriate management?",
+      "options": [
+        "Betamethasone 0.1% cream to the itchy areas for 2 weeks",
+        "Oral griseofulvin 10 mg/kg/day for 6 weeks",
+        "Treat only the boy with permethrin and review in 1 month",
+        "Oral cloxacillin and chlorphenamine",
+        "Treat all household members at the same time with a scabicide (e.g. permethrin 5% or diluted benzyl benzoate), repeat after 7 days, wash bedding, and give an antihistamine at night"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: nocturnal itch, burrows in typical sites and affected family members = **scabies**; everyone must be treated **simultaneously** with a repeat application, plus bedding hygiene. A is wrong: steroids relieve itch but do not kill mites and may cause crusted scabies. B is wrong: griseofulvin treats fungal infection. C is wrong: untreated contacts re-infest the child. D is wrong: there is no secondary infection described, and antibiotics do not treat scabies.",
+      "difficulty": "core"
+    },
+    {
+      "id": "skin-q02",
+      "stem": "A mother brings her 18-month-old daughter (10 kg) who has scabies. Only benzyl benzoate 25% lotion is available at the HC III. How should it be used for this child (UCG 2023)?",
+      "options": [
+        "Undiluted, applied to the whole body, left for 3 days",
+        "Diluted 1 part lotion with 3 parts water, applied to the whole body (avoiding eyes and mouth) overnight, then washed off",
+        "Diluted 1:1 with water and applied only to the hands",
+        "Taken orally, 5 mL twice daily",
+        "Not used; give oral ivermectin 2 mg instead"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: under 2 years UCG dilutes benzyl benzoate **1:3 with water**, applied to the whole body (including scalp in infants, avoiding eyes) and washed off after about 12 hours. A is wrong: undiluted lotion is very irritant in young children. C is wrong: 1:1 is for ages 2–12, and the whole body must be treated. D is wrong: benzyl benzoate is topical only. E is wrong: ivermectin is not recommended under 15 kg.",
+      "difficulty": "core"
+    },
+    {
+      "id": "skin-q03",
+      "stem": "Two weeks after correct permethrin treatment of her whole family, a 6-year-old girl still itches at night. There are healing excoriations but no new burrows. What is the BEST response?",
+      "options": [
+        "Treatment has failed; give oral ivermectin to all",
+        "Start a potent steroid for 4 weeks",
+        "Diagnose atopic eczema and start emollients only",
+        "Reassure that itch can persist 2–4 weeks after successful treatment; give an antihistamine and emollient and review in 2 weeks",
+        "Admit for crusted scabies"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: post-scabies itch is a **hypersensitivity reaction** that can last 2–4 weeks; with no new burrows, reassure, use antihistamine/emollient and review. A is wrong: failure is suggested by new burrows or itching beyond 4 weeks. B is wrong: a prolonged potent steroid is unnecessary. C is wrong: there is no evidence of eczema. E is wrong: crusted scabies has thick crusts and occurs in immunosuppressed children.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "skin-q04",
+      "stem": "A 7-year-old girl (20 kg) has had a scaly patch with broken hairs and hair loss on her scalp for 2 months; two classmates have similar patches. A clotrimazole cream did not help. What is the MOST appropriate treatment?",
+      "options": [
+        "Oral griseofulvin with fatty food for 6–8 weeks (UCG 10 mg/kg/day, doubled if severe), plus antifungal shampoo",
+        "Continue clotrimazole cream for another month",
+        "Betamethasone 0.1% scalp application",
+        "Oral cloxacillin for 7 days",
+        "Shave the head and apply gentian violet only"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: **tinea capitis** needs **oral** antifungal (griseofulvin, or terbinafine 125 mg/day for 20–40 kg for 4 weeks), with a shampoo to reduce spore shedding. B is wrong: topicals cannot reach the hair follicle. C is wrong: steroids worsen fungal infection. D is wrong: this is not bacterial. E is wrong: gentian violet does not treat the fungus in the hair shaft.",
+      "difficulty": "core"
+    },
+    {
+      "id": "skin-q05",
+      "stem": "A 10-year-old has a 4 cm ring-shaped lesion on the thigh that has grown for 2 months despite a pharmacy cream containing betamethasone, clotrimazole and gentamicin. It now looks red and poorly defined with pustules at the edge. What is the MOST likely explanation?",
+      "options": [
+        "Psoriasis",
+        "Contact dermatitis to gentamicin",
+        "Tinea incognito: steroid has modified and spread a tinea infection",
+        "Impetigo",
+        "Granuloma annulare"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: steroid in combination creams suppresses inflammation and allows dermatophytes to spread, producing an atypical, extensive **tinea incognito**; stop the steroid, do a KOH scraping and give an antifungal (oral if extensive). A is wrong: psoriasis gives well-demarcated silvery plaques on extensor surfaces. B is wrong: contact dermatitis would not be annular with an active pustular edge. D is wrong: impetigo gives honey crusts, not an expanding ring. E is wrong: granuloma annulare is non-scaly and non-pustular.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "skin-q06",
+      "stem": "A 4-year-old (16 kg) has 12 honey-crusted lesions around the nose, mouth and on both legs, with tender inguinal nodes and temperature 38.2 °C. Which treatment is MOST appropriate?",
+      "options": [
+        "Gentian violet 0.5% alone for 3 days",
+        "Topical betamethasone",
+        "Oral cloxacillin 250 mg (about 15 mg/kg) 6-hourly for 7 days, with crust removal and hygiene",
+        "Oral griseofulvin",
+        "Oral amoxicillin 125 mg once daily"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: widespread impetigo (>5 lesions) with fever and lymphadenitis needs **systemic anti-staphylococcal treatment**: cloxacillin 12.5–25 mg/kg 6-hourly for 7 days (UCG). A is wrong: topical antiseptics suit localised disease only. B is wrong: steroids worsen infection. D is wrong: this is bacterial, not fungal. E is wrong: amoxicillin does not cover penicillinase-producing *S. aureus*, and once daily is the wrong frequency.",
+      "difficulty": "core"
+    },
+    {
+      "id": "skin-q07",
+      "stem": "A 6-year-old boy treated for impetigo 3 weeks ago now has puffy eyelids, cola-coloured urine and BP 130/88. What is the MOST likely diagnosis?",
+      "options": [
+        "Nephrotic syndrome",
+        "Staphylococcal scalded skin syndrome",
+        "Allergic reaction to cloxacillin",
+        "Urinary tract infection",
+        "Post-streptococcal glomerulonephritis"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: haematuria, oedema and hypertension **3–6 weeks after streptococcal skin infection** is classic **PSGN**. A is wrong: nephrotic syndrome causes heavy proteinuria and generalised oedema without cola urine or hypertension typically. B is wrong: SSSS is a skin condition of infants. C is wrong: drug allergy gives rash or urticaria, not nephritis on this timeline. D is wrong: UTI does not cause periorbital oedema and hypertension.",
+      "difficulty": "core"
+    },
+    {
+      "id": "skin-q08",
+      "stem": "An 8-month-old has dry, red, itchy patches on the cheeks and extensor surfaces of the limbs, waking at night. His mother washes him with bar soap three times a day. No infection. What is the MOST important first-line advice?",
+      "options": [
+        "Stop breastfeeding and start soya formula",
+        "Use emollients (e.g. petroleum jelly) liberally several times a day, stop soap and use an emollient as soap substitute, with hydrocortisone 1% to red areas for flares",
+        "Betamethasone 0.1% to the face twice daily for 4 weeks",
+        "Oral cloxacillin for 7 days",
+        "Oral prednisolone 1 mg/kg for 2 weeks"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: **atopic eczema** management rests on **emollients and soap avoidance**, with a mild steroid (hydrocortisone 1%) for facial flares. A is wrong: stopping breastfeeding is not recommended; food allergy is an uncommon cause. C is wrong: potent steroids on an infant's face cause atrophy. D is wrong: there are no signs of infection. E is wrong: systemic steroids are not used for routine eczema.",
+      "difficulty": "core"
+    },
+    {
+      "id": "skin-q09",
+      "stem": "A 3-year-old with long-standing eczema develops fever and painful, clustered, punched-out erosions on the face and neck over 2 days. What is the BEST management?",
+      "options": [
+        "Aciclovir (IV 10–20 mg/kg 8-hourly if unwell or near the eye, otherwise oral 20 mg/kg 5 times daily) and urgent eye review if periocular",
+        "Increase to a potent topical steroid",
+        "Oral cloxacillin alone",
+        "Calamine lotion and reassurance",
+        "Wet wraps with betamethasone"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: punched-out painful erosions on eczema with fever = **eczema herpeticum** (HSV), an emergency treated with **aciclovir**. B is wrong: steroids worsen herpes infection. C is wrong: antibiotics may be added for secondary infection but do not treat HSV. D is wrong: this is dangerous to dismiss. E is wrong: occlusive steroid wraps would spread the virus.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "skin-q10",
+      "stem": "A 9-year-old girl on cotrimoxazole prophylaxis (started 2 weeks ago after an HIV diagnosis) presents with fever, painful red eyes, lip crusting, mouth ulcers and dusky macules with blisters covering about 8% of her body. What is the MOST appropriate action?",
+      "options": [
+        "Continue cotrimoxazole and add chlorphenamine",
+        "Stop cotrimoxazole and give prednisolone 1 mg/kg at home",
+        "Admit, but restart cotrimoxazole after 1 week",
+        "Stop cotrimoxazole, admit for supportive burn-type care with fluids, eye and mouth care, ophthalmology review, and later switch prophylaxis to dapsone",
+        "Treat as measles with vitamin A"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: mucosal involvement of eyes and mouth plus blistering <10% BSA after a new sulfonamide = **SJS**; stop the drug, admit for supportive care with eye review, never rechallenge, and use **dapsone** for PCP prophylaxis. A is wrong: continuing the culprit drug can progress to TEN. B is wrong: SJS needs admission and steroids are not routinely recommended (UCG). C is wrong: rechallenge can be fatal. E is wrong: measles has a morbilliform rash without blistering and the drug history points to SJS.",
+      "difficulty": "core"
+    },
+    {
+      "id": "skin-q11",
+      "stem": "A 10-year-old boy has more than 50 pearly, umbilicated papules on his face, neck and trunk, some over 1 cm. He has had recurrent pneumonia. What is the MOST important next step?",
+      "options": [
+        "Reassure; molluscum always resolves",
+        "Curette all lesions today",
+        "Apply a potent steroid cream",
+        "HIV test, and if positive start ART (lesions often regress on ART)",
+        "Oral aciclovir"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: **extensive and giant molluscum** in an older child with recurrent pneumonia strongly suggests **HIV** (WHO stage 2 sign); ART is the most effective treatment. A is wrong: reassurance misses the underlying immunosuppression. B is wrong: destroying lesions without addressing the cause leads to recurrence. C is wrong: steroids worsen viral skin infections. E is wrong: aciclovir does not act on poxvirus.",
+      "difficulty": "core"
+    },
+    {
+      "id": "skin-q12",
+      "stem": "A 2-year-old has crops of intensely itchy papules with central puncta on his legs and forearms, recurring for months, especially after visiting his grandmother's house where there are bedbugs. Siblings are less affected; no burrows. What is the MOST likely diagnosis?",
+      "options": [
+        "Papular urticaria (insect-bite hypersensitivity)",
+        "Scabies",
+        "Atopic eczema",
+        "Chickenpox",
+        "Papular pruritic eruption of HIV"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: grouped itchy papules with puncta on exposed skin, recurring after insect exposure, without burrows = **papular urticaria**. B is wrong: scabies has burrows in webs/wrists/genitals and affects contacts. C is wrong: eczema is dry and flexural (or facial in infants), not punctate. D is wrong: chickenpox is an acute febrile vesicular illness. E is wrong: PPE is possible but HIV should be considered only if there are other clues; the history here fits insect bites.",
+      "difficulty": "core"
+    },
+    {
+      "id": "skin-q13",
+      "stem": "A 5-year-old (18 kg) develops wheals all over his body 30 minutes after eating groundnuts, with lip swelling, hoarseness and wheeze. SpO₂ 92%. What is the FIRST treatment?",
+      "options": [
+        "Cetirizine 5 mg orally",
+        "Prednisolone 18 mg orally",
+        "Chlorphenamine 2 mg orally",
+        "Calamine lotion",
+        "Adrenaline 1:1000, 0.18 mL IM into the anterolateral thigh"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: urticaria with **airway (hoarseness, lip swelling) and breathing (wheeze, hypoxaemia)** involvement is **anaphylaxis**: IM adrenaline 0.01 mL/kg of 1:1000 (UCG band <6 years 0.15 mL), repeated every 5 minutes, plus oxygen. A, B and C are wrong: antihistamines and steroids are second-line and too slow to treat airway swelling. D is wrong: calamine is only for itch.",
+      "difficulty": "core"
+    },
+    {
+      "id": "skin-q14",
+      "stem": "A 22-month-old (7.5 kg) with bilateral pitting oedema has dark, cracked, peeling patches on the legs and buttocks with raw pink areas underneath. What is the MOST appropriate skin care alongside the SAM protocol?",
+      "options": [
+        "Betamethasone 0.1% ointment to all lesions",
+        "Daily bathing with bar soap and nappies to keep the area clean",
+        "Potassium permanganate 0.01% soaks, barrier cream (zinc and castor oil or petroleum jelly) to raw areas, gentian violet or nystatin for sores, no nappies",
+        "Oral griseofulvin for 6 weeks",
+        "Benzyl benzoate to the whole body"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: this is **kwashiorkor dermatosis**; WHO recommends potassium permanganate soaks, barrier creams, gentian violet/nystatin for sores and leaving the perineum uncovered, with zinc in the feeds. A is wrong: steroids thin damaged skin and increase infection. B is wrong: soap dries the skin and nappies keep raw areas moist. D is wrong: this is not a fungal infection. E is wrong: there is no scabies.",
+      "difficulty": "core"
+    },
+    {
+      "id": "skin-q15",
+      "stem": "A 3-week-old baby has fever, irritability and tender, red skin that peels off in sheets around the mouth, neck folds and groin when gently rubbed. The mouth and eyes are normal. What is the MOST likely diagnosis and treatment?",
+      "options": [
+        "Toxic epidermal necrolysis; stop all drugs and give steroids",
+        "Staphylococcal scalded skin syndrome; admit, IV cloxacillin/flucloxacillin, fluids and gentle skin care",
+        "Bullous impetigo; topical gentian violet only",
+        "Neonatal eczema; emollients",
+        "Congenital syphilis; benzathine penicillin IM once"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: superficial peeling with a positive Nikolsky sign, flexural and perioral accentuation, fever and **sparing of mucous membranes** in an infant = **SSSS** (staphylococcal exfoliative toxin); treat with IV anti-staphylococcal antibiotics, fluids and burn-type skin care. A is wrong: TEN involves mucosae and usually follows a drug; steroids are not indicated. C is wrong: bullous impetigo is localised and the baby is well. D is wrong: eczema does not peel in sheets with fever. E is wrong: congenital syphilis can blister palms and soles, but needs a full course of IV benzylpenicillin, not a single benzathine dose.",
+      "difficulty": "advanced"
+    }
+  ],
+  "cases": [
+    {
+      "id": "skin-c01",
+      "title": "A household with itch and sores",
+      "presentation": "A mother brings her 6-year-old son (18 kg) to the Mengo outpatient clinic: he has itched for 3 weeks, mostly at night, and has had painful crusted sores on his hands for 5 days. His sisters aged 4 and 18 months and the mother also itch. They share one bed in a single room in Kisenyi.",
+      "steps": [
+        { "prompt": "What will you look for on examination?", "answer": "Distribution and type of lesions: **burrows and excoriated papules** in finger webs, wrists, axillae, umbilicus, genitals (and palms/soles/scalp in the baby); **secondary infection** (honey crusts, pustules, cellulitis, nodes, fever); general state, nutrition; **BP and urine dipstick** for PSGN; signs of HIV if relevant. He has burrows in typical sites and honey-crusted lesions on both hands; BP and urine normal." },
+        { "prompt": "What is your diagnosis?", "answer": "**Scabies** with **secondary impetigo**, household outbreak." },
+        { "prompt": "Prescribe for the family.", "answer": "Scabicide for **all four at the same time, the same night**: permethrin 5% (from 2 months) or **benzyl benzoate 25%: full strength for the mother, diluted 1:1 for the 6- and 4-year-olds, 1:3 for the 18-month-old**; neck to toe (whole body including scalp in the baby), wash off in the morning, **repeat** (after 7 days with permethrin). For the impetigo (>5 lesions): **cloxacillin 250 mg 6-hourly for 7 days** (≈14 mg/kg). Chlorphenamine 2 mg at night for the boy." },
+        { "prompt": "What practical advice do you give the mother?", "answer": "Wash all bedding, clothes and towels in hot water and dry in the sun (or seal in a bag for 72 h) on the day of treatment; cut nails short; reapply to hands if washed; **itch can last 2–4 weeks**; come back if new sores, facial swelling or dark urine (PSGN)." },
+        { "prompt": "At review in 3 weeks the boy has no new burrows but the 18-month-old has new papules on her soles. What now?", "answer": "Likely **treatment failure or re-infestation in the baby** (possibly under-applied to soles/scalp, or another contact untreated, e.g. a visiting relative). Re-treat the whole household correctly, check all contacts; ivermectin is not used under 15 kg, so repeat permethrin/diluted benzyl benzoate or sulphur ointment for 3 nights." }
+      ],
+      "takeaway": "Scabies is a household disease: treat everyone at once, repeat, clean bedding, treat secondary impetigo, and remember PSGN."
+    },
+    {
+      "id": "skin-c02",
+      "title": "Rash and mouth sores on cotrimoxazole",
+      "presentation": "A 9-year-old girl (24 kg), newly diagnosed with HIV 3 weeks ago, was started on cotrimoxazole prophylaxis and is due to start ART next week. She now has 3 days of fever, sore red eyes, painful mouth ulcers so she cannot eat, and dusky red macules on the trunk with a few flaccid blisters.",
+      "steps": [
+        { "prompt": "What is the likely diagnosis and how do you estimate severity?", "answer": "**Stevens–Johnson syndrome** triggered by **cotrimoxazole** (onset 4–28 days after a new drug, fever, ≥2 mucosae, blistering). Estimate % BSA with **epidermal detachment** (child's palm ≈1%): about 6% → **SJS** (<10%); overlap 10–30%; TEN >30%. Check the Nikolsky sign and vitals." },
+        { "prompt": "What are your immediate actions?", "answer": "**Stop cotrimoxazole** (and any non-essential drug), document the allergy clearly, **admit**; IV access in unaffected skin, fluids (maintenance plus losses; urine output ≥1 mL/kg/h), analgesia (paracetamol, morphine), warm room, barrier nursing." },
+        { "prompt": "How do you care for her skin, eyes and mouth?", "answer": "**Skin**: leave blisters intact, non-adherent dressings (paraffin gauze, petroleum jelly), no adhesive tape. **Eyes**: **ophthalmology within 24 h**, saline cleaning, lubricants, antibiotic ointment, separate the lids. **Mouth**: saline/chlorhexidine mouthwash, petroleum jelly to lips, analgesia before feeds; NG feeding if needed. Genital care to prevent adhesions." },
+        { "prompt": "Would you give steroids or prophylactic antibiotics?", "answer": "**No routine steroids** (UCG 2023: no strong evidence; they increase infection and catabolism) and **no prophylactic antibiotics**: monitor and culture, treat proven infection." },
+        { "prompt": "What changes in her HIV care after recovery?", "answer": "**Never rechallenge** with cotrimoxazole or other sulfonamides; PCP prophylaxis with **dapsone 2 mg/kg once daily (max 100 mg)**; start ART (DTG-based per Uganda guidelines, avoiding nevirapine); record the reaction in her HIV card; report the adverse drug reaction." }
+      ],
+      "takeaway": "Fever, sore eyes and mouth, and a blistering rash after a new drug = SJS: stop the drug, burn-type supportive care, early eye review, never rechallenge."
+    },
+    {
+      "id": "skin-c03",
+      "title": "The tutorial case: an itchy infant with weeping cheeks",
+      "presentation": "For the skin tutorial, Edith presents an 8-month-old boy (7.8 kg, WAZ −0.6) with 3 months of itchy, red, dry patches on both cheeks, scalp and the outer arms and shins, worse in the last 3 days with yellow crusts and weeping on the cheeks. He is exclusively breastfed plus porridge, immunised up to date for age (measles-rubella is due at 9 months), and both parents are HIV-negative. His father has asthma.",
+      "steps": [
+        { "prompt": "Describe the rash using correct terms and give the diagnosis.", "answer": "Symmetrical, **ill-defined erythematous, dry, scaly patches and plaques** on the **cheeks, scalp and extensor limbs** with **excoriations**; on the cheeks **weeping and honey-coloured crusts**. Diagnosis: **infantile atopic eczema** (family history of atopy) **with secondary bacterial infection (impetiginised eczema)**." },
+        { "prompt": "What must you exclude because it is an emergency?", "answer": "**Eczema herpeticum**: painful, clustered, **punched-out erosions**, fever, unwell baby. Here the lesions are crusted and weeping without punched-out erosions, and he is afebrile, so it is bacterial; if any doubt, start aciclovir." },
+        { "prompt": "Prescribe his treatment.", "answer": "**Flucloxacillin/cloxacillin 12.5–25 mg/kg 6-hourly** (about 125 mg 6-hourly) for 7 days; **emollient** (petroleum jelly or emulsifying ointment) liberally 3–4 times a day and as a **soap substitute**; **hydrocortisone 1%** once or twice daily to red areas on the face and body for 7–14 days (FTU guidance: about 1 FTU for the face and neck at this age); stop bar soap; cotton clothes; antihistamine generally avoided at this age (promethazine contraindicated under 2 years)." },
+        { "prompt": "How would you explain the condition to the mother?", "answer": "Eczema is a **dry, sensitive skin** condition that runs in families with asthma/allergy; it comes and goes and usually improves as children grow; it is **not contagious**; the most important treatment is **daily moisturiser**, even when the skin looks good; steroid creams are safe when used correctly in small amounts for short periods; come back urgently if painful sores or fever appear." },
+        { "prompt": "Summarise this case for the group in two sentences as you would in the tutorial.", "answer": "\"An 8-month-old with infantile atopic eczema of the face and extensors, now secondarily infected with Staph, in a family with asthma. Treatment is oral cloxacillin, emollients as both moisturiser and soap substitute, and hydrocortisone 1% for flares, with a clear warning about eczema herpeticum.\"" }
+      ],
+      "takeaway": "Describe, then diagnose; emollients are the backbone of eczema care, infection needs anti-staphylococcal antibiotics, and punched-out erosions mean herpes."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023: chapter 22 Skin Diseases (impetigo, tineas, scabies, pediculosis, urticaria/papular urticaria, eczema, SJS/TEN)", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Pocket book of hospital care for children, 2nd edition (7.5.3 Skin lesions in kwashiorkor; chapter 8 Children with HIV/AIDS; chapter 12 Common skin problems)", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "Scabies: Treatment & Management (Medscape)", "source": "Medscape / eMedicine", "year": 2024, "url": "https://emedicine.medscape.com/article/1109204-treatment" },
+    { "title": "Atopic eczema in under 12s: diagnosis and management (CG57)", "source": "NICE", "year": 2023, "url": "https://www.nice.org.uk/guidance/cg57/chapter/1-Guidance" },
+    { "title": "Stevens-Johnson Syndrome: Treatment & Management (Medscape)", "source": "Medscape / eMedicine", "year": 2024, "url": "https://emedicine.medscape.com/article/1197450-treatment" },
+    { "title": "Consolidated Guidelines for the Prevention and Treatment of HIV and AIDS in Uganda (WHO clinical staging; cotrimoxazole and dapsone prophylaxis)", "source": "Ministry of Health Uganda", "year": 2022 },
+    { "title": "WHO guideline on the prevention and management of wasting and nutritional oedema (acute malnutrition) in infants and children under 5 years", "source": "World Health Organization", "year": 2023, "url": "https://www.who.int/publications/i/item/9789240082830" }
+  ]
+}

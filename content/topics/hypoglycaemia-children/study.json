@@ -1,0 +1,294 @@
+{
+  "slug": "hypoglycaemia-children",
+  "flashcards": [
+    { "id": "hypo-f01", "front": "Hypoglycaemia treatment threshold in a well-nourished sick child (WHO)?", "back": "**<2.5 mmol/L (45 mg/dL)**." },
+    { "id": "hypo-f02", "front": "Hypoglycaemia threshold in a child with severe acute malnutrition?", "back": "**<3.0 mmol/L (54 mg/dL)** (WHO, UCG 2023)." },
+    { "id": "hypo-f03", "front": "Hypoglycaemia as a criterion of severe malaria (UCG 2023)?", "back": "Blood glucose **<2.2 mmol/L (40 mg/dL)** with parasitaemia." },
+    { "id": "hypo-f04", "front": "Neonatal hypoglycaemia threshold used in Ugandan newborn units?", "back": "**<2.6 mmol/L** (47 mg/dL). The WHO Pocket Book treats at <2.2 mmol/L. Symptomatic babies are treated regardless." },
+    { "id": "hypo-f05", "front": "ISPAD 2022 levels of hypoglycaemia in diabetes?", "back": "**Level 1**: <3.9 mmol/L (alert; treat with fast sugar). **Level 2**: <3.0 mmol/L (clinically significant). **Level 3**: severe event needing another person's help (coma, convulsion)." },
+    { "id": "hypo-f06", "front": "Convert mg/dL to mmol/L for glucose.", "back": "Divide by **18** (e.g. 45 mg/dL = 2.5 mmol/L; 54 mg/dL = 3.0 mmol/L)." },
+    { "id": "hypo-f07", "front": "IV dextrose bolus for hypoglycaemia in a child?", "back": "**10% dextrose 5 mL/kg** (0.5 g/kg) IV over 2–5 min (UCG 2023 allows 2–5 mL/kg); recheck in **30 min**; repeat if still low." },
+    { "id": "hypo-f08", "front": "IV dextrose bolus for a hypoglycaemic neonate?", "back": "**10% dextrose 2 mL/kg** IV, then 10% dextrose infusion (60 mL/kg/day on day 1); recheck after 30 min." },
+    { "id": "hypo-f09", "front": "How do you prepare 10% dextrose from 50% dextrose?", "back": "**1 part 50% + 4 parts water for injection** (e.g. 1 mL/kg + 4 mL/kg). UCG alternative: remove 50 mL from a 500 mL bottle of 5% dextrose and add 50 mL of 50%. Make fresh; don't store." },
+    { "id": "hypo-f10", "front": "Why never give 50% dextrose undiluted to a child?", "back": "Hyperosmolar and **sclerosing** (phlebitis, tissue necrosis if extravasated), and the sudden glucose load causes an insulin surge and **rebound hypoglycaemia**." },
+    { "id": "hypo-f11", "front": "Options when IV access fails in a hypoglycaemic child?", "back": "**NG tube**: 10% dextrose or sugar water 5 mL/kg, or milk; **sublingual sugar** (1 level teaspoon moistened, every 10–20 min); **intraosseous** line; **glucagon IM** if insulin-induced." },
+    { "id": "hypo-f12", "front": "How do you make sugar solution for NG use (WHO)?", "back": "**4 level teaspoons (20 g) of sugar in a 200 mL cup of clean water**, about 10%." },
+    { "id": "hypo-f13", "front": "Glucagon dose for severe hypoglycaemia in a child on insulin?", "back": "**0.5 mg IM/SC if <25 kg; 1 mg if ≥25 kg** (about 20–30 µg/kg). May repeat once after 15 min. Causes vomiting." },
+    { "id": "hypo-f14", "front": "When is glucagon ineffective?", "back": "When the liver has **no glycogen**: SAM, prolonged fasting, alcohol intoxication, liver failure, glycogen storage disease type 1." },
+    { "id": "hypo-f15", "front": "Why does quinine cause hypoglycaemia?", "back": "It **stimulates insulin secretion** from pancreatic beta cells (hyperinsulinaemic hypoglycaemia). Give quinine in 5–10% dextrose and monitor glucose 2-hourly; prefer artesunate." },
+    { "id": "hypo-f16", "front": "Four mechanisms of hypoglycaemia in severe malaria?", "back": "**Reduced intake** (vomiting, fasting), **increased use** (fever, parasites, hypoxic tissue), **impaired gluconeogenesis** (liver dysfunction, lactic acidosis), **quinine-induced hyperinsulinism**." },
+    { "id": "hypo-f17", "front": "SAM admission protocol to prevent hypoglycaemia?", "back": "**50 mL of 10% glucose or sugar water** orally/NG on admission, then **F-75 every 30 min for 2 h**, then **every 2 hours day and night**; keep warm; antibiotics. Unconscious: 10% glucose 5 mL/kg IV, then 50 mL by NG." },
+    { "id": "hypo-f18", "front": "Low glucose with high ketones vs low glucose without ketones?", "back": "**High ketones**: starvation, ketotic hypoglycaemia, cortisol/GH deficiency, glycogen storage disease. **No ketones**: **hyperinsulinism** (IDM, quinine, sulphonylurea, insulin) or a **fatty-acid oxidation defect**." },
+    { "id": "hypo-f19", "front": "What is ketotic hypoglycaemia?", "back": "Fasting hypoglycaemia with high ketones in a thin toddler (**18 months–5 years**) after an overnight fast or illness; diagnosis of exclusion; prevented by frequent carbohydrates; usually outgrown by school age." },
+    { "id": "hypo-f20", "front": "What is the 'critical sample'?", "back": "Blood taken **at the time of hypoglycaemia, before dextrose**: glucose, insulin, C-peptide, cortisol, GH, BOHB, free fatty acids, lactate, ammonia (± first urine for ketones/organic acids). Never delay treatment for it." },
+    { "id": "hypo-f21", "front": "Glucose infusion rate (GIR) formula?", "back": "**GIR (mg/kg/min) = % dextrose × mL/kg/day ÷ 144**. Normal neonatal need ≈4–6 mg/kg/min; **>8–10** suggests hyperinsulinism." },
+    { "id": "hypo-f22", "front": "Adrenergic vs neuroglycopenic features?", "back": "**Adrenergic**: sweating, tremor, pallor, tachycardia, anxiety, hunger. **Neuroglycopenic**: irritability, lethargy, confusion, abnormal behaviour, seizures, coma." },
+    { "id": "hypo-f23", "front": "Signs of hypoglycaemia in a newborn?", "back": "Jitteriness, poor suck, floppiness, apnoea, cyanotic spells, hypothermia, weak or high-pitched cry, seizures, or **no signs at all** (so screen at-risk babies)." },
+    { "id": "hypo-f24", "front": "Which newborns should be screened for hypoglycaemia?", "back": "Preterm, LBW/SGA, **infants of diabetic mothers**, asphyxiated, septic, hypothermic or poorly feeding babies: check before the second feed, then before feeds for at least 24 h." },
+    { "id": "hypo-f25", "front": "Oral treatment of hypoglycaemia in a conscious child (diabetes 'rule of 15')?", "back": "**0.3 g/kg** fast-acting sugar (about 10–15 g), recheck after **15 minutes**, repeat if still <3.9 mmol/L, then a complex-carbohydrate snack." },
+    { "id": "hypo-f26", "front": "Hypoglycaemia + shock + low sodium + high potassium in an infant?", "back": "**Adrenal crisis** (e.g. salt-wasting CAH): IV 0.9% saline, 10% dextrose, and **hydrocortisone** (infant 25 mg; or 2–4 mg/kg) IV, then 6-hourly." }
+  ],
+  "mcqs": [
+    {
+      "id": "hypo-q01",
+      "stem": "A 2-year-old boy (12 kg) with severe malaria is convulsing at Mengo. Glucose is 1.7 mmol/L. An IV line is in place. Which is the MOST appropriate glucose treatment?",
+      "options": [
+        "50% dextrose 12 mL IV push",
+        "10% dextrose 60 mL IV over 2–5 minutes, then recheck in 30 minutes",
+        "5% dextrose 500 mL over 4 hours",
+        "Glucagon 1 mg IM",
+        "Oral sugar water 100 mL"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: **10% dextrose 5 mL/kg** (12 × 5 = 60 mL) is the WHO/UCG dose, followed by a recheck at 30 minutes and a dextrose infusion or feeds. A is wrong: 50% dextrose must not be given undiluted to a child (sclerosis, rebound). C is wrong: 5% dextrose as slow maintenance is too little, too slowly, to correct a convulsion-causing hypoglycaemia. D is wrong: glucagon is for insulin-induced hypoglycaemia when IV access is impossible; malaria depletes glycogen. E is wrong: a convulsing child cannot swallow safely.",
+      "difficulty": "core"
+    },
+    {
+      "id": "hypo-q02",
+      "stem": "A 16-month-old girl (6.4 kg, MUAC 10.8 cm, bilateral pedal oedema ++) is admitted to the nutrition unit. She is alert, drinking, temperature 35.9 °C, glucose 2.8 mmol/L. What is the BEST immediate management?",
+      "options": [
+        "No treatment because glucose is above 2.5 mmol/L",
+        "Glucagon 0.5 mg IM",
+        "10% dextrose 5 mL/kg IV and keep nil by mouth",
+        "50 mL of 10% glucose or sugar water orally, then F-75 every 30 minutes for 2 hours, keep warm and start antibiotics",
+        "Give RUTF and review in the morning"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: in **SAM** the threshold is **3.0 mmol/L**; an alert child gets **50 mL of 10% glucose or sugar water** by mouth, then F-75 frequently, warming (hypothermia) and antibiotics (hypoglycaemia + hypothermia suggest sepsis). A is wrong: 2.5 mmol/L is the threshold for well-nourished children. B is wrong: glucagon does not work without glycogen stores. C is wrong: IV dextrose is for the unconscious child; keeping her nil by mouth delays the feeds that prevent recurrence. E is wrong: RUTF is for the rehabilitation phase, not a complicated SAM child in stabilisation.",
+      "difficulty": "core"
+    },
+    {
+      "id": "hypo-q03",
+      "stem": "At a HC III, a 4-year-old (15 kg) is unconscious with fever. There are no glucometer strips. Two attempts at IV access have failed and no intraosseous needle is available. What is the BEST way to give glucose now?",
+      "options": [
+        "Pass an NG tube and give 75 mL of 10% dextrose or sugar solution, and give sublingual sugar while preparing",
+        "Pour sugar water into his mouth with a cup",
+        "Wait for strips to confirm hypoglycaemia before giving anything",
+        "Give 50% dextrose 15 mL rectally",
+        "Give glucagon 0.5 mg IM as the only treatment"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: when IV access fails, give **10% dextrose or sugar solution 5 mL/kg by NG tube** (15 × 5 = 75 mL); **sublingual sugar** is first aid while you prepare (WHO Pocket Book). B is wrong: liquid poured into an unconscious child's mouth will be aspirated. C is wrong: if glucose cannot be measured in a comatose child, treat as hypoglycaemia. D is wrong: rectal dextrose is poorly absorbed and not recommended. E is wrong: glucagon is unreliable in febrile, fasting, possibly malarial children and is not the first choice when an NG route is possible.",
+      "difficulty": "core"
+    },
+    {
+      "id": "hypo-q04",
+      "stem": "A 2.8 kg term baby of a mother with gestational diabetes is jittery at 2 hours of age and not sucking well. Glucose is 1.8 mmol/L. What is the MOST appropriate management?",
+      "options": [
+        "Breastfeed and recheck in 3 hours",
+        "10% dextrose 5 mL/kg IV over 2 minutes",
+        "50% dextrose 1 mL/kg IV",
+        "Glucagon 1 mg IM",
+        "10% dextrose 2 mL/kg IV, then a 10% dextrose infusion at 60 mL/kg/day with continued feeds and glucose rechecks"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: a **symptomatic** neonate with glucose 1.8 mmol/L needs **10% dextrose 2 mL/kg** followed by an infusion (60 mL/kg/day on day 1) and continued feeding; IDMs have hyperinsulinism and will drop again without an infusion. A is wrong: feeding alone is only for asymptomatic, mildly low babies who can suck. B is wrong: 5 mL/kg is the dose for older children; neonates get 2 mL/kg. C is wrong: never give 50% dextrose to a baby. D is wrong: glucagon is not the first-line neonatal treatment and 1 mg is an adult-sized dose.",
+      "difficulty": "core"
+    },
+    {
+      "id": "hypo-q05",
+      "stem": "A 6-year-old (19 kg) on IV quinine for severe malaria (artesunate out of stock) becomes sweaty and confused on day 2. Glucose 2.0 mmol/L. After 10% dextrose 95 mL she wakes up. Which is the BEST explanation and plan?",
+      "options": [
+        "Cerebral malaria relapse; give a second loading dose of quinine",
+        "Hypoglycaemia from vomiting only; give oral sugar and continue quinine in normal saline",
+        "Quinine-induced hyperinsulinaemic hypoglycaemia; give quinine in 5–10% dextrose, feed, check glucose 2-hourly and switch to artesunate when available",
+        "Adrenal insufficiency; give hydrocortisone",
+        "Hypoglycaemia from paracetamol; stop paracetamol"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: quinine stimulates **insulin release**; the plan is quinine diluted in dextrose, early feeding, 2-hourly glucose and artesunate (UCG first line) as soon as possible. A is wrong: the confusion resolved with glucose, and a repeat loading dose risks quinine toxicity. B is wrong: quinine should be diluted in dextrose, not saline, in a child prone to hypoglycaemia. D is wrong: nothing suggests adrenal insufficiency (no shock, no electrolyte disturbance). E is wrong: therapeutic paracetamol does not cause hypoglycaemia.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "hypo-q06",
+      "stem": "A 3-year-old (14 kg) was treated with 10% dextrose 70 mL for a glucose of 1.9 mmol/L. At 30 minutes glucose is 5.8 mmol/L but he is still drowsy and vomiting. What is the MOST important next step to prevent recurrence?",
+      "options": [
+        "No further action; the glucose is now normal",
+        "Give another 70 mL bolus of 10% dextrose",
+        "Start a maintenance infusion containing 5–10% dextrose and recheck glucose 1–2 hourly",
+        "Give glucagon 0.5 mg IM",
+        "Give oral sugar water by cup"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: a bolus lasts minutes; a child who cannot eat needs a **dextrose-containing maintenance infusion** (Holliday–Segar about 48 mL/h for 14 kg) and frequent glucose checks to prevent **rebound hypoglycaemia**. A is wrong: rebound is common after a bolus without follow-up. B is wrong: another bolus is not needed when glucose is normal. D is wrong: glucagon is not a maintenance treatment and worsens vomiting. E is wrong: a drowsy, vomiting child may aspirate.",
+      "difficulty": "core"
+    },
+    {
+      "id": "hypo-q07",
+      "stem": "A 2½-year-old thin boy has had two morning seizures over 6 months, each after a day of poor eating during a cold. During the latest episode: glucose 2.0 mmol/L, urine ketones +++, no hepatomegaly, normal genitalia and growth along the 3rd centile. What is the MOST likely diagnosis?",
+      "options": [
+        "Ketotic hypoglycaemia",
+        "Congenital hyperinsulinism",
+        "Glycogen storage disease type 1",
+        "Medium-chain acyl-CoA dehydrogenase (MCAD) deficiency",
+        "Sulphonylurea poisoning"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: fasting hypoglycaemia with **high ketones** in a thin toddler during illness, with a normal examination, is classic **ketotic hypoglycaemia** (a diagnosis of exclusion). B is wrong: hyperinsulinism suppresses ketone production, so ketones would be low. C is wrong: GSD type 1 causes massive hepatomegaly, lactic acidosis and hypoglycaemia after short fasts. D is wrong: MCAD deficiency causes hypoketotic hypoglycaemia. E is wrong: sulphonylureas cause hyperinsulinaemic (non-ketotic) hypoglycaemia, and the pattern tracks illness rather than access to tablets.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "hypo-q08",
+      "stem": "A 10-year-old girl (28 kg) with type 1 diabetes collapses at school after playing football and missing lunch. She is unconscious, and the school nurse has no IV access. What should the nurse give?",
+      "options": [
+        "Oral sugar water poured into her mouth",
+        "Insulin, because she may be in DKA",
+        "Nothing until she reaches hospital",
+        "Glucagon 1 mg IM, then oral sugar and a snack when she wakes",
+        "Glucagon 0.25 mg IM"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: severe (level 3) hypoglycaemia in an insulin-treated child with no IV access: **glucagon 1 mg IM** (≥25 kg), then oral glucose and complex carbohydrate when awake (ISPAD 2022). A is wrong: unconscious children aspirate oral fluids. B is wrong: the story (exercise, missed lunch) is typical of hypoglycaemia; insulin could be fatal. C is wrong: delay risks brain injury. E is wrong: 0.25 mg is too low; children ≥25 kg get 1 mg (0.5 mg if <25 kg).",
+      "difficulty": "core"
+    },
+    {
+      "id": "hypo-q09",
+      "stem": "A 2.0 kg preterm neonate is on 10% dextrose at 90 mL/kg/day and continues to have glucose readings of 2.0–2.3 mmol/L. What is the glucose infusion rate, and what does it suggest?",
+      "options": [
+        "2.5 mg/kg/min: the infusion is inadequate, increase to 150 mL/kg/day immediately",
+        "6.25 mg/kg/min: above normal production; increase GIR carefully and consider hyperinsulinism or sepsis if needs exceed 8–10 mg/kg/min",
+        "9 mg/kg/min: confirms hyperinsulinism",
+        "62.5 mg/kg/min: dangerously high; stop the infusion",
+        "6.25 mg/kg/min: normal, so the glucometer must be wrong; ignore it"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: GIR = % × mL/kg/day ÷ 144 = 10 × 90 ÷ 144 = **6.25 mg/kg/min**, already at the upper end of normal neonatal glucose production; persisting hypoglycaemia needs a higher GIR and, if >8–10 mg/kg/min is required, evaluation for **hyperinsulinism** (and sepsis). A is wrong: the arithmetic is wrong and a sudden jump to 150 mL/kg/day risks fluid overload. C is wrong: the calculation is wrong and 6.25 does not yet confirm hyperinsulinism. D is wrong: misplaced decimal. E is wrong: low readings in a sick preterm baby must be acted on, ideally confirmed with a lab glucose.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "hypo-q10",
+      "stem": "A 3-year-old (14 kg) is brought at 07:00 drowsy and sweaty. Last night his grandmother, who has type 2 diabetes, found her tablet strip open. Glucose 1.5 mmol/L; he improves after 10% dextrose 70 mL. What is the MOST important next step?",
+      "options": [
+        "Discharge after a meal because he is now awake",
+        "Induce vomiting with salt water",
+        "Give insulin to stabilise the glucose",
+        "Give activated charcoal and discharge after 2 hours",
+        "Admit for at least 24 hours of observation with a dextrose infusion and frequent glucose checks (octreotide if recurrent)"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: suspected **sulphonylurea** ingestion causes prolonged, recurrent hyperinsulinaemic hypoglycaemia (up to 24 hours or more, longer for long-acting agents); admit, infuse dextrose, check glucose 1–2 hourly, and use octreotide for recurrence. A is wrong: hypoglycaemia will recur. B is wrong: salt emetics can be fatal and emesis is not recommended. C is wrong: insulin would worsen hypoglycaemia. D is wrong: charcoal may help only soon after ingestion; early discharge is unsafe.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "hypo-q11",
+      "stem": "Which statement about making 10% dextrose on a Ugandan ward is CORRECT?",
+      "options": [
+        "Mix equal volumes of 50% dextrose and water to make 10%",
+        "50% dextrose can be given undiluted if pushed slowly",
+        "5% dextrose is equivalent to 10% dextrose for boluses",
+        "It can be prepared in advance and stored for the week",
+        "1 part 50% dextrose plus 4 parts water for injection gives 10% dextrose"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: 1 mL of 50% (0.5 g) + 4 mL water = 5 mL containing 0.5 g = **10%**; UCG also describes replacing 50 mL of a 500 mL bottle of 5% dextrose with 50 mL of 50%. A is wrong: equal volumes give 25% dextrose. B is wrong: undiluted 50% damages veins and causes rebound. C is wrong: 5% dextrose delivers half the glucose per mL and is not used for boluses. D is wrong: UCG says use immediately, do not store (infection risk).",
+      "difficulty": "core"
+    },
+    {
+      "id": "hypo-q12",
+      "stem": "A 5-week-old boy presents with vomiting, poor feeding and lethargy. Weight 3.2 kg (birth weight 3.4 kg), cold peripheries, CRT 4 s. Glucose 2.1 mmol/L, Na 121 mmol/L, K 7.0 mmol/L. His scrotum looks pigmented. What is the MOST important treatment in addition to fluids and dextrose?",
+      "options": [
+        "Calcium gluconate only",
+        "IV hydrocortisone",
+        "IV ceftriaxone only",
+        "Insulin and dextrose for the potassium",
+        "Oral rehydration solution"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: hypoglycaemia, **hyponatraemia, hyperkalaemia**, shock and hyperpigmentation in a young infant = **salt-wasting adrenal crisis (CAH)**; give **IV hydrocortisone** (infant about 25 mg or 50–100 mg/m²) with saline and dextrose. A is wrong: calcium protects the heart briefly but does not treat the cause. C is wrong: sepsis should be covered too, but antibiotics alone will not correct cortisol deficiency. D is wrong: insulin in a hypoglycaemic infant is dangerous; potassium falls with steroids and saline. E is wrong: a shocked infant needs IV treatment.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "hypo-q13",
+      "stem": "Which group of hospitalised children is it MOST important to screen routinely for hypoglycaemia on admission?",
+      "options": [
+        "Children with severe malaria, SAM, sepsis, coma or convulsions, and at-risk newborns",
+        "All children with simple URTI",
+        "Children admitted for elective hernia repair who are eating normally",
+        "Well children attending the immunisation clinic",
+        "Children with mild eczema"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: these are the groups in whom hypoglycaemia is common, often silent, and lethal: **severe malaria, SAM, sepsis, coma/convulsions and at-risk newborns** (preterm, SGA, IDM, asphyxia, hypothermia). B is wrong: well-feeding children with URTIs are at low risk. C is wrong: well-fed elective patients need only sensible fasting rules. D is wrong: routine screening of well children is not indicated. E is wrong: eczema does not cause hypoglycaemia.",
+      "difficulty": "core"
+    },
+    {
+      "id": "hypo-q14",
+      "stem": "A 7-year-old (22 kg) is admitted unconscious after drinking a sachet of waragi at a party. He is cold (35.2 °C) and his glucose is 2.2 mmol/L. Which is the MOST appropriate management?",
+      "options": [
+        "Glucagon 1 mg IM",
+        "Induce vomiting and observe",
+        "IV thiamine and no glucose until thiamine is given",
+        "10% dextrose 110 mL IV, then a dextrose infusion, warming, airway protection and glucose monitoring",
+        "Flumazenil IV"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: alcohol blocks gluconeogenesis, so children develop **hypoglycaemia and hypothermia**; treat with **10% dextrose 5 mL/kg** (110 mL), a dextrose infusion, warming, recovery position and monitoring. A is wrong: glucagon is ineffective when alcohol blocks hepatic glucose output and glycogen is low. B is wrong: inducing vomiting in an unconscious child causes aspiration. C is wrong: thiamine-before-glucose applies to malnourished adult alcoholics, and must never delay glucose in a hypoglycaemic child. E is wrong: flumazenil reverses benzodiazepines, not alcohol.",
+      "difficulty": "core"
+    },
+    {
+      "id": "hypo-q15",
+      "stem": "During your tutorial, Dr Mawanda asks: 'Which finding at the time of hypoglycaemia most strongly suggests hyperinsulinism?' Which answer is BEST?",
+      "options": [
+        "High urine ketones",
+        "Massive hepatomegaly with lactic acidosis",
+        "Low or absent ketones with detectable insulin and a high glucose requirement",
+        "Low cortisol",
+        "Hypoglycaemia only after 24 hours of fasting"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: insulin suppresses lipolysis and ketogenesis, so **hyperinsulinism** gives hypoglycaemia with **low ketones**, **detectable insulin** when glucose is low, and a **high glucose infusion requirement** (>8–10 mg/kg/min). A is wrong: high ketones point to starvation/ketotic hypoglycaemia or hormone deficiency. B is wrong: that describes glycogen storage disease type 1. D is wrong: low cortisol suggests adrenal insufficiency. E is wrong: hypoglycaemia only after a long fast suggests a fasting-adaptation problem; hyperinsulinism causes hypoglycaemia even after short fasts or soon after feeds.",
+      "difficulty": "advanced"
+    }
+  ],
+  "cases": [
+    {
+      "id": "hypo-c01",
+      "title": "The tutorial opening case: a convulsing child at 2 a.m.",
+      "presentation": "A 3-year-old boy is brought to Mengo at 02:00 with 2 days of fever and vomiting. He had a 15-minute convulsion at home and now responds only to pain. Hands warm, CRT 2 s, pulse 140/min, RR 36, SpO₂ 96% in air. No wasting or oedema. Estimated weight 13 kg. The glucometer has no strips.",
+      "steps": [
+        { "prompt": "Triage him and state your first actions.", "answer": "**Emergency** (coma: AVPU P). Airway: recovery position, suction if needed. Breathing: SpO₂ 96%, no oxygen required. Circulation: not shocked (no bolus). IV access and blood for **mRDT/smear, Hb, cross-match, and glucose if a lab can do it**." },
+        { "prompt": "There are no strips. What do you do about glucose?", "answer": "**Treat as hypoglycaemia**: 10% dextrose **5 mL/kg = 65 mL** IV over 2–5 min, made from **13 mL of 50% dextrose + 52 mL water for injection**. Document the time; recheck when strips or the lab result arrive (lab glucose comes back 1.6 mmol/L)." },
+        { "prompt": "Thirty minutes later he is responding to voice. What next?", "answer": "Prevent rebound: **maintenance fluid containing dextrose** (e.g. 10% dextrose in 0.45% saline; Holliday–Segar 1,150 mL/day ≈ 48 mL/h) until he can feed; start feeds as soon as safe. Glucose **4-hourly** (2-hourly while drowsy). mRDT positive → **IV artesunate 3 mg/kg = 39 mg** at 0, 12, 24 h, then daily until oral ACT." },
+        { "prompt": "Why was this child hypoglycaemic?", "answer": "**Severe malaria**: reduced intake (2 days of vomiting), increased use (fever, parasites), impaired hepatic gluconeogenesis, plus the convulsion. If he had received **quinine**, hyperinsulinism would add to it. Also consider sepsis/meningitis." },
+        { "prompt": "Six hours later he is fully alert, eating porridge, glucose 6.1 mmol/L. How do you continue and when do you stop monitoring?", "answer": "Reduce and stop IV fluids as oral intake is reliable; continue glucose checks 4–6 hourly until he has eaten normally for 24 hours; complete artesunate then oral ACT; check Hb; HIV status; bed nets and early treatment advice; immunisation check." },
+        { "prompt": "Give the five take-home messages you would close the tutorial with.", "answer": "(1) Check glucose in every sick child; **treat if you can't measure**. (2) **10% dextrose 5 mL/kg** (2 mL/kg neonate). (3) **Never undiluted 50%**; 1 part + 4 parts water. (4) **Recheck at 30 min** and feed or infuse. (5) **Prevent**: feed, warm, artesunate, night feeds in SAM, screen at-risk newborns." }
+      ],
+      "takeaway": "In a comatose febrile child, glucose comes before the diagnosis; if you cannot measure it, treat it, then prevent rebound and treat the cause."
+    },
+    {
+      "id": "hypo-c02",
+      "title": "Hypoglycaemia and hypothermia in kwashiorkor",
+      "presentation": "A 20-month-old girl is admitted to the nutrition unit at 21:00. Weight 7.0 kg, length 76 cm, MUAC 11.2 cm, bilateral pitting oedema up to the knees, flaky-paint skin. She is lethargic but rousable, temperature 35.3 °C (axillary), glucose 2.4 mmol/L. Mother is HIV-positive on ART; the child's status is unknown.",
+      "steps": [
+        { "prompt": "What are her immediate problems?", "answer": "**Complicated SAM** (oedematous malnutrition, grade ++), **hypoglycaemia** (<3.0 mmol/L threshold in SAM), **hypothermia** (<35.5 °C), likely **sepsis**, HIV exposure." },
+        { "prompt": "How do you treat the hypoglycaemia?", "answer": "She is rousable and can swallow: **50 mL of 10% glucose or sugar water** (1 rounded teaspoon of sugar in 3 tablespoons of water) orally or by NG, then **F-75 every 30 minutes for 2 hours**, then **2-hourly day and night**. If she were unconscious: **10% glucose 5 mL/kg = 35 mL IV**, then 50 mL by NG. **No glucagon**." },
+        { "prompt": "How do you treat the hypothermia?", "answer": "Skin-to-skin (kangaroo) with the mother, cover including the head, warm room, warm blankets; avoid hot-water bottles directly on the skin; feed; recheck temperature every 30 min–2 hours; keep away from windows and draughts at night." },
+        { "prompt": "What other treatment starts tonight?", "answer": "**Antibiotics** (e.g. IV ampicillin 50 mg/kg 6-hourly + gentamicin 7.5 mg/kg daily for complicated SAM), no IV fluids unless shocked, careful hydration assessment (ReSoMal only if dehydrated), micronutrients (no iron yet), **HIV test** (at 20 months a rapid antibody test, confirmed per the national algorithm; DNA PCR is used under 18 months), skin care." },
+        { "prompt": "Why do most SAM deaths happen at night, and how do you prevent them?", "answer": "Long gaps between feeds overnight, cold rooms and fewer staff lead to **hypoglycaemia and hypothermia**. Prevention: **2–3-hourly feeds including at night**, warmth, glucose and temperature checks, and staff/caregiver education." }
+      ],
+      "takeaway": "In SAM, treat glucose below 3.0 mmol/L, never use glucagon, and remember that hypoglycaemia, hypothermia and infection come together; night feeds save lives."
+    },
+    {
+      "id": "hypo-c03",
+      "title": "A jittery baby of a diabetic mother",
+      "presentation": "A 4.3 kg baby boy is born at 39 weeks by caesarean section to a mother with gestational diabetes on insulin. At 90 minutes of age he is jittery and has not latched. Temperature 36.6 °C, RR 52, no distress. Heel-prick glucose 1.9 mmol/L.",
+      "steps": [
+        { "prompt": "Why is this baby at risk of hypoglycaemia?", "answer": "**Infant of a diabetic mother**: fetal **hyperinsulinism** from exposure to maternal hyperglycaemia (Pedersen hypothesis) persists after the cord is cut, so glucose falls sharply in the first hours; macrosomia confirms poor maternal control." },
+        { "prompt": "What do you do now?", "answer": "He is **symptomatic** and <2.6 mmol/L: **10% dextrose 2 mL/kg = 8.6 mL IV** over 5 min, then **10% dextrose infusion 60 mL/kg/day** (≈11 mL/h), keep warm, continue/assist breastfeeding (EBM by cup or NG), recheck glucose in 30 min." },
+        { "prompt": "Glucose at 30 minutes is 2.4 mmol/L and later 2.2 mmol/L despite the infusion. What next?", "answer": "Calculate GIR: 10 × 60 ÷ 144 = **4.2 mg/kg/min**. Increase GIR stepwise (increase volume to 80–90 mL/kg/day or concentration to 12.5% peripherally), repeat a 2 mL/kg bolus if symptomatic, and inform the senior. A GIR >8–10 mg/kg/min would suggest persistent hyperinsulinism needing specialist care." },
+        { "prompt": "What other problems do you look for in this baby?", "answer": "**Hypocalcaemia**, **polycythaemia** (and jaundice), **respiratory distress** (delayed lung maturity, CS), **birth trauma** (shoulder dystocia, brachial plexus injury), congenital heart disease (septal hypertrophy), and **hypomagnesaemia**." },
+        { "prompt": "When can you stop monitoring?", "answer": "When he has had **three consecutive pre-feed glucose readings ≥2.6 mmol/L** on full enteral feeds after the infusion is weaned (usually within 24–48 h). Counsel the mother about postpartum glucose testing (OGTT at 6–12 weeks) for her own type 2 diabetes risk." }
+      ],
+      "takeaway": "Infants of diabetic mothers have transient hyperinsulinism: treat symptomatic hypoglycaemia with 2 mL/kg of 10% dextrose and an infusion, calculate the GIR, and keep feeding."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023: section 1.1.6 Hypoglycaemia; 2.5.3 Severe malaria (complications); chapter 19 Nutrition (SAM complications)", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Pocket book of hospital care for children, 2nd edition (Chart 10: How to give glucose intravenously; Chapter 7: Severe acute malnutrition)", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "WHO guideline on the prevention and management of wasting and nutritional oedema (acute malnutrition) in infants and children under 5 years", "source": "World Health Organization", "year": 2023, "url": "https://www.who.int/publications/i/item/9789240082830" },
+    { "title": "Pediatric Hypoglycemia: Treatment & Management (Medscape)", "source": "Medscape / eMedicine", "year": 2024, "url": "https://emedicine.medscape.com/article/921936-treatment" },
+    { "title": "Diabetes (type 1 and type 2) in children and young people: diagnosis and management (NG18), recommendations on hypoglycaemia", "source": "NICE", "year": 2023, "url": "https://www.nice.org.uk/guidance/ng18/chapter/Recommendations" },
+    { "title": "ISPAD Clinical Practice Consensus Guidelines 2022: Assessment and management of hypoglycemia in children and adolescents with diabetes", "source": "Pediatric Diabetes (International Society for Pediatric and Adolescent Diabetes)", "year": 2022 },
+    { "title": "Paediatric emergency triage, assessment and treatment: care of critically-ill children", "source": "World Health Organization", "year": 2016, "url": "https://www.who.int/publications/i/item/9789241510219" }
+  ]
+}

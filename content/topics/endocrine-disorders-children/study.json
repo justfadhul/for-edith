@@ -1,0 +1,296 @@
+{
+  "slug": "endocrine-disorders-children",
+  "flashcards": [
+    { "id": "endo-f01", "front": "Diagnostic criteria for diabetes in a child?", "back": "Symptoms + **random glucose ≥11.1 mmol/L**; or **fasting ≥7.0 mmol/L**; or 2-h OGTT ≥11.1; or **HbA1c ≥48 mmol/mol (6.5%)**. Without symptoms, confirm on another day." },
+    { "id": "endo-f02", "front": "The 4 Ts of new type 1 diabetes?", "back": "**Toilet** (polyuria, nocturia, new bed-wetting), **Thirsty**, **Tired**, **Thinner** (weight loss)." },
+    { "id": "endo-f03", "front": "ISPAD 2022 definition of DKA?", "back": "Glucose **>11 mmol/L** + venous **pH <7.3 or HCO₃ <18 mmol/L** + **ketonaemia (BOHB ≥3 mmol/L)** or moderate/large ketonuria." },
+    { "id": "endo-f04", "front": "DKA severity by pH and bicarbonate (ISPAD 2022)?", "back": "**Mild**: pH <7.3 or HCO₃ <18. **Moderate**: pH <7.2 or HCO₃ <10. **Severe**: pH <7.1 or HCO₃ <5 mmol/L. (NICE uses HCO₃ <15 for mild.)" },
+    { "id": "endo-f05", "front": "Initial fluid in DKA?", "back": "**Shock**: 0.9% saline **20 mL/kg** rapidly (NICE: 10 mL/kg, discuss before more). **No shock**: **10–20 mL/kg** over 20–60 min (NICE 10 mL/kg over 60 min; UCG 10–20 mL/kg)." },
+    { "id": "endo-f06", "front": "How do you estimate the DKA fluid deficit and over how long do you replace it?", "back": "Assume **5%** dehydration if pH ≥7.1 and **7–10%** if pH <7.1; give deficit **plus maintenance evenly over 24–48 h** (NICE: 48 h), subtracting a non-shock bolus (NICE)." },
+    { "id": "endo-f07", "front": "Insulin dose and timing in paediatric DKA?", "back": "**Soluble insulin 0.05–0.1 units/kg/h IV**, started **1–2 hours after IV fluids begin**; **no bolus**. UCG 2023: 0.05 units/kg/h under 5 years, 0.1 over 5 years." },
+    { "id": "endo-f08", "front": "Potassium replacement in DKA?", "back": "**40 mmol/L** in IV fluids once K <5.5 and urine passed (start immediately if K <3.5). UCG: 20 mmol/L if K 3.5–5.5, 40 if <3.5, none if >5.5; 1 ampoule KCl 15% 10 mL = 20 mmol." },
+    { "id": "endo-f09", "front": "When do you add dextrose to DKA fluids?", "back": "When glucose falls to about **14–17 mmol/L** (UCG: <14 mmol/L) or falls faster than 5 mmol/L/h; **keep the insulin running**." },
+    { "id": "endo-f10", "front": "Signs of cerebral oedema in DKA?", "back": "Headache, recurrent vomiting, irritability/lethargy, **falling GCS**, **bradycardia with rising BP** (Cushing response), abnormal posturing, sluggish pupils, cranial nerve palsy, incontinence; usually 4–12 h into treatment." },
+    { "id": "endo-f11", "front": "Treatment of cerebral oedema in DKA?", "back": "Head up 30°, reduce fluids by a third, **mannitol 0.5–1 g/kg IV over 10–15 min** or **3% saline 2.5–5 mL/kg**; call ICU; scan only after treatment starts." },
+    { "id": "endo-f12", "front": "Why no bicarbonate in DKA?", "back": "No benefit for outcome, and it is associated with **cerebral oedema**, hypokalaemia and paradoxical CSF acidosis. Only for life-threatening hyperkalaemia or cardiovascular collapse." },
+    { "id": "endo-f13", "front": "Corrected sodium formula in DKA, and why track it?", "back": "**Corrected Na = Na + 0.3 × (glucose − 5.5)** mmol/L. A **falling** corrected Na during treatment is a warning sign of cerebral oedema." },
+    { "id": "endo-f14", "front": "Starting subcutaneous insulin after DKA (premixed regimen common in Uganda)?", "back": "Total daily dose about **0.5–1 unit/kg/day** (prepubertal 0.7–1; puberty 1–1.5; UCG: start 0.5 under 5 years), premixed 30/70 **2/3 before breakfast, 1/3 before supper**. Stop IV insulin 30–60 min after the first SC dose." },
+    { "id": "endo-f15", "front": "ISPAD 2022 glycaemic targets for children with T1DM?", "back": "**HbA1c <7% (53 mmol/mol)**; glucose mostly **4–10 mmol/L**; avoid hypoglycaemia." },
+    { "id": "endo-f16", "front": "Sick-day rules for a child with T1DM?", "back": "**Never stop insulin**; check glucose 2–3 hourly and ketones; extra rapid-acting insulin (10–20% of TDD) if ketones high; keep drinking; come to hospital for vomiting, deep breathing, drowsiness or rising ketones." },
+    { "id": "endo-f17", "front": "Clinical features of congenital hypothyroidism?", "back": "Prolonged jaundice, poor feeding, sleepiness, constipation, hypotonia, **large tongue**, **umbilical hernia**, **large posterior fontanelle**, hoarse cry, dry skin, coarse facies, hypothermia. Often normal at birth." },
+    { "id": "endo-f18", "front": "Levothyroxine dose in congenital hypothyroidism?", "back": "**10–15 µg/kg/day** orally once daily (about 37.5–50 µg for a term baby), started **as soon as possible (ideally within 2 weeks of birth)**; crush and mix with breast milk; avoid giving with soy, iron or calcium." },
+    { "id": "endo-f19", "front": "Mid-parental height formula?", "back": "**(Father + mother) ÷ 2, +6.5 cm for boys, −6.5 cm for girls**; target range about ±8.5 cm." },
+    { "id": "endo-f20", "front": "Familial short stature vs constitutional delay?", "back": "**Familial**: short parents, normal velocity, **bone age = chronological age**, normal puberty timing. **Constitutional delay**: normal velocity, **delayed bone age**, late puberty, family history of late bloomers; reaches target height." },
+    { "id": "endo-f21", "front": "Why karyotype every short girl?", "back": "**Turner syndrome (45,X)** may present with short stature alone; diagnosis allows cardiac/renal screening, puberty induction and growth hormone (specialist)." },
+    { "id": "endo-f22", "front": "Commonest cause of ambiguous genitalia in a 46,XX newborn?", "back": "**Congenital adrenal hyperplasia due to 21-hydroxylase deficiency** (90–95% of CAH): virilised external genitalia, normal uterus and ovaries." },
+    { "id": "endo-f23", "front": "Salt-wasting crisis in CAH: timing and biochemistry?", "back": "At **1–3 weeks** of age: vomiting, poor feeding, weight loss, dehydration, shock; **Na low, K high, glucose low**, metabolic acidosis. Boys may have normal genitalia (± pigmented scrotum)." },
+    { "id": "endo-f24", "front": "Emergency hydrocortisone doses for adrenal crisis?", "back": "**50–100 mg/m² IV** bolus; practical: **infant 25 mg, 1–5 years 50 mg, >5 years 100 mg**; then 50–100 mg/m²/day divided 6-hourly; plus 0.9% saline 20 mL/kg and dextrose." },
+    { "id": "endo-f25", "front": "CAH maintenance treatment?", "back": "**Hydrocortisone 10–15 mg/m²/day** in 3 doses; **fludrocortisone 0.05–0.2 mg/day**; **NaCl 1–2 g/day** in infancy; **double/triple doses** when ill; IM hydrocortisone if vomiting." },
+    { "id": "endo-f26", "front": "Biochemistry of nutritional rickets?", "back": "**High ALP**, **low phosphate**, calcium low or normal, **high PTH**, **25-OH vitamin D <30 nmol/L** (deficiency). X-ray: cupping, splaying, fraying of metaphyses." },
+    { "id": "endo-f27", "front": "Treatment of nutritional rickets (Global Consensus 2016)?", "back": "Vitamin D **2,000 IU/day** (<1 year) or **3,000–6,000 IU/day** (1–12 years) for **≥12 weeks** (or stoss 50,000 / 150,000 IU), **plus calcium 500 mg/day**, then maintenance 400–600 IU/day. Recheck ALP and X-ray at 3 months." }
+  ],
+  "mcqs": [
+    {
+      "id": "endo-q01",
+      "stem": "A 10-year-old girl (25 kg) presents to Mengo with vomiting, abdominal pain and deep sighing breathing. She was treated for malaria last week. GCS 14, HR 128, CRT 2 s, BP 104/64, chest clear, SpO₂ 98%. Which bedside test is MOST likely to give the diagnosis?",
+      "options": [
+        "Malaria rapid diagnostic test",
+        "Pulse oximetry",
+        "Capillary glucose and urine dipstick for ketones",
+        "Haemoglobin",
+        "Abdominal ultrasound"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: Kussmaul breathing with a clear chest, vomiting and abdominal pain suggest **DKA**; a glucometer reading (often 'HI') and **urine ketones** confirm it in minutes. A is wrong: she was recently treated and malaria would not explain acidotic breathing with a clear chest as well. B is wrong: SpO₂ is normal; the problem is metabolic, not pulmonary. D is wrong: Hb will not distinguish the cause. E is wrong: DKA abdominal pain is common and ultrasound would delay diagnosis.",
+      "difficulty": "core"
+    },
+    {
+      "id": "endo-q02",
+      "stem": "A 12-year-old boy (30 kg) has DKA: glucose 29 mmol/L, pH 7.15, HCO₃ 8 mmol/L, ketones +++. He is not shocked. He has received 10 mL/kg 0.9% saline over 1 hour. What is the MOST appropriate insulin plan?",
+      "options": [
+        "Soluble insulin 3 units IV bolus followed by 3 units/h",
+        "Premixed insulin 30/70 15 units SC now",
+        "Wait until the glucose is below 14 mmol/L before starting insulin",
+        "Soluble insulin 0.5 units/kg/h IV",
+        "Soluble insulin infusion 0.05–0.1 units/kg/h (1.5–3 units/h) IV, no bolus"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: ISPAD 2022/NICE give **0.05–0.1 units/kg/h** soluble insulin by infusion, started 1–2 h after fluids, **without a bolus**. A is wrong: a bolus increases the risk of hypokalaemia and cerebral oedema without speeding recovery. B is wrong: SC premixed insulin is for after DKA resolves. C is wrong: insulin is needed to stop ketone production regardless of glucose; dextrose is added as glucose falls. D is wrong: 0.5 units/kg/h is five to ten times the correct dose.",
+      "difficulty": "core"
+    },
+    {
+      "id": "endo-q03",
+      "stem": "A 6-year-old (20 kg) with DKA has been on insulin 0.1 units/kg/h for 4 hours. Glucose has fallen from 30 to 13 mmol/L; pH 7.18, ketones still +++. What is the BEST next step?",
+      "options": [
+        "Add 5% dextrose to the IV fluids and continue the insulin infusion",
+        "Stop the insulin infusion until glucose rises",
+        "Reduce insulin to 0.01 units/kg/h",
+        "Give 10% dextrose 5 mL/kg as a bolus",
+        "Switch to SC premixed insulin"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: glucose has reached about 14 mmol/L but **ketoacidosis persists**; add **5% dextrose** and keep insulin running so ketones are cleared. B is wrong: stopping insulin restarts ketogenesis. C is wrong: such a low dose will not suppress ketones; ISPAD keeps at least 0.05 units/kg/h. D is wrong: she is not hypoglycaemic. E is wrong: SC insulin starts only when acidosis has resolved and she can eat.",
+      "difficulty": "core"
+    },
+    {
+      "id": "endo-q04",
+      "stem": "Six hours into DKA treatment, a 4-year-old (15 kg) becomes irritable, complains of headache and vomits. GCS falls from 15 to 11. HR 72 (was 140), BP 128/84. Glucose 12 mmol/L. What should you do FIRST?",
+      "options": [
+        "Arrange an urgent CT scan before any treatment",
+        "Give mannitol 0.5–1 g/kg IV over 10–15 minutes, raise the head, reduce fluids by a third and call ICU",
+        "Give a 20 mL/kg bolus of 0.9% saline",
+        "Give 10% dextrose 5 mL/kg",
+        "Increase the insulin infusion to 0.2 units/kg/h"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: headache, falling GCS and **bradycardia with hypertension** during DKA treatment are **cerebral oedema**; treat immediately with mannitol (or 3% saline 2.5–5 mL/kg), head elevation and fluid reduction. A is wrong: imaging must not delay treatment. C is wrong: more fluid may worsen oedema. D is wrong: glucose is 12 mmol/L; this is not hypoglycaemia. E is wrong: more insulin speeds osmolar shifts and does not treat oedema.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "endo-q05",
+      "stem": "A 9-year-old with DKA has initial K 5.0 mmol/L and is passing urine. Which potassium plan is MOST appropriate?",
+      "options": [
+        "No potassium because the level is normal",
+        "Give potassium only if the ECG shows U waves",
+        "Oral potassium once she is eating",
+        "Add potassium chloride 40 mmol/L to the IV fluids and monitor K every 2–4 hours",
+        "Give KCl 1 mmol/kg as an IV push"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: total-body potassium is depleted in DKA, and insulin will drive K into cells; ISPAD adds **40 mmol/L** once K <5.5 and urine is passed (UCG 20 mmol/L for K 3.5–5.5), with 2–4 hourly checks. A is wrong: a 'normal' serum K hides a deficit and will fall. B is wrong: waiting for ECG changes is dangerous. C is wrong: replacement is needed during IV treatment, not after. E is wrong: IV push potassium can cause fatal arrhythmia.",
+      "difficulty": "core"
+    },
+    {
+      "id": "endo-q06",
+      "stem": "A 4-month-old girl is brought for poor weight gain. She was jaundiced until 6 weeks, sleeps a lot, feeds slowly and passes stool every 4–5 days. She has a large tongue, an umbilical hernia, dry skin and a posterior fontanelle of 1.5 cm. Which is the MOST appropriate next step?",
+      "options": [
+        "Reassure; these are normal variants",
+        "Start oral iron for anaemia",
+        "Refer for umbilical hernia repair",
+        "Check TSH and free T4 and start levothyroxine 10–15 µg/kg/day if confirmed, without delay",
+        "Give lactulose for constipation and review in 3 months"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: prolonged jaundice, lethargy, constipation, macroglossia, umbilical hernia and a large posterior fontanelle are classic **congenital hypothyroidism**; urgent TSH/FT4 and **levothyroxine 10–15 µg/kg/day** protect development. A is wrong: the combination is not normal. B is wrong: nothing suggests iron deficiency as the main problem. C is wrong: the hernia is a sign, and most close spontaneously. E is wrong: treating the constipation alone delays diagnosis while brain damage accumulates.",
+      "difficulty": "core"
+    },
+    {
+      "id": "endo-q07",
+      "stem": "A 12-day-old boy (birth weight 3.3 kg, now 2.9 kg) has vomited for 3 days. He is lethargic, CRT 4 s, scrotum looks pigmented. Na 121 mmol/L, K 7.3 mmol/L, glucose 2.0 mmol/L. Which is the MOST important specific treatment along with saline and dextrose?",
+      "options": [
+        "Pyloromyotomy",
+        "IV hydrocortisone 25 mg, then 6-hourly",
+        "Furosemide for hyperkalaemia",
+        "IV ceftriaxone alone",
+        "Oral rehydration solution"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: hyponatraemia, hyperkalaemia, hypoglycaemia and shock at 1–3 weeks (with pigmentation) = **salt-wasting CAH adrenal crisis**; give **IV hydrocortisone** (infant 25 mg) with 0.9% saline 20 mL/kg and dextrose. A is wrong: pyloric stenosis causes hypochloraemic hypokalaemic alkalosis, not hyperkalaemia. C is wrong: furosemide worsens volume depletion. D is wrong: sepsis cover is reasonable but will not correct cortisol deficiency. E is wrong: a shocked infant needs IV treatment.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "endo-q08",
+      "stem": "At Mengo, a term baby is born with clitoromegaly (phallus 1.8 cm), fused labioscrotal folds, a single perineal opening and no palpable gonads. The father asks whether it is a boy or a girl. What is the BEST response and plan?",
+      "options": [
+        "Tell him it is a boy because the phallus is large",
+        "Tell him it is a girl and discharge tomorrow",
+        "Advise circumcision before discharge",
+        "Wait until puberty to decide",
+        "Explain that the baby's genitals have not finished developing typically, that tests will guide the decision, delay registration of sex, check glucose and electrolytes daily, and arrange ultrasound, karyotype and 17-OHP"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: ambiguous genitalia with **impalpable gonads** is most likely **46,XX CAH**; sex should not be assigned until assessment, and the baby must be watched for **salt-wasting** with daily electrolytes and glucose while ultrasound, karyotype and 17-OHP are done. A and B are wrong: guessing the sex can lead to wrong assignment and a missed adrenal crisis. C is wrong: circumcision must be avoided (tissue may be needed for reconstruction). D is wrong: sex of rearing is decided in infancy by a multidisciplinary team with the family.",
+      "difficulty": "core"
+    },
+    {
+      "id": "endo-q09",
+      "stem": "An 11-year-old boy is 129 cm (HAZ −2.2). Father 165 cm, mother 154 cm. His health records show steady growth along the same line at 5 cm/year. Bone age is 9 years; his father started puberty at 16. Examination is normal. What is the MOST likely diagnosis?",
+      "options": [
+        "Constitutional delay of growth and puberty",
+        "Growth hormone deficiency",
+        "Hypothyroidism",
+        "Turner syndrome",
+        "Achondroplasia"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: **normal velocity**, **delayed bone age**, normal examination and a father who was a late developer = **constitutional delay**; he will catch up later. B is wrong: GH deficiency gives a falling velocity. C is wrong: hypothyroidism also causes falling velocity and other signs. D is wrong: Turner syndrome affects girls. E is wrong: achondroplasia causes disproportionate short stature evident from infancy.",
+      "difficulty": "core"
+    },
+    {
+      "id": "endo-q10",
+      "stem": "A 3-year-old boy (11 kg) has bowed legs, wide wrists, a rachitic rosary and delayed walking. He was breastfed to 2 years with little milk, eggs or fish in his diet. ALP 980 IU/L, phosphate low, calcium 2.1 mmol/L. Which treatment is BEST?",
+      "options": [
+        "Calcium alone for 2 weeks",
+        "Vitamin D 400 IU/day indefinitely",
+        "Vitamin D 3,000–6,000 IU/day for at least 12 weeks plus calcium 500 mg/day, and dietary advice",
+        "Refer for osteotomy now",
+        "Phosphate supplements and calcitriol for X-linked hypophosphataemic rickets"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: this is **nutritional rickets** (vitamin D and/or calcium deficiency); the Global Consensus gives **3,000–6,000 IU/day** (1–12 years) for ≥12 weeks **with calcium 500 mg/day**, then maintenance. A is wrong: calcium alone for 2 weeks is too little and too short. B is wrong: 400 IU/day is the prevention/maintenance dose. D is wrong: deformities often improve with treatment; surgery is considered only after healing. E is wrong: XLH has very low phosphate with normal calcium and a family history; diet history here points to nutritional rickets.",
+      "difficulty": "core"
+    },
+    {
+      "id": "endo-q11",
+      "stem": "A 14-year-old with known T1DM on premixed insulin presents with 2 days of vomiting and diarrhoea. His mother stopped his insulin because he was not eating. Glucose 22 mmol/L, urine ketones +++, pH 7.26. Which advice would have MOST likely prevented this admission?",
+      "options": [
+        "Stop insulin whenever the child cannot eat",
+        "Halve all doses during any illness",
+        "Give oral metformin instead of insulin during illness",
+        "Rely on urine glucose testing only",
+        "Never stop insulin during illness; check glucose and ketones often and give extra rapid-acting insulin if ketones are high, with fluids"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: **sick-day rules**: insulin is needed even when not eating because illness raises counter-regulatory hormones; check glucose and ketones and give **extra insulin** for ketosis. A is wrong: stopping insulin is the classic cause of DKA in known diabetics. B is wrong: needs usually rise in illness. C is wrong: metformin cannot replace insulin in T1DM. D is wrong: urine glucose does not detect ketosis or hypoglycaemia.",
+      "difficulty": "core"
+    },
+    {
+      "id": "endo-q12",
+      "stem": "A 25 kg child with severe DKA (pH 7.02), not shocked, received 0.9% saline 250 mL over 1 hour. Using NICE (48-hour replacement, 10% deficit, subtracting the non-shock bolus), approximately what hourly rate should the fluid run at? (Maintenance for 25 kg = 1,600 mL/day.)",
+      "options": [
+        "About 50 mL/h",
+        "About 80 mL/h",
+        "About 115 mL/h",
+        "About 200 mL/h",
+        "About 300 mL/h"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: deficit 10% × 25 kg = 2,500 mL − 250 mL bolus = 2,250 mL; maintenance 1,600 × 2 = 3,200 mL; total 5,450 mL ÷ 48 h ≈ **114 mL/h**. A is wrong: that would barely cover maintenance. B is wrong: this ignores most of the deficit. D and E are wrong: rates this high risk fluid overload and correct the deficit far faster than recommended.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "endo-q13",
+      "stem": "A 13-year-old girl is 136 cm (HAZ −2.6) with no breast development. She has a low hairline, wide carrying angle and widely spaced nipples. Her parents are of average height. Which investigation is MOST important?",
+      "options": [
+        "Karyotype",
+        "Growth hormone stimulation test",
+        "Serum vitamin D",
+        "Bone age only, then reassure",
+        "Coeliac serology"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: short stature with **absent puberty** and **dysmorphic features** in a girl strongly suggests **Turner syndrome (45,X)**; a karyotype confirms it and triggers cardiac (coarctation, bicuspid valve) and renal screening and puberty induction. B is wrong: GH testing is not the first step and Turner girls are not GH deficient. C is wrong: nothing suggests rickets. D is wrong: reassurance would miss the diagnosis. E is wrong: coeliac disease is a cause of short stature but not of these dysmorphic features.",
+      "difficulty": "core"
+    },
+    {
+      "id": "endo-q14",
+      "stem": "A Ugandan HC IV has no infusion pump. A 7-year-old (20 kg) with moderate DKA has been rehydrated for 1 hour with 0.9% saline. Which insulin approach is MOST appropriate, consistent with UCG 2023 and ISPAD?",
+      "options": [
+        "Premixed 30/70 insulin 20 units SC once",
+        "Insulin 20 units IV push once",
+        "No insulin until transfer, even if it takes 24 hours",
+        "Soluble insulin 0.1 units/kg (2 units) IM or SC every hour, with hourly glucose and dextrose added when glucose falls to about 14 mmol/L",
+        "Oral glibenclamide"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: where an IV infusion cannot be run safely, **hourly IM/SC soluble (or rapid-acting) insulin 0.1 units/kg** is an accepted alternative (UCG lists hourly IM insulin; ISPAD accepts SC regimens) once perfusion is restored, with hourly glucose and dextrose. A is wrong: a single large premixed dose gives unpredictable absorption and hypoglycaemia. B is wrong: a 1 unit/kg IV push is a dangerous overdose. C is wrong: withholding insulin allows ketoacidosis to progress. E is wrong: sulphonylureas do not work in T1DM.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "endo-q15",
+      "stem": "A 7-year-old with CAH on hydrocortisone 5 mg three times daily develops fever 39 °C and cough but is eating and not vomiting. What is the MOST appropriate advice?",
+      "options": [
+        "Continue the usual dose; fever does not matter",
+        "Double or triple the hydrocortisone dose until well, and give IM hydrocortisone and come to hospital if vomiting or drowsy",
+        "Stop hydrocortisone while febrile",
+        "Switch to fludrocortisone alone",
+        "Give dexamethasone 0.6 mg/kg once"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: **stress dosing** (double or triple oral hydrocortisone) during febrile illness prevents an adrenal crisis; if vomiting or unwell, IM hydrocortisone and hospital. A is wrong: illness increases cortisol needs. C is wrong: stopping steroids risks an adrenal crisis. D is wrong: fludrocortisone replaces aldosterone, not cortisol. E is wrong: a single dexamethasone dose is not the standard stress-dose plan and does not replace mineralocorticoid needs.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "endo-c01",
+      "title": "Severe DKA misdiagnosed as malaria",
+      "presentation": "A 9-year-old girl is brought to Mengo emergency at 20:00. She was treated for malaria at a clinic 3 days ago but has kept vomiting, has abdominal pain and is now drowsy with fast deep breathing. Her mother says she has been drinking a lot and wetting the bed for the past month. Weight 24 kg (she was 27 kg at school a month ago).",
+      "steps": [
+        { "prompt": "What is your working diagnosis and your first bedside tests?", "answer": "**DKA** (new type 1 diabetes): polyuria, polydipsia, weight loss, vomiting, Kussmaul breathing, drowsiness. Bedside: **glucometer** ('HI' → lab 31 mmol/L), **urine ketones** (+++), mRDT (negative), Hb, SpO₂ (98%), GCS (13)." },
+        { "prompt": "Assess her severity and haemodynamic state. Which bloods do you send?", "answer": "HR 132, CRT 3 s, warm peripheries, BP 98/60: **dehydrated but not shocked**. Venous gas **pH 7.06, HCO₃ 5** → **severe DKA**. Electrolytes: Na 131, K 5.2, urea 9; FBC; blood culture if febrile; HbA1c. Corrected Na = 131 + 0.3 × (31 − 5.5) ≈ **139**." },
+        { "prompt": "Prescribe her fluids for the first 48 hours.", "answer": "Bolus **0.9% saline 10 mL/kg = 240 mL over 1 h** (UCG 10–20 mL/kg). Deficit **10%** = 2,400 mL − 240 = 2,160 mL; maintenance 1,580 mL/day × 2 = 3,160 mL; total **5,320 mL over 48 h ≈ 110 mL/h** of 0.9% saline with **KCl 40 mmol/L** once urine passed (K 5.2 <5.5)." },
+        { "prompt": "When and how do you start insulin?", "answer": "**After 1–2 h of fluids**: soluble insulin **0.1 units/kg/h = 2.4 units/h** (50 units in 50 mL 0.9% saline → 2.4 mL/h) by syringe pump; **no bolus**. If no pump: 0.1 units/kg (2.4 units) IM/SC hourly. Add **5% dextrose** at glucose ≈14 mmol/L; aim for a fall of 2–5 mmol/L/h." },
+        { "prompt": "At 7 hours she complains of headache and her GCS falls to 11, HR 68, BP 130/85. What do you do?", "answer": "**Cerebral oedema**: head up 30°, **mannitol 0.5–1 g/kg = 12–24 g (60–120 mL of 20%) IV over 10–15 min** (or 3% saline 60–120 mL), reduce fluids by a third, call senior/ICU, prepare for airway support; CT after treatment if available." },
+        { "prompt": "She recovers. What must happen before discharge?", "answer": "Resolution (pH >7.3, HCO₃ >18, ketones clearing, eating) → **SC insulin** (e.g. premixed 30/70 about 0.7–0.8 units/kg/day = ~18 units/day: 12 units am, 6 units pm, or basal-bolus) with the first SC dose 30–60 min before stopping the infusion; **education** for mother and child (injections, storage, glucose testing, hypoglycaemia, sick-day rules, diet, school letter); glucometer and insulin supply via the diabetes clinic; follow-up in 1–2 weeks." }
+      ],
+      "takeaway": "Polyuria + vomiting + deep breathing = check glucose and ketones; in DKA give fluids first, insulin after 1–2 hours without a bolus, add potassium and then dextrose, and watch the brain."
+    },
+    {
+      "id": "endo-c02",
+      "title": "The floppy, jaundiced baby",
+      "presentation": "A 3-month-old boy is brought to the young child clinic because 'he is too quiet'. He was born at term, 3.6 kg, at a HC III. He was jaundiced until 7 weeks, feeds slowly, sleeps most of the day and passes hard stools twice a week. Weight now 4.6 kg.",
+      "steps": [
+        { "prompt": "What features do you look for on examination?", "answer": "Coarse facies, **large tongue**, hoarse cry, **umbilical hernia**, **large posterior fontanelle**, hypotonia, dry mottled skin, cool peripheries, slow pulse, goitre, abdominal distension, poor weight gain (WAZ falling). He has macroglossia, umbilical hernia, posterior fontanelle 1.5 cm, hypotonia, HR 96." },
+        { "prompt": "What is the likely diagnosis and how would you confirm it?", "answer": "**Congenital hypothyroidism** (no newborn screening in Uganda). Send **TSH and free T4** (TSH 160 mU/L, FT4 very low). Thyroid ultrasound later (absent/ectopic gland vs goitre). Exclude other causes of prolonged jaundice (conjugated bilirubin, stool colour)." },
+        { "prompt": "How will you treat him?", "answer": "**Levothyroxine 10–15 µg/kg/day**: 4.6 kg × 10–15 = 46–69 µg → **50 µg once daily**, crushed in a little breast milk by spoon, at the same time daily, not with soy formula, iron or calcium. Start the same day; do not wait for scans." },
+        { "prompt": "How will you monitor him?", "answer": "TSH and FT4 at **2 and 4 weeks**, then every 1–2 months in the first 6 months and every 3–4 months to age 3; adjust dose to keep FT4 in the upper half of normal and TSH normal; plot weight, length and head circumference; developmental assessment at each visit." },
+        { "prompt": "What do you tell the parents about the outlook?", "answer": "Treatment is lifelong (reassess at 3 years if transient is suspected) and must never be missed. Because diagnosis was at 3 months, there may be some developmental delay; early stimulation, follow-up and therapy help. Future babies should be checked early (dyshormonogenesis is recessive)." }
+      ],
+      "takeaway": "Without newborn screening, clinical suspicion (prolonged jaundice, constipation, hypotonia, large tongue, umbilical hernia) is the screen; start levothyroxine 10–15 µg/kg/day the same day."
+    },
+    {
+      "id": "endo-c03",
+      "title": "Ambiguous genitalia and a crisis at 2 weeks",
+      "presentation": "A baby is born at Mengo at term, 3.2 kg, with a 2 cm phallus, fused rugose labioscrotal folds, a single perineal opening and no palpable gonads. The parents ask the midwife whether the baby is a boy or a girl. The baby is discharged on day 2 'as a boy' by the family and returns on day 14 vomiting and floppy.",
+      "steps": [
+        { "prompt": "What should have happened at birth?", "answer": "**Do not assign sex**; explain sensitively that tests are needed; avoid circumcision; examine for gonads and pigmentation; **pelvic ultrasound** (uterus present?), **karyotype**, **17-OHP** after 24–48 h; **daily weight, glucose and electrolytes** for at least 2 weeks; refer to paediatric endocrinology/surgery; counselling." },
+        { "prompt": "On day 14: weight 2.8 kg, CRT 4 s, lethargic. Na 119, K 7.8, glucose 1.9 mmol/L. What is happening?", "answer": "**Salt-wasting adrenal crisis** from **21-hydroxylase CAH** (almost certainly a **46,XX virilised girl**): cortisol and aldosterone deficiency → hyponatraemia, hyperkalaemia, hypoglycaemia, hypovolaemic shock." },
+        { "prompt": "Give the emergency treatment with doses.", "answer": "**0.9% saline 20 mL/kg = 56 mL** rapidly (repeat if shocked); **10% dextrose 2 mL/kg = 5.6 mL** then dextrose-saline; **hydrocortisone 25 mg IV** then 50–100 mg/m²/day IV (BSA ≈0.2 m² → 10–20 mg/day, about 2.5–5 mg 6-hourly); **ECG**: if K causes arrhythmia, **10% calcium gluconate 0.5 mL/kg IV** over 5–10 min; antibiotics if sepsis possible; take cortisol/17-OHP before hydrocortisone only if it does not delay it." },
+        { "prompt": "Ultrasound shows a uterus; karyotype 46,XX; 17-OHP very high. What is the long-term treatment?", "answer": "**Hydrocortisone 10–15 mg/m²/day** in 3 doses, **fludrocortisone 0.05–0.2 mg/day**, **salt 1–2 g/day** in infancy; **stress dosing** (double/triple) when ill and IM hydrocortisone for vomiting; emergency card; growth and BP monitoring; genital surgery discussion with the specialist team." },
+        { "prompt": "How do you approach the family about sex of rearing?", "answer": "Honest, unhurried, multidisciplinary discussion (endocrinologist, surgeon, psychologist, family): **46,XX CAH girls have a uterus and ovaries and are fertile**, so most are raised as girls; acknowledge cultural and community pressures; support the parents to correct the registration; offer genetic counselling (25% recurrence risk)." }
+      ],
+      "takeaway": "Never assign sex to a baby with ambiguous genitalia and impalpable gonads until assessed; watch electrolytes for 2–3 weeks, and treat a salt-wasting crisis with saline, dextrose and hydrocortisone."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023: chapter 8 Endocrine and Metabolic Diseases (8.1.3 diabetes management, 8.1.4 DKA and HHS)", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "ISPAD Clinical Practice Consensus Guidelines 2022: Diabetic ketoacidosis and hyperglycemic hyperosmolar state (Glaser N, et al. Pediatric Diabetes 2022)", "source": "International Society for Pediatric and Adolescent Diabetes", "year": 2022 },
+    { "title": "Diabetes (type 1 and type 2) in children and young people: diagnosis and management (NG18), recommendations including DKA", "source": "NICE", "year": 2023, "url": "https://www.nice.org.uk/guidance/ng18/chapter/Recommendations" },
+    { "title": "Pediatric Diabetic Ketoacidosis (DKA): Treatment & Management (Medscape)", "source": "Medscape / eMedicine", "year": 2024, "url": "https://emedicine.medscape.com/article/907111-treatment" },
+    { "title": "Congenital Hypothyroidism: Treatment & Management (Medscape)", "source": "Medscape / eMedicine", "year": 2024, "url": "https://emedicine.medscape.com/article/919758-treatment" },
+    { "title": "Congenital Adrenal Hyperplasia: Treatment & Management (Medscape)", "source": "Medscape / eMedicine", "year": 2024, "url": "https://emedicine.medscape.com/article/919218-treatment" },
+    { "title": "Munns CF, et al. Global Consensus Recommendations on Prevention and Management of Nutritional Rickets. J Clin Endocrinol Metab 2016", "source": "Journal of Clinical Endocrinology & Metabolism", "year": 2016 },
+    { "title": "Pocket book of hospital care for children, 2nd edition", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" }
+  ]
+}

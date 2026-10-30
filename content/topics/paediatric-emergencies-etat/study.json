@@ -1,0 +1,294 @@
+{
+  "slug": "paediatric-emergencies-etat",
+  "flashcards": [
+    { "id": "etat-f01", "front": "What do the letters of ETAT stand for, and what are its three triage categories?", "back": "**Emergency Triage, Assessment and Treatment**. Categories: **Emergency** (treat now), **Priority** (assess next, ahead of the queue), **Queue** (non-urgent)." },
+    { "id": "etat-f02", "front": "List the ETAT emergency signs (ABCD).", "back": "**A/B**: obstructed or absent breathing, severe respiratory distress, central cyanosis. **C**: signs of shock. **C**: coma or convulsing. **D**: severe dehydration in a child with diarrhoea." },
+    { "id": "etat-f03", "front": "WHO definition of shock in a child?", "back": "**All three**: cold hands **+** capillary refill **>3 seconds** **+** weak, fast pulse." },
+    { "id": "etat-f04", "front": "Priority signs mnemonic?", "back": "**3 TPR-MOB**: Tiny baby (<2 months), Temperature very high, Trauma; Pallor (severe), Poisoning, Pain (severe); Respiratory distress, Restless/irritable/lethargic, Referral (urgent); Malnutrition (visible severe wasting), Oedema of both feet, Burns (major)." },
+    { "id": "etat-f05", "front": "What is AVPU and which levels count as coma?", "back": "**A**lert, responds to **V**oice, responds to **P**ain, **U**nresponsive. **P or U = coma** (about GCS ≤8)." },
+    { "id": "etat-f06", "front": "Signs of severe dehydration in a child with diarrhoea (ETAT)?", "back": "Any **two** of: lethargy or unconsciousness, sunken eyes, very slow skin pinch (≥2 s), unable to drink or drinks poorly." },
+    { "id": "etat-f07", "front": "Oxygen thresholds in ETAT 2016?", "back": "Start oxygen if SpO₂ **<94%** in a child with emergency signs; **<90%** once stable without emergency signs." },
+    { "id": "etat-f08", "front": "Nasal prong oxygen flow rates by age?", "back": "Neonate **0.5–1 L/min**; infant **1–2 L/min**; older child **2–4 L/min**." },
+    { "id": "etat-f09", "front": "Fluid bolus for shock in a child WITHOUT severe malnutrition (WHO ETAT 2016)?", "back": "**10–20 mL/kg** Ringer's lactate or 0.9% saline over **30–60 minutes**, reassess, repeat once if still shocked and no overload. Transfuse if severely anaemic." },
+    { "id": "etat-f10", "front": "Fluid for shock in a child WITH severe acute malnutrition?", "back": "**15 mL/kg over 1 hour** of Ringer's lactate with 5% dextrose (or half-strength Darrow's with 5% glucose, or 0.45% saline with 5% glucose). Pulse and RR every 5–10 min. Improving → repeat 15 mL/kg, then ReSoMal 10 mL/kg/h. No improvement after two boluses → maintenance 4 mL/kg/h and fresh whole blood **10 mL/kg over 3 h**." },
+    { "id": "etat-f11", "front": "What did the FEAST trial show and where was it done?", "back": "In febrile African children with impaired perfusion (Uganda, Kenya, Tanzania), **fluid boluses increased 48-hour mortality** (about 10.6% vs 7.3%) compared with no bolus. It is why ETAT 2016 restricts boluses to true shock and gives them more slowly." },
+    { "id": "etat-f12", "front": "Hypoglycaemia threshold and treatment in ETAT?", "back": "Glucose **<2.5 mmol/L** (45 mg/dL), or **<3.0 mmol/L** (54 mg/dL) in SAM, or unable to measure in a child with coma/convulsions → **10% dextrose 5 mL/kg IV** (neonate 2 mL/kg); recheck after 30 min." },
+    { "id": "etat-f13", "front": "How do you make 10% dextrose from 50% dextrose?", "back": "1 part 50% + **4 parts water for injection** (e.g. 10 mL + 40 mL), or 10 mL of 50% in **90 mL of 5% dextrose**. Never give undiluted 50% to a child." },
+    { "id": "etat-f14", "front": "Diazepam doses for a convulsing child?", "back": "**Rectal 0.5 mg/kg** or **slow IV 0.2–0.3 mg/kg**; max **10 mg** per dose; repeat once after 10 min; **no more than two doses** in total." },
+    { "id": "etat-f15", "front": "Second-line anticonvulsant after two benzodiazepine doses?", "back": "**Phenobarbital 15–20 mg/kg IV/IM over 15–20 min** (WHO pocket book 15 mg/kg in children; 20 mg/kg in neonates), or phenytoin 15–20 mg/kg IV over 20 min. Call senior." },
+    { "id": "etat-f16", "front": "First-line anticonvulsant in a neonate?", "back": "**Phenobarbital 20 mg/kg IV** (further 10 mg/kg doses up to 40 mg/kg total), not diazepam. Check glucose first." },
+    { "id": "etat-f17", "front": "Plan C fluid volumes and timing?", "back": "Ringer's lactate **100 mL/kg**: infant <12 months **30 mL/kg in 1 h, then 70 mL/kg in 5 h**; child ≥12 months **30 mL/kg in 30 min, then 70 mL/kg in 2½ h**." },
+    { "id": "etat-f18", "front": "Transfusion thresholds and volume in ETAT?", "back": "Hb **<4 g/dL**, or **4–6 g/dL with distress, shock or impaired consciousness** → whole blood **20 mL/kg** (packed cells 10 mL/kg) over **3–4 h**; in SAM 10 mL/kg over 3 h." },
+    { "id": "etat-f19", "front": "Adrenaline dose for anaphylaxis in a child?", "back": "Adrenaline **1 mg/mL (1:1000) 0.01 mL/kg IM** into the anterolateral thigh, max 0.5 mL; repeat every 5 min. Age bands (UCG 2023): <6 years 0.15 mL, 6–12 years 0.3 mL, >12 years 0.5 mL." },
+    { "id": "etat-f20", "front": "Paediatric BLS sequence for health workers?", "back": "Open airway → check breathing ≤10 s → **5 rescue breaths** → check signs of life → **15 compressions : 2 breaths** at **100–120/min**, depth **one-third of the chest** (about 4 cm infant, 5 cm child)." },
+    { "id": "etat-f21", "front": "Choking infant: what do you do?", "back": "Infant face-down along your forearm, head low: **5 back blows**, then turn and give **5 chest thrusts**; repeat. Remove only visible objects. If unresponsive, start CPR. (Abdominal thrusts are for children over 1 year.)" },
+    { "id": "etat-f22", "front": "APLS weight estimate for a child aged 1–5 years?", "back": "**(2 × age in years) + 8 kg**. Infants: (0.5 × age in months) + 4. Age 6–12: (3 × age) + 7." },
+    { "id": "etat-f23", "front": "Fast breathing cut-offs (WHO)?", "back": "<2 months **≥60**/min; 2–12 months **≥50**/min; 1–5 years **≥40**/min." },
+    { "id": "etat-f24", "front": "Signs of fluid overload during resuscitation?", "back": "RR rises (by ≥5/min), pulse rises (by ≥15/min), new fine crackles, enlarging liver, gallop rhythm, raised JVP. **Stop the infusion.**" },
+    { "id": "etat-f25", "front": "When should you NOT do an LP in a convulsing, febrile child yet?", "back": "Signs of raised ICP (unequal pupils, abnormal posture, irregular breathing, deep coma), shock, still convulsing, or bleeding tendency. Give antibiotics first; LP when stable." },
+    { "id": "etat-f26", "front": "Where do you put an intraosseous needle in a small child, and when?", "back": "**Proximal tibia**, flat medial surface 1–2 cm below the tibial tuberosity, after **2 failed IV attempts or 90 seconds** in an emergency. Any drug or fluid can go through it." }
+  ],
+  "mcqs": [
+    {
+      "id": "etat-q01",
+      "stem": "At Mengo outpatients, the triage nurse sees five children who arrived together. Which child must be taken into the resuscitation area FIRST?",
+      "options": [
+        "A 4-year-old with a fever of 39.8 °C who is alert and playing",
+        "A 3-week-old baby who is breastfeeding well but has a mild umbilical discharge",
+        "A 2-year-old with diarrhoea who is lethargic, has sunken eyes and a very slow skin pinch",
+        "A 6-year-old with severe abdominal pain who is walking",
+        "A 10-month-old with visible severe wasting who is alert"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: lethargy plus sunken eyes plus a very slow skin pinch in a child with diarrhoea is **severe dehydration**, an emergency (D) sign needing Plan C now. A is wrong: very high temperature is a priority sign, not an emergency sign. B is wrong: a tiny baby (<2 months) is a priority sign; this baby is feeding well. D is wrong: severe pain is a priority sign. E is wrong: visible severe wasting is a priority sign (M of 3 TPR-MOB); without emergency signs the child is assessed next, not resuscitated.",
+      "difficulty": "core"
+    },
+    {
+      "id": "etat-q02",
+      "stem": "A 3-year-old girl (estimated 14 kg) with 2 days of fever is brought to a HC IV. Her hands are cold, capillary refill is 4 seconds and the radial pulse is weak at 168/min. She is AVPU V. Hb 10 g/dL, no diarrhoea, no wasting or oedema. What is the MOST appropriate fluid management?",
+      "options": [
+        "Ringer's lactate 10–20 mL/kg (140–280 mL) over 30–60 minutes, then reassess",
+        "0.9% saline 40 mL/kg as fast as possible",
+        "No fluid bolus; maintenance fluids only because FEAST showed boluses are harmful",
+        "Ringer's lactate with 5% dextrose 15 mL/kg over 1 hour",
+        "Whole blood 20 mL/kg over 3 hours"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: she has **all three** signs of shock and is not malnourished or severely anaemic, so WHO ETAT 2016 advises **10–20 mL/kg isotonic crystalloid over 30–60 min** with reassessment. B is wrong: 40 mL/kg rapid boluses are the regimen FEAST showed increased mortality. C is wrong: FEAST applies to impaired circulation without full shock; a child in true shock still needs a bolus. D is wrong: 15 mL/kg of RL-dextrose over 1 hour is the SAM shock protocol. E is wrong: Hb 10 g/dL does not need transfusion.",
+      "difficulty": "core"
+    },
+    {
+      "id": "etat-q03",
+      "stem": "A 2-year-old boy (11 kg) with fever is brought to Mengo by his mother. He is warm-handed, alert, capillary refill 3.5 seconds, pulse 150/min with good volume. mRDT positive, Hb 8.9 g/dL. A student suggests 20 mL/kg saline. What is the BEST response?",
+      "options": [
+        "Agree; any prolonged capillary refill needs a bolus",
+        "Give 10 mL/kg saline over 15 minutes as a compromise",
+        "Give 15 mL/kg of Ringer's lactate with 5% dextrose over 1 hour",
+        "No bolus; give oral fluids or maintenance fluids, treat malaria, and reassess",
+        "Transfuse 20 mL/kg whole blood"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: he has only one sign (prolonged CRT), so he has **impaired circulation, not shock**. After FEAST, he should get **no bolus**, but maintenance or oral fluids, antimalarial treatment and repeated assessment. A is wrong: WHO requires all three signs for shock. B is wrong: a smaller bolus is still a bolus that FEAST showed harmful in this group. C is wrong: that is the SAM shock regimen. E is wrong: Hb 8.9 g/dL without distress does not need blood.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "etat-q04",
+      "stem": "A 14-month-old (7.2 kg, MUAC 10.9 cm, bilateral pedal oedema +) is lethargic with cold hands, capillary refill 4 s and a weak pulse of 170/min. Glucose 3.6 mmol/L. Which is the MOST appropriate initial fluid?",
+      "options": [
+        "0.9% saline 20 mL/kg (144 mL) as rapidly as possible",
+        "Ringer's lactate with 5% dextrose 15 mL/kg (about 110 mL) over 1 hour, checking pulse and RR every 5–10 minutes",
+        "ReSoMal 5 mL/kg orally every 30 minutes",
+        "Plan C: 30 mL/kg Ringer's lactate over 1 hour then 70 mL/kg over 5 hours",
+        "No IV fluid; start F-75 feeds every 2 hours"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: this child has **SAM (MUAC <11.5 cm, oedema) and shock**; WHO/UCG give **15 mL/kg over 1 hour** of RL with 5% dextrose (or half-strength Darrow's/0.45% saline with glucose), monitoring for overload. A is wrong: rapid saline boluses cause heart failure in SAM. C is wrong: ReSoMal is for dehydration without shock. D is wrong: Plan C is contraindicated in SAM. E is wrong: a shocked child needs IV fluid now; feeding comes after stabilisation.",
+      "difficulty": "core"
+    },
+    {
+      "id": "etat-q05",
+      "stem": "A 4-year-old (16 kg) is convulsing on arrival. The mother says a clinic gave 'an injection in the bottom' (diazepam) 20 minutes ago and he has fitted continuously since. You have just given rectal diazepam 8 mg 10 minutes ago, and glucose is 4.8 mmol/L. He is still convulsing. What is the NEXT step?",
+      "options": [
+        "Give a third dose of diazepam 0.5 mg/kg rectally",
+        "Give 10% dextrose 5 mL/kg IV",
+        "Wait another 10 minutes because diazepam takes time to work",
+        "Give paracetamol and tepid sponge, then reassess",
+        "Give phenobarbital 15–20 mg/kg IV over 15–20 minutes (or IM) and call a senior"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: he has already had **two benzodiazepine doses** (one at the clinic, one here) and is in established status epilepticus; the next drug is **phenobarbital** (WHO pocket book 15 mg/kg; or phenytoin), with airway support ready. A is wrong: a third benzodiazepine dose risks respiratory arrest. B is wrong: glucose is normal. C is wrong: continuing seizures beyond 5–10 minutes after a benzodiazepine need second-line treatment now. D is wrong: antipyretics do not stop a seizure.",
+      "difficulty": "core"
+    },
+    {
+      "id": "etat-q06",
+      "stem": "A 3-year-old (13 kg) with 3 days of fever is unrousable (AVPU U) on arrival at a HC IV. He is not convulsing, SpO₂ 95%, warm hands. The glucometer has no strips. What should you do FIRST after securing the airway and positioning him?",
+      "options": [
+        "Give 10% dextrose 65 mL IV",
+        "Give rectal diazepam 6.5 mg",
+        "Do a lumbar puncture",
+        "Send blood for a malaria smear and wait for the result",
+        "Give IV ceftriaxone and refer immediately without other treatment"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: in a child with coma, **if glucose cannot be measured, treat as hypoglycaemia**: 10% dextrose **5 mL/kg** (13 × 5 = 65 mL). A is the life-saving, low-risk step. B is wrong: he is not convulsing. C is wrong: an LP in deep coma risks herniation and does not come first. D is wrong: never wait for results to treat a reversible cause; IV artesunate also follows. E is wrong: ceftriaxone may well be needed, but referral without glucose (and artesunate) misses the most urgent treatment.",
+      "difficulty": "core"
+    },
+    {
+      "id": "etat-q07",
+      "stem": "Which statement about oxygen in ETAT (WHO 2016) is CORRECT?",
+      "options": [
+        "Give oxygen to every child with fever and fast breathing",
+        "Target SpO₂ 88–92% in all children",
+        "Children with emergency signs should receive oxygen if SpO₂ is below 94%",
+        "Nasal prongs for a neonate should run at 4 L/min",
+        "Without a pulse oximeter, oxygen should never be given"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: during resuscitation, children with emergency signs get oxygen to keep SpO₂ **≥94%**; stable children get oxygen if SpO₂ <90%. A is wrong: fast breathing alone does not mean hypoxaemia. B is wrong: 88–92% is a target used in some adult COPD patients, not children. D is wrong: neonates need 0.5–1 L/min by prongs. E is wrong: without an oximeter, oxygen is given for clinical signs such as central cyanosis, grunting, severe indrawing or head nodding.",
+      "difficulty": "core"
+    },
+    {
+      "id": "etat-q08",
+      "stem": "A 9-month-old (8 kg) has had profuse watery diarrhoea for 2 days. She is lethargic, eyes sunken, skin pinch goes back very slowly; no wasting or oedema; radial pulse present. IV access is obtained. What is the correct Plan C regimen?",
+      "options": [
+        "Ringer's lactate 240 mL over 30 minutes, then 560 mL over 2½ hours",
+        "ORS 75 mL/kg over 4 hours",
+        "Ringer's lactate with 5% dextrose 120 mL over 1 hour",
+        "0.9% saline 160 mL over 15 minutes and repeat as needed",
+        "Ringer's lactate 240 mL over 1 hour, then 560 mL over 5 hours"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: an infant under 12 months gets **30 mL/kg in 1 hour** (240 mL) then **70 mL/kg in 5 hours** (560 mL). A is wrong: those timings are for children ≥12 months. B is wrong: ORS 75 mL/kg over 4 h is Plan B (some dehydration). C is wrong: that is the SAM shock protocol. D is wrong: rapid repeated saline boluses are not Plan C and ignore the structured 100 mL/kg plan.",
+      "difficulty": "core"
+    },
+    {
+      "id": "etat-q09",
+      "stem": "A 7-year-old (22 kg) develops generalised urticaria, lip swelling, wheeze and a weak pulse 5 minutes after IV ceftriaxone. What is the FIRST drug to give?",
+      "options": [
+        "Hydrocortisone 100 mg IV",
+        "Adrenaline 1:1000, 0.22 mL IM into the anterolateral thigh",
+        "Chlorphenamine 5 mg IV",
+        "Adrenaline 1:1000, 2.2 mL IV push",
+        "Nebulised salbutamol 5 mg"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: anaphylaxis is treated with **IM adrenaline 0.01 mL/kg of 1:1000** (22 × 0.01 = 0.22 mL; UCG band 6–12 years = 0.3 mL), repeated every 5 minutes, after stopping the ceftriaxone. A is wrong: hydrocortisone is slow and second-line. C is wrong: antihistamines treat itch and urticaria only. D is wrong: 2.2 mg IV adrenaline is a 10-fold, potentially fatal overdose and 1:1000 is never pushed IV. E is wrong: salbutamol helps residual wheeze but does not treat shock or airway swelling.",
+      "difficulty": "core"
+    },
+    {
+      "id": "etat-q10",
+      "stem": "A 2-year-old (12 kg) with cerebral malaria has Hb 3.8 g/dL, RR 60, an enlarged liver and fine basal crackles. Pulse 170, hands warm, capillary refill 2 s. What is the MOST appropriate management of the circulation?",
+      "options": [
+        "0.9% saline 20 mL/kg bolus over 15 minutes",
+        "Transfuse 20 mL/kg whole blood over 30 minutes",
+        "No transfusion until the malaria is treated",
+        "Transfuse packed cells 10 mL/kg (or whole blood) slowly over 3–4 hours, consider furosemide 1 mg/kg IV, and monitor for overload",
+        "Ringer's lactate with 5% dextrose 15 mL/kg over 1 hour"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: this is **severe anaemia with heart failure** (Hb <4, tachypnoea, big liver, crackles); the treatment is **blood given slowly**, packed cells 10 mL/kg (or whole blood) over 3–4 h, with furosemide if overloaded. A is wrong: crystalloid worsens heart failure and dilutes Hb further. B is wrong: blood over 30 minutes is for haemorrhagic shock, not compensated anaemia. C is wrong: Hb <4 g/dL needs transfusion now, alongside IV artesunate. E is wrong: that regimen is for shock in SAM.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "etat-q11",
+      "stem": "A 10-month-old is found choking on a groundnut. He is coughing weakly, cannot cry and is becoming blue, but is still conscious. What should you do?",
+      "options": [
+        "Give 5 back blows with the infant face-down along your forearm, then 5 chest thrusts, and repeat",
+        "Perform 5 abdominal thrusts (Heimlich manoeuvre)",
+        "Do a blind finger sweep of the mouth",
+        "Encourage him to keep coughing and wait",
+        "Start 15:2 CPR immediately"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: an infant with an **ineffective cough** needs **5 back blows then 5 chest thrusts**, repeated until the object comes out or he becomes unresponsive. B is wrong: abdominal thrusts are for children over 1 year (risk of liver injury in infants). C is wrong: blind finger sweeps can push the object deeper; remove only visible objects. D is wrong: waiting is only for an effective (loud, forceful) cough. E is wrong: CPR starts if he becomes unresponsive.",
+      "difficulty": "core"
+    },
+    {
+      "id": "etat-q12",
+      "stem": "You find a 5-year-old (18 kg) unresponsive and not breathing on the ward. You have shouted for help and opened the airway. According to paediatric BLS, what comes next?",
+      "options": [
+        "Start 30 chest compressions immediately",
+        "Check for a pulse for 30 seconds",
+        "Give 5 rescue breaths, then check for signs of life",
+        "Leave the child to fetch the emergency trolley",
+        "Give adrenaline 0.1 mL/kg of 1:10,000 IV"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: paediatric arrests are usually **hypoxic**, so BLS gives **5 rescue breaths** first, then checks signs of life (≤10 s) and starts **15:2** compressions if absent. A is wrong: 30:2 starting with compressions is adult-style BLS. B is wrong: pulse checks must take no more than 10 seconds. D is wrong: a lone health worker does 1 minute of CPR before leaving to get help; here help has been called. E is wrong: adrenaline comes in advanced life support after CPR has started and access is obtained.",
+      "difficulty": "core"
+    },
+    {
+      "id": "etat-q13",
+      "stem": "A 6-month-old (6 kg) is brought with 5 minutes of continuous jerking of all limbs and fever. IV access fails twice. Glucose 5.0 mmol/L. Which drug and dose is MOST appropriate now?",
+      "options": [
+        "Phenobarbital 20 mg/kg orally",
+        "Diazepam 0.3 mg/kg intramuscularly",
+        "Diazepam 10 mg rectally",
+        "Diazepam 3 mg (0.5 mg/kg) rectally",
+        "Phenytoin 20 mg/kg rectally"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: without IV access, give **rectal diazepam 0.5 mg/kg** (6 × 0.5 = 3 mg), repeat once after 10 min if still fitting; buccal midazolam is an alternative. A is wrong: oral drugs cannot be given to a convulsing child. B is wrong: IM diazepam is erratically absorbed and slow. C is wrong: 10 mg is the maximum dose, an overdose for a 6 kg infant. E is wrong: phenytoin is not given rectally.",
+      "difficulty": "core"
+    },
+    {
+      "id": "etat-q14",
+      "stem": "During a 20 mL/kg bolus for a 4-year-old with septic shock, the RR rises from 40 to 52, the liver edge moves from 2 cm to 5 cm below the costal margin and crackles appear. What is the BEST action?",
+      "options": [
+        "Speed up the bolus because the child is still tachycardic",
+        "Stop the infusion, sit the child up, give oxygen, consider furosemide and call a senior",
+        "Switch to Ringer's lactate with 5% dextrose at the same rate",
+        "Finish the bolus and then reassess",
+        "Give a second 20 mL/kg bolus of colloid"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: rising RR, an enlarging liver and new crackles are **fluid overload**; stop the fluid at once, support breathing, consider furosemide 1 mg/kg and get senior help (inotropes may be needed). A is wrong: more fluid will cause pulmonary oedema. C is wrong: changing the fluid type does not fix overload. D is wrong: you stop the bolus as soon as overload appears. E is wrong: colloid adds volume and offers no advantage.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "etat-q15",
+      "stem": "At a HC III, a 2-year-old (11 kg) with severe malaria is convulsing; IV access is impossible and there is no glucometer. Which combination is BEST before referral?",
+      "options": [
+        "Oral paracetamol and oral artemether-lumefantrine",
+        "Intramuscular quinine and oral glucose by mouth",
+        "IV fluids by scalp vein and wait for the ambulance",
+        "Referral immediately without any treatment to save time",
+        "Rectal diazepam 0.5 mg/kg, sugar or 10% dextrose via nasogastric tube (or sublingual sugar), and rectal artesunate (or IM artesunate) before referral"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: stop the seizure (**rectal diazepam**), treat presumed hypoglycaemia without IV access (**NG sugar solution/10% dextrose 5 mL/kg** or a moistened teaspoon of sugar under the tongue), and give **pre-referral artesunate** (rectal or IM), then refer with a health worker. A is wrong: nothing can be swallowed safely during a convulsion, and oral ACT is not for severe malaria. B is wrong: oral glucose risks aspiration, and quinine is second-line and causes hypoglycaemia. C is wrong: IV access has failed; waiting delays life-saving steps. D is wrong: pre-referral treatment saves lives.",
+      "difficulty": "advanced"
+    }
+  ],
+  "cases": [
+    {
+      "id": "etat-c01",
+      "title": "The convulsing toddler in the queue",
+      "presentation": "You are the junior clerk in the Mengo paediatric emergency area at 09:30. A mother rushes in carrying an 18-month-old boy who 'started shaking' in the registration queue 5 minutes ago. He has had fever for 3 days. He is jerking all four limbs, drooling, and his lips look dusky.",
+      "steps": [
+        { "prompt": "How do you triage him and what are your first actions?", "answer": "**Emergency**: convulsing (C) and possible cyanosis (B). Carry him to the resuscitation bed, call for help, note the time. Airway: clear secretions with gentle suction, place him on his side (recovery position), **oxygen** by face mask. Do not put anything in his mouth. Estimate weight with the APLS 1–5 year formula: (2 × 1.5) + 8 = **11 kg** (weigh as soon as he is stable)." },
+        { "prompt": "IV access is not yet available. What drug do you give and how much?", "answer": "**Rectal diazepam 0.5 mg/kg = 5.5 mg** (round to 5 mg) using a 1 mL syringe with the needle removed, inserted 4–5 cm, buttocks held together. Note the time; if still fitting after 10 min, repeat once (or give IV 0.2–0.3 mg/kg once access is in). Ask the mother whether he had any anticonvulsant before arriving." },
+        { "prompt": "What must you check at the same time, and how will you act on it?", "answer": "**Blood glucose**. If <2.5 mmol/L (or cannot be measured): **10% dextrose 5 mL/kg = 55 mL IV** once access is in; if no access, sugar solution/10% dextrose via NG tube. Also take blood for **mRDT/smear, Hb, cross-match**. Here glucose is **1.9 mmol/L**, mRDT positive, Hb 6.1 g/dL." },
+        { "prompt": "The seizure stops after the first diazepam dose and the dextrose. He is AVPU P, SpO₂ 95% on oxygen, warm hands, CRT 2 s. What is your working diagnosis and immediate treatment?", "answer": "**Severe malaria** (cerebral malaria/impaired consciousness, hypoglycaemia, moderate-severe anaemia); differential **bacterial meningitis**. Give **IV artesunate 3 mg/kg = 33 mg** (<20 kg) at 0, 12, 24 h then daily; recheck glucose in 30 min and give **maintenance fluids with dextrose** (no bolus: not shocked); consider **ceftriaxone 100 mg/kg/day** until meningitis is excluded; paracetamol 15 mg/kg for fever; recovery position, NG tube, nil by mouth while P." },
+        { "prompt": "What will you monitor over the next 24 hours, and when would you do an LP?", "answer": "Blantyre/AVPU and seizures hourly, **glucose 3–4 hourly** (and with any deterioration), RR, SpO₂, pulse, temperature, urine output, Hb (transfuse if <4 g/dL or <6 with distress), fluid balance. **LP** once he is stable with no signs of raised ICP (if coma persists beyond the post-ictal period or neck stiffness appears). Check HIV status and immunisation." },
+        { "prompt": "Present him on the ward round in two sentences.", "answer": "\"An 18-month-old boy, 11 kg, triaged Emergency for a generalised convulsion with fever for 3 days; he had hypoglycaemia (1.9 mmol/L), a positive mRDT and Hb 6.1 g/dL; the seizure stopped after one dose of rectal diazepam and 10% dextrose. Working diagnosis: severe malaria with impaired consciousness and hypoglycaemia; on IV artesunate, maintenance dextrose fluids and ceftriaxone pending LP.\"" }
+      ],
+      "takeaway": "Treat the convulsion and the glucose before the diagnosis; no more than two benzodiazepine doses; in Uganda, every febrile convulsing child needs a malaria test and consideration of meningitis."
+    },
+    {
+      "id": "etat-c02",
+      "title": "Shock in a malnourished child",
+      "presentation": "At a regional referral hospital, a 20-month-old girl is brought with 4 days of diarrhoea and vomiting. She weighs 6.8 kg, MUAC 10.6 cm, no oedema. She is lethargic, hands cold, capillary refill 5 s, radial pulse weak at 172/min, RR 48.",
+      "steps": [
+        { "prompt": "How do you triage her and what are the key problems?", "answer": "**Emergency**: signs of **shock** (all three), lethargy, likely severe dehydration, in a child with **SAM** (MUAC <11.5 cm). SAM changes the fluid plan, the glucose threshold (<3.0 mmol/L) and the risk of hypothermia and sepsis." },
+        { "prompt": "What are your immediate steps in the first 5 minutes?", "answer": "Oxygen, IV access (or IO), **glucose** (treat if <3.0 mmol/L with 10% dextrose 5 mL/kg = 34 mL), blood for Hb, malaria test, cross-match and culture; keep her **warm** (cover, skin-to-skin, warm room); call senior." },
+        { "prompt": "Prescribe her IV fluid.", "answer": "**15 mL/kg over 1 hour = about 100 mL** of **Ringer's lactate with 5% dextrose** (or half-strength Darrow's with 5% glucose, or 0.45% saline with 5% glucose). Count **pulse and RR every 5–10 minutes**. **Not** Plan C and **not** 20 mL/kg saline." },
+        { "prompt": "After 1 hour her pulse is 150, RR 44, she is more alert. What next?", "answer": "She is improving with no overload: **repeat 15 mL/kg over 1 hour**, then switch to **ReSoMal 10 mL/kg/h orally/NG for up to 10 hours** (or low-osmolarity ORS if ReSoMal is unavailable, per WHO 2023), then start **F-75**. Start IV antibiotics (ampicillin + gentamicin) for presumed sepsis." },
+        { "prompt": "What if she had NOT improved after two boluses?", "answer": "Assume **septic shock**: give **maintenance IV fluid 4 mL/kg/h** while blood is arranged, then **fresh whole blood 10 mL/kg slowly over 3 hours**, IV antibiotics, and start F-75 when possible. **Stop** fluids if RR rises by 5 or pulse by 15, or the liver enlarges." },
+        { "prompt": "What are the next 'stabilisation' priorities in SAM?", "answer": "The WHO 10 steps: prevent/treat **hypoglycaemia** (feeds every 2–3 h day and night), **hypothermia**, **dehydration** (ReSoMal), **electrolytes**, **infection** (antibiotics), **micronutrients** (no iron in stabilisation), start cautious feeding (F-75), then catch-up growth, stimulation, and follow-up. Check HIV status." }
+      ],
+      "takeaway": "In SAM, shock fluids are slower (15 mL/kg/h), contain dextrose, and stop at the first sign of overload; if no response after two boluses, think sepsis and give blood."
+    },
+    {
+      "id": "etat-c03",
+      "title": "Collapse after an injection",
+      "presentation": "A 9-year-old boy (25 kg) admitted with pneumonia receives IV ceftriaxone on the ward. Three minutes later he complains of itching, then becomes hoarse and breathless. You find him with facial swelling, widespread wheals, wheeze, pulse 150/min and cold hands.",
+      "steps": [
+        { "prompt": "What is the diagnosis and the first two actions?", "answer": "**Anaphylaxis** (skin signs plus airway, breathing and circulation involvement after a drug). (1) **Stop the ceftriaxone** and call for help. (2) **Adrenaline 1:1000 IM, 0.01 mL/kg = 0.25 mL** (UCG band 6–12 years: 0.3 mL) into the anterolateral thigh." },
+        { "prompt": "What position and supportive treatment do you give?", "answer": "Lie flat with legs raised if shocked (sitting if breathing is the main problem, but never standing), **high-flow oxygen**, IV access and **0.9% saline 10 mL/kg (250 mL)** bolus; nebulised salbutamol 5 mg for persisting wheeze." },
+        { "prompt": "After 5 minutes he is still wheezy and hypotensive. What now?", "answer": "**Repeat IM adrenaline** (doses every 5 minutes as needed), repeat fluid bolus, call anaesthesia/senior; if there is no response after two IM doses, an IV adrenaline infusion by experienced staff in a monitored area." },
+        { "prompt": "Which second-line drugs might you give, and why are they second?", "answer": "**Chlorphenamine** (6–12 years 5 mg IV/IM) for itch and urticaria, and **hydrocortisone** (6–12 years 100 mg IV) to reduce the risk of protracted symptoms. They act too slowly to treat airway swelling or shock, so they never replace adrenaline." },
+        { "prompt": "How do you manage him after recovery?", "answer": "Observe for at least **6–12 hours** (biphasic reaction), document **ceftriaxone allergy** clearly on the file and treatment chart, report the adverse drug reaction (NDA pharmacovigilance form), choose a non-beta-lactam antibiotic for his pneumonia after discussion, and explain to the family." }
+      ],
+      "takeaway": "Anaphylaxis = IM adrenaline 0.01 mL/kg of 1:1000 into the thigh, repeated every 5 minutes; antihistamines and steroids are extras, never the first drug."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions (Chapter 1: Emergencies and Trauma)", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Paediatric emergency triage, assessment and treatment: care of critically-ill children (ETAT guideline update)", "source": "World Health Organization", "year": 2016, "url": "https://www.who.int/publications/i/item/9789241510219" },
+    { "title": "Pocket book of hospital care for children: guidelines for the management of common childhood illnesses, 2nd edition (Chapter 1: Triage and emergency conditions)", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "WHO guideline on the prevention and management of wasting and nutritional oedema (acute malnutrition) in infants and children under 5 years", "source": "World Health Organization", "year": 2023, "url": "https://www.who.int/publications/i/item/9789240082830" },
+    { "title": "Guideline on management of pneumonia and diarrhoea in children up to 10 years of age", "source": "World Health Organization", "year": 2024, "url": "https://www.who.int/publications/i/item/9789240103412" },
+    { "title": "Maitland K, et al. Mortality after fluid bolus in African children with severe infection (FEAST trial). N Engl J Med 2011;364:2483-95", "source": "New England Journal of Medicine", "year": 2011 }
+  ]
+}

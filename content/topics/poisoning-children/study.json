@@ -1,0 +1,296 @@
+{
+  "slug": "poisoning-children",
+  "flashcards": [
+    { "id": "pois-f01", "front": "First priorities in any poisoned child?", "back": "**Protect yourself**, then **ABC (ETAT)**, **glucose** (10% dextrose 5 mL/kg if low or unmeasurable in a drowsy child), **control seizures**, decontaminate skin/eyes, then identify the poison and decide on charcoal and antidotes." },
+    { "id": "pois-f02", "front": "The '5 Ws' of a poisoning history?", "back": "**Who** (age, weight), **What** (substance, strength; bring the container), **When**, **How much** (worst case, mg/kg), **Why/how** (accident, error, self-harm, abuse). Also: other children exposed? first aid given?" },
+    { "id": "pois-f03", "front": "Should you induce vomiting in a poisoned child?", "back": "**Never.** It removes little poison, causes aspiration (especially hydrocarbons) and re-burns the oesophagus (corrosives); salt-water emetics can cause fatal hypernatraemia." },
+    { "id": "pois-f04", "front": "Dose and timing of activated charcoal?", "back": "**1 g/kg** (UCG 2023: 0.5–1 g/kg; WHO: ≤1 year 1 g/kg, 1–12 years 25–50 g), max 50 g, within **1 hour** (UCG up to 2 h), mixed with 8–10 volumes of water, oral or NG, only if the airway is safe." },
+    { "id": "pois-f05", "front": "Poisons NOT bound by activated charcoal?", "back": "**Iron, lithium, alcohols (ethanol, methanol), hydrocarbons (paraffin, petrol), acids and alkalis** (also potassium and other metals)." },
+    { "id": "pois-f06", "front": "Main danger of paraffin (kerosene) ingestion?", "back": "**Aspiration pneumonitis** (low viscosity spreads over the lungs and destroys surfactant). CNS depression and seizures can also occur." },
+    { "id": "pois-f07", "front": "Management of paraffin ingestion?", "back": "ABC; wash skin; **no emesis, no lavage, no charcoal**; oxygen if hypoxic; **observe ≥6 hours**; CXR if symptomatic; no routine antibiotics or steroids; counsel never to store paraffin in soda bottles." },
+    { "id": "pois-f08", "front": "Features of organophosphate poisoning?", "back": "**SLUDGE** (salivation, lacrimation, urination, defecation, GI upset, emesis) + **killer Bs** (bradycardia, bronchorrhoea, bronchospasm), **pinpoint pupils**, sweating, fasciculations, weakness, seizures, coma; chemical smell." },
+    { "id": "pois-f09", "front": "Atropine dosing in organophosphate poisoning (child)?", "back": "**0.02 mg/kg IV/IM** (WHO Pocket Book; max 2 mg per dose; UCG 2023: 0.05 mg/kg), **doubling every 5 minutes** until atropinised, then an infusion of 10–20% of the loading total per hour." },
+    { "id": "pois-f10", "front": "Endpoints of atropinisation?", "back": "**Clear chest** (no bronchorrhoea), **heart rate normal for age**, **dry axillae**, pupils no longer pinpoint, adequate BP. A dry chest is the key target." },
+    { "id": "pois-f11", "front": "Pralidoxime dose in children?", "back": "**25–50 mg/kg IV over 30 min** (max 2 g), then **10–20 mg/kg/h** infusion (WHO, UCG); most useful within 24–48 h, before enzyme 'ageing'." },
+    { "id": "pois-f12", "front": "What is the intermediate syndrome?", "back": "Weakness of **neck flexors, proximal limbs, cranial nerves and respiratory muscles** 24–96 h after organophosphate poisoning, after the cholinergic crisis has settled; can cause respiratory failure." },
+    { "id": "pois-f13", "front": "Toxic dose of paracetamol in a child?", "back": "**≥150 mg/kg** single acute ingestion (UCG 2023: >150 mg/kg, or >200 mg/kg in children under 6 years)." },
+    { "id": "pois-f14", "front": "IV acetylcysteine regimen?", "back": "**150 mg/kg over 1 h → 50 mg/kg over 4 h → 100 mg/kg over 16 h** (21 h; total 300 mg/kg). For <20 kg, volumes of 5% dextrose 3, 7 and 14 mL/kg (WHO). Nearly 100% protective if started within **8 h**." },
+    { "id": "pois-f15", "front": "When do you take a paracetamol level and what is the UK treatment line?", "back": "At **4 hours** after ingestion or later (earlier levels are uninterpretable). UK treatment line **100 mg/L at 4 h** (US 150 mg/L). If >8 h since a toxic dose, start NAC before the result." },
+    { "id": "pois-f16", "front": "Elemental iron in common tablets?", "back": "Ferrous sulphate 200 mg ≈ **60–65 mg**; ferrous fumarate 200 mg ≈ 65 mg; ferrous gluconate 300 mg ≈ 35 mg." },
+    { "id": "pois-f17", "front": "Iron toxicity thresholds (elemental)?", "back": "**<20 mg/kg**: usually only GI upset. **20–60 mg/kg**: possible systemic toxicity. **>60 mg/kg**: serious, possibly lethal (UCG: <40 mg/kg unlikely to cause problems)." },
+    { "id": "pois-f18", "front": "Five phases of iron poisoning?", "back": "(1) **GI** 0.5–6 h: vomiting, haematemesis, pain; (2) **latent** 6–12 h; (3) **shock and acidosis** 12–48 h; (4) **hepatic failure** 2–4 days; (5) **GI stricture** (pyloric) after 2–6 weeks." },
+    { "id": "pois-f19", "front": "Deferoxamine dose for iron poisoning?", "back": "**15 mg/kg/h IV**, reduced after 4–6 h, max **80 mg/kg/24 h** (WHO; max 6 g/day), usually for **≤24 h**. Indications: shock, acidosis, coma, severe GI symptoms, serum iron >90 µmol/L. Urine turns 'vin rosé'." },
+    { "id": "pois-f20", "front": "Why do small children who drink alcohol become comatose and cold?", "back": "Ethanol depresses the CNS and **blocks hepatic gluconeogenesis** → **hypoglycaemia**; peripheral vasodilatation → **hypothermia**. Treat with 10% dextrose 5 mL/kg, dextrose infusion, warmth." },
+    { "id": "pois-f21", "front": "Snakebite first aid (UCG 2023)?", "back": "Reassure, keep still, lie on the side, remove rings/tight items, **splint the limb**; **no tourniquet, no cutting or sucking, no herbs**, don't chase the snake; get to a facility." },
+    { "id": "pois-f22", "front": "How do you do a 20-minute whole-blood clotting test?", "back": "Put **2 mL of venous blood in a clean, dry glass tube**, leave undisturbed for **20 minutes**, tip once: blood still liquid = **coagulopathy** (venom-induced). Repeat every 4–6 h (UCG observes at 30 min)." },
+    { "id": "pois-f23", "front": "Indications for antivenom?", "back": "**Systemic envenoming** (neurotoxicity: ptosis, bulbar palsy, respiratory weakness; non-clotting blood/bleeding; shock) or **rapidly spreading local swelling** (hand/foot within 1 h, elbow/knee within 3 h, groin/chest, more than half the limb)." },
+    { "id": "pois-f24", "front": "Antivenom dose for children?", "back": "**The same as for adults** (it neutralises the venom injected, not the body weight). Dilute in 2–3 volumes of saline, IV over 1 h, adrenaline 0.01 mL/kg of 1:1000 IM ready." },
+    { "id": "pois-f25", "front": "Caustic ingestion: what not to do?", "back": "**No emesis, no neutralisation, no charcoal, no lavage, no blind NG tube.** Airway first; nil by mouth if drooling/stridor; endoscopy within 12–24 h if symptomatic; follow up for oesophageal stricture." },
+    { "id": "pois-f26", "front": "Naloxone dose for opioid poisoning in a child?", "back": "**0.01 mg/kg IV/IM**, increasing to **0.1 mg/kg** if no response (UCG 2023); repeat every 2–3 min; infusion if needed. Aim to restore breathing." },
+    { "id": "pois-f27", "front": "Key prevention advice for families?", "back": "Store medicines and chemicals **locked up, out of reach, in original labelled containers**; **never put paraffin or pesticides in soda/water bottles**; don't call medicines sweets; supervise; safe disposal." }
+  ],
+  "mcqs": [
+    {
+      "id": "pois-q01",
+      "stem": "A 2-year-old boy (12 kg) drank from a soda bottle containing paraffin 30 minutes ago. He coughed and gagged at once. Now RR 44, SpO₂ 96%, chest clear. His aunt asks whether to make him vomit. What is the MOST appropriate management?",
+      "options": [
+        "Induce vomiting with salt water to remove the paraffin",
+        "Gastric lavage with 0.9% saline",
+        "Activated charcoal 12 g by NG tube",
+        "Observe for at least 6 hours with RR and SpO₂ monitoring; no emesis, lavage or charcoal",
+        "Start amoxicillin and prednisolone to prevent pneumonia"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: hydrocarbon ingestion is managed **supportively**, with observation for at least 6 hours because pneumonitis can develop over hours. A is wrong: vomiting increases aspiration of hydrocarbons and salt emetics can be fatal. B is wrong: lavage is contraindicated for petroleum products. C is wrong: charcoal does not bind hydrocarbons and provokes vomiting. E is wrong: prophylactic antibiotics and steroids have no proven benefit.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pois-q02",
+      "stem": "A 4-year-old (16 kg) from a farming home in Masaka is brought drowsy and drooling with vomiting and diarrhoea. HR 70/min, pupils pinpoint, profuse sweating, widespread crackles and wheeze, fasciculations in the calves. SpO₂ 88%. What is the MOST appropriate immediate drug treatment?",
+      "options": [
+        "Atropine 0.32 mg IV (0.02 mg/kg), doubling every 5 minutes until the chest is clear and the heart rate normal",
+        "Salbutamol nebuliser and IV ceftriaxone for pneumonia",
+        "Naloxone 0.16 mg IV",
+        "Adrenaline 0.16 mL of 1:1000 IM",
+        "Pralidoxime alone, withholding atropine until oxygen saturation improves"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: this is a **cholinergic crisis** (SLUDGE, bradycardia, bronchorrhoea, miosis, fasciculations) from organophosphate exposure; give **atropine 0.02 mg/kg**, doubling every 5 minutes to a dry chest (UCG uses 0.05 mg/kg), with suction, oxygen and decontamination. B is wrong: the 'pneumonia' is bronchorrhoea, and salbutamol will not dry secretions or treat bradycardia. C is wrong: naloxone is for opioids (pinpoint pupils but no secretions, sweating or fasciculations). D is wrong: this is not anaphylaxis. E is wrong: atropine must not be delayed; pralidoxime is an adjunct.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pois-q03",
+      "stem": "The child in the previous question has received 0.3, 0.6, 1.2 and 2.4 mg of atropine. Now: HR 135/min, pupils 4 mm, chest clear, axillae dry, temperature 37.9 °C, agitated. What is the BEST next step?",
+      "options": [
+        "Continue doubling: give 4.8 mg",
+        "Stop atropine completely because he is now tachycardic",
+        "He is atropinised: start an infusion at about 10–20% of the total loading dose per hour and monitor chest, HR and temperature hourly",
+        "Give physostigmine to reverse the atropine",
+        "Give a dose of diazepam and continue doubling"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: a **clear chest, dry axillae, normal-for-age HR and non-pinpoint pupils** mean atropinisation; maintain it with an infusion (total loading 4.5 mg → about 0.45–0.9 mg/h) and titrate. A is wrong: further doubling causes atropine toxicity. B is wrong: stopping risks recurrence of bronchorrhoea; mild tachycardia is expected. D is wrong: physostigmine would worsen the cholinergic poisoning. E is wrong: he is not seizing and further doubling is not indicated.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pois-q04",
+      "stem": "A 3-year-old (14 kg) swallowed up to 10 of her pregnant mother's ferrous sulphate 200 mg tablets 2 hours ago. She has vomited three times, once with blood, and has abdominal pain. HR 150, CRT 3 s. Which statement is CORRECT?",
+      "options": [
+        "Give activated charcoal 14 g now",
+        "This is about 15 mg/kg elemental iron and needs no treatment",
+        "Induce vomiting to remove remaining tablets",
+        "Send her home if she is better at 2 hours",
+        "She has taken about 45 mg/kg elemental iron, is symptomatic, and needs IV fluids, an abdominal X-ray and deferoxamine if shock or acidosis develops"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: 10 × 60–65 mg = about **650 mg elemental iron ÷ 14 kg ≈ 46 mg/kg**, with GI bleeding and early shock; she needs fluids, X-ray, gas and **deferoxamine 15 mg/kg/h** if shocked or acidotic. A is wrong: charcoal does not bind iron. B is wrong: 15 mg/kg is an underestimate; the elemental dose is about 46 mg/kg and she already has GI bleeding and early shock. C is wrong: never induce vomiting. D is wrong: the latent phase (6–12 h) can mislead; a symptomatic child is admitted.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pois-q05",
+      "stem": "A 15-year-old girl (45 kg) took 30 paracetamol 500 mg tablets 10 hours ago after a quarrel at home. She is nauseated but otherwise well. A paracetamol level will take 24 hours from a private lab. What is the MOST appropriate management?",
+      "options": [
+        "Activated charcoal and discharge if well at 12 hours",
+        "Start IV acetylcysteine immediately (150 mg/kg over 1 h, 50 mg/kg over 4 h, 100 mg/kg over 16 h) and arrange psychosocial assessment",
+        "Wait for the paracetamol level before deciding",
+        "Give vitamin K and observe",
+        "Start acetylcysteine only if her ALT is raised"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: 15 g ÷ 45 kg = **333 mg/kg**, a toxic dose; she is **>8 hours** post-ingestion, so NAC starts immediately without waiting for the level; intentional overdose needs psychosocial assessment. A is wrong: charcoal is useless at 10 hours and discharge would miss delayed hepatotoxicity. C is wrong: delay beyond 8 hours reduces NAC's protection. D is wrong: vitamin K treats warfarin-type poisoning. E is wrong: ALT may be normal early; waiting loses the protective window.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pois-q06",
+      "stem": "A 2-year-old (11 kg) is found with an open bottle of bleach-like toilet cleaner 20 minutes ago. He is drooling, crying, refuses to swallow and has white patches on his lips and tongue. No stridor. What is the BEST next step?",
+      "options": [
+        "Give vinegar or lemon juice to neutralise the alkali",
+        "Keep him nil by mouth, protect the airway, give IV fluids and analgesia, and arrange endoscopy within 12–24 hours",
+        "Pass a nasogastric tube and perform gastric lavage",
+        "Give activated charcoal 11 g",
+        "Induce vomiting with salt water"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: drooling and refusal to swallow suggest significant **caustic injury**; keep nil by mouth, watch the airway, give IV fluids and analgesia, and arrange endoscopy within 12–24 h to grade the burns. A is wrong: neutralisation produces heat and more injury. C is wrong: blind NG tubes and lavage risk perforation. D is wrong: charcoal does not bind corrosives and obscures endoscopy. E is wrong: vomiting re-exposes the oesophagus and risks aspiration.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pois-q07",
+      "stem": "An 8-year-old (24 kg) was bitten on the foot by a large snake in the garden 2 hours ago. Swelling now reaches the knee, blisters are forming, and his 20-minute whole-blood clotting test shows non-clotting blood. Which is the BEST management?",
+      "options": [
+        "Apply a tight tourniquet above the knee",
+        "Incise and suck the bite",
+        "Give half the adult antivenom dose because he is a child",
+        "Give oral antibiotics and observe",
+        "Give the full adult dose of polyvalent antivenom IV over 1 hour, with adrenaline drawn up, and repeat the clotting test after 6 hours"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: rapidly spreading swelling and **coagulopathy** are indications for antivenom; children receive the **same dose as adults**, given IV with anaphylaxis treatment ready, and the 20WBCT is repeated after 6 h (redose if still non-clotting). A is wrong: tourniquets worsen local necrosis and cause ischaemia. B is wrong: incision and suction cause infection and bleeding without removing venom. C is wrong: the dose is not weight-based. D is wrong: antibiotics are only for infection and do not treat envenoming.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pois-q08",
+      "stem": "A 6-year-old (20 kg) is brought unconscious from a wedding where he drank several sachets of waragi. Temperature 35.0 °C, RR 18, SpO₂ 95%. What is the MOST important immediate investigation?",
+      "options": [
+        "Bedside blood glucose",
+        "Serum ethanol level",
+        "Chest X-ray",
+        "Lumbar puncture",
+        "Serum paracetamol level"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: alcohol in children causes **hypoglycaemia** (blocked gluconeogenesis), which is lethal and instantly treatable with 10% dextrose 5 mL/kg. B is wrong: an ethanol level rarely changes acute management and is seldom available. C is wrong: a chest X-ray is only needed if aspiration is suspected. D is wrong: LP is considered later if meningitis is suspected and the child is stable. E is wrong: there is no history of paracetamol.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pois-q09",
+      "stem": "Which ingestion is activated charcoal MOST likely to benefit, assuming the child is alert and presents within 1 hour?",
+      "options": [
+        "Ferrous sulphate tablets",
+        "Paraffin",
+        "Caustic soda",
+        "Carbamazepine tablets",
+        "Ethanol"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: carbamazepine is **well adsorbed** by charcoal (and multiple-dose charcoal enhances its elimination). A is wrong: charcoal does not bind iron. B is wrong: paraffin is not bound and charcoal increases aspiration risk. C is wrong: corrosives are not bound and charcoal obscures endoscopy. E is wrong: alcohols are absorbed too quickly and are not adsorbed.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pois-q10",
+      "stem": "A 4-year-old (16 kg) drank most of a 100 mL bottle of paracetamol syrup 120 mg/5 mL about 90 minutes ago. He is well. No paracetamol level is available. What is the MOST appropriate plan?",
+      "options": [
+        "Reassure and discharge; syrup is never toxic",
+        "Give activated charcoal and start N-acetylcysteine immediately without further thought",
+        "Calculate the dose (≈150 mg/kg); give charcoal if within the time window and the airway is safe, and start IV acetylcysteine with baseline LFTs because a level is unavailable",
+        "Induce vomiting to remove the syrup",
+        "Give vitamin K and repeat INR"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: 100 mL × 24 mg/mL = 2,400 mg ÷ 16 kg = **150 mg/kg**, at the treatment threshold; with no level available, a cautious plan is charcoal (UCG allows up to 2 h; benefit falls after 1 h) and **IV NAC**, with LFTs/INR at baseline and the end of treatment. A is wrong: liquid ingestions can still be toxic at this dose. B is wrong: the decision should follow a dose calculation, not reflex. D is wrong: never induce vomiting. E is wrong: vitamin K is for warfarin-type poisoning.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pois-q11",
+      "stem": "A 3-year-old is brought 4 hours after paraffin ingestion. She has fever 38.6 °C, RR 56, crackles at the right base and SpO₂ 89%. Chest X-ray shows right lower lobe infiltrates. What is the BEST management?",
+      "options": [
+        "Oxygen to SpO₂ ≥94%, admission, maintenance fluids if not drinking, and antibiotics only if fever persists beyond 48 h or she deteriorates",
+        "IV ceftriaxone and dexamethasone immediately",
+        "Activated charcoal by NG tube",
+        "Discharge with oral amoxicillin",
+        "Gastric lavage and salbutamol"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: early fever and infiltrates after hydrocarbon aspiration are usually **chemical pneumonitis**; treatment is oxygen and supportive care, with antibiotics reserved for persistent fever or evidence of secondary bacterial infection. B is wrong: steroids do not help and routine antibiotics are not recommended. C is wrong: charcoal is contraindicated. D is wrong: a hypoxic child must be admitted. E is wrong: lavage is contraindicated.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pois-q12",
+      "stem": "A 5-year-old (18 kg) bitten on the hand by a cobra 1 hour ago now has bilateral ptosis, drooling and difficulty swallowing; RR 30, SpO₂ 93%. Antivenom is being prepared. What is the MOST important additional measure?",
+      "options": [
+        "Give pralidoxime",
+        "Apply a tourniquet to stop further venom spread",
+        "Give IM vitamin K",
+        "Prepare to support ventilation (bag-mask, intubation) and consider an atropine–neostigmine trial",
+        "Give oral fluids to keep him hydrated"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: **neurotoxic** envenoming threatens the airway and breathing; be ready to ventilate (by relays of bag-mask if no ventilator) and consider an **anticholinesterase trial** (atropine then neostigmine), which reverses post-synaptic cobra neurotoxicity. A is wrong: pralidoxime is for organophosphates. B is wrong: tourniquets cause ischaemia and are not recommended. C is wrong: vitamin K does not treat neurotoxicity. E is wrong: bulbar palsy makes oral fluids an aspiration risk.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pois-q13",
+      "stem": "A mother at Mengo asks how to prevent another poisoning after her toddler drank paraffin. Which advice is MOST important?",
+      "options": [
+        "Give milk to the child after any poisoning",
+        "Keep a bottle of salt water ready to induce vomiting",
+        "Never store paraffin or chemicals in soda or water bottles; keep them in labelled containers, locked away and out of reach",
+        "Store paraffin on the floor so it cannot fall",
+        "Teach the child that paraffin tastes bad"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: storing paraffin in **drink bottles** within reach is the main cause of childhood paraffin poisoning in Uganda; safe, labelled, locked storage prevents it. A is wrong: milk can provoke vomiting and does not neutralise poisons (WHO advises water/milk sips only for corrosives). B is wrong: salt-water emesis is dangerous. D is wrong: floor storage puts it within a toddler's reach. E is wrong: toddlers do not reliably learn from warnings.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pois-q14",
+      "stem": "A 2-year-old (12 kg) is drowsy with slow, shallow breathing (RR 8) and pinpoint pupils after drinking an adult's codeine cough syrup. Skin is dry; chest is clear; HR 100. What should you give?",
+      "options": [
+        "Atropine 0.24 mg IV",
+        "Flumazenil IV",
+        "Activated charcoal 12 g by mouth",
+        "Pralidoxime 600 mg IV",
+        "Bag-mask ventilation with oxygen and naloxone 0.12 mg (0.01 mg/kg) IV, repeated and increased to 0.1 mg/kg if needed"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: **opioid toxidrome** (coma, respiratory depression, pinpoint pupils, no secretions) needs ventilation and **naloxone 0.01 mg/kg**, increased to 0.1 mg/kg if no response (UCG 2023). A is wrong: atropine treats cholinergic poisoning; this child is dry with a clear chest. B is wrong: flumazenil reverses benzodiazepines and may provoke seizures. C is wrong: charcoal in a drowsy child without airway protection risks aspiration. D is wrong: pralidoxime is for organophosphates.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pois-q15",
+      "stem": "A 3-year-old (14 kg) took an unknown number of her grandmother's iron tablets. She is completely asymptomatic 6 hours later; abdominal X-ray shows no tablets. What is the MOST appropriate decision?",
+      "options": [
+        "Start deferoxamine 15 mg/kg/h for 24 hours to be safe",
+        "Significant toxicity is very unlikely; she can be discharged with advice to return if vomiting, drowsiness or abdominal pain develop, plus prevention counselling",
+        "Give activated charcoal now",
+        "Perform whole-bowel irrigation",
+        "Keep in hospital for 7 days to watch for liver failure"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: GI symptoms of iron toxicity appear within 6 hours; a child **asymptomatic at 6 hours** with no tablets on X-ray is very unlikely to develop serious toxicity (WHO). A is wrong: deferoxamine has side-effects and is reserved for clinical toxicity. C is wrong: charcoal does not bind iron. D is wrong: there are no tablets to clear. E is wrong: prolonged admission is unnecessary for an asymptomatic child.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "pois-c01",
+      "title": "The farmer's son with 'pneumonia'",
+      "presentation": "A 5-year-old boy (18 kg) from Luweero is brought to a HC IV at 18:00 with vomiting, diarrhoea and difficulty breathing since the afternoon. His father had been spraying tomatoes and left the sprayer and an unlabelled bottle in the house. The clinician at the gate thinks he has pneumonia.",
+      "steps": [
+        { "prompt": "What would you look for to confirm or refute pneumonia vs poisoning?", "answer": "Look for the **cholinergic toxidrome**: **pinpoint pupils**, **bradycardia**, excessive salivation and lacrimation, sweating, bronchorrhoea (wet crackles), wheeze, fasciculations, weakness, chemical smell, incontinence. Pneumonia gives fever and tachycardia with normal pupils. He has HR 64, pupils 1 mm, drooling, sweating, crackles everywhere, SpO₂ 88%." },
+        { "prompt": "What are your immediate actions?", "answer": "Gloves and apron; **remove all clothes**, wash skin and hair with soap and water; suction secretions; **oxygen**; IV access; check glucose; give **atropine 0.02 mg/kg = 0.36 mg IV** (UCG: 0.05 mg/kg = 0.9 mg), then **double every 5 minutes** (0.72, 1.44, 2.88 mg…) until the chest is clear, HR normal and axillae dry." },
+        { "prompt": "After four doses his chest is clear, HR 128, axillae dry, pupils 3 mm. What next?", "answer": "He is **atropinised**: start an infusion at 10–20% of the cumulative dose per hour (cumulative ~5.4 mg → about 0.5–1 mg/h), reassess chest, HR, pupils, temperature, bowel sounds and bladder hourly. Give **pralidoxime 25–50 mg/kg (450–900 mg) IV over 30 min**, then 10–20 mg/kg/h if available, because he has fasciculations. Charcoal only if within 1–2 h of ingestion and airway safe." },
+        { "prompt": "What complications will you watch for over the next 4 days?", "answer": "**Respiratory failure** (secretions, weakness), aspiration pneumonia, **atropine toxicity** (fever, delirium, ileus, retention), seizures, and the **intermediate syndrome** at 24–96 h (neck-flexor, proximal and respiratory muscle weakness); later delayed neuropathy. Refer early if ventilation may be needed." },
+        { "prompt": "How do you counsel the family before discharge?", "answer": "Explain what happened without blame; store pesticides **locked away in labelled original containers**, never in drink bottles or the house; wash sprayer equipment outside; keep children away during spraying; change and wash clothes after spraying; return if weakness or breathing difficulty appears." }
+      ],
+      "takeaway": "A child with secretions, small pupils and a slow heart is poisoned until proven otherwise: atropine to a dry chest, decontaminate, and watch for the intermediate syndrome."
+    },
+    {
+      "id": "pois-c02",
+      "title": "A teenager's overdose",
+      "presentation": "A 14-year-old girl (42 kg) is brought to Mengo by her aunt at 22:00. She admits to taking 'a lot' of paracetamol 500 mg tablets at about 13:00 after being sent away from school for fees. She vomited twice. Pulse 96, BP 108/66, alert, mildly tender in the right upper quadrant.",
+      "steps": [
+        { "prompt": "Estimate the risk.", "answer": "Assume the worst: the aunt finds an empty strip of 20 and a half-empty tin of 100 → up to 70 tablets = **35 g ÷ 42 kg ≈ 830 mg/kg**, far above **150 mg/kg**. She is **9 hours** post-ingestion, so liver injury is likely without treatment. Ask about co-ingestants (ARVs, antimalarials, alcohol, herbal)." },
+        { "prompt": "What do you do now, before any results?", "answer": "Start **IV acetylcysteine** immediately: **150 mg/kg (6.3 g) over 1 h**, then **50 mg/kg (2.1 g) over 4 h**, then **100 mg/kg (4.2 g) over 16 h** in 5% dextrose. Bloods: paracetamol level (if obtainable), ALT/AST, INR, creatinine, glucose, electrolytes, FBC, pregnancy test. Antiemetic. **Charcoal is too late.**" },
+        { "prompt": "Thirty minutes into the first bag she develops itching, flushing and mild wheeze. What do you do?", "answer": "An **anaphylactoid reaction** to NAC (rate-related histamine release). **Pause** the infusion, give an antihistamine (chlorphenamine 10 mg IV) and salbutamol for wheeze, then **restart at a slower rate** once settled. Adrenaline only if true anaphylaxis with shock or airway compromise." },
+        { "prompt": "At 21 hours, ALT is 850 IU/L and INR 1.8. What next?", "answer": "**Continue NAC** at 100 mg/kg/16 h (6.25 mg/kg/h) until ALT is falling and INR <1.3 (or improving); monitor glucose, INR, creatinine, acid–base, consciousness. Refer to Mulago/ICU if encephalopathy, INR >3, acidosis, hypoglycaemia or AKI (King's College criteria; liver transplant is not available in Uganda, so supportive care is everything)." },
+        { "prompt": "What must happen before she goes home?", "answer": "A **psychosocial/psychiatric assessment** (suicide risk, depression, abuse, school and family stress); safety planning with the family (remove medicines from the home); involve a counsellor or social worker and the school; follow-up appointment; LFTs normalising." }
+      ],
+      "takeaway": "In paracetamol overdose, calculate mg/kg on the worst case; if more than 8 hours have passed, start NAC first and ask questions later; every intentional overdose needs a psychosocial assessment."
+    },
+    {
+      "id": "pois-c03",
+      "title": "Snakebite in the evening",
+      "presentation": "A 9-year-old boy (26 kg) was bitten on the right foot while walking home at dusk in Kayunga. His family tied a rope tightly around his thigh, cut the bite with a razor and applied herbs. He arrives at the RRH 3 hours later. The foot and leg are swollen to above the knee, with blisters; he has bleeding gums.",
+      "steps": [
+        { "prompt": "What are your first actions?", "answer": "ABC; reassure; **remove the tourniquet carefully** (be ready for a surge of venom effects: monitor and have antivenom and adrenaline ready); clean the wound; splint and elevate slightly; IV access in an **unbitten limb**; analgesia with paracetamol (no NSAIDs); tetanus prophylaxis; **20WBCT**." },
+        { "prompt": "The 20-minute clotting test shows liquid blood. What is the likely snake and type of venom?", "answer": "Extensive painful swelling with blistering plus **coagulopathy** suggests a **viper** (puff adder or Gaboon viper: cytotoxic with haemotoxic effects); boomslang causes bleeding with less swelling. Neurotoxic snakes (cobras, mambas) cause ptosis and paralysis." },
+        { "prompt": "Does he need antivenom, and how will you give it?", "answer": "Yes: **coagulopathy with bleeding** and swelling beyond the knee. **Polyvalent antivenom at the full adult dose** (per insert), diluted in 2–3 volumes of 0.9% saline, IV over 1 h, slowly for the first 10–15 minutes. **Adrenaline 1:1000 0.26 mL IM** (0.01 mL/kg) drawn up with chlorphenamine and hydrocortisone at hand." },
+        { "prompt": "Twenty minutes into the infusion he develops urticaria and wheeze. What do you do?", "answer": "**Stop the infusion**, give **IM adrenaline 0.26 mL**, oxygen, salbutamol, chlorphenamine; once stable, **restart antivenom slowly**: the envenoming is more dangerous than the reaction." },
+        { "prompt": "How do you monitor and when do you repeat antivenom?", "answer": "Repeat **20WBCT 6 hours** after the antivenom dose; if still non-clotting, **repeat antivenom**. Monitor swelling (mark the edge with times), compartment pressures/pulses, Hb, urine output and colour, creatinine (AKI), bleeding. Surgical review for necrosis (debride once demarcated); fasciotomy only for proven compartment syndrome; antibiotics because the wound was cut and herbs applied." },
+        { "prompt": "What prevention advice do you give?", "answer": "Wear shoes and carry a torch at night, clear grass around the home, sleep on a raised bed under a net; first aid is **immobilise and go to hospital**, never tourniquets, cutting, sucking or herbs." }
+      ],
+      "takeaway": "Traditional first aid often worsens snakebite; immobilise, test clotting, and give the full adult dose of antivenom for systemic or rapidly spreading envenoming, with adrenaline ready."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023: section 1.3 Poisoning (general management, organophosphates, paraffin, aspirin, paracetamol, iron, CO, opioids, warfarin, methanol, alcohol) and 1.2.1.1 Snakebites", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Pocket book of hospital care for children, 2nd edition (sections 1.6 Poisoning and 1.9 Common causes of envenoming)", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "Snakebite envenoming (fact sheet)", "source": "World Health Organization", "year": 2023, "url": "https://www.who.int/news-room/fact-sheets/detail/snakebite-envenoming" },
+    { "title": "Organophosphate Toxicity: Treatment & Management (Medscape)", "source": "Medscape / eMedicine", "year": 2024, "url": "https://emedicine.medscape.com/article/167726-treatment" },
+    { "title": "Acetaminophen Toxicity: Treatment & Management (Medscape)", "source": "Medscape / eMedicine", "year": 2024, "url": "https://emedicine.medscape.com/article/820200-treatment" },
+    { "title": "Iron Toxicity: Practice Essentials and Treatment (Medscape)", "source": "Medscape / eMedicine", "year": 2024, "url": "https://emedicine.medscape.com/article/815213-overview" },
+    { "title": "Hydrocarbon Toxicity: Treatment & Management (Medscape)", "source": "Medscape / eMedicine", "year": 2024, "url": "https://emedicine.medscape.com/article/821143-treatment" },
+    { "title": "Pralidoxime (Protopam) dosing, pediatric (Medscape drug reference)", "source": "Medscape Reference", "year": 2024, "url": "https://reference.medscape.com/drug/protopam-2pam-antidote-pralidoxime-343744" }
+  ]
+}

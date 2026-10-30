@@ -80,3 +80,15 @@ To update a topic, edit `content/topics/<slug>/notes.md` or `study.json`, then r
 - Statistics: UDHS 2022 (IMR 36, U5MR 52, stunting 24%, perinatal mortality); VACS 2015 figures; child marriage/teen pregnancy; paediatric HIV numbers.
 - Law: Children (Amendment) Act 2016 section numbers (corporal punishment ban, duty to report); adolescent consent age for HIV testing/SRH; UNCST assent age (8 years).
 - Doses: paediatric STI prophylaxis after defilement (ceftriaxone 25–50 mg/kg max 250 mg; metronidazole); rectal artesunate capsule strength in iCCM (50 vs 100 mg).
+
+## Paediatrics: emergencies, hypoglycaemia, poisoning, endocrine, skin
+
+- Neonatal hypoglycaemia threshold: site uses 2.6 mmol/L (WHO Pocket Book 2.2 mmol/L).
+- Shock fluids: WHO ETAT 2016 10–20 mL/kg over 30–60 min vs UCG 2023 20–30 mL/kg over 60 min (up to 60 mL/kg). Which does Mengo use?
+- Phenobarbital loading: WHO 15 mg/kg (neonates 20), UCG 10–15 mg/kg in severe malaria, 20 mg/kg common.
+- Organophosphate atropine: WHO 0.02 mg/kg vs UCG 0.05 mg/kg doubling every 3–5 min.
+- Tinea capitis griseofulvin: UCG 10 mg/kg/day × 6 weeks vs international 15–25 mg/kg/day. Benzyl benzoate repeat schedule. Ivermectin limits (UCG <15 kg or <12 years; WHO ≥15 kg).
+- Zinc for diarrhoea: WHO 2024 suggests 5 mg/day; UCG still 10/20 mg.
+- Infant CPR: confirm AHA 2025 dropped the two-finger technique. Snakebite: antivenom per insert; neostigmine dose per local protocol.
+- DKA without pump: UCG wording for IM/SC insulin in children (notes: 0.1 unit/kg hourly); ISPAD add-dextrose point 14–17 mmol/L. Paracetamol: only the 21-hour NAC regimen taught.
+- Uganda figures: U5MR 52, stunting ~24% (UDHS 2022); insulin via Changing Diabetes in Children / Life for a Child.
