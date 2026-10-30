@@ -278,7 +278,9 @@ if (!jobs.length) {
   process.exit(0);
 }
 
-const browser = await chromium.launch(process.env.CHROMIUM_PATH ? { executablePath: process.env.CHROMIUM_PATH } : {});
+// Prefer an explicit path, then the sandbox's preinstalled Chromium, then Playwright's own lookup.
+const executablePath = process.env.CHROMIUM_PATH ?? (fs.existsSync("/opt/pw-browsers/chromium") ? "/opt/pw-browsers/chromium" : undefined);
+const browser = await chromium.launch(executablePath ? { executablePath } : {});
 const tab = await browser.newPage();
 for (const job of jobs) {
   await tab.setContent(job.html(), { waitUntil: "load" });
