@@ -1,0 +1,296 @@
+{
+  "slug": "paeds-cardiovascular-exam",
+  "flashcards": [
+    { "id": "cve-f01", "front": "Normal heart rate ranges by age?", "back": "Newborn **110–160**; infant **100–160**; 2–5 y **80–140**; 5–12 y **70–120**; >12 y **60–100** /min (approximate)." },
+    { "id": "cve-f02", "front": "WHO thresholds for tachycardia in heart failure?", "back": "**>160/min under 12 months**; **>120/min at 1–5 years** (WHO Pocket Book)." },
+    { "id": "cve-f03", "front": "WHO fast-breathing thresholds?", "back": "**≥60/min under 2 months**; **≥50 at 2–12 months**; **≥40 at 1–5 years**." },
+    { "id": "cve-f04", "front": "Lower limit of normal systolic BP (PALS)?", "back": "Term neonate **<60**; infant **<70**; 1–10 years **<70 + 2 × age**; ≥10 years **<90** mmHg." },
+    { "id": "cve-f05", "front": "How do you choose a BP cuff for a child?", "back": "Bladder **width ~40% of mid-upper-arm circumference** and **length 80–100%** of the circumference. Too small a cuff **over-reads**." },
+    { "id": "cve-f06", "front": "Why must you always feel the femoral pulses?", "back": "Weak, delayed or absent femorals = **coarctation of the aorta** (or interrupted arch, or duct-dependent left heart in a shocked neonate). Check arm vs leg BP (gradient >10–20 mmHg abnormal)." },
+    { "id": "cve-f07", "front": "Where is the apex beat in children?", "back": "**4th intercostal space just lateral to the midclavicular line** under about 5–7 years; **5th space at the midclavicular line** in older children." },
+    { "id": "cve-f08", "front": "Heaving vs thrusting apex?", "back": "**Heaving** (sustained, not displaced) = **pressure load** (AS, coarctation, hypertension). **Thrusting/displaced** = **volume load** (VSD, PDA, MR, AR, cardiomyopathy)." },
+    { "id": "cve-f09", "front": "What does a left parasternal heave indicate?", "back": "**Right ventricular hypertrophy**: pulmonary hypertension, pulmonary stenosis, TOF, large left-to-right shunts." },
+    { "id": "cve-f10", "front": "Levine grading of systolic murmurs?", "back": "1 very soft; 2 soft, easily heard; 3 loud, **no thrill**; **4 with thrill**; 5 heard with the stethoscope **edge**; 6 heard with the stethoscope **off the chest**." },
+    { "id": "cve-f11", "front": "The 7 S's of an innocent murmur?", "back": "**S**ensitive (posture/breathing), **S**hort, **S**ingle (no click), **S**mall (localised), **S**oft (≤2/6), **S**weet (not harsh), **S**ystolic. Plus: asymptomatic, normal pulses, S2, SpO₂ and growth." },
+    { "id": "cve-f12", "front": "Still's murmur: features?", "back": "Age **2–7 y**; short **vibratory/musical** systolic murmur at the **lower left sternal edge/apex**; louder **lying down** and with fever; softer standing. Innocent." },
+    { "id": "cve-f13", "front": "Venous hum: features?", "back": "**Continuous** humming murmur **above or below the clavicle** (usually right); **disappears lying flat, turning the head or compressing the jugular vein**. Innocent." },
+    { "id": "cve-f14", "front": "Peripheral pulmonary branch stenosis murmur?", "back": "Newborn (often preterm); soft ejection systolic at the upper left sternal edge **radiating to both axillae and the back**; resolves by about **6 months**. Innocent." },
+    { "id": "cve-f15", "front": "Red flags that a murmur is pathological?", "back": "**Diastolic** or **pansystolic**; **grade ≥3 or thrill**; harsh; **click**; **abnormal S2** (fixed split, single, loud P2); symptoms (FTT, sweating, breathlessness, cyanosis, syncope); abnormal pulses/SpO₂; hepatomegaly; syndrome; neonate." },
+    { "id": "cve-f16", "front": "VSD murmur?", "back": "**Harsh pansystolic** at the **lower left sternal edge**, often with a thrill. Small VSD = loud; large VSD may be softer with an apical mid-diastolic flow murmur and loud P2." },
+    { "id": "cve-f17", "front": "ASD signs?", "back": "Soft **ejection systolic** murmur at the **upper left sternal edge** (pulmonary flow) and a **fixed, widely split S2**." },
+    { "id": "cve-f18", "front": "PDA signs?", "back": "**Continuous machinery murmur** in the **left infraclavicular** area, **bounding pulses**, wide pulse pressure. Preterm babies, congenital rubella." },
+    { "id": "cve-f19", "front": "Aortic vs pulmonary stenosis murmur?", "back": "**AS**: ESM **upper right sternal edge → carotids**, suprasternal thrill, ejection click. **PS**: ESM **upper left sternal edge → back**, ejection click, RV heave." },
+    { "id": "cve-f20", "front": "Signs of heart failure in an infant?", "back": "**Tachypnoea**, **tachycardia**, **sweating and tiring with feeds**, **poor weight gain**, **gallop**, **hepatomegaly** (>2 cm, tender); oedema (periorbital/sacral) is late; JVP hard to assess." },
+    { "id": "cve-f21", "front": "Newborn pulse-oximetry screening thresholds (AAP 2020)?", "back": "**Pass**: ≥95% in right hand or foot and difference ≤3%. **Fail**: <90% in either. **Repeat once**: 90–94% or difference >3%." },
+    { "id": "cve-f22", "front": "Syndromes and their typical heart lesions?", "back": "**Down**: AVSD; **Turner**: coarctation, bicuspid AV; **Noonan**: PS, HCM; **Williams**: supravalvular AS; **DiGeorge**: TOF/truncus/interrupted arch; **Marfan**: aortic root; **rubella**: PDA, peripheral PS." },
+    { "id": "cve-f23", "front": "Why do large left-to-right shunts cause heart failure at 4–8 weeks?", "back": "**Pulmonary vascular resistance falls** over the first weeks after birth, increasing shunt flow and pulmonary overcirculation." },
+    { "id": "cve-f24", "front": "Management of a hypercyanotic (tet) spell?", "back": "Calm, **knee-chest position**, **oxygen**, **morphine 0.1–0.2 mg/kg** IV/IM/SC, **NS 10–20 mL/kg**, then propranolol IV (specialist), bicarbonate for acidosis, phenylephrine; urgent referral." },
+    { "id": "cve-f25", "front": "The 5 T's of cyanotic congenital heart disease?", "back": "**Tetralogy of Fallot, Transposition of the great arteries, Tricuspid atresia, Total anomalous pulmonary venous drainage, Truncus arteriosus.**" },
+    { "id": "cve-f26", "front": "Where must you listen besides the four classic areas?", "back": "**Left axilla** (MR), **left infraclavicular** (PDA), **neck/carotids** (AS), **back between the scapulae** (coarctation, PS, branch PS, PDA)." },
+    { "id": "cve-f27", "front": "Completion steps after a paediatric CVS exam?", "back": "**SpO₂ right hand + foot**, **BP** (± leg/4-limb), **plot growth**, liver span, lung bases, oedema, urine dipstick, temperature, fundoscopy; then **ECG, CXR, echo** if murmur not clearly innocent." }
+  ],
+  "mcqs": [
+    {
+      "id": "cve-q01",
+      "stem": "A 4-year-old boy (16 kg) is seen with malaria. Temperature 39.0 °C, HR 140. You hear a grade 2/6 short, vibratory systolic murmur at the lower left sternal edge that is louder lying down and softer sitting up. Pulses, S2 and SpO₂ (98%) are normal and he is growing along the 50th centile. What is the MOST appropriate plan?",
+      "options": [
+        "Urgent echo and start furosemide",
+        "Start benzathine penicillin prophylaxis for rheumatic heart disease",
+        "Refer to the Uganda Heart Institute for surgery",
+        "Restrict physical activity until an echo is done",
+        "Treat the malaria and fever, explain that this is probably an innocent (Still's) murmur, and re-examine when he is well"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: a soft, vibratory, posture-dependent systolic murmur in a thriving child with normal pulses, S2 and SpO₂ fits a **Still's murmur**, accentuated by fever; re-examine when afebrile. A is wrong: there are no heart failure signs and no red flags. B is wrong: nothing suggests rheumatic fever or RHD. C is wrong: no structural lesion has been shown. D is wrong: innocent murmurs need no restrictions, and unnecessary restriction harms the child.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cve-q02",
+      "stem": "A 2-week-old boy (3.4 kg) is brought grey, breathing fast and feeding poorly. HR 190, CRT 5 s, SpO₂ 95% right hand and 82% foot. Brachial pulses are palpable but femoral pulses cannot be felt. Glucose 3.8 mmol/L. What is the MOST likely diagnosis?",
+      "options": [
+        "Neonatal sepsis only",
+        "Critical coarctation of the aorta (duct-dependent systemic circulation) presenting as the duct closes",
+        "Tetralogy of Fallot",
+        "Innocent peripheral pulmonary stenosis",
+        "Large atrial septal defect"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: **shock in week 2** with **absent femorals** and **lower post-ductal saturation** is classic **critical coarctation** (or another duct-dependent left heart lesion) as the arterial duct closes; it needs prostaglandin, cautious resuscitation and urgent referral (sepsis cover is also given). A is wrong: sepsis can cause shock but not a pulse and saturation difference between arm and leg. C is wrong: TOF causes cyanosis with equal pulses, rarely shock at 2 weeks. D is wrong: branch PS is innocent and the baby would be well. E is wrong: ASD is usually asymptomatic in infancy.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "cve-q03",
+      "stem": "A 9-week-old girl (3.8 kg; birth weight 3.3 kg) takes 45 minutes to breastfeed, sweats on her forehead during feeds and breathes fast. RR 68, HR 170, SpO₂ 97%, harsh grade 3/6 pansystolic murmur at the lower left sternal edge with a thrill, liver 4 cm. Chest is clear. What is the MOST likely diagnosis?",
+      "options": [
+        "Bronchiolitis",
+        "Innocent murmur with poor breastfeeding technique",
+        "Atrial septal defect",
+        "Large ventricular septal defect with heart failure",
+        "Tetralogy of Fallot"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: heart failure at about **2 months** (as pulmonary resistance falls) with a **harsh pansystolic LLSE murmur and thrill**, hepatomegaly and failure to thrive is a **large VSD**. A is wrong: bronchiolitis gives wheeze/crackles and coryza, not a thrill or a pansystolic murmur. B is wrong: a thrill (grade ≥4/6 at times), hepatomegaly and poor growth are red flags. C is wrong: ASD rarely causes heart failure in infancy and has a soft ESM with fixed split S2. E is wrong: TOF causes cyanosis and does not usually cause heart failure.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cve-q04",
+      "stem": "You are examining an 8-month-old with suspected heart disease. Which sign is the MOST reliable indicator of right-sided heart failure at this age?",
+      "options": [
+        "An enlarged, tender liver that is increasing in size",
+        "Raised jugular venous pressure",
+        "Ankle oedema",
+        "Basal crackles",
+        "A loud first heart sound"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: in infants, **hepatomegaly** (edge >2 cm, tender, increasing, with a measured span) is the most reliable sign of systemic venous congestion. B is wrong: the infant neck is too short to assess JVP reliably. C is wrong: oedema is a late sign in infants and is periorbital/sacral rather than ankle. D is wrong: basal crackles in infants are more often from pneumonia or bronchiolitis. E is wrong: a loud S1 is not a sign of heart failure.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cve-q05",
+      "stem": "A 12-year-old girl (35 kg) has BP 148/92 in the right arm with an appropriately sized cuff on three occasions. Femoral pulses are weak and delayed compared with the radial. There is an ejection systolic murmur heard best between the scapulae. What is the MOST appropriate next step?",
+      "options": [
+        "Start amlodipine and review in 3 months",
+        "Reassure: BP is normal for age",
+        "Measure leg BP (4-limb BP), arrange echocardiography and refer for suspected coarctation of the aorta",
+        "Repeat BP with a smaller cuff",
+        "Start furosemide for fluid overload"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: arm hypertension with **weak, delayed femorals** and a murmur at the back is **coarctation of the aorta**; confirm with an arm–leg BP gradient and echo, then refer for catheter or surgical repair. A is wrong: antihypertensives without a diagnosis miss a correctable cause. B is wrong: 148/92 is hypertensive at 12 years. D is wrong: a smaller cuff falsely raises BP further. E is wrong: there is no evidence of fluid overload.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cve-q06",
+      "stem": "A 3-year-old boy with known tetralogy of Fallot awaiting surgery becomes irritable, breathes deeply and quickly, and turns deeply blue after crying. His usual murmur is now very soft. SpO₂ 58%. What is the FIRST action?",
+      "options": [
+        "Lie him flat and give IV furosemide",
+        "Calm him and hold him in the knee-chest position with oxygen, then give morphine 0.1–0.2 mg/kg",
+        "Give a digoxin loading dose",
+        "Start an IV salbutamol infusion",
+        "Give IV adrenaline 0.01 mg/kg"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: this is a **hypercyanotic (tet) spell**; the softer murmur shows reduced RV outflow flow. Knee-chest position raises systemic vascular resistance, oxygen helps, and morphine reduces distress and hyperpnoea; then a fluid bolus and propranolol if needed. A is wrong: furosemide reduces preload and worsens the spell. C is wrong: digoxin increases contractility and can worsen infundibular obstruction. D is wrong: beta-agonists worsen the spell (propranolol, a beta-blocker, helps). E is wrong: adrenaline increases contractility and heart rate and worsens outflow obstruction; it is for cardiac arrest, not tet spells.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cve-q07",
+      "stem": "A 6-year-old is seen in clinic with a continuous humming murmur below the right clavicle while sitting. It disappears when she lies flat and when you press gently on the right side of her neck. She is well and growing normally. What is this?",
+      "options": [
+        "Patent ductus arteriosus",
+        "Aortic regurgitation",
+        "Arteriovenous fistula",
+        "Pericardial friction rub",
+        "Venous hum (innocent)"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: a **continuous murmur below/above the clavicle that disappears lying flat or with jugular compression** is a **venous hum**, an innocent murmur. A is wrong: a PDA murmur is left infraclavicular and does not disappear with posture or neck compression. B is wrong: AR is early diastolic at the left sternal edge. C is wrong: an AV fistula is rare and does not vanish with jugular compression. D is wrong: a rub is scratchy and varies with position, not abolished by neck pressure.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cve-q08",
+      "stem": "A 2-year-old (11 kg) is pale, with Hb 4.8 g/dL from severe malaria. HR 168, RR 52 with deep breathing, a soft grade 2/6 ejection systolic murmur at the left sternal edge, a gallop and liver 4 cm. What is the BEST interpretation of the cardiovascular findings?",
+      "options": [
+        "Congenital VSD needing urgent echo before any treatment",
+        "Rheumatic carditis needing aspirin",
+        "High-output heart failure from severe anaemia with a flow murmur; treat with transfusion of packed cells (10 mL/kg over 3–4 h) with furosemide 1 mg/kg and re-examine the heart after recovery",
+        "Innocent Still's murmur; no action needed",
+        "Septic shock needing a 20 mL/kg saline bolus"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: **severe anaemia** causes **high-output heart failure** (tachycardia, gallop, hepatomegaly, acidotic breathing) and a **flow murmur**; transfuse packed cells slowly with furosemide, treat malaria, and re-examine when Hb is corrected. A is wrong: the soft ESM is explained by anaemia; echo can follow if the murmur persists. B is wrong: nothing suggests rheumatic fever at age 2. D is wrong: the child is in heart failure, so action is urgent. E is wrong: a saline bolus worsens anaemic heart failure.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cve-q09",
+      "stem": "A 2-year-old with Down syndrome is reviewed in clinic. Which statement is MOST appropriate?",
+      "options": [
+        "All children with Down syndrome should have an echocardiogram, because AVSD and other CHD are common and may be clinically silent",
+        "Only children with a murmur need echo",
+        "Heart disease in Down syndrome always presents in the first week",
+        "Down syndrome is most associated with coarctation of the aorta",
+        "A normal ECG excludes significant heart disease"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: about half of children with Down syndrome have CHD (classically **AVSD**), which may have little or no murmur, and pulmonary hypertension develops early, so **every child needs an echo**. B is wrong: large AVSDs can be quiet. C is wrong: many present with heart failure at 4–8 weeks or later, or remain silent until pulmonary hypertension. D is wrong: coarctation is linked to Turner syndrome. E is wrong: a normal ECG does not exclude structural disease (though a superior axis suggests AVSD).",
+      "difficulty": "core"
+    },
+    {
+      "id": "cve-q10",
+      "stem": "A 5-year-old girl has a soft ejection systolic murmur at the upper left sternal edge. S2 is widely split and does not vary with breathing. She is asymptomatic and growing well. What is the MOST likely diagnosis?",
+      "options": [
+        "Pulmonary flow murmur (innocent)",
+        "Ventricular septal defect",
+        "Patent ductus arteriosus",
+        "Secundum atrial septal defect",
+        "Mitral regurgitation"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: a **fixed, widely split S2** with an upper left sternal edge ESM (increased pulmonary flow) is the hallmark of an **ASD**; arrange echo. A is wrong: an innocent pulmonary flow murmur has **normal physiological splitting**. B is wrong: VSD gives a pansystolic LLSE murmur. C is wrong: PDA gives a continuous infraclavicular murmur. E is wrong: MR is apical pansystolic to the axilla.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cve-q11",
+      "stem": "During newborn screening at 30 hours, a baby has SpO₂ 92% in the right hand and 91% in the foot. He is pink, feeding well, with no murmur. What should you do NEXT according to the AAP 2020 algorithm?",
+      "options": [
+        "Pass the screen and discharge",
+        "Repeat the measurement once in about 1 hour; if still 90–94% or the difference >3%, treat as a failed screen and arrange echo/evaluation",
+        "Start prostaglandin immediately",
+        "Give oxygen and discharge home on oxygen",
+        "Ignore it because there is no murmur"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: a reading of **90–94%** in both limbs is an **indeterminate** result; the AAP 2020 algorithm repeats it once, and a persistent result is a failed screen needing evaluation (exclude infection and lung causes; echo). A is wrong: a pass needs ≥95%. C is wrong: prostaglandin is for suspected duct-dependent disease in a sick or clearly cyanosed baby, after senior review. D is wrong: home oxygen without a diagnosis is unsafe. E is wrong: many critical CHDs have no murmur.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "cve-q12",
+      "stem": "A 10-year-old boy has a loud apical pansystolic murmur radiating to the axilla, a displaced thrusting apex in the 6th intercostal space in the anterior axillary line, and polyarthralgia 2 months ago. Which is the MOST likely lesion?",
+      "options": [
+        "Aortic stenosis",
+        "Ventricular septal defect",
+        "Innocent Still's murmur",
+        "Mitral regurgitation from rheumatic heart disease",
+        "Pulmonary stenosis"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: an **apical pansystolic murmur to the axilla** with a **displaced, thrusting (volume-loaded) apex** in a school-age Ugandan child after joint pains is **rheumatic MR**; echo and start BPG. A is wrong: AS is an ESM at the upper right sternal edge to the carotids with a heaving, non-displaced apex. B is wrong: VSD is loudest at the lower left sternal edge, not radiating to the axilla. C is wrong: Still's murmurs are soft and vibratory with a normal apex. E is wrong: PS is an upper left sternal edge ESM radiating to the back.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cve-q13",
+      "stem": "In an OSCE, you are asked to examine the cardiovascular system of a 7-month-old who is calm and sleeping on his mother's lap. What is the BEST approach?",
+      "options": [
+        "Wake him and lie him flat on the couch for a formal sequence",
+        "Start with BP measurement and femoral pulses, then auscultate",
+        "Ask the mother to feed him first, then examine in the standard adult order",
+        "Skip auscultation because he is too young",
+        "Inspect, then auscultate first while he is quiet on the lap, and leave the more upsetting parts (BP, femorals, liver palpation) until last"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: paediatric examination is **opportunistic**: listen while the infant is quiet, and do the parts that cause crying (BP, femorals, liver) last, while still completing everything. A is wrong: waking him makes auscultation impossible. B is wrong: starting with upsetting steps ruins auscultation. C is wrong: feeding can help, but a rigid adult order loses the quiet window. D is wrong: auscultation is essential at every age.",
+      "difficulty": "core"
+    },
+    {
+      "id": "cve-q14",
+      "stem": "A 3-day-old baby in the Mengo neonatal unit is centrally cyanosed with SpO₂ 70% in both the right hand and foot. SpO₂ barely changes after 10 minutes of 100% oxygen. There is no respiratory distress and a soft murmur. What is the MOST likely category of problem and the next step?",
+      "options": [
+        "Cyanotic congenital heart disease (e.g. transposition); senior review, prostaglandin if available, and urgent echo/referral to the Uganda Heart Institute",
+        "Pneumonia; start antibiotics and increase oxygen",
+        "Polycythaemia; perform partial exchange",
+        "Peripheral cyanosis from cold; warm the baby",
+        "Normal transition; recheck tomorrow"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: **central cyanosis without respiratory distress that does not improve with 100% oxygen** (failed hyperoxia test) points to **cyanotic CHD** such as TGA; keeping the duct open with prostaglandin and urgent cardiology referral are needed. B is wrong: lung disease usually causes respiratory distress and improves with oxygen. C is wrong: polycythaemia can cause plethora and mild desaturation, not SpO₂ 70% unresponsive to oxygen. D is wrong: the tongue/SpO₂ show central cyanosis. E is wrong: SpO₂ 70% on day 3 is never normal.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "cve-q15",
+      "stem": "Which statement about measuring the apex beat and heart sounds in children is CORRECT?",
+      "options": [
+        "A third heart sound is always pathological in children",
+        "The apex is in the 5th intercostal space at the midclavicular line in a 2-year-old",
+        "Sinus arrhythmia (rate varying with breathing) is normal in children",
+        "A murmur with a thrill is grade 2/6",
+        "Physiological S2 splitting is best heard at the apex"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: **sinus arrhythmia** (faster heart rate on inspiration) is normal in children. A is wrong: an S3 is common and normal in healthy children (abnormal as part of a gallop with tachycardia and heart failure). B is wrong: under about 5 years the apex is in the 4th space just lateral to the midclavicular line. D is wrong: a thrill means grade ≥4/6. E is wrong: S2 splitting is best heard at the upper left sternal edge (pulmonary area).",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "cve-c01",
+      "title": "The baby who sweats when she feeds",
+      "presentation": "Baby Nabirye, 8 weeks old, is brought to Mengo paediatric outpatients because she 'breathes like she has been running' and sweats when breastfeeding. Her mother says feeds take nearly an hour.",
+      "steps": [
+        { "prompt": "What focused history will you take?", "answer": "Feeding (duration, stopping to breathe, sweating, vomiting), breathing at rest, **weight gain** (child health card), colour changes, cough/fever (pneumonia), pregnancy (diabetes, rubella, drugs, HIV), birth and neonatal history (SpO₂ screen, murmur), **family history of CHD**, immunisation (UNEPI), maternal **HIV status** and infant prophylaxis." },
+        { "prompt": "Describe how you will examine her and in what order.", "answer": "Wash and warm hands; while she is quiet on her mother's lap: **inspect** (breathing, colour, sweating, dysmorphism, nutrition), **count RR and HR** for 60 s, then **auscultate** (4 areas, axilla, back). Then hands (CRT), **brachial and femoral pulses**, precordium (apex, heaves, thrills), **liver**, lung bases, oedema. Finish with **SpO₂ right hand + foot**, BP and **plotting weight/length**." },
+        { "prompt": "Findings: weight 3.7 kg (birth 3.2 kg; WAZ −2.5), RR 66 with recession, HR 168, SpO₂ 96%/96%, femorals normal, apex 4th ICS anterior axillary line, thrusting, harsh 3/6 pansystolic murmur at LLSE with thrill, apical mid-diastolic murmur, loud P2, liver 4 cm. What is your assessment?", "answer": "**Large VSD** (left-to-right shunt) with **heart failure** (tachypnoea, tachycardia, hepatomegaly, sweating with feeds) and **failure to thrive**; the **apical mid-diastolic flow murmur** shows a large shunt and the **loud P2** suggests rising pulmonary pressure. Differentials: AVSD (check for Down features), PDA (continuous murmur), coarctation (femorals normal)." },
+        { "prompt": "What investigations will you request?", "answer": "**Echocardiogram** (definitive), **CXR** (cardiomegaly, plethoric lungs, exclude pneumonia), **ECG** (biventricular hypertrophy; superior axis if AVSD), **FBC/HemoCue** (anaemia worsens failure), U&E before diuretics, HIV PCR status confirmation." },
+        { "prompt": "Write her initial management.", "answer": "Semi-upright, oxygen if SpO₂ <90% or distress. **Furosemide 1 mg/kg (≈4 mg) once or twice daily** (oral/IV), **spironolactone 1–2 mg/kg/day**; consider **captopril** (0.1 mg/kg/dose 8-hourly, titrated) after specialist advice. **Feeding**: frequent small feeds, expressed breast milk fortified/high-energy, **NG feeds** if tiring (aim ~150 mL/kg/day and 120–150 kcal/kg/day). Treat anaemia and infection; continue immunisations. **Refer to the Uganda Heart Institute** for surgical closure before irreversible pulmonary hypertension." },
+        { "prompt": "Explain to the mother in plain words.", "answer": "\"There is a hole between the two pumping chambers of the heart. Too much blood is going to the lungs, so she breathes fast, sweats and uses lots of energy, which is why she is not gaining weight. The medicines remove extra water, and special feeding helps her grow. She needs a heart scan and a heart surgeon to close the hole, ideally in the next few months. Come back at once if she breathes harder, turns blue, or cannot feed.\"" }
+      ],
+      "takeaway": "In infants, heart failure shows as fast breathing, sweaty feeds, poor weight gain and a big liver. A harsh LLSE pansystolic murmur with a loud P2 means a large VSD that needs medical treatment, nutrition and early surgical referral."
+    },
+    {
+      "id": "cve-c02",
+      "title": "The murmur heard during malaria",
+      "presentation": "Ssemwogerere, 5 years, is admitted to the ward with uncomplicated malaria. A colleague hears a murmur and asks you whether he has 'a hole in the heart'.",
+      "steps": [
+        { "prompt": "What history will help you decide whether the murmur matters?", "answer": "Exercise tolerance compared with peers, breathlessness, sweating, **syncope or chest pain on exertion**, blue spells, growth, previous murmurs, **joint pains or chorea** (rheumatic fever), sore throats, family history of CHD or sudden death." },
+        { "prompt": "He is active, has never been breathless and is growing on the 50th centile. Temperature 38.8 °C, Hb 10.2. What will you examine for?", "answer": "General (well, no syndrome), **pulses including femorals**, BP, apex position/character, heaves, thrills; **heart sounds** (S2 splitting at the upper left sternal edge), clicks; **murmur**: timing, site, grade, radiation, character, **change with posture**; liver, lung bases; SpO₂." },
+        { "prompt": "Findings: grade 2/6 short vibratory systolic murmur at LLSE to the apex, louder lying down, softer standing; normal S2 splitting; no clicks; femorals normal; SpO₂ 99%. What is your conclusion?", "answer": "**Innocent (Still's) murmur**, accentuated by fever: meets the **7 S's** with no red flags (asymptomatic, normal growth, pulses, S2 and SpO₂)." },
+        { "prompt": "What would have made you worried instead?", "answer": "**Diastolic** or **pansystolic** murmur, **grade ≥3/6 or a thrill**, harsh quality, **ejection click**, **fixed split or single loud S2**, weak femorals, hypertension, low SpO₂, hepatomegaly, symptoms, poor growth, or a syndrome. Any of these → ECG, CXR, echo." },
+        { "prompt": "How will you explain this to the parents?", "answer": "\"The noise is the sound of blood flowing through a normal heart. It is louder now because of the fever. It is very common in healthy children, needs no medicine, and he can play and go to school normally. We will listen again when he is well.\"" },
+        { "prompt": "What is your follow-up plan?", "answer": "Treat malaria; **re-examine when afebrile** (e.g. at discharge or review). If the murmur changes or any red flag appears, arrange **echo**. Document clearly to avoid repeated unnecessary referrals." }
+      ],
+      "takeaway": "Most murmurs heard in febrile or anaemic children are innocent. Use the 7 S's, check femorals, S2 and SpO₂, and reassure confidently when there are no red flags, re-examining once the child is well."
+    },
+    {
+      "id": "cve-c03",
+      "title": "The blue toddler who squats",
+      "presentation": "Mutebi, a 2-year-old boy (10 kg), is brought to the emergency unit after becoming 'very blue and floppy' while crying. His mother says he likes to squat after playing and his lips have been dusky since infancy.",
+      "steps": [
+        { "prompt": "What is happening and what are your first actions?", "answer": "Likely a **hypercyanotic (tet) spell** in **tetralogy of Fallot**. **Calm** the child (keep with mother), **knee-chest position**, **oxygen**, SpO₂ monitoring, and **morphine 0.1–0.2 mg/kg (1–2 mg) IV/IM/SC**. IV access when calmer, **NS 10–20 mL/kg** bolus, check glucose and Hb. If no improvement: **propranolol IV** (specialist), bicarbonate for acidosis; call a senior." },
+        { "prompt": "After the spell resolves, what will you look for on examination?", "answer": "**Central cyanosis**, **clubbing**, growth, dysmorphism (DiGeorge), pulses (normal), RV heave, **ejection systolic murmur at the upper/mid left sternal edge** (RVOT), **single S2**; no heart failure signs usually; SpO₂ (e.g. 75–85%); Hb/Hct (polycythaemia or relative iron deficiency)." },
+        { "prompt": "What do you expect on ECG and CXR?", "answer": "**ECG**: right axis deviation, **RVH**. **CXR**: **boot-shaped heart** (upturned apex from RVH, concave pulmonary bay), **oligaemic lung fields**, right aortic arch in some." },
+        { "prompt": "Why does squatting help and why did the murmur go quiet during the spell?", "answer": "Squatting **raises systemic vascular resistance** (kinks femoral arteries), so less blood shunts right-to-left across the VSD and more goes to the lungs. During a spell, RV outflow obstruction worsens, so **less blood crosses the pulmonary outflow** and the ejection murmur softens." },
+        { "prompt": "What longer-term plan will you set up?", "answer": "**Urgent referral to the Uganda Heart Institute** for echo and surgery (complete repair or a Blalock–Taussig shunt). Meanwhile: **treat iron deficiency** (microcytic Hb), avoid dehydration, **oral propranolol** (specialist), teach parents the **knee-chest manoeuvre**, dental hygiene and **endocarditis prophylaxis** before dental procedures (unrepaired cyanotic CHD), complete immunisations." },
+        { "prompt": "Present him on the ward round.", "answer": "\"Mutebi, 2 years, 10 kg (WAZ −1.6), immunised per UNEPI, HIV-negative, with cyanosis since infancy and squatting, admitted after a hypercyanotic spell treated with knee-chest positioning, oxygen and morphine. Now SpO₂ 80%, clubbed, RV heave, grade 3/6 ESM at the left sternal edge, single S2. Probable tetralogy of Fallot. Plan: echo, CXR, ECG, FBC/ferritin, propranolol after cardiology advice, and urgent UHI referral for surgery.\"" }
+      ],
+      "takeaway": "Cyanosis with squatting and a left sternal edge ESM suggests tetralogy of Fallot. Treat spells with knee-chest, oxygen, morphine and fluids, prevent them by treating anaemia and dehydration, and refer for surgery."
+    }
+  ],
+  "references": [
+    { "title": "Pocket book of hospital care for children, 2nd edition (section 4.8 Heart failure; Annex 2 drug doses)", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "Uganda Clinical Guidelines 2023: section 4.1.3 Heart Failure", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Normal ranges of heart rate and respiratory rate in children from birth to 18 years of age: a systematic review of observational studies", "source": "Fleming S, et al. Lancet 2011;377:1011-8", "year": 2011, "url": "https://pubmed.ncbi.nlm.nih.gov/21411136/" },
+    { "title": "Heart Murmurs in Children: Evaluation and Management", "source": "American Family Physician 2022", "year": 2022, "url": "https://pubmed.ncbi.nlm.nih.gov/35289571/" },
+    { "title": "Revision of the Jones Criteria for the diagnosis of acute rheumatic fever in the era of Doppler echocardiography (AHA scientific statement)", "source": "Gewitz MH, et al. Circulation 2015", "year": 2015, "url": "https://pubmed.ncbi.nlm.nih.gov/25908771/" },
+    { "title": "WHO guideline on the prevention and diagnosis of rheumatic fever and rheumatic heart disease", "source": "World Health Organization", "year": 2024, "url": "https://www.who.int/publications/i/item/9789240100077" }
+  ]
+}

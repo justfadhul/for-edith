@@ -1,0 +1,298 @@
+{
+  "slug": "anaemia-blood-transfusion",
+  "flashcards": [
+    { "id": "anbt-f01", "front": "WHO 2024 Hb cut-offs for anaemia in children (6–23 mo, 24–59 mo, 5–11 y, 12–14 y)?", "back": "**<10.5, <11.0, <11.5 and <12.0 g/dL** respectively. Severe anaemia: **<7 g/dL** under 5 years, **<8 g/dL** from 5 years. (UCG 2023 still uses <11 g/dL for 6 mo–5 y.)" },
+    { "id": "anbt-f02", "front": "Absolute indication for transfusion in a child (WHO Pocket Book / UCG 2023)?", "back": "**Hb ≤4 g/dL (Hct ≤12%)**, whatever the clinical condition." },
+    { "id": "anbt-f03", "front": "When do you transfuse a child with Hb 4–6 g/dL?", "back": "If any of: **respiratory distress/acidotic breathing, impaired consciousness, shock, heart failure, clinical dehydration, very high parasitaemia** (>10% Pocket Book; UCG >20%), cerebral malaria, sepsis or meningitis. Mnemonic **RISC-DH**." },
+    { "id": "anbt-f04", "front": "Standard transfusion volumes in children?", "back": "**Whole blood 20 mL/kg** or **packed cells 10 mL/kg** (UCG 10–15 mL/kg) over **3–4 hours**." },
+    { "id": "anbt-f05", "front": "Transfusion in severe acute malnutrition?", "back": "Only if Hb <4 g/dL or 4–6 g/dL with respiratory distress: **10 mL/kg packed cells or whole blood over 3 h**, no routine furosemide, **do not repeat within 4 days**." },
+    { "id": "anbt-f06", "front": "Rule of thumb: how much blood raises Hb by 1 g/dL?", "back": "About **8 mL/kg whole blood** or **4 mL/kg packed cells**." },
+    { "id": "anbt-f07", "front": "What did the TRACT trial (Uganda/Malawi, NEJM 2019) show?", "back": "1) In **uncomplicated** severe anaemia (Hb 4–6, no severity signs), **immediate transfusion did not improve survival** vs monitoring with a trigger (Hb <4 or new signs). 2) In complicated severe anaemia, **30 vs 20 mL/kg** reduced 28-day mortality in **afebrile** children but not in febrile children." },
+    { "id": "anbt-f08", "front": "Time limits for giving a unit of blood (UCG 2023)?", "back": "Start within **30 minutes** of removing from the fridge; complete within **4 hours** of starting. Store at 2–6 °C. Do not warm improvised." },
+    { "id": "anbt-f09", "front": "When are vital signs recorded during a transfusion?", "back": "**Before**, at **15 minutes**, every **30 minutes** (Pocket Book), at the **end**, and whenever a reaction is suspected. Observe the child closely for the first 15 minutes." },
+    { "id": "anbt-f10", "front": "First 4 steps when a severe transfusion reaction is suspected?", "back": "1) **Stop** the transfusion (do not restart) 2) keep IV access with **normal saline** 3) **check patient ID vs bag** 4) ABC/resuscitate; then send bag, giving set, fresh urine and new blood samples to the blood bank and report." },
+    { "id": "anbt-f11", "front": "Dose of adrenaline for anaphylaxis during transfusion in a child?", "back": "**0.01 mg/kg IM** (0.01 mL/kg of 1:1000), **max 0.5 mg**; repeat after 5 min if needed. Plus oxygen, fluids, hydrocortisone 4 mg/kg IV, antihistamine." },
+    { "id": "anbt-f12", "front": "Furosemide and transfusion: when and how much?", "back": "Only if signs of **heart failure**: **1 mg/kg IV at the start** (into the child, never into the bag). For overload during transfusion, 1–2 mg/kg (Pocket Book max 20 mg). Not routine for every transfusion (UCG)." },
+    { "id": "anbt-f13", "front": "Classify anaemia by MCV with Ugandan examples.", "back": "**Microcytic**: iron deficiency, thalassaemia trait. **Normocytic**: malaria, SCD, blood loss, HIV, marrow infiltration. **Macrocytic**: folate/B12 deficiency, **zidovudine**, hydroxyurea, reticulocytosis." },
+    { "id": "anbt-f14", "front": "Ferritin cut-off for iron deficiency in children (WHO 2020)?", "back": "**<12 µg/L under 5 years**, **<15 µg/L from 5 years** in healthy children; with infection/inflammation **<30 µg/L** (under 5) or **<70 µg/L** (5 years and older)." },
+    { "id": "anbt-f15", "front": "Oral iron regimen for iron deficiency (UCG 2023)?", "back": "**Ferrous sulphate 5 mg/kg (of salt) 8-hourly, max 200 mg/dose** (≈3–6 mg/kg/day elemental iron), until Hb normal then **3 more months** (UCG: 6–12 months for stores). Plus **albendazole** (200 mg at 1–2 y, 400 mg ≥2 y)." },
+    { "id": "anbt-f16", "front": "Expected response to oral iron?", "back": "Reticulocytes rise in **5–10 days**; Hb rises **1–2 g/dL in 2–4 weeks**. No response after 4 weeks: check adherence, ongoing loss, wrong diagnosis (thalassaemia trait, chronic disease), infection." },
+    { "id": "anbt-f17", "front": "SCD penicillin prophylaxis doses (UCG 2023)?", "back": "**Penicillin V 125 mg 12-hourly from 3 months to 3 years; 250 mg 12-hourly from 3 to 5 years.** Erythromycin if allergic." },
+    { "id": "anbt-f18", "front": "Hydroxyurea in SCD: start age, dose, escalation and max?", "back": "From **9 months**; start **20 mg/kg once daily** (REACH 15–20); escalate **5 mg/kg every 8 weeks** to **maximum tolerated dose, max 35 mg/kg/day**." },
+    { "id": "anbt-f19", "front": "When do you hold hydroxyurea?", "back": "**ANC <1.0 × 10⁹/L**, **platelets <80 × 10⁹/L**, or a significant fall in Hb with low reticulocytes. Restart at a lower dose when counts recover." },
+    { "id": "anbt-f20", "front": "What did NOHARM show?", "back": "In malaria-endemic **Uganda**, hydroxyurea **20 mg/kg/day** for 12 months did **not increase malaria incidence** vs placebo, and was safe (Blood 2017)." },
+    { "id": "anbt-f21", "front": "Splenic sequestration vs aplastic crisis?", "back": "**Sequestration**: rapidly enlarging spleen, Hb drop ≥2 g/dL, **high retics**, may be shocked. **Aplastic** (parvovirus B19): no splenic enlargement, **retics <1%**. Both need urgent transfusion." },
+    { "id": "anbt-f22", "front": "How do you transfuse in splenic sequestration and why?", "back": "Packed cells in **5–10 mL/kg aliquots**, aim Hb **7–8 g/dL**: as the spleen shrinks it **releases trapped red cells** (auto-transfusion), so a big transfusion can cause hyperviscosity." },
+    { "id": "anbt-f23", "front": "Abnormal transcranial Doppler velocity in SCD and action?", "back": "Time-averaged mean velocity **>200 cm/s** (170–199 conditional). Start **hydroxyurea at MTD or chronic transfusion** to prevent stroke. Screen annually from 2 to 16 years." },
+    { "id": "anbt-f24", "front": "Define acute chest syndrome and list the treatment bundle.", "back": "New pulmonary infiltrate + fever, cough, chest pain, tachypnoea or hypoxia. **Oxygen, analgesia, incentive spirometry, ceftriaxone + macrolide, cautious fluids, transfusion** (simple if Hb <9, exchange if severe)." },
+    { "id": "anbt-f25", "front": "Maximum target Hb after transfusion in SCD?", "back": "About **10–11 g/dL** (UCG target 11 g/dL, not higher). Higher Hb increases viscosity and stroke risk." },
+    { "id": "anbt-f26", "front": "Why does SCD present after about 6 months of age?", "back": "**HbF (α₂γ₂)** does not sickle and protects until the γ→β globin switch completes. Hydroxyurea works mainly by **raising HbF**." }
+  ],
+  "mcqs": [
+    {
+      "id": "anbt-q01",
+      "stem": "A 2-year-old boy (11 kg) from Lira is brought with 3 days of fever. He is alert and playing. RR 32/min, HR 130/min, CRT <2 s, no hepatomegaly, SpO₂ 97%. Malaria RDT is positive and HemoCue Hb is 5.1 g/dL. There are no other danger signs. What is the MOST appropriate plan for his anaemia?",
+      "options": [
+        "Transfuse whole blood 20 mL/kg over 3–4 hours now",
+        "Transfuse whole blood 30 mL/kg because the TRACT trial showed benefit",
+        "Treat the malaria, do not transfuse now, recheck Hb and watch for danger signs, transfusing if Hb falls below 4 g/dL or signs appear",
+        "Give a 20 mL/kg normal saline bolus and recheck Hb",
+        "Start oral iron today and discharge with review in 2 weeks"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: this is **uncomplicated** severe anaemia (Hb 4–6 g/dL with no respiratory distress, shock, impaired consciousness or heart failure). WHO/UCG do not require transfusion, and TRACT showed no benefit from immediate transfusion when Hb was monitored with a trigger. A is wrong: transfusion at Hb 4–6 needs a severity feature. B is wrong: the 30 mL/kg benefit in TRACT was in **complicated** severe anaemia in afebrile children, and this child is febrile and uncomplicated. D is wrong: fluid boluses do not treat anaemia and risk heart failure. E is wrong: he needs malaria treatment and close Hb monitoring first; iron is started after the acute illness.",
+      "difficulty": "core"
+    },
+    {
+      "id": "anbt-q02",
+      "stem": "A 3-year-old girl (12 kg) with severe malaria has Hb 4.6 g/dL, deep laboured breathing with a clear chest, HR 168/min, a gallop rhythm and a liver 5 cm below the costal margin. Packed cells are available. What is the BEST transfusion prescription?",
+      "options": [
+        "Packed cells 120 mL (10 mL/kg) over 3–4 h with furosemide 12 mg (1 mg/kg) IV at the start",
+        "Whole blood 360 mL (30 mL/kg) over 1 hour",
+        "Normal saline 240 mL (20 mL/kg) first, then whole blood",
+        "No transfusion until Hb is below 4 g/dL",
+        "Packed cells 240 mL (20 mL/kg) over 1 hour with furosemide 2 mg/kg into the bag"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: she has Hb 4–6 g/dL with acidotic breathing and **heart failure**, so she needs blood; packed cells 10 mL/kg over 3–4 h with **furosemide 1 mg/kg IV at the start** is the WHO Pocket Book approach. B is wrong: a large volume over 1 hour risks fatal overload in heart failure. C is wrong: a saline bolus worsens heart failure. D is wrong: Hb 4–6 with danger signs is an indication. E is wrong: 20 mL/kg of packed cells is double the dose, 1 hour is too fast, and drugs must never be added to the blood bag.",
+      "difficulty": "core"
+    },
+    {
+      "id": "anbt-q03",
+      "stem": "A 4-year-old boy with HbSS (14 kg) presents with pallor and weakness after a viral illness. HR 140, RR 30, alert. Spleen not palpable (unchanged from clinic). Hb 3.6 g/dL (baseline 7.8), reticulocytes 0.3%. What is the MOST likely diagnosis?",
+      "options": [
+        "Splenic sequestration crisis",
+        "Hyperhaemolytic crisis",
+        "Iron deficiency",
+        "Aplastic crisis due to parvovirus B19",
+        "Severe malaria"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: a sharp fall in Hb with **reticulocytes below 1%** and no splenic enlargement after a viral illness is the classic **aplastic crisis** from parvovirus B19 arresting red cell production. A is wrong: sequestration gives a rapidly enlarging spleen and high retics. B is wrong: hyperhaemolysis gives high retics and rising jaundice. C is wrong: iron deficiency develops slowly and is unusual in SCD; it does not drop Hb by 4 g/dL in days. E is wrong: malaria gives haemolysis with a raised reticulocyte response and usually fever with a positive RDT.",
+      "difficulty": "core"
+    },
+    {
+      "id": "anbt-q04",
+      "stem": "A 20-month-old with HbSS (9 kg) is brought pale and lethargic. HR 175, CRT 4 s, spleen 8 cm below the costal margin (2 cm last month). Hb 3.2 g/dL, reticulocytes 15%. Blood is being cross-matched. What is the MOST appropriate transfusion target and approach?",
+      "options": [
+        "Transfuse whole blood 30 mL/kg to bring Hb to 12 g/dL",
+        "Transfuse packed cells in 5–10 mL/kg aliquots aiming for Hb about 7–8 g/dL, reassessing the spleen",
+        "Do not transfuse; perform emergency splenectomy",
+        "Give normal saline 20 mL/kg boluses until CRT is normal, then transfuse if still pale",
+        "Give hydroxyurea 20 mg/kg and observe"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: this is **acute splenic sequestration** with shock. Transfuse urgently but in small aliquots to Hb 7–8 g/dL, because the spleen releases trapped cells as it shrinks (auto-transfusion), and overshooting causes hyperviscosity. A is wrong: Hb 12 g/dL is far above the safe target in SCD. C is wrong: UCG advises avoiding splenectomy in the acute phase (high mortality); it is considered electively after recurrence. D is wrong: repeated crystalloid boluses do not restore oxygen-carrying capacity and delay blood. E is wrong: hydroxyurea is long-term prevention, not crisis treatment.",
+      "difficulty": "core"
+    },
+    {
+      "id": "anbt-q05",
+      "stem": "Twenty minutes into a whole-blood transfusion, a 7-year-old boy (22 kg) becomes restless, complains of back pain, has a temperature of 39.4 °C and BP falls from 100/60 to 75/40 mmHg. What is the FIRST action?",
+      "options": [
+        "Give paracetamol 15 mg/kg and slow the transfusion",
+        "Give chlorphenamine and continue at the same rate",
+        "Give furosemide 1 mg/kg IV and continue the transfusion",
+        "Send a sample for a repeat cross-match and continue while awaiting the result",
+        "Stop the transfusion, keep the IV line open with normal saline and check the patient's identity against the bag"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: fever ≥39 °C, back pain and hypotension are a **category 2 (life-threatening)** reaction, likely acute haemolysis (ABO mismatch) or bacterial contamination. Stop immediately, never restart, keep the line with saline, check identity, resuscitate (NS 20 mL/kg, oxygen) and send the bag and samples. A is wrong: paracetamol and slowing are for mild febrile reactions without other signs. B is wrong: an antihistamine alone suits mild urticaria. C is wrong: furosemide treats overload (TACO), not hypotensive haemolysis, and the transfusion must stop. D is wrong: continuing incompatible blood could be fatal.",
+      "difficulty": "core"
+    },
+    {
+      "id": "anbt-q06",
+      "stem": "A 15-month-old girl (8.2 kg) has pallor for 2 months. She drinks about 1.2 L of cow's milk daily and eats little else; she eats soil. Hb 7.2 g/dL, MCV 56 fL, platelets 560 × 10⁹/L, RDT negative. She is alert with normal vital signs. What is the MOST appropriate management?",
+      "options": [
+        "Transfuse packed cells 10 mL/kg",
+        "Folic acid 5 mg daily only",
+        "Oral iron (about 3–6 mg/kg/day elemental), albendazole 200 mg, reduce cow's milk to about 500 mL/day and add iron-rich foods, review in 2–4 weeks",
+        "IV iron sucrose at the HC IV",
+        "Hb electrophoresis and no treatment until the result returns"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: excess cow's milk, pica, microcytosis and reactive thrombocytosis point to **iron deficiency**; a stable child is treated with oral iron, deworming and diet change, then reviewed for a response. A is wrong: she is compensated, so transfusion is not indicated (UCG: chronic iron deficiency can be corrected with iron alone). B is wrong: folate does not correct iron deficiency. D is wrong: parenteral iron is rarely needed and is a specialist decision because of anaphylaxis risk. E is wrong: thalassaemia trait is less likely with these clues, and treatment need not wait; electrophoresis is reserved for poor response.",
+      "difficulty": "core"
+    },
+    {
+      "id": "anbt-q07",
+      "stem": "A 2-year-old with HbSS (10.5 kg) has a temperature of 39.2 °C for 6 hours. He is alert, HR 150, RR 34, Hb 7.0 g/dL (baseline 7.4). The RDT is negative. What should you do NEXT?",
+      "options": [
+        "Give paracetamol and review in the morning",
+        "Take a blood culture and give ceftriaxone 80–100 mg/kg IV within 1 hour",
+        "Give oral amoxicillin and discharge",
+        "Start artemether-lumefantrine because RDTs can miss malaria",
+        "Transfuse because Hb is low"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: children with SCD are functionally asplenic, so fever ≥38.5 °C is treated as **pneumococcal sepsis** until proven otherwise; culture and give parenteral ceftriaxone within an hour. A is wrong: delaying antibiotics can be fatal. C is wrong: oral amoxicillin is inadequate for presumed bacteraemia in a febrile SCD toddler. D is wrong: the RDT is negative; treating malaria does not cover the bacterial risk. E is wrong: Hb is at baseline, so there is no transfusion indication.",
+      "difficulty": "core"
+    },
+    {
+      "id": "anbt-q08",
+      "stem": "A 6-year-old with HbSS (18 kg) suddenly develops right-sided weakness and slurred speech. SpO₂ 93%, Hb 7.8 g/dL. Exchange transfusion is not available at your regional referral hospital today. What is the MOST appropriate immediate management?",
+      "options": [
+        "Give aspirin 75 mg and arrange CT next week",
+        "Start hydroxyurea 20 mg/kg and discharge",
+        "Give oxygen, check glucose, and give a simple transfusion of packed cells aiming for Hb about 10–11 g/dL, then refer urgently for imaging and exchange transfusion",
+        "Transfuse whole blood 30 mL/kg aiming for Hb 14 g/dL",
+        "Give IV mannitol and fluid restrict"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: acute stroke in SCD needs oxygen (SpO₂ >94%), exclusion of hypoglycaemia, and urgent transfusion; exchange is preferred, but if unavailable a simple transfusion to no more than 10–11 g/dL is given, then referral. A is wrong: aspirin and delay are not SCD stroke management. B is wrong: hydroxyurea is for prevention, not acute stroke. D is wrong: Hb 14 g/dL causes hyperviscosity and worsens ischaemia. E is wrong: mannitol and fluid restriction do not address sickling; adequate hydration is needed.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "anbt-q09",
+      "stem": "A 4-year-old (13 kg) with severe acute malnutrition (WHZ −3.4, no oedema) on F-75 has Hb 3.6 g/dL with fast breathing. Which transfusion order is MOST appropriate?",
+      "options": [
+        "Packed cells or whole blood 10 mL/kg (130 mL) over 3 hours, no routine furosemide, and do not repeat within 4 days",
+        "Whole blood 20 mL/kg over 3–4 hours with furosemide",
+        "Whole blood 30 mL/kg over 4 hours",
+        "Do not transfuse children with SAM",
+        "Packed cells 10 mL/kg over 30 minutes"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: in SAM the heart and kidneys handle sodium and fluid poorly, so WHO limits transfusion to **10 mL/kg over 3 h**, without routine diuretics, and no repeat within 4 days. B is wrong: 20 mL/kg risks fatal heart failure in SAM. C is wrong: the TRACT volume does not apply to SAM. D is wrong: Hb <4 g/dL (or 4–6 with distress) is an indication even in SAM. E is wrong: giving it over 30 minutes is far too fast.",
+      "difficulty": "core"
+    },
+    {
+      "id": "anbt-q10",
+      "stem": "A 2-year-old with HbSS (11 kg) attends the SCD clinic. She has had 1 painful crisis this year, no stroke or acute chest syndrome, and TCD is normal. ANC 4.2, platelets 310 × 10⁹/L, renal and liver function normal. The mother asks whether she should start hydroxyurea. What is the BEST response?",
+      "options": [
+        "No; hydroxyurea is only for children with a previous stroke",
+        "No; hydroxyurea increases malaria risk in Uganda",
+        "No; wait until she is 5 years old",
+        "Yes; hydroxyurea can be offered from 9 months, starting at about 20 mg/kg once daily with FBC monitoring and dose escalation; UCG lists frequent crises as an indication, but international guidance offers it to all children with HbSS",
+        "Yes; start at 35 mg/kg/day to get the maximum effect immediately"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: NHLBI/ASH guidance and the African trials (REACH, NOHARM) support offering hydroxyurea to all children with HbSS from 9 months, starting around 20 mg/kg/day and escalating with monitoring; UCG 2023 lists specific indications, so explain both. A is wrong: stroke is only one indication. B is wrong: NOHARM showed no increase in malaria. C is wrong: benefit starts in infancy and the start age is 9 months. E is wrong: 35 mg/kg/day is the maximum after escalation, not the starting dose, and starting there risks myelosuppression.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "anbt-q11",
+      "stem": "A 5-year-old on hydroxyurea 25 mg/kg/day has routine bloods: Hb 8.9 g/dL, MCV 102 fL, ANC 0.8 × 10⁹/L, platelets 150 × 10⁹/L. She is well. What is the MOST appropriate action?",
+      "options": [
+        "Increase to 30 mg/kg because MCV shows good adherence",
+        "Stop hydroxyurea permanently",
+        "Hold hydroxyurea, recheck FBC in about 1 week, and restart at a lower dose (e.g. 20 mg/kg) when ANC recovers above 1.0 × 10⁹/L",
+        "Start folic acid and ignore the neutrophil count",
+        "Give G-CSF and continue the same dose"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: ANC below 1.0 × 10⁹/L is dose-limiting toxicity; hold, recheck and restart at a lower dose once counts recover (myelosuppression is reversible). A is wrong: escalating with neutropenia worsens toxicity, even though the raised MCV does reflect adherence. B is wrong: permanent stopping is unnecessary and loses benefit. D is wrong: folate does not correct drug-induced neutropenia. E is wrong: G-CSF is not used for hydroxyurea neutropenia and can trigger sickling crises.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "anbt-q12",
+      "stem": "A 9-year-old with HbSS (24 kg) has had 2 days of fever, cough and chest pain. SpO₂ 89% in air, RR 38, crackles at the right base; CXR shows new right lower lobe consolidation. Hb 6.9 g/dL (baseline 8.1). What is the MOST appropriate management?",
+      "options": [
+        "Oral amoxicillin and discharge with analgesia",
+        "Oxygen, analgesia, incentive spirometry, IV ceftriaxone plus a macrolide, cautious fluids, and transfusion of packed cells",
+        "IV fluids at twice maintenance to reverse sickling",
+        "Morphine infusion only, avoiding antibiotics as this is a crisis not an infection",
+        "High-dose dexamethasone"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: fever, chest signs, hypoxia and a new infiltrate define **acute chest syndrome**; management is oxygen, analgesia, incentive spirometry, ceftriaxone plus a macrolide (atypicals), restricted fluids, and transfusion (Hb below 9 g/dL per UCG and falling). A is wrong: hypoxic ACS needs admission. C is wrong: overhydration worsens pulmonary oedema in ACS. D is wrong: infection is a common trigger and antibiotics are essential; opioids also risk hypoventilation. E is wrong: steroids are not routine and are linked to rebound crises.",
+      "difficulty": "core"
+    },
+    {
+      "id": "anbt-q13",
+      "stem": "A 3-year-old boy (13 kg) on zidovudine-containing ART for HIV has Hb 7.4 g/dL, MCV 108 fL. Malaria RDT negative. Which is the MOST likely cause of the anaemia?",
+      "options": [
+        "Iron deficiency",
+        "β-thalassaemia trait",
+        "Hookworm infestation",
+        "Splenic sequestration",
+        "Zidovudine (AZT) marrow toxicity"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: **AZT causes macrocytic anaemia** from marrow suppression; Uganda's HIV guidelines advise avoiding or substituting AZT when Hb is low. A is wrong: iron deficiency is microcytic. B is wrong: thalassaemia trait is microcytic. C is wrong: hookworm causes iron-deficiency (microcytic) anaemia. D is wrong: sequestration occurs in SCD with an enlarging spleen and normocytic, high-retic anaemia.",
+      "difficulty": "core"
+    },
+    {
+      "id": "anbt-q14",
+      "stem": "Which statement about blood transfusion practice in Uganda (UCG 2023) is CORRECT?",
+      "options": [
+        "Blood should be started within 30 minutes of removal from the fridge and completed within 4 hours",
+        "Blood should be warmed in a basin of hot water before use",
+        "Furosemide should be given routinely before every transfusion",
+        "Whole blood is only available at national referral hospitals",
+        "Vital signs need only be taken at the end of the transfusion"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: UCG 2023 states transfusion must start within 30 minutes of removal from the fridge and finish within 4 hours. B is wrong: improvised warming is unnecessary and can haemolyse red cells. C is wrong: routine pre-transfusion diuretics are not needed; give them for heart failure or renal disease. D is wrong: whole blood and red cell concentrates are available from HC IV level. E is wrong: vitals are needed before, at 15 minutes and at the end, at minimum.",
+      "difficulty": "core"
+    },
+    {
+      "id": "anbt-q15",
+      "stem": "A 10-month-old (7.8 kg) was admitted with severe malarial anaemia, transfused and treated with artesunate, and is now well with Hb 8.1 g/dL. Weight-for-length Z −1.2. What discharge plan BEST reduces his risk of readmission and death?",
+      "options": [
+        "Monthly blood transfusion for 3 months",
+        "No follow-up is needed since he has recovered",
+        "Start hydroxyurea",
+        "Insecticide-treated net, post-discharge malaria chemoprevention where available, oral iron once recovered, nutrition counselling, and review at 2 weeks and 1–3 months",
+        "Weekly chloroquine for life"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: children recovering from severe anaemia have high post-discharge mortality and readmission; ITNs, WHO-recommended post-discharge malaria chemoprevention in high-transmission areas, iron after recovery, feeding advice and early review address the main causes. A is wrong: routine repeat transfusions are not indicated. B is wrong: the post-discharge period is high risk. C is wrong: hydroxyurea is for SCD, which has not been shown here. E is wrong: chloroquine is ineffective against local *P. falciparum* and is not recommended for prophylaxis.",
+      "difficulty": "advanced"
+    }
+  ],
+  "cases": [
+    {
+      "id": "anbt-c01",
+      "title": "Breathless and pale: severe malarial anaemia",
+      "presentation": "Kato, a 22-month-old boy, is carried into Mengo Hospital paediatric emergency by his mother from Mukono. He has had fever for 4 days and since this morning has been breathing fast and refusing to feed. He was given 'malaria tablets' at a drug shop 2 days ago.",
+      "steps": [
+        { "prompt": "What do you do in the first 5 minutes?", "answer": "ETAT triage: he is breathing fast and deep with severe palmar pallor (emergency/priority signs). **ABC**: SpO₂ 91% → **oxygen**. **IV access**, then draw blood for **HemoCue Hb, malaria RDT, glucose, group and cross-match** before anything is given. Check **CRT** (3 s) and conscious level (alert but irritable: AVPU = A). Avoid a fluid bolus. Request blood urgently." },
+        { "prompt": "Results: Hb 3.4 g/dL, RDT positive, glucose 4.8 mmol/L. Weight 10.2 kg. HR 172, RR 58 with deep breathing, clear chest, gallop rhythm, liver 4 cm. What is your diagnosis and transfusion decision?", "answer": "**Severe malaria with severe anaemia, respiratory distress (acidosis) and heart failure.** Hb ≤4 g/dL is an absolute indication. Give **packed cells 10 mL/kg ≈ 100 mL over 3–4 h** (or whole blood 20 mL/kg ≈ 200 mL if packed cells unavailable) with **furosemide 1 mg/kg (10 mg) IV at the start** because of heart failure. Observe vitals before, at 15 min, every 30 min and at the end." },
+        { "prompt": "What other treatment starts at the same time?", "answer": "**IV artesunate 3 mg/kg** (children <20 kg) at 0, 12 and 24 h then daily until able to take oral, then a full course of artemether-lumefantrine. Paracetamol for fever. Check glucose regularly. Consider antibiotics if sepsis cannot be excluded (ceftriaxone 80–100 mg/kg)." },
+        { "prompt": "Ten minutes after the transfusion starts, he develops urticaria on the trunk. Vitals unchanged, no wheeze. What do you do?", "answer": "**Category 1 (mild allergic) reaction**: pause the transfusion, check vitals and ID, give an antihistamine (e.g. **chlorphenamine 0.1 mg/kg** or cetirizine; avoid promethazine under 2 years). If stable and the rash settles, **restart slowly** with close monitoring. If no improvement in 30 min or worsening, treat as category 2." },
+        { "prompt": "Next morning: Hb 7.6 g/dL, breathing comfortably, liver 2 cm. What is the plan before discharge?", "answer": "Complete artesunate → oral ACT. Ask about diet, cow's milk, worms; consider **FBC indices/ferritin**. Start **oral iron** once the acute illness has resolved (≈3–6 mg/kg/day elemental) for 3 months with **albendazole 200 mg** (under 2 years). **ITN**, post-discharge malaria chemoprevention where available, nutrition counselling, check **immunisation card** and **HIV status**, and review at 2 weeks and 1–3 months." },
+        { "prompt": "How do you present him on the ward round?", "answer": "\"Kato, 22 months, 10.2 kg (WAZ −1.0), immunised for age, breastfed plus family foods, HIV-negative mother, admitted with severe malaria complicated by severe anaemia (Hb 3.4) with acidotic breathing and heart failure. Received IV artesunate and 100 mL packed cells with furosemide; had a mild urticarial reaction treated with an antihistamine. Now Hb 7.6, stable. Plan: complete ACT, iron after recovery, deworm, ITN, follow-up.\"" }
+      ],
+      "takeaway": "Severe anaemia with deep breathing and heart failure is an emergency for blood, not fluids. Transfuse the right volume at the right speed with furosemide if in heart failure, treat malaria at the same time, and plan follow-up because the risk continues after discharge."
+    },
+    {
+      "id": "anbt-c02",
+      "title": "The SCD toddler with a growing spleen",
+      "presentation": "Nakato, an 18-month-old girl with HbSS known to the SCD clinic, is brought at 2 a.m. because she is 'too weak to sit' and her tummy looks big. Her mother says she has a mild cold. She is on penicillin V and folic acid.",
+      "steps": [
+        { "prompt": "What will you look for on rapid assessment?", "answer": "ABC; **signs of shock** (HR, CRT, cold peripheries, BP, conscious level); **pallor**; **spleen size** compared with the clinic card; temperature; SpO₂; jaundice; chest signs (ACS). Measure weight (9 kg)." },
+        { "prompt": "Findings: HR 180, CRT 4 s, lethargic, very pale, spleen 9 cm (was 3 cm at clinic), temp 37.9 °C. Hb 2.9 g/dL, retics 18%. What is the diagnosis?", "answer": "**Acute splenic sequestration crisis with shock**: rapidly enlarging spleen, steep Hb drop from baseline (≈7 g/dL), high reticulocytes. This can kill within hours." },
+        { "prompt": "How will you manage her immediately?", "answer": "Oxygen; IV access; **urgent packed cells in 5–10 mL/kg aliquots** (45–90 mL), reassessing HR, CRT and spleen size; **aim Hb 7–8 g/dL**. If shocked while waiting for blood, a cautious 10 mL/kg crystalloid bolus can be given, but blood is the treatment. Blood culture and **ceftriaxone 80–100 mg/kg** for possible infection; malaria test. Mark the spleen edge with a pen." },
+        { "prompt": "Why not transfuse 20 mL/kg whole blood to get her Hb to 11?", "answer": "As the spleen releases sequestered red cells, Hb rises further (auto-transfusion). Large volumes can overshoot to dangerous **hyperviscosity** (stroke, ACS) and overload. Small aliquots with a modest target are safer." },
+        { "prompt": "She stabilises (Hb 7.4, spleen 4 cm). What long-term plan will you discuss with the family?", "answer": "Teach parents to **palpate the spleen** daily during illness and come immediately if it enlarges; continue **penicillin V 125 mg 12-hourly**, **folic acid 5 mg**, **monthly SP** malaria prevention, ITN; ensure PCV and pentavalent are complete, PPSV23 at 2 years; **start hydroxyurea** (≥9 months, 20 mg/kg/day); discuss **elective splenectomy** if recurrent or life-threatening episodes (after pneumococcal vaccination), and never in the acute phase." },
+        { "prompt": "What genetic counselling will you give?", "answer": "Both parents are likely carriers (HbAS): each pregnancy has a **1 in 4** chance of SCD, 1 in 2 of trait, 1 in 4 unaffected. Offer **testing for siblings** and partner testing for future pregnancies." }
+      ],
+      "takeaway": "In SCD, always compare spleen size and Hb with the clinic baseline. Sequestration needs urgent but measured transfusion (5–10 mL/kg aliquots to Hb 7–8) and parent education to catch the next episode early."
+    },
+    {
+      "id": "anbt-c03",
+      "title": "The pale child who eats soil",
+      "presentation": "Mugisha, 2 years 3 months, is brought to the paediatric outpatient clinic at a HC IV in Wakiso because his grandmother says he is 'pale and lazy'. He is alert and playful.",
+      "steps": [
+        { "prompt": "What focused history do you take?", "answer": "Diet (breastfed to 6 months? **cow's milk volume**, meat, beans, greens, small fish), **pica** (eats soil), worms, barefoot play, blood in stool or urine, fever and malaria episodes, bleeding or bruising, bone pain or swollen hands (SCD), drugs, **HIV status** of mother and child, immunisation and growth (child health card), development (talking, walking)." },
+        { "prompt": "He drinks about 1.5 L of cow's milk daily, eats little food, plays barefoot and eats soil. Examination: palmar pallor, no jaundice, no splenomegaly, HR 120, RR 28, weight 11 kg (WAZ −1.4). What bedside tests do you do?", "answer": "**HemoCue Hb** (6.8 g/dL), **malaria RDT** (negative), and if available an **HbS point-of-care test** (negative). Request FBC with indices, and stool microscopy." },
+        { "prompt": "FBC: Hb 6.7, MCV 58 fL, MCH 17 pg, platelets 540 × 10⁹/L. Stool: hookworm ova. What is your diagnosis and does he need blood?", "answer": "**Iron-deficiency anaemia** from dietary deficiency (excess cow's milk) plus **hookworm**. He is clinically **compensated** (no distress, shock or heart failure) and Hb is above 6, so **no transfusion**." },
+        { "prompt": "Write the treatment.", "answer": "**Ferrous sulphate**: UCG 5 mg/kg of salt 8-hourly (≈55 mg 8-hourly; use syrup) giving ≈3–6 mg/kg/day elemental iron, until Hb normal then **3 more months**. **Albendazole 400 mg** single dose (≥2 years), repeat 6-monthly. Diet: **cow's milk ≤500 mL/day**, iron-rich foods (beans, liver, *mukene*, greens), vitamin C, no tea with meals; shoes. Warn about black stools and keep iron out of reach (overdose is dangerous)." },
+        { "prompt": "At review after 4 weeks his Hb is 7.0 g/dL. What do you think about?", "answer": "**Poor response**: check adherence (stool colour, pill count), dose, ongoing blood loss (re-check stool), malabsorption, intercurrent infection, wrong diagnosis (**thalassaemia trait**: Mentzer index, electrophoresis; anaemia of chronic disease: HIV/TB), or lead. Check ferritin and retics; refer if no cause." },
+        { "prompt": "How do you summarise the case for your senior?", "answer": "\"A 2-year-old, 11 kg (WAZ −1.4), immunised for age, HIV-unexposed, on excessive cow's milk with pica, has microcytic anaemia (Hb 6.7, MCV 58) with reactive thrombocytosis and hookworm. Diagnosis: iron-deficiency anaemia, compensated. Treated with oral iron, albendazole and diet change; review in 2–4 weeks for response.\"" }
+      ],
+      "takeaway": "Most chronic anaemia in toddlers is iron deficiency from diet (often too much cow's milk) and worms. A compensated child needs iron, deworming and diet change, not blood, and a check that the Hb actually rises."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023: sections 11.1 Anaemia, 11.1.3 Sickle Cell Disease, 11.2 Blood and Blood Products", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Pocket book of hospital care for children: guidelines for the management of common childhood illnesses, 2nd edition (sections 7.5.2, 10.5–10.6)", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "Guideline on haemoglobin cutoffs to define anaemia in individuals and populations", "source": "World Health Organization", "year": 2024, "url": "https://www.who.int/publications/i/item/9789240088542" },
+    { "title": "Immediate Transfusion in African Children with Uncomplicated Severe Anemia (TRACT)", "source": "Maitland K, et al. N Engl J Med 2019;381:407-419", "year": 2019, "url": "https://pubmed.ncbi.nlm.nih.gov/31365799/" },
+    { "title": "Transfusion Volume for Children with Severe Anemia in Africa (TRACT)", "source": "Maitland K, et al. N Engl J Med 2019;381:420-431", "year": 2019, "url": "https://pubmed.ncbi.nlm.nih.gov/31365800/" },
+    { "title": "Novel use Of Hydroxyurea in an African Region with Malaria (NOHARM): a trial for children with sickle cell anemia", "source": "Opoka RO, et al. Blood 2017", "year": 2017, "url": "https://pubmed.ncbi.nlm.nih.gov/29051184/" },
+    { "title": "Hydroxyurea for Children with Sickle Cell Anemia in Sub-Saharan Africa (REACH)", "source": "Tshilolo L, et al. N Engl J Med 2019", "year": 2019, "url": "https://pubmed.ncbi.nlm.nih.gov/30501550/" },
+    { "title": "Hydroxyurea dose optimisation for children with sickle cell anaemia in sub-Saharan Africa (REACH): extended follow-up", "source": "Lancet Haematology 2024", "year": 2024, "url": "https://pubmed.ncbi.nlm.nih.gov/38701812/" },
+    { "title": "Sickle Cell Disease: Practice Essentials and Treatment", "source": "Medscape (eMedicine)", "year": 2025, "url": "https://emedicine.medscape.com/article/958614-overview" }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "slug": "agn-nephrotic-syndrome-aki",
+  "flashcards": [
+    { "id": "akin-f01", "front": "Features of nephritic syndrome?", "back": "**Haematuria** (cola urine, RBC casts), **hypertension**, **oedema** (periorbital), **oliguria**, mild proteinuria, raised creatinine. (PHAROH)" },
+    { "id": "akin-f02", "front": "Features of nephrotic syndrome?", "back": "**Nephrotic-range proteinuria** (UPCR ≥200 mg/mmol, dipstick ≥3+), **hypoalbuminaemia** (<30 g/L IPNA/KDIGO), **oedema**, **hyperlipidaemia**. (PALE)" },
+    { "id": "akin-f03", "front": "Latency of PSGN after throat vs skin infection?", "back": "**1–2 weeks** after pharyngitis; **3–6 weeks** after skin infection (impetigo, infected scabies)." },
+    { "id": "akin-f04", "front": "Complement in PSGN?", "back": "**Low C3** (alternative pathway), usually normal C4; C3 **normalises within 6–8 weeks**. Persistently low beyond 8 weeks → MPGN/C3 glomerulopathy/lupus → biopsy." },
+    { "id": "akin-f05", "front": "Which antibody test supports PSGN after skin infection?", "back": "**Anti-DNase B** (ASO is often not raised after skin infection because skin lipids inactivate streptolysin O)." },
+    { "id": "akin-f06", "front": "Fluid allowance in oliguric PSGN/AKI?", "back": "**Insensible losses (~400 mL/m²/day) + previous day's urine output + other losses**, adjusted by daily weight. (UCG simplifies: 10 mL/kg/day + losses.)" },
+    { "id": "akin-f07", "front": "Do antibiotics change the course of PSGN?", "back": "No. They eradicate the nephritogenic strain (penicillin/amoxicillin 10 days or BPG once) and protect contacts; the nephritis is immune-mediated." },
+    { "id": "akin-f08", "front": "Hypertensive emergency in children: how fast do you lower BP?", "back": "By **no more than 25% of the planned reduction in the first 8 hours**, then to target over 24–48 h (IV labetalol/hydralazine or oral nifedipine, plus furosemide)." },
+    { "id": "akin-f09", "front": "Child antihypertensive doses: nifedipine, amlodipine, hydralazine?", "back": "**Nifedipine 0.25–0.5 mg/kg/dose** (max 10 mg); **amlodipine 0.1–0.2 mg/kg/day** (max 10 mg); **hydralazine IV 0.1–0.2 mg/kg** (max 20 mg) every 4–6 h." },
+    { "id": "akin-f10", "front": "When should a child with PSGN be referred for biopsy/nephrology?", "back": "C3 low **>8 weeks**, persistent **nephrotic-range proteinuria**, **rising creatinine**/oliguria >1 week, hypertension >6 weeks, gross haematuria >3 weeks, no evidence of strep, systemic features." },
+    { "id": "akin-f11", "front": "Definition of remission and relapse in nephrotic syndrome?", "back": "**Remission**: dipstick negative/trace (UPCR ≤20 mg/mmol) for **3 consecutive days**. **Relapse**: dipstick **≥3+** (UPCR ≥200 mg/mmol) for **3 consecutive days**." },
+    { "id": "akin-f12", "front": "Define steroid-resistant nephrotic syndrome.", "back": "**No complete remission after 4 weeks** of standard-dose prednisolone (60 mg/m²/day). IPNA adds a confirmation period of up to 2 weeks. Refer for biopsy, genetics, RAS blockade and calcineurin inhibitor." },
+    { "id": "akin-f13", "front": "Define frequently relapsing and steroid-dependent nephrotic syndrome.", "back": "**FRNS**: ≥2 relapses within 6 months of initial response, or ≥4 in any 12 months. **SDNS**: 2 consecutive relapses during steroid therapy or within **14 days** of stopping." },
+    { "id": "akin-f14", "front": "First-episode prednisolone regimen (IPNA 2023 / KDIGO)?", "back": "**60 mg/m²/day or 2 mg/kg/day (max 60 mg)** once daily for **4 weeks**, then **40 mg/m² or 1.5 mg/kg (max 40 mg) alternate days** for **4 weeks** (KDIGO: 8–12 weeks total)." },
+    { "id": "akin-f15", "front": "Relapse prednisolone regimen?", "back": "**60 mg/m² (2 mg/kg, max 60 mg) daily until remission for 3 days**, then **40 mg/m² (1.5 mg/kg, max 40 mg) alternate days for 4 weeks**." },
+    { "id": "akin-f16", "front": "Signs that a nephrotic child is hypovolaemic (underfilled)?", "back": "**Tachycardia, cold peripheries, CRT >3 s, abdominal pain, postural hypotension, oliguria, rising haematocrit, urine Na <10–20 mmol/L**. Stop diuretics; give albumin." },
+    { "id": "akin-f17", "front": "Albumin infusion dose for severe nephrotic oedema?", "back": "**20% albumin 0.5–1 g/kg (2.5–5 mL/kg) over 4 h** with **furosemide 0.5–1 mg/kg IV (max 40 mg)** mid-way or at the end (RCH)." },
+    { "id": "akin-f18", "front": "Screening before starting prednisolone in a Ugandan child with nephrotic syndrome?", "back": "**TB** (history, CXR ± Xpert), **HIV, hepatitis B, syphilis**, malaria, stool/urine for **schistosomiasis/Strongyloides**; deworm (albendazole) and praziquantel 40 mg/kg if endemic." },
+    { "id": "akin-f19", "front": "Secondary causes of nephrotic syndrome relevant to Uganda?", "back": "**HIV-associated nephropathy**, **hepatitis B** (membranous), **quartan malaria** (*P. malariae*), **schistosomiasis** (MPGN), **syphilis**, PSGN, SLE, drugs." },
+    { "id": "akin-f20", "front": "KDIGO AKI stage 1 criteria?", "back": "Creatinine **1.5–1.9 × baseline** (within 7 days) or rise **≥26.5 µmol/L within 48 h**; or urine output **<0.5 mL/kg/h for 6–12 h**." },
+    { "id": "akin-f21", "front": "KDIGO AKI stage 3 criteria?", "back": "Creatinine **≥3 × baseline** or **≥353.6 µmol/L** or **dialysis** or **eGFR <35 mL/min/1.73 m² in under-18s**; or urine output **<0.3 mL/kg/h for ≥24 h** or **anuria ≥12 h**." },
+    { "id": "akin-f22", "front": "Bedside Schwartz formula?", "back": "**eGFR = 36.5 × height (cm) ÷ creatinine (µmol/L)** (or 0.413 × height ÷ creatinine in mg/dL)." },
+    { "id": "akin-f23", "front": "Emergency treatment of hyperkalaemia in a child?", "back": "**Calcium gluconate 10% 0.5 mL/kg (max 20 mL) IV over 5–10 min**; **salbutamol neb 2.5 mg (<25 kg) / 5 mg**; **insulin 0.1 U/kg + glucose 0.5 g/kg**; bicarbonate 1–2 mmol/kg if acidotic; resonium 1 g/kg/day; dialysis." },
+    { "id": "akin-f24", "front": "Dialysis indications?", "back": "**AEIOU**: refractory **A**cidosis, **E**lectrolytes (K⁺ ≥7 or refractory), **I**ntoxication, **O**verload (pulmonary oedema, >10–20% fluid overload), **U**raemia (encephalopathy, pericarditis, bleeding); prolonged anuria." },
+    { "id": "akin-f25", "front": "Pre-renal vs intrinsic AKI on urine tests?", "back": "**Pre-renal**: urine Na <20 mmol/L, **FENa <1%**, concentrated urine, bland sediment. **Intrinsic (ATN)**: urine Na >40, **FENa >2%**, granular casts. (FENa unreliable after furosemide.)" },
+    { "id": "akin-f26", "front": "Live vaccines and steroids in nephrotic syndrome?", "back": "Avoid live vaccines (measles, varicella, BCG, OPV, yellow fever) on **≥2 mg/kg/day or ≥20 mg/day for ≥14 days** until **1 month after stopping**. Give PCV/PPSV23 and annual influenza." }
+  ],
+  "mcqs": [
+    {
+      "id": "akin-q01",
+      "stem": "A 9-year-old boy (26 kg) has cola-coloured urine, puffy eyes and reduced urine for 3 days. He had infected scabies 4 weeks ago. BP 142/96 mmHg (>99th centile), no crackles, liver not enlarged. Urine: blood 3+, protein 1+. Creatinine 104 µmol/L, K⁺ 5.1. What is the MOST appropriate initial management?",
+      "options": [
+        "IV normal saline at maintenance rate to improve kidney perfusion",
+        "Prednisolone 2 mg/kg/day",
+        "Fluid restriction to insensible losses plus urine output, no added salt, furosemide 1–2 mg/kg, antihypertensive (e.g. nifedipine or amlodipine), and penicillin for 10 days",
+        "Enalapril 0.5 mg/kg/day as first-line antihypertensive",
+        "Discharge with oral amoxicillin and review in 2 weeks"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: this is **PSGN** (nephritic picture 3–6 weeks after skin infection) with hypertension and AKI; management is fluid and salt restriction, furosemide, BP control and a 10-day course of penicillin to clear the strain. A is wrong: maintenance fluids worsen overload and hypertension. B is wrong: steroids are not indicated in typical PSGN. D is wrong: ACE inhibitors risk hyperkalaemia and a further fall in GFR in acute oliguric GN. E is wrong: a hypertensive oliguric child needs admission and monitoring.",
+      "difficulty": "core"
+    },
+    {
+      "id": "akin-q02",
+      "stem": "A 3-year-old girl (14 kg) has had generalised swelling for 10 days. BP 94/56, CRT <2 s, warm peripheries. Urine protein 4+, blood negative. Albumin 14 g/L, cholesterol 9 mmol/L, creatinine 25 µmol/L, C3 normal. HIV and HBsAg negative; no TB contact; CXR normal. What is the MOST appropriate treatment?",
+      "options": [
+        "Furosemide 2 mg/kg twice daily alone",
+        "Renal biopsy before any treatment",
+        "Cyclophosphamide 2 mg/kg/day",
+        "Albumin infusion daily until albumin is above 30 g/L",
+        "Prednisolone 60 mg/m²/day (2 mg/kg/day, max 60 mg) once daily for 4 weeks, then 40 mg/m² on alternate days for 4 weeks, with a no-added-salt diet"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: this is **typical idiopathic nephrotic syndrome** (age 1–12, no haematuria, normal BP, creatinine and C3), treated with prednisolone per IPNA 2023/KDIGO. A is wrong: diuretics alone do not induce remission and risk hypovolaemia. B is wrong: biopsy is for atypical or steroid-resistant disease. C is wrong: cyclophosphamide is a steroid-sparing agent for FRNS/SDNS. D is wrong: albumin is reserved for symptomatic oedema or hypovolaemia and does not treat the disease.",
+      "difficulty": "core"
+    },
+    {
+      "id": "akin-q03",
+      "stem": "A 5-year-old (17 kg) with nephrotic syndrome on day 5 of prednisolone was given furosemide 2 mg/kg twice daily by a junior doctor. He now has abdominal pain, HR 152, cold hands, CRT 4 s, BP 88/50, and urine output 0.3 mL/kg/h. Hct has risen from 38% to 47%. Abdomen soft, no fever. What is the BEST next step?",
+      "options": [
+        "Stop furosemide and give 20% albumin 1 g/kg (or 10–20 mL/kg crystalloid/4.5% albumin if unavailable), then reassess",
+        "Increase furosemide to clear the oedema",
+        "Start ceftriaxone and arrange laparotomy",
+        "Give a 40 mL/kg saline bolus over 10 minutes",
+        "Restrict fluids to insensible losses"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: tachycardia, cold peripheries, low BP, oliguria and rising haematocrit after diuretics mean **intravascular hypovolaemia** in a nephrotic child; stop the diuretic and expand the circulation, ideally with albumin. B is wrong: more diuretic worsens shock and AKI and increases thrombosis risk. C is wrong: peritonitis is possible with abdominal pain, but the picture (no fever, soft abdomen, haemoconcentration after diuretics) fits hypovolaemia; antibiotics would be added if peritonitis was suspected, never laparotomy first. D is wrong: 40 mL/kg rapidly risks pulmonary oedema; give measured volumes and reassess. E is wrong: fluid restriction worsens hypovolaemia.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "akin-q04",
+      "stem": "A 2-year-old (11 kg, 85 cm) with 3 days of watery diarrhoea is lethargic with sunken eyes, CRT 3 s and no urine for 12 hours. Creatinine is 96 µmol/L (expected about 25–30). Which statement is CORRECT?",
+      "options": [
+        "Creatinine is in the adult normal range, so there is no AKI",
+        "He has AKI stage 1 only",
+        "He needs dialysis immediately",
+        "He has KDIGO stage 3 AKI (creatinine >3× expected; anuria ≥12 h), most likely pre-renal, and needs rehydration followed by reassessment of urine output and creatinine",
+        "Give furosemide 2 mg/kg first to restart urine flow"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: creatinine more than 3 times the age-expected value and anuria for 12 h meet **KDIGO stage 3**, and the history points to **pre-renal AKI** from dehydration, which usually responds to fluids (Schwartz eGFR ≈ 36.5 × 85 ÷ 96 ≈ 32). A is wrong: adult ranges do not apply to toddlers. B is wrong: the rise is over 3 times expected. C is wrong: dialysis is for AEIOU indications not corrected by treating the cause; rehydrate first. E is wrong: diuretics in a dehydrated child worsen hypovolaemia.",
+      "difficulty": "core"
+    },
+    {
+      "id": "akin-q05",
+      "stem": "An 8-year-old (24 kg) with PSGN has K⁺ 7.0 mmol/L and the ECG shows peaked T waves and a widening QRS. What is the FIRST drug to give?",
+      "options": [
+        "Calcium resonium 1 g/kg orally",
+        "Calcium gluconate 10% 12 mL (0.5 mL/kg) IV over 5–10 minutes with ECG monitoring",
+        "Furosemide 1 mg/kg IV",
+        "Sodium bicarbonate 1 mmol/kg IV",
+        "Salbutamol 2.5 mg nebulised and repeat the K⁺ in 6 hours"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: hyperkalaemia with ECG changes needs **IV calcium first** to stabilise the myocardium (0.5 mL/kg, max 20 mL), followed by salbutamol and insulin–glucose to shift K⁺, and removal (resonium or dialysis). A is wrong: resins act over hours. C is wrong: furosemide is slow and unreliable in oliguric AKI. D is wrong: bicarbonate is not first line and only helps if acidotic. E is wrong: salbutamol is right as the second step, but waiting 6 hours is dangerous.",
+      "difficulty": "core"
+    },
+    {
+      "id": "akin-q06",
+      "stem": "An 11-year-old girl with PSGN is reviewed 10 weeks after presentation. BP is normal and oedema has resolved, but she still has microscopic haematuria and her C3 remains low. What is the MOST appropriate next step?",
+      "options": [
+        "Reassure; persistent low C3 is expected for 6 months",
+        "Start prednisolone",
+        "Refer to paediatric nephrology for evaluation including renal biopsy (possible MPGN, C3 glomerulopathy or lupus)",
+        "Repeat a 10-day penicillin course",
+        "Start ciclosporin"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: in PSGN, **C3 normalises within 6–8 weeks**; persistence beyond 8 weeks suggests another diagnosis (MPGN, C3 glomerulopathy, lupus) needing biopsy. A is wrong: microscopic haematuria can persist up to a year, but a low C3 should not. B is wrong: steroids should not be started without a histological diagnosis. D is wrong: antibiotics do not affect complement. E is wrong: immunosuppression needs a diagnosis first.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "akin-q07",
+      "stem": "A 6-year-old (20 kg) with steroid-sensitive nephrotic syndrome in remission is due her measles-rubella second dose. She completed prednisolone 2 mg/kg/day for 4 weeks then alternate-day steroid 2 weeks ago. What is the BEST advice?",
+      "options": [
+        "Delay the live vaccine until at least 1 month after stopping high-dose steroids",
+        "Give it today since she is in remission",
+        "Never give live vaccines to children who have had nephrotic syndrome",
+        "Give it only if her albumin is above 40 g/L",
+        "Give immunoglobulin instead of the vaccine"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: after **high-dose steroids** (≥2 mg/kg/day or ≥20 mg/day for ≥14 days), live vaccines are deferred until **1 month after stopping**. She is still on alternate-day steroids. B is wrong: remission does not remove the immunosuppressive effect of current steroids. C is wrong: live vaccines are given once off high-dose steroids. D is wrong: albumin level is not the criterion. E is wrong: immunoglobulin is for post-exposure situations, not routine immunisation.",
+      "difficulty": "core"
+    },
+    {
+      "id": "akin-q08",
+      "stem": "A 4-year-old with steroid-sensitive nephrotic syndrome has dipstick 3+ proteinuria on 3 consecutive mornings, 5 months after completing her first steroid course. This is her first relapse. Weight 16 kg. What is the MOST appropriate treatment?",
+      "options": [
+        "Repeat the full 8-week first-episode regimen",
+        "Start cyclophosphamide",
+        "Observe without treatment since she is not oedematous",
+        "Renal biopsy",
+        "Prednisolone 2 mg/kg/day (32 mg; or 60 mg/m²) daily until protein-free for 3 days, then 1.5 mg/kg (24 mg; or 40 mg/m²) on alternate days for 4 weeks"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: an infrequent **relapse** is treated with daily prednisolone until remission for 3 days, then alternate-day for 4 weeks (KDIGO/IPNA). A is wrong: relapses get a shorter course than the first episode. B is wrong: steroid-sparing agents are for FRNS/SDNS. C is wrong: a confirmed relapse (3+ for 3 days) is treated, even without oedema, to prevent complications (some clinicians wait a few days if triggered by a cold, but treatment is standard). D is wrong: biopsy is not needed for a steroid-sensitive relapse.",
+      "difficulty": "core"
+    },
+    {
+      "id": "akin-q09",
+      "stem": "A 7-year-old with nephrotic syndrome on prednisolone has fever 38.9 °C, diffuse abdominal pain and tenderness with guarding. HR 140, CRT 2 s. What is the MOST likely diagnosis and action?",
+      "options": [
+        "Steroid-induced gastritis; give omeprazole",
+        "Hypovolaemia; give albumin only",
+        "Appendicitis; arrange laparotomy before antibiotics",
+        "Spontaneous bacterial peritonitis (usually pneumococcal); blood culture (± ascitic tap) and IV ceftriaxone",
+        "Renal vein thrombosis; start heparin"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: fever, abdominal pain and peritonism in a nephrotic child on steroids = **primary (spontaneous) bacterial peritonitis**, most often pneumococcal; culture and give IV ceftriaxone urgently (steroids can mask signs). A is wrong: gastritis does not cause fever and peritonism. B is wrong: hypovolaemia causes pain but not fever and guarding with good perfusion. C is wrong: surgery without antibiotics delays treatment; SBP is far more likely. E is wrong: renal vein thrombosis causes flank pain and haematuria, not peritonitis with fever.",
+      "difficulty": "core"
+    },
+    {
+      "id": "akin-q10",
+      "stem": "A 12-year-old girl (35 kg) has had nephrotic syndrome for 3 weeks, with haematuria, BP 138/90 and creatinine 98 µmol/L. She is HIV-positive on ART. What is the BEST next step?",
+      "options": [
+        "Start standard prednisolone 60 mg/m² and review in 4 weeks",
+        "Refer to paediatric nephrology for renal biopsy and specialist care (atypical nephrotic syndrome, possible HIVAN/FSGS)",
+        "Stop her ART",
+        "Give albumin and furosemide only and discharge",
+        "Start cyclophosphamide"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: she has **atypical** features (age ≥12, haematuria, hypertension, raised creatinine, HIV), so biopsy and specialist care come before steroids; HIVAN/FSGS is likely and often steroid-resistant. A is wrong: blind standard steroids are inappropriate in atypical disease. C is wrong: ART is the key treatment for HIVAN and must continue (with renal dose adjustment). D is wrong: symptom control alone misses the diagnosis. E is wrong: immunosuppression needs a histological diagnosis.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "akin-q11",
+      "stem": "A 10-year-old (30 kg) with PSGN suddenly develops headache, vomiting, blurred vision and a generalised seizure. BP 170/115 (well above the 99th centile + 5 mmHg). Glucose 5.2, Na 134. The seizure stops after diazepam. What is the BEST BP plan?",
+      "options": [
+        "Give sublingual nifedipine 20 mg to normalise BP within 30 minutes",
+        "No antihypertensive; seizures are due to uraemia",
+        "Start enalapril 0.5 mg/kg and furosemide by mouth",
+        "Restrict fluids and recheck BP tomorrow",
+        "IV antihypertensive (labetalol infusion or hydralazine 0.1–0.2 mg/kg) with IV furosemide, lowering BP by no more than 25% of the planned reduction in the first 8 hours"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: this is **hypertensive encephalopathy** in PSGN; lower BP in a controlled way (≤25% of the planned reduction in 8 h, then over 24–48 h) using titratable IV agents plus furosemide for volume overload. A is wrong: a large, rapid fall risks cerebral ischaemia and blindness, and sublingual nifedipine is unpredictable. B is wrong: the history and BP point to hypertensive encephalopathy, not uraemia. C is wrong: ACE inhibitors risk hyperkalaemia and are too slow. D is wrong: delay risks further seizures and brain injury.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "akin-q12",
+      "stem": "A 6-year-old with severe malaria (now on IV artesunate) has passed dark red-brown urine. Dipstick shows blood 3+ but urine microscopy shows no red cells. Hb has fallen from 8 to 5 g/dL. What explains the urine finding?",
+      "options": [
+        "PSGN",
+        "Nephrotic syndrome",
+        "Haemoglobinuria from intravascular haemolysis",
+        "Urinary tract infection",
+        "Bladder stone"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: dipstick blood without red cells on microscopy means **free haemoglobin (haemoglobinuria)** from intravascular haemolysis (malaria/'blackwater', G6PD), a cause of AKI; monitor urine output and creatinine and transfuse as indicated. A is wrong: PSGN shows dysmorphic RBCs and casts. B is wrong: nephrotic syndrome gives heavy proteinuria, not haemoglobinuria. D is wrong: UTI gives leucocytes and nitrites. E is wrong: stones cause RBCs in the urine.",
+      "difficulty": "core"
+    },
+    {
+      "id": "akin-q13",
+      "stem": "A 7-year-old (22 kg, 120 cm, BSA 0.85 m²) with AKI from sepsis has had 180 mL of urine in the last 24 hours, no other losses, and is clinically euvolaemic. What is the MOST appropriate total fluid intake for the next 24 hours?",
+      "options": [
+        "Full maintenance: about 1,540 mL",
+        "About 520 mL (insensible ≈400 mL/m² ≈ 340 mL + 180 mL urine output), adjusted by daily weight",
+        "Nil by mouth and no IV fluids",
+        "Twice maintenance to force a diuresis",
+        "180 mL only, to match urine output"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: in oliguric, euvolaemic AKI give **insensible losses (~400 mL/m²/day) plus urine output** (≈340 + 180 mL), and use daily weight to fine-tune. A is wrong: full maintenance (Holliday–Segar ≈1,540 mL) in oliguria causes overload. C is wrong: withholding all fluid causes dehydration and hypoglycaemia. D is wrong: forced diuresis by fluid loading causes pulmonary oedema. E is wrong: matching urine alone ignores insensible losses.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "akin-q14",
+      "stem": "A 5-year-old with nephrotic syndrome has received prednisolone 60 mg/m²/day for 4 weeks. Dipstick proteinuria remains 3+ daily; she is adherent. What is the BEST interpretation and plan?",
+      "options": [
+        "Likely steroid-resistant nephrotic syndrome: refer to paediatric nephrology for confirmation, renal biopsy, genetic testing if available, ACE inhibitor and calcineurin inhibitor therapy",
+        "Frequently relapsing nephrotic syndrome: start levamisole",
+        "Steroid-dependent nephrotic syndrome: taper slowly",
+        "Normal response: continue the same dose for 6 months",
+        "Give albumin infusions weekly until remission"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: **no remission after 4 weeks** of full-dose prednisolone defines (likely) **SRNS**; IPNA advises a short confirmation period and specialist work-up with biopsy, genetics, RAS blockade and a calcineurin inhibitor. SRNS is more common in African children. B is wrong: FRNS describes relapses after remission. C is wrong: SDNS also requires an initial response. D is wrong: prolonged high-dose steroids add toxicity without benefit. E is wrong: albumin does not induce remission.",
+      "difficulty": "core"
+    },
+    {
+      "id": "akin-q15",
+      "stem": "Which of the following is an indication for urgent dialysis in a child with AKI?",
+      "options": [
+        "Creatinine of 90 µmol/L in a 10-year-old with good urine output",
+        "K⁺ 5.6 mmol/L with a normal ECG",
+        "Mild periorbital oedema",
+        "Pulmonary oedema not responding to furosemide in an oliguric child",
+        "Microscopic haematuria"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: **fluid overload with pulmonary oedema refractory to diuretics** is a dialysis indication (the 'O' in AEIOU). A is wrong: a mild creatinine rise with good output is managed medically. B is wrong: mild hyperkalaemia without ECG changes is treated medically. C is wrong: mild oedema is managed with salt/fluid restriction and diuretics. E is wrong: haematuria alone does not need dialysis.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "akin-c01",
+      "title": "Cola urine after scabies",
+      "presentation": "Waiswa, a 10-year-old boy from Iganga, is brought to the paediatric ward with swelling of his face for 4 days and 'urine like Coca-Cola'. His mother says he is passing very little urine and complains of headache.",
+      "steps": [
+        { "prompt": "What history will you take?", "answer": "**Sore throat 1–2 weeks** or **skin sores/scabies 3–6 weeks** ago (and family members with scabies), urine colour and volume, swelling pattern, **headache, vomiting, blurred vision, fits**, breathlessness/orthopnoea, rash or joint pains (HSP, SLE), drugs/herbs (NSAIDs), previous kidney problems, HIV status, immunisation, nutrition." },
+        { "prompt": "History: infected scabies 3 weeks ago. Exam: 28 kg, 132 cm, periorbital and ankle oedema, BP 146/98 (>99th centile), HR 92, RR 24, no crackles, liver 1 cm, healed scabies lesions. Dipstick blood 3+, protein 1+. What is your working diagnosis and what tests do you order?", "answer": "**PSGN** with hypertension and probable AKI. Tests: **creatinine/urea, Na, K**, **C3 (± C4)**, **anti-DNase B** (skin) and ASO, urine microscopy (RBC casts), FBC, malaria RDT, CXR if breathless, renal ultrasound if atypical." },
+        { "prompt": "Results: creatinine 120 µmol/L, K⁺ 5.4, Na 133, C3 low, anti-DNase B high. Urine output 0.5 mL/kg/h over the last 8 h. Write the management plan.", "answer": "Admit; **daily weight, strict input/output, BP 4-hourly**. **Fluid**: BSA ≈ √(132×28/3600) ≈ 1.01 m² → insensible ≈ 400 mL/day + yesterday's urine output. **No added salt; low-K⁺ foods**. **Furosemide 1–2 mg/kg** (28–56 mg) oral/IV. **Amlodipine 0.1 mg/kg/day** (≈2.5–5 mg) ± nifedipine 0.25 mg/kg as needed. **Penicillin V 250 mg 6-hourly × 10 days** or BPG 0.6 MU once (<30 kg). **Treat scabies** (permethrin; family too). No steroids. Daily creatinine and K⁺." },
+        { "prompt": "On day 2 he has a severe headache, vomits and has a seizure. BP 172/112. What do you do?", "answer": "**Hypertensive encephalopathy**: ABC, recovery position, **diazepam 0.3 mg/kg IV** (or 0.5 mg/kg rectal) if still fitting; check glucose and Na. **IV hydralazine 0.1–0.2 mg/kg** (≈3–5 mg) or **labetalol infusion**, plus **IV furosemide 2 mg/kg**. Reduce BP **by no more than 25% of the planned fall in the first 8 h**, then gradually. Call a senior; monitor neuro obs." },
+        { "prompt": "When will you worry this is not simple PSGN?", "answer": "If **creatinine keeps rising** or oliguria persists >1 week (RPGN/crescents), **nephrotic-range proteinuria** persists, **C3 low beyond 8 weeks**, hypertension >6 weeks, gross haematuria >3 weeks, or systemic features (rash, arthritis). Then refer for **biopsy at Mulago**." },
+        { "prompt": "What follow-up and prognosis do you explain to the family?", "answer": "Most children recover fully (>95%). Swelling and BP settle in 1–3 weeks; **C3 normal by 8 weeks**; microscopic blood may last up to a year. Follow-up: BP and urine at 2 and 6 weeks, **C3 at 8 weeks**, then 3, 6 and 12 months. Prevent recurrence of skin infections and scabies at home." }
+      ],
+      "takeaway": "PSGN is an overfilled kidney: restrict fluid and salt, give furosemide and control BP carefully, treat the strep and scabies, and follow C3 to 8 weeks."
+    },
+    {
+      "id": "akin-c02",
+      "title": "The swollen 3-year-old",
+      "presentation": "Nalwoga, a 3-year-old girl, is brought to Mengo with 2 weeks of swelling that started around her eyes and has spread to her legs and tummy. Her grandmother thought it was 'too much salt'.",
+      "steps": [
+        { "prompt": "What examination and bedside tests do you do first?", "answer": "Weight (compare with the child health card), height, **BP with correct cuff**, HR, **CRT and peripheral temperature**, oedema map (eyes, sacrum, legs, labia, ascites, effusions), abdominal tenderness, skin infections, signs of malnutrition (kwashiorkor). **Urine dipstick**: protein 4+, blood negative." },
+        { "prompt": "Findings: 15 kg (card weight 13 kg), height 94 cm, BP 92/56, warm, CRT <2 s, ascites, no tenderness. What bloods and screening do you send?", "answer": "**Albumin** (12 g/L), **cholesterol** (high), **creatinine, Na, K**, FBC, **C3**, **UPCR** if available; **HIV, HBsAg, syphilis**; **TB screen** (contact history, CXR); malaria RDT; stool for parasites. Deworm with albendazole; praziquantel if schistosomiasis risk." },
+        { "prompt": "All screening normal, C3 normal, creatinine 24 µmol/L. Write the prednisolone prescription (use pre-oedema weight 13 kg; BSA ≈ 0.58 m²).", "answer": "**Prednisolone 60 mg/m²/day ≈ 35 mg** (2 mg/kg ≈ 26 mg; max 60) **once each morning for 4 weeks**, then **40 mg/m² ≈ 23 mg (round to 25 mg) on alternate days for 4 weeks**, then stop (IPNA 2023/KDIGO). Give with food. (UCG and some Ugandan units use 6 weeks daily + taper/6 weeks alternate-day; follow your unit.)" },
+        { "prompt": "Her oedema is moderate and she is comfortable. Will you give furosemide or albumin?", "answer": "**No routine diuretics or albumin.** No-added-salt diet; normal fluids unless hyponatraemic. Albumin 20% 0.5–1 g/kg with furosemide only for **symptomatic oedema** (breathing difficulty, skin breakdown) or **hypovolaemia**. Diuretics alone risk hypovolaemia and thrombosis." },
+        { "prompt": "On day 8 she develops fever 39 °C, abdominal pain and guarding. What is your concern and action?", "answer": "**Spontaneous bacterial peritonitis** (pneumococcus) while on steroids. Blood culture (± diagnostic ascitic tap), **IV ceftriaxone 80–100 mg/kg/day**, assess perfusion (hypovolaemia also causes abdominal pain), surgical review if unclear." },
+        { "prompt": "She enters remission on day 10. What do you teach the family before discharge?", "answer": "**Home dipstick** of first-morning urine (daily during illness/relapse, otherwise weekly), record in a diary; **relapse = 3+ for 3 days** → return; finish the steroid course exactly; **steroid card**; signs of infection, abdominal pain, reduced urine or limb swelling → come immediately; **no live vaccines** until 1 month after high-dose steroids; PCV/PPSV23 and influenza; no added salt; relapses are common (70–80%) and usually respond again." }
+      ],
+      "takeaway": "Typical childhood nephrotic syndrome is steroid-sensitive. Screen for secondary causes and TB, give weight/BSA-based prednisolone (dose on dry weight), avoid unnecessary diuretics, watch for infection and hypovolaemia, and teach home monitoring."
+    },
+    {
+      "id": "akin-c03",
+      "title": "No urine after diarrhoea and malaria",
+      "presentation": "Kyomuhendo, a 2-year-old boy, is referred from a HC III in Hoima with 4 days of diarrhoea and fever, now drowsy. He has not passed urine since the morning (14 hours).",
+      "steps": [
+        { "prompt": "What are your first actions?", "answer": "ETAT: ABC, SpO₂, **glucose**, conscious level. Assess **dehydration/shock** (CRT, pulse, cold hands, sunken eyes, skin pinch). IV access; bloods for **creatinine, Na, K, Hb, malaria RDT, glucose**, blood culture. **ECG/monitor** if available (hyperkalaemia)." },
+        { "prompt": "Findings: 11 kg, CRT 4 s, weak fast pulse 170, sunken eyes, drowsy. RDT positive. Glucose 4.1. Hb 7.8. What fluids do you give?", "answer": "**Severe dehydration with shock** (not SAM, Hb >5): start **WHO Plan C**: **Ringer's lactate 30 mL/kg (330 mL) over 30 minutes** (age ≥12 months; repeat once if the radial pulse is still weak), then **70 mL/kg (770 mL) over 2.5 hours**, reassessing every 15–30 minutes and starting ORS as soon as he can drink. **IV artesunate 3 mg/kg** for severe malaria. Ceftriaxone if sepsis possible." },
+        { "prompt": "Results: creatinine 160 µmol/L, urea 22 mmol/L, K⁺ 6.6, Na 129, HCO₃⁻ 12. ECG: peaked T waves. What now?", "answer": "**KDIGO stage 3 AKI** with **dangerous hyperkalaemia**. **Calcium gluconate 10% 5.5 mL (0.5 mL/kg) IV over 5–10 min** with monitoring; **salbutamol 2.5 mg neb**; **insulin 1.1 units + glucose 5.5 g (55 mL of 10% dextrose)** IV over 30 min with hourly glucose; **sodium bicarbonate 1–2 mmol/kg** for acidosis; remove K⁺ from fluids; resonium 1 g/kg. Catheterise and measure urine output." },
+        { "prompt": "After rehydration he is perfused but passes only 20 mL in 6 hours. What is your fluid plan and what else must you do?", "answer": "Now **euvolaemic and oliguric** (likely ATN from shock/malaria): restrict to **insensible (~400 mL/m²/day; BSA ≈0.5 m² → ~200 mL/day) + urine output + losses**, adjusted by weight. Trial **furosemide 1–2 mg/kg IV** once. Stop nephrotoxins (no NSAIDs; avoid gentamicin). Adjust drug doses. Repeat K⁺ and creatinine 6–12-hourly. Nutrition with adequate calories, low K⁺." },
+        { "prompt": "When will you refer for dialysis?", "answer": "**AEIOU**: K⁺ ≥7 or rising despite treatment, refractory acidosis, pulmonary oedema/fluid overload >10%, uraemic encephalopathy or bleeding, **anuria >24 h** or rising creatinine. Refer early to **Mulago paediatric nephrology** for **peritoneal dialysis** before he deteriorates." },
+        { "prompt": "How do you present him?", "answer": "\"Kyomuhendo, 2 years, 11 kg (WHZ −1.1), immunised per UNEPI, breastfed plus family foods, HIV-unexposed, admitted with severe malaria and acute watery diarrhoea causing hypovolaemic shock and KDIGO stage 3 AKI with hyperkalaemia (K⁺ 6.6, ECG changes) and metabolic acidosis. Resuscitated with 20 mL/kg Ringer's, IV artesunate, and treated for hyperkalaemia. Now euvolaemic but oliguric; on restricted fluids with 6-hourly electrolytes; referral for PD if AEIOU criteria develop.\"" }
+      ],
+      "takeaway": "In Ugandan children, AKI usually starts as pre-renal (diarrhoea, malaria, sepsis). Restore perfusion fast, then restrict fluids once oliguric and euvolaemic, treat potassium aggressively, avoid nephrotoxins, and refer early for peritoneal dialysis."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023: sections 7.1.1 Acute Renal Failure, 7.1.4 Glomerulonephritis, 7.1.5 Nephrotic Syndrome", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "IPNA clinical practice recommendations for the diagnosis and management of children with steroid-sensitive nephrotic syndrome", "source": "Trautmann A, et al. Pediatr Nephrol 2023;38:877-919", "year": 2023, "url": "https://pubmed.ncbi.nlm.nih.gov/36269406/" },
+    { "title": "KDIGO 2025 Clinical Practice Guideline for the Management of Nephrotic Syndrome in Children", "source": "Kidney International 2025", "year": 2025, "url": "https://pubmed.ncbi.nlm.nih.gov/40254391/" },
+    { "title": "Acute kidney injury: prevention, detection and management (NG148)", "source": "NICE", "year": 2019, "url": "https://www.nice.org.uk/guidance/ng148/chapter/Recommendations" },
+    { "title": "Acute Poststreptococcal Glomerulonephritis Treatment & Management", "source": "Medscape (eMedicine)", "year": 2025, "url": "https://emedicine.medscape.com/article/980685-treatment" },
+    { "title": "Pediatric Nephrotic Syndrome Treatment & Management", "source": "Medscape (eMedicine)", "year": 2025, "url": "https://emedicine.medscape.com/article/982920-treatment" },
+    { "title": "Clinical Practice Guideline: Nephrotic syndrome", "source": "The Royal Children's Hospital Melbourne", "year": 2024, "url": "https://www.rch.org.au/clinicalguide/guideline_index/Nephrotic_syndrome/" },
+    { "title": "KDIGO Clinical Practice Guideline for Acute Kidney Injury", "source": "Kidney International Supplements 2012;2:1-138", "year": 2012, "url": "https://kdigo.org/guidelines/acute-kidney-injury/" }
+  ]
+}

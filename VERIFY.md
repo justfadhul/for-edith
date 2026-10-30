@@ -99,3 +99,11 @@ To update a topic, edit `content/topics/<slug>/notes.md` or `study.json`, then r
 - Bronchiolitis: UCG allows salbutamol trial, nebulised adrenaline and 150 mL/kg/day fluids (conflicts with NICE/WHO); notes advise supportive care. Croup fluid (half-strength Darrow's).
 - Otitis media amoxicillin (UCG 15 mg/kg 8-hourly vs WHO/IMCI 40 mg/kg 12-hourly); benzathine penicillin <30 kg (30,000 IU/kg vs 600,000 IU); diphtheria antitoxin doses and WHO 2024 macrolide preference; UCG erythromycin "50 mg/kg 6-hourly" read as a typo (12.5 mg/kg).
 - TB: use of the 4-month regimen in Uganda (and in SAM/advanced HIV); TPT for MDR-TB contacts (UCG none vs WHO 2024 levofloxacin); pyridoxine in infants; 3HP weight bands; Keith Edwards score items; WHO algorithm cut-off (>10); stool Xpert method. TB/HIV: UCG table still EFV/NVP; notes follow DTG twice daily with rifampicin. BCG timing for babies of mothers with infectious TB.
+
+## Paediatrics: blood, cancers, cardiac, renal
+
+- Sickle cell: hydroxyurea rule at Mulago (all SCA from 9 months vs UCG indications); malaria prevention (monthly SP vs DHA-piperaquine). TRACT 30 mL/kg transfusion and post-discharge malaria chemoprevention: adopted locally?
+- Malaria hyperparasitaemia transfusion threshold: UCG >20% vs WHO Pocket Book >10% (both given).
+- Nephrotic syndrome: local steroid regimen (6+6 weeks or UCG taper vs IPNA/KDIGO 4+4 weeks); local steroid-resistance rate (~20–40% quoted). Kidney failure fluids: UCG 10 mL/kg/day + losses vs ~400 mL/m²/day insensible.
+- Rheumatic fever: benzathine penicillin weight cut-off (UCG 30 kg vs AHA 27 kg); UCG prophylaxis durations as quoted; latent RHD prevalence (~1.5–3%); regional RHD clinics (Lira, Gulu, Mbarara) and regional cancer centres; WHF 2023 echo staging summarised only.
+- Mulago paediatric dialysis capacity; where prostaglandin E1 is available in Uganda.

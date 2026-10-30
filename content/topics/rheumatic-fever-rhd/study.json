@@ -1,0 +1,298 @@
+{
+  "slug": "rheumatic-fever-rhd",
+  "flashcards": [
+    { "id": "rhd-f01", "front": "What is acute rheumatic fever?", "back": "An **autoimmune** inflammatory illness about **2–4 weeks after group A streptococcal pharyngitis** (± skin infection), affecting joints, heart, brain, skin and subcutaneous tissue; mainly ages **5–15**." },
+    { "id": "rhd-f02", "front": "Jones major criteria (2015)?", "back": "**J♥NES**: Joints (arthritis), **Carditis** (clinical or subclinical), **Nodules** (subcutaneous), **Erythema marginatum**, **Sydenham chorea**." },
+    { "id": "rhd-f03", "front": "Minor criteria in moderate/high-risk populations (e.g. Uganda)?", "back": "**Monoarthralgia**, **fever ≥38.0 °C**, **ESR ≥30 mm/h and/or CRP ≥3.0 mg/dL (30 mg/L)**, **prolonged PR** (age-adjusted; not if carditis is a major criterion)." },
+    { "id": "rhd-f04", "front": "What joint findings count as MAJOR in high-risk populations?", "back": "**Monoarthritis or polyarthritis**, and/or **polyarthralgia** (if other causes excluded). In low-risk populations only polyarthritis counts." },
+    { "id": "rhd-f05", "front": "Diagnostic rule for initial vs recurrent ARF?", "back": "GAS evidence + **initial**: 2 major, or 1 major + 2 minor. **Recurrent**: 2 major, 1 major + 2 minor, or **3 minor**." },
+    { "id": "rhd-f06", "front": "Which manifestations diagnose ARF on their own?", "back": "**Sydenham chorea** and **indolent (insidious) carditis**: no other criteria or streptococcal evidence needed." },
+    { "id": "rhd-f07", "front": "Acceptable evidence of preceding GAS infection?", "back": "Raised or rising **ASO** or **anti-DNase B**, positive **throat culture**, positive **rapid GAS antigen test**, recent **scarlet fever**." },
+    { "id": "rhd-f08", "front": "Age-adjusted upper limit of the PR interval?", "back": "**3–12 y: 0.16 s; 12–16 y: 0.18 s; ≥17 y: 0.20 s.**" },
+    { "id": "rhd-f09", "front": "WHF Doppler criteria for pathological mitral regurgitation?", "back": "Seen in **2 views**, jet **≥2 cm** in at least one view, peak velocity **≥3 m/s**, **pansystolic** in at least one envelope." },
+    { "id": "rhd-f10", "front": "Mechanism of ARF?", "back": "**Molecular mimicry**: antibodies/T cells against streptococcal **M protein** and **N-acetylglucosamine** cross-react with **cardiac myosin, valve laminin, synovium and basal ganglia**." },
+    { "id": "rhd-f11", "front": "Which valves does RHD affect, in order?", "back": "**Mitral** (most; regurgitation in children, stenosis later) > **mitral + aortic** > aortic alone > tricuspid (rarely isolated) > pulmonary (almost never)." },
+    { "id": "rhd-f12", "front": "What is a Carey Coombs murmur?", "back": "A soft **apical mid-diastolic** murmur in **acute mitral valvulitis** (high flow over an inflamed valve), without an opening snap." },
+    { "id": "rhd-f13", "front": "Sydenham chorea: signs?", "back": "Involuntary jerky movements, **milkmaid's grip**, **darting tongue**, **pronator sign**, spooning of hands, hypotonia, **emotional lability**; absent in sleep. Appears 1–6 months after GAS infection." },
+    { "id": "rhd-f14", "front": "BPG dose for a child (UCG 2023)?", "back": "**0.6 MU (600,000 IU) if <30 kg; 1.2 MU if ≥30 kg**, deep IM. (AHA uses a 27 kg cut-off.)" },
+    { "id": "rhd-f15", "front": "How often is BPG given for secondary prophylaxis?", "back": "**Every 4 weeks** (UCG, WHO 2024, AHA); **every 3 weeks** if breakthrough ARF or very high risk (AHA)." },
+    { "id": "rhd-f16", "front": "Duration of prophylaxis (UCG 2023)?", "back": "No carditis: **5 years or until age 18–21**. Carditis, no residual disease: **10 years or until 25**. Residual valve disease: **until age 40–45 or for life**." },
+    { "id": "rhd-f17", "front": "Duration of prophylaxis (AHA/ACC 2020)?", "back": "No carditis: 5 y or age 21; carditis without residual disease: 10 y or age 21; carditis with residual disease: 10 y or age 40 — **whichever is longer**." },
+    { "id": "rhd-f18", "front": "What did the GOAL trial show?", "back": "In Ugandan children 5–17 years with **latent RHD**, BPG every 4 weeks for 2 years reduced echo progression from **8.2% to 0.8%** (NEJM 2022)." },
+    { "id": "rhd-f19", "front": "Aspirin dose in ARF arthritis (UCG 2023 and WHO Pocket Book)?", "back": "UCG: **80–100 mg/kg/day in 3 doses**. WHO: **20 mg/kg 6-hourly** for 1–2 weeks, then 15 mg/kg 6-hourly for 3–6 weeks. Max about 4 g/day; watch for tinnitus and hyperventilation." },
+    { "id": "rhd-f20", "front": "Alternative NSAID to aspirin in ARF and its dose?", "back": "**Naproxen 10–20 mg/kg/day in 2 divided doses (max 1 g/day)**; ibuprofen also used." },
+    { "id": "rhd-f21", "front": "Arthritis not improving within 72 hours of NSAIDs: what does it suggest?", "back": "Reconsider the diagnosis: septic arthritis, post-streptococcal reactive arthritis, JIA, SCD, leukaemia." },
+    { "id": "rhd-f22", "front": "Heart failure drugs in rheumatic carditis (with doses)?", "back": "**Furosemide 1 mg/kg** (then 2 mg/kg if no response; WHO), **spironolactone 1–3 mg/kg/day**, **enalapril** start 0.05–0.1 mg/kg/day titrating to ~0.5 mg/kg/day (max 20 mg), **digoxin** load 15 µg/kg then 5 µg/kg 12-hourly. Prednisolone 1–2 mg/kg/day for severe carditis (weak evidence)." },
+    { "id": "rhd-f23", "front": "WHO 2024 guideline: first-line drug for GAS pharyngitis and for RF/RHD prophylaxis?", "back": "**Penicillin** (IM or oral) for GAS pharyngitis; **IM BPG** for secondary prophylaxis, with **oral penicillin** as an acceptable alternative." },
+    { "id": "rhd-f24", "front": "WHO 2024 on echo screening?", "back": "In moderate/high RHD prevalence settings, **echo screening (standard or handheld) of children and adolescents 5–19 years** may be implemented (strong rec); **handheld echo** can diagnose RF carditis/RHD where standard echo is unavailable." },
+    { "id": "rhd-f25", "front": "Why give BPG lying down to a child with severe valve disease?", "back": "Painful injection can trigger a **vasovagal** reaction; in severe MS/AR or pulmonary hypertension this can cause collapse, often misread as anaphylaxis. Observe for 15–30 minutes." },
+    { "id": "rhd-f26", "front": "Infective endocarditis prophylaxis for dental procedures (AHA) — who and what?", "back": "Only highest-risk: **prosthetic valves/material, previous endocarditis**, certain CHD. **Amoxicillin 50 mg/kg (max 2 g)** 30–60 min before; clindamycin/azithromycin if on long-term penicillin or allergic. Dental hygiene for all." }
+  ],
+  "mcqs": [
+    {
+      "id": "rhd-q01",
+      "stem": "A 10-year-old boy (26 kg) from Gulu has a hot, swollen, very painful right knee for 5 days, fever 38.2 °C and CRP 64 mg/L. ASO is 600 IU/mL. Echo is normal. The knee aspirate is sterile with no organisms. Which statement BEST applies the 2015 Jones criteria?",
+      "options": [
+        "ARF cannot be diagnosed because polyarthritis is required",
+        "ARF cannot be diagnosed without carditis",
+        "He has post-streptococcal reactive arthritis by definition",
+        "He meets criteria for initial ARF: monoarthritis is a major criterion in high-risk populations, plus 2 minor (fever ≥38.0 °C and raised CRP), with GAS evidence",
+        "He needs 3 minor criteria because this is a first episode"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: Uganda is a moderate/high-risk setting, so **monoarthritis** counts as major; fever ≥38.0 °C and CRP ≥30 mg/L are minor; ASO provides GAS evidence: 1 major + 2 minor. A is wrong: polyarthritis is required only in low-risk populations. B is wrong: carditis is not mandatory. C is wrong: reactive arthritis is a diagnosis of exclusion and Jones criteria are met here. E is wrong: 3 minor criteria apply to recurrences, not initial episodes.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rhd-q02",
+      "stem": "A 12-year-old girl (34 kg) is diagnosed with initial ARF with polyarthritis and moderate mitral regurgitation on echo. What is the MOST important prescription to prevent future valve damage?",
+      "options": [
+        "Aspirin 100 mg/kg/day for 6 months",
+        "Benzathine penicillin G 1.2 MU IM now and every 4 weeks, for at least 10 years or until age 25 (UCG), lifelong if residual valve disease",
+        "Penicillin V 250 mg twice daily for 10 days only",
+        "Prednisolone 2 mg/kg/day for 3 months",
+        "Amoxicillin 50 mg/kg before dental procedures only"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: **secondary prophylaxis with BPG** every 4 weeks prevents recurrences that worsen RHD; at ≥30 kg the dose is 1.2 MU, and with carditis the duration is long (residual disease: until 40–45 or life). A is wrong: aspirin treats arthritis but does not prevent RHD, and 6 months is excessive. C is wrong: 10 days of penicillin only eradicates current GAS. D is wrong: steroids have weak evidence and no effect on recurrence. E is wrong: endocarditis prophylaxis does not prevent ARF recurrence.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rhd-q03",
+      "stem": "A 9-year-old girl is brought because her handwriting has deteriorated, she drops cups, and she cries easily. On exam she has jerky movements of the face and hands, milkmaid's grip and a positive pronator sign. ASO is normal; ESR is 18 mm/h. Echo shows mild pathological MR. What is the diagnosis?",
+      "options": [
+        "Normal behaviour for age",
+        "Tic disorder",
+        "Wilson disease",
+        "Not ARF, because ASO is normal",
+        "Acute rheumatic fever (Sydenham chorea, with subclinical carditis)"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: **Sydenham chorea is diagnostic of ARF on its own**, and appears 1–6 months after GAS when ASO may have normalised; the echo also shows subclinical carditis, which lengthens prophylaxis. A is wrong: these are neurological signs. B is wrong: tics are stereotyped and suppressible, without milkmaid's grip or hypotonia. C is wrong: Wilson disease is rare at this age and causes liver disease and Kayser–Fleischer rings. D is wrong: GAS evidence is not required for chorea.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rhd-q04",
+      "stem": "A 13-year-old boy (30 kg) with known RHD (severe MR and AR) presents with orthopnoea, RR 44, HR 136, gallop, liver 5 cm and bilateral basal crackles. SpO₂ 88%. BP 104/40. What is the MOST appropriate immediate management?",
+      "options": [
+        "Sit him up, give oxygen, IV furosemide 1 mg/kg (30 mg), restrict fluids and plan an ACE inhibitor once stable",
+        "Normal saline 20 mL/kg bolus for the low diastolic BP",
+        "IV propranolol for the tachycardia",
+        "Aspirin 100 mg/kg/day",
+        "Benzathine penicillin only and discharge"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: he has acute **heart failure** from regurgitant lesions; sit up, oxygen to SpO₂ >90%, IV furosemide (WHO 1 mg/kg, then 2 mg/kg if no response), restrict fluids, then afterload reduction with an ACE inhibitor for MR/AR. B is wrong: the low diastolic BP is from aortic regurgitation; fluid would worsen pulmonary oedema. C is wrong: the tachycardia is compensatory; IV beta-blockade can cause collapse. D is wrong: there is no evidence of active ARF arthritis here. E is wrong: BPG is essential but does not treat acute failure, and he needs admission.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rhd-q05",
+      "stem": "A 7-year-old (21 kg) with sore throat, fever 38.6 °C, tender anterior cervical nodes, tonsillar exudate and no cough presents to a HC III in Lira. No rapid strep test is available. According to WHO 2024, what is the BEST management?",
+      "options": [
+        "No antibiotics, because the cause cannot be confirmed",
+        "Ciprofloxacin for 5 days",
+        "Treat with penicillin: BPG 0.6 MU IM once (or amoxicillin 50 mg/kg once daily for 10 days)",
+        "Wait 2 weeks and treat only if joint pains develop",
+        "Azithromycin as first line for everyone"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: WHO 2024 recommends that in **moderate/high-risk settings without testing**, children with clinically suspected GAS pharyngitis receive antibiotics, with **penicillin (IM or oral) first line**; under 30 kg the BPG dose is 0.6 MU. A is wrong: that misses primary prevention. B is wrong: ciprofloxacin has poor GAS activity. D is wrong: treating after ARF starts does not prevent it. E is wrong: macrolides are for penicillin allergy; resistance is a concern.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rhd-q06",
+      "stem": "A 14-year-old girl on BPG for RHD has a documented history of an itchy rash (no swelling or breathing difficulty) after amoxicillin at age 5. She has no other allergy history. What does WHO 2024 suggest?",
+      "options": [
+        "Stop all prophylaxis",
+        "Consider an oral penicillin test dose before IM BPG, as there is no history of anaphylaxis, angioedema or SJS/TEN",
+        "Routine penicillin skin testing for every child on BPG",
+        "Switch to ciprofloxacin prophylaxis",
+        "Give BPG with prophylactic adrenaline every month"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: WHO 2024 conditionally recommends an **oral penicillin test dose** before BPG in patients with a history of **mild** penicillin allergy (no anaphylaxis, angioedema or SJS/TEN). A is wrong: stopping prophylaxis exposes her to recurrence. C is wrong: WHO advises against allergy testing in patients **without** an allergy history, and testing is not routine for all. D is wrong: ciprofloxacin is not an anti-streptococcal prophylactic. E is wrong: prophylactic adrenaline is not indicated.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "rhd-q07",
+      "stem": "A 15-year-old with severe rheumatic mitral stenosis and pulmonary hypertension becomes pale, sweaty and hypotensive with HR 48/min two minutes after a BPG injection. There is no rash, wheeze or stridor. What is the MOST likely explanation and action?",
+      "options": [
+        "Anaphylaxis; give adrenaline and never give penicillin again",
+        "Acute haemolytic reaction; send blood to the lab",
+        "Infective endocarditis; start antibiotics",
+        "Vasovagal reaction; lie flat with legs raised, monitor, and give subsequent injections lying down with a slower injection and pain relief",
+        "Pulmonary embolism; start heparin"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: **bradycardia with hypotension and pallor without rash, wheeze or stridor** after a painful injection is a **vasovagal** reaction, which can be dangerous in severe valve disease; manage supine with legs raised, and prevent next time (lying down, lidocaine diluent, slow injection). A is wrong: anaphylaxis typically causes tachycardia with skin or airway signs (though if in doubt, adrenaline is not withheld). B is wrong: no blood was transfused. C is wrong: endocarditis is subacute, not a 2-minute event. E is wrong: nothing suggests PE and heparin is not indicated.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "rhd-q08",
+      "stem": "An 11-year-old with ARF and polyarthritis is started on aspirin 25 mg/kg 6-hourly. On day 3 she has nausea, ringing in the ears and is breathing fast with a clear chest. What is the MOST likely cause?",
+      "options": [
+        "Salicylate toxicity",
+        "Worsening carditis",
+        "Reye syndrome",
+        "Aspiration pneumonia",
+        "Sydenham chorea"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: **tinnitus, nausea and hyperventilation** (respiratory stimulation) are classic **salicylate toxicity**; reduce or stop the dose, check a salicylate level if possible, or switch to naproxen. B is wrong: carditis would cause tachycardia, a gallop and crackles, not tinnitus. C is wrong: Reye syndrome causes encephalopathy and liver failure, usually after a viral illness. D is wrong: the chest is clear. E is wrong: chorea causes movements, not tinnitus or tachypnoea.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rhd-q09",
+      "stem": "School echo screening in Lira finds an asymptomatic 9-year-old (24 kg) with mild pathological mitral regurgitation meeting minimum criteria for RHD (latent RHD). No history of ARF. What is the MOST appropriate management?",
+      "options": [
+        "Reassure and discharge; no treatment for asymptomatic children",
+        "Start enalapril and furosemide",
+        "Refer for mitral valve replacement",
+        "Repeat ASO every month and treat only if it rises",
+        "Start BPG 0.6 MU IM every 4 weeks, enrol in the RHD clinic and repeat echo (e.g. at 2 years)"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: WHO 2024 (strong recommendation, based on **GOAL** in Ugandan children) advises **secondary prophylaxis for children with screen-detected RHD**, which reduced progression from 8.2% to 0.8%. A is wrong: untreated latent RHD can progress. B is wrong: she has no heart failure. C is wrong: mild MR does not need surgery. D is wrong: ASO monitoring does not prevent recurrence.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rhd-q10",
+      "stem": "A 12-year-old (32 kg) had ARF with carditis 2 years ago; echo now shows no residual valve disease. According to UCG 2023, how long should BPG prophylaxis continue?",
+      "options": [
+        "Until 5 years after the attack only",
+        "Until age 21 only",
+        "For 10 years or until age 25",
+        "For life regardless of findings",
+        "It can stop now since the echo is normal"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: UCG 2023 recommends **10 years or until age 25** for carditis without residual disease (AHA: 10 years or age 21, whichever is longer). A is wrong: 5 years is for ARF without carditis. B is wrong: age 21 alone applies to the no-carditis category (UCG 18–21). D is wrong: lifelong is for residual valve disease. E is wrong: stopping early risks recurrence.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rhd-q11",
+      "stem": "A 14-year-old with known RHD on monthly BPG has had fever for 3 weeks, weight loss, a new diastolic murmur, splinter haemorrhages, splenomegaly and microscopic haematuria. What is the MOST appropriate next step?",
+      "options": [
+        "Take three sets of blood cultures before starting antibiotics, and arrange echocardiography",
+        "Start aspirin for recurrent ARF",
+        "Give a single dose of BPG and send home",
+        "Start antimalarials and review in a week",
+        "Start prednisolone for carditis"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: fever, a new murmur, splinters, splenomegaly and haematuria in RHD suggest **infective endocarditis**; take **three blood cultures before antibiotics** and do echo, then give 4–6 weeks of IV antibiotics. B is wrong: ARF recurrence does not explain embolic phenomena. C is wrong: BPG prophylaxis does not treat endocarditis. D is wrong: a 3-week fever with these signs needs cultures; malaria testing can be added but is not the answer. E is wrong: steroids would worsen infection.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rhd-q12",
+      "stem": "A 10-year-old with ARF (polyarthritis, mild carditis) is on aspirin 80 mg/kg/day. After 72 hours there is no improvement in her joint pain or swelling. What is the BEST next step?",
+      "options": [
+        "Double the aspirin dose",
+        "Add prednisolone immediately",
+        "Continue the same dose for 2 more weeks before reassessing",
+        "Reconsider the diagnosis (e.g. septic arthritis, JIA, sickle cell disease, leukaemia, post-streptococcal reactive arthritis)",
+        "Stop BPG"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: ARF arthritis typically responds **dramatically within 24–72 hours** to salicylates or NSAIDs; failure to respond should prompt reconsidering the diagnosis. A is wrong: doubling risks salicylate toxicity. B is wrong: steroids do not fix a wrong diagnosis and may hide leukaemia. C is wrong: waiting delays an alternative diagnosis such as septic arthritis. E is wrong: BPG prophylaxis is unrelated to the joint response.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "rhd-q13",
+      "stem": "Which auscultatory finding is MOST typical of acute rheumatic carditis in a child?",
+      "options": [
+        "A continuous machinery murmur below the left clavicle",
+        "A fixed widely split second heart sound",
+        "An apical pansystolic murmur radiating to the axilla",
+        "An ejection systolic murmur at the upper left sternal edge with an ejection click",
+        "A venous hum that disappears lying flat"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: **mitral regurgitation** (apical pansystolic murmur radiating to the axilla) is the commonest finding in acute rheumatic carditis. A is wrong: that is a patent ductus arteriosus. B is wrong: a fixed split S2 suggests an atrial septal defect. D is wrong: that suggests pulmonary valve stenosis. E is wrong: a venous hum is an innocent murmur.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rhd-q14",
+      "stem": "A 16-year-old girl with RHD and a mechanical mitral valve on warfarin asks about contraception and future pregnancy. Which advice is MOST appropriate?",
+      "options": [
+        "She can stop warfarin when she becomes pregnant",
+        "Pregnancy is low risk with a mechanical valve",
+        "Oestrogen-containing pills are the best choice",
+        "Warfarin is safe throughout pregnancy",
+        "Use effective contraception (e.g. a copper IUD, implant or progestogen-only method), plan any pregnancy with the cardiologist and obstetrician, because warfarin is teratogenic in early pregnancy and mechanical valves carry high thrombosis risk"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: mechanical valves need anticoagulation throughout pregnancy and pregnancy is high risk; **warfarin is teratogenic** (especially weeks 6–12), so pregnancy must be planned with specialists, and reliable non-oestrogen contraception is preferred. A is wrong: stopping anticoagulation risks valve thrombosis. B is wrong: risk is high. C is wrong: oestrogen increases thrombosis risk. D is wrong: warfarin embryopathy occurs in the first trimester.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "rhd-q15",
+      "stem": "Which statement about the 2015 revised Jones criteria is CORRECT?",
+      "options": [
+        "Subclinical carditis on echo does not count as a criterion",
+        "In moderate/high-risk populations, an ESR ≥30 mm/h counts as a minor criterion",
+        "A prolonged PR interval counts as a minor criterion even when carditis is a major criterion",
+        "Evidence of GAS infection is required for chorea",
+        "Fever must be ≥39 °C to count as a minor criterion"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: high-risk thresholds are **ESR ≥30 mm/h and/or CRP ≥3.0 mg/dL**, with fever ≥38.0 °C. A is wrong: subclinical (echo-detected) carditis counts as major since 2015. C is wrong: PR prolongation cannot be counted when carditis is already a major criterion. D is wrong: chorea alone is enough. E is wrong: the fever threshold is ≥38.0 °C (high risk) or ≥38.5 °C (low risk).",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "rhd-c01",
+      "title": "The boarding-school girl with jumping joints",
+      "presentation": "Atim, 12 years, a boarder at a primary school in Lira, is brought to the regional referral hospital with 10 days of painful joints and fever. She was treated at the school sick bay with paracetamol.",
+      "steps": [
+        { "prompt": "What history will help you most?", "answer": "**Pattern of joint involvement** (migratory, large joints, very painful), **sore throat 2–4 weeks ago**, skin sores, fever, chest pain/breathlessness/orthopnoea, abnormal movements or emotional change, rash/lumps, previous ARF or injections, **penicillin allergy**, family history, crowding, nutrition, immunisation, HIV status, menarche." },
+        { "prompt": "History: right knee then left ankle then right wrist, sore throat 3 weeks ago untreated; mild exertional breathlessness. Exam: 31 kg, T 38.4 °C, HR 120 (and 112 asleep), swollen tender left ankle, apical 3/6 pansystolic murmur to the axilla, no gallop, liver not enlarged. What criteria does she meet?", "answer": "**Major**: polyarthritis (migratory) and **carditis** (MR murmur, tachycardia out of proportion). **Minor**: fever ≥38.0 °C, plus ESR/CRP once available. With GAS evidence (ASO), this is **initial ARF with carditis**." },
+        { "prompt": "What investigations do you request and what do you expect?", "answer": "**ESR/CRP** (raised), **ASO** ± anti-DNase B (raised), **throat swab** (may be negative), **FBC**, **ECG** (PR may be long, but it cannot count as minor because carditis is major), **CXR** (heart size, congestion), **echo** (pathological MR per WHF criteria; check for MS, AR, effusion, LV function)." },
+        { "prompt": "ESR 92, ASO 720, echo moderate MR with thickened leaflet tips, LV mildly dilated, good function. Write her management.", "answer": "Admit; rest while active then mobilise. **BPG 1.2 MU deep IM today** (≥30 kg) to eradicate GAS and start prophylaxis. **Aspirin 80–100 mg/kg/day in 3–4 doses** (≈2.5–3 g/day; max ~4 g) or **naproxen 10–20 mg/kg/day in 2 doses (max 1 g)** until joints settle and CRP falls, then taper. Monitor for heart failure (weight, RR, HR, liver). Consider enalapril if LV dilatation progresses. Register in the RHD clinic." },
+        { "prompt": "How long will she need BPG and what will you tell her family?", "answer": "**Every 4 weeks** for at least **10 years or until age 25** (UCG), and **until 40–45 or for life** if valve disease persists on follow-up echo. Explain that injections stop further attacks that damage the heart; missing them is dangerous; pain can be reduced; she must come early for breathlessness or swelling; good dental care; future pregnancies must be planned with a doctor." },
+        { "prompt": "What would make you suspect an alternative diagnosis during follow-up?", "answer": "**No response of arthritis within 72 hours** of salicylates/NSAIDs (septic arthritis, JIA, SCD, leukaemia), persistent fever with new murmur and embolic signs (**endocarditis**), cytopenias or organomegaly (leukaemia)." }
+      ],
+      "takeaway": "Migratory polyarthritis with a new MR murmur after a sore throat is ARF with carditis. Apply high-risk Jones criteria, give BPG on day one, treat inflammation, echo everyone, and commit the family to years of 4-weekly injections."
+    },
+    {
+      "id": "rhd-c02",
+      "title": "Breathless at 13: established RHD in heart failure",
+      "presentation": "Okot, a 13-year-old boy (29 kg), is carried into the paediatric ward at night unable to lie flat. He was diagnosed with 'heart disease' 2 years ago and was supposed to get monthly injections but stopped after 4 because the health centre ran out.",
+      "steps": [
+        { "prompt": "What are your first actions?", "answer": "**Sit him up**, **oxygen** to SpO₂ >90%, IV access, vitals (HR, rhythm, BP, RR, SpO₂, temperature), **HemoCue Hb**, glucose. Look for **gallop, crackles, liver size, JVP, oedema**. Avoid IV fluid boluses." },
+        { "prompt": "Findings: RR 48, SpO₂ 87%, HR 140 irregularly irregular, BP 96/58, gallop, liver 6 cm, bilateral crackles, apical PSM + mid-diastolic rumble with loud S1. Hb 10.5 g/dL, T 37.4 °C. What is going on?", "answer": "**Acute decompensated heart failure** from **chronic RHD with mixed mitral valve disease (MR + MS)**, precipitated by **new atrial fibrillation** and possibly **ARF recurrence** (prophylaxis stopped). Also consider endocarditis and infection." },
+        { "prompt": "Write the immediate treatment.", "answer": "**Oxygen**, sit up. **Furosemide 1 mg/kg IV (≈30 mg)**; if no diuresis in 2 h, **2 mg/kg**. **Rate control for AF**: **digoxin** oral load 15 µg/kg (WHO; ≈435 µg, often split into two doses 6 h apart) then 5 µg/kg 12-hourly (max 250 µg/dose), or a beta-blocker when not in acute failure. Check K⁺ (avoid hypokalaemia with digoxin). Fluid and salt restriction. ECG, CXR, ESR/CRP, ASO, blood cultures if febrile. **Anticoagulation** for AF with MS (heparin then warfarin) after specialist discussion." },
+        { "prompt": "Investigations show ESR 70, ASO 560, CRP 48. Echo: moderate MS (mitral valve area reduced), moderate MR, left atrium dilated, pulmonary artery pressure raised. How does this change your plan?", "answer": "Likely **recurrent ARF** on chronic RHD. Restart **BPG every 4 weeks** (at 29 kg: **0.6 MU** by the UCG 30 kg cut-off; AHA would give 1.2 MU above 27 kg; follow your clinic protocol and re-weigh when euvolaemic), treat inflammation (aspirin or naproxen) if arthritis/active carditis, continue diuretics and rate control. Refer to the **Uganda Heart Institute** for assessment for **balloon mitral valvotomy or surgery**." },
+        { "prompt": "Why should you be cautious with ACE inhibitors here?", "answer": "In **stenosis-dominant** disease, cardiac output depends on filling across a narrowed valve; vasodilators can drop BP without relieving the obstruction. ACE inhibitors are most useful for **regurgitant** lesions. Rate control (longer diastole) and diuretics help MS; definitive treatment is mechanical." },
+        { "prompt": "How will you prevent this happening again?", "answer": "Register in an **RHD clinic**, provide a **BPG card** and schedule close to home, use pain-reduction methods, contact the community health worker for **tracing defaulters**, educate the family and school, report **BPG stock-outs** and arrange alternative supply (oral penicillin V 250 mg twice daily as a fallback), and plan follow-up echo and anticoagulation monitoring." }
+      ],
+      "takeaway": "Stopping prophylaxis leads to recurrence and decompensation. Treat failure and AF, restart BPG, refer stenosis for mechanical relief, and build adherence support around the family."
+    },
+    {
+      "id": "rhd-c03",
+      "title": "The clumsy girl",
+      "presentation": "Nansubuga, a 9-year-old girl (23 kg) from Mukono, is brought because her teacher reports she has become 'restless and careless', cannot write neatly, and laughs and cries easily. Her mother noticed she drops cups.",
+      "steps": [
+        { "prompt": "What examination findings will you look for?", "answer": "**Chorea**: involuntary purposeless movements of face and limbs, **milkmaid's grip**, **darting tongue**, **pronator sign**, **spooning**, hypotonia, difficulty with a spiral drawing; check the movements disappear in sleep. Full **cardiovascular exam** (murmurs, tachycardia), joints, skin (nodules, erythema marginatum), growth, BP." },
+        { "prompt": "She has milkmaid's grip and a positive pronator sign. Heart sounds normal, no murmur. ESR 20, ASO 150 IU/mL (normal). Can you diagnose ARF?", "answer": "**Yes**: **Sydenham chorea alone** diagnoses ARF, without other criteria or GAS evidence, because chorea appears 1–6 months after infection when ASO and inflammatory markers may have normalised. Exclude other causes (drugs, SLE, Wilson, hyperthyroidism) clinically." },
+        { "prompt": "What investigation is still essential?", "answer": "**Echocardiography**: subclinical carditis is common with chorea and determines the **duration of prophylaxis**. (Hers shows mild pathological MR: subclinical carditis.)" },
+        { "prompt": "Write her treatment.", "answer": "**BPG 0.6 MU IM** (<30 kg) now and **every 4 weeks**. **Chorea**: calm environment, explain to school; if disabling, **sodium valproate 10–20 mg/kg/day** in 2–3 doses (≈115–230 mg 12-hourly) or carbamazepine 7–20 mg/kg/day. No aspirin needed (no arthritis). Prophylaxis duration: carditis present → at least **10 years or until 25** (UCG), longer if residual disease on follow-up echo." },
+        { "prompt": "How long will the chorea last and what should you tell the teacher?", "answer": "Usually **weeks to months** (typically resolves within 6 months, sometimes recurs). Explain it is a **medical illness, not misbehaviour**; allow extra time for written work, avoid punishment, and reduce stress." },
+        { "prompt": "Present her on the ward round in one paragraph.", "answer": "\"Nansubuga, 9 years, 23 kg (WAZ −0.8), immunised per UNEPI, HIV-negative, presents with 6 weeks of involuntary movements, clumsiness and emotional lability; exam shows Sydenham chorea with no murmur; ASO and ESR normal; echo shows mild pathological MR (subclinical carditis). Diagnosis: ARF (Sydenham chorea) with subclinical carditis. Plan: BPG 0.6 MU 4-weekly for at least 10 years or until 25, valproate for disabling chorea, school liaison, repeat echo in 1 year.\"" }
+      ],
+      "takeaway": "Chorea is enough to diagnose ARF even with normal ASO. Always echo, because subclinical carditis decides how long BPG must continue."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023: sections 4.1.3 Heart Failure, 4.1.9 Rheumatic Fever, 4.1.10 Rheumatic Heart Disease", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "WHO guideline on the prevention and diagnosis of rheumatic fever and rheumatic heart disease", "source": "World Health Organization", "year": 2024, "url": "https://www.who.int/publications/i/item/9789240100077" },
+    { "title": "Revision of the Jones Criteria for the diagnosis of acute rheumatic fever in the era of Doppler echocardiography: a scientific statement from the American Heart Association", "source": "Gewitz MH, et al. Circulation 2015;131:1806-18", "year": 2015, "url": "https://pubmed.ncbi.nlm.nih.gov/25908771/" },
+    { "title": "Secondary Antibiotic Prophylaxis for Latent Rheumatic Heart Disease (GOAL trial)", "source": "Beaton A, et al. N Engl J Med 2022;386:230-240", "year": 2022, "url": "https://pubmed.ncbi.nlm.nih.gov/34767321/" },
+    { "title": "2023 World Heart Federation guidelines for the echocardiographic diagnosis of rheumatic heart disease", "source": "Nature Reviews Cardiology 2024", "year": 2024, "url": "https://pubmed.ncbi.nlm.nih.gov/37914787/" },
+    { "title": "Pocket book of hospital care for children, 2nd edition (sections 4.8 Heart failure, 4.9 Rheumatic heart disease, 6.11 Rheumatic fever)", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "Acute Rheumatic Fever Treatment & Management", "source": "Medscape (eMedicine)", "year": 2025, "url": "https://emedicine.medscape.com/article/333103-treatment" },
+    { "title": "Clinical Guidance for Acute Rheumatic Fever", "source": "Centers for Disease Control and Prevention", "year": 2025, "url": "https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/acute-rheumatic-fever.html" },
+    { "title": "Rheumatic heart disease: fact sheet", "source": "World Health Organization", "year": 2025, "url": "https://www.who.int/news-room/fact-sheets/detail/rheumatic-heart-disease" }
+  ]
+}

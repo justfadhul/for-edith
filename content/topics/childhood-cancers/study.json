@@ -1,0 +1,297 @@
+{
+  "slug": "childhood-cancers",
+  "flashcards": [
+    { "id": "ccx-f01", "front": "Why do far fewer children with cancer survive in LMICs than in high-income countries?", "back": "**Late diagnosis/misdiagnosis**, inaccessible therapy, **abandonment of treatment**, death from toxicity (infection, TLS, malnutrition) and relapse. Survival is >80% in HICs vs <30% in many LMICs (WHO)." },
+    { "id": "ccx-f02", "front": "WHO GICC (CureAll) target and its six index cancers?", "back": "**≥60% survival by 2030**. Index cancers: **ALL, Burkitt lymphoma, Hodgkin lymphoma, retinoblastoma, Wilms tumour, low-grade glioma**." },
+    { "id": "ccx-f03", "front": "Burkitt lymphoma: genetics and doubling time?", "back": "**MYC** translocation, usually **t(8;14)** (also t(2;8), t(8;22)). Growth fraction ~100%, **doubling time ~25 hours**." },
+    { "id": "ccx-f04", "front": "Three clinical variants of Burkitt lymphoma?", "back": "**Endemic** (equatorial Africa; EBV ~100%; jaw, orbit, abdomen, kidneys, ovaries), **sporadic** (Western; abdominal/ileocaecal), **immunodeficiency-associated** (HIV, transplant)." },
+    { "id": "ccx-f05", "front": "Classic histology of Burkitt lymphoma?", "back": "**Starry-sky** pattern (sheets of monotonous B cells with tingible-body macrophages), **Ki-67 ~100%**, CD20+, CD10+, BCL2−." },
+    { "id": "ccx-f06", "front": "Murphy (St Jude) staging of Burkitt lymphoma in one line each?", "back": "**I**: single extranodal/nodal site (not chest/abdomen). **II**: regional nodes or ≥2 sites same side of diaphragm, resectable GI. **III**: both sides of diaphragm, intrathoracic, extensive abdominal, paraspinal/epidural. **IV**: **CNS or bone marrow**." },
+    { "id": "ccx-f07", "front": "What chemotherapy is used for Burkitt lymphoma in East Africa, and what did the 2025 rituximab study show?", "back": "Cyclophosphamide-based **COM** (cyclophosphamide, vincristine, methotrexate) + intrathecal therapy. Adding **rituximab (R-COM)** raised 12-month EFS from **43% to 67%** and reduced deaths (*Blood Advances* 2025)." },
+    { "id": "ccx-f08", "front": "Cairo–Bishop laboratory TLS criteria (children)?", "back": "≥2 of: **uric acid ≥476 µmol/L**, **K⁺ ≥6.0 mmol/L**, **phosphate ≥2.1 mmol/L**, **Ca²⁺ ≤1.75 mmol/L** (or 25% change from baseline), from 3 days before to 7 days after treatment." },
+    { "id": "ccx-f09", "front": "Clinical TLS = laboratory TLS plus what?", "back": "Any of: **creatinine ≥1.5 × ULN**, **cardiac arrhythmia/sudden death**, or **seizure**." },
+    { "id": "ccx-f10", "front": "TLS prevention: fluids and urine output target?", "back": "**2–3 L/m²/day** isotonic fluid **without potassium** (not Ringer's), starting 24–48 h before chemo; target urine output **80–100 mL/m²/h**." },
+    { "id": "ccx-f11", "front": "Allopurinol dose for TLS prevention in children?", "back": "**10 mg/kg/day in 3 divided doses** (or 100 mg/m² 8-hourly), **max 800 mg/day**, starting 24–48 h before chemotherapy." },
+    { "id": "ccx-f12", "front": "Rasburicase: dose and key contraindication?", "back": "**0.2 mg/kg IV once daily** (up to 5 days). **Contraindicated in G6PD deficiency** (haemolysis, methaemoglobinaemia)." },
+    { "id": "ccx-f13", "front": "Why is urinary alkalinisation no longer recommended in TLS?", "back": "It promotes **calcium phosphate** (and xanthine) precipitation in the kidney; hyperhydration with allopurinol/rasburicase is preferred." },
+    { "id": "ccx-f14", "front": "Define febrile neutropenia.", "back": "**ANC <0.5 × 10⁹/L** (or expected to fall below) with temperature **≥38.3 °C once** or **≥38.0 °C sustained over 1 hour**. Give IV broad-spectrum antibiotics **within 60 minutes**." },
+    { "id": "ccx-f15", "front": "Wilms tumour: typical presentation?", "back": "Well child aged **2–5 years** with a **smooth, firm flank mass that does not cross the midline**; haematuria and hypertension in ~25%." },
+    { "id": "ccx-f16", "front": "Syndromes associated with Wilms tumour?", "back": "**WAGR** (WT1 deletion 11p13), **Denys–Drash**, **Beckwith–Wiedemann**, isolated **hemihypertrophy**, aniridia." },
+    { "id": "ccx-f17", "front": "SIOP vs COG approach to Wilms tumour?", "back": "**SIOP** (used in Africa/Europe): **pre-operative chemotherapy** (vincristine + actinomycin-D) **without biopsy** for typical cases, then nephrectomy. **COG** (North America): **upfront nephrectomy**." },
+    { "id": "ccx-f18", "front": "Neuroblastoma: clinical clues?", "back": "Age <5 (median ~18 months), **irregular hard mass crossing the midline**, sick child, **periorbital bruising (raccoon eyes)**, proptosis, bone pain, Horner syndrome, opsoclonus–myoclonus, hypertension, blueberry-muffin skin. **Raised urinary VMA/HVA**, calcification on imaging." },
+    { "id": "ccx-f19", "front": "Retinoblastoma: gene, presentation and UCG action?", "back": "**RB1 on 13q14** (two-hit). **Leukocoria**, squint, red eye, proptosis (late). Bilateral = heritable. UCG 2023: **refer urgently within 72 hours** to an ophthalmologist; midwives check eyes at birth." },
+    { "id": "ccx-f20", "front": "Most common childhood leukaemia and its peak age?", "back": "**ALL** (~75–80% of childhood leukaemia), peak **2–5 years**. Down syndrome increases risk 10–20×." },
+    { "id": "ccx-f21", "front": "Why avoid steroids before diagnosing lymphoma/leukaemia?", "back": "They cause partial remission that **masks the diagnosis** (histology/immunophenotype) and can **precipitate TLS**." },
+    { "id": "ccx-f22", "front": "Paediatric Kaposi sarcoma in Uganda: features and treatment?", "back": "HHV-8, usually with HIV. Children often have **lymphadenopathic disease, woody oedema, palatal lesions**, cytopenias, more than classic skin plaques. **ART + chemotherapy** (e.g. bleomycin/vincristine, paclitaxel) at UCI." },
+    { "id": "ccx-f23", "front": "SILUAN early warning signs of childhood cancer?", "back": "**S**eek help early; **I**nsight (white eye, squint, proptosis); **L**ump; **U**nexplained fever, weight loss, pallor, bruising; **A**ching bones/joints/back; **N**eurological signs (gait, balance, speech, headache, enlarging head)." },
+    { "id": "ccx-f24", "front": "Emergency treatment of hyperkalaemia in TLS (first three steps)?", "back": "1) **Calcium gluconate 10% 0.5 mL/kg IV over 5–10 min (max 20 mL)** if ECG changes; 2) **salbutamol neb 2.5 mg (<25 kg) / 5 mg**; 3) **insulin 0.1 U/kg + glucose 0.5 g/kg**. Stop K⁺; resonium; dialysis if refractory." },
+    { "id": "ccx-f25", "front": "Which drug must never be given intrathecally?", "back": "**Vincristine** (fatal ascending neurotoxicity). IV only, ideally in a minibag, separated from intrathecal drugs." },
+    { "id": "ccx-f26", "front": "Oral morphine starting dose for cancer pain in a child aged 1–12 years?", "back": "**0.2–0.4 mg/kg every 4 hours**, titrated (no ceiling), with a laxative. Avoid codeine and tramadol under 12 years." },
+    { "id": "ccx-f27", "front": "Who was Denis Burkitt and why does Uganda matter in this story?", "back": "An Irish surgeon at **Mulago, Kampala**, who in 1958 described fast-growing jaw tumours in children across the malaria belt; Epstein later found **EBV** in his samples, the first virus linked to a human cancer." }
+  ],
+  "mcqs": [
+    {
+      "id": "ccx-q01",
+      "stem": "A 6-year-old boy (18 kg) from Gulu has a 3-week history of a rapidly enlarging, painless right maxillary swelling. A dental extraction at a clinic did not help and two more molars are loose. He is afebrile and otherwise well. What is the MOST appropriate next step?",
+      "options": [
+        "Extract the remaining loose teeth and give amoxicillin",
+        "Arrange FNA/biopsy of the mass, check FBC, LDH, uric acid and HIV, and refer urgently to the cancer centre",
+        "Start prednisolone 2 mg/kg to shrink the swelling before referral",
+        "Treat as a dental abscess with 2 weeks of metronidazole and review",
+        "Start anti-TB treatment because jaw TB is common"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: a rapidly growing jaw mass with loose teeth in a 6-year-old in the malaria belt is **endemic Burkitt lymphoma** until proven otherwise; get tissue, TLS bloods and HIV status, and refer urgently. A is wrong: extractions do not help (UCG) and delay diagnosis. C is wrong: steroids before diagnosis obscure histology and can trigger tumour lysis. D is wrong: an afebrile, painless, rapidly enlarging mass is not an abscess. E is wrong: empirical TB treatment without tissue diagnosis delays cancer care.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ccx-q02",
+      "stem": "A 3-year-old girl (13 kg) is noticed by her mother to have a swelling in the left side of her abdomen while bathing. She is playful and eating well. There is a smooth, firm, 9 × 7 cm left flank mass that is ballotable and does not cross the midline. BP is 124/80 mmHg. Urine dipstick shows blood 2+. What is the MOST likely diagnosis?",
+      "options": [
+        "Neuroblastoma",
+        "Splenomegaly from malaria",
+        "Abdominal Burkitt lymphoma",
+        "Wilms tumour (nephroblastoma)",
+        "Hydronephrosis from pelviureteric junction obstruction"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: a **well** pre-school child with a **smooth, ballotable flank mass not crossing the midline**, hypertension and haematuria is the classic Wilms picture. A is wrong: neuroblastoma usually affects a sick child with an irregular mass that crosses the midline. B is wrong: the spleen has a notch, moves down with respiration and is not ballotable. C is wrong: abdominal Burkitt is usually multifocal with ascites in an older child and grows over days. E is wrong: hydronephrosis can be ballotable but does not usually cause hypertension with haematuria, and ultrasound would show a dilated pelvis rather than a solid mass.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ccx-q03",
+      "stem": "A 7-year-old boy (20 kg, BSA 0.8 m²) with biopsy-proven stage III Burkitt lymphoma is due to start chemotherapy tomorrow. LDH 2,100 U/L, uric acid 510 µmol/L, K⁺ 4.4 mmol/L, creatinine 55 µmol/L. G6PD status unknown and rasburicase is unavailable. Which plan is BEST?",
+      "options": [
+        "IV 0.9% saline without potassium at about 2–3 L/m²/day (≈2 L/day), allopurinol 10 mg/kg/day in 3 doses (≈70 mg 8-hourly), strict input/output and electrolytes every 6–12 h",
+        "Ringer's lactate at maintenance rate and start chemotherapy today",
+        "Sodium bicarbonate infusion to alkalinise the urine to pH >7.5",
+        "Furosemide 2 mg/kg twice daily to keep urine flowing, with fluid restriction",
+        "Give rasburicase from a private pharmacy without checking G6PD"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: he is high risk for TLS (bulky Burkitt, high LDH and uric acid), so he needs **hyperhydration 2–3 L/m²/day without potassium**, allopurinol 10 mg/kg/day divided 8-hourly, and close monitoring before chemotherapy. B is wrong: Ringer's contains potassium and maintenance volume is too little. C is wrong: urinary alkalinisation is no longer recommended (calcium phosphate precipitation). D is wrong: fluid restriction plus diuretic causes dehydration and worsens crystal nephropathy. E is wrong: rasburicase is contraindicated in G6PD deficiency, which is common in Uganda, so it must be checked first.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ccx-q04",
+      "stem": "A 5-year-old girl (16 kg) receiving induction chemotherapy for ALL at UCI develops a temperature of 38.6 °C. She is alert, HR 128, CRT 2 s. Her last ANC (2 days ago) was 0.3 × 10⁹/L. What should happen NEXT?",
+      "options": [
+        "Give paracetamol and repeat the temperature in 4 hours",
+        "Wait for today's FBC before deciding about antibiotics",
+        "Give oral amoxicillin–clavulanate and observe",
+        "Do a malaria RDT and treat only if positive",
+        "Take blood cultures and give broad-spectrum IV antibiotics within 60 minutes (e.g. ceftriaxone + gentamicin or ceftazidime per protocol)"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: this is **febrile neutropenia**, which can progress to septic shock within hours; give IV broad-spectrum antibiotics within 60 minutes after cultures. A is wrong: antipyretics alone delay treatment. B is wrong: assume neutropenia; do not wait for the count. C is wrong: oral antibiotics are not adequate initial therapy for a neutropenic child on induction chemotherapy. D is wrong: test for malaria, but a negative or positive RDT does not remove the need for antibacterial cover.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ccx-q05",
+      "stem": "A 2-year-old boy is brought to a HC IV because his mother noticed his left eye 'shines white like a cat's eye' in photographs for 2 months. He has a slight inward squint. The eye is not red. What is the MOST appropriate action?",
+      "options": [
+        "Prescribe chloramphenicol eye ointment and review in 2 weeks",
+        "Reassure: this is a normal reflection in photographs",
+        "Refer urgently to an ophthalmologist (within 72 hours) for suspected retinoblastoma",
+        "Patch the right eye for amblyopia and review in 3 months",
+        "Arrange a fine-needle aspirate of the eye at the regional hospital"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: **leukocoria with a squint** in a toddler is retinoblastoma until proven otherwise; UCG 2023 says refer within 72 hours. A is wrong: this is not conjunctivitis. B is wrong: a persistent white reflex is never normal. D is wrong: patching treats amblyopia but misses a life-threatening tumour. E is wrong: biopsy or FNA of a retinoblastoma risks spreading tumour outside the eye.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ccx-q06",
+      "stem": "An 18-month-old girl (8.5 kg) is irritable, has had fever and weight loss, and has bruising around both eyes without trauma. There is a hard, irregular abdominal mass crossing the midline. BP 118/76. Ultrasound shows a suprarenal mass with calcification. Which test BEST supports the diagnosis?",
+      "options": [
+        "Urinary catecholamine metabolites (VMA and HVA)",
+        "Serum alpha-fetoprotein",
+        "Malaria blood film",
+        "Hb electrophoresis",
+        "Anti-streptolysin O titre"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: a sick infant with periorbital bruising (raccoon eyes, orbital metastases) and a calcified adrenal mass crossing the midline suggests **neuroblastoma**; urinary VMA/HVA are raised in over 90%. B is wrong: AFP supports hepatoblastoma or germ cell tumours. C is wrong: malaria does not cause a calcified suprarenal mass. D is wrong: electrophoresis diagnoses haemoglobinopathies. E is wrong: ASOT supports post-streptococcal disease, not a tumour.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ccx-q07",
+      "stem": "A 4-year-old boy (15 kg) has had 3 weeks of fever, pallor, bone pain and a limp. He has petechiae, cervical lymphadenopathy and the spleen is 4 cm below the costal margin. RDT negative. Hb 6.1 g/dL, WBC 48 × 10⁹/L, platelets 22 × 10⁹/L. A clinician suggests starting prednisolone because 'it might be rheumatic fever'. What is the BEST response?",
+      "options": [
+        "Agree and start prednisolone 2 mg/kg",
+        "Start artemether–lumefantrine because RDTs miss malaria",
+        "Avoid steroids; request a peripheral film for blasts, start TLS precautions, treat infection if febrile, and refer urgently for bone marrow and flow cytometry",
+        "Transfuse whole blood 30 mL/kg rapidly",
+        "Give aspirin 100 mg/kg/day for possible rheumatic fever"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: pancytopenia (low Hb and platelets) with high WBC, organomegaly, nodes and bone pain is **acute leukaemia** until proven otherwise. Steroids before diagnosis mask it and can trigger TLS, so get a film, start precautions and refer. A is wrong for those reasons. B is wrong: the RDT is negative and this picture is not malaria. D is wrong: rapid large-volume blood risks overload and hyperviscosity if the WBC is high; give packed cells cautiously if needed. E is wrong: aspirin is dangerous with platelets of 22 and rheumatic fever does not explain cytopenias and organomegaly.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ccx-q08",
+      "stem": "Twenty-four hours after starting chemotherapy for Burkitt lymphoma, a 9-year-old (25 kg) has K⁺ 6.8 mmol/L with peaked T waves, phosphate 2.9 mmol/L, Ca²⁺ 1.6 mmol/L and urine output 0.4 mL/kg/h. What is the FIRST drug to give?",
+      "options": [
+        "Furosemide 1 mg/kg IV",
+        "Sodium bicarbonate 2 mmol/kg IV",
+        "Oral calcium resonium 1 g/kg",
+        "Allopurinol 10 mg/kg",
+        "Calcium gluconate 10% 0.5 mL/kg IV over 5–10 minutes with ECG monitoring"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: hyperkalaemia with **ECG changes** needs **IV calcium first** to stabilise the myocardium (12.5 mL here, within the 20 mL max), then salbutamol and insulin–glucose to shift potassium, and urgent dialysis planning for oliguric TLS. A is wrong: furosemide does not act fast enough and he is oliguric. B is wrong: bicarbonate is not first line and may worsen hypocalcaemia and calcium phosphate deposition. C is wrong: resins take hours. D is wrong: allopurinol prevents uric acid formation but does nothing for potassium.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "ccx-q09",
+      "stem": "A 6-year-old HIV-positive girl on ART for 3 months has firm, matted, 'woody' bilateral cervical and inguinal lymph nodes, swollen legs and a purple lesion on the hard palate. Hb 7.9, platelets 85 × 10⁹/L. GeneXpert on sputum is negative. What is the MOST likely diagnosis?",
+      "options": [
+        "Tuberculous lymphadenitis",
+        "Kaposi sarcoma",
+        "Hodgkin lymphoma",
+        "Reactive HIV lymphadenopathy",
+        "Filarial lymphoedema"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: in Ugandan children with HIV, **Kaposi sarcoma** often presents with **lymphadenopathic disease, woody oedema, palatal purple lesions and cytopenias**; confirm by biopsy. A is wrong: TB nodes are usually caseating and may discharge, and they do not explain the palatal lesion. C is wrong: Hodgkin nodes are rubbery and usually cervical in an older child, without palatal lesions. D is wrong: reactive nodes are small and soft. E is wrong: filariasis causes lymphoedema but not palatal purple lesions or cytopenias.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ccx-q10",
+      "stem": "A 3-year-old with a suspected Wilms tumour is at a regional referral hospital. Ultrasound shows a 10 cm solid left renal mass and a normal right kidney. The surgeon offers to remove it today because 'the cancer centre is far'. What is the MOST appropriate advice?",
+      "options": [
+        "Proceed with nephrectomy today to avoid delay",
+        "Perform a percutaneous needle biopsy first, then decide",
+        "Start radiotherapy at the regional hospital",
+        "Refer urgently to UCI for staging (chest imaging) and pre-operative chemotherapy per the SIOP-adapted approach, with surgery afterwards",
+        "Watch and wait with a repeat ultrasound in 3 months"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: in African (SIOP-adapted) practice, typical Wilms tumours get **pre-operative chemotherapy** (vincristine + actinomycin-D) at a cancer centre, which shrinks the tumour and reduces rupture; surgery follows in a specialist unit with post-operative chemotherapy by stage. A is wrong: non-specialist upfront nephrectomy risks rupture and spillage, which upstages the tumour and worsens outcome. B is wrong: needle biopsy is not needed for typical cases under SIOP and can upstage. C is wrong: radiotherapy is only at UCI and is given by stage after surgery. E is wrong: delay allows a fast tumour to spread.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "ccx-q11",
+      "stem": "A 10-year-old boy (28 kg) with a large mediastinal mass on CXR (suspected T-cell lymphoma) has orthopnoea, facial swelling and distended neck veins. A CT scan under sedation is requested. What is the MOST important safety point?",
+      "options": [
+        "Avoid general anaesthesia and deep sedation, keep him sitting up, and obtain diagnosis by the least invasive route (e.g. pleural fluid, peripheral node, marrow)",
+        "Lie him flat with ketamine sedation so the scan is clear",
+        "Give a 20 mL/kg fluid bolus before the scan",
+        "Start prednisolone immediately without any tissue sample in all cases",
+        "Send him home with salbutamol and review the CT result in a week"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: **superior mediastinal syndrome** means sedation, anaesthesia or lying flat can cause complete airway or cardiovascular collapse; keep him upright and get tissue the least invasive way, with oncology and anaesthesia involved. B is wrong: supine sedation is the classic fatal error. C is wrong: fluid does not relieve compression and can worsen venous congestion. D is wrong: steroids may be needed if life-threatening, but only as a senior/oncology decision, ideally after obtaining a sample, because they destroy the diagnosis. E is wrong: this is an emergency.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "ccx-q12",
+      "stem": "A 5-year-old with metastatic retinoblastoma is receiving palliative care at home in Mbarara. He weighs 16 kg and has severe bone pain despite paracetamol 15 mg/kg every 6 hours. What is the MOST appropriate next analgesic step?",
+      "options": [
+        "Add codeine 1 mg/kg every 6 hours",
+        "Add tramadol 1 mg/kg every 6 hours",
+        "Start oral morphine about 3–6 mg (0.2–0.4 mg/kg) every 4 hours, titrated to effect, with a laxative",
+        "Increase paracetamol to 30 mg/kg every 6 hours",
+        "Give pethidine IM when needed"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: WHO's two-step approach for children moves straight from non-opioids to a **strong opioid**: oral morphine 0.2–0.4 mg/kg every 4 hours, titrated with no ceiling, plus a laxative. Oral morphine is available free in Uganda for palliative care. A is wrong: codeine is not recommended in children (variable CYP2D6 metabolism). B is wrong: tramadol is avoided under 12 years. D is wrong: 120 mg/kg/day of paracetamol is hepatotoxic. E is wrong: pethidine has a toxic metabolite and IM injections are painful and unsuitable for ongoing pain.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ccx-q13",
+      "stem": "A 7-year-old boy with abdominal Burkitt lymphoma develops back pain and, over 12 hours, weakness of both legs and urinary retention. Power is 2/5 in both legs with a sensory level at T10. What is the BEST immediate action?",
+      "options": [
+        "Physiotherapy and review in a week",
+        "Lumbar puncture for intrathecal chemotherapy before anything else",
+        "Analgesia only, as this is likely bone pain",
+        "Oral ibuprofen and catheterise",
+        "Treat as malignant spinal cord compression: catheterise, urgent senior/oncology discussion the same day for definitive treatment (chemotherapy ± steroids or surgery per oncologist), and urgent imaging if available"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: progressive paraparesis, a sensory level and retention mean **spinal cord compression** (paraspinal/epidural Burkitt is stage III); function lost for more than 24–48 hours may not return, so this is a same-day oncology emergency. A is wrong: delay risks permanent paraplegia. B is wrong: LP can worsen compression (coning of the cord) and is not the urgent need. C is wrong: the neurological signs show cord involvement, not just bone pain. D is wrong: catheterising helps, but ibuprofen alone ignores the emergency.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ccx-q14",
+      "stem": "A mother from Kasese has stopped bringing her 6-year-old son for ALL maintenance chemotherapy for 6 weeks. She says transport costs and her other children at home made it impossible. Which response BEST reflects good practice?",
+      "options": [
+        "Record 'lost to follow-up' and close the file",
+        "Recognise this as treatment abandonment, contact the family, involve social work and support organisations for transport/lodging, re-counsel on curability, and plan to resume treatment",
+        "Tell the mother that stopping means the child will certainly die",
+        "Switch the child to herbal treatment closer to home",
+        "Restart induction chemotherapy from the beginning without discussion"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: missing **≥4 weeks** of planned curative therapy is **abandonment**, a leading cause of treatment failure in Uganda; it is addressed by tracing, social support and counselling, then resuming treatment. A is wrong: closing the file abandons the child. C is wrong: threats destroy trust and are untrue. D is wrong: herbal medicines are not curative and may be toxic. E is wrong: the oncologist decides the restart plan with the family after reassessment.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ccx-q15",
+      "stem": "Which statement about endemic Burkitt lymphoma is CORRECT?",
+      "options": [
+        "It is a T-cell lymphoma with a BCL2 translocation",
+        "It is rarely associated with Epstein–Barr virus",
+        "It most often presents in adolescents aged 15–19 years",
+        "It is a B-cell lymphoma with a MYC translocation, nearly always EBV-positive, and frequently involves the jaw in young children",
+        "It grows slowly over many months, so tumour lysis is rare"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: endemic BL is a **B-cell** lymphoma with **MYC** translocation, nearly 100% **EBV-positive**, and classically presents with jaw tumours in young children. A is wrong: it is B-cell, and BCL2 translocation is typical of follicular lymphoma. B is wrong: almost all endemic cases are EBV-positive. C is wrong: peak age is 4–7 years (UCG). E is wrong: it is the fastest-growing human tumour (doubling ~25 h), so TLS is common.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "ccx-c01",
+      "title": "The 'toothache' that would not go away",
+      "presentation": "Opio, a 5-year-old boy from Lira, is referred to the regional referral hospital with a 1-month history of left jaw swelling. He had two teeth pulled at a private clinic with no improvement. For the past week his abdomen has been getting bigger.",
+      "steps": [
+        { "prompt": "What history do you take?", "answer": "Speed of growth (days–weeks), pain, loose teeth, eye swelling, abdominal pain/vomiting/constipation, **leg weakness, back pain, urinary retention** (cord compression), fever/night sweats/weight loss, **steroids or herbs** given, malaria history, **HIV status** (child and mother), immunisation, feeding, growth, distance from Kampala and family support." },
+        { "prompt": "Exam: weight 16 kg, height 108 cm (WAZ −1.6), pale, 7 × 6 cm firm left mandibular mass, loose molars, abdomen distended with a 10 cm irregular mass and shifting dullness, normal leg power, BP 100/60. What is your differential and leading diagnosis?", "answer": "Leading: **endemic Burkitt lymphoma, probable Murphy stage III** (jaw + extensive abdominal disease). Differentials: other NHL, rhabdomyosarcoma, dental abscess/osteomyelitis (no fever or pain), abdominal TB (ascites), Wilms/neuroblastoma (abdominal mass, but jaw involvement points to Burkitt)." },
+        { "prompt": "Which investigations will you request?", "answer": "**FNA of the jaw mass** (and/or ascitic cytology): starry-sky cells. **FBC/film, LDH, uric acid, K⁺, PO₄, Ca²⁺, creatinine** (TLS risk). **HIV test**, malaria RDT. **Abdominal ultrasound** (kidneys, ovaries, nodes, ascites), **CXR**. **Bone marrow and CSF** at UCI for staging (stage IV if positive)." },
+        { "prompt": "Results: LDH 1,700 U/L, uric acid 495 µmol/L, K⁺ 4.9, PO₄ 1.8, Ca²⁺ 2.2, creatinine 60 µmol/L. Before transfer, what do you start? (BSA ≈ 0.69 m²)", "answer": "**TLS prevention**: IV 0.9% saline (no potassium) at **2–3 L/m²/day ≈ 1.4–2 L/day** (≈60–85 mL/h), aiming for urine output **80–100 mL/m²/h (≈55–70 mL/h)**; **allopurinol 10 mg/kg/day ≈ 160 mg/day ÷ 3** (≈50 mg 8-hourly); weigh daily, chart input/output, repeat electrolytes 6–12-hourly. **No steroids.** Analgesia (paracetamol 15 mg/kg). Treat malaria if positive." },
+        { "prompt": "How will you refer and counsel the family?", "answer": "Same-week referral to the **UCI paediatric unit** with a clear note (history, sizes, results, treatment given, weight, height, BSA, HIV status). Explain that this is a **fast-growing but very treatable cancer**, that **chemotherapy at UCI is free**, and that finishing all cycles matters. Involve social work and child cancer support organisations for **transport, lodging and food**, to prevent abandonment." },
+        { "prompt": "At UCI, what treatment will he probably receive?", "answer": "A cyclophosphamide-based combination such as **COM** (cyclophosphamide, vincristine, methotrexate) with **intrathecal** chemotherapy, increasingly with **rituximab** (R-COM improved 1-year EFS from 43% to 67% in East Africa), alongside TLS prevention, nutrition support, and infection prophylaxis/treatment." }
+      ],
+      "takeaway": "A jaw mass in a young Ugandan child is Burkitt lymphoma until proven otherwise. Do not extract teeth or give steroids; get tissue, start TLS prevention and refer quickly with social support."
+    },
+    {
+      "id": "ccx-c02",
+      "title": "A swollen tummy in a well toddler",
+      "presentation": "Namutebi, 2 years 8 months, is brought to Mengo outpatients because her grandmother felt 'a hard ball' in her tummy while bathing her. She is eating and playing normally.",
+      "steps": [
+        { "prompt": "How do you examine the mass, and what must you avoid?", "answer": "Describe **site, size (measure), shape, surface, consistency, tenderness, mobility, movement with respiration, ballotability, whether it crosses the midline**, and check the **other kidney**, liver, spleen, nodes, genitalia (WAGR), aniridia, hemihypertrophy and **BP**. **Palpate gently and only once**, and ask others not to keep palpating (rupture risk)." },
+        { "prompt": "Findings: 13 kg, smooth firm 10 × 8 cm right flank mass, ballotable, not crossing the midline; BP 122/78 (>95th centile for age); urine blood 1+. What is the leading diagnosis and the main differential?", "answer": "**Wilms tumour (nephroblastoma)**. Differentials: **neuroblastoma** (but she is well and the mass is smooth and does not cross the midline), hydronephrosis, multicystic dysplastic kidney, abdominal Burkitt, hepatoblastoma (liver origin)." },
+        { "prompt": "What investigations are needed?", "answer": "**Abdominal ultrasound**: solid intrarenal mass (claw sign), check the **IVC and renal vein for tumour thrombus** and the **contralateral kidney** (bilateral = stage V). **CXR** (or CT chest) for lung metastases. FBC, U&E/creatinine, urinalysis. CT/MRI abdomen at the cancer centre. **No biopsy** for a typical case under SIOP-style care." },
+        { "prompt": "How is she treated in Uganda?", "answer": "Refer to **UCI**. SIOP-adapted approach: **pre-operative chemotherapy** (vincristine + actinomycin-D for about 4 weeks for localised disease; add doxorubicin if metastatic) → **nephrectomy** by a paediatric surgeon → **post-operative chemotherapy** (± radiotherapy) according to stage and histology. Treat hypertension (e.g. amlodipine 0.1–0.2 mg/kg/day, max 10 mg)." },
+        { "prompt": "What are the parents likely to ask, and how do you answer?", "answer": "'Will she lose her kidney?' Usually yes, one kidney is removed; **one healthy kidney is enough** for normal life, with BP and urine checks later. 'Can it be cured?' **Most Wilms tumours are curable**, especially when treated early and completely. 'Did we cause it?' No; it arises from embryonic kidney cells." },
+        { "prompt": "Present her on the ward round.", "answer": "\"Namutebi, 2 years 8 months, 13 kg (WAZ −0.6), fully immunised, eating family foods, HIV-unexposed, presents with an incidentally found smooth right flank mass not crossing the midline, with hypertension and microscopic haematuria. Ultrasound shows a solid right renal mass with a normal IVC and left kidney; CXR clear. Probable unilateral Wilms tumour. Plan: urgent UCI referral for pre-operative chemotherapy then nephrectomy; antihypertensive; minimal palpation.\"" }
+      ],
+      "takeaway": "A well toddler with a smooth flank mass that does not cross the midline is Wilms until proven otherwise. Palpate once, check BP and the other kidney, image the IVC and chest, avoid local surgery or biopsy, and refer for SIOP-style care."
+    },
+    {
+      "id": "ccx-c03",
+      "title": "The child with 'malaria that won't go'",
+      "presentation": "Ssekandi, a 4-year-old boy, is admitted to a HC IV in Masaka with fever for 3 weeks despite two courses of antimalarials. His mother says he refuses to walk because his legs hurt and he bruises easily.",
+      "steps": [
+        { "prompt": "What clues point away from malaria?", "answer": "Fever **>2 weeks** despite treatment, **bone pain/limp**, **bruising** (thrombocytopenia), progressive pallor. Look for **lymphadenopathy, hepatosplenomegaly, petechiae, gum bleeding, testicular swelling**, and check the RDT (and film)." },
+        { "prompt": "Exam: 14 kg, pale, petechiae on legs, cervical nodes 2 cm, spleen 5 cm, liver 4 cm. RDT negative. HemoCue Hb 5.8 g/dL. FBC: WBC 62 × 10⁹/L, platelets 18 × 10⁹/L, 'many atypical cells'. What is your working diagnosis?", "answer": "**Acute leukaemia, most likely ALL** (age, organomegaly, nodes, bone pain), with anaemia, thrombocytopenia and high WBC. Differential: AML, overwhelming infection, visceral leishmaniasis (wrong region), SCD crisis (not explained by blasts)." },
+        { "prompt": "What will you do before transfer and what must you avoid?", "answer": "Do: **packed cells 10 mL/kg slowly** if symptomatic (care with high WBC), **platelets** if bleeding and available, **IV fluids without potassium** + **allopurinol 10 mg/kg/day** (TLS), **blood culture and IV antibiotics** if febrile (assume neutropenia), paracetamol for pain. **Avoid**: **steroids**, aspirin/NSAIDs (bleeding), IM injections, and a rapid large transfusion (hyperviscosity)." },
+        { "prompt": "What will be done at UCI to confirm and classify?", "answer": "Peripheral film, **bone marrow aspirate**, **flow cytometry** (B- vs T-ALL vs AML), cytogenetics if available, **lumbar puncture** (CNS involvement), CXR (mediastinal mass), uric acid/LDH/electrolytes, HIV test, hepatitis B, echo before anthracyclines." },
+        { "prompt": "Outline the treatment and how long it lasts.", "answer": "Risk-adapted multiphase chemotherapy over **about 2–2.5 years**: **induction** (steroid, vincristine, asparaginase ± anthracycline + intrathecal methotrexate), **consolidation/CNS therapy**, **delayed intensification**, and **maintenance** (daily oral mercaptopurine, weekly methotrexate, monthly vincristine/steroid pulses). Plus cotrimoxazole PCP prophylaxis, nutrition support and infection management." },
+        { "prompt": "What will you tell the family about the outlook?", "answer": "ALL is **the most curable childhood leukaemia** (about 90% in high-income settings, and improving in Uganda). The biggest risks are infection during treatment and stopping treatment early. They should come immediately for fever, bleeding or lethargy, and complete every phase." }
+      ],
+      "takeaway": "Persistent fever, bone pain, bruising and organomegaly with a negative RDT mean an FBC and film, not another antimalarial course. Avoid steroids, prevent TLS and infection, and refer urgently."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023: sections 12.3.1 Common Cancers in Children, 20.4.1 Retinoblastoma, 23.3.3 Kaposi's Sarcoma, 23.5.1 Burkitt's Lymphoma", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Childhood cancer: fact sheet", "source": "World Health Organization", "year": 2025, "url": "https://www.who.int/news-room/fact-sheets/detail/cancer-in-children" },
+    { "title": "Burkitt Lymphoma and Burkitt-like Lymphoma: Background, Etiology and Pathophysiology", "source": "Medscape (eMedicine)", "year": 2025, "url": "https://emedicine.medscape.com/article/1447602-overview" },
+    { "title": "Tumor Lysis Syndrome Treatment & Management", "source": "Medscape (eMedicine)", "year": 2025, "url": "https://emedicine.medscape.com/article/282171-treatment" },
+    { "title": "Tumour lysis syndrome: new therapeutic strategies and classification", "source": "Cairo MS, Bishop M. Br J Haematol 2004;127:3-11", "year": 2004, "url": "https://pubmed.ncbi.nlm.nih.gov/15384972/" },
+    { "title": "Rituximab for children with EBV-positive Burkitt lymphoma in East Africa", "source": "Blood Advances 2025", "year": 2025, "url": "https://pubmed.ncbi.nlm.nih.gov/39983056/" },
+    { "title": "Global Retinoblastoma Presentation and Analysis by National Income Level", "source": "Global Retinoblastoma Study Group. JAMA Oncol 2020", "year": 2020, "url": "https://pubmed.ncbi.nlm.nih.gov/32105305/" }
+  ]
+}
