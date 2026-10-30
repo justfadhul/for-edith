@@ -1,0 +1,500 @@
+{
+  "slug": "paeds-abdomen-gu-exam",
+  "flashcards": [
+    {
+      "id": "pagu-f01",
+      "front": "Sequence of the paediatric abdominal and GU examination",
+      "back": "Introduce, **consent + assent**, **chaperone**, hand hygiene, **warm hands**, position for age, expose (dignity), **general exam and growth**, inspect, palpate (light → deep), percuss, auscultate, **groins, genitalia, perianal inspection**, then **BP, urine dipstick, plot growth**."
+    },
+    {
+      "id": "pagu-f02",
+      "front": "How to position a toddler for abdominal examination",
+      "back": "On the **mother's lap** (or supine with the mother holding hands at the head end), **knees flexed**, examiner **at the child's eye level**, with **distraction** (toys, bubbles)."
+    },
+    {
+      "id": "pagu-f03",
+      "front": "Where do you start palpating, and what do you watch?",
+      "back": "Start in the quadrant **farthest from the pain**; **watch the child's face** (grimace, pause in crying) rather than your hand."
+    },
+    {
+      "id": "pagu-f04",
+      "front": "Normal liver edge in infants and young children",
+      "back": "Soft, sharp edge up to **1–2 cm below the right costal margin** (up to ~3 cm in newborns). Confirm enlargement by **percussing the span**."
+    },
+    {
+      "id": "pagu-f05",
+      "front": "Why start liver and spleen palpation in the right iliac fossa?",
+      "back": "A **very large organ** may extend into the lower abdomen; starting at the costal margin you would be already **on top of it** and miss the edge."
+    },
+    {
+      "id": "pagu-f06",
+      "front": "How to palpate the spleen if not felt supine",
+      "back": "Roll the child **toward you onto the right side**, support the left lower ribs with your left hand, and palpate from below on inspiration."
+    },
+    {
+      "id": "pagu-f07",
+      "front": "Hackett grading of splenomegaly",
+      "back": "**0** not palpable; **1** only on deep inspiration; **2** not beyond halfway costal margin–umbilicus; **3** not below umbilicus; **4** not beyond halfway umbilicus–pubis; **5** beyond that."
+    },
+    {
+      "id": "pagu-f08",
+      "front": "Spleen vs left kidney",
+      "back": "**Spleen**: notch, moves toward the RIF on inspiration, **cannot get above**, dull, not ballotable. **Kidney**: **ballotable**, can get above, resonant band (colon) over it."
+    },
+    {
+      "id": "pagu-f09",
+      "front": "Describe an abdominal mass: checklist",
+      "back": "Site, size, shape, surface, edge, consistency, tenderness, mobility (respiration, side to side), **get above/below?**, **crosses midline?**, percussion note, pulsation, bruit, transillumination."
+    },
+    {
+      "id": "pagu-f10",
+      "front": "Wilms tumour vs neuroblastoma",
+      "back": "**Wilms**: well child 2–5 y, smooth flank mass **not crossing midline**, ± haematuria, hypertension. **Neuroblastoma**: often < 2 y, unwell, irregular hard mass **crossing midline**, raccoon eyes, bone pain."
+    },
+    {
+      "id": "pagu-f11",
+      "front": "Burkitt lymphoma clues (Uganda)",
+      "back": "Rapidly growing **jaw or abdominal mass** (± ascites) in a 4–9-year-old; malaria/EBV belt; **tumour lysis** risk → hydration and allopurinol; very chemo-sensitive."
+    },
+    {
+      "id": "pagu-f12",
+      "front": "Causes of hepatosplenomegaly in Ugandan children",
+      "back": "**Malaria** (and hyperreactive malarial splenomegaly), **schistosomiasis**, **SCD**, **HIV**, TB, **leukaemia/lymphoma**, **visceral leishmaniasis** (Karamoja), typhoid; liver alone: **heart failure**, hepatitis, abscess."
+    },
+    {
+      "id": "pagu-f13",
+      "front": "Shifting dullness: how?",
+      "back": "Percuss from the midline to the flank until dull, keep the finger there, roll the child **away**, wait **30 s**, re-percuss: becomes **resonant** = free fluid."
+    },
+    {
+      "id": "pagu-f14",
+      "front": "Causes of ascites in Ugandan children",
+      "back": "**Nephrotic syndrome**, heart failure, **endomyocardial fibrosis**, constrictive pericarditis, **TB peritonitis**, portal hypertension (schistosomiasis, cirrhosis), malnutrition, malignancy (Burkitt)."
+    },
+    {
+      "id": "pagu-f15",
+      "front": "Visible peristalsis left to right in a 5-week-old with projectile vomiting",
+      "back": "**Pyloric stenosis**: palpate the 'olive' in the RUQ/epigastrium during a test feed; check for hypochloraemic hypokalaemic alkalosis."
+    },
+    {
+      "id": "pagu-f16",
+      "front": "Inguinal hernia vs hydrocele",
+      "back": "**Hernia**: cannot get above, cough/cry impulse, reducible, usually not transilluminant. **Hydrocele**: **can get above**, **transilluminates**, no impulse."
+    },
+    {
+      "id": "pagu-f17",
+      "front": "Management of an inguinal hernia in an infant",
+      "back": "**All need herniotomy**, promptly (high incarceration risk in infants); incarcerated → analgesia and gentle reduction by a senior, surgery in 24–48 h; strangulated → emergency surgery."
+    },
+    {
+      "id": "pagu-f18",
+      "front": "How to examine for undescended testes",
+      "back": "Warm, relaxed child (cross-legged/squatting); **milk from the inguinal canal downward** before touching the scrotum; note position, size, whether it can be brought down and **stays** (retractile)."
+    },
+    {
+      "id": "pagu-f19",
+      "front": "Timing of orchidopexy",
+      "back": "Refer if not descended by **6 months**; operate at **6–12 months**, **by 18 months** at the latest."
+    },
+    {
+      "id": "pagu-f20",
+      "front": "Features of testicular torsion",
+      "back": "Sudden severe pain ± abdominal pain and vomiting; **high-riding, horizontal** testis; **absent cremasteric reflex**; scrotal redness. **Explore within 4–6 h** (80–100% viability); no delay for ultrasound."
+    },
+    {
+      "id": "pagu-f21",
+      "front": "Blue dot sign",
+      "back": "Small tender bluish nodule at the **upper pole** = **torsion of the appendix testis**; cremasteric reflex present; conservative management if certain."
+    },
+    {
+      "id": "pagu-f22",
+      "front": "Foreskin retractability with age",
+      "back": "About **10% at 1 year**, **50% at 10 years**, **99% by 17 years**. Non-retractile foreskin is normal; **never forcibly retract**."
+    },
+    {
+      "id": "pagu-f23",
+      "front": "Hypospadias: features and key advice",
+      "back": "**Ventral meatus**, **hooded foreskin**, **chordee**. **Do not circumcise** (foreskin needed for repair); refer for surgery (6–18 months); with undescended testis think **DSD/CAH**."
+    },
+    {
+      "id": "pagu-f24",
+      "front": "Paraphimosis",
+      "back": "Retracted foreskin trapped behind the glans with swelling: **emergency** — analgesia, compress the glans, **reduce the foreskin forward**; surgical help if it fails."
+    },
+    {
+      "id": "pagu-f25",
+      "front": "Examining the genitalia of a prepubertal girl",
+      "back": "**Inspection only**, frog-leg position or on mother's lap, **chaperone**, gentle labial separation outward and downward. **No speculum or digital exam.**"
+    },
+    {
+      "id": "pagu-f26",
+      "front": "Persistently palpable bladder and poor urinary stream in an infant boy",
+      "back": "**Posterior urethral valves**: catheterise, check creatinine and electrolytes, ultrasound, urology referral."
+    },
+    {
+      "id": "pagu-f27",
+      "front": "Tanner stage 2: first sign of puberty in boys and girls",
+      "back": "**Boys**: testicular volume **≥ 4 mL** (9–14 y). **Girls**: **breast bud** (8–13 y). Precocious < 8 (girls) / < 9 (boys); delayed > 13 / > 14."
+    },
+    {
+      "id": "pagu-f28",
+      "front": "How to complete the abdominal exam (OSCE line)",
+      "back": "'To complete my examination I would **measure the blood pressure**, **dip the urine**, **plot the growth**, and examine the chest, heart and other systems as relevant.'"
+    },
+    {
+      "id": "pagu-f29",
+      "front": "Suspected sexual abuse found during examination",
+      "back": "Stop unnecessary examination, ensure safety, inform the senior, document precisely, **HIV PEP within 72 h**, emergency contraception (pubertal girls), STI prophylaxis, child protection/police; forensic exam once by a trained clinician."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "pagu-q01",
+      "stem": "You are asked to examine the abdomen of a crying 18-month-old with 2 days of fever and vomiting. He clings to his mother. What is the BEST approach?",
+      "options": [
+        "Ask the nurse to hold him down on the couch so you can palpate quickly",
+        "Examine him on his mother's lap with warm hands, at his eye level, using distraction and watching his face",
+        "Skip the abdominal exam and order an ultrasound",
+        "Give a sedative before examining",
+        "Examine only when he is completely silent, even if it takes several hours"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: winning the child's cooperation (mother's lap, warm hands, distraction, eye level) gives a relaxed abdomen, and watching the face reveals tenderness. A is wrong: restraint makes the child cry and tense, so the exam is useless and distressing. C is wrong: imaging does not replace clinical examination. D is wrong: sedation is not needed and can mask signs. E is wrong: you can palpate between cries and during inspiration; waiting hours delays care.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pagu-q02",
+      "stem": "A 4-month-old with bronchiolitis has a liver edge 3 cm below the right costal margin. Percussion places the upper border of liver dullness at the 7th intercostal space and the span is 5 cm. The edge is soft and sharp. What is the MOST likely explanation?",
+      "options": [
+        "Congestive heart failure",
+        "Hepatitis",
+        "A normal-sized liver displaced downward by hyperinflated lungs",
+        "Hepatoblastoma",
+        "Glycogen storage disease"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: the span (5 cm) is normal for age; the low upper border shows the liver is pushed down by hyperinflation, a common finding in bronchiolitis and asthma. A is wrong: heart failure gives an enlarged, often tender, rounded liver with an increased span, plus gallop and tachycardia. B is wrong: hepatitis enlarges the liver (increased span) and usually causes jaundice. D is wrong: a tumour causes a firm or hard, enlarged, often irregular liver. E is wrong: glycogen storage disease causes massive hepatomegaly with a large span and hypoglycaemia.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pagu-q03",
+      "stem": "A 5-year-old girl has a left upper quadrant mass. It moves toward the right iliac fossa on inspiration, you cannot get above it, a notch is felt on its medial border, it is not ballotable, and it is dull to percussion. What is the mass?",
+      "options": [
+        "Left kidney",
+        "Spleen",
+        "Faecal mass in the descending colon",
+        "Left adrenal neuroblastoma",
+        "Left ovarian cyst"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: a notch, movement toward the RIF with inspiration, inability to get above it, dullness and no ballottement are the classic features of the spleen. A is wrong: a kidney is ballotable, you can get above it, and it is usually resonant (colon in front). C is wrong: faecal masses are indentable, in the left iliac fossa, and do not have a notch. D is wrong: neuroblastoma is a hard, irregular, fixed mass that often crosses the midline. E is wrong: an ovarian cyst arises from the pelvis, and you can get above it but not below.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pagu-q04",
+      "stem": "A 3-year-old boy is brought because his mother noticed a swelling in his abdomen while bathing him. He is well and playful. BP 118/78 (above the 95th centile). There is a smooth, firm 9 cm mass in the right flank that is ballotable and does not cross the midline. Urine dipstick: blood 2+. What is the MOST likely diagnosis?",
+      "options": [
+        "Neuroblastoma",
+        "Burkitt lymphoma",
+        "Hydronephrosis from PUJ obstruction",
+        "Wilms tumour (nephroblastoma)",
+        "Splenomegaly"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: a well child aged 2–5 with a smooth flank mass that is ballotable and does not cross the midline, plus hypertension and haematuria, is classic Wilms tumour. Palpate gently (rupture risk), ultrasound, and refer. A is wrong: neuroblastoma usually makes the child unwell, is irregular, and often crosses the midline. B is wrong: abdominal Burkitt usually presents in older children (4–9 y) with rapid growth and ascites, not haematuria and a ballotable renal mass. C is wrong: hydronephrosis can be ballotable, but hypertension and haematuria in a solid-feeling mass favour Wilms. E is wrong: the spleen is on the left and not ballotable.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pagu-q05",
+      "stem": "A 13-year-old boy presents with sudden severe left scrotal pain for 3 hours and vomiting. The left testis lies high with a horizontal lie and is very tender; the left cremasteric reflex is absent. What is the MOST appropriate next step?",
+      "options": [
+        "Urgent surgical exploration (with analgesia and nil by mouth) without waiting for imaging",
+        "Scrotal Doppler ultrasound and review the result in the morning",
+        "Oral ciprofloxacin for epididymo-orchitis",
+        "Scrotal support and analgesia, review in 1 week",
+        "Urine culture and wait for the result"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: these are the classic signs of testicular torsion; viability is 80–100% if detorted within 4–6 hours, so surgical exploration must not be delayed for imaging (RCH). B is wrong: delaying to the morning loses the testis; ultrasound is only for low-probability cases after surgical review. C is wrong: epididymo-orchitis is gradual, with a preserved cremasteric reflex, and antibiotics will not save a twisted testis. D is wrong: that is management of torsion of the appendix testis, with a blue dot and normal reflex. E is wrong: waiting for urine culture delays surgery.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pagu-q06",
+      "stem": "A mother brings her 9-month-old son because his left 'testicle is missing'. On examination in a warm room with the child sitting cross-legged, you milk the left inguinal canal downward and bring the testis to the bottom of the scrotum, where it stays briefly before rising again. The right testis is normal. What is the MOST appropriate management?",
+      "options": [
+        "Urgent orchidopexy",
+        "Human chorionic gonadotrophin injections",
+        "Refer for karyotyping",
+        "Ultrasound and laparoscopy to find the testis",
+        "Reassure: this is a retractile testis; review yearly"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: a testis that can be brought to the bottom of the scrotum and stays there is retractile, a normal finding from about 6 months due to an active cremasteric reflex; review periodically because a few ascend later. A is wrong: orchidopexy is for undescended testes. B is wrong: hormonal treatment is not recommended. D is wrong: the testis has been found; imaging is unnecessary. C is wrong: a unilateral retractile testis with normal genitalia does not suggest a disorder of sex development.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pagu-q07",
+      "stem": "A 2-month-old boy has a right scrotal swelling that is larger in the evening, non-tender, and you cannot get above it. It is soft and reduces with gentle pressure. What is the MOST appropriate management?",
+      "options": [
+        "Observe until 2 years; most resolve",
+        "Aspirate the fluid",
+        "Apply a truss",
+        "Refer for herniotomy soon (within weeks) and teach the parents the signs of incarceration",
+        "Reassure; no follow-up needed"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: inability to get above the swelling and reducibility indicate an inguinal hernia; infants have a high risk of incarceration, so all need prompt elective herniotomy, and parents must know the danger signs (irreducible, tender, vomiting). A is wrong: observation to 1–2 years is for hydroceles (you can get above them and they transilluminate). B is wrong: aspiration has no role and risks bowel injury. C is wrong: trusses are not used in children. E is wrong: leaving a hernia unrepaired risks strangulation.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pagu-q08",
+      "stem": "A 3-year-old boy's mother asks you to 'open' his foreskin because she cannot pull it back to clean. He passes urine normally with some ballooning; the foreskin tip is soft and unscarred. What is the BEST advice?",
+      "options": [
+        "Forcibly retract it in the clinic and apply petroleum jelly",
+        "Book a circumcision for phimosis",
+        "Dilate the preputial opening with forceps",
+        "Start oral antibiotics",
+        "Reassure: a non-retractile foreskin is normal at this age; clean the outside only and never force it back"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: a non-retractile foreskin is normal (about 10% retractable at 1 year, 50% by 10 years, 99% by 17); ballooning is usually harmless (topical betamethasone only if problematic). A is wrong: forced retraction causes tears, scarring and true phimosis or paraphimosis. B is wrong: circumcision is not indicated for physiological non-retraction. D is wrong: there is no infection. C is wrong: instrumental dilation is traumatic and unnecessary.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pagu-q09",
+      "stem": "A family in Mbale brings their 10-month-old son for traditional circumcision advice. You find the urethral meatus on the ventral surface of the glans, a hooded dorsal foreskin and mild ventral curvature. Both testes are descended. What is the MOST appropriate advice?",
+      "options": [
+        "Circumcise now; it will correct the problem",
+        "Circumcise but leave the ventral skin",
+        "No action is needed; this is a normal variant",
+        "Do not circumcise; refer to paediatric surgery/urology for hypospadias repair, which uses the foreskin",
+        "Refer for karyotyping before any discussion"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: ventral meatus, hooded foreskin and chordee are hypospadias; the foreskin is needed for reconstruction, so circumcision must wait until after repair (usually 6–18 months). A is wrong: circumcision removes tissue needed for repair. B is wrong: any circumcision before surgical assessment is inappropriate. C is wrong: hypospadias needs surgical assessment (spraying stream, chordee, fertility). E is wrong: isolated distal hypospadias with both testes descended does not routinely need karyotyping; it is indicated with undescended testes or ambiguous genitalia.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pagu-q10",
+      "stem": "A 7-year-old boy from Buliisa on Lake Albert has a firm liver 5 cm below the costal margin, a firm spleen 8 cm, dilated periumbilical veins, no ascites, and recurrent episodes of passing blood per rectum. Which investigation is MOST likely to confirm the diagnosis?",
+      "options": [
+        "Stool microscopy (Kato-Katz) for Schistosoma mansoni eggs and abdominal ultrasound for periportal fibrosis",
+        "Blood film for sickle cells",
+        "rK39 rapid test",
+        "Bone marrow aspirate",
+        "Urine microscopy for Schistosoma haematobium eggs"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: hepatosplenomegaly with portal hypertension in a lakeside child is typical of hepatosplenic S. mansoni; stool eggs and ultrasound periportal ('pipe-stem') fibrosis confirm it; treat with praziquantel 40 mg/kg. B is wrong: SCD causes splenomegaly but not portal hypertension with collateral veins. C is wrong: rK39 tests for visceral leishmaniasis, found mainly in Karamoja/north-east. D is wrong: marrow is for suspected leukaemia or leishmaniasis, not first-line here. E is wrong: S. haematobium causes urinary disease (terminal haematuria), not portal hypertension.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pagu-q11",
+      "stem": "A 6-year-old girl has gross abdominal distension. Shifting dullness is present. The JVP is raised to the earlobes, heart sounds are soft, the liver is 6 cm and firm, and there is no peripheral oedema. Urine protein is negative. Albumin 33 g/L. Which diagnosis BEST fits?",
+      "options": [
+        "Nephrotic syndrome",
+        "Kwashiorkor",
+        "Endomyocardial fibrosis or constrictive pericarditis",
+        "Burkitt lymphoma",
+        "Cirrhosis from hepatitis B"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: ascites out of proportion to peripheral oedema with a very high JVP and soft heart sounds suggests restrictive filling: endomyocardial fibrosis (still seen in Uganda) or constrictive (often TB) pericarditis; echo is needed. A is wrong: nephrotic syndrome has heavy proteinuria and low albumin, with periorbital oedema. B is wrong: kwashiorkor causes peripheral oedema and skin changes, not a raised JVP. D is wrong: Burkitt causes a mass with ascites but not a raised JVP. E is wrong: cirrhosis causes ascites with a normal or low JVP, splenomegaly and stigmata of liver disease.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pagu-q12",
+      "stem": "A 4-year-old girl is brought with vaginal discharge and pain on passing urine. She is withdrawn and frightened. Which approach is MOST appropriate for examination?",
+      "options": [
+        "Speculum examination to obtain a high vaginal swab",
+        "Digital vaginal examination to exclude a foreign body",
+        "Examine under restraint to complete quickly",
+        "Defer all examination and send home with antibiotics",
+        "Inspect only, in the frog-leg position with the mother present and a chaperone, take a swab from the introitus, and involve a senior because of possible abuse"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: prepubertal girls have external inspection only (frog-leg or on the mother's lap), with consent/assent and a chaperone; a frightened child with discharge raises the possibility of sexual abuse, so a senior and child protection must be involved, with time-sensitive care (PEP within 72 h) if indicated. A is wrong: speculum examination is not done in prepubertal girls on the ward. B is wrong: digital examination is inappropriate and traumatic. C is wrong: restraint is distressing and may retraumatise an abused child. D is wrong: it misses possible abuse, STI or foreign body and fails safeguarding duties.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pagu-q13",
+      "stem": "A 6-week-old boy has projectile, non-bilious vomiting after every feed for 1 week. He is hungry, mildly dehydrated, and has lost weight. During a test feed you see waves moving across the upper abdomen from left to right. Which finding on palpation would confirm the likely diagnosis?",
+      "options": [
+        "A sausage-shaped mass in the right upper quadrant",
+        "A firm, mobile, olive-sized mass in the epigastrium/right upper quadrant",
+        "A ballotable flank mass",
+        "A distended, tympanic abdomen with absent bowel sounds",
+        "A tender right iliac fossa"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: hypertrophic pyloric stenosis presents at 2–8 weeks with projectile non-bilious vomiting, visible peristalsis left to right, and a palpable 'olive' best felt during a test feed (ultrasound confirms); check for hypochloraemic hypokalaemic alkalosis. A is wrong: a sausage-shaped mass suggests intussusception (older infants, colicky pain, blood in stool). C is wrong: a ballotable mass is renal. D is wrong: generalised distension with absent bowel sounds suggests ileus or peritonitis. E is wrong: RIF tenderness suggests appendicitis, rare at this age.",
+      "difficulty": "core"
+    },
+    {
+      "id": "pagu-q14",
+      "stem": "A newborn has bilateral impalpable testes and a small phallus with a ventral meatus. On day 8 he is feeding poorly and vomiting. What is the MOST important immediate investigation?",
+      "options": [
+        "Scrotal ultrasound",
+        "Testosterone level",
+        "Serum sodium, potassium and blood glucose",
+        "Abdominal X-ray",
+        "Urine culture"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: an apparently male baby with bilateral impalpable gonads and hypospadias may be a virilised 46,XX infant with congenital adrenal hyperplasia; vomiting in week 2 suggests a salt-wasting crisis (low Na, high K, hypoglycaemia), which is life-threatening and needs saline, glucose and hydrocortisone. A is wrong: imaging the gonads is useful later, not first. B is wrong: hormone levels (17-OHP, karyotype) are needed but are not immediately life-saving. D is wrong: there is no sign of obstruction. E is wrong: UTI is a differential for vomiting, but the genital findings point to CAH, which must be excluded urgently.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "pagu-q15",
+      "stem": "A 9-year-old boy with sickle cell disease presents with sudden pallor, lethargy and left upper quadrant fullness. HR 160, CRT 4 s. His spleen, previously 2 cm, is now 10 cm. Hb 3.8 g/dL (baseline 7.5). What is the MOST appropriate immediate management?",
+      "options": [
+        "Oral folic acid and review tomorrow",
+        "Urgent blood transfusion and circulatory support for acute splenic sequestration",
+        "Emergency splenectomy before any transfusion",
+        "IV morphine and fluids for a vaso-occlusive crisis only",
+        "Start antimalarials and wait for the blood smear"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: an acutely enlarging spleen with a sharp Hb fall and shock is acute splenic sequestration, which can kill within hours; restore circulating volume and transfuse urgently (cautiously, e.g. 10 mL/kg packed cells, because blood is released from the spleen as it shrinks), and teach parents to palpate the spleen. A is wrong: this is an emergency. C is wrong: splenectomy is considered after recurrent episodes, not as the first treatment of a shocked child. D is wrong: analgesia alone ignores life-threatening anaemia and shock. E is wrong: test for malaria, but do not delay transfusion.",
+      "difficulty": "advanced"
+    }
+  ],
+  "cases": [
+    {
+      "id": "pagu-c01",
+      "title": "OSCE station: examine the abdomen of a 6-year-old with a mass",
+      "presentation": "OSCE station at UCU: 'Opio, a 6-year-old boy, has a 3-week history of abdominal swelling and weight loss. Examine his abdomen and present your findings.' His mother is present.",
+      "steps": [
+        {
+          "prompt": "How do you start the station?",
+          "answer": "Introduce yourself to Opio and his mother, confirm name and age, explain in simple words ('I want to look at and feel your tummy'), get **consent and assent**, offer a **chaperone** for the genital exam, **wash and warm hands**, position him **supine with one pillow, arms by sides, knees slightly flexed**, kneel to his level, and expose from the nipples to the knees (underpants on until needed)."
+        },
+        {
+          "prompt": "What do you look for in the general examination?",
+          "answer": "Well or unwell; **growth** (weight 17 kg, height 112 cm, MUAC); **pallor**, jaundice; **jaw swelling** (Burkitt), periorbital bruising (neuroblastoma); mouth (thrush), **lymph nodes** (cervical, axillary, inguinal), **petechiae/bruises**; oedema; vital signs including **BP**."
+        },
+        {
+          "prompt": "Describe your inspection, palpation and percussion findings in an organised way.",
+          "answer": "Inspection: **asymmetrical distension**, fullness in the right lower quadrant, no dilated veins, umbilicus everted. Palpation (starting away from the mass, watching his face, **gently**): a **14 × 10 cm hard, irregular, non-tender mass** in the RIF/periumbilical region, **crosses the midline**, does not move with respiration, can get above it, liver and spleen not separately palpable, kidneys not ballotable. Percussion: dull over the mass, **shifting dullness present**. Auscultation: normal bowel sounds."
+        },
+        {
+          "prompt": "How do you complete the examination?",
+          "answer": "Groins (no hernia, inguinal nodes), **both testes descended**, normal penis, perianal inspection normal; **BP 104/66** (normal); **urine dipstick** (no blood or protein); **plot growth** (WAZ −1.6); examine chest (dullness/effusion?) and the jaw."
+        },
+        {
+          "prompt": "Present your findings and differential.",
+          "answer": "'Opio, 6, has a rapidly enlarging, hard, irregular intra-abdominal mass crossing the midline with moderate ascites, weight loss and pallor, with normal BP and urine. The most likely diagnosis is **abdominal Burkitt lymphoma**; differentials are **neuroblastoma**, **abdominal TB** with matted nodes, and Wilms tumour (less likely: crosses the midline, no haematuria, normal BP).'"
+        },
+        {
+          "prompt": "The examiner asks for your next steps.",
+          "answer": "**Ultrasound**, FBC, **LDH, uric acid, creatinine, K, phosphate, calcium** (tumour lysis), HIV test, malaria test, chest X-ray; tissue diagnosis (FNA of mass or **ascitic fluid cytology**); start **IV hydration and allopurinol**; urgent referral to the **Uganda Cancer Institute** (or Lacor). Explain to the mother in plain language and support her."
+        }
+      ],
+      "takeaway": "Approach the child first, examine gently and systematically, describe a mass with a full checklist, always complete with groins, genitalia, BP, urine and growth, and present a reasoned differential tied to the Ugandan setting."
+    },
+    {
+      "id": "pagu-c02",
+      "title": "'Stomach ache' in a 12-year-old boy",
+      "presentation": "At 23:00, Brian, a 12-year-old boy, is brought to the emergency unit of a regional referral hospital with lower abdominal pain and vomiting that started suddenly 2 hours ago while playing football. His mother says he is 'shy' and did not want to be examined.",
+      "steps": [
+        {
+          "prompt": "What is your initial approach?",
+          "answer": "ETAT: alert, HR 112, BP 118/72, afebrile. Give **analgesia** (paracetamol 15 mg/kg; morphine if severe, per senior). Take a focused history: sudden onset, **vomiting**, no diarrhoea, no urinary symptoms. Explain kindly that you need to examine his tummy **and his private parts**, with his consent, a **chaperone** (male nurse if preferred) and privacy."
+        },
+        {
+          "prompt": "What do you find?",
+          "answer": "Abdomen: mild lower abdominal tenderness, no guarding, normal bowel sounds. **Left hemiscrotum red and swollen**; the **left testis is high-riding with a horizontal lie and exquisitely tender**; the **cremasteric reflex is absent** on the left; the right testis is normal. No hernia."
+        },
+        {
+          "prompt": "What is the diagnosis and what are the differentials?",
+          "answer": "**Left testicular torsion** until proven otherwise. Differentials: torsion of the appendix testis (blue dot, upper-pole tenderness, reflex present), epididymo-orchitis (gradual, fever, dysuria, reflex present), incarcerated hernia, trauma, idiopathic scrotal oedema, HSP."
+        },
+        {
+          "prompt": "What do you do now?",
+          "answer": "**Nil by mouth**, IV access, analgesia, **call the surgeon immediately** for exploration; **do not delay for ultrasound** (time = testis: 80–100% viability within 4–6 h). Consent from the mother for scrotal exploration, detorsion and **bilateral orchidopexy** (orchidectomy if non-viable)."
+        },
+        {
+          "prompt": "In theatre the testis is dusky but pinks up after detorsion. What follow-up and counselling are needed?",
+          "answer": "Fixation of **both testes**; review for testicular atrophy; explain to Brian and his mother that **future testicular pain must be seen immediately**; reassure about fertility (one healthy testis is usually enough); teach testicular self-examination as he grows."
+        },
+        {
+          "prompt": "What lesson about examining boys with abdominal pain?",
+          "answer": "**Always examine the scrotum** in a boy with abdominal pain or vomiting: shyness or embarrassment makes adolescents under-report scrotal pain, and torsion often presents as 'stomach ache'."
+        }
+      ],
+      "takeaway": "In any boy with abdominal pain, examine the testes; torsion is a surgical emergency (high, horizontal testis, absent cremasteric reflex) and must go to theatre within hours without waiting for imaging."
+    },
+    {
+      "id": "pagu-c03",
+      "title": "Splenomegaly in a child from northern Uganda",
+      "presentation": "Akello, an 8-year-old girl from Kotido (Karamoja), is admitted to Moroto Regional Referral Hospital with 2 months of intermittent fever, weight loss and a 'big tummy'. She has been treated for malaria three times this year without improvement.",
+      "steps": [
+        {
+          "prompt": "What will you look for on general examination?",
+          "answer": "**Wasting** (weight, height, MUAC, BMI-for-age), **pallor**, jaundice, **lymphadenopathy**, **bleeding** (epistaxis, gum bleeding, petechiae), skin darkening, oedema, signs of **HIV** (thrush, parotids), TB contacts, temperature and vitals."
+        },
+        {
+          "prompt": "How will you examine and record the spleen and liver?",
+          "answer": "Palpate from the **right iliac fossa** toward the left hypochondrium; spleen edge felt **14 cm below the left costal margin** along its axis, extending past the umbilicus toward the RIF = **Hackett grade 4–5**, firm, non-tender, notch felt. Liver: 3 cm below RCM, span 10 cm. No ascites."
+        },
+        {
+          "prompt": "What is your differential diagnosis?",
+          "answer": "**Visceral leishmaniasis (kala-azar)** (Karamoja, fever, wasting, massive spleen, malaria treatment failure); **hyperreactive malarial splenomegaly**; **chronic malaria**; **schistosomiasis** with portal hypertension; **leukaemia/lymphoma**; **HIV/TB**; brucellosis (pastoralist area)."
+        },
+        {
+          "prompt": "What investigations will you request?",
+          "answer": "**rK39 rapid test**; **FBC** (pancytopenia in kala-azar or hypersplenism; blasts in leukaemia); **malaria smear**; **HIV test**; **splenic or bone marrow aspirate** for Leishmania amastigotes if rK39 positive/unclear (by trained staff, with platelets checked); ultrasound; stool Kato-Katz; CXR/Xpert if TB suspected; brucella serology."
+        },
+        {
+          "prompt": "rK39 is positive and bone marrow shows Leishman–Donovan bodies. What next?",
+          "answer": "**Visceral leishmaniasis**: refer/transfer to a **VL treatment centre** (e.g. Amudat Hospital or Kacheliba HC IV) for combination therapy per national VL guidelines (e.g. SSG + paromomycin), nutritional rehabilitation, treat anaemia, test for HIV co-infection, and monitor spleen size and blood counts for response."
+        },
+        {
+          "prompt": "How do you present this child?",
+          "answer": "'Akello, 8 years, from Kotido, wasted (BMI-for-age Z −2.6), with 2 months of fever unresponsive to antimalarials, pallor, and **massive splenomegaly (14 cm, Hackett 4–5)** with mild hepatomegaly; rK39 positive and LD bodies on marrow: **visceral leishmaniasis** with anaemia and wasting. Plan: VL treatment at a specialist centre, nutrition, transfusion if indicated, HIV test.'"
+        }
+      ],
+      "takeaway": "Measure and grade a big spleen properly, and let geography guide the differential: in Karamoja, fever and massive splenomegaly that do not respond to antimalarials mean visceral leishmaniasis until proven otherwise."
+    }
+  ],
+  "references": [
+    {
+      "title": "Clinical Practice Guidelines: Acute scrotal pain or swelling",
+      "source": "The Royal Children's Hospital Melbourne",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_scrotal_pain_or_swelling/"
+    },
+    {
+      "title": "Clinical Practice Guidelines: The penis and foreskin",
+      "source": "The Royal Children's Hospital Melbourne",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/The_penis_and_foreskin/"
+    },
+    {
+      "title": "Kids Health Info: Undescended testes",
+      "source": "The Royal Children's Hospital Melbourne",
+      "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Undescended_testes/"
+    },
+    {
+      "title": "Kids Health Info: Inguinal hernia",
+      "source": "The Royal Children's Hospital Melbourne",
+      "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Inguinal_hernia/"
+    },
+    {
+      "title": "Uganda Clinical Guidelines 2023 (schistosomiasis, sickle cell disease, sexual assault/PEP, nephrotic syndrome)",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf"
+    },
+    {
+      "title": "Pocket Book of Hospital Care for Children, 2nd edition",
+      "source": "World Health Organization",
+      "year": 2013,
+      "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+    },
+    {
+      "title": "Updated guideline: Paediatric emergency triage, assessment and treatment",
+      "source": "World Health Organization",
+      "year": 2016,
+      "url": "https://www.who.int/publications/i/item/9789241510219"
+    }
+  ]
+}

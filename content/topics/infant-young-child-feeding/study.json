@@ -1,0 +1,512 @@
+{
+  "slug": "infant-young-child-feeding",
+  "flashcards": [
+    {
+      "id": "iycf-f01",
+      "front": "The WHO/UNICEF/Uganda MoH breastfeeding recommendations in one line",
+      "back": "Initiate within **1 hour**, **exclusive** for **6 months**, complementary foods from **6 months**, continue breastfeeding to **2 years or beyond**."
+    },
+    {
+      "id": "iycf-f02",
+      "front": "What is allowed in exclusive breastfeeding?",
+      "back": "Breast milk (including expressed) plus **ORS, drops and syrups** of vitamins, minerals or medicines. Nothing else: no water, glucose, herbs or formula."
+    },
+    {
+      "id": "iycf-f03",
+      "front": "4 signs of good attachment",
+      "back": "**More areola above** than below the mouth; **mouth wide open**; **lower lip turned out**; **chin touching the breast**."
+    },
+    {
+      "id": "iycf-f04",
+      "front": "4 points of good positioning",
+      "back": "Baby's **head and body in line**; held **close**; **facing the breast** (nose to nipple); **whole body supported**."
+    },
+    {
+      "id": "iycf-f05",
+      "front": "Signs of effective suckling",
+      "back": "**Slow, deep sucks with pauses**, **audible swallowing**, cheeks rounded (not drawn in), baby releases the breast satisfied."
+    },
+    {
+      "id": "iycf-f06",
+      "front": "Signs a young breastfed baby is getting enough milk",
+      "back": "**8–12 feeds/24 h**, **≥ 6 wet nappies/day** after day 5, birth weight regained by **10–14 days**, steady weight gain on the card."
+    },
+    {
+      "id": "iycf-f07",
+      "front": "Prolactin vs oxytocin in lactation",
+      "back": "**Prolactin**: milk **production**, triggered by suckling, higher at night. **Oxytocin**: **let-down** reflex; inhibited by stress, pain and doubt."
+    },
+    {
+      "id": "iycf-f08",
+      "front": "Why is colostrum important?",
+      "back": "Rich in **secretory IgA, lactoferrin, white cells and vitamin A**; laxative (clears meconium, less jaundice); the baby's 'first immunisation'. Never discard it."
+    },
+    {
+      "id": "iycf-f09",
+      "front": "Foremilk vs hindmilk",
+      "back": "**Foremilk**: watery, quenches thirst. **Hindmilk**: **fat-rich**, energy and satiety. Let the baby finish one breast before switching."
+    },
+    {
+      "id": "iycf-f10",
+      "front": "Why start complementary foods at 6 months (not earlier, not later)?",
+      "back": "Breast milk no longer meets **energy, iron, zinc and vitamin A** needs; infant developmentally ready. Earlier = infection and less breast milk; later = **faltering and iron deficiency**."
+    },
+    {
+      "id": "iycf-f11",
+      "front": "Energy needed from complementary foods (breastfed child)",
+      "back": "About **200 kcal/day** at 6–8 months, **300** at 9–11 months, **550** at 12–23 months."
+    },
+    {
+      "id": "iycf-f12",
+      "front": "UCG/IMCI complementary feeding at 6–9 months",
+      "back": "Thick porridge/mashed foods, **2–3 meals + 1–2 snacks**; start **2–3 tablespoons**, increase to **½ cup** (250 mL cup)."
+    },
+    {
+      "id": "iycf-f13",
+      "front": "UCG/IMCI complementary feeding at 9–12 and 12–24 months",
+      "back": "9–12 mo: **½ cup, 3–4 meals + 1–2 snacks**. 12–24 mo: **¾ cup, 3–4 meals + 1–2 snacks**. ≥ 2 years: **at least 1 full cup**."
+    },
+    {
+      "id": "iycf-f14",
+      "front": "WHO 2023 complementary feeding: dietary diversity",
+      "back": "**Animal-source foods (meat, fish, eggs) daily**; **fruits and vegetables daily**; **pulses, nuts and seeds frequently**; minimise starchy staples."
+    },
+    {
+      "id": "iycf-f15",
+      "front": "WHO 2023: foods and drinks to avoid (6–23 months)",
+      "back": "Foods high in **sugar, salt or trans fats**; **sugar-sweetened beverages**; **non-sugar sweeteners**; **limit 100% fruit juice**."
+    },
+    {
+      "id": "iycf-f16",
+      "front": "WHO 2023: milks for non-breastfed children",
+      "back": "**6–11 months**: infant formula or full-fat animal milk. **12–23 months**: animal milk. **Follow-up formulas not recommended**; no sweetened milks."
+    },
+    {
+      "id": "iycf-f17",
+      "front": "Minimum dietary diversity: the 8 food groups",
+      "back": "Breast milk; grains/roots/tubers/plantains; pulses/nuts/seeds; dairy; flesh foods; eggs; vitamin A-rich fruits and vegetables; other fruits and vegetables. **MDD = ≥ 5 of 8.**"
+    },
+    {
+      "id": "iycf-f18",
+      "front": "Minimum meal frequency",
+      "back": "**2** for breastfed 6–8 months; **3** for breastfed 9–23 months; **4** for non-breastfed 6–23 months (including ≥ 2 milk feeds)."
+    },
+    {
+      "id": "iycf-f19",
+      "front": "Uganda IYCF statistics (UDHS 2016 via MIYCAN 2021)",
+      "back": "Early initiation about **66%**, EBF about **66%**, continued BF at 2 years about **43%**, minimum acceptable diet only about **15%**."
+    },
+    {
+      "id": "iycf-f20",
+      "front": "HIV and breastfeeding: Uganda MIYCAN 2021",
+      "back": "EBF 6 months on maternal ART; then complementary foods + BF. **HIV-negative exposed infant: stop at 12 months** with ≥ 500 mL/day other milk. **HIV-positive infant: continue to 24 months.** Stop gradually over 1–2 weeks."
+    },
+    {
+      "id": "iycf-f21",
+      "front": "WHO 2016 duration of breastfeeding for mothers living with HIV",
+      "back": "**At least 12 months**, and may continue **up to 24 months or longer** (like the general population) with ART adherence support."
+    },
+    {
+      "id": "iycf-f22",
+      "front": "Why is mixed feeding dangerous under 6 months (especially with HIV)?",
+      "back": "Other foods and fluids **inflame the infant gut mucosa** (and add contamination), letting HIV and pathogens cross; also reduce milk supply."
+    },
+    {
+      "id": "iycf-f23",
+      "front": "BFHI Step 4 and Step 6",
+      "back": "**Step 4**: immediate, uninterrupted **skin-to-skin** and early initiation. **Step 6**: **no food or fluids other than breast milk** unless medically indicated."
+    },
+    {
+      "id": "iycf-f24",
+      "front": "BFHI Steps 7–10",
+      "back": "**7** rooming-in 24 h; **8** responsive feeding (recognise cues); **9** counsel on **bottles, teats and pacifiers**; **10** coordinated discharge and ongoing support."
+    },
+    {
+      "id": "iycf-f25",
+      "front": "Management of mastitis",
+      "back": "**Keep breastfeeding/expressing** from the affected side, rest, fluids, analgesia; if bacterial: **flucloxacillin/cloxacillin 500 mg orally 6-hourly for 10–14 days**. Abscess → drainage."
+    },
+    {
+      "id": "iycf-f26",
+      "front": "Engorgement management",
+      "back": "**Frequent feeding** with good attachment, **hand-express** to soften the areola, **warm compress before** and **cold after** feeds, paracetamol."
+    },
+    {
+      "id": "iycf-f27",
+      "front": "Storage of expressed breast milk (CDC)",
+      "back": "**Room temperature up to 4 h**, **fridge up to 4 days**, **freezer about 6 months** (up to 12 acceptable); use thawed milk within 24 h; never refreeze."
+    },
+    {
+      "id": "iycf-f28",
+      "front": "True contraindications to breastfeeding",
+      "back": "Infant **classic galactosaemia**; maternal **Ebola**; certain **drugs** (cytotoxics, radioactive iodine); herpes lesion on the breast (that side). **Not** HIV on ART, hepatitis B, TB on treatment, malaria."
+    },
+    {
+      "id": "iycf-f29",
+      "front": "Safe formula preparation (when truly needed)",
+      "back": "Boiled water at **≥ 70 °C**, exact level scoops (usually **1 per 30 mL**), no extra powder or sugar, **cup** feeding, discard after **1 hour**."
+    },
+    {
+      "id": "iycf-f30",
+      "front": "Feeding during and after illness",
+      "back": "**Breastfeed more often**, extra fluids, soft favourite foods in small frequent amounts; never withhold food; **one extra meal a day for 2 weeks** after illness."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "iycf-q01",
+      "stem": "A 3-week-old girl (birth weight 3.1 kg, now 3.4 kg) is breastfed 10 times a day. Her mother complains of severe nipple pain since day 2 and a cracked left nipple. On observation the baby's mouth is not wide open, the lower lip is turned in and more areola is visible below the mouth than above. What is the MOST appropriate advice?",
+      "options": [
+        "Stop breastfeeding on the left side for 2 weeks",
+        "Apply a nipple cream and continue the same technique",
+        "Start formula top-ups after each feed",
+        "Help her improve attachment (wide mouth, lower lip out, chin to breast, more areola above), start on the less sore side, and rub hindmilk on the nipple",
+        "Give the baby nystatin drops and the mother miconazole cream"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: pain from day 2 with fissures and poor attachment signs means the cause is poor attachment; correcting it is the treatment, plus starting on the less sore side and hindmilk on the nipple. A is wrong: stopping the side for 2 weeks risks engorgement, mastitis and falling supply (short-term expressing from that side is acceptable if pain is severe). B is wrong: creams do not fix the cause. C is wrong: her weight gain is adequate; formula undermines supply and exclusive breastfeeding. E is wrong: thrush typically causes burning pain after a period of comfortable feeding, with oral white patches; here the problem is attachment.",
+      "difficulty": "core"
+    },
+    {
+      "id": "iycf-q02",
+      "stem": "A mother of a 2-month-old in Gulu says she gives water 3 times a day 'because it is very hot and the baby is thirsty'. The baby is exclusively breastfed otherwise and growing along the median. What is the BEST advice?",
+      "options": [
+        "Continue the water but boil it first",
+        "Stop the water; breast milk contains all the water a baby under 6 months needs, so breastfeed more often in hot weather",
+        "Give ORS instead of water",
+        "Replace water with diluted fruit juice",
+        "Give glucose water only at night"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: breast milk (especially foremilk) supplies enough water under 6 months, even in hot climates; extra water displaces milk, adds infection risk and breaks exclusive breastfeeding. A is wrong: boiled water is still unnecessary and reduces breastfeeding. C is wrong: ORS is only for diarrhoea or dehydration. D is wrong: juice is not recommended and breaks EBF. E is wrong: glucose water reduces suckling and supply.",
+      "difficulty": "core"
+    },
+    {
+      "id": "iycf-q03",
+      "stem": "A 10-month-old boy (WLZ −1.6, MUAC 13.1 cm) is breastfed and eats thin maize porridge twice a day. What is the MOST appropriate counselling according to UCG 2023/IMCI and WHO 2023?",
+      "options": [
+        "Continue the same porridge but add sugar for energy",
+        "Stop breastfeeding so that he eats more porridge",
+        "Give 3–4 meals of ½ cup plus 1–2 snacks, make porridge thick and enrich it with groundnut paste, milk or oil, and add an animal-source food and fruits or vegetables daily",
+        "Start follow-up formula 500 mL daily",
+        "Give the porridge by bottle so he finishes it"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: at 9–12 months the UCG recommends ½ cup at each of 3–4 meals plus 1–2 snacks; thin porridge is energy-poor, so enrich it, and WHO 2023 recommends animal-source foods and fruits/vegetables daily. A is wrong: WHO 2023 advises against foods high in sugar. B is wrong: breastfeeding should continue to 2 years or beyond. D is wrong: follow-up formulas are not recommended and are costly. E is wrong: bottles cause infection and are discouraged; use a cup and spoon with responsive feeding.",
+      "difficulty": "core"
+    },
+    {
+      "id": "iycf-q04",
+      "stem": "A 26-year-old woman living with HIV, on TLD with a viral load < 50 copies/mL at 34 weeks, has just delivered at Mengo Hospital. She asks how to feed her baby. What is the MOST appropriate advice in Uganda?",
+      "options": [
+        "Exclusive breastfeeding for 6 months, then complementary foods with continued breastfeeding, while she continues ART and viral load monitoring",
+        "Exclusive formula feeding, because breastfeeding transmits HIV",
+        "Breastfeed for 3 months, then switch abruptly to cow's milk",
+        "Breastfeed and give formula top-ups so the baby gets less breast milk",
+        "Express and heat-treat all breast milk for 2 years"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: breastfeeding is recommended for all women irrespective of HIV status (MIYCAN 2021); with suppressed viral load on ART, transmission risk is very low, while not breastfeeding raises infant mortality. B is wrong: formula is not the default and carries high risks in Uganda unless strictly safe and sustainable. C is wrong: early, abrupt cessation increases risk (and is outdated advice). D is wrong: mixed feeding under 6 months increases HIV transmission and diarrhoea. E is wrong: heat-treating is not routine practice and is impractical.",
+      "difficulty": "core"
+    },
+    {
+      "id": "iycf-q05",
+      "stem": "A 12-month-old HIV-exposed boy has a negative DNA PCR at 9 months. His mother is on ART with a suppressed viral load. According to Uganda's MIYCAN 2021 guidance, what is the MOST appropriate plan?",
+      "options": [
+        "Stop breastfeeding abruptly today and test in 6 weeks",
+        "Continue breastfeeding to 24 months; no further testing needed",
+        "Stop breastfeeding at 6 months next time",
+        "Encourage gradual cessation of breastfeeding over 1–2 weeks, give at least 500 mL/day of other milk, and do a DNA PCR 6 weeks after complete cessation",
+        "Start replacement formula and continue breastfeeding at night"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: MIYCAN 2021 advises HIV-exposed, HIV-negative infants to stop breastfeeding at 12 months, gradually over 1–2 weeks, with ≥ 500 mL/day of alternative milk (cow, goat or soya), and EID requires a PCR 6 weeks after complete cessation (WHO allows continuation to 24 months with support). A is wrong: abrupt weaning causes breast engorgement, distress and higher viral shedding risk. B is wrong: continuing to 24 months is MIYCAN's advice for HIV-positive infants, and a final test after weaning is always required. C is wrong: the child is already 12 months. E is wrong: mixing breast and replacement feeding prolongs exposure without benefit.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "iycf-q06",
+      "stem": "On day 4 after delivery, a breastfeeding mother has fever 38.7 °C and a red, hot, tender wedge-shaped area on her right breast. The baby is feeding well. She was told by a relative to stop breastfeeding from that side. What is the BEST advice?",
+      "options": [
+        "Stop breastfeeding on the right side until the redness settles",
+        "Stop breastfeeding completely and start formula",
+        "Incision and drainage today",
+        "Apply cold compresses only; antibiotics are never needed",
+        "Continue breastfeeding or expressing from the right side, rest, analgesia, and flucloxacillin 500 mg 6-hourly for 10–14 days if bacterial or not better in 24 h"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: mastitis is treated by continued effective milk removal plus rest, fluids and analgesia; antibiotics (flucloxacillin/cloxacillin 500 mg 6-hourly for 10–14 days) if fever, fissures, or no improvement within 24 h. A is wrong: milk stasis worsens mastitis and can lead to abscess. B is wrong: stopping is unnecessary and harmful. C is wrong: drainage is for an abscess (fluctuant mass), not mastitis. D is wrong: a febrile mother with probable bacterial mastitis often needs antibiotics.",
+      "difficulty": "core"
+    },
+    {
+      "id": "iycf-q07",
+      "stem": "A 6-day-old exclusively breastfed baby is brought in lethargic and jaundiced. Birth weight 3.3 kg, now 2.85 kg. Few wet nappies. Na 156 mmol/L. What is the MOST likely underlying problem?",
+      "options": [
+        "Breast-milk jaundice",
+        "Insufficient breast milk intake (breastfeeding failure) with hypernatraemic dehydration",
+        "Galactosaemia",
+        "Hypothyroidism",
+        "Normal physiological weight loss"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: a 13.6% weight loss, few wet nappies, hypernatraemia and jaundice in the first week point to inadequate intake (poor attachment/infrequent feeds). Rehydrate slowly, support lactation, supplement with EBM or formula by cup, check bilirubin and exclude sepsis. A is wrong: breast-milk jaundice occurs in a well, thriving baby beyond 2 weeks. C is wrong: galactosaemia causes vomiting, jaundice, hepatomegaly and E. coli sepsis, but not this pattern of dehydration with hypernatraemia from low intake. D is wrong: hypothyroidism causes prolonged jaundice and lethargy without acute weight loss. E is wrong: normal loss is up to about 7–10%, regained by 10–14 days.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "iycf-q08",
+      "stem": "Which of the following practices on a maternity ward is CONSISTENT with the Baby-Friendly Hospital Initiative Ten Steps?",
+      "options": [
+        "Giving glucose water to all babies born by caesarean section until the mother is awake",
+        "Keeping babies in the nursery at night so mothers can rest",
+        "Distributing free formula samples from a company to mothers at discharge",
+        "Teaching mothers to bottle-feed expressed milk",
+        "Placing the baby skin-to-skin with the mother immediately after birth and helping her initiate breastfeeding within the first hour"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: BFHI Step 4 requires immediate, uninterrupted skin-to-skin contact and early initiation. A is wrong: Step 6 forbids non-breast-milk feeds unless medically indicated; mothers after CS can do skin-to-skin in recovery. B is wrong: Step 7 requires rooming-in 24 hours a day. C is wrong: free samples violate the International Code (Step 1a) and Uganda's marketing regulations. D is wrong: Step 9 advises counselling about the risks of bottles and teats; use a cup.",
+      "difficulty": "core"
+    },
+    {
+      "id": "iycf-q09",
+      "stem": "A 15-month-old girl has stopped breastfeeding because her mother is pregnant. The family asks which milk to give. According to WHO 2023, which is MOST appropriate?",
+      "options": [
+        "Pasteurised full-fat animal (cow's) milk, about 2 cups a day, alongside a diverse family diet",
+        "Follow-up ('growing-up') formula",
+        "Sweetened condensed milk diluted with water",
+        "Flavoured milk drinks to encourage intake",
+        "No milk; porridge is enough"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: for non-breastfed children 12–23 months, WHO 2023 recommends animal milk (pasteurised, fermented or reconstituted evaporated milk) and states follow-up formulas are not recommended; non-breastfed children need about 2 or more milk feeds a day. B is wrong: follow-up formulas are not recommended. C is wrong: condensed milk is very high in sugar and not appropriate. D is wrong: flavoured or sweetened milks should not be used. E is wrong: milk is an important source of protein, calcium and energy, especially when other animal-source foods are scarce.",
+      "difficulty": "core"
+    },
+    {
+      "id": "iycf-q10",
+      "stem": "A 4-month-old's mother returns to work at a market in Kampala and asks how to keep breastfeeding. What is the BEST advice?",
+      "options": [
+        "Start formula during the day and breastfeed at night",
+        "Introduce porridge now because the baby is 'big enough'",
+        "Give cow's milk by bottle while she is away",
+        "Express breast milk before leaving (stores about 4 hours at room temperature), have the caregiver give it by cup, and breastfeed often when together, including at night",
+        "Stop breastfeeding to avoid confusion"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: expressing and cup-feeding preserves exclusive breastfeeding to 6 months; expressed milk keeps about 4 hours at room temperature (CDC), longer in a fridge, and frequent feeds when together maintain supply. A is wrong: formula makes it mixed feeding and reduces supply. B is wrong: complementary foods start at 6 months. C is wrong: cow's milk is unsuitable under 6 months (and bottles add infection risk). E is wrong: working mothers can and should continue breastfeeding.",
+      "difficulty": "core"
+    },
+    {
+      "id": "iycf-q11",
+      "stem": "An 11-month-old's 24-hour recall: breastfed 5 times; millet porridge made with milk (morning); matooke with beans (lunch); posho with dodo (amaranth leaves) (evening). No snacks. Which statement is CORRECT?",
+      "options": [
+        "He meets both minimum dietary diversity (5 of 8 food groups) and minimum meal frequency, so he has a minimum acceptable diet",
+        "He fails minimum dietary diversity because he ate no meat, fish or eggs",
+        "He needs 4 meals a day to meet minimum meal frequency",
+        "Breast milk does not count as one of the food groups",
+        "He fails minimum meal frequency because no snacks were given"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: his food groups are breast milk, grains/roots/plantains (millet, matooke, posho), pulses (beans), dairy (milk) and vitamin A-rich vegetables (dark green dodo leaves) = 5 of 8, meeting MDD; 3 meals meets MMF for a breastfed 9–23-month-old; together that is a minimum acceptable diet. WHO 2023 would still advise adding an animal-source food (egg, fish, meat) daily. B is wrong: MDD counts any 5 of the 8 groups; flesh foods and eggs are recommended but not mandatory for the indicator. C is wrong: 4 feeds is the MMF for non-breastfed children. D is wrong: since the 2021 WHO/UNICEF revision, breast milk is one of the 8 groups. E is wrong: snacks are not required to meet MMF.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "iycf-q12",
+      "stem": "A mother brings her 5-month-old baby, who is exclusively breastfed and gaining weight along the median line, asking to start porridge because 'he cries a lot in the evening'. What is the MOST appropriate response?",
+      "options": [
+        "Start thin porridge once daily",
+        "Start formula in the evening",
+        "Reassure her that weight gain shows he is getting enough, explain evening cluster feeding, advise feeding on demand, and plan complementary foods at 6 months",
+        "Give gripe water in the evening",
+        "Refer to a paediatrician for colic"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: steady growth shows adequate milk; evening fussiness and cluster feeding are normal; complementary foods start at 6 months (180 days) per WHO 2023. A is wrong: early porridge displaces breast milk and adds infection risk. B is wrong: formula breaks exclusive breastfeeding. D is wrong: gripe water is unnecessary and breaks EBF. E is wrong: a thriving baby with normal crying does not need referral.",
+      "difficulty": "core"
+    },
+    {
+      "id": "iycf-q13",
+      "stem": "A 7-week-old baby has creamy white plaques on the tongue and cheeks that do not wipe off. His mother reports burning nipple pain that began last week after 6 pain-free weeks of breastfeeding. What is the BEST management?",
+      "options": [
+        "Stop breastfeeding until the plaques disappear",
+        "Nystatin oral suspension for the baby and miconazole (or nystatin) cream to the mother's nipples, continuing breastfeeding",
+        "Treat the baby only",
+        "Flucloxacillin for the mother",
+        "Gentian violet to the baby's mouth for 4 weeks and switch to bottle feeding"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: oral thrush with new burning nipple pain after comfortable feeding = candida in both; treat mother and baby together and continue breastfeeding. A is wrong: there is no need to stop. C is wrong: treating only one partner causes re-infection. D is wrong: flucloxacillin treats bacterial mastitis, not candida. E is wrong: prolonged gentian violet can ulcerate the mouth, and bottles worsen the problem.",
+      "difficulty": "core"
+    },
+    {
+      "id": "iycf-q14",
+      "stem": "Which of the following is a TRUE contraindication to breastfeeding?",
+      "options": [
+        "Maternal HIV infection with suppressed viral load on ART",
+        "Maternal hepatitis B surface antigen positivity (baby vaccinated at birth)",
+        "Maternal pulmonary TB on treatment for 3 weeks",
+        "Classic galactosaemia in the infant",
+        "Maternal malaria treated with artemether-lumefantrine"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: infants with classic galactosaemia cannot metabolise galactose from lactose and need a galactose-free formula. A is wrong: in Uganda, mothers on ART are encouraged to breastfeed. B is wrong: hepatitis B is not a contraindication when the baby receives the birth-dose vaccine (and HBIG where available). C is wrong: mothers on TB treatment can breastfeed; the baby receives TB preventive therapy. E is wrong: malaria and artemether-lumefantrine are compatible with breastfeeding.",
+      "difficulty": "core"
+    },
+    {
+      "id": "iycf-q15",
+      "stem": "A mother who has to use formula (her infant has galactosaemia ruled out; she is on chemotherapy) asks how to prepare feeds safely. Which instruction is CORRECT?",
+      "options": [
+        "Add an extra scoop so the baby grows faster",
+        "Use unboiled tap water to save time",
+        "Use a bottle with a large teat so the baby feeds quickly",
+        "Keep prepared milk at room temperature for the next day",
+        "Use water boiled and still at least 70 °C, measure level scoops exactly as on the tin, feed by cup, and discard leftovers after 1 hour"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: water at ≥ 70 °C kills Cronobacter and other bacteria; exact measuring avoids hypernatraemia or malnutrition; cups are easier to clean; leftovers are discarded within 1 hour (UCG). A is wrong: extra powder causes hypernatraemic dehydration and obesity. B is wrong: unboiled water causes diarrhoea. C is wrong: bottles are hard to clean and fast flow risks choking and overfeeding. D is wrong: prepared formula grows bacteria quickly at room temperature.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "iycf-c01",
+      "title": "'My milk is not enough': a 6-week-old at a HC IV",
+      "presentation": "Nalwoga brings her 6-week-old son, Isaac, to the young child clinic at a HC IV in Mpigi for his 6-week vaccines. She says her milk 'is not enough' and she has started giving cow's milk by bottle twice a day. Birth weight 3.2 kg.",
+      "steps": [
+        {
+          "prompt": "What will you ask?",
+          "answer": "Danger signs (feeding poorly? fever? convulsions?); **when breastfeeding started**, pre-lacteal feeds; **how often** by day and **night** (she says 6 times, none at night because he sleeps); what else and from when (cow's milk from 4 weeks, bottle); **wet nappies** (4–5/day); **breast pain** (sore nipples); her **HIV status** (negative at ANC, retest due), her health and mood, work plans, who helps at home."
+        },
+        {
+          "prompt": "What will you examine?",
+          "answer": "**Weigh and plot**: 3.9 kg (gain of 700 g in 6 weeks ≈ 17 g/day, below the expected 25–30 g/day; WAZ falling). **Observe a breastfeed**: body turned away, neck twisted, **chin off the breast, mouth not wide open, more areola below**, quick shallow sucks. Mouth: no thrush, no tongue-tie. Breasts: small fissure on the right nipple. Baby alert and well."
+        },
+        {
+          "prompt": "What is your assessment?",
+          "answer": "**Feeding problem**: **poor positioning and attachment**, **too few feeds (6/day, none at night)**, and **mixed feeding with a bottle**, causing **slow weight gain** and reduced milk supply. No danger signs; not a true milk insufficiency."
+        },
+        {
+          "prompt": "How do you counsel her?",
+          "answer": "Praise her for coming and for breastfeeding. Show **positioning** (in line, close, facing, supported) and **attachment** (wide mouth, lower lip out, chin to breast, more areola above); practise until comfortable. Feed **8–12 times in 24 h including at night**; let him finish one breast first. **Stop cow's milk and the bottle** gradually as supply rises (cow's milk is unsuitable under 12 months as a main drink, and mixed feeding raises diarrhoea risk). Skin-to-skin. Rub hindmilk on the sore nipple. Check understanding by teach-back."
+        },
+        {
+          "prompt": "What else do you do today, and when do you review?",
+          "answer": "Give the **6-week vaccines** (OPV1, DPT-HepB-Hib1, PCV1, rotavirus 1). **Retest the mother for HIV** (postnatal retesting). Discuss **family planning** (LAM requires exclusive breastfeeding, which she is not yet doing; offer a progestogen-only method). **Review in 5 days** (IMCI feeding problem) to observe a feed and weigh; she should see **more wet nappies** within days."
+        },
+        {
+          "prompt": "At review she is exclusively breastfeeding 10 times a day, and he has gained 180 g in 5 days. What do you say?",
+          "answer": "Excellent progress: **36 g/day**. Praise her and her family; continue exclusive breastfeeding to 6 months; teach **expressing and cup feeding** for when she returns to work; plan complementary feeding at 6 months; return for 10-week vaccines."
+        }
+      ],
+      "takeaway": "Most 'insufficient milk' is poor attachment and infrequent feeding: watch a feed, fix positioning and attachment, feed often day and night, stop supplements, and review weight within a week."
+    },
+    {
+      "id": "iycf-c02",
+      "title": "HIV-exposed infant: feeding through the first two years",
+      "presentation": "Akello, 24, is living with HIV and on TLD. Her viral load at 36 weeks was < 50 copies/mL. She delivers a healthy 3.0 kg girl, Grace, at a regional referral hospital. She is worried that breastfeeding will infect her baby.",
+      "steps": [
+        {
+          "prompt": "What will you tell her about breastfeeding and HIV?",
+          "answer": "With her viral load suppressed on ART, the risk of passing HIV through breast milk is **very low**; not breastfeeding greatly raises Grace's risk of dying from **diarrhoea, pneumonia and malnutrition** in Uganda. Uganda recommends **breastfeeding for all women irrespective of HIV status** (MIYCAN 2021): **exclusive breastfeeding for 6 months**, keep taking ART every day, keep her breasts healthy, and attend viral load checks."
+        },
+        {
+          "prompt": "What does Grace need in the first weeks?",
+          "answer": "**Infant prophylaxis**: low-risk (mother suppressed) → **NVP once daily for 6 weeks** (15 mg if ≥ 2.5 kg) started within 6 h of birth; **co-trimoxazole** from 6 weeks; **DNA PCR at 4–6 weeks**; routine vaccines. **Early initiation** of breastfeeding within 1 hour; skin-to-skin; no pre-lacteal feeds."
+        },
+        {
+          "prompt": "At 3 months Akello plans to give water and porridge because her mother-in-law insists. What do you say?",
+          "answer": "**No mixed feeding before 6 months**: other foods and fluids inflame the baby's gut and **increase HIV transmission** and diarrhoea. Involve the mother-in-law in counselling; explain that breast milk provides all the water and food Grace needs until 6 months. Check Akello's **adherence and viral load** (every 3 months during breastfeeding)."
+        },
+        {
+          "prompt": "At 6 months, what is the feeding plan?",
+          "answer": "**Start complementary foods** (2–3 meals + 1–2 snacks, 2–3 tablespoons rising to ½ cup of thick, enriched porridge and mashed foods with an animal-source food, fruits and vegetables daily) **while continuing breastfeeding**. **Vitamin A 100,000 IU.** Continue maternal ART and VL monitoring. **DNA PCR at 9 months.**"
+        },
+        {
+          "prompt": "Grace's 9-month PCR is negative. When and how should breastfeeding stop, and what testing follows?",
+          "answer": "Uganda MIYCAN 2021: encourage stopping at **12 months** for HIV-negative exposed infants (WHO 2016 allows continuing up to 24 months with adherence support), **gradually over 1–2 weeks** (express and cup-feed, replace with other milk), then **at least 500 mL/day of cow's, goat's or soya milk** with a diverse diet. **DNA PCR 6 weeks after complete cessation**, then a **rapid antibody test at 18 months**."
+        },
+        {
+          "prompt": "What would change if Grace's PCR were positive?",
+          "answer": "Start **ART immediately** (send a confirmatory sample at the same time), and **continue breastfeeding on demand to 24 months** (MIYCAN 2021) to protect her nutrition and health; intensive adherence support for both mother and baby; review Akello's viral load and adherence."
+        }
+      ],
+      "takeaway": "In Uganda, an HIV-positive mother on suppressive ART breastfeeds exclusively for 6 months and continues with complementary foods, avoids mixed feeding, and stops gradually (about 12 months if the baby is negative) with a PCR 6 weeks after weaning."
+    },
+    {
+      "id": "iycf-c03",
+      "title": "Growth faltering at 9 months: a complementary feeding consultation",
+      "presentation": "Moses, 9 months old, is brought to the outpatient clinic at Mengo Hospital with a cough for 3 days. The nurse notes his weight (7.3 kg) has hardly changed since 6 months (7.0 kg). He is breastfed. His grandmother looks after him while his mother sells vegetables.",
+      "steps": [
+        {
+          "prompt": "After treating the cough (no pneumonia), how do you assess his nutrition?",
+          "answer": "**Length 70 cm**: WLZ about −1.3, LAZ about −0.9, WAZ about −1.3; **MUAC 13.0 cm**; no oedema. The card shows **flattening since 6 months** = growth faltering. No danger signs. Check **Hb** (HemoCue 9.8 g/dL: mild anaemia)."
+        },
+        {
+          "prompt": "What will you ask the grandmother?",
+          "answer": "**24-hour recall**: breastfed 3 times (morning, evening, night); **thin maize porridge with sugar** by bottle twice; **mashed matooke with soup** once. Shares a plate with a 3-year-old cousin. **Food groups**: breast milk, grains/plantains = 2 of 8. **Meals**: 3. Also ask about **diarrhoea and malaria** episodes, **vitamin A and deworming** (not received), immunisation (MR due at 9 months)."
+        },
+        {
+          "prompt": "Interpret the recall.",
+          "answer": "**MMF met (3 meals for a breastfed 9-month-old)** but **MDD not met (2 of 8)**; low energy density (thin porridge), **no animal-source food**, no fruits or vegetables, **sugary** porridge, **bottle use**, **no own plate**, and breastfeeding has fallen. So **no minimum acceptable diet** → faltering and probable **iron deficiency**."
+        },
+        {
+          "prompt": "Give your counselling, specific to his age and family.",
+          "answer": "- **Breastfeed** whenever with mother, including more at night; the mother can **express** milk for the day\n- **3–4 meals of ½ cup + 1–2 snacks**; make porridge **thick**, enrich with **groundnut paste, milk or oil** (not sugar)\n- **Every day**: an **animal-source food** (egg, silverfish powder, liver, milk) and **fruits/vegetables** (dodo, pawpaw, mango, orange sweet potato, avocado); **beans** mashed often\n- **His own bowl**; sit with him and encourage (**responsive feeding**)\n- **Cup and spoon**, no bottle; **hand-washing** with soap\n- Extra food and fluid during and after the cough"
+        },
+        {
+          "prompt": "What preventive care does he need today?",
+          "answer": "**Measles–rubella vaccine** (9 months) and any other catch-up; **vitamin A 100,000 IU**; deworming is from **12 months** (albendazole 200 mg); treat or investigate anaemia (iron-rich foods; iron supplement per programme; malaria test); **review weight in 2–4 weeks** and enrol in monthly growth monitoring."
+        },
+        {
+          "prompt": "How will you check that the grandmother has understood?",
+          "answer": "**Teach-back**: ask her to say how many meals, how much, how thick, and which extra foods she will add tomorrow, using foods she has at home; agree on **one or two changes** she is confident about; give the mother the same messages (by phone or at the next visit)."
+        }
+      ],
+      "takeaway": "Growth faltering after 6 months is usually a complementary-feeding problem: do a 24-hour recall, count meals and food groups, and give age-specific, practical, local advice to the person who actually feeds the child."
+    }
+  ],
+  "references": [
+    {
+      "title": "WHO Guideline for complementary feeding of infants and young children 6–23 months of age",
+      "source": "World Health Organization",
+      "year": 2023,
+      "url": "https://www.who.int/publications/i/item/9789240081864"
+    },
+    {
+      "title": "Infant and young child feeding: fact sheet",
+      "source": "World Health Organization",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding"
+    },
+    {
+      "title": "Ten steps to successful breastfeeding (Baby-friendly Hospital Initiative, 2018 revision)",
+      "source": "World Health Organization / UNICEF",
+      "url": "https://www.who.int/teams/nutrition-and-food-safety/food-and-nutrition-actions-in-health-systems/ten-steps-to-successful-breastfeeding"
+    },
+    {
+      "title": "Maternal, Infant, Young Child and Adolescent Nutrition (MIYCAN): Health Facility Participant's Manual",
+      "source": "Ministry of Health Uganda",
+      "year": 2021,
+      "url": "https://library.health.go.ug/community-health/food-and-nutrition/maternal-infant-young-child-and-adolescent-nutrition-miycan-0"
+    },
+    {
+      "title": "Uganda Clinical Guidelines 2023 (19.1.1 IYCF; 17.3.12 IMCI feeding recommendations; HIV infant feeding)",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf"
+    },
+    {
+      "title": "Guideline: updates on HIV and infant feeding: the duration of breastfeeding, and support from health services to improve feeding practices among mothers living with HIV",
+      "source": "World Health Organization",
+      "year": 2016,
+      "url": "https://iris.who.int/handle/10665/246260"
+    },
+    {
+      "title": "Breast Milk Storage and Preparation",
+      "source": "Centers for Disease Control and Prevention",
+      "url": "https://www.cdc.gov/breastfeeding/breast-milk-preparation-and-storage/handling-breastmilk.html"
+    },
+    {
+      "title": "Nutrition Annual Performance Report FY 2022/23",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://library.health.go.ug/sites/default/files/resources/NAPR%20FY2023%20Annual%20report-10-1_Print.pdf"
+    }
+  ]
+}

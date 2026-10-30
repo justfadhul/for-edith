@@ -1,0 +1,509 @@
+{
+  "slug": "malnutrition-growth-monitoring",
+  "flashcards": [
+    {
+      "id": "mgm-f01",
+      "front": "Criteria for SAM in children 6–59 months",
+      "back": "**WHZ < −3** OR **MUAC < 115 mm** OR **bilateral pitting oedema** (any one)."
+    },
+    {
+      "id": "mgm-f02",
+      "front": "Criteria for MAM",
+      "back": "**WHZ −3 to < −2** OR **MUAC 115 to < 125 mm**, **no oedema**."
+    },
+    {
+      "id": "mgm-f03",
+      "front": "What do WHZ, HAZ and WAZ measure?",
+      "back": "**WHZ** = wasting (acute); **HAZ/LAZ** = stunting (chronic); **WAZ** = underweight (mixed). Moderate < −2, severe < −3."
+    },
+    {
+      "id": "mgm-f04",
+      "front": "Grades of nutritional oedema",
+      "back": "**+** both feet; **++** feet plus lower legs, hands or lower arms; **+++** generalised including the face."
+    },
+    {
+      "id": "mgm-f05",
+      "front": "Complicated SAM: admission criteria",
+      "back": "SAM plus any **IMCI danger sign** or **medical complication**, **oedema +++**, **failed appetite test**, or age **< 6 months** (WHO 2023: infant at risk with danger signs, oedema or recent weight loss)."
+    },
+    {
+      "id": "mgm-f06",
+      "front": "How is the appetite test done and passed (UCG)?",
+      "back": "Offer RUTF in a quiet corner with clean water for **30 minutes**. **Pass** = eats at least **⅓ of a 92 g sachet** (or 3 teaspoons from a pot)."
+    },
+    {
+      "id": "mgm-f07",
+      "front": "The WHO 10 steps for SAM",
+      "back": "1 Hypoglycaemia 2 Hypothermia 3 Dehydration 4 Electrolytes 5 Infection 6 Micronutrients 7 Cautious feeding 8 Catch-up growth 9 Sensory stimulation 10 Prepare for follow-up."
+    },
+    {
+      "id": "mgm-f08",
+      "front": "Treatment of hypoglycaemia in SAM (conscious child)",
+      "back": "**50 mL of 10% glucose or sugar water** orally/NG, then **F-75 every 30 min for 2 h**, then 2-hourly; antibiotics; recheck glucose at 30 min. Unconscious: **10% glucose 5 mL/kg IV**."
+    },
+    {
+      "id": "mgm-f09",
+      "front": "Hypothermia thresholds and treatment in SAM",
+      "back": "Axillary **< 35 °C** / rectal **< 35.5 °C**. Feed, **kangaroo care**, cover head, blankets, warm room (no hot water bottles), antibiotics, check glucose."
+    },
+    {
+      "id": "mgm-f10",
+      "front": "Rehydration in SAM without shock",
+      "back": "**ReSoMal 5 mL/kg every 30 min for 2 h**, then **5–10 mL/kg/h for 4–10 h** (alternate with F-75). No IV."
+    },
+    {
+      "id": "mgm-f11",
+      "front": "Shock in SAM",
+      "back": "**15 mL/kg over 1 h** of RL with 5% glucose (or half-strength Darrow's / 0.45% saline with 5% glucose); repeat once if improving; if not, **whole blood 10 mL/kg over 3 h**."
+    },
+    {
+      "id": "mgm-f12",
+      "front": "Antibiotics in complicated SAM (UCG 2023)",
+      "back": "**Ampicillin 50 mg/kg IV/IM 6-hourly × 2 days**, then **amoxicillin 25–40 mg/kg 8-hourly × 5 days**, **PLUS gentamicin 7.5 mg/kg once daily × 7 days**."
+    },
+    {
+      "id": "mgm-f13",
+      "front": "Antibiotic in uncomplicated SAM (UCG 2023)",
+      "back": "**Amoxicillin 40 mg/kg orally twice daily for 5 days.**"
+    },
+    {
+      "id": "mgm-f14",
+      "front": "F-75 composition and daily volume",
+      "back": "**75 kcal and 0.9 g protein per 100 mL.** **130 mL/kg/day** (100 mL/kg/day if severe oedema); max 100 kcal/kg/day."
+    },
+    {
+      "id": "mgm-f15",
+      "front": "F-75 feeding schedule",
+      "back": "Days 1–2: **2-hourly, 11 mL/kg/feed**; days 3–5: **3-hourly, 16 mL/kg**; day 6+: **4-hourly, 22 mL/kg**."
+    },
+    {
+      "id": "mgm-f16",
+      "front": "When to use an NG tube for F-75",
+      "back": "If the child takes **≤ 80%** of the feed at **two consecutive feeds**."
+    },
+    {
+      "id": "mgm-f17",
+      "front": "Signs that a child is ready for transition to F-100/RUTF",
+      "back": "**Return of appetite**, **no hypoglycaemia** (metabolically stable), **oedema reduced or gone**."
+    },
+    {
+      "id": "mgm-f18",
+      "front": "How do you transition from F-75 to F-100?",
+      "back": "Same volume of **F-100 for 2 days**, then **increase each feed by 10 mL** until some is left (about 200 mL/kg/day). Never switch all at once; F-100 never goes home."
+    },
+    {
+      "id": "mgm-f19",
+      "front": "Signs of heart failure during transition and what to do",
+      "back": "Pulse **+25/min** and RR **+5/min** on 2 successive 4-hourly readings → **100 mL/kg/day × 24 h**, then 115 × 24 h, then 130 × 48 h, then +10 mL/feed."
+    },
+    {
+      "id": "mgm-f20",
+      "front": "Weight gain categories in rehabilitation",
+      "back": "**Good > 10 g/kg/day**; moderate **5–10**; **poor < 5** (full reassessment)."
+    },
+    {
+      "id": "mgm-f21",
+      "front": "Iron in SAM",
+      "back": "**None in stabilisation.** Start **3 mg/kg/day after 2 days on F-100**. **Never with RUTF** (already contains iron)."
+    },
+    {
+      "id": "mgm-f22",
+      "front": "When is high-dose vitamin A given in SAM?",
+      "back": "Only with **eye signs of deficiency** or **recent measles** (or if not on therapeutic foods): days 1, 2 and 14 — **50,000 IU (< 6 mo), 100,000 IU (6–12 mo), 200,000 IU (> 12 mo)**."
+    },
+    {
+      "id": "mgm-f23",
+      "front": "RUTF energy content and WHO 2023 dose",
+      "back": "One **92 g sachet = 500 kcal**. WHO 2023: **150–185 kcal/kg/day** (may reduce to 100–130 once no longer severely wasted). UCG table ≈ 200 kcal/kg/day."
+    },
+    {
+      "id": "mgm-f24",
+      "front": "Exit criteria: UCG 2023 vs WHO 2023",
+      "back": "**UCG**: WHZ ≥ −2 **or** MUAC ≥ 125 mm (same indicator as admission) and no oedema for 2 weeks. **WHO 2023**: WHZ ≥ −2 **and** MUAC ≥ 125 mm on 2 consecutive visits, no oedema × 2 visits."
+    },
+    {
+      "id": "mgm-f25",
+      "front": "Uganda child nutrition (UDHS 2022)",
+      "back": "**Stunting 26%**, **wasting 2.9%**, **underweight 10.2%**; worst in **Karamoja**."
+    },
+    {
+      "id": "mgm-f26",
+      "front": "Marasmus vs kwashiorkor",
+      "back": "**Marasmus**: severe wasting, old man's face, baggy pants, alert and hungry, no oedema. **Kwashiorkor**: bilateral pitting oedema, apathy, flaky-paint dermatosis, sparse pale hair, fatty liver, poor appetite."
+    },
+    {
+      "id": "mgm-f27",
+      "front": "Transfusion criteria in SAM",
+      "back": "Only if **Hb < 4 g/dL**, or **4–6 g/dL with respiratory distress**: **whole blood 10 mL/kg over 3 h** + **furosemide 1 mg/kg**; packed cells if heart failure."
+    },
+    {
+      "id": "mgm-f28",
+      "front": "WHO 2023 criteria for an infant < 6 months 'at risk of poor growth and development'",
+      "back": "E.g. **WAZ < −2**, **WLZ < −3**, **MUAC < 110 mm** (6 weeks–6 months), **failure to gain weight** on 2 measurements, **ineffective breastfeeding**; admit if danger signs, oedema or recent weight loss."
+    },
+    {
+      "id": "mgm-f29",
+      "front": "Normal growth benchmarks in infancy",
+      "back": "Birth weight **doubles at 4–5 months**, **triples at 12 months**; length 50 → **75 cm** at 1 year; head circumference 35 → **47 cm** at 1 year."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "mgm-q01",
+      "stem": "A 2-year-old boy (8.2 kg, height 82 cm) is seen at a HC III. MUAC 11.2 cm, no oedema. He is alert, has no danger signs, no cough or diarrhoea, and eats a whole third of a RUTF sachet in 15 minutes. What is the MOST appropriate management?",
+      "options": [
+        "Admit for F-75 stabilisation",
+        "Counsel on feeding and review in 30 days",
+        "Outpatient therapeutic care: RUTF about 3 sachets/day, amoxicillin 40 mg/kg twice daily for 5 days, weekly review",
+        "Give ferrous sulphate, vitamin A 200,000 IU and RUTF",
+        "Refer to the regional referral hospital for investigations"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: MUAC < 115 mm = SAM; he passes the appetite test and has no complications, so he is treated as an outpatient with RUTF (UCG table: 7–8.4 kg = 3 sachets/day) and amoxicillin 40 mg/kg twice daily for 5 days, with 1–2-weekly follow-up. A is wrong: inpatient care is for complicated SAM or a failed appetite test. B is wrong: that is the plan for MAM; SAM needs therapeutic food and antibiotics. D is wrong: RUTF already contains iron and vitamin A; extra iron is not given, and high-dose vitamin A is only for eye signs or measles. E is wrong: uncomplicated SAM is managed at HC level.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mgm-q02",
+      "stem": "A 16-month-old girl with SAM (MUAC 10.6 cm) is admitted at 22:00. She is lethargic but rousable, axillary temperature 34.8 °C, RBS 2.2 mmol/L. She can swallow. Which is the MOST appropriate first action?",
+      "options": [
+        "50 mL of 10% glucose (or sugar water) orally/NG, start F-75, keep her warm skin-to-skin, and give IV antibiotics",
+        "Place her under a radiant heater and wait until morning to feed",
+        "10% glucose 5 mL/kg IV and 20 mL/kg Ringer's lactate bolus",
+        "Give F-100 to provide more energy",
+        "Hot water bottles around her and oral iron"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: steps 1 and 2 together: treat hypoglycaemia with 50 mL of 10% glucose or sugar water orally/NG (she can swallow), start F-75 (every 30 min for 2 h), warm her by kangaroo care, and give antibiotics because hypoglycaemia and hypothermia usually mean sepsis. B is wrong: delaying feeds causes recurrent hypoglycaemia and death; night feeds are essential. C is wrong: IV glucose is for unconscious or convulsing children, and a 20 mL/kg bolus is dangerous in SAM without shock. D is wrong: F-100 in stabilisation risks refeeding syndrome and heart failure. E is wrong: hot water bottles cause burns, and iron is never given in stabilisation.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mgm-q03",
+      "stem": "An 18-month-old with oedema ++ and MUAC 12.0 cm is admitted. The intern prescribes furosemide 1 mg/kg to 'clear the oedema before feeding'. What is the BEST response?",
+      "options": [
+        "Agree, and add albumin infusion",
+        "Agree, but reduce the dose to 0.5 mg/kg",
+        "Give spironolactone instead",
+        "Stop the diuretic: nutritional oedema is not treated with diuretics; it resolves with F-75, potassium and magnesium",
+        "Restrict feeds to 50 mL/kg/day until oedema resolves"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: oedema in SAM reflects sodium retention, potassium depletion and capillary leak; diuretics cause hypovolaemia and electrolyte collapse and can kill. It resolves with cautious feeding (F-75), extra K and Mg and treating infection. A is wrong: albumin and diuretics are not used. B is wrong: any diuretic dose is inappropriate here. C is wrong: spironolactone is also a diuretic with no role. E is wrong: F-75 is given at 130 mL/kg/day (100 mL/kg/day only if oedema +++); starving the child worsens outcome.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mgm-q04",
+      "stem": "A 3-year-old (10 kg) with SAM and watery diarrhoea has sunken eyes, slow skin pinch, warm hands, CRT 2 s and a good radial pulse. Which rehydration plan is MOST appropriate?",
+      "options": [
+        "Ringer's lactate 100 mL/kg over 3 hours",
+        "Standard ORS 750 mL over 4 hours",
+        "Ringer's lactate with 5% glucose 150 mL over 1 hour",
+        "No fluids, because the eye and skin signs are due to wasting",
+        "ReSoMal 50 mL every 30 minutes for 2 hours, then 50–100 mL/h for up to 10 hours, monitoring pulse, RR and liver"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: SAM with dehydration but not shocked = ReSoMal 5 mL/kg every 30 min for 2 h, then 5–10 mL/kg/h for 4–10 h, with close monitoring for overload. A is wrong: Plan C IV fluids are not used in SAM without shock. B is wrong: standard Plan B volumes and sodium are unsafe (low-osmolarity ORS is only the fallback, given slowly). C is wrong: 15 mL/kg IV over 1 h is the shock protocol; he is not shocked. D is wrong: although the signs are unreliable in SAM, a history of watery diarrhoea means he should be assumed to have some dehydration and given ReSoMal.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mgm-q05",
+      "stem": "A 13-month-old (6.0 kg) with complicated SAM has just been admitted. No oedema. Which F-75 prescription is correct for days 1–2?",
+      "options": [
+        "130 mL every 4 hours",
+        "66 mL every 2 hours, day and night",
+        "100 mL every 3 hours",
+        "150 mL every 3 hours",
+        "40 mL every 2 hours during the day only"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: 130 mL/kg/day = 780 mL/day; days 1–2 are 2-hourly (12 feeds) at 11 mL/kg = 66 mL per feed, including night feeds. A is wrong: 22 mL/kg 4-hourly is the day 6+ schedule, and 130 mL is too large per feed. C is wrong: 16 mL/kg 3-hourly is for days 3–5 (≈ 96 mL). D is wrong: 150 mL 3-hourly = 1200 mL/day = 200 mL/kg/day, rehabilitation volumes that risk heart failure. E is wrong: the volume is too low and omitting night feeds causes hypoglycaemia.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mgm-q06",
+      "stem": "A 2-year-old with SAM is on day 4. He finishes his F-75 eagerly, oedema has gone from ++ to +, and there has been no hypoglycaemia since day 1. What is the MOST appropriate next step?",
+      "options": [
+        "Continue F-75 for another week",
+        "Change all feeds to F-100 at 200 mL/kg/day today",
+        "Discharge home on F-100",
+        "Start transition: same volume of F-100 (or RUTF in small frequent meals) for 2 days, then increase each feed by 10 mL",
+        "Start iron and vitamin A"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: appetite has returned, he is metabolically stable and oedema is reducing, so he is ready for a gradual 2–3-day transition (same volume of F-100 for 2 days, then +10 mL per feed; or RUTF). A is wrong: prolonging F-75 delays catch-up growth. B is wrong: switching abruptly to full rehabilitation volumes risks heart failure and refeeding syndrome. C is wrong: F-100 is never given to take home (RUTF is used for outpatient rehabilitation). E is wrong: iron starts after 2 days on F-100 (never with RUTF), and vitamin A is only for eye signs or measles.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mgm-q07",
+      "stem": "Two days after starting F-100, a 20-month-old's pulse rises from 118 to 146/min and RR from 38 to 45/min, sustained on two 4-hourly readings. The liver edge has moved 1 cm lower. What is the MOST appropriate action?",
+      "options": [
+        "Reduce feeds to 100 mL/kg/day for 24 h, then 115 for 24 h, then 130 for 48 h, and reassess",
+        "Give a 10 mL/kg saline bolus",
+        "Switch to RUTF and discharge",
+        "Increase feeds to provide more energy",
+        "Give oral iron because of anaemia"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: a sustained rise of ≥ 25 in pulse and ≥ 5 in RR with an enlarging liver signals early heart failure from feed volume (UCG/WHO); reduce to 100 mL/kg/day and build up slowly, and look for other causes (anaemia, infection, refeeding). B is wrong: fluid worsens heart failure. C is wrong: an unstable child must not be discharged. D is wrong: more volume worsens the failure. E is wrong: iron does not treat heart failure.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "mgm-q08",
+      "stem": "A 2-year-old with SAM has gained weight from 7.0 kg to 7.3 kg over 3 days on F-100. What is his rate of weight gain and how should it be interpreted?",
+      "options": [
+        "About 3 g/kg/day: poor, needs full reassessment",
+        "About 7 g/kg/day: moderate, check intake and look for infection",
+        "About 14 g/kg/day: good",
+        "About 21 g/kg/day: excessive, reduce feeds",
+        "About 100 g/day: cannot be interpreted without length"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: gain 300 g ÷ 3 days = 100 g/day; average weight 7.15 kg; 100 ÷ 7.15 ≈ 14 g/kg/day = good (> 10). A is wrong: miscalculation; < 5 g/kg/day would be poor. B is wrong: 5–10 is moderate; his rate is higher. D is wrong: 21 g/kg/day is not the result and is not by itself a reason to cut feeds without signs of overload. E is wrong: g/kg/day is calculated from weights alone.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mgm-q09",
+      "stem": "A 15-month-old with complicated SAM (MUAC 10.4 cm, no oedema) is on F-75. Hb 3.6 g/dL. She has no respiratory distress and no signs of heart failure. What is the MOST appropriate management of the anaemia?",
+      "options": [
+        "Oral iron 3 mg/kg/day now",
+        "Whole blood 20 mL/kg over 1 hour",
+        "No transfusion; give folic acid and wait for rehabilitation",
+        "Packed cells 20 mL/kg over 4 hours",
+        "Whole blood 10 mL/kg over 3 hours with furosemide 1 mg/kg at the start, monitoring every 15 minutes"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: in SAM, transfuse in the first 24 h only if Hb < 4 g/dL (or 4–6 with respiratory distress), giving smaller volumes more slowly: whole blood 10 mL/kg over 3 h with furosemide 1 mg/kg and close monitoring. A is wrong: iron is not given in stabilisation. B is wrong: 20 mL/kg over 1 h risks heart failure in SAM. C is wrong: Hb < 4 meets the transfusion threshold. D is wrong: the volume is too large for a child with SAM.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "mgm-q10",
+      "stem": "An 11-month-old girl's weight-for-age line on her child health card ran along the median until 6 months, then flattened over 4 months and now lies just below −2. MUAC 12.2 cm, no oedema, WLZ −2.3. She is well with a good appetite. Which is the MOST appropriate response?",
+      "options": [
+        "Reassure: she is still breastfeeding",
+        "Classify as MAM, take a feeding history and counsel on complementary feeding, check for illness and HIV exposure, and review in 2–4 weeks",
+        "Admit for F-75",
+        "Start RUTF and amoxicillin",
+        "Advise stopping breastfeeding so she eats more porridge"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: WLZ −2.3 and MUAC 12.2 cm = MAM; growth faltering began with complementary feeding, so assess the diet and illnesses (malaria, diarrhoea, worms, HIV), counsel and review soon (consider LNS if high-risk per WHO 2023). A is wrong: a flattening line is the early warning growth monitoring is designed to catch. C is wrong: she does not have SAM or complications. D is wrong: RUTF and antibiotics are for SAM. E is wrong: breastfeeding should continue to 2 years and beyond.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mgm-q11",
+      "stem": "A 3-year-old boy has bilateral pitting oedema up to the knees and puffy eyelids. He looks well nourished (MUAC 14.6 cm), is playful, with no skin or hair changes. Urine dipstick: protein 4+, no blood. What is the MOST likely diagnosis?",
+      "options": [
+        "Kwashiorkor",
+        "Nephrotic syndrome",
+        "Acute post-streptococcal glomerulonephritis",
+        "Congestive cardiac failure",
+        "Marasmic kwashiorkor"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: heavy proteinuria with periorbital and leg oedema in a well-nourished, playful child points to nephrotic syndrome; always dip the urine before labelling oedema as nutritional. A is wrong: kwashiorkor has negative or trace urine protein, apathy and skin/hair changes. C is wrong: AGN causes haematuria, hypertension and oliguria. D is wrong: there are no cardiac signs described. E is wrong: there is no wasting.",
+      "difficulty": "core"
+    },
+    {
+      "id": "mgm-q12",
+      "stem": "A 4-month-old girl (4.0 kg, birth weight 3.1 kg) is brought because she 'is not growing'. She is breastfed but the mother has sore nipples and feeds her water and sugar solution 'because the milk is little'. No danger signs, no oedema, WLZ −2.8. Mother is tearful. According to WHO 2023, what is the MOST appropriate approach?",
+      "options": [
+        "Admit and give full-strength F-100",
+        "Start RUTF one sachet daily",
+        "Assess the mother–infant pair, correct breastfeeding attachment and stop water/sugar, screen the mother for depression, and follow up closely as an outpatient",
+        "Switch to formula feeding exclusively",
+        "Give amoxicillin and iron syrup"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: WHO 2023 treats this as an infant < 6 months at risk of poor growth and development without admission criteria; management centres on the mother–infant pair: breastfeeding support (attachment, frequency), stopping other fluids, maternal mental health, and close outpatient follow-up. A is wrong: full-strength F-100 is never given to young infants (renal solute load), and she has no admission criteria. B is wrong: RUTF is not for infants under 6 months. D is wrong: breastfeeding is the treatment; replacement feeding is only if there is no realistic prospect of breastfeeding. E is wrong: there is no indication for these.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "mgm-q13",
+      "stem": "A 2-year-old with SAM was admitted with MUAC 10.9 cm. After 7 weeks of OTC his MUAC is 12.8 cm on two consecutive visits, no oedema for 3 weeks, WHZ −2.3. Which statement is MOST accurate?",
+      "options": [
+        "He meets UCG 2023 exit criteria (MUAC ≥ 125 mm, the admission indicator, no oedema for 2 weeks) but not WHO 2023 criteria, which also require WHZ ≥ −2",
+        "He cannot be discharged until he has gained 15% of his admission weight",
+        "He meets both UCG and WHO 2023 exit criteria",
+        "He should be readmitted for F-100",
+        "He should be discharged only when WAZ is above −2"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: UCG 2023/IMAM uses the admission indicator (MUAC ≥ 125 mm) with no oedema for 2 weeks; WHO 2023 requires both WHZ ≥ −2 and MUAC ≥ 125 mm on 2 consecutive visits, and his WHZ is −2.3. B is wrong: percentage weight gain is no longer an exit criterion. C is wrong: he fails the WHO WHZ criterion. D is wrong: he is improving and well; readmission is not indicated. E is wrong: WAZ is not an exit criterion.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "mgm-q14",
+      "stem": "On day 3 of F-75, a 14-month-old with SAM becomes weak and breathless, with new oedema and a pulse of 165. Serum phosphate is 0.4 mmol/L, potassium 2.8 mmol/L. The nurse reports she had been giving 'extra feeds because the child was hungry'. What is the MOST likely diagnosis?",
+      "options": [
+        "Hospital-acquired pneumonia",
+        "Hypoglycaemia",
+        "Refeeding syndrome",
+        "Kwashiorkor relapse",
+        "Malaria"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: rapid increase in feeding after starvation drives phosphate, potassium and magnesium into cells (insulin surge), causing weakness, fluid retention and heart failure in the first week. Reduce feeds to 100 mL/kg/day, correct electrolytes and build up slowly. A is wrong: pneumonia does not explain the profound hypophosphataemia after excess feeding. B is wrong: glucose is not reported low and hypoglycaemia does not cause hypophosphataemia. D is wrong: oedema here is part of refeeding, not a dietary relapse. E is wrong: malaria does not explain the electrolyte pattern (but always test).",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "mgm-q15",
+      "stem": "A 10-month-old with SAM has Bitot's spots and a hazy right cornea. She is on F-75. Which management of the eyes is MOST appropriate?",
+      "options": [
+        "Vitamin A 100,000 IU on days 1, 2 and 14, chloramphenicol eye drops 4 times daily and atropine 1% drops, and pad the eye",
+        "No vitamin A because F-75 contains it",
+        "Vitamin A 200,000 IU single dose only",
+        "Topical steroid drops for the corneal haze",
+        "Refer to ophthalmology after nutritional rehabilitation"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: eye signs of vitamin A deficiency need high-dose vitamin A on days 1, 2 and 14 (100,000 IU at 6–12 months) plus corneal care: antibiotic drops, atropine and a protective pad. Corneal clouding is an emergency (keratomalacia). B is wrong: therapeutic feeds contain maintenance vitamin A, not treatment doses for xerophthalmia. C is wrong: 200,000 IU is the dose for > 12 months and a single dose is insufficient. D is wrong: steroids risk corneal perforation and infection. E is wrong: delay risks blindness; treat now and involve eye services early.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "mgm-c01",
+      "title": "Kwashiorkor at Mulago's nutrition unit",
+      "presentation": "Peter, a 22-month-old boy from Kalangala, is referred to Mwanamugimu Nutrition Unit with 3 weeks of swelling of the feet and face, peeling skin and poor appetite. His mother had a new baby 3 months ago and Peter was weaned abruptly onto cassava porridge.",
+      "steps": [
+        {
+          "prompt": "What will you measure and look for first?",
+          "answer": "**ETAT danger signs**, then **weight (8.1 kg), length (80 cm), MUAC (12.4 cm)**, **oedema** (feet, legs, hands and **face = +++**), axillary **temperature (35.6 °C)**, **RBS (3.8 mmol/L)**, hydration, circulation (CRT 2 s), eyes (no xerosis), **skin** (flaky-paint dermatosis, raw areas on thighs), hair (sparse, pale), chest, **liver (4 cm, soft)**, signs of heart failure, **urine dipstick (protein trace)**."
+        },
+        {
+          "prompt": "Classify him and explain why he needs admission.",
+          "answer": "**Complicated SAM with nutritional oedema +++ (kwashiorkor)**. Oedema +++ alone is an admission criterion (WHO 2023 B2), and he has poor appetite and skin breakdown. His MUAC (12.4 cm) is only MAM-range: **oedema overrides anthropometry** (weight is inflated by fluid)."
+        },
+        {
+          "prompt": "Write the first 24-hour orders.",
+          "answer": "- Keep warm (kangaroo with mother, hat, blankets); temp 2-hourly\n- **F-75 at 100 mL/kg/day** (oedema +++) = 810 mL/day: **≈ 68 mL 2-hourly**, day and night; NG if < 80% taken twice\n- **Ampicillin 400 mg (50 mg/kg) IV 6-hourly × 2 days + gentamicin 60 mg (7.5 mg/kg) IV once daily × 7 days**, then amoxicillin\n- **No diuretics, no iron, no IV fluids**; low salt\n- Electrolyte/mineral mix in feeds (K 3–4, Mg 0.4–0.6 mmol/kg/day)\n- Skin: **0.01% potassium permanganate** soaks, barrier cream, nystatin for candida\n- RBS 4-hourly initially; daily weight and oedema grade\n- **HIV test**, malaria RDT, Hb, urine culture; measles–rubella vaccine check"
+        },
+        {
+          "prompt": "On day 5 his weight has fallen from 8.1 to 7.4 kg and oedema is +. His mother is worried. What do you tell her?",
+          "answer": "Weight loss here is **good news**: he is **losing oedema fluid** as his cells recover potassium and sodium is excreted. Real weight gain will begin once oedema has gone and he moves to F-100 or RUTF. Praise her for feeding him through the night."
+        },
+        {
+          "prompt": "On day 7 he is hungry, oedema has gone, and he passes the appetite test. What next?",
+          "answer": "**Transition** over 2–3 days to **RUTF** (or F-100 same volume × 2 days then +10 mL/feed), monitor pulse and RR 4-hourly for heart failure. Start **sensory stimulation** (play sessions). Once eating > 80% of RUTF, no danger signs for 24–48 h and medical problems resolved, **transfer to OTC** near home with a 2-week RUTF supply."
+        },
+        {
+          "prompt": "How will you prevent relapse?",
+          "answer": "Counsel on **complementary feeding** (thick porridge enriched with oil, groundnut paste, fish/silverfish (mukene), beans, vegetables; 3–4 meals + 1–2 snacks; own plate), hygiene, **family planning** (short birth interval caused abrupt weaning), link to **OTC follow-up** and community support, **vitamin A and deworming** schedule, growth monitoring monthly, and screen the mother for depression and food insecurity."
+        }
+      ],
+      "takeaway": "Oedema +++ means admission even when MUAC looks reassuring; feed F-75 at 100 mL/kg/day, give antibiotics, never diuretics, expect weight to fall as oedema clears, and tackle the social cause."
+    },
+    {
+      "id": "mgm-c02",
+      "title": "Severe wasting with HIV and pneumonia",
+      "presentation": "Esther, a 9-month-old girl, is brought to a regional referral hospital with cough for 3 weeks, fast breathing and loose stools. Her mother tested HIV-positive in this pregnancy but stopped ART after delivery. Esther weighs 5.2 kg, length 68 cm.",
+      "steps": [
+        {
+          "prompt": "What is your rapid assessment?",
+          "answer": "RR 62, **chest indrawing**, SpO₂ 88% → **oxygen**. Temp 35.4 °C (axillary), **RBS 2.6 mmol/L**. Hands warm, CRT 2 s. **MUAC 10.2 cm, WLZ < −3**, no oedema. Oral thrush, generalised lymphadenopathy. Classification: **complicated SAM (severe wasting)** with **severe pneumonia**, **hypoglycaemia**, **hypothermia**, likely **HIV infection**, and diarrhoea."
+        },
+        {
+          "prompt": "What are your immediate treatments (first hour)?",
+          "answer": "- **Oxygen** by nasal prongs (target SpO₂ ≥ 90%)\n- **50 mL 10% glucose/sugar water by NG**, then **F-75 every 30 min for 2 h** (≈ 14 mL each), then 2-hourly 57 mL (11 mL/kg)\n- **Kangaroo care**, hat, blankets\n- **Ampicillin 260 mg (50 mg/kg) IV 6-hourly + gentamicin 39 mg (7.5 mg/kg) IV daily**; consider **ceftriaxone** if no improvement in 48 h\n- Assume dehydration from loose stools only if watery and recent change: **ReSoMal 5 mL/kg every 30 min**, watching for overload (pneumonia + SAM)"
+        },
+        {
+          "prompt": "Which infections must you specifically consider in an HIV-exposed infant with SAM and pneumonia?",
+          "answer": "**Pneumocystis jirovecii pneumonia (PCP)** (hypoxia, age 2–6 months+, HIV-exposed, not on co-trimoxazole) → **high-dose co-trimoxazole** and prednisolone per protocol; **TB** (contact = mother; CXR, Xpert on gastric aspirate/stool); bacterial pneumonia (*S. pneumoniae*, *S. aureus*, Gram-negatives); CMV; **oral/oesophageal candidiasis** (nystatin/fluconazole)."
+        },
+        {
+          "prompt": "What investigations do you order?",
+          "answer": "**HIV DNA PCR** (she is < 18 months; antibody test only shows exposure), CXR, **Xpert MTB/RIF Ultra** on gastric aspirate or stool, FBC/Hb, malaria RDT, blood culture, urine dipstick and culture, electrolytes, and the **mother's viral load**."
+        },
+        {
+          "prompt": "When will you start ART, and what else does she need for HIV?",
+          "answer": "Start **ART as soon as possible after stabilisation** of metabolic complications (UCG 2023), typically within 1–2 weeks, once PCR is positive (start immediately on a positive result while sending confirmation). **Co-trimoxazole prophylaxis** (or treatment dose if PCP). Re-engage the **mother on ART** with adherence counselling and a viral load. Screen siblings."
+        },
+        {
+          "prompt": "What is her prognosis and how will you discuss it with the mother?",
+          "answer": "SAM with HIV carries **high inpatient mortality** and slower recovery. Explain honestly but hopefully: the next 48 hours are the most dangerous; she needs **feeds every 2 hours day and night**, warmth, antibiotics and oxygen; with ART and nutritional rehabilitation many children recover well. Support the mother non-judgementally to restart her own ART."
+        }
+      ],
+      "takeaway": "SAM with HIV and pneumonia: treat hypoglycaemia, hypothermia and hypoxia at once, give broad antibiotics, think PCP and TB, confirm HIV by DNA PCR, and start ART soon after stabilisation while re-engaging the mother in care."
+    },
+    {
+      "id": "mgm-c03",
+      "title": "Growth faltering at a HC III immunisation clinic",
+      "presentation": "At a HC III in Mukono, a 12-month-old boy, Daniel, is brought for his measles–rubella vaccine (overdue). The nurse notices his weight on the child health card has not changed since 8 months (7.4 kg). His mother says he is 'fine but small'.",
+      "steps": [
+        {
+          "prompt": "What will you measure, and how do you interpret the card?",
+          "answer": "**Weight 7.3 kg, length 72 cm** → WLZ about −2.4, LAZ about −1.7, **MUAC 12.1 cm**, **no oedema**. The card shows **growth faltering for 4 months** (flat line, now crossing below −2 WAZ). Classification: **MAM (moderate wasting)**; no danger signs; passes appetite test."
+        },
+        {
+          "prompt": "What history will you take?",
+          "answer": "**Feeding**: breastfeeding? (yes, 4 times/day); complementary foods started at 5 months, **thin maize porridge twice a day**, family matooke sometimes, no animal-source food, shares a plate with siblings. **Illnesses**: 3 episodes of diarrhoea and malaria in 4 months. **HIV status** of mother (negative at ANC, not retested). **Deworming** and vitamin A: not received. **Social**: mother works in the garden all day; grandmother feeds."
+        },
+        {
+          "prompt": "What will you do today?",
+          "answer": "- Give the **MR vaccine** today (and any other missed vaccines)\n- **Vitamin A 200,000 IU** (routine dose from 12 months; 100,000 IU at 6–11 months)\n- **Albendazole 200 mg** (12–23 months)\n- **Malaria RDT** if febrile; offer **HIV retest** to mother\n- **Counsel** (grandmother too): 3–4 meals + 1–2 snacks, ¾ cup (250 mL cup) per meal, **thick porridge with oil/groundnut paste**, add egg, fish, beans, dark green leaves, orange fruits; **own plate**, responsive feeding; breastfeed on demand; hand-washing\n- Consider **LNS/RUSF** if available (WHO 2023 high-risk: age < 24 months)\n- Return **immediately** if danger signs; **review in 2–4 weeks** (UCG: 30 days)"
+        },
+        {
+          "prompt": "He returns after 1 month: MUAC 11.2 cm, weight 7.0 kg, appetite poor at the test, no oedema. What now?",
+          "answer": "He now has **SAM** (MUAC < 115 mm) and **failed the appetite test** = **complicated SAM** → **refer for inpatient care**: give **sugar water**, keep warm, **first dose of ampicillin + gentamicin**, referral note with measurements. Ask about new illness (TB contact, cough, HIV)."
+        },
+        {
+          "prompt": "What went wrong, and what system lesson is there?",
+          "answer": "Faltering was noticed at **8 months** but no action was taken until he was 12 months: **growth monitoring without promotion**. Every flat or falling line should trigger assessment, counselling and early follow-up (and VHT home visits). Missing vaccines, vitamin A and deworming should be caught at every contact."
+        }
+      ],
+      "takeaway": "Growth monitoring only saves lives when a flattening line triggers action: assess feeding and illness, counsel the actual feeder, catch up vaccines, vitamin A and deworming, and follow up before MAM becomes SAM."
+    }
+  ],
+  "references": [
+    {
+      "title": "Uganda Clinical Guidelines 2023 (section 19.2 Malnutrition; 17.3.12 IMCI feeding recommendations)",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf"
+    },
+    {
+      "title": "WHO guideline on the prevention and management of wasting and nutritional oedema (acute malnutrition) in infants and children under 5 years",
+      "source": "World Health Organization",
+      "year": 2023,
+      "url": "https://www.who.int/publications/i/item/9789240082830"
+    },
+    {
+      "title": "Guidelines for Integrated Management of Acute Malnutrition in Uganda",
+      "source": "Ministry of Health Uganda",
+      "year": 2016,
+      "url": "https://library.health.go.ug/community-health/food-and-nutrition/guidelines-integrated-management-acute-malnutrition-uganda"
+    },
+    {
+      "title": "Pocket Book of Hospital Care for Children, 2nd edition (Chapter 7: Severe acute malnutrition)",
+      "source": "World Health Organization",
+      "year": 2013,
+      "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+    },
+    {
+      "title": "Nutrition Annual Performance Report FY 2022/23 (UDHS 2022 nutrition indicators)",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://library.health.go.ug/sites/default/files/resources/NAPR%20FY2023%20Annual%20report-10-1_Print.pdf"
+    },
+    {
+      "title": "Updated guideline: Paediatric emergency triage, assessment and treatment (fluid management in SAM)",
+      "source": "World Health Organization",
+      "year": 2016,
+      "url": "https://www.who.int/publications/i/item/9789241510219"
+    },
+    {
+      "title": "Malnutrition: fact sheet",
+      "source": "World Health Organization",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/malnutrition"
+    },
+    {
+      "title": "Protein-Energy Malnutrition: Treatment & Management",
+      "source": "Medscape (eMedicine)",
+      "url": "https://emedicine.medscape.com/article/1104623-treatment"
+    },
+    {
+      "title": "Nutrition: the situation in Uganda",
+      "source": "UNICEF Uganda",
+      "url": "https://www.unicef.org/uganda/what-we-do/nutrition"
+    }
+  ]
+}

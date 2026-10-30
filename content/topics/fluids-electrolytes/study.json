@@ -1,0 +1,528 @@
+{
+  "slug": "fluids-electrolytes",
+  "flashcards": [
+    {
+      "id": "fel-f01",
+      "front": "Holliday–Segar maintenance per day",
+      "back": "**100 mL/kg** for the first 10 kg + **50 mL/kg** for the next 10 kg + **20 mL/kg** for each kg above 20 kg (UCG 2023 uses 25 mL/kg above 20 kg)."
+    },
+    {
+      "id": "fel-f02",
+      "front": "Holliday–Segar per hour ('4-2-1')",
+      "back": "**4 mL/kg/h** for the first 10 kg, **2 mL/kg/h** for the next 10 kg, **1 mL/kg/h** above 20 kg."
+    },
+    {
+      "id": "fel-f03",
+      "front": "Maintenance for a 15 kg child",
+      "back": "1000 + 250 = **1250 mL/day ≈ 52 mL/h**."
+    },
+    {
+      "id": "fel-f04",
+      "front": "Which fluid for IV maintenance in children over 1 month (NICE NG29)?",
+      "back": "**Isotonic** crystalloid (Na 131–154 mmol/L) **with glucose**, e.g. **0.9% saline + 5% glucose** (± KCl 20 mmol/L). Not plain 5% dextrose."
+    },
+    {
+      "id": "fel-f05",
+      "front": "Why do sick children become hyponatraemic on IV fluids?",
+      "back": "**Non-osmotic ADH release** (pain, nausea, pneumonia, meningitis, surgery) retains free water; **hypotonic fluid** supplies it."
+    },
+    {
+      "id": "fel-f06",
+      "front": "Which children get restricted (2/3) maintenance?",
+      "back": "High-ADH states: **meningitis, pneumonia, bronchiolitis, head injury, post-op, encephalitis** (NICE: 50–80%). AGN/AKI: insensible losses + urine output."
+    },
+    {
+      "id": "fel-f07",
+      "front": "Definition of shock (WHO ETAT 2016)",
+      "back": "**All three**: cold extremities, **capillary refill > 3 s**, and a **weak, fast pulse**."
+    },
+    {
+      "id": "fel-f08",
+      "front": "Shock bolus volumes: UCG vs WHO ETAT vs NICE",
+      "back": "UCG 2023: **20 mL/kg RL/NS as rapidly as possible**. WHO ETAT 2016: **10–20 mL/kg over 30–60 min**. NICE NG29: **10 mL/kg over < 10 min**. Reassess after each."
+    },
+    {
+      "id": "fel-f09",
+      "front": "What did the FEAST trial show?",
+      "back": "In African children (largely Uganda) with severe febrile illness and **impaired perfusion but not hypotension**, fluid **boluses increased mortality**. No boluses unless full shock."
+    },
+    {
+      "id": "fel-f10",
+      "front": "Shock in SAM: fluid and rate",
+      "back": "**15 mL/kg over 1 hour** of RL with 5% glucose (or half-strength Darrow's with 5% glucose or 0.45% saline with 5% glucose); repeat once if improving; if not, blood 10 mL/kg over 3 h."
+    },
+    {
+      "id": "fel-f11",
+      "front": "Deficit formula",
+      "back": "**Deficit (mL) = % dehydration × weight (kg) × 10.** E.g. 7% of 12 kg = 840 mL."
+    },
+    {
+      "id": "fel-f12",
+      "front": "Neonatal fluid volumes (UCG 2023)",
+      "back": "Day 1 **60**, day 2 **90**, day 3 **120**, day 4+ **150 mL/kg/day** (up to 180 once fully fed); 10% glucose first 2 days."
+    },
+    {
+      "id": "fel-f13",
+      "front": "Composition of Ringer's lactate (mmol/L)",
+      "back": "Na **130–131**, K **4–5**, Cl **109–111**, lactate **28–29**, Ca **2**; no glucose."
+    },
+    {
+      "id": "fel-f14",
+      "front": "Strength of 15% KCl ampoule and how to make 20 mmol/L",
+      "back": "**2 mmol/mL.** Add **10 mL to 1 L** (or 5 mL to 500 mL) = 20 mmol/L; mix well."
+    },
+    {
+      "id": "fel-f15",
+      "front": "Potassium safety limits on a general ward",
+      "back": "Max **40 mmol/L** peripherally; acute IV replacement **0.2 mmol/kg/h (max 10 mmol/h)**; only if **passing urine**; **never IV push or IM**."
+    },
+    {
+      "id": "fel-f16",
+      "front": "Oral potassium replacement dose (RCH)",
+      "back": "**KCl 1–2 mmol/kg/dose (max 20 mmol/dose)**; max **5 mmol/kg/day** (max 50 mmol/day). Oral route preferred."
+    },
+    {
+      "id": "fel-f17",
+      "front": "Emergency treatment of hyponatraemic seizures (NICE NG29)",
+      "back": "**2 mL/kg of 2.7% (or 3%) saline over 10–15 min (max 100 mL)**; repeat once; consider a third dose after checking Na."
+    },
+    {
+      "id": "fel-f18",
+      "front": "Maximum rise of sodium in 24 h when correcting hyponatraemia",
+      "back": "**≤ 8 mmol/L/24 h** (Medscape, RCH 6–8); **NICE: never > 12 mmol/L/24 h**. Risk: osmotic demyelination."
+    },
+    {
+      "id": "fel-f19",
+      "front": "Maximum rate of fall of sodium in hypernatraemia",
+      "back": "**≤ 0.5 mmol/L per hour** (≈ 10–12 mmol/L per 24 h); replace over **48 h or more**. Risk: cerebral oedema and seizures."
+    },
+    {
+      "id": "fel-f20",
+      "front": "First drug in hyperkalaemia with ECG changes",
+      "back": "**Calcium gluconate 10% 0.5 mL/kg IV (max 20 mL) over 2–5 min**: stabilises the myocardium (does not lower K)."
+    },
+    {
+      "id": "fel-f21",
+      "front": "Drugs that shift potassium into cells",
+      "back": "**Salbutamol neb** 2.5 mg (≤ 25 kg) / 5 mg; **insulin 0.1 unit/kg + 10% glucose 5 mL/kg**; **sodium bicarbonate 1 mmol/kg** if acidotic."
+    },
+    {
+      "id": "fel-f22",
+      "front": "ECG of hyperkalaemia vs hypokalaemia",
+      "back": "**High K**: peaked T, prolonged PR, flat/absent P, wide QRS, sine wave, VF/asystole. **Low K**: flat/inverted T, **U waves**, ST depression, long QT, ectopics."
+    },
+    {
+      "id": "fel-f23",
+      "front": "Causes of hyperkalaemia in Ugandan children",
+      "back": "**AKI** (AGN, HUS, severe malaria), **tumour lysis (Burkitt lymphoma)**, **haemolysed heel-prick sample**, haemolysis, salt-wasting **CAH**, transfusion, ACE inhibitors."
+    },
+    {
+      "id": "fel-f24",
+      "front": "Hyponatraemia + hyperkalaemia + hypoglycaemia in a vomiting infant",
+      "back": "**Salt-wasting congenital adrenal hyperplasia / adrenal crisis**: saline, **hydrocortisone**, glucose; look for ambiguous genitalia in girls."
+    },
+    {
+      "id": "fel-f25",
+      "front": "Making 0.9% saline with 5% glucose on the ward",
+      "back": "Remove **50 mL** from a **500 mL** bag of 0.9% saline and add **50 mL of 50% dextrose**; label the bag."
+    },
+    {
+      "id": "fel-f26",
+      "front": "Drops per minute formula",
+      "back": "**Drops/min = volume (mL) × drop factor ÷ time (min).** 20-drop set: mL/h ÷ 3. 60-drop micro-drip: drops/min = mL/h."
+    },
+    {
+      "id": "fel-f27",
+      "front": "Signs of fluid overload in an infant",
+      "back": "**Enlarging tender liver**, puffy eyelids, oedema, gallop rhythm, basal crackles, rising RR/falling SpO₂, weight gain > 5%."
+    },
+    {
+      "id": "fel-f28",
+      "front": "Monitoring for every child on IV fluids",
+      "back": "**Prescription in mL/h**, hourly **fluid chart**, **daily weight**, **Na/K/glucose before and at least every 24 h** (4–6 h if sick), clinical review 4-hourly, switch to oral early."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "fel-q01",
+      "stem": "A 3-year-old (14 kg) admitted with bacterial meningitis cannot feed. She is alert, CRT 2 s, normal pulses. Which IV fluid prescription is MOST appropriate for the first 24 hours?",
+      "options": [
+        "5% dextrose at 50 mL/h",
+        "0.9% saline with 5% glucose at about 33 mL/h",
+        "0.9% saline at 20 mL/kg over 30 minutes, then maintenance",
+        "Half-strength Darrow's at 1200 mL/day",
+        "0.9% saline with 5% glucose plus KCl 40 mmol/L at 100 mL/h"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: maintenance = 1000 + 200 = 1200 mL/day (50 mL/h); meningitis raises ADH, so give about 2/3 (≈ 800 mL/day ≈ 33 mL/h) of an isotonic fluid with glucose (NICE NG29). A is wrong: plain 5% dextrose is hypotonic and, at full maintenance, risks hyponatraemic seizures. C is wrong: she is not shocked, so no bolus. D is wrong: half-strength Darrow's is hypotonic and the volume is unrestricted. E is wrong: 100 mL/h is twice maintenance, and potassium should not start until urine output is confirmed.",
+      "difficulty": "core"
+    },
+    {
+      "id": "fel-q02",
+      "stem": "A 4-year-old (16 kg) with severe malaria has fever 39.5 °C, HR 165, cool hands, CRT 2 s and a strong radial pulse. Hb 9 g/dL, BCS 4/5. The ward nurse asks whether to give a 20 mL/kg saline bolus. What is the BEST response?",
+      "options": [
+        "Yes, give 320 mL as fast as possible because he is tachycardic",
+        "Give 10 mL/kg albumin instead of saline",
+        "No bolus; start maintenance fluid and reassess within 1 hour",
+        "Give whole blood 20 mL/kg",
+        "Restrict all fluids because of cerebral malaria"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: he has only one sign of impaired circulation (cool hands) and a fast pulse from fever, not shock (which needs cold extremities plus CRT > 3 s plus a weak fast pulse). WHO ETAT 2016, after FEAST, advises maintenance fluids and reassessment within an hour. A is wrong: boluses increased mortality in febrile African children without shock (FEAST). B is wrong: albumin boluses also increased mortality in FEAST. D is wrong: Hb 9 g/dL does not need transfusion. E is wrong: he still needs maintenance (glucose-containing) fluid; complete restriction risks hypoglycaemia and dehydration.",
+      "difficulty": "core"
+    },
+    {
+      "id": "fel-q03",
+      "stem": "A 2-year-old (11 kg) with pneumonia, on 5% dextrose 1 L every 12 hours for 2 days, has a generalised seizure. RBS 6.8 mmol/L. Na 119 mmol/L. After securing the airway and giving diazepam, what is the MOST appropriate next step?",
+      "options": [
+        "Fluid restriction to half maintenance only",
+        "Furosemide 1 mg/kg IV",
+        "Sodium bicarbonate 1 mmol/kg IV",
+        "Correct the sodium to 135 mmol/L over the next 6 hours with 0.9% saline",
+        "3% saline 22 mL (2 mL/kg) IV over 10–15 minutes, then recheck sodium"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: acute symptomatic hyponatraemia (seizure, Na 119) needs hypertonic saline 2 mL/kg (max 100 mL) over 10–15 min, repeated if symptoms persist (NICE NG29); stop the hypotonic fluid. A is wrong: NICE states hyponatraemic encephalopathy must not be managed by fluid restriction alone. B is wrong: furosemide alone does not correct encephalopathy and may worsen hypovolaemia. C is wrong: bicarbonate has no role. D is wrong: raising Na by 16 mmol/L in 6 h risks osmotic demyelination; after symptoms stop, aim for ≤ 8 mmol/L (NICE max 12) in 24 h.",
+      "difficulty": "core"
+    },
+    {
+      "id": "fel-q04",
+      "stem": "A 9-month-old (7.5 kg) with diarrhoea is extremely irritable with doughy skin. Na 164 mmol/L, K 3.6. He is not shocked but cannot drink well. Which plan is MOST appropriate?",
+      "options": [
+        "NG low-osmolarity ORS or IV 0.9% saline with glucose, replacing the deficit over at least 48 h with Na checks every 2–4 h, aiming to lower Na by no more than 0.5 mmol/L/h",
+        "5% dextrose at 150 mL/kg/day to bring sodium down quickly",
+        "Water by bottle as much as he wants",
+        "0.45% saline 20 mL/kg bolus",
+        "Restrict fluids to 2/3 maintenance"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: hypernatraemic dehydration is corrected slowly (≤ 0.5 mmol/L/h, about 10–12 mmol/L/24 h) over ≥ 48 h with isotonic fluid or ORS (NICE allows ORS in hypernatraemia) and frequent sodium checks. B is wrong: a large hypotonic load drops sodium fast and causes cerebral oedema and seizures. C is wrong: free water alone also corrects too fast. D is wrong: boluses are for shock and should be isotonic. E is wrong: he is dehydrated and needs deficit replacement, not restriction.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "fel-q05",
+      "stem": "A 6-year-old (20 kg) with Burkitt lymphoma started chemotherapy yesterday. He is oliguric. K 7.4 mmol/L; ECG shows peaked T waves and a widened QRS. What is the FIRST drug to give?",
+      "options": [
+        "Calcium polystyrene sulfonate 20 g rectally",
+        "Salbutamol 2.5 mg nebulised",
+        "Calcium gluconate 10% 10 mL IV over 2–5 minutes",
+        "Furosemide 20 mg IV",
+        "Sodium bicarbonate 8.4% 20 mL IV"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: with ECG changes, the first priority is to protect the myocardium with IV calcium gluconate 10% 0.5 mL/kg (10 mL) over 2–5 minutes; it acts within 3 minutes. Then shift K (salbutamol, insulin + glucose) and remove it. A is wrong: resins act over hours. B is wrong: salbutamol is the right second step but takes 30 minutes and does not protect the heart. D is wrong: he is oliguric (tumour lysis AKI), so furosemide will do little, and it is not first-line. E is wrong: bicarbonate is only for acidosis and should not be first; never give it with calcium in the same line.",
+      "difficulty": "core"
+    },
+    {
+      "id": "fel-q06",
+      "stem": "A 5-year-old (18 kg) with diarrhoea has K 2.6 mmol/L. He is alert, drinking, passing urine, with no ECG changes. What is the MOST appropriate potassium treatment?",
+      "options": [
+        "KCl 15% 5 mL IV push",
+        "IV KCl 60 mmol in 500 mL through a peripheral cannula over 2 hours",
+        "No treatment; it will correct itself",
+        "KCl 1–2 mmol/kg/dose orally (max 20 mmol per dose), recheck K, and check magnesium",
+        "Insulin and glucose"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: the oral route is preferred when the child can drink and there are no ECG changes (RCH): 1–2 mmol/kg/dose (max 20 mmol), repeat after checking K, max 5 mmol/kg/day; check Mg. A is wrong: KCl IV push can cause cardiac arrest; it must always be diluted. B is wrong: 120 mmol/L exceeds the 40 mmol/L peripheral limit and the rate (30 mmol/h) exceeds 0.2 mmol/kg/h (3.6 mmol/h; max 10 mmol/h). C is wrong: K 2.6 is moderate-severe and needs treatment. E is wrong: insulin lowers potassium further.",
+      "difficulty": "core"
+    },
+    {
+      "id": "fel-q07",
+      "stem": "A 12 kg child is 5% dehydrated (not shocked), cannot take orally after abdominal surgery, and you prescribe deficit plus maintenance over 24 hours. Using a 20 drops/mL giving set, what is the approximate drip rate?",
+      "options": [
+        "About 14 drops/min",
+        "About 47 drops/min",
+        "About 70 drops/min",
+        "About 25 drops/min",
+        "About 100 drops/min"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: deficit = 5 × 12 × 10 = 600 mL; maintenance = 1000 + 100 = 1100 mL; total 1700 mL/24 h ≈ 71 mL/h; with a 20-drop set, drops/min = 71 × 20 ÷ 60 ≈ 24. (In practice, as a post-op child with high ADH, you would restrict maintenance and check electrolytes.) A is wrong: about 14–15 drops/min (≈ 45 mL/h) replaces maintenance only and ignores the 600 mL deficit. B is wrong: 47 drops/min would be about 140 mL/h, double the requirement. C is wrong: 70 drops/min is the mL/h figure, which equals drops/min only with a 60-drop micro-drip set. E is wrong: 100 drops/min would give 300 mL/h, a dangerous overload.",
+      "difficulty": "core"
+    },
+    {
+      "id": "fel-q08",
+      "stem": "A 3-week-old girl presents with vomiting and poor feeding. She is lethargic. Na 124, K 7.1, glucose 2.4 mmol/L. On examination there is clitoromegaly with fused labia. What is the MOST likely diagnosis?",
+      "options": [
+        "Salt-wasting congenital adrenal hyperplasia",
+        "Pyloric stenosis",
+        "SIADH from meningitis",
+        "Acute gastroenteritis with dehydration",
+        "Nephrotic syndrome"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: hyponatraemia with hyperkalaemia and hypoglycaemia in a 2–3-week-old with virilised genitalia is classic salt-wasting CAH (21-hydroxylase deficiency): give 0.9% saline, hydrocortisone and glucose, and refer. B is wrong: pyloric stenosis gives hypochloraemic hypokalaemic alkalosis, not hyperkalaemia. C is wrong: SIADH causes euvolaemic hyponatraemia with normal potassium. D is wrong: diarrhoea usually causes low potassium, and it does not explain the genitalia. E is wrong: nephrotic syndrome presents with oedema and proteinuria, rarely in neonates, without hyperkalaemia.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "fel-q09",
+      "stem": "A 2-year-old (10 kg) with Hb 3.8 g/dL from severe malaria has cold hands, CRT 4 s and a weak, fast pulse. What fluid is MOST appropriate?",
+      "options": [
+        "0.9% saline 20 mL/kg rapidly, then transfuse later",
+        "5% dextrose 10 mL/kg",
+        "Packed red cells or whole blood as soon as possible, with other IV fluid only to maintain hydration",
+        "Ringer's lactate 40 mL/kg over 1 hour",
+        "No fluids until the Hb is rechecked"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: WHO ETAT 2016 recommends that children in shock with severe anaemia (Hb < 5 g/dL) receive blood as early as possible (whole blood 20 mL/kg or packed cells 10 mL/kg) and other fluids only for maintenance. A is wrong: crystalloid boluses dilute an already critical Hb and can precipitate heart failure. B is wrong: dextrose is never a resuscitation fluid. D is wrong: a 40 mL/kg crystalloid load is dangerous in severe anaemia. E is wrong: delaying treatment in shock is fatal; the Hb is already known.",
+      "difficulty": "core"
+    },
+    {
+      "id": "fel-q10",
+      "stem": "Which of the following is the LEAST appropriate statement about potassium chloride (KCl) for IV use in children?",
+      "options": [
+        "15% KCl contains 2 mmol/mL",
+        "Add potassium only once the child is passing urine",
+        "Mix the bag thoroughly after adding KCl",
+        "On a general ward the maximum acute IV rate is about 0.2 mmol/kg/h",
+        "KCl can be given IM if IV access fails"
+      ],
+      "answer": 4,
+      "explanation": "E is the answer (the least appropriate, and dangerous statement): KCl must never be given IM or as an IV push; it causes tissue necrosis and cardiac arrest. Statement A is true: 15% KCl = 150 mg/mL = 2 mmol/mL. Statement B is true: 'no pee, no K', because potassium accumulates in oliguria. Statement C is true: KCl layers at the bottom of an unmixed bag, giving a concentrated bolus. Statement D is true: RCH limits acute replacement on a general ward to 0.2 mmol/kg/h (max 10 mmol/h).",
+      "difficulty": "core"
+    },
+    {
+      "id": "fel-q11",
+      "stem": "A 7-year-old (22 kg) with acute post-streptococcal glomerulonephritis has periorbital oedema, BP 140/95 and passed 200 mL of urine in the last 24 hours. Creatinine 180 µmol/L, K 5.6. Which fluid plan is MOST appropriate?",
+      "options": [
+        "Full Holliday–Segar maintenance IV",
+        "Insensible losses (about 400 mL/m²/day) plus the previous day's urine output, with salt restriction and no added potassium",
+        "20 mL/kg 0.9% saline bolus to improve urine output",
+        "Ringer's lactate at 2/3 maintenance",
+        "Unrestricted oral fluids because he is thirsty"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: in AGN with oliguria and fluid overload, give insensible losses plus urine output, restrict salt, avoid potassium, and use furosemide and antihypertensives as needed. A is wrong: full maintenance (1540 mL/day) would worsen overload and hypertension. C is wrong: a bolus in an overloaded child risks pulmonary oedema and hypertensive encephalopathy. D is wrong: RL contains potassium and 2/3 maintenance is still too much. E is wrong: unrestricted fluids worsen overload.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "fel-q12",
+      "stem": "You need 10% dextrose for a hypoglycaemic child but the ward only has 50% dextrose and 5% dextrose. How do you prepare about 100 mL of approximately 10% dextrose?",
+      "options": [
+        "50 mL of 50% dextrose + 50 mL of 5% dextrose",
+        "20 mL of 50% dextrose + 80 mL of 5% dextrose",
+        "Give 50% dextrose undiluted at 1 mL/kg",
+        "10 mL of 50% dextrose + 90 mL of 5% dextrose",
+        "5 mL of 50% dextrose + 95 mL of sterile water"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: 10 mL of 50% (5 g) + 90 mL of 5% (4.5 g) = 9.5 g in 100 mL ≈ 10% (UCG: 1 part 50% with 9 parts 5%). A is wrong: that gives about 27.5%, hyperosmolar and irritant to small veins. B is wrong: that gives 14%. C is wrong: 50% dextrose is sclerosing and causes rebound; dilute it. E is wrong: that gives only 2.5%.",
+      "difficulty": "core"
+    },
+    {
+      "id": "fel-q13",
+      "stem": "A 4-year-old (16 kg) with severe acute malnutrition (MUAC 10.9 cm, oedema +) is lethargic with cold hands, CRT 4 s and a weak, fast pulse. Which fluid order is MOST appropriate?",
+      "options": [
+        "Ringer's lactate 320 mL as fast as possible, repeat if needed",
+        "Plan C: 100 mL/kg over 3 hours",
+        "Ringer's lactate with 5% glucose 240 mL over 1 hour, then reassess",
+        "ReSoMal 80 mL every 30 minutes orally",
+        "0.9% saline 160 mL over 10 minutes"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: shock in SAM = 15 mL/kg (240 mL) over 1 hour of a glucose-containing fluid (RL with 5% glucose, half-strength Darrow's with 5% glucose or 0.45% saline with 5% glucose); repeat once if improving, then oral/NG ReSoMal; if not improving, blood 10 mL/kg over 3 h (UCG 2023; WHO ETAT 2016). A is wrong: 20 mL/kg rapid boluses risk heart failure in SAM. B is wrong: Plan C is for well-nourished children. D is wrong: oral ReSoMal is for SAM without shock. E is wrong: a 10 mL/kg rapid bolus (NICE practice) is not the SAM protocol and lacks glucose.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "fel-q14",
+      "stem": "A well 5-day-old baby has a routine heel-prick sample showing K 6.9 mmol/L. She is feeding well, passing urine, and her ECG is normal. What is the MOST appropriate next step?",
+      "options": [
+        "Give calcium gluconate 10% immediately",
+        "Start insulin and glucose",
+        "Give Resonium rectally",
+        "Repeat potassium on a free-flowing venous sample",
+        "Arrange peritoneal dialysis"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: squeezed heel-prick samples are often haemolysed, falsely raising potassium; in a well baby with a normal ECG, repeat on a free-flowing venous sample first (neonatal K also runs slightly higher). A is wrong: calcium is for ECG changes or severe confirmed hyperkalaemia. B is wrong: insulin risks hypoglycaemia in a newborn for a probably spurious result. C is wrong: resins in neonates can cause bowel injury and are not needed here. E is wrong: dialysis is for refractory, confirmed hyperkalaemia with AKI.",
+      "difficulty": "core"
+    },
+    {
+      "id": "fel-q15",
+      "stem": "A 30 kg child is nil by mouth after appendicectomy. Using Holliday–Segar, what is the full daily maintenance volume?",
+      "options": [
+        "1500 mL",
+        "1700 mL",
+        "2000 mL",
+        "3000 mL",
+        "1200 mL"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: 1000 (first 10 kg) + 500 (next 10 kg) + 200 (10 kg × 20) = 1700 mL/day (≈ 70 mL/h); after surgery many children need less (NICE 50–80%). A is wrong: 1500 mL is the value for 20 kg. C is wrong: 2000 mL forgets that above 20 kg the rate falls to 20 mL/kg (UCG's 25 mL/kg variant gives 1750). D is wrong: 3000 mL uses 100 mL/kg for every kilogram. E is wrong: 1200 mL is roughly 2/3 of maintenance, not the full volume.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "fel-c01",
+      "title": "Seizure on IV fluids: iatrogenic hyponatraemia",
+      "presentation": "You are the intern on the paediatric ward at a regional referral hospital. Musa, a 2-year-old boy (12 kg), was admitted yesterday with severe pneumonia. He has been on '5% dextrose 1 L 12-hourly' since admission and is not feeding. At 06:00 the nurse calls: he has had a generalised seizure lasting 5 minutes.",
+      "steps": [
+        {
+          "prompt": "What are your immediate actions?",
+          "answer": "**ABC**: position, suction, **oxygen** (SpO₂ 86% → nasal prongs). If still seizing: **diazepam 0.5 mg/kg rectally** (or 0.3 mg/kg IV slowly). **Check glucose** at the bedside (6.5 mmol/L). **Stop the 5% dextrose.** Send urgent **electrolytes** and creatinine. Call the senior."
+        },
+        {
+          "prompt": "How much fluid has he received compared with what he needed?",
+          "answer": "He received **2 L/day of plain 5% dextrose**. Maintenance for 12 kg = 1000 + 100 = **1100 mL/day**, and with pneumonia (SIADH risk) about **2/3 = 730 mL/day**. He got nearly **3 times** the appropriate volume of a **hypotonic** fluid."
+        },
+        {
+          "prompt": "Na comes back at 118 mmol/L. He is drowsy and twitching. What do you give?",
+          "answer": "**Hypertonic saline 2 mL/kg = 24 mL of 3% saline (or 2.7%) IV over 10–15 min** (NICE NG29; max 100 mL). Repeat once if symptoms persist; recheck Na and consider a third dose. Expect a rise of about 4–6 mmol/L to stop the seizures."
+        },
+        {
+          "prompt": "The twitching stops. Na at 1 hour is 123. Write the ongoing fluid prescription and monitoring.",
+          "answer": "- **0.9% saline with 5% glucose** at **2/3 maintenance ≈ 30 mL/h**; KCl 20 mmol/L once urine output is confirmed\n- **Na every 2–4 h**: total rise **≤ 8 mmol/L in 24 h** after symptoms stop (NICE max 12): target ≤ 126 at 24 h\n- Hourly **fluid chart**, **weigh** now and in 12 h, glucose 4-hourly\n- Start **NG feeds** (expressed breast milk/F-75 not needed; normal milk feeds) as soon as safe and reduce IV volume accordingly"
+        },
+        {
+          "prompt": "Six hours later he is passing large volumes of dilute urine and Na is 128 (up 10 in 7 h). What is happening and what do you do?",
+          "answer": "As ADH switches off he has a **water diuresis**, and sodium is rising **too fast** (risk of osmotic demyelination). Inform the senior; **slow or stop the saline**, consider **5% glucose** or oral water to slow the rise, and recheck Na in 1–2 h."
+        },
+        {
+          "prompt": "What system changes would you propose at the morning meeting?",
+          "answer": "Remove plain 5% dextrose as a default maintenance fluid; ward chart for **mL/h by weight** (4-2-1) and **2/3 rule** for meningitis and pneumonia; ready-made **0.9% saline + 5% glucose** recipe on the wall; **electrolytes at 24 h** for every child on IV fluids; burettes or micro-drip sets for children under 15 kg; report the incident without blame."
+        }
+      ],
+      "takeaway": "Plain 5% dextrose plus high ADH equals hyponatraemic seizures: use isotonic fluid with glucose at 2/3 maintenance, treat seizures with 2 mL/kg hypertonic saline, and then correct slowly."
+    },
+    {
+      "id": "fel-c02",
+      "title": "Hyperkalaemia in a child with acute kidney injury",
+      "presentation": "Grace, a 6-year-old girl (18 kg), is admitted to Mengo Hospital with 3 days of fever, vomiting and dark ('Coca-Cola') urine after treatment for malaria. She has passed very little urine today. She is drowsy but rousable.",
+      "steps": [
+        {
+          "prompt": "What is your initial assessment and what do you send?",
+          "answer": "**ABC, ETAT**: RR 36, SpO₂ 95%, HR 120, BP 118/76, CRT 2 s, not shocked; **pallor**, mild jaundice, no oedema; BCS 4/5. Bladder not palpable. Bedside **RBS** (5.2), **HemoCue** (Hb 6.4), malaria RDT/smear, **urine dipstick** (blood +++). Send **electrolytes, urea, creatinine**, FBC, group and cross-match. Insert a urinary catheter to measure output. Likely **blackwater fever / severe malaria with AKI**."
+        },
+        {
+          "prompt": "Results: K 7.0 mmol/L, Na 131, urea 28, creatinine 340 µmol/L, bicarbonate 14. ECG shows peaked T waves. Write your immediate orders.",
+          "answer": "1. **Stop all potassium** (no RL); cardiac monitor\n2. **Calcium gluconate 10% 9 mL (0.5 mL/kg) IV over 2–5 min**; repeat if ECG still abnormal\n3. **Salbutamol 2.5 mg nebulised** (≤ 25 kg), repeat 1–2-hourly\n4. **Soluble insulin 1.8 units (0.1 unit/kg) IV + 10% glucose 90 mL (5 mL/kg)**; glucose every 30–60 min\n5. **Sodium bicarbonate 8.4% 18 mL (1 mmol/kg) over 30 min** (she is acidotic), not in the calcium line\n6. Repeat **K and ECG** in 1–2 h\n7. Resonium 0.5–1 g/kg 6-hourly orally if K remains high"
+        },
+        {
+          "prompt": "How will you manage her fluids?",
+          "answer": "She is not shocked and is oliguric: give **insensible losses (about 400 mL/m²/day; BSA ≈ 0.75 m² → 300 mL/day) plus the previous hour's/day's urine output**, as **potassium-free** fluid with glucose (0.9% saline with 5% glucose); weigh 12-hourly; strict fluid chart. Consider **furosemide 1–2 mg/kg IV** once to test for a response. Transfuse cautiously for Hb 6.4 if symptomatic (10 mL/kg packed cells over 3–4 h with monitoring)."
+        },
+        {
+          "prompt": "Which features would make you call for dialysis?",
+          "answer": "**Refractory hyperkalaemia**, **severe acidosis**, **fluid overload with pulmonary oedema** or uncontrolled hypertension, **uraemic encephalopathy**, rising creatinine with **anuria**. Peritoneal dialysis is available at **Mulago** (and some RRHs): arrange early transfer with a referral letter."
+        },
+        {
+          "prompt": "Continue malaria treatment: anything to adjust?",
+          "answer": "**IV artesunate** continues (no renal dose change). Avoid nephrotoxins (NSAIDs, gentamicin unless essential with level/dose adjustment). Review drug doses for AKI. Monitor glucose (malaria and insulin both cause hypoglycaemia)."
+        },
+        {
+          "prompt": "Present her on the ward round.",
+          "answer": "'Grace, 6 years, 18 kg, fully immunised, HIV-negative, with severe malaria complicated by **haemoglobinuria and oliguric AKI** (creatinine 340), **hyperkalaemia 7.0 with ECG changes** treated with calcium, salbutamol, insulin–glucose and bicarbonate, **metabolic acidosis** and **anaemia** (Hb 6.4). On restricted K-free fluids (insensible + output), IV artesunate. Plan: K and ECG 2-hourly, discuss dialysis with Mulago if K or creatinine keep rising.'"
+        }
+      ],
+      "takeaway": "Hyperkalaemia with ECG changes: protect the heart with calcium, shift potassium with salbutamol and insulin–glucose, remove it, stop all K, restrict fluids to insensible losses plus output, and refer early for dialysis."
+    },
+    {
+      "id": "fel-c03",
+      "title": "Hypernatraemic dehydration in a formula-fed infant",
+      "presentation": "Baby Ivan, 4 months old, is brought to the emergency unit with 3 days of diarrhoea and fever. His mother returned to work and he is formula-fed; she has been adding extra scoops 'to make him strong'. He weighs 5.4 kg (6.0 kg at the 14-week immunisation visit).",
+      "steps": [
+        {
+          "prompt": "What do you find and how do you interpret it?",
+          "answer": "He is **very irritable**, high-pitched cry, **intensely thirsty**, **doughy skin**, eyes slightly sunken, CRT 2 s, warm hands, HR 170, temperature 38.4 °C. Weight loss 0.6 kg = **10% dehydration**, more than the signs suggest. Suspect **hypernatraemic dehydration** (concentrated feeds + fever + diarrhoea)."
+        },
+        {
+          "prompt": "Na 158 mmol/L, K 3.2, glucose 7.0. Is he shocked, and what is your fluid strategy?",
+          "answer": "Not shocked (warm hands, CRT 2 s), so **no bolus**. Rehydrate **slowly**: ORS by **NG tube** (or IV 0.9% saline with 5% glucose) replacing the deficit (10% × 5.4 × 10 = 540 mL) plus maintenance (540 mL/day) over **48 h** ≈ 1620 mL/48 h ≈ **34 mL/h**. Aim for a fall in Na of **≤ 0.5 mmol/L/h** (≤ 10–12 mmol/L/24 h)."
+        },
+        {
+          "prompt": "How will you monitor?",
+          "answer": "**Na 2–4-hourly** initially (RCH: 1–2 h after starting, then 4–6-hourly), glucose, **neurological checks** (irritability, fontanelle, seizures), weight 12-hourly, fluid chart. Add **KCl 20 mmol/L** to IV fluid once passing urine (K 3.2)."
+        },
+        {
+          "prompt": "At 6 hours Na is 150 (fall of 8 in 6 h). What do you do?",
+          "answer": "That is **1.3 mmol/L/h, too fast**. **Slow the infusion** (or change to a more sodium-rich fluid), inform the senior, recheck Na in 1–2 h, and watch for **seizures** (cerebral oedema). If he convulses: stop hypotonic fluid, give **3% saline 2–3 mL/kg**, glucose check, ICU."
+        },
+        {
+          "prompt": "What else does he need?",
+          "answer": "**Zinc 10 mg daily for 10 days** (under 6 months); look for the cause of fever (malaria RDT, urine, ears, chest); continue feeding with **correctly prepared** milk once rehydrating; consider whether he can return to **breastfeeding** (relactation support). Check immunisations (14-week vaccines given)."
+        },
+        {
+          "prompt": "How do you counsel his mother?",
+          "answer": "Show **correct formula preparation**: boiled water cooled, **1 level scoop per 30 mL** (or per tin instructions), never extra scoops or sugar; cup feeding rather than a bottle; hygiene. Explore **expressing breast milk** for when she is at work, or relactation. Teach ORS for future diarrhoea and **danger signs**."
+        }
+      ],
+      "takeaway": "Hypernatraemia hides dehydration: weigh the baby, rehydrate over 48 h, measure sodium often, slow down if it falls faster than 0.5 mmol/L/h, and fix the feeding error."
+    }
+  ],
+  "references": [
+    {
+      "title": "Intravenous fluid therapy in children and young people in hospital (NG29)",
+      "source": "NICE",
+      "year": 2020,
+      "url": "https://www.nice.org.uk/guidance/ng29/chapter/Recommendations"
+    },
+    {
+      "title": "Uganda Clinical Guidelines 2023 (sections 1.1.3 Dehydration and 1.1.4 Fluids and electrolytes imbalances, IV fluid management in children and neonates)",
+      "source": "Ministry of Health Uganda",
+      "year": 2023,
+      "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf"
+    },
+    {
+      "title": "Updated guideline: Paediatric emergency triage, assessment and treatment. Care of critically ill children",
+      "source": "World Health Organization",
+      "year": 2016,
+      "url": "https://www.who.int/publications/i/item/9789241510219"
+    },
+    {
+      "title": "Pocket Book of Hospital Care for Children, 2nd edition",
+      "source": "World Health Organization",
+      "year": 2013,
+      "url": "https://www.who.int/publications/i/item/978-92-4-154837-3"
+    },
+    {
+      "title": "Mortality after fluid bolus in African children with severe infection (FEAST trial)",
+      "source": "Maitland K, et al. New England Journal of Medicine",
+      "year": 2011,
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa1101549"
+    },
+    {
+      "title": "Clinical Practice Guidelines: Intravenous fluids",
+      "source": "The Royal Children's Hospital Melbourne",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Intravenous_fluids/"
+    },
+    {
+      "title": "Clinical Practice Guidelines: Hyperkalaemia",
+      "source": "The Royal Children's Hospital Melbourne",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Hyperkalaemia/"
+    },
+    {
+      "title": "Clinical Practice Guidelines: Hypokalaemia",
+      "source": "The Royal Children's Hospital Melbourne",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Hypokalaemia/"
+    },
+    {
+      "title": "Clinical Practice Guidelines: Hyponatraemia",
+      "source": "The Royal Children's Hospital Melbourne",
+      "year": 2023,
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Hyponatraemia/"
+    },
+    {
+      "title": "Clinical Practice Guidelines: Hypernatraemia",
+      "source": "The Royal Children's Hospital Melbourne",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Hypernatraemia/"
+    },
+    {
+      "title": "Pediatric Hyponatremia: Treatment & Management",
+      "source": "Medscape (eMedicine)",
+      "url": "https://emedicine.medscape.com/article/907841-treatment"
+    },
+    {
+      "title": "Pediatric Hypernatremia: Treatment & Management",
+      "source": "Medscape (eMedicine)",
+      "url": "https://emedicine.medscape.com/article/907653-treatment"
+    },
+    {
+      "title": "Pediatric Hyperkalemia: Treatment & Management",
+      "source": "Medscape (eMedicine)",
+      "url": "https://emedicine.medscape.com/article/907543-treatment"
+    }
+  ]
+}

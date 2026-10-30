@@ -1,0 +1,300 @@
+{
+  "slug": "diarrhoea-dehydration",
+  "flashcards": [
+    { "id": "ddh-f01", "front": "Definition of diarrhoea (WHO)", "back": "**3 or more loose or watery stools in 24 hours**. Frequent pasty stools in a breastfed baby are not diarrhoea." },
+    { "id": "ddh-f02", "front": "Persistent diarrhoea vs dysentery", "back": "**Persistent**: an episode lasting **14 days or more**. **Dysentery**: diarrhoea with **visible blood** in the stool (any duration)." },
+    { "id": "ddh-f03", "front": "Signs of SEVERE dehydration (need 2 or more)", "back": "**Lethargic or unconscious**; sunken eyes; **not able to drink or drinks poorly**; skin pinch goes back **very slowly (> 2 s)**." },
+    { "id": "ddh-f04", "front": "Signs of SOME dehydration (need 2 or more)", "back": "**Restless, irritable**; sunken eyes; **drinks eagerly, thirsty**; skin pinch goes back **slowly**." },
+    { "id": "ddh-f05", "front": "The 4 rules of Plan A (home treatment)", "back": "1. **Extra fluid** (ORS after each loose stool)\n2. **Zinc**\n3. **Continue feeding**\n4. **When to return** (cannot drink, sicker, fever, blood in stool)" },
+    { "id": "ddh-f06", "front": "Plan A: ORS after each loose stool", "back": "Under 2 years: **50–100 mL**. 2 years and older: **100–200 mL**. Give **2 packets** to take home." },
+    { "id": "ddh-f07", "front": "Plan B volume and time", "back": "**ORS 75 mL/kg over 4 hours** in the clinic, then reassess and reclassify." },
+    { "id": "ddh-f08", "front": "Plan B by age (no scale): ORS in the first 4 hours", "back": "< 4 mo (< 6 kg) **200–400 mL**; 4–12 mo (6–< 10 kg) **400–700 mL**; 12 mo–2 y (10–< 12 kg) **700–900 mL**; 2–5 y (12–19 kg) **900–1400 mL**." },
+    { "id": "ddh-f09", "front": "Plan C in an infant under 12 months", "back": "Ringer's lactate **100 mL/kg**: **30 mL/kg in 1 hour**, then **70 mL/kg in 5 hours**. Reassess at 6 hours." },
+    { "id": "ddh-f10", "front": "Plan C in a child 12 months to 5 years", "back": "Ringer's lactate **100 mL/kg**: **30 mL/kg in 30 minutes**, then **70 mL/kg in 2.5 hours**. Reassess at 3 hours." },
+    { "id": "ddh-f11", "front": "Plan C when no IV is available", "back": "ORS by **NG tube (or mouth) 20 mL/kg/h for 6 hours** (120 mL/kg); reassess every 1–2 h; **refer if not improving after 3 hours**." },
+    { "id": "ddh-f12", "front": "When do you repeat the first 30 mL/kg in Plan C?", "back": "Once, if the **radial pulse is still very weak or not detectable** after the first 30 mL/kg." },
+    { "id": "ddh-f13", "front": "ORS during Plan C once the child can drink", "back": "**About 5 mL/kg/h** (usually after 3–4 h in infants, 1–2 h in children)." },
+    { "id": "ddh-f14", "front": "Composition of low-osmolarity ORS", "back": "Na **75**, glucose **75**, K **20**, Cl **65**, citrate **10** mmol/L; total **245 mOsm/L**." },
+    { "id": "ddh-f15", "front": "Zinc dose (UCG 2023)", "back": "Under 6 months **10 mg**; 6 months or older **20 mg**, once daily for **10 days**. WHO 2024 suggests **5 mg daily for 10–14 days**." },
+    { "id": "ddh-f16", "front": "Why does zinc help in diarrhoea?", "back": "Replaces zinc lost in stool; speeds mucosal repair and absorption; **shortens the episode, reduces stool volume** and reduces diarrhoea over the next 2–3 months." },
+    { "id": "ddh-f17", "front": "First-line antibiotic for dysentery (Uganda/WHO)", "back": "**Ciprofloxacin 15 mg/kg orally 12-hourly for 3 days**." },
+    { "id": "ddh-f18", "front": "Second-line / severely ill dysentery", "back": "**Ceftriaxone 50–80 mg/kg IV or IM once daily for 3 days**; admit." },
+    { "id": "ddh-f19", "front": "Antibiotic for cholera in a child under 12 (Uganda MoH 2025)", "back": "**Doxycycline 2–4 mg/kg orally, single dose**. Alternative: **azithromycin 20 mg/kg single dose (max 1 g)**." },
+    { "id": "ddh-f20", "front": "Why does ORS work even in cholera?", "back": "**Sodium–glucose co-transport (SGLT1)** in villous cells is intact; glucose carries sodium in, and water follows sodium." },
+    { "id": "ddh-f21", "front": "Rehydrating a child with SAM who is NOT shocked", "back": "**No IV.** ReSoMal **5 mL/kg every 30 min for 2 h**, then **5–10 mL/kg/h for up to 10 h** (alternate with F-75)." },
+    { "id": "ddh-f22", "front": "Shock in a child with SAM: IV fluid", "back": "**15 mL/kg over 1 hour** of RL with 5% glucose (or half-strength Darrow's or 0.45% saline with 5% glucose); repeat once if improving; if not, **blood 10 mL/kg over 3 h**." },
+    { "id": "ddh-f23", "front": "Signs of fluid overload during rehydration", "back": "**Pulse up by 25/min and RR up by 5/min**, crackles, enlarging liver, gallop, puffy eyelids, raised JVP. **Stop fluids and reassess.**" },
+    { "id": "ddh-f24", "front": "Feeding in persistent diarrhoea", "back": "Continue breastfeeding; **animal milk ≤ 50 mL/kg/day** or replace with **yoghurt**; energy-dense meals 6 times a day; **multivitamins + minerals (with zinc) for 14 days**; vitamin A." },
+    { "id": "ddh-f25", "front": "Drugs NOT to give in childhood diarrhoea", "back": "Antimotility drugs (loperamide), antiemetics like chlorpromazine, **metronidazole without a parasite seen**, probiotics (WHO 2024), and **plain 5% dextrose** for rehydration." },
+    { "id": "ddh-f26", "front": "Red-currant jelly stool + episodic screaming in a 7-month-old", "back": "**Intussusception** until proven otherwise: ultrasound (target sign), surgical referral; do not label as dysentery." },
+    { "id": "ddh-f27", "front": "Hypernatraemic dehydration: clue and danger", "back": "**Doughy skin**, marked irritability and thirst; signs underestimate the deficit. Correct slowly: Na fall **≤ 0.5 mmol/L/h** (≤ 10–12 mmol/L in 24 h) or **cerebral oedema** and convulsions follow." },
+    { "id": "ddh-f28", "front": "Shock (WHO ETAT 2016) = all three of …", "back": "**Cold extremities + capillary refill > 3 s + weak, fast pulse.** One or two signs alone = impaired circulation, not shock." }
+  ],
+  "mcqs": [
+    {
+      "id": "ddh-q01",
+      "stem": "A 14-month-old boy (9.5 kg) has had watery diarrhoea for 2 days. He is restless and irritable, his eyes are sunken, he grabs the cup and drinks eagerly, and the skin pinch goes back slowly. CRT 2 s, hands warm. MUAC 13.5 cm, no oedema. What is the MOST appropriate management?",
+      "options": [
+        "ORS about 700 mL over 4 hours in the clinic, zinc 20 mg daily, continue feeding, then reassess",
+        "Ringer's lactate 285 mL over 30 minutes, then 665 mL over 2.5 hours",
+        "Two ORS packets for home, zinc 20 mg daily and review in 5 days",
+        "ReSoMal 5 mL/kg every 30 minutes for 2 hours",
+        "Ciprofloxacin 15 mg/kg 12-hourly for 3 days and ORS at home"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: two or more 'some dehydration' signs (restless, sunken eyes, thirsty, slow pinch) = Plan B: ORS 75 mL/kg (75 × 9.5 ≈ 710 mL) over 4 hours under supervision, zinc and feeding. B is wrong: that is Plan C, for severe dehydration (lethargy, unable to drink, very slow pinch). C is wrong: Plan A is for no dehydration; sending a thirsty, dehydrated child home under-treats him. D is wrong: ReSoMal is for children with SAM; his MUAC and feet are normal. E is wrong: there is no blood in the stool, so no antibiotic is indicated (WHO 2024 suggests against antibiotics for watery diarrhoea).",
+      "difficulty": "core"
+    },
+    {
+      "id": "ddh-q02",
+      "stem": "An 8-month-old girl weighing 6.0 kg is brought to a HC III with profuse watery diarrhoea. She is lethargic, cannot drink, has very sunken eyes and a skin pinch of 3 seconds. MUAC 12.8 cm, no oedema. An IV line is in place and Ringer's lactate is available. How should the fluid be given?",
+      "options": [
+        "180 mL over 30 minutes, then 420 mL over 2.5 hours",
+        "120 mL (20 mL/kg) bolus, then maintenance fluids",
+        "180 mL over 1 hour, then 420 mL over 5 hours",
+        "90 mL over 1 hour, then reassess and give ReSoMal",
+        "600 mL of 5% dextrose over 6 hours"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: severe dehydration in an infant under 12 months = Plan C, Ringer's lactate 100 mL/kg (600 mL): 30 mL/kg (180 mL) in 1 hour then 70 mL/kg (420 mL) in 5 hours. A is wrong: the 30-minute/2.5-hour schedule is for children aged 12 months or older. B is wrong: a single bolus then maintenance under-replaces a >10% deficit; Plan C replaces the whole deficit. D is wrong: 15 mL/kg and ReSoMal is the SAM protocol; she is not malnourished. E is wrong: 5% dextrose contains no sodium and does not rehydrate; it can cause hyponatraemia.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ddh-q03",
+      "stem": "A 2-year-old (10 kg) with diarrhoea for 5 days has passed stools with visible blood and mucus since yesterday. Temperature 38.6 °C. He is alert, drinks normally, eyes not sunken, skin pinch normal. MUAC 14 cm. Which treatment is MOST appropriate?",
+      "options": [
+        "Metronidazole 100 mg 8-hourly for 7 days",
+        "ORS at home and zinc only; antibiotics are not recommended",
+        "Admit for IV ceftriaxone 80 mg/kg daily",
+        "Ciprofloxacin 150 mg 12-hourly for 3 days, zinc, ORS and feeding, review in 3 days",
+        "Loperamide to reduce the stool frequency and ORS"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: dysentery without dehydration in a well child = ciprofloxacin 15 mg/kg (150 mg) 12-hourly for 3 days plus Plan A, zinc and follow-up in 3 days (UCG 2023, WHO 2024). A is wrong: metronidazole is for amoebiasis confirmed by trophozoites with red cells; most dysentery in under-5s is Shigella. B is wrong: WHO strongly recommends antibiotics for bloody diarrhoea. C is wrong: ceftriaxone is for severely ill children or treatment failure; this child is alert and drinking. E is wrong: antimotility drugs are contraindicated (toxic megacolon, prolonged infection).",
+      "difficulty": "core"
+    },
+    {
+      "id": "ddh-q04",
+      "stem": "A 15-month-old girl weighing 5.8 kg (MUAC 10.8 cm, no oedema) has had watery diarrhoea for 3 days. She is irritable, eyes sunken, drinks eagerly. Hands warm, CRT 2 s, radial pulse good. Which plan is MOST appropriate?",
+      "options": [
+        "Plan B with standard ORS 435 mL over 4 hours",
+        "Plan C with Ringer's lactate 100 mL/kg",
+        "Ringer's lactate with 5% glucose 15 mL/kg over 1 hour",
+        "Plan A and outpatient RUTF",
+        "ReSoMal 5 mL/kg every 30 minutes for 2 hours, then 5–10 mL/kg/h, with F-75, as an inpatient"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: MUAC < 11.5 cm = SAM, and diarrhoea with dehydration is a complication requiring inpatient care; she is not shocked, so rehydrate orally/NG with ReSoMal slowly (5 mL/kg every 30 min for 2 h, then 5–10 mL/kg/h up to 10 h) alternating with F-75. A is wrong: standard Plan B volumes and high-sodium ORS risk heart failure in SAM (low-osmolarity ORS is only the fallback if ReSoMal is unavailable, and still given slowly). B is wrong: IV Plan C can kill a child with SAM; IV fluids only for shock. C is wrong: 15 mL/kg IV is for SAM with shock; she has warm hands and good pulses. D is wrong: a dehydrated child with SAM has a medical complication and needs inpatient stabilisation, not Plan A at home.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "ddh-q05",
+      "stem": "A 3-year-old (13 kg) on Plan C has received 390 mL of Ringer's lactate over 30 minutes. He is still drowsy, hands cold, radial pulse very weak. MUAC 14.5 cm. What is the BEST next step?",
+      "options": [
+        "Repeat 30 mL/kg (390 mL) rapidly, check glucose, and reassess",
+        "Continue with 70 mL/kg over 2.5 hours as planned",
+        "Stop IV fluids and start NG ORS 20 mL/kg/h",
+        "Give furosemide 1 mg/kg because fluids are not working",
+        "Start dopamine immediately before any more fluid"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: WHO Plan C says repeat the first 30 mL/kg once if the radial pulse is still very weak or undetectable; also check glucose (lethargy) and look for severe anaemia or sepsis. B is wrong: moving to the slow phase while the child is still shocked under-resuscitates him. C is wrong: NG ORS is the fallback when IV is unavailable, not for a shocked child with a working line. D is wrong: there is no fluid overload; furosemide worsens hypovolaemia. E is wrong: inotropes are considered only after adequate volume (UCG: after repeated boluses suggests septic shock), not before the repeat bolus.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ddh-q06",
+      "stem": "During a cholera outbreak in Kasese, a 6-year-old boy (18 kg) with profuse rice-water stools has some dehydration and is drinking eagerly. Besides ORS 75 mL/kg over 4 hours, which additional treatment is recommended by the Uganda MoH 2025 cholera guidelines?",
+      "options": [
+        "Metronidazole 7.5 mg/kg 8-hourly for 5 days",
+        "Chlorpromazine to stop the vomiting",
+        "Doxycycline about 50 mg (2–4 mg/kg) as a single oral dose",
+        "Loperamide to reduce stool output",
+        "Zinc 20 mg daily for 10 days and no antibiotic"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: the 2025 guideline gives oral antibiotics to all cholera patients; children under 12 receive doxycycline 2–4 mg/kg single dose (azithromycin 20 mg/kg single dose is the alternative). A is wrong: metronidazole has no role in cholera and is explicitly listed as a drug not to give. B is wrong: chlorpromazine (Largactil) is listed as not to be used; it causes sedation and masks signs. D is wrong: antidiarrhoeals are contraindicated. E is wrong: zinc is recommended for children under 5 (he is 6), and he still needs the antibiotic, which shortens diarrhoea and shedding.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ddh-q07",
+      "stem": "A 9-month-old (7 kg) with acute watery diarrhoea and some dehydration vomits twice in the first 20 minutes of Plan B. She is still alert and thirsty. What is the MOST appropriate action?",
+      "options": [
+        "Switch to Plan C with IV Ringer's lactate",
+        "Wait 10 minutes, then continue ORS more slowly with a spoon (1 teaspoon every 1–2 minutes)",
+        "Give metoclopramide IM and then restart ORS",
+        "Stop ORS and give breast milk only for 4 hours",
+        "Refer to the regional referral hospital"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: vomiting is common early in rehydration; the WHO/UCG advice is to wait 10 minutes and continue slowly with small, frequent sips. Most children then keep ORS down; if vomiting persists, use an NG tube at the same rate. A is wrong: she has some, not severe, dehydration; vomiting alone does not justify IV therapy. C is wrong: antiemetics are not recommended in young children with diarrhoea. D is wrong: breastfeeding should continue, but breast milk alone will not correct the deficit. E is wrong: Plan B is a HC II-level treatment and can be completed here.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ddh-q08",
+      "stem": "A 7-month-old boy has 'diarrhoea with blood' for 12 hours. His mother says he has screamed and drawn up his legs every 15–20 minutes and is pale between episodes. He vomited green fluid once. Temp 37.2 °C. What is the MOST likely diagnosis?",
+      "options": [
+        "Shigella dysentery",
+        "Amoebic dysentery",
+        "Rotavirus gastroenteritis",
+        "Haemolytic uraemic syndrome",
+        "Intussusception"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: episodic colicky pain with pallor, red-currant-jelly stool and bilious vomiting in a 3–36-month-old is classic intussusception; request ultrasound (target sign) and a surgical review. A is wrong: Shigella usually causes fever, frequent small bloody mucoid stools and tenesmus, not episodic screaming and bilious vomiting. B is wrong: amoebic dysentery is rare under 5 years. C is wrong: rotavirus causes watery, non-bloody diarrhoea. D is wrong: HUS follows bloody diarrhoea by days and presents with pallor, oliguria and petechiae, not colic.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ddh-q09",
+      "stem": "Which statement about low-osmolarity ORS compared with the old WHO ORS (311 mOsm/L) is CORRECT?",
+      "options": [
+        "It has a higher sodium concentration (90 mmol/L)",
+        "It contains no potassium",
+        "It reduces stool output, vomiting and unscheduled IV therapy",
+        "It should not be used for cholera",
+        "It is the preferred fluid for children with SAM"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: low-osmolarity ORS (245 mOsm/L; Na 75, glucose 75) reduces stool volume, vomiting and the need for unscheduled IV fluids, and WHO 2024 strongly recommends it. A is wrong: sodium was reduced from 90 to 75 mmol/L. B is wrong: it contains 20 mmol/L potassium. D is wrong: it is used in cholera (and Uganda's 2025 cholera guideline even prefers standard ORS over ReSoMal in SAM children with cholera). E is wrong: ReSoMal (Na 45, K 40) is preferred in SAM; low-osmolarity ORS is the fallback.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ddh-q10",
+      "stem": "An 18-month-old girl (8 kg) has had loose stools 4–5 times a day for 3 weeks. She is alert, drinks normally, no blood. WLZ −1.8, MUAC 12.8 cm, no oedema. Her mother's HIV status is unknown. Which is the MOST important next step besides feeding advice?",
+      "options": [
+        "Offer HIV testing (mother and child), give vitamin A and 14 days of multivitamins with zinc, review in 5 days",
+        "Give metronidazole for presumed giardiasis",
+        "Start ciprofloxacin for 3 days",
+        "Admit for IV fluids",
+        "Stop all milk and give rice water only"
+      ],
+      "answer": 0,
+      "explanation": "A is correct: persistent diarrhoea without dehydration is managed as an outpatient (UCG IMCI): feeding advice, vitamin A, multivitamins and minerals including zinc for 14 days, follow-up in 5 days, and in Uganda an HIV test is essential because HIV is a common cause. B is wrong: treat giardia only when seen on stool microscopy. C is wrong: there is no blood; antibiotics are not indicated. D is wrong: she is not dehydrated. E is wrong: she needs more energy and protein, not less; reduce animal milk to ≤ 50 mL/kg/day or use yoghurt, and continue nutritious foods.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ddh-q11",
+      "stem": "A 2-year-old (11 kg) with SAM (MUAC 10.5 cm, oedema +) and profuse diarrhoea is lethargic with cold hands, CRT 4 s and a weak, fast pulse. RBS 4.2 mmol/L. What is the MOST appropriate immediate fluid?",
+      "options": [
+        "Ringer's lactate 330 mL over 30 minutes",
+        "Ringer's lactate with 5% glucose 165 mL over 1 hour, then reassess",
+        "ReSoMal 55 mL every 30 minutes by mouth",
+        "Normal saline 220 mL as fast as possible, repeated twice",
+        "Whole blood 110 mL immediately"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: shock in SAM = 15 mL/kg (165 mL) over 1 hour of a glucose-containing fluid (RL with 5% glucose, half-strength Darrow's with 5% glucose or 0.45% saline with 5% glucose); repeat once if improving, then oral/NG ReSoMal; if not improving, blood 10 mL/kg over 3 h (UCG 2023, WHO ETAT 2016 10–15 mL/kg). A is wrong: the standard Plan C rate risks fatal heart failure in SAM. C is wrong: oral ReSoMal is for SAM without shock. D is wrong: repeated 20 mL/kg boluses are for well-nourished children. E is wrong: blood is given if there is no improvement after the first hour (or for very severe anaemia), and in SAM at 10 mL/kg over 3 hours, not as an immediate bolus.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "ddh-q12",
+      "stem": "A 10-month-old (8 kg) fed on 'thick' formula (extra scoops) has diarrhoea for 3 days. He is extremely irritable with a high-pitched cry, very thirsty, and his skin feels doughy; eyes only slightly sunken. Na 162 mmol/L. Which statement about his management is MOST accurate?",
+      "options": [
+        "Give 5% dextrose IV to lower the sodium quickly",
+        "Avoid ORS because it contains sodium",
+        "His dehydration is mild because the eyes are only slightly sunken",
+        "Rehydrate slowly so that sodium falls no faster than about 0.5 mmol/L per hour, preferring ORS if he can drink",
+        "Restrict fluids to two-thirds maintenance"
+      ],
+      "answer": 3,
+      "explanation": "D is correct: hypernatraemic dehydration must be corrected slowly (≤ 0.5 mmol/L/h, about 10–12 mmol/L in 24 h, over 48 h or more) to avoid cerebral oedema; NICE and WHO advise ORS even in hypernatraemia unless IV is needed. Also correct the feeding error. A is wrong: hypotonic dextrose lowers sodium too fast and causes convulsions. B is wrong: ORS is safe and preferred. C is wrong: hypernatraemia masks clinical signs, so the deficit is underestimated. E is wrong: he is dehydrated; restriction is for SIADH-type hyponatraemia, not this.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "ddh-q13",
+      "stem": "At a HC II with no IV equipment, a 13-month-old (9 kg, MUAC 13.4 cm) has severe dehydration. The nearest HC IV with IV fluids is 2 hours away by boda-boda. A nasogastric tube is available. What should the health worker do?",
+      "options": [
+        "Refer without starting any fluid, because severe dehydration needs IV therapy",
+        "Give Plan B (75 mL/kg over 4 hours) and send home",
+        "Start NG ORS 180 mL/h (20 mL/kg/h) for 6 hours, reassess every 1–2 hours, and refer if not improving after 3 hours",
+        "Give ReSoMal 45 mL every 30 minutes",
+        "Give oral zinc and ORS packets and review tomorrow"
+      ],
+      "answer": 2,
+      "explanation": "C is correct: when IV therapy is not available within 30 minutes, start ORS by NG tube (or mouth) at 20 mL/kg/h for 6 hours (120 mL/kg), reassess every 1–2 hours and refer urgently if not improving by 3 hours. A is wrong: a 2-hour journey without fluid can be fatal; start rehydration now (and if referring, the mother gives ORS on the way). B is wrong: Plan B under-treats severe dehydration. D is wrong: ReSoMal is for SAM, which he does not have. E is wrong: it ignores a life-threatening emergency.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ddh-q14",
+      "stem": "A 4-year-old girl (15 kg) has 3 days of watery diarrhoea without blood and has no dehydration. Her mother asks for 'a strong medicine to stop the diarrhoea'. According to the WHO 2024 guideline, which of the following is recommended?",
+      "options": [
+        "Amoxicillin for 5 days",
+        "A probiotic sachet daily for 5 days",
+        "Loperamide syrup",
+        "Metronidazole for 5 days",
+        "ORS, zinc and continued feeding"
+      ],
+      "answer": 4,
+      "explanation": "E is correct: WHO 2024 recommends low-osmolarity ORS and zinc and suggests against antibiotics and probiotics for acute watery diarrhoea in children up to 10 years. A is wrong: antibiotics do not help acute watery diarrhoea and drive resistance. B is wrong: WHO suggests against probiotics for acute watery diarrhoea. C is wrong: antimotility drugs are not recommended in children. D is wrong: metronidazole is only for proven amoebiasis or giardiasis.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ddh-q15",
+      "stem": "A 3-year-old treated with ciprofloxacin for Shigella dysentery 6 days ago returns pale and puffy, passing very little urine. Hb 6.2 g/dL, platelets 45 × 10⁹/L, creatinine 310 µmol/L. Which finding on a blood film would MOST support the likely diagnosis?",
+      "options": [
+        "Target cells",
+        "Fragmented red cells (schistocytes)",
+        "Ring forms of P. falciparum",
+        "Spherocytes with a positive direct Coombs test",
+        "Hypersegmented neutrophils"
+      ],
+      "answer": 1,
+      "explanation": "B is correct: anaemia, thrombocytopenia and AKI after bloody diarrhoea = haemolytic uraemic syndrome, a microangiopathic haemolytic anaemia with schistocytes (S. dysenteriae type 1 or EHEC). Refer for dialysis and careful fluid management. A is wrong: target cells suggest haemoglobinopathy or liver disease. C is wrong: malaria can cause anaemia and AKI, but the sequence after dysentery with thrombocytopenia and AKI points to HUS (still do an RDT). D is wrong: Coombs-positive spherocytosis suggests autoimmune haemolysis, and HUS is Coombs-negative. E is wrong: hypersegmented neutrophils indicate B12/folate deficiency.",
+      "difficulty": "advanced"
+    }
+  ],
+  "cases": [
+    {
+      "id": "ddh-c01",
+      "title": "Severe dehydration in a toddler at a HC IV",
+      "presentation": "You are the intern at a HC IV in Wakiso at 21:00. Brian, a 20-month-old boy, is carried in by his mother. He has had watery diarrhoea about 12 times a day and vomiting for 2 days. Today he became 'weak and sleepy' and has not passed urine since the morning.",
+      "steps": [
+        { "prompt": "What do you do in the first 5 minutes?", "answer": "**ETAT triage**: he is lethargic = emergency. Check **ABC**: airway open, RR 48 deep and sighing (acidosis), SpO₂ 97%. **Circulation**: cold hands, **CRT 4 s**, weak fast radial pulse (HR 170) = **shock**. **Weigh him: 10 kg.** Check **MUAC (13.6 cm) and feet (no oedema)**: not SAM. Insert an IV (or IO) line, take blood for RBS (4.0 mmol/L), Hb (11 g/dL) and malaria RDT, and **start Ringer's lactate at once**. Call the senior clinician." },
+        { "prompt": "Classify his hydration and write the fluid prescription.", "answer": "Lethargic, very sunken eyes, unable to drink, skin pinch 3 s = **severe dehydration with shock**, no SAM. He is ≥ 12 months: **Plan C, Ringer's lactate 100 mL/kg = 1000 mL**:\n- **300 mL (30 mL/kg) in 30 minutes** (run free, squeeze the bag)\n- reassess; if radial pulse still very weak, **repeat 300 mL once**\n- then **700 mL (70 mL/kg) over 2.5 hours** (280 mL/h)\n- **ORS 50 mL/h (5 mL/kg/h)** once he can drink\n- Observations every 15 min initially." },
+        { "prompt": "After the first 300 mL his pulse is stronger, CRT 2 s, and he is waking. What do you monitor during the next 2.5 hours, and what would make you stop?", "answer": "Every 15–30 min: **conscious level, pulse rate and volume, CRT, RR, ability to drink, urine output, stool and vomit count**, and recheck glucose if drowsy. Stop or slow the drip and call the senior if signs of **overload**: crackles, gallop, enlarging liver, puffy eyelids, rising RR with falling SpO₂. Keep a fluid chart with times and volumes." },
+        { "prompt": "At 3 hours he is alert, drinks eagerly, eyes still a little sunken, skin pinch slow. What now?", "answer": "Reclassify: **some dehydration → Plan B**: ORS **75 mL/kg = 750 mL over 4 hours**, then reassess. Start **zinc 20 mg once daily for 10 days**. Restart **breastfeeding and food**. Malaria RDT was negative, so no antimalarial." },
+        { "prompt": "Next morning he has no dehydration. What do you teach the mother before discharge?", "answer": "**Plan A (4 rules)**: ORS 50–100 mL after each loose stool (he is under 2), how to mix **1 packet in 1 L**, discard after 24 h; **complete zinc for 10 days**; continue breastfeeding and feeding, extra meal for 2 weeks; **return immediately** if he cannot drink, becomes sicker, has fever or blood in stool. Check his card: catch up any missed vaccines (rotavirus is only given early; measles–rubella if due). Hygiene: hand-washing with soap, safe water, latrine use." },
+        { "prompt": "How do you present him on the ward round?", "answer": "'Brian, a 20-month-old boy, 10 kg, MUAC 13.6 cm, no oedema, fully immunised, HIV-unexposed, admitted with acute watery diarrhoea and severe dehydration with shock. He received Plan C (1000 mL RL; the first 30 mL/kg once only), then Plan B, and is now fully rehydrated, passing urine, feeding and on zinc. Malaria RDT negative. Plan: Plan A, discharge with ORS and zinc, review in 5 days if not better.'" }
+      ],
+      "takeaway": "Weigh and check for SAM first, then give Plan C by the clock (30 then 70 mL/kg), reassess often, step down through Plan B to Plan A, and never forget zinc and feeding."
+    },
+    {
+      "id": "ddh-c02",
+      "title": "Diarrhoea in a child with severe acute malnutrition",
+      "presentation": "Amina, a 13-month-old girl, is referred from a HC III in Mayuge to Mengo Hospital with 4 days of watery diarrhoea. The referral note says 'severe dehydration, please give IV fluids'. She weighs 5.9 kg, length 72 cm.",
+      "steps": [
+        { "prompt": "What must you check before deciding on fluids?", "answer": "**Nutritional status**: MUAC = **10.6 cm**, WLZ **below −3**, visible severe wasting; **no oedema**. She has **SAM with a complication** (diarrhoea). Then **circulation**: hands warm, CRT 2 s, radial pulse fair, so **not in shock**. Also **RBS** (2.6 mmol/L = hypoglycaemia), **temperature** (axillary 35.4 °C), Hb, malaria RDT, HIV test." },
+        { "prompt": "How do you treat the hypoglycaemia and hypothermia?", "answer": "Give **50 mL of 10% glucose or sugar water orally/NG** (she is conscious) and start **F-75** feeds; if she were unconscious, **10% glucose 5 mL/kg IV**. Recheck glucose in **30 minutes**. Warm her: **skin-to-skin (kangaroo) with mother**, cover head, close windows; no hot water bottles. Start **IV/IM antibiotics** (ampicillin + gentamicin), because hypoglycaemia and hypothermia signal infection." },
+        { "prompt": "Write her rehydration plan.", "answer": "**No IV fluids** (not shocked). **ReSoMal** orally or by NG:\n- **5 mL/kg (30 mL) every 30 minutes for 2 hours**\n- then **5–10 mL/kg/h (30–60 mL/h) for up to 10 hours**, alternating hours with **F-75** in the same volume\n- if ReSoMal is unavailable, **low-osmolarity ORS** (WHO 2023) or half-strength ORS with added glucose and potassium (UCG)\n- **ReSoMal 50–100 mL after each watery stool** afterwards\n- **No zinc tablets** (F-75 contains zinc)." },
+        { "prompt": "What do you monitor and when do you stop?", "answer": "Every **30 minutes for 2 hours**, then **hourly**: pulse, RR, **liver edge**, urine frequency, stools and vomits, **weight**. **Stop ReSoMal** if pulse rises by **25/min** and RR by **5/min**, or the liver enlarges, crackles or oedema appear (overload); reassess after 1 hour. Stop when she is **no longer thirsty, passing urine**, and the **weight deficit is corrected**: do not keep giving fluid 'to prevent' dehydration." },
+        { "prompt": "Six hours later her pulse rises from 140 to 168, RR from 40 to 48, and the liver edge is 2 cm lower. What is happening and what do you do?", "answer": "**Fluid overload / early heart failure**, the feared complication of rehydrating a child with SAM. **Stop all fluids**, sit her up, give **furosemide 1 mg/kg IV**, oxygen if hypoxic, and reassess in 1 hour; then continue F-75 at **100 mL/kg/day** and increase slowly. Call the senior." },
+        { "prompt": "Why was the referral note's request for IV fluids wrong, and what will you write back to the HC III?", "answer": "In SAM, signs of dehydration are unreliable (wasting itself causes sunken eyes and slow skin pinch), the heart is weak and sodium is retained, so **IV fluids are only for shock** (15 mL/kg over 1 h). Thank them for referring; feed back: 'Always measure MUAC and check for oedema in a child with diarrhoea; if SAM and not shocked, give ReSoMal 5 mL/kg every 30 min for 2 h while arranging referral, and keep the child warm and fed.'" }
+      ],
+      "takeaway": "In SAM, dehydration is over-diagnosed and IV fluids kill: rehydrate slowly with ReSoMal, treat hypoglycaemia, hypothermia and infection, and watch the pulse, breathing and liver for overload."
+    },
+    {
+      "id": "ddh-c03",
+      "title": "Bloody diarrhoea in a febrile toddler",
+      "presentation": "Joel, a 2½-year-old boy (12 kg), is brought to the paediatric outpatient clinic at a regional referral hospital with 2 days of frequent small stools containing blood and mucus, fever and crying when he passes stool. His sister had similar symptoms last week.",
+      "steps": [
+        { "prompt": "What history and examination will you focus on?", "answer": "History: number of stools, **blood and mucus**, **tenesmus**, fever, **convulsions**, urine output, vomiting, drinking, previous treatment (any antibiotics or herbs), **HIV status**, immunisation, feeding, water source, contacts. Exam: **dehydration signs**, temperature (39 °C), **MUAC (14 cm)**, oedema, abdomen (tenderness, mass), **rectal prolapse**, neck stiffness, pallor, petechiae. His hydration: alert, drinking normally, eyes normal = **no dehydration**." },
+        { "prompt": "What is your classification and what are your differentials?", "answer": "**Dysentery** (UCG IMCI) without dehydration. Likely **Shigella** (fever, tenesmus, household contact). Differentials: **Campylobacter**, **non-typhoidal Salmonella**, EHEC, **amoebic dysentery** (rarer at this age), **intussusception** (episodic pain, mass, red-currant jelly), and malaria with diarrhoea." },
+        { "prompt": "What tests, if any, will you do?", "answer": "**Malaria RDT** (fever). Stool **microscopy** (pus cells; look for amoebic trophozoites with ingested red cells) and ideally **stool culture** given the outbreak pattern. **FBC** if he looks unwell. RBS if drowsy or not eating. Treatment does **not** wait for results." },
+        { "prompt": "Prescribe his treatment.", "answer": "- **Ciprofloxacin 15 mg/kg = 180 mg 12-hourly for 3 days** (in practice the UCG age band gives ½ of a 500 mg tablet for 6 months–5 years)\n- **Zinc 20 mg once daily for 10 days**\n- **Plan A**: ORS 100–200 mL after each stool (he is over 2)\n- **Paracetamol 15 mg/kg (180 mg) 6-hourly** as needed\n- Continue feeding, **no antimotility drugs**\n- **Follow up in 3 days**." },
+        { "prompt": "He returns after 2 days: still bloody stools, fever 39.5 °C, now drinking poorly, eyes sunken, skin pinch slow. What now?", "answer": "**Treatment failure with some dehydration**: admit. **Plan B** (ORS 75 mL/kg = 900 mL over 4 h, NG if not drinking). Switch to **ceftriaxone 50–80 mg/kg (600–960 mg) IV once daily for 3 days**. Send **stool culture and sensitivity**; look for **amoebae** (metronidazole 10 mg/kg 8-hourly if trophozoites with RBCs are seen). Check **glucose, Hb, platelets, creatinine** and urine output; watch for **convulsions and HUS**." },
+        { "prompt": "What public-health actions follow?", "answer": "Bacillary dysentery is **notifiable**: inform the district surveillance focal person, especially with a household cluster. Counsel the family on **hand-washing with soap**, safe water, latrine use, safe food handling, and caring for the sister. Ensure everyone at home knows the **danger signs**." }
+      ],
+      "takeaway": "Blood in the stool means an antibiotic (ciprofloxacin 15 mg/kg 12-hourly for 3 days), close follow-up at 2–3 days, a switch to ceftriaxone if not improving, and vigilance for dehydration, HUS and intussusception."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions (sections 1.1.3 Dehydration, 6.1.5 Diarrhoea, 17.3.3 IMCI diarrhoea)", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/sites/default/files/resources/Uganda%20Clinical%20Guidelines%202023.pdf" },
+    { "title": "Guideline on management of pneumonia and diarrhoea in children up to 10 years of age", "source": "World Health Organization", "year": 2024, "url": "https://www.who.int/publications/i/item/9789240103412" },
+    { "title": "Prevention, Control and Elimination of Cholera: Operational Guidelines for National and District Health Workers and Planners", "source": "Ministry of Health Uganda", "year": 2025, "url": "https://health.go.ug/download/prevention-control-and-elimination-of-cholera-operational-guidelines-for-national-and-district-health-workers-and-planners_2025" },
+    { "title": "Pocket Book of Hospital Care for Children: Guidelines for the Management of Common Childhood Illnesses, 2nd edition (Chapter 5: Diarrhoea)", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "Updated guideline: Paediatric emergency triage, assessment and treatment. Care of critically ill children", "source": "World Health Organization", "year": 2016, "url": "https://www.who.int/publications/i/item/9789241510219" },
+    { "title": "WHO guideline on the prevention and management of wasting and nutritional oedema (acute malnutrition) in infants and children under 5 years", "source": "World Health Organization", "year": 2023, "url": "https://www.who.int/publications/i/item/9789240082830" },
+    { "title": "Diarrhoeal disease: fact sheet", "source": "World Health Organization", "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease" },
+    { "title": "Dehydration in Children: Treatment & Management", "source": "Medscape (eMedicine)", "url": "https://emedicine.medscape.com/article/906999-treatment" },
+    { "title": "Diarrhoea and vomiting caused by gastroenteritis in under 5s: diagnosis and management (CG84)", "source": "NICE", "year": 2009, "url": "https://www.nice.org.uk/guidance/cg84" }
+  ]
+}

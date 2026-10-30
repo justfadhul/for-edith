@@ -123,3 +123,11 @@ To update a topic, edit `content/topics/<slug>/notes.md` or `study.json`, then r
 - Measles: vitamin A (UCG days 1, 2, 14 for all vs WHO 2 doses); tetracycline eye ointment (UCG 12-hourly × 5 days vs WHO 3×/day × 7 days); outbreak doses from 6 months; year of MR2 introduction.
 - Worms: piperazine and delaying albendazole in Ascaris obstruction; arpraziquantel availability; S. haematobium foci; Child Days deworming ages.
 - UTI: local E. coli/ESBL resistance claims (no local citation); DMSA/MCUG availability; UCG cefixime dosing (16 mg/kg day 1 then 8 mg/kg).
+
+## Paediatrics: GI, fluids, nutrition
+
+- Cholera antibiotic: MoH 2025 guideline doxycycline 2–4 mg/kg single dose vs UCG 2023 IMCI chart erythromycin.
+- Hyponatraemia correction limit: 8 mmol/L/24 h (RCH/Medscape) vs 12 (NICE); is 3% saline stocked at RRH level? Calcium gluconate 10% 0.5 mL/kg (max 20 mL) vs RCH 0.68 mL/kg (max 30 mL); ISPAD DKA bolus from memory.
+- SAM: ceftriaxone 80–100 mg/kg for non-responders (from memory); discharge criteria and RUTF energy (UCG one indicator, ~200 kcal/kg/day vs WHO 2023 both WHZ and MUAC, 150–185 kcal/kg/day).
+- HIV and breastfeeding duration: MIYCAN 2021 stop at 12 months if HIV-negative (24 if positive) vs WHO 2016 up to 24 months; UCG 2023 HIV chapter still says 3–6 months (flagged as outdated).
+- IYCF statistics are UDHS 2016 (2022 equivalents not found). Liver span norms, orchidopexy window (6–12 months), visceral leishmaniasis centres (Amudat, Kacheliba) from memory.
