@@ -56,9 +56,27 @@ function chapterItems(body: string): Heading[] {
   return (h3.length >= 2 ? h3 : all).map((h) => ({ ...h, text: clean(h.text) }));
 }
 
+/** The paediatric handbook's chapters. */
+const PAEDS_GROUPS: GroupDef[] = [
+  { slug: "before-you-prescribe", title: "Before you prescribe", blurb: "Weight-based dosing, neonatal pharmacology, safe prescriptions and the common errors.", icon: "clipboard", tone: "steel", match: /nutshell|definitions|epidemiology|principles|clinical acumen|clinical workup/i },
+  { slug: "antimicrobials", title: "Antimicrobials", blurb: "Amoxicillin, ampicillin, gentamicin, ceftriaxone, cloxacillin, metronidazole and more.", icon: "shield", tone: "accent", match: /antimicrobial/i },
+  { slug: "antimalarials", title: "Antimalarials", blurb: "IV and rectal artesunate, ACTs by weight band, quinine.", icon: "bug", tone: "accent", match: /antimalarial/i },
+  { slug: "anticonvulsants", title: "Anticonvulsants", blurb: "Diazepam, midazolam, phenobarbital and phenytoin in mg/kg.", icon: "brain", tone: "brand", match: /anticonvulsant/i },
+  { slug: "respiratory", title: "Respiratory drugs", blurb: "Salbutamol, ipratropium, steroids, aminophylline, magnesium.", icon: "activity", tone: "lilac", match: /respiratory/i },
+  { slug: "fluids-nutrition", title: "Fluids, electrolytes & nutrition", blurb: "ORS, ReSoMal, zinc, dextrose, potassium, F-75/F-100/RUTF.", icon: "droplet", tone: "brand", match: /fluids|electrolyte|nutrition/i },
+  { slug: "analgesia", title: "Analgesia & antipyretics", blurb: "Paracetamol, ibuprofen, morphine; why not aspirin.", icon: "stethoscope", tone: "peach", match: /analgesi|antipyretic/i },
+  { slug: "resuscitation", title: "Emergency & resuscitation drugs", blurb: "Adrenaline, atropine, naloxone, calcium, bicarbonate.", icon: "heart", tone: "brand", match: /resuscitation drugs/i },
+  { slug: "neonatal", title: "Neonatal drugs", blurb: "Vitamin K, caffeine, phenobarbital, antibiotics by postnatal age.", icon: "baby", tone: "peach", match: /neonatal/i },
+  { slug: "tb-hiv", title: "TB & HIV drugs", blurb: "Weight-band dosing for TB treatment, TPT, ART and co-trimoxazole.", icon: "ribbon", tone: "lilac", match: /tb|hiv/i },
+  { slug: "vaccines-supplements", title: "Vaccines & supplements", blurb: "Vitamin A, iron, folate, albendazole and the vaccine schedule.", icon: "syringe", tone: "steel", match: /vaccine|supplement/i },
+  { slug: "emergencies", title: "Poisoning & drug emergencies", blurb: "Antidotes, toxicity management and the acute-area drug box.", icon: "siren", tone: "brand", match: /poisoning|emergenc|drug box/i },
+  { slug: "revision", title: "Revision", blurb: "Exam pearls, mnemonics and the high-yield dose table.", icon: "sparkles", tone: "lilac", match: /ward-round|mnemonic|high-yield/i },
+];
+
 /** Chapter groupings by handbook. A handbook without one gets a chapter per H2 section. */
 const GROUPINGS: Record<string, GroupDef[]> = {
   [HANDBOOK_SLUG]: OBS_GROUPS,
+  [ROTATIONS.paeds.handbookSlug]: PAEDS_GROUPS,
 };
 
 const TONES: Tone[] = ["brand", "lilac", "peach", "accent", "steel"];
