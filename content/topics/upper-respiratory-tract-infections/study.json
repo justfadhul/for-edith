@@ -1,0 +1,297 @@
+{
+  "slug": "upper-respiratory-tract-infections",
+  "flashcards": [
+    { "id": "urti-f01", "front": "Management of the common cold in a 1-year-old (UCG 2023).", "back": "Continue breastfeeding, extra fluids, **saline nose drops** and gentle suction, paracetamol for 2–3 days, keep warm, return if danger signs. **No antibiotics, no cough syrups (<6 y), no honey (<1 y).**" },
+    { "id": "urti-f02", "front": "IMCI classification 'No pneumonia: cough or cold' — what is it and what do you do?", "back": "Cough/cold **without** fast breathing, chest indrawing, stridor in a calm child or danger signs. Home care, soothe the throat, **no antibiotic**, return if worse, follow up in 5 days if not improving; cough >14 days → assess TB/asthma/pertussis." },
+    { "id": "urti-f03", "front": "McIsaac (modified Centor) score items.", "back": "Fever >38 °C (+1), tonsillar exudate/swelling (+1), tender anterior cervical nodes (+1), **absence of cough** (+1), age 3–14 y (+1), age ≥45 (−1). **4–5 = treat** for GAS." },
+    { "id": "urti-f04", "front": "FeverPAIN score.", "back": "**F**ever in past 24 h, **P**urulence, **A**ttend rapidly (≤3 days), **I**nflamed tonsils, **N**o cough or coryza. 0–1 no antibiotic; 4–5 antibiotic (NICE NG84)." },
+    { "id": "urti-f05", "front": "First-line oral treatment of strep tonsillitis in a child (UCG 2023).", "back": "**Phenoxymethylpenicillin 10–20 mg/kg (max 500 mg) every 6 h for 10 days.** Penicillin allergy: erythromycin 12.5 mg/kg 6-hourly × 10 days (or azithromycin 12 mg/kg daily × 5 days)." },
+    { "id": "urti-f06", "front": "Benzathine penicillin dose for strep tonsillitis.", "back": "**600,000 IU deep IM once if <30 kg; 1.2 MU if ≥30 kg** (WHO/AHA). UCG 2023: child <30 kg 30,000 IU/kg. Single dose; have adrenaline ready." },
+    { "id": "urti-f07", "front": "Why give a full 10-day course for GAS pharyngitis in Uganda?", "back": "To **eradicate GAS** and **prevent acute rheumatic fever/RHD** (treatment within 9 days of onset prevents most ARF). Uganda has a very high RHD burden. Post-streptococcal GN is not prevented." },
+    { "id": "urti-f08", "front": "Signs of a peritonsillar abscess (quinsy).", "back": "Severe unilateral throat pain, **trismus**, drooling, **muffled 'hot-potato' voice**, uvula pushed to the **opposite** side, fever, ear pain. Needs IV penicillin + metronidazole and **drainage** by ENT." },
+    { "id": "urti-f09", "front": "Define acute otitis media and give WHO/IMCI treatment.", "back": "Ear pain, fever, red **bulging** drum, or pus <14 days. **Amoxicillin 40 mg/kg twice daily × 5 days**, analgesia, dry by wicking, review in 5 days. (UCG 2023: 15 mg/kg 8-hourly × 5 days; AAP high-dose 80–90 mg/kg/day.)" },
+    { "id": "urti-f10", "front": "Define CSOM and give its treatment.", "back": "Ear discharge **≥14 days** through a perforation. **Dry wicking 3×/day + topical quinolone (ciprofloxacin) drops for 2 weeks**; no systemic antibiotics; keep water out; HIV test; hearing check; ENT if persists." },
+    { "id": "urti-f11", "front": "How do you teach ear wicking?", "back": "Twist clean absorbent cloth/tissue into a wick, insert gently, remove when wet, replace with a clean wick, repeat until dry; **3 times daily**. Never cotton buds, sticks, oils or herbal drops." },
+    { "id": "urti-f12", "front": "Mastoiditis: signs and management (UCG 2023).", "back": "Tender swelling behind the ear, **pinna pushed forward and down**, fever, ear discharge. Admit; **ceftriaxone 50–80 mg/kg IV once daily + metronidazole 7.5 mg/kg 8-hourly × 10–14 days**; urgent ENT for drainage; watch for meningitis/abscess." },
+    { "id": "urti-f13", "front": "When do you diagnose bacterial sinusitis in a child?", "back": "Nasal discharge/daytime cough **>10 days** without improvement; **severe onset** (fever ≥39 °C + purulent discharge ≥3 days); or **double sickening**. Amoxicillin 7–10 days. Rare <5 y (UCG)." },
+    { "id": "urti-f14", "front": "Croup: typical age, cause and triad.", "back": "**6 months–3 years**; **parainfluenza** (also RSV, influenza, **measles**). **Barking cough, hoarse voice, inspiratory stridor**, after 1–2 days of coryza; worse at night." },
+    { "id": "urti-f15", "front": "Steroid doses for croup.", "back": "**Dexamethasone 0.15 mg/kg orally once** (UCG mild); **0.6 mg/kg (max 12 mg)** PO/IM/IV for severe (RCH). Or **prednisolone 1–2 mg/kg** once. Effect within 30 min–2 h." },
+    { "id": "urti-f16", "front": "Nebulised adrenaline for severe croup: dose and caution.", "back": "**Adrenaline 1:1000, 0.4–0.5 mL/kg (max 5 mL)** nebulised; repeat after 30 min if needed (UCG: 0.4 mg/kg max 5 mg). Effect lasts ~2 h: **observe at least 2–4 h** for rebound." },
+    { "id": "urti-f17", "front": "Westley croup score: components and cut-offs.", "back": "Consciousness (0/5), cyanosis (0/4/5), stridor (0–2), air entry (0–2), recession (0–3). **≤2 mild; 3–7 moderate; 8–11 severe; ≥12 impending respiratory failure.**" },
+    { "id": "urti-f18", "front": "Epiglottitis: the classic picture.", "back": "Sudden **high fever**, toxic, **drooling**, **tripod/sniffing posture**, muffled voice, soft stridor, **little or no cough**, refuses to swallow. Classically **Hib** (rare since pentavalent vaccine)." },
+    { "id": "urti-f19", "front": "Three things you must NOT do in suspected epiglottitis.", "back": "**Do not examine the throat** with a spatula, **do not lie the child down**, **do not give IM injections/take blood** before the airway is secured (UCG 2023). Keep with mother; airway in theatre." },
+    { "id": "urti-f20", "front": "Antibiotic for epiglottitis (UCG 2023).", "back": "**Ceftriaxone 50 mg/kg IV once daily for 7–10 days** (many centres 80–100 mg/kg, max 2 g), after the airway is secured. Rifampicin prophylaxis (20 mg/kg × 4 days) for household contacts if an unvaccinated child <4 y lives there." },
+    { "id": "urti-f21", "front": "Bacterial tracheitis: how does it present?", "back": "Starts like croup, then **sudden deterioration** with **high fever, toxicity, copious purulent secretions**, poor response to adrenaline. *S. aureus*/GAS. Airway (intubation) + IV antibiotics (e.g. ceftriaxone + cloxacillin)." },
+    { "id": "urti-f22", "front": "Clinical features of diphtheria.", "back": "Unimmunised child, low fever, sore throat, **grey adherent pseudomembrane** that bleeds when removed, **bull neck**, hoarseness/stridor. Toxin → **myocarditis (days 7–14)** and **neuropathy** (palatal palsy, weeks 2–8)." },
+    { "id": "urti-f23", "front": "Diphtheria treatment.", "back": "**Isolate**; **diphtheria antitoxin** on clinical suspicion (20,000–100,000 IU by severity; WHO pocket book 40,000); **procaine penicillin 50,000 IU/kg IM daily** then penicillin V (or erythromycin) to **14 days**; airway; daily ECG; notify; vaccinate after recovery." },
+    { "id": "urti-f24", "front": "Diphtheria contact management (UCG 2023).", "back": "Throat swabs; **benzathine penicillin once** (600,000 IU <10 y; 1.2 MU ≥10 y) or erythromycin 7–10 days; check/complete DTP, booster if last dose >1 year ago; monitor for 7 days." },
+    { "id": "urti-f25", "front": "Uganda UNEPI vaccines that prevent URTI complications.", "back": "**DTP-HepB-Hib (pentavalent) and PCV at 6, 10, 14 weeks** (diphtheria, Hib epiglottitis, pneumococcal AOM); **measles-rubella at 9 and 18 months** (measles croup/OM). HepB birth dose since 2025." },
+    { "id": "urti-f26", "front": "Unilateral foul-smelling nasal discharge in a toddler: diagnosis?", "back": "**Nasal foreign body** (bean, groundnut, foam, bead) until proven otherwise. Remove (refer to ENT if not easily removed); treat infection." },
+    { "id": "urti-f27", "front": "Why do toddlers get otitis media after a cold?", "back": "Their **Eustachian tube is shorter, wider and more horizontal**, and adenoids are large, so nasopharyngeal secretions and bacteria reach the middle ear. Smoke and bottle-feeding lying flat add risk; breastfeeding protects." }
+  ],
+  "mcqs": [
+    {
+      "id": "urti-q01",
+      "stem": "A 3-year-old girl (14 kg) has had a runny nose, cough and mild fever for 3 days. She is playing, drinking well, RR 28/min, no chest indrawing, SpO₂ 98%. The throat is mildly red with no exudate; ear drums are normal. Her mother asks for 'a strong antibiotic so it does not become pneumonia'. What is the MOST appropriate management?",
+      "options": [
+        "Amoxicillin 40 mg/kg twice daily for 5 days to prevent pneumonia",
+        "Home care with fluids, saline nose drops and paracetamol, no antibiotic, and advice on danger signs",
+        "Cotrimoxazole for 5 days and a cough syrup",
+        "Benzathine penicillin 600,000 IU IM once",
+        "Admit for observation because she is under 5 years"
+      ],
+      "answer": 1,
+      "explanation": "B is right: this is IMCI **'no pneumonia: cough or cold'**, a viral URTI; the treatment is home care, symptom relief and a clear safety net. A is wrong: antibiotics do not prevent pneumonia after a cold and cause harm. C is wrong: no antibiotic is indicated and UCG 2023 advises against cough syrups in children <6 years. D is wrong: there are no features of streptococcal tonsillitis (and GAS is uncommon at 3 years). E is wrong: she has no danger signs or distress; admission is unnecessary.",
+      "difficulty": "core"
+    },
+    {
+      "id": "urti-q02",
+      "stem": "A 10-year-old boy (28 kg) presents with 2 days of sore throat and fever 38.9 °C. He has no cough or runny nose. Both tonsils are enlarged with white exudate and there are tender anterior cervical nodes. There is no rapid strep test. His family lives 20 km away and his mother says he 'never finishes medicine'. What is the BEST treatment?",
+      "options": [
+        "Paracetamol only, because most sore throats are viral",
+        "Amoxicillin for 3 days",
+        "Ciprofloxacin 15 mg/kg twice daily for 7 days",
+        "Benzathine penicillin 600,000 IU deep IM as a single dose",
+        "Prednisolone 1 mg/kg for 3 days"
+      ],
+      "answer": 3,
+      "explanation": "D is right: McIsaac score 5 (fever, exudate, tender nodes, no cough, age 3–14) → likely **GAS**. With doubtful adherence, a **single benzathine penicillin injection** (600,000 IU if <30 kg) guarantees eradication and prevents rheumatic fever. A is wrong: this is a high-probability bacterial tonsillitis in a high-RHD country. B is wrong: 3 days does not eradicate GAS; a 10-day course is needed. C is wrong: ciprofloxacin has poor GAS activity and is not indicated. E is wrong: steroids may relieve pain but do not treat infection or prevent rheumatic fever.",
+      "difficulty": "core"
+    },
+    {
+      "id": "urti-q03",
+      "stem": "A 16-month-old boy (10 kg) wakes at 2 a.m. with a barking cough, hoarse cry and noisy breathing after 2 days of a runny nose. In the emergency room he is alert on his mother's lap, has inspiratory stridor at rest with mild subcostal recession, SpO₂ 95%, T 37.9 °C. He is drinking. What is the MOST appropriate first treatment?",
+      "options": [
+        "Oral dexamethasone 0.15–0.6 mg/kg once",
+        "Examine the throat with a spatula to exclude a foreign body",
+        "IV ceftriaxone 50 mg/kg",
+        "Salbutamol 2.5 mg nebulised every 20 minutes",
+        "Steam inhalation from a kettle for 20 minutes"
+      ],
+      "answer": 0,
+      "explanation": "A is right: this is **moderate croup** (stridor at rest, recession, alert). Every child with croup and stridor should get a single dose of **oral dexamethasone** (0.15 mg/kg UCG; up to 0.6 mg/kg). B is wrong: throat examination can upset the child and worsen obstruction, and the history (prodrome, barking cough) points to croup, not a foreign body. C is wrong: croup is viral; antibiotics are not indicated. D is wrong: salbutamol treats lower-airway bronchospasm, not subglottic oedema. E is wrong: humidified air has no proven benefit and steam kettles cause scalds.",
+      "difficulty": "core"
+    },
+    {
+      "id": "urti-q04",
+      "stem": "Thirty minutes after oral dexamethasone, the 16-month-old with croup (10 kg) is agitated with loud stridor at rest, marked sternal and subcostal recession and SpO₂ 90% in air. What is the MOST appropriate next step?",
+      "options": [
+        "A second dose of oral dexamethasone and discharge",
+        "Immediate lateral neck X-ray",
+        "Diazepam 0.3 mg/kg rectally to calm him",
+        "IV ampicillin and gentamicin",
+        "Nebulised adrenaline 1:1000, 4–5 mL, with oxygen, and call senior/anaesthetic help"
+      ],
+      "answer": 4,
+      "explanation": "E is right: he now has **severe croup** with hypoxaemia. Give **nebulised adrenaline 1:1000 at 0.4–0.5 mL/kg (max 5 mL)** with oxygen, alert the airway team, and observe for at least 2–4 hours. A is wrong: steroids take time to work; discharging a hypoxic child is dangerous. B is wrong: X-rays delay treatment and move a child with a critical airway away from help. C is wrong: sedation can precipitate complete obstruction and respiratory arrest. D is wrong: there is no evidence of bacterial infection.",
+      "difficulty": "core"
+    },
+    {
+      "id": "urti-q05",
+      "stem": "A 4-year-old unimmunised girl (13 kg) from a border district is brought in with high fever for 6 hours. She is sitting upright, leaning forward with her mouth open, drooling, with a soft inspiratory stridor and a muffled voice. She is not coughing. SpO₂ 93%. What is the MOST appropriate immediate action?",
+      "options": [
+        "Lay her flat and examine the throat with a spatula and torch",
+        "Insert an IV cannula and take blood cultures before anything else",
+        "Keep her with her mother, give oxygen without distressing her, and call the most experienced anaesthetist/ENT to secure the airway in theatre",
+        "Give IM ceftriaxone and send her for a lateral neck X-ray",
+        "Give oral dexamethasone and observe in the waiting area"
+      ],
+      "answer": 2,
+      "explanation": "C is right: this is **epiglottitis** (toxic, drooling, tripod, muffled voice, no cough, unvaccinated). The priority is a calm child and a **secured airway** by the most skilled person, in theatre. A is wrong: lying flat and a spatula can cause complete obstruction. B is wrong: painful procedures before the airway is secure can precipitate obstruction (UCG: avoid procedures that agitate the child). D is wrong: IM injections should be avoided, and sending her to X-ray removes her from airway help. E is wrong: this is not croup; observation in a waiting area could be fatal.",
+      "difficulty": "core"
+    },
+    {
+      "id": "urti-q06",
+      "stem": "An 18-month-old boy (10 kg) has had fever and has been pulling at his right ear for 2 days after a cold. Otoscopy shows a red, bulging right tympanic membrane with no discharge. He is drinking and has no danger signs. Which treatment is MOST appropriate according to WHO/IMCI practice in Uganda?",
+      "options": [
+        "Ciprofloxacin ear drops for 2 weeks",
+        "Wicking only, without antibiotics",
+        "Ceftriaxone 50 mg/kg IV for 5 days",
+        "Amoxicillin 400 mg (40 mg/kg) twice daily for 5 days with paracetamol",
+        "Chlorphenamine and xylometazoline drops for 10 days"
+      ],
+      "answer": 3,
+      "explanation": "D is right: **acute otitis media** in a child <2 years; WHO pocket book/IMCI: **amoxicillin 40 mg/kg twice daily for 5 days** plus analgesia, review in 5 days. A is wrong: topical quinolones are for CSOM (discharge ≥14 days), and the drum is intact. B is wrong: wicking is for a discharging ear; this child needs an antibiotic and analgesia. C is wrong: IV ceftriaxone is for complications or treatment failure. E is wrong: antihistamines and decongestants do not treat AOM.",
+      "difficulty": "core"
+    },
+    {
+      "id": "urti-q07",
+      "stem": "A 6-year-old HIV-positive boy (17 kg) on ART has had painless foul discharge from the left ear for 6 weeks. He has been given three courses of oral amoxicillin. There is no fever and no swelling behind the ear. Otoscopy shows pus and a central perforation. What is the BEST management?",
+      "options": [
+        "A fourth course of oral amoxicillin at a higher dose",
+        "Dry mopping (wicking) three times daily plus ciprofloxacin ear drops for 2 weeks, keep water out, and arrange a hearing assessment",
+        "Admit for IV ceftriaxone and metronidazole",
+        "Insert cotton wool soaked in warm oil and review in a month",
+        "Refer immediately for mastoidectomy"
+      ],
+      "answer": 1,
+      "explanation": "B is right: discharge ≥14 days through a perforation = **CSOM**: wicking + **topical quinolone** drops for 2 weeks; systemic antibiotics are not useful (UCG 2023); assess hearing and refer to ENT if it persists. A is wrong: repeated oral antibiotics fail in CSOM and breed resistance. C is wrong: there are no signs of complications (mastoiditis, meningitis) to justify IV therapy. D is wrong: oils and plugs keep the ear wet and infected. E is wrong: there is no mastoid swelling or tenderness; surgery is not the first step.",
+      "difficulty": "core"
+    },
+    {
+      "id": "urti-q08",
+      "stem": "A 5-year-old girl (16 kg) with a 2-week history of right ear discharge now has fever 39.2 °C and a tender, fluctuant swelling behind the right ear that pushes the pinna forward and downward. She is alert with no neck stiffness. What is the MOST appropriate management?",
+      "options": [
+        "Admit, IV ceftriaxone 80 mg/kg daily plus metronidazole 7.5 mg/kg 8-hourly, and urgent ENT referral for drainage",
+        "Oral amoxicillin and review in 5 days",
+        "Wicking and ciprofloxacin ear drops only",
+        "Incise the swelling in the OPD and send home on paracetamol",
+        "Warm compresses and chlorphenamine"
+      ],
+      "answer": 0,
+      "explanation": "A is right: this is **mastoiditis** with probable subperiosteal abscess: admit, **ceftriaxone 50–80 mg/kg + metronidazole** for 10–14 days (UCG 2023), and urgent ENT for drainage/mastoidectomy, watching for intracranial spread. B is wrong: oral treatment is inadequate for a bone infection with abscess. C is wrong: topical therapy cannot treat mastoid infection. D is wrong: drainage must be done by ENT under appropriate conditions with IV antibiotics; OPD incision risks facial nerve injury and incomplete drainage. E is wrong: these do nothing for a bacterial abscess.",
+      "difficulty": "core"
+    },
+    {
+      "id": "urti-q09",
+      "stem": "A 7-year-old unimmunised boy (20 kg) from a refugee settlement has had a sore throat and low-grade fever for 3 days. He has a markedly swollen neck and a grey-white membrane over both tonsils that bleeds when touched. His voice is hoarse. What is the MOST important immediate treatment?",
+      "options": [
+        "Oral amoxicillin and paracetamol",
+        "Remove the membrane with forceps to relieve obstruction",
+        "Nebulised adrenaline and discharge",
+        "Wait for throat culture results before any specific treatment",
+        "Isolate him and give diphtheria antitoxin plus penicillin, with airway monitoring"
+      ],
+      "answer": 4,
+      "explanation": "E is right: an **unimmunised** child with an adherent grey membrane that bleeds and a **bull neck** has **diphtheria**. Antitoxin must be given **on clinical suspicion** (it neutralises only unbound toxin), with penicillin (or a macrolide) for 14 days, isolation, airway care, ECG monitoring and contact management. A is wrong: amoxicillin alone does not neutralise toxin. B is wrong: stripping the membrane causes bleeding and can worsen obstruction or toxin absorption. C is wrong: adrenaline does not treat diphtheria and discharge would be dangerous. D is wrong: waiting for culture loses the window for antitoxin.",
+      "difficulty": "core"
+    },
+    {
+      "id": "urti-q10",
+      "stem": "Ten days after admission for diphtheria, a 7-year-old who is now swallowing well suddenly becomes breathless with HR 46/min and a gallop rhythm. What is the MOST likely cause?",
+      "options": [
+        "Aspiration pneumonia",
+        "Anaphylaxis to antitoxin",
+        "Diphtheritic myocarditis with heart block",
+        "Rheumatic carditis",
+        "Hypokalaemia from penicillin"
+      ],
+      "answer": 2,
+      "explanation": "C is right: diphtheria toxin causes **myocarditis typically in days 7–14**, with heart block, arrhythmias and heart failure; daily ECG and strict bed rest are needed, with cardiac support. A is wrong: aspiration causes fever and focal chest signs, not bradycardia and gallop. B is wrong: anaphylaxis to antitoxin occurs within minutes to hours of the infusion, not 10 days later (serum sickness occurs at 7–10 days but causes rash, fever and arthralgia, not heart block). D is wrong: rheumatic fever follows GAS, not diphtheria. E is wrong: penicillin does not cause hypokalaemia of this kind.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "urti-q11",
+      "stem": "A 2-year-old with croup was given dexamethasone and nebulised adrenaline 40 minutes ago. Stridor at rest has disappeared, he is playing and SpO₂ is 97%. The mother wants to go home now. What should you advise?",
+      "options": [
+        "Go home now; the adrenaline has cured the croup",
+        "Stay for observation for at least 2–4 hours after adrenaline; admit if stridor at rest returns",
+        "Give a second adrenaline dose before leaving to prevent relapse",
+        "Go home with oral amoxicillin to prevent bacterial tracheitis",
+        "Stay for 24 hours of mandatory IV fluids"
+      ],
+      "answer": 1,
+      "explanation": "B is right: nebulised adrenaline works for about 2 hours and symptoms can **rebound**; observe at least 2–4 hours and admit if stridor at rest recurs. A is wrong: adrenaline is temporary; the steroid takes longer to act. C is wrong: adrenaline is given for current severe obstruction, not as prophylaxis. D is wrong: antibiotics don't prevent tracheitis and croup is viral. E is wrong: he is drinking; IV fluids are unnecessary.",
+      "difficulty": "core"
+    },
+    {
+      "id": "urti-q12",
+      "stem": "A 15-year-old girl (48 kg) has fever, severe sore throat with exudative tonsillitis, posterior cervical lymphadenopathy, marked fatigue and a palpable spleen tip. Which drug should you AVOID?",
+      "options": [
+        "Paracetamol",
+        "Ibuprofen with food",
+        "Salt-water gargles",
+        "Penicillin V if GAS is confirmed",
+        "Amoxicillin"
+      ],
+      "answer": 4,
+      "explanation": "E is right: this picture (teenager, exudative tonsillitis, **posterior** nodes, **splenomegaly**, fatigue) suggests **infectious mononucleosis (EBV)**; **amoxicillin** commonly causes a widespread maculopapular rash in EBV infection. A is wrong: paracetamol is safe symptomatic treatment. B is wrong: ibuprofen with food is reasonable for pain. C is wrong: gargles are harmless symptomatic care. D is wrong: penicillin V can be used if co-existing GAS is proven; it is far less likely than amoxicillin to cause the EBV rash. (She should also avoid contact sports while the spleen is enlarged.)",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "urti-q13",
+      "stem": "A 9-year-old boy (25 kg) treated for tonsillitis with 3 days of amoxicillin now has severe left-sided throat pain, cannot open his mouth fully, is drooling, and speaks with a muffled voice. The left soft palate bulges and the uvula is deviated to the right. What is the MOST likely diagnosis and next step?",
+      "options": [
+        "Peritonsillar abscess: admit, IV penicillin plus metronidazole, and ENT drainage",
+        "Epiglottitis: secure the airway in theatre before anything else",
+        "Diphtheria: give antitoxin",
+        "Viral pharyngitis: reassure and continue amoxicillin",
+        "Dental abscess: extract the tooth in OPD"
+      ],
+      "answer": 0,
+      "explanation": "A is right: unilateral pain, **trismus**, drooling, muffled voice and a **bulging palate with uvula pushed to the opposite side** = **quinsy**; needs IV antibiotics (penicillin + metronidazole) and **needle aspiration or incision** by ENT. B is wrong: epiglottitis is a midline supraglottic infection without trismus or palatal bulge. C is wrong: there is no membrane and he is presumably immunised. D is wrong: these are not features of a simple viral sore throat. E is wrong: the findings are in the tonsillar fossa, not a tooth.",
+      "difficulty": "core"
+    },
+    {
+      "id": "urti-q14",
+      "stem": "A 6-year-old girl has had a blocked nose with purulent discharge and daytime cough for 14 days without any improvement. She is afebrile with mild tenderness over the maxillary sinuses. There is no eye swelling. Which is the MOST appropriate treatment?",
+      "options": [
+        "No treatment; sinusitis is always viral",
+        "Chlorphenamine and xylometazoline for 4 weeks",
+        "IV ceftriaxone and urgent CT of the sinuses",
+        "Amoxicillin for 7–10 days with saline irrigation and analgesia",
+        "Ciprofloxacin orally for 14 days"
+      ],
+      "answer": 3,
+      "explanation": "D is right: symptoms **>10 days without improvement** meet criteria for **acute bacterial sinusitis**: amoxicillin for 7–10 days (UCG 2023), saline irrigation and analgesia. A is wrong: persistent symptoms beyond 10 days suggest a bacterial infection that benefits from antibiotics. B is wrong: decongestant drops should not be used beyond 5 days (rebound) and antihistamines don't treat infection. C is wrong: IV therapy and CT are for orbital or intracranial complications. E is wrong: ciprofloxacin is not first line for pneumococcus/H. influenzae sinusitis in children.",
+      "difficulty": "core"
+    },
+    {
+      "id": "urti-q15",
+      "stem": "A 3-year-old with croup has been in hospital for 2 days and was improving. Today he has a temperature of 39.8 °C, looks toxic, and has worsening stridor with thick secretions; two doses of nebulised adrenaline give little improvement. What is the MOST likely diagnosis?",
+      "options": [
+        "Rebound after adrenaline",
+        "Epiglottitis",
+        "Bacterial tracheitis",
+        "Retropharyngeal abscess",
+        "Laryngomalacia"
+      ],
+      "answer": 2,
+      "explanation": "C is right: croup that **suddenly worsens** with **high fever, toxicity, purulent secretions** and **poor response to adrenaline** suggests **bacterial tracheitis** (S. aureus, GAS): secure the airway and give IV antibiotics. A is wrong: rebound occurs within hours of adrenaline and does not cause high fever or toxicity. B is wrong: epiglottitis begins abruptly, not after days of croup, and children have little cough. D is wrong: retropharyngeal abscess causes neck stiffness, drooling and torticollis, typically without a croup prodrome. E is wrong: laryngomalacia is chronic stridor from early infancy, not an acute febrile illness.",
+      "difficulty": "advanced"
+    }
+  ],
+  "cases": [
+    {
+      "id": "urti-c01",
+      "title": "Night-time stridor at Mengo emergency",
+      "presentation": "Daniel, a 14-month-old boy, is brought at 1 a.m. with a 'cough like a dog' and noisy breathing that began tonight after 2 days of a runny nose and mild fever. He is on his mother's lap, crying intermittently. His immunisation card shows BCG, OPV, pentavalent ×3, PCV ×3 and MR1 at 9 months.",
+      "steps": [
+        { "prompt": "What is your immediate assessment, and what will you avoid?", "answer": "ETAT: look for **stridor at rest, recession, cyanosis, SpO₂, consciousness, drooling**. Keep him **on his mother's lap**, examine gently, **avoid** throat examination with a spatula, lying him flat, painful procedures and separation from the mother." },
+        { "prompt": "Findings: weight 9 kg (WAZ −0.9), T 38.0 °C, RR 40, HR 145, SpO₂ 94%, inspiratory stridor at rest with moderate subcostal recession, alert, no drooling, drinking. Classify.", "answer": "**Moderate croup** (stridor at rest, recession, alert; Westley about 4). Probable viral (parainfluenza). Not epiglottitis (no toxicity, drooling or tripod; he has a barking cough and is drinking)." },
+        { "prompt": "Write the initial treatment.", "answer": "**Dexamethasone 0.15–0.6 mg/kg orally once** (1.4–5.4 mg; UCG 0.15 mg/kg; many units give 0.6 mg/kg) or prednisolone 1–2 mg/kg; paracetamol 135 mg (15 mg/kg); keep calm; observe SpO₂ and work of breathing every 15–30 min. No antibiotics, no steam, no cough syrup." },
+        { "prompt": "Forty minutes later he is agitated, stridor is louder, recession marked, SpO₂ 89%. What now?", "answer": "**Severe croup**: **nebulised adrenaline 1:1000, 0.5 mL/kg = 4.5 mL** (max 5 mL), oxygen held near the face, call the senior and anaesthetist; repeat adrenaline after 30 min if needed; prepare for intubation with a tube 0.5–1 mm smaller than usual if he tires." },
+        { "prompt": "He improves after one adrenaline nebulisation (no stridor at rest, SpO₂ 96%). Disposition?", "answer": "**Admit** (needed adrenaline, age 14 months, hypoxaemia at presentation, night time). Observe for **rebound** for at least 2–4 h; continue oral fluids; repeat steroid at 12–24 h if stridor persists; oxygen if SpO₂ <92%." },
+        { "prompt": "On day 2 the mother asks whether he needs 'the measles injection' and antibiotics. How do you respond?", "answer": "Croup is viral; **antibiotics are not needed** unless signs of bacterial tracheitis or pneumonia appear. Check for measles features (rash, conjunctivitis, Koplik spots); his **MR2 is due at 18 months** (UNEPI). Discharge when no stridor at rest and drinking, with advice to return for stridor at rest, recession, drooling or blue colour." }
+      ],
+      "takeaway": "Croup is graded by stridor at rest, recession, SpO₂ and consciousness: every child gets a steroid, severe croup gets nebulised adrenaline with oxygen, and anyone given adrenaline is observed for rebound."
+    },
+    {
+      "id": "urti-c02",
+      "title": "A sore throat and a heart at risk",
+      "presentation": "Grace, an 11-year-old girl from Mbale, comes to the HC IV with 2 days of sore throat, fever and painful swallowing. Her older brother has rheumatic heart disease and receives monthly injections at the regional referral hospital.",
+      "steps": [
+        { "prompt": "What features in the history and examination would point to streptococcal tonsillitis rather than a viral sore throat?", "answer": "Age 3–15, **fever >38 °C**, **tonsillar exudate**, **tender anterior cervical nodes**, **no cough or coryza**, palatal petechiae, scarlet rash. Viral clues: cough, runny nose, hoarseness, conjunctivitis, ulcers, diarrhoea." },
+        { "prompt": "She is 32 kg, T 38.7 °C, exudative tonsils, tender anterior nodes, no cough, no murmur. Score her and decide.", "answer": "**McIsaac 5** → high probability of GAS. In Uganda (high RHD burden, family history of RHD, no rapid test): **treat**." },
+        { "prompt": "Prescribe treatment, with dose and duration.", "answer": "Either **benzathine penicillin 1.2 MU deep IM once** (≥30 kg), or **penicillin V 500 mg (max dose) 6-hourly for 10 days** (UCG 10–20 mg/kg/dose). Penicillin allergy: erythromycin 12.5 mg/kg (400 mg) 6-hourly × 10 days. Plus paracetamol 15 mg/kg (480 mg) 6-hourly and fluids. Observe 30 min after the injection with adrenaline ready." },
+        { "prompt": "Why does the duration matter, and what do you tell the family?", "answer": "A full **10-day course (or the injection)** eradicates GAS and **prevents acute rheumatic fever**; stopping when the pain settles (day 2–3) leaves bacteria behind. Tell them to **return if joint pains, breathlessness, chest pain, jerky movements or dark urine/puffy face** appear in the next weeks." },
+        { "prompt": "Three days later she cannot open her mouth fully, is drooling, and her voice is muffled; the right palate bulges. What has happened and what do you do?", "answer": "**Right peritonsillar abscess (quinsy)**. Admit, IV fluids, **IV benzylpenicillin 50,000 IU/kg 6-hourly + metronidazole 7.5 mg/kg 8-hourly**, analgesia, and **refer to ENT for aspiration/incision and drainage**; complete 10–14 days of antibiotics." }
+      ],
+      "takeaway": "In Uganda, a high-scoring sore throat in a school-age child is treated with a full 10 days of penicillin or a single benzathine injection, because what you are really preventing is rheumatic heart disease."
+    },
+    {
+      "id": "urti-c03",
+      "title": "The drooling child from the border",
+      "presentation": "Amina, a 5-year-old girl, arrives from a refugee settlement in Isingiro with high fever since this morning. She is sitting on her father's lap, leaning forward with her chin out and mouth open, drooling. She has never been vaccinated.",
+      "steps": [
+        { "prompt": "What are your top two diagnoses and what single action protects her most?", "answer": "**Epiglottitis** (unvaccinated, toxic, drooling, tripod) and **diphtheria** (unvaccinated; membrane, bull neck); also retropharyngeal abscess and bacterial tracheitis. The single most protective action: **keep her calm and upright with her father, oxygen without distress, and call the most experienced anaesthetist/ENT now**." },
+        { "prompt": "What must you not do?", "answer": "Do **not** lie her down, examine the throat with a spatula, insert cannulae or give IM injections, or send her alone for an X-ray before the airway is secured (UCG 2023)." },
+        { "prompt": "In theatre the anaesthetist sees a cherry-red, swollen epiglottis and intubates her. What treatment follows?", "answer": "IV access, blood culture, **ceftriaxone 50–100 mg/kg IV once daily for 7–10 days** (16 kg → 800 mg–1.6 g; UCG 50 mg/kg), ICU/HDU care until the swelling settles (usually 24–48 h), sedation while intubated, then extubation in a controlled setting." },
+        { "prompt": "Her 2-year-old brother, also unvaccinated, lives in the same tent. What do you do for the family?", "answer": "**Rifampicin prophylaxis 20 mg/kg (max 600 mg) once daily for 4 days** for household contacts (an unvaccinated child <4 y is present); **start catch-up vaccination** (pentavalent with Hib, PCV, MR, OPV/IPV) for both children; notify the settlement health team." },
+        { "prompt": "How would the picture differ if this were diphtheria, and what would you add?", "answer": "Diphtheria: **slower onset**, low-grade fever, **grey adherent membrane** that bleeds when removed, **bull neck**, hoarseness. Add **isolation**, **diphtheria antitoxin** (20,000–100,000 IU by severity) on suspicion, penicillin or erythromycin for 14 days, **daily ECG** (myocarditis days 7–14), contact prophylaxis, notification, and vaccination." }
+      ],
+      "takeaway": "A drooling, toxic, unvaccinated child needs a calm parent, oxygen and the best airway person, not a spatula; then antibiotics, contact prophylaxis and the vaccines she missed."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023 (5.2.3 Coryza; 5.2.4 Epiglottitis; 5.2.7 Croup; 21.1.4 Otitis media; 21.1.6 Mastoiditis; 21.2.4 Sinusitis; 21.3.3–21.3.5 Pharyngitis, tonsillitis, quinsy; 2.1.3 Diphtheria)", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Pocket Book of Hospital Care for Children, 2nd edition", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "Sore throat (acute): antimicrobial prescribing (NG84)", "source": "National Institute for Health and Care Excellence", "year": 2018, "url": "https://www.nice.org.uk/guidance/ng84" },
+    { "title": "Croup (laryngotracheobronchitis): Clinical Practice Guideline", "source": "The Royal Children's Hospital Melbourne", "url": "https://www.rch.org.au/clinicalguide/guideline_index/Croup_laryngotracheobronchitis/" },
+    { "title": "Croup", "source": "Medscape (eMedicine)", "url": "https://emedicine.medscape.com/article/962972-overview" },
+    { "title": "Epiglottitis", "source": "Medscape (eMedicine)", "url": "https://emedicine.medscape.com/article/963773-overview" },
+    { "title": "Pediatric Pharyngitis", "source": "Medscape (eMedicine)", "url": "https://emedicine.medscape.com/article/967384-overview" },
+    { "title": "Otitis Media", "source": "Medscape (eMedicine)", "url": "https://emedicine.medscape.com/article/994656-overview" },
+    { "title": "Diphtheria: fact sheet", "source": "World Health Organization", "url": "https://www.who.int/news-room/fact-sheets/detail/diphtheria" }
+  ]
+}

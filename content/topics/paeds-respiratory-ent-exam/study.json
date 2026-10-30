@@ -1,0 +1,294 @@
+{
+  "slug": "paeds-respiratory-ent-exam",
+  "flashcards": [
+    { "id": "rent-f01", "front": "Recommended order of the paediatric respiratory and ENT examination.", "back": "**Observe** (end of bed, parent's lap) → **count RR (60 s) and SpO₂** → hands/face/neck → chest: **inspect, palpate, percuss, auscultate** → **ears → nose → throat last** → neck nodes → growth, heart, liver." },
+    { "id": "rent-f02", "front": "WHO fast-breathing cut-offs.", "back": "**≥60/min** (<2 months); **≥50** (2–11 months); **≥40** (12–59 months); **>30** (≥5 years, UCG 2023). Count a full minute, calm child." },
+    { "id": "rent-f03", "front": "How do you count RR accurately in an infant?", "back": "Child calm (not crying or feeding), chest/abdomen exposed, **watch the abdomen** (diaphragmatic breathing), count for a **full 60 seconds** with a timer; repeat if borderline." },
+    { "id": "rent-f04", "front": "Define lower chest wall indrawing.", "back": "The **lower chest wall goes IN when the child breathes IN**, present **all the time** in a **calm** child. Intercostal soft-tissue recession alone is not indrawing." },
+    { "id": "rent-f05", "front": "Signs of severe respiratory distress in a child.", "back": "**Grunting, head nodding, nasal flaring, severe chest indrawing, inability to drink/feed, central cyanosis**, RR ≥70; SpO₂ <90%." },
+    { "id": "rent-f06", "front": "Normal RR and HR by age (APLS).", "back": "RR: <1 y **30–40**; 1–2 y **25–35**; 2–5 y **25–30**; 5–12 y **20–25**. HR: <1 y **110–160**; 1–2 y **100–150**; 2–5 y **95–140**; 5–12 y **80–120**." },
+    { "id": "rent-f07", "front": "Pulse oximetry tips in children.", "back": "Correct probe size (toe/foot in infants), warm still limb, wait for a **steady pleth trace 30–60 s**, check pulse matches; note air vs O₂. May **over-read in dark skin** and poor perfusion. <90% = oxygen." },
+    { "id": "rent-f08", "front": "Stridor vs wheeze.", "back": "**Stridor**: harsh, **inspiratory**, extrathoracic (larynx/trachea), loudest over the neck — croup, epiglottitis, FB. **Wheeze**: musical, **expiratory**, intrathoracic airways — asthma, bronchiolitis." },
+    { "id": "rent-f09", "front": "When must you NOT examine the throat?", "back": "**Stridor, drooling, tripod/sniffing posture, muffled voice, toxic look** (suspected epiglottitis/retropharyngeal abscess/severe croup): risk of complete obstruction. Keep upright with parent, call airway help." },
+    { "id": "rent-f10", "front": "How to straighten the ear canal for otoscopy.", "back": "**Infants: pull the pinna down and back. Older children: up and back.** Largest speculum that fits; hold otoscope like a pen; **brace the little finger on the child's head**." },
+    { "id": "rent-f11", "front": "Appearance of a normal tympanic membrane.", "back": "**Pearly grey, translucent**, slightly concave, **cone of light anteroinferiorly**, **handle of malleus** visible, mobile on pneumatic otoscopy." },
+    { "id": "rent-f12", "front": "Otoscopic signs of AOM vs OME.", "back": "**AOM**: red/yellow, opaque, **bulging**, landmarks and light reflex lost (± pus if perforated). **OME (glue ear)**: dull, **retracted**, prominent malleus, **fluid level/bubbles**, reduced mobility, no acute illness." },
+    { "id": "rent-f13", "front": "CSOM: definition and otoscopic findings.", "back": "Ear discharge **≥14 days** through a **perforation** (central or attic). Attic perforation with white debris and foul smell = **cholesteatoma** → ENT." },
+    { "id": "rent-f14", "front": "Brodsky tonsil grades.", "back": "0 in fossa/removed; **1+ <25%**; **2+ 25–50%**; **3+ 50–75%**; **4+ >75%** of the oropharyngeal width ('kissing tonsils')." },
+    { "id": "rent-f15", "front": "How to examine a toddler's throat safely.", "back": "Parent holds child on lap facing forward (one arm across the child's arms/chest, hand on forehead); torch; ask to 'open wide/roar'; tongue depressor briefly on the **anterior two-thirds** of the tongue. Look at tonsils, uvula, palate, pharynx, buccal mucosa. Never with stridor/drooling." },
+    { "id": "rent-f16", "front": "Throat findings and their meaning.", "back": "Exudate + tender anterior nodes = **GAS**; grey adherent membrane that bleeds = **diphtheria**; uvula pushed away + trismus = **quinsy**; white spots opposite molars = **Koplik (measles)**; white plaques = **thrush (HIV/antibiotics)**." },
+    { "id": "rent-f17", "front": "Order of palpating head and neck lymph nodes.", "back": "**Submental → submandibular → tonsillar (jugulodigastric) → anterior cervical → posterior cervical → supraclavicular → pre-auricular → post-auricular → occipital.**" },
+    { "id": "rent-f18", "front": "Which cervical nodes need investigation in a child?", "back": "Nodes **>2 cm**, any **supraclavicular** node, **hard/fixed/rapidly growing**, **matted/fluctuant or with a sinus** (TB), persisting >4–6 weeks, or with weight loss/night sweats/hepatosplenomegaly. ≤1 cm soft mobile nodes are common and normal." },
+    { "id": "rent-f19", "front": "Causes of clubbing in a Ugandan child.", "back": "**Bronchiectasis** (post-measles, pertussis, TB), **HIV lung disease (LIP)**, **cyanotic congenital heart disease**, empyema/lung abscess, **cystic fibrosis**, IBD, liver cirrhosis, endocarditis. **Not asthma.**" },
+    { "id": "rent-f20", "front": "Pleural effusion vs consolidation vs collapse vs pneumothorax at the bedside.", "back": "**Effusion**: stony dull, absent sounds, trachea **pushed away**. **Consolidation**: dull, **bronchial breathing**, crackles, ↑vocal resonance. **Collapse**: dull, ↓sounds, trachea **pulled towards**. **Pneumothorax**: **hyper-resonant**, absent sounds, trachea pushed away." },
+    { "id": "rent-f21", "front": "Transmitted upper-airway sounds: how to recognise them.", "back": "**Loudest over the neck/trachea**, **symmetrical**, coarse, **change or clear after a cough or nasal suction**. Don't call them crackles or wheeze." },
+    { "id": "rent-f22", "front": "Why auscultate in the axillae?", "back": "The **right middle lobe** and **lingula** project there; consolidation in these lobes can be missed if you listen only front and back." },
+    { "id": "rent-f23", "front": "Deep, fast breathing with a clear chest — what should you think of?", "back": "**Metabolic acidosis**: severe malaria, DKA, severe dehydration, sepsis, salicylate poisoning — not pneumonia. Check malaria test, glucose, hydration." },
+    { "id": "rent-f24", "front": "Rinne and Weber in a conductive hearing loss (e.g. right glue ear).", "back": "**Rinne right negative** (bone > air); **Weber lateralises to the right** (affected) ear. Use a 512 Hz fork, older children only." },
+    { "id": "rent-f25", "front": "Anterior rhinoscopy: what are you looking for?", "back": "Push the tip up, look with otoscope/torch: **septum** (deviation, haematoma), **turbinates** (pale/swollen = allergy; red = infection), **polyps** (think **CF** in a child), **foreign body** (unilateral foul discharge), discharge." },
+    { "id": "rent-f26", "front": "Nasal prong oxygen flows by age.", "back": "**Neonates 0.5–1 L/min; infants 1–2 L/min; older children 2–4 L/min.** Target SpO₂ ≥90% (≥94% with emergency signs)." },
+    { "id": "rent-f27", "front": "Minimum acceptable systolic BP in a child 1–10 years.", "back": "**70 + (2 × age in years)** mmHg. Use a cuff whose bladder covers 80–100% of the arm circumference." }
+  ],
+  "mcqs": [
+    {
+      "id": "rent-q01",
+      "stem": "You are asked to count the respiratory rate of a 7-month-old girl who is crying loudly on her mother's lap. What is the BEST way to obtain an accurate rate?",
+      "options": [
+        "Wait until she is calm (e.g. after breastfeeding stops or while held), expose the abdomen and count for a full 60 seconds",
+        "Count for 15 seconds while she cries and multiply by 4",
+        "Use the heart rate on the pulse oximeter divided by 3",
+        "Count only while she is breastfeeding because she is quiet",
+        "Estimate by looking for 10 seconds; experienced clinicians do not need to count"
+      ],
+      "answer": 0,
+      "explanation": "A is right: WHO/IMCI requires counting for a **full minute** in a **calm** child, watching the abdomen in infants. B is wrong: crying raises RR, and 15-second counts multiply errors. C is wrong: HR:RR ratios are not a valid way to measure RR. D is wrong: feeding changes the breathing pattern; count when she is calm but not feeding. E is wrong: estimates are frequently wrong and are the commonest cause of misclassification.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rent-q02",
+      "stem": "A 14-month-old boy (9 kg) has cough and fever. While calm on his mother's lap his RR is 46/min; the lower chest wall goes in with each breath. SpO₂ 95%, alert, drinking. Malaria RDT negative. How should you classify him?",
+      "options": [
+        "No pneumonia: cough or cold, because RR is below 50",
+        "Severe pneumonia, because chest indrawing is present",
+        "Pneumonia (fast breathing and chest indrawing, no danger signs)",
+        "Bronchiolitis, because he is under 2 years",
+        "Asthma, because indrawing indicates bronchospasm"
+      ],
+      "answer": 2,
+      "explanation": "C is right: at 12–59 months the cut-off is **≥40**, so RR 46 is fast; with **lower chest wall indrawing** and no danger sign or hypoxaemia this is WHO **pneumonia** (oral amoxicillin). A is wrong: the 50 cut-off applies to 2–11 months. B is wrong: since WHO 2014, indrawing without danger signs is 'pneumonia', not severe pneumonia. D is wrong: bronchiolitis needs a coryzal prodrome with wheeze/crackles; age alone doesn't make the diagnosis. E is wrong: indrawing reflects stiff lungs or obstruction of any cause; there is no wheeze here.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rent-q03",
+      "stem": "A 4-year-old girl is brought in sitting upright, leaning forward with her mouth open, drooling, with a soft inspiratory stridor and a muffled voice. Your OSCE examiner hands you a tongue depressor and torch. What should you do?",
+      "options": [
+        "Examine the throat quickly to confirm the diagnosis before calling for help",
+        "Lie her flat to examine the throat more easily",
+        "Examine the throat but avoid the posterior tongue",
+        "Ask the mother to hold her down firmly so you can look",
+        "Decline to examine the throat, keep her calm and upright with her mother, give oxygen without distress, and call for senior anaesthetic/ENT help"
+      ],
+      "answer": 4,
+      "explanation": "E is right: drooling, tripod posture, muffled voice and stridor suggest **epiglottitis**; throat examination, lying flat or restraint can cause **complete airway obstruction**. Say this aloud and call the airway team. A, C and D are wrong: any throat examination or restraint risks obstruction. B is wrong: lying flat lets the swollen epiglottis fall back.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rent-q04",
+      "stem": "You are about to examine the ear of a 10-month-old infant with an otoscope. Which technique is CORRECT?",
+      "options": [
+        "Use the smallest speculum and pull the pinna up and back",
+        "Use the largest speculum that fits, pull the pinna down and back, and brace your hand on the child's head",
+        "Hold the otoscope like a hammer with no contact with the head so that it does not move",
+        "Lie the infant flat and insert the speculum until resistance is felt",
+        "Pull the pinna forward to open the canal"
+      ],
+      "answer": 1,
+      "explanation": "B is right: in infants the canal is straightened by pulling the pinna **down and back**; the **largest speculum that fits** gives the best view, and **bracing** the hand means the otoscope moves with the head, preventing injury. A is wrong: up and back is for older children, and too small a speculum gives a poor view and goes too deep. C is wrong: an unbraced otoscope injures the canal if the child moves. D is wrong: inserting until resistance risks canal and drum trauma. E is wrong: pulling forward does not straighten the canal.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rent-q05",
+      "stem": "A 15-month-old with 2 days of fever and irritability has a right tympanic membrane that is red, opaque and bulging, with no light reflex and the malleus not visible. The left drum is pearly grey with a normal light reflex. What is the diagnosis?",
+      "options": [
+        "Otitis media with effusion (glue ear)",
+        "Otitis externa",
+        "Chronic suppurative otitis media",
+        "Right acute otitis media",
+        "Normal findings in a crying child"
+      ],
+      "answer": 3,
+      "explanation": "D is right: a **red, bulging drum with loss of landmarks** in a febrile, irritable child = **acute otitis media**. A is wrong: glue ear shows a dull, **retracted** drum with fluid/bubbles and no acute illness. B is wrong: otitis externa affects the canal (swelling, pain on moving the pinna) with a normal drum. C is wrong: CSOM has a perforation with discharge ≥14 days. E is wrong: crying can redden a drum but does not make it **bulge** with lost landmarks.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rent-q06",
+      "stem": "A 7-year-old boy (20 kg) has 3 weeks of fever and a TB contact. The trachea is deviated to the left. The right lower chest is stony dull with absent breath sounds and absent vocal resonance; bronchial breathing is heard just above the dull area. What is the MOST likely finding?",
+      "options": [
+        "Right lower lobe collapse",
+        "Right pneumothorax",
+        "Right pleural effusion",
+        "Right lower lobe consolidation only",
+        "Normal chest with transmitted sounds"
+      ],
+      "answer": 2,
+      "explanation": "C is right: **stony dullness, absent breath sounds and vocal resonance**, with the trachea **pushed away** and bronchial breathing above the fluid (compressed lung), = **pleural effusion** (TB effusion vs empyema → CXR/ultrasound and tap). A is wrong: collapse **pulls** the trachea towards the affected side. B is wrong: pneumothorax is **hyper-resonant**. D is wrong: consolidation has bronchial breathing and **increased** vocal resonance over the dull area, without tracheal shift. E is wrong: these are clear abnormal signs.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rent-q07",
+      "stem": "A 9-month-old with a runny nose has coarse noises all over the chest on auscultation. RR 36/min, no indrawing, SpO₂ 98%, feeding well. The noises are loudest over the neck, sound the same on both sides, and disappear after the nose is suctioned. What are they?",
+      "options": [
+        "Fine crackles of pneumonia",
+        "Polyphonic wheeze of asthma",
+        "Pleural rub",
+        "Stridor of croup",
+        "Transmitted upper-airway sounds"
+      ],
+      "answer": 4,
+      "explanation": "E is right: sounds that are **loudest over the neck, symmetrical** and **clear after nasal suction or coughing** are **transmitted upper-airway sounds** from nasal secretions; with a normal RR and SpO₂ this is a cold. A is wrong: crackles are localised to the lung, inspiratory and don't clear with suction. B is wrong: wheeze is musical and expiratory, from intrathoracic airways. C is wrong: a pleural rub is a localised creak in both phases. D is wrong: stridor is a harsh inspiratory noise from the larynx with a barking cough.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rent-q08",
+      "stem": "A 6-year-old girl (18 kg) is breathing deeply and fast (RR 44/min) with a clear chest, no indrawing and SpO₂ 98%. She has had fever for 3 days and is drowsy. Her conjunctivae are pale. What is the MOST appropriate next step?",
+      "options": [
+        "Malaria test (RDT/smear), blood glucose and haemoglobin; consider severe malaria with acidosis",
+        "Oral amoxicillin for pneumonia",
+        "Nebulised salbutamol",
+        "Chest X-ray before any treatment",
+        "Throat swab for streptococcus"
+      ],
+      "answer": 0,
+      "explanation": "A is right: **deep, fast (acidotic) breathing with a clear chest** in a febrile, drowsy, pale child in Uganda suggests **severe malaria with metabolic acidosis** (or severe anaemia): test for malaria, glucose and Hb and treat (IV artesunate, transfusion if needed). B is wrong: there are no chest signs of pneumonia; this pattern is respiratory compensation for acidosis. C is wrong: there is no wheeze. D is wrong: CXR delays urgent treatment and is unlikely to explain the picture. E is wrong: the throat is not the issue.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rent-q09",
+      "stem": "A 3-year-old boy has a firm, matted, non-tender 3 cm swelling in the right posterior cervical region with a discharging sinus. He has lost weight over 2 months and his uncle has TB. What is the MOST appropriate next step?",
+      "options": [
+        "Oral amoxicillin-clavulanate for 10 days and review",
+        "Reassure; reactive nodes are common in children",
+        "Incision and drainage in OPD and send home",
+        "Fine-needle aspiration of the node for Xpert/cytology, with CXR and HIV test",
+        "Start chemotherapy for lymphoma"
+      ],
+      "answer": 3,
+      "explanation": "D is right: a **firm, matted node with a sinus**, weight loss and a TB contact = **TB lymphadenitis** until proven otherwise: **FNA for Xpert Ultra/cytology**, CXR and HIV test, then treat (peripheral node TB is non-severe → 4-month regimen if confirmed). A is wrong: antibiotics delay diagnosis. B is wrong: a 3 cm matted node with a sinus is not a simple reactive node. C is wrong: I&D of TB nodes causes chronic sinuses and doesn't diagnose. E is wrong: lymphoma needs tissue diagnosis first, and the picture favours TB.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rent-q10",
+      "stem": "During bedside teaching, a 5-year-old girl with asthma (19 kg) who was wheezing loudly an hour ago is now drowsy, the chest is almost silent on auscultation, RR 18/min, SpO₂ 86% on a face mask. What does this mean?",
+      "options": [
+        "The asthma has resolved and she is sleeping",
+        "Life-threatening asthma with exhaustion: call for help now and escalate treatment",
+        "She has developed pneumonia and needs antibiotics only",
+        "The oximeter is faulty because the chest is clear",
+        "Salbutamol toxicity; stop bronchodilators"
+      ],
+      "answer": 1,
+      "explanation": "B is right: a **silent chest**, **drowsiness**, a **falling RR** and **low SpO₂** = **life-threatening asthma with exhaustion**: stop teaching, call for help, back-to-back salbutamol + ipratropium, IV magnesium, prepare for ventilation. A is wrong: a quiet chest here means no airflow. C is wrong: nothing suggests pneumonia, and antibiotics wouldn't address the emergency. D is wrong: the clinical picture fits the low SpO₂. E is wrong: toxicity causes tachycardia and tremor, not a silent chest.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rent-q11",
+      "stem": "A 2-year-old has a wet cough. On inspection the nails show loss of the angle at the nail fold with increased curvature. Which condition is LEAST likely to explain this sign?",
+      "options": [
+        "Bronchiectasis after measles",
+        "Lymphoid interstitial pneumonitis (HIV)",
+        "Cyanotic congenital heart disease",
+        "Cystic fibrosis",
+        "Asthma"
+      ],
+      "answer": 4,
+      "explanation": "E is right: **asthma does not cause clubbing**; a clubbed asthmatic child needs evaluation for another diagnosis. A is wrong: bronchiectasis (post-measles, pertussis or TB) is a classic cause. B is wrong: LIP in HIV-positive children causes clubbing. C is wrong: cyanotic heart disease causes clubbing. D is wrong: cystic fibrosis causes clubbing through chronic suppurative lung disease.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rent-q12",
+      "stem": "A 4-year-old girl has had painless discharge from the left ear for 6 weeks. After dry mopping, otoscopy shows a central perforation of the left drum with pus in the middle ear. What is the BEST management to start in OPD?",
+      "options": [
+        "Oral amoxicillin for 5 days",
+        "Cotton wool plug soaked in warm oil",
+        "Teach dry wicking 3 times daily and ciprofloxacin ear drops for 2 weeks; HIV test and hearing assessment",
+        "Urgent mastoidectomy",
+        "Syringe the ear with water daily and allow swimming"
+      ],
+      "answer": 2,
+      "explanation": "C is right: discharge **≥14 days** with a **perforation** = **CSOM**: dry wicking plus topical quinolone drops for 2 weeks (UCG/IMCI), keep water out, HIV test and hearing check. A is wrong: systemic antibiotics are not useful in CSOM. B is wrong: plugs and oil keep the ear wet and infected. D is wrong: there are no signs of mastoiditis. E is wrong: water entry worsens CSOM.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rent-q13",
+      "stem": "A 2-year-old boy has a 3-week history of a foul-smelling, blood-stained discharge from the right nostril only. He is otherwise well with no fever. What is the MOST likely diagnosis?",
+      "options": [
+        "Acute bacterial sinusitis",
+        "Nasal foreign body",
+        "Allergic rhinitis",
+        "Common cold",
+        "Nasal polyps from cystic fibrosis"
+      ],
+      "answer": 1,
+      "explanation": "B is right: a **unilateral, foul-smelling (often blood-stained) nasal discharge** in a toddler is a **foreign body** (bead, bean, foam, groundnut) until proven otherwise; look with a light and remove or refer to ENT (urgently if a button battery). A is wrong: sinusitis is usually bilateral and maxillary sinuses are small at 2 years. C is wrong: allergic rhinitis gives clear bilateral discharge with sneezing. D is wrong: a cold is bilateral and resolves in about a week. E is wrong: polyps are bilateral and rare at this age.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rent-q14",
+      "stem": "A 6-year-old's oximeter reading fluctuates between 85% and 97% while she wriggles, and the plethysmograph trace is irregular. Her lips are pink and she is breathing comfortably at 22/min. What should you do?",
+      "options": [
+        "Calm her, warm the hand, reposition or change the probe, keep the limb still and wait for a steady waveform before recording",
+        "Record the lowest value and start oxygen",
+        "Record the highest value and move on",
+        "Average the two numbers and record 91%",
+        "Ignore oximetry in children; it is unreliable"
+      ],
+      "answer": 0,
+      "explanation": "A is right: a reliable reading needs a **steady pleth waveform** for 30–60 s, a still, warm limb and the right probe; motion causes false readings. B is wrong: a motion artefact is not hypoxaemia, and she looks well, though you should confirm. C and D are wrong: recording an arbitrary or averaged value from an unreliable trace misleads the team. E is wrong: pulse oximetry is essential and reliable when done properly.",
+      "difficulty": "core"
+    },
+    {
+      "id": "rent-q15",
+      "stem": "In an OSCE you are asked to examine the throat of a 3-year-old with fever and sore throat who has no stridor or drooling. Which technique is MOST appropriate?",
+      "options": [
+        "Lie the child flat on the couch and press the tongue depressor firmly on the back of the tongue",
+        "Ask the child to stand alone and open the mouth while you hold the head",
+        "Insert the tongue depressor as far as possible to see the posterior pharynx",
+        "Seat the child on the parent's lap with arms and head gently held, use a torch, and place the depressor briefly on the anterior two-thirds of the tongue",
+        "Skip the throat; it is never necessary in children"
+      ],
+      "answer": 3,
+      "explanation": "D is right: the parent's lap with gentle restraint, a torch, and a **brief** depression of the **anterior two-thirds** of the tongue gives a good view with minimal gagging. A and C are wrong: pressing on the posterior tongue causes gagging and vomiting, and lying flat is unnecessary. B is wrong: a standing 3-year-old will pull away; positioning with the parent is safer. E is wrong: the throat is a common source of fever (tonsillitis, diphtheria, measles, thrush) and should be examined when safe.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "rent-c01",
+      "title": "Bedside teaching: a toddler with fever and cough",
+      "presentation": "During Dr Mawanda's bedside teaching on the Mengo paediatric ward, you are asked to examine Amina, a 2-year-old girl (11 kg) admitted this morning with 3 days of fever and cough. She is sitting on her mother's lap, quiet but alert.",
+      "steps": [
+        { "prompt": "How do you start, and what do you do before touching her?", "answer": "Hand hygiene, introduce yourself, explain and get consent; keep her on mum's lap, expose the chest, keep warm. **Observe** first: alertness, colour, noises, posture, flaring, indrawing, head nodding, drooling, feeding. Then **count RR for 60 s** while calm and **measure SpO₂** with the right probe." },
+        { "prompt": "RR 48/min, SpO₂ 93% in air, HR 136, T 38.6 °C, nasal flaring, lower chest wall indrawing, no grunting or head nodding. Interpret.", "answer": "**Fast breathing** (cut-off ≥40 at 12–59 months) and **chest indrawing**; no danger sign; SpO₂ 93% (not hypoxaemic by the <90% threshold but monitor closely). WHO class so far: **pneumonia**." },
+        { "prompt": "Chest: trachea central, reduced expansion on the right, dull percussion right base posteriorly, bronchial breathing and fine crackles there, left clear, no wheeze. What do you conclude?", "answer": "**Right lower lobe consolidation** (dullness, bronchial breathing, crackles, no tracheal shift). Listened in the **axillae** too (to exclude middle lobe). No wheeze, so no bronchodilator trial needed." },
+        { "prompt": "Describe how you would examine her ears and throat, and what you would look for.", "answer": "Ears: largest speculum that fits, pinna **down and back** (infants and young toddlers; up and back in older children), brace hand; look for red bulging drum (AOM). Throat (no stridor/drooling): mum holds her, torch, brief depressor on anterior tongue; look for exudate, membrane, Koplik spots, thrush, uvula position. Then palpate nodes in order." },
+        { "prompt": "Present your findings and plan in 30 seconds.", "answer": "\"Amina, 2 years, 11 kg, WAZ −0.8, fully immunised, HIV-negative, 3 days of fever and cough; RR 48 (fast), indrawing, SpO₂ 93% in air, signs of right lower lobe consolidation; ENT normal; no danger signs. **WHO pneumonia, right lower lobe.** Plan: amoxicillin 40 mg/kg (440 mg) twice daily × 5 days, paracetamol, monitor SpO₂ and RR, review in 2–3 days; admit if danger signs or SpO₂ <90%.\"" }
+      ],
+      "takeaway": "Observe, count and measure before you listen; then localise, check the ENT, and finish with a WHO classification and plan."
+    },
+    {
+      "id": "rent-c02",
+      "title": "Noisy breathing at night",
+      "presentation": "A 15-month-old boy (10 kg) is brought to emergency at 2 a.m. with noisy breathing. His mother imitates a 'barking' cough. He is on her lap, crying intermittently.",
+      "steps": [
+        { "prompt": "What is the first thing you need to establish about the noise, and how?", "answer": "Whether it is **stridor** (inspiratory, harsh, from the upper airway: listen near the mouth/neck) or **wheeze** (expiratory, musical, from the chest), and whether stridor is present **at rest when calm**. Also look for drooling, tripod posture, toxicity and cyanosis." },
+        { "prompt": "He has inspiratory stridor when calm, moderate suprasternal and subcostal recession, SpO₂ 95%, no drooling, drinking, T 37.9 °C. Which parts of the examination will you avoid?", "answer": "Avoid the **throat examination with a spatula**, lying him flat, and painful procedures; avoid separating him from his mother. Examine chest and ears gently on her lap." },
+        { "prompt": "Classify and give the first treatment.", "answer": "**Moderate croup** (stridor at rest, recession, alert, no drooling). **Dexamethasone 0.15–0.6 mg/kg orally** once (1.5–6 mg), keep calm, observe SpO₂ and work of breathing." },
+        { "prompt": "Thirty minutes later the stridor is quieter but he is drowsy, more cyanosed and SpO₂ is 86%. What does this mean?", "answer": "**Impending respiratory failure**: a softening stridor with drowsiness and cyanosis means less air is moving, not improvement. Oxygen, **nebulised adrenaline 1:1000, 5 mL** (0.5 mL/kg, max 5 mL), call the anaesthetist for airway support." },
+        { "prompt": "How would the examination have differed if this were epiglottitis?", "answer": "Toxic, high fever, **drooling**, **tripod/sniffing** posture, muffled voice, little cough, refusing to swallow. You would **not** examine the throat or lie him down; you'd keep him upright with his mother and get the airway team to theatre." }
+      ],
+      "takeaway": "Identify stridor vs wheeze, judge it at rest, protect the airway by not examining the throat, and remember that quieter stridor with drowsiness is deterioration."
+    },
+    {
+      "id": "rent-c03",
+      "title": "Fever without an obvious source",
+      "presentation": "A 10-month-old girl (8 kg) has had fever for 2 days and is irritable and pulling at her right ear. Malaria RDT is negative. Her mother says she has had 'a cold' this week.",
+      "steps": [
+        { "prompt": "Which danger signs and vital signs do you check first?", "answer": "Able to breastfeed? Vomiting everything? Convulsions? Lethargy? Then **RR (60 s)** (cut-off ≥50 at 2–11 months), **SpO₂**, HR, temperature, CRT; fontanelle and neck stiffness (meningitis)." },
+        { "prompt": "She is breastfeeding, alert, RR 40, SpO₂ 98%, fontanelle flat, chest clear. How do you examine her ears?", "answer": "Mother holds her sideways on the lap, one arm around her body and arms, the other hand holding her head to the chest. Largest speculum that fits, **pinna down and back** (infant), little finger braced on her head; inspect the canal and drum on both sides (good ear first)." },
+        { "prompt": "Right drum: red, opaque, bulging, no light reflex. Left drum normal. No discharge, no mastoid swelling. Diagnosis and treatment?", "answer": "**Right acute otitis media.** Amoxicillin 40 mg/kg = **320 mg twice daily for 5 days** (WHO/IMCI; UCG 15 mg/kg 8-hourly), paracetamol 120 mg (15 mg/kg) 6-hourly, review in 5 days." },
+        { "prompt": "What would make you admit her urgently?", "answer": "Swelling, redness or tenderness **behind the ear** with the pinna pushed forward (**mastoiditis**), neck stiffness/bulging fontanelle or convulsions (**meningitis**), facial palsy, danger signs, or hypoxaemia." },
+        { "prompt": "Five weeks later she has a painless discharge from the same ear for 3 weeks. What do you find and do?", "answer": "Likely **CSOM** (discharge ≥14 days): after dry mopping, a perforation. **Teach wicking 3 times daily**, ciprofloxacin ear drops for 2 weeks, keep water out, **HIV test**, hearing assessment, ENT referral if not dry." }
+      ],
+      "takeaway": "In a febrile infant always look in the ears after checking danger signs, RR and SpO₂; technique (pinna down and back, braced otoscope) gives you the diagnosis safely."
+    }
+  ],
+  "references": [
+    { "title": "Pocket Book of Hospital Care for Children, 2nd edition", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "Uganda Clinical Guidelines 2023 (5.2.9 Pneumonia; 21.1.4 Otitis media; 21.3 Throat conditions)", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Guideline on management of pneumonia and diarrhoea in children up to 10 years of age", "source": "World Health Organization", "year": 2024, "url": "https://www.who.int/publications/i/item/9789240103412" },
+    { "title": "Bronchiolitis in children: diagnosis and management (NG9) — pulse oximetry and assessment", "source": "National Institute for Health and Care Excellence", "url": "https://www.nice.org.uk/guidance/ng9" },
+    { "title": "Croup (laryngotracheobronchitis): Clinical Practice Guideline", "source": "The Royal Children's Hospital Melbourne", "url": "https://www.rch.org.au/clinicalguide/guideline_index/Croup_laryngotracheobronchitis/" },
+    { "title": "Otitis Media", "source": "Medscape (eMedicine)", "url": "https://emedicine.medscape.com/article/994656-overview" },
+    { "title": "Pediatric Pneumonia", "source": "Medscape (eMedicine)", "url": "https://emedicine.medscape.com/article/967822-overview" }
+  ]
+}

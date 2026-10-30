@@ -1,0 +1,297 @@
+{
+  "slug": "acute-asthma",
+  "flashcards": [
+    { "id": "asth-f01", "front": "Define asthma (GINA 2025).", "back": "A chronic inflammatory airway disease with **variable respiratory symptoms** (wheeze, breathlessness, chest tightness, cough) and **variable expiratory airflow limitation**." },
+    { "id": "asth-f02", "front": "Features of a SEVERE asthma attack in a child (UCG 2023/BTS).", "back": "Can't complete sentences or too breathless to talk/feed; **SpO₂ <92%**; **HR >140 (2–5 y) or >125 (>5 y)**; **RR >40 (2–5 y) or >30 (>5 y)**; accessory muscle use; **PEF 33–50%**." },
+    { "id": "asth-f03", "front": "Features of LIFE-THREATENING asthma.", "back": "**Silent chest**, cyanosis, SpO₂ <92%, poor respiratory effort, **exhaustion**, **drowsiness/confusion**, bradycardia or hypotension, **PEF <33%**, normal or rising pCO₂." },
+    { "id": "asth-f04", "front": "Oxygen target in acute asthma.", "back": "**SpO₂ 94–98%** (GINA 2025). UCG 2023: high-flow oxygen at least 5 L/min to keep SpO₂ ≥94%. Use oxygen to drive nebulisers in severe attacks." },
+    { "id": "asth-f05", "front": "Salbutamol doses in an acute attack (spacer and nebuliser).", "back": "pMDI 100 µg/puff: **2–10 puffs via spacer** (one puff at a time, 5 breaths each). Nebulised: **2.5 mg (<5 y)**, **2.5–5 mg (≥5 y)**. Every **20 min for the first hour**, then by response." },
+    { "id": "asth-f06", "front": "Ipratropium in acute asthma: who, dose, how often?", "back": "Severe or life-threatening attacks only. **250 µg nebulised** (<12 y; 500 µg ≥12 y) mixed with salbutamol, every **20–30 min for the first 2 h**, then 4–6-hourly (UCG 2023)." },
+    { "id": "asth-f07", "front": "Oral prednisolone for acute asthma: dose, max, duration.", "back": "**1–2 mg/kg once daily** (UCG: 1 mg/kg). Max **20 mg (<2 y), 30 mg (2–5 y), 40 mg (6–11 y)**. **3 days** for children (UCG 2023), up to 5. No taper." },
+    { "id": "asth-f08", "front": "IV hydrocortisone dose in paediatric asthma.", "back": "**4 mg/kg IV every 6 h**, **max 100 mg** per dose (UCG 2023). Use when vomiting, drowsy or life-threatening; switch to oral prednisolone as soon as possible." },
+    { "id": "asth-f09", "front": "IV magnesium sulfate for severe asthma: dose and rate.", "back": "**40–50 mg/kg IV (max 2 g) over 20 minutes**, single dose, diluted. Monitor BP and reflexes. First IV bronchodilator in GINA 2025/BTS/RCH." },
+    { "id": "asth-f10", "front": "Aminophylline in acute asthma: dose and key caution.", "back": "Load **5 mg/kg IV over 20 min**, then **1 mg/kg/h**. **Omit the load if already on oral theophylline/aminophylline.** Narrow therapeutic window (vomiting, arrhythmias, seizures); UCG 2023 discourages its use." },
+    { "id": "asth-f11", "front": "Why is a silent chest ominous?", "back": "Airways are so narrow that almost **no air moves**, so there is no wheeze. With drowsiness and a falling RR it signals **exhaustion and impending respiratory arrest**." },
+    { "id": "asth-f12", "front": "What does a 'normal' pCO₂ mean in a breathless asthmatic child?", "back": "**Danger.** Early in an attack the child hyperventilates (low pCO₂). Normal or rising pCO₂ (>6 kPa / 45 mmHg) = **tiring/respiratory failure** → HDU/ICU." },
+    { "id": "asth-f13", "front": "Side effects of high-dose salbutamol.", "back": "**Tachycardia, tremor, hypokalaemia, lactic acidosis**, hyperglycaemia, agitation. Judge the asthma by work of breathing and SpO₂, not by HR alone." },
+    { "id": "asth-f14", "front": "Discharge criteria after an asthma attack.", "back": "Stable on salbutamol **3–4-hourly**; **SpO₂ ≥94% in air**; PEF **>60–80%** of best; eating and talking normally; **inhaler/spacer technique checked**." },
+    { "id": "asth-f15", "front": "The discharge pack for an asthmatic child (S-P-A-C-E-R).", "back": "**S**teroid course to finish, **P**reventer (ICS) started/stepped up, written **A**ction plan, **C**heck technique (spacer), **E**nvironment/trigger advice, **R**eview in 2–7 days." },
+    { "id": "asth-f16", "front": "How do you make a spacer from a plastic bottle?", "back": "Take a clean **500 mL** water bottle, cut a hole in the base the shape of the inhaler mouthpiece, seal the gap with tape; the child breathes through the bottle neck. Works as well as a commercial spacer." },
+    { "id": "asth-f17", "front": "Spacer technique for a child.", "back": "Shake inhaler, fit to spacer, seal lips on the mouthpiece (face mask for <3–4 y), **one puff at a time**, **5 tidal breaths** per puff (or a slow deep breath and 10 s hold), wait 30 s, repeat. Rinse mouth after ICS." },
+    { "id": "asth-f18", "front": "GINA 2025 Step 1–2 for children 6–11 years.", "back": "Step 1: **low-dose ICS taken whenever SABA is taken**. Step 2: **daily low-dose ICS** (plus as-needed SABA). SABA-only treatment is no longer recommended for ≥6 y." },
+    { "id": "asth-f19", "front": "GINA 2025 preferred reliever for adolescents ≥12 years.", "back": "**As-needed low-dose ICS-formoterol** (anti-inflammatory reliever, AIR) at Steps 1–2; **MART** (ICS-formoterol maintenance and reliever) from Step 3." },
+    { "id": "asth-f20", "front": "GINA 2025 for children ≤5 years with frequent wheeze.", "back": "Step 2: **daily low-dose ICS** (e.g. beclomethasone 100 µg/day via spacer + mask); Step 3: double the low dose; Step 4: refer. Intermittent ICS at the start of viral illness is an alternative." },
+    { "id": "asth-f21", "front": "UCG 2023 chronic asthma Step 2 dose for children.", "back": "**Beclomethasone 100–200 µg every 12 h** + salbutamol 1–2 puffs prn. Children **<5 y needing Step 3, and any child needing Step 4: refer** to a specialist." },
+    { "id": "asth-f22", "front": "Risk factors for a fatal asthma attack.", "back": "Previous **ICU/intubation**; ≥2 admissions or ≥3 ER visits in a year; using >1 salbutamol canister/month; **no ICS**; recent oral steroids; poor adherence; psychosocial problems; food allergy." },
+    { "id": "asth-f23", "front": "Wheeze + urticaria + hypotension after eating groundnuts. First drug?", "back": "**IM adrenaline 0.01 mg/kg** (0.01 mL/kg of 1:1000), max 0.5 mg, outer thigh; repeat after 5 min if needed. This is **anaphylaxis**, not plain asthma." },
+    { "id": "asth-f24", "front": "Why never sedate a child with acute asthma?", "back": "Restlessness is usually **hypoxia**. Sedatives (diazepam, promethazine) depress respiratory drive and can precipitate **respiratory arrest**." },
+    { "id": "asth-f25", "front": "When is a chest X-ray indicated in acute asthma?", "back": "Not routinely. Only for **life-threatening** or non-responding attacks, suspected **pneumothorax** or surgical emphysema, **focal signs/fever** (pneumonia), suspected **foreign body**, or diagnostic doubt." },
+    { "id": "asth-f26", "front": "Estimate the weight of a 6-year-old with no scale.", "back": "**(age + 4) × 2 = (6 + 4) × 2 = 20 kg** (APLS formula for 1–10 y). Weigh as soon as possible; use a Broselow tape if available." },
+    { "id": "asth-f27", "front": "How does UCG 2023 differ from GINA 2025 in the acute attack?", "back": "UCG: prednisolone **1 mg/kg**, aminophylline as the IV step, **no magnesium** for children. GINA/BTS: prednisolone 1–2 mg/kg (capped), **IV MgSO₄ before aminophylline**. Kampala referral wards use MgSO₄ first." }
+  ],
+  "mcqs": [
+    {
+      "id": "asth-q01",
+      "stem": "A 6-year-old girl (20 kg) with known asthma is brought to Mengo emergency at 3 a.m. She is sitting forward and can say only 2–3 words at a time. RR 36/min, HR 142/min, SpO₂ 90% in air, widespread wheeze, temperature 37.4 °C. Which grade of attack is this?",
+      "options": [
+        "Mild, because she is still wheezing",
+        "Moderate, because SpO₂ is above 88%",
+        "Severe",
+        "Life-threatening, because RR is above 30",
+        "Cannot be graded without a peak flow"
+      ],
+      "answer": 2,
+      "explanation": "C is right: inability to complete sentences, SpO₂ <92%, HR >125 and RR >30 in a child >5 years are all **severe** features. A is wrong: wheeze is present in every grade except the silent chest; it does not mean mild. B is wrong: the cut-off is 92%, not 88%. D is wrong: RR >30 is a severe, not life-threatening, feature; she has no silent chest, cyanosis, exhaustion or altered consciousness. E is wrong: grading is clinical; PEF helps but is not required (and is unreliable in a breathless 6-year-old).",
+      "difficulty": "core"
+    },
+    {
+      "id": "asth-q02",
+      "stem": "The girl in the previous question (20 kg, severe asthma, SpO₂ 90%) has just been placed on oxygen. Which treatment should be given NEXT?",
+      "options": [
+        "Nebulised salbutamol 5 mg with ipratropium 250 µg, repeated every 20 minutes",
+        "Oral salbutamol syrup 2 mg and observe for 1 hour",
+        "IV aminophylline 5 mg/kg as the first bronchodilator",
+        "Amoxicillin 40 mg/kg and paracetamol",
+        "Diazepam 0.2 mg/kg IV to calm her so she can use the nebuliser"
+      ],
+      "answer": 0,
+      "explanation": "A is right: in a severe attack the first-line treatment is inhaled **salbutamol plus ipratropium**, oxygen-driven, every 20 minutes for the first hour (UCG 2023, GINA 2025). B is wrong: oral salbutamol is slow, weak and causes side effects; it is not acute treatment. C is wrong: aminophylline is a later step after inhaled therapy, steroid (and magnesium) have failed. D is wrong: there is no evidence of bacterial infection; antibiotics are not routine. E is wrong: sedation in asthma can cause respiratory arrest; agitation is hypoxia.",
+      "difficulty": "core"
+    },
+    {
+      "id": "asth-q03",
+      "stem": "A 4-year-old boy weighing 15 kg is being treated for a moderate asthma attack at a HC IV. He has had salbutamol by spacer. He is not vomiting. What is the correct steroid prescription according to UCG 2023/GINA 2025?",
+      "options": [
+        "Prednisolone 60 mg once daily for 7 days, then taper",
+        "Dexamethasone 0.6 mg/kg IM once only, because oral steroids are ineffective",
+        "Hydrocortisone 100 mg IV 6-hourly for 5 days",
+        "Prednisolone 15–30 mg orally once daily for 3 days",
+        "No steroid, because steroids are only for severe attacks"
+      ],
+      "answer": 3,
+      "explanation": "D is right: prednisolone **1–2 mg/kg** (15–30 mg for 15 kg; max 30 mg at 2–5 years) once daily for **3 days** is the paediatric course. A is wrong: 60 mg is far above the maximum for a 4-year-old, 7 days is unnecessarily long, and no taper is needed for short courses. B is wrong: oral steroids work as well as injected ones when the child can swallow. C is wrong: hydrocortisone is for children who cannot take oral medication, and the dose is 4 mg/kg (60 mg), not 100 mg. E is wrong: any attack needing more than a single dose of salbutamol should get a steroid early.",
+      "difficulty": "core"
+    },
+    {
+      "id": "asth-q04",
+      "stem": "A 10-year-old boy (30 kg) with severe asthma has had oxygen, three salbutamol + ipratropium nebulisers and IV hydrocortisone over the past hour. He is still speaking in words, SpO₂ 91% on 6 L/min oxygen, RR 34, widespread wheeze. Magnesium sulfate 50% is available from the maternity ward. What is the MOST appropriate next step?",
+      "options": [
+        "Magnesium sulfate 4 g IV over 15 minutes, the eclampsia loading dose",
+        "Magnesium sulfate 1.2–1.5 g IV, diluted, over 20 minutes",
+        "Stop nebulisers because he has had too much salbutamol",
+        "Promethazine 0.5 mg/kg IM to settle him",
+        "Discharge on oral prednisolone because the steroid will work in 6 hours"
+      ],
+      "answer": 1,
+      "explanation": "B is right: IV MgSO₄ **40–50 mg/kg** (30 kg → 1.2–1.5 g; max 2 g), diluted, over 20 minutes is the first IV bronchodilator for severe asthma not responding to an hour of inhaled therapy (GINA 2025, BTS/SIGN, RCH). A is wrong: the 4 g eclampsia load is double the paediatric maximum and could cause hypotension and respiratory depression. C is wrong: he is still severe; inhaled salbutamol should continue (1-hourly or back-to-back). D is wrong: sedation is dangerous in asthma. E is wrong: he is hypoxic and severe; discharge would be unsafe.",
+      "difficulty": "core"
+    },
+    {
+      "id": "asth-q05",
+      "stem": "An 8-year-old girl has had hourly nebulised salbutamol for 4 hours. She is now drowsy, RR has fallen from 40 to 20/min, the chest is very quiet on auscultation and SpO₂ is 88% on a face mask. Her mother says she is 'calmer now'. What is the correct interpretation?",
+      "options": [
+        "She is improving; reduce salbutamol to 4-hourly",
+        "She has salbutamol toxicity; stop all bronchodilators",
+        "She has fallen asleep from exhaustion after a long night, which is reassuring",
+        "She has developed pneumonia; start ceftriaxone and continue the same plan",
+        "She has life-threatening asthma with impending respiratory arrest"
+      ],
+      "answer": 4,
+      "explanation": "E is right: drowsiness, a falling RR, a **silent chest** and low SpO₂ are classic signs of **exhaustion and impending arrest**: call senior help, back-to-back nebulisers, IV magnesium, prepare to ventilate. A is wrong: a falling RR without better SpO₂ and alertness is deterioration, not improvement. B is wrong: salbutamol toxicity causes tachycardia and tremor, not a silent chest; bronchodilators must continue. C is wrong: altered consciousness in asthma is a life-threatening feature. D is wrong: nothing suggests pneumonia, and antibiotics would not address the immediate threat.",
+      "difficulty": "core"
+    },
+    {
+      "id": "asth-q06",
+      "stem": "A 3-year-old boy (14 kg) presents with sudden onset of cough and wheeze that started while he was eating groundnuts with his siblings 2 hours ago. He has no previous wheeze and no fever. Breath sounds are reduced over the right lower zone with a localised wheeze. SpO₂ 95%. What is the MOST likely diagnosis?",
+      "options": [
+        "Inhaled foreign body",
+        "First episode of asthma",
+        "Bronchiolitis",
+        "Lobar pneumonia",
+        "Anaphylaxis to groundnuts"
+      ],
+      "answer": 0,
+      "explanation": "A is right: **sudden onset while eating**, no previous wheeze, and **unilateral** reduced air entry with localised wheeze = **foreign body** (usually right main bronchus) until proven otherwise; get inspiratory and expiratory CXR and refer for bronchoscopy. B is wrong: asthma gives bilateral, diffuse signs and usually a history of recurrent episodes. C is wrong: bronchiolitis affects infants <2 years after a coryzal prodrome, with bilateral crackles/wheeze. D is wrong: there is no fever and the onset was sudden. E is wrong: anaphylaxis would have urticaria, angioedema, vomiting or hypotension and bilateral wheeze.",
+      "difficulty": "core"
+    },
+    {
+      "id": "asth-q07",
+      "stem": "A 12-year-old boy (35 kg) with asthma presents with wheeze, generalised urticaria, lip swelling and BP 70/40 mmHg 15 minutes after a bee sting. Which is the FIRST drug to give?",
+      "options": [
+        "Nebulised salbutamol 5 mg",
+        "Hydrocortisone 100 mg IV",
+        "Adrenaline 0.35 mg (0.35 mL of 1:1000) IM into the thigh",
+        "Chlorphenamine 4 mg orally",
+        "Aminophylline 5 mg/kg IV"
+      ],
+      "answer": 2,
+      "explanation": "C is right: this is **anaphylaxis** (skin + respiratory + hypotension after a sting). First drug: **IM adrenaline 0.01 mg/kg** (35 kg → 0.35 mg; max 0.5 mg) into the outer thigh, repeated after 5 minutes if needed. A is wrong: salbutamol helps bronchospasm but does nothing for the shock and angioedema; it is an add-on. B is wrong: steroids act over hours and are adjuncts. D is wrong: antihistamines treat itch only and never replace adrenaline. E is wrong: aminophylline has no role in anaphylaxis.",
+      "difficulty": "core"
+    },
+    {
+      "id": "asth-q08",
+      "stem": "A 7-year-old girl was admitted with severe asthma and is now on salbutamol by spacer 4-hourly. SpO₂ is 96% in air, she is eating and running around the ward. Her only home treatment has been salbutamol tablets bought from a drug shop. Which discharge plan is MOST appropriate?",
+      "options": [
+        "Continue salbutamol tablets 2 mg three times daily and review if she wheezes again",
+        "Oral prednisolone for 1 month to prevent relapse",
+        "Salbutamol inhaler without a spacer, as needed",
+        "Amoxicillin for 5 days to prevent a chest infection, and salbutamol tablets",
+        "Finish prednisolone, salbutamol inhaler with a spacer, start beclomethasone via spacer, written action plan and review in 1 week"
+      ],
+      "answer": 4,
+      "explanation": "E is right: she meets discharge criteria; the plan must **finish the steroid course**, provide an inhaled reliever **with a spacer**, **start a controller** (ICS; she has had a severe attack, so Step 2 or above), a written action plan, trigger advice and early follow-up. A is wrong: tablets are slow and side-effect-prone and leave the inflammation untreated. B is wrong: long courses of oral steroids cause growth suppression and other harm; inhaled steroids are the controller. C is wrong: without a spacer a child gets very little drug, and SABA-only therapy is not recommended for ≥6 y (GINA 2025). D is wrong: prophylactic antibiotics have no role.",
+      "difficulty": "core"
+    },
+    {
+      "id": "asth-q09",
+      "stem": "A 14-month-old girl presents in the rainy season with 2 days of runny nose, then cough, fast breathing and difficulty feeding. RR 58/min, SpO₂ 93%, bilateral fine crackles and some wheeze. This is her first episode. A trial of salbutamol produces no change. Which diagnosis is MOST likely?",
+      "options": [
+        "Acute severe asthma",
+        "Bronchiolitis",
+        "Inhaled foreign body",
+        "Heart failure from a VSD",
+        "Pertussis"
+      ],
+      "answer": 1,
+      "explanation": "B is right: a **first** episode in a child <2 years after a **coryzal prodrome**, with **fine crackles** and wheeze and **no response to salbutamol**, is bronchiolitis (usually RSV). A is wrong: asthma is rarely diagnosed at this age after a first episode, and crackles are not typical. C is wrong: a foreign body causes sudden onset and unilateral signs. D is wrong: there is no murmur, hepatomegaly or chronic poor feeding/growth history. E is wrong: pertussis causes paroxysmal cough with whoop or apnoea, usually with a clear chest between paroxysms.",
+      "difficulty": "core"
+    },
+    {
+      "id": "asth-q10",
+      "stem": "A 9-year-old boy with severe asthma has received IV magnesium. He is started on IV aminophylline. Which history item would make you OMIT the loading dose?",
+      "options": [
+        "He received hydrocortisone 1 hour ago",
+        "He is HIV-positive on dolutegravir-based ART",
+        "He has had three salbutamol nebulisers",
+        "He has been taking oral aminophylline tablets at home",
+        "He is allergic to penicillin"
+      ],
+      "answer": 3,
+      "explanation": "D is right: if a child already takes **oral theophylline/aminophylline**, a loading dose risks **toxic levels** (vomiting, arrhythmias, seizures); start the maintenance infusion only, ideally guided by a level. A is wrong: steroids do not interact with aminophylline in this way. B is wrong: dolutegravir does not mandate omitting the load (rifampicin and some PIs alter theophylline levels, but not DTG). C is wrong: salbutamol does not change the loading decision, though both drugs can lower potassium. E is wrong: penicillin allergy is irrelevant to aminophylline dosing.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "asth-q11",
+      "stem": "After 3 hours of frequent nebulised salbutamol, a 6-year-old with improving asthma has HR 165/min, a fine tremor, and serum potassium 2.9 mmol/L. She now speaks in sentences and SpO₂ is 96% on 1 L/min. What is the BEST explanation and response?",
+      "options": [
+        "Worsening asthma; give IV aminophylline",
+        "Sepsis; take blood cultures and give ceftriaxone",
+        "Expected β₂-agonist effects; space salbutamol out and correct potassium",
+        "Supraventricular tachycardia; give adenosine",
+        "Anxiety; give oral diazepam"
+      ],
+      "answer": 2,
+      "explanation": "C is right: tachycardia, tremor and **hypokalaemia** are predictable **salbutamol effects**; her asthma is improving (talking, SpO₂ 96%), so space doses out and add potassium to fluids. A is wrong: her work of breathing and SpO₂ show improvement, and aminophylline would worsen tachycardia and hypokalaemia. B is wrong: there is no fever or other sign of sepsis. D is wrong: sinus tachycardia of 165 with a clear cause is not SVT (usually >220 in children, fixed rate). E is wrong: sedation is contraindicated in acute asthma.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "asth-q12",
+      "stem": "A 10-year-old girl with asthma uses her salbutamol inhaler 4–5 times a week and wakes at night coughing twice a week. She has no inhaled steroid. According to GINA 2025, what is the preferred controller?",
+      "options": [
+        "Daily low-dose inhaled corticosteroid via a spacer",
+        "Salbutamol tablets 2 mg three times daily",
+        "Oral prednisolone 10 mg daily",
+        "Montelukast alone as first choice",
+        "Increase salbutamol to regular 4-hourly use"
+      ],
+      "answer": 0,
+      "explanation": "A is right: symptoms more than twice a week with night waking need a **daily low-dose ICS** (Step 2–3 for 6–11 years) with a spacer; UCG 2023 Step 2 is beclomethasone 100–200 µg 12-hourly. B is wrong: oral β₂-agonists are not controllers. C is wrong: daily oral steroids are reserved for the most severe asthma under specialist care. D is wrong: montelukast is a less effective alternative, not first choice. E is wrong: regular SABA without ICS increases the risk of severe attacks.",
+      "difficulty": "core"
+    },
+    {
+      "id": "asth-q13",
+      "stem": "Which ONE of the following is a recognised feature of life-threatening (rather than severe) asthma in a 7-year-old?",
+      "options": [
+        "Heart rate 130/min",
+        "Respiratory rate 34/min",
+        "Use of accessory muscles",
+        "Altered level of consciousness",
+        "Peak flow 45% of predicted"
+      ],
+      "answer": 3,
+      "explanation": "D is right: **altered consciousness** (drowsiness, confusion) is a life-threatening feature. A is wrong: HR >125 in a child >5 y is a severe feature. B is wrong: RR >30 is severe. C is wrong: accessory muscle use is severe. E is wrong: PEF 33–50% is severe; life-threatening is <33%.",
+      "difficulty": "core"
+    },
+    {
+      "id": "asth-q14",
+      "stem": "A 5-year-old (18 kg) with severe asthma is vomiting every oral dose. You need to give a systemic steroid. What is the MOST appropriate prescription?",
+      "options": [
+        "Prednisolone 18 mg orally; repeat if vomited",
+        "Hydrocortisone 72 mg IV every 6 hours until oral prednisolone is tolerated",
+        "Dexamethasone 16 mg IV every 6 hours",
+        "Beclomethasone 400 µg inhaled as a single high dose instead",
+        "Methylprednisolone 30 mg/kg IV daily for 3 days"
+      ],
+      "answer": 1,
+      "explanation": "B is right: **hydrocortisone 4 mg/kg IV** (18 kg → 72 mg; max 100 mg) every 6 hours, then oral prednisolone once tolerated (UCG 2023). A is wrong: if she is vomiting every dose, the oral route is unreliable. C is wrong: 16 mg 6-hourly is a large overdose for an 18 kg child. D is wrong: inhaled steroids do not replace systemic steroids in a severe attack. E is wrong: 30 mg/kg is a pulse dose used in conditions such as lupus or transplant rejection, not asthma.",
+      "difficulty": "core"
+    },
+    {
+      "id": "asth-q15",
+      "stem": "At a HC III with no oxygen, a 9-year-old girl (25 kg) with moderate asthma has received salbutamol 6 puffs via a bottle spacer three times over an hour and prednisolone 25 mg. She now speaks in sentences, RR 24/min, no recession. What should you do?",
+      "options": [
+        "Refer immediately to the regional referral hospital",
+        "Give aminophylline 5 mg/kg IV at the HC III",
+        "Admit at the HC III for 5 days of IV hydrocortisone",
+        "Discharge with salbutamol tablets only",
+        "Observe for a further 1–3 hours; if stable, discharge with prednisolone to complete 3 days, inhaler + spacer, ICS, action plan and review in 48 hours"
+      ],
+      "answer": 4,
+      "explanation": "E is right: she has responded well. UCG 2023 says monitor for 30–60 min (or longer), then send home with prednisolone (3 days in children), start or step up chronic treatment, teach self-management and **review in 48 hours**. A is wrong: referral is for poor response, relapse within 3–4 h, or severe features. B is wrong: aminophylline is not needed in a responding child and is not a HC III drug. C is wrong: she is not severe and can take oral medication. D is wrong: tablets alone ignore both the reliever technique and the controller.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "asth-c01",
+      "title": "Night-time severe asthma in a 7-year-old at Mengo",
+      "presentation": "Brian, a 7-year-old boy from Kawempe, is carried into Mengo Hospital paediatric emergency at 2 a.m. by his mother. He has had a cold for 2 days and became very breathless tonight. He is sitting forward, can say only single words, and looks frightened. He is known to have asthma and uses a salbutamol inhaler 'when it is bad', without a spacer.",
+      "steps": [
+        { "prompt": "What do you do in the first 2 minutes?", "answer": "Move him to the resuscitation area, **sit him up** on his mother's lap, start **oxygen** (face mask 5–10 L/min) and attach a pulse oximeter. While a colleague prepares salbutamol, **grade the attack**: talk/feed, SpO₂, RR, HR, chest sounds, consciousness. Weigh him (or estimate (7 + 4) × 2 = 22 kg)." },
+        { "prompt": "Observations: weight 22 kg, SpO₂ 89% in air, RR 38, HR 138, T 37.6 °C, widespread wheeze, equal air entry, intercostal recession, alert. PEF 40%. Grade the attack.", "answer": "**Acute severe asthma**: speaks in words, SpO₂ <92%, RR >30, HR >125, PEF 33–50%. Not life-threatening: alert, wheeze present (not silent), no cyanosis, PEF >33%." },
+        { "prompt": "Write the first-hour treatment orders.", "answer": "1. Oxygen to SpO₂ **94–98%**.\n2. **Salbutamol 5 mg + ipratropium 250 µg** nebulised with oxygen at 6–8 L/min, **every 20 min × 3**.\n3. **Prednisolone 40 mg** orally now (1–2 mg/kg, max 40 mg at ≥6 y) or hydrocortisone 88 mg IV if vomiting.\n4. Observations every 15 min; re-grade at 20, 40, 60 min.\n5. No sedatives, no antibiotics (no focal signs)." },
+        { "prompt": "History taken during the nebulisers: two admissions this year, never in ICU, no inhaled steroid, charcoal stove indoors, father smokes, fully immunised, HIV test negative last year, WAZ −0.5. What does this add?", "answer": "He has **uncontrolled asthma** with risk factors for a severe attack (**no ICS**, repeated admissions, smoke exposure). It does not change the immediate plan but drives the discharge plan: controller, spacer, smoke advice, action plan. No ICU history is reassuring but does not lower vigilance." },
+        { "prompt": "At 60 min: speaks in sentences, SpO₂ 95% on 2 L, RR 28, HR 150 with tremor, PEF 65%. Interpret and plan.", "answer": "**Good response**; the higher HR and tremor are **salbutamol effects**. Admit for observation: salbutamol (spacer) 1–2-hourly then 4-hourly, ipratropium can stop after 2–6 h, continue prednisolone daily for 3 days, wean oxygen to keep ≥94%, check K⁺ if salbutamol stays frequent." },
+        { "prompt": "Next morning he is on salbutamol 4-hourly, SpO₂ 96% in air, eating well. Write his discharge plan.", "answer": "**S-P-A-C-E-R**: finish **prednisolone** (2 more days); salbutamol inhaler 2–4 puffs 4-hourly for 1–2 days then as needed, **with a bottle spacer**; start **beclomethasone 100 µg twice daily** via spacer (UCG Step 2); **written action plan**; **environment** (cook outside or ventilate, father not to smoke indoors); technique checked by teach-back; **review in 1 week** and school letter." }
+      ],
+      "takeaway": "Grade in 2 minutes, treat by grade every 20 minutes, give the steroid in the first hour, and use the admission to fix control: spacer, inhaled steroid, smoke and an action plan."
+    },
+    {
+      "id": "asth-c02",
+      "title": "The quiet chest: life-threatening asthma",
+      "presentation": "Aisha, a 10-year-old girl weighing 30 kg, has been on the paediatric ward for 3 hours with severe asthma. She has had five salbutamol + ipratropium nebulisers and IV hydrocortisone. The night nurse calls you because 'she has calmed down and is sleeping, but the saturation machine keeps alarming'.",
+      "steps": [
+        { "prompt": "What do you expect to find, and what are you worried about?", "answer": "Worry about **exhaustion**: a child who 'calms down' with falling SpO₂ may be tiring. Look for **drowsiness, a falling RR, a silent chest, cyanosis, bradycardia** and poor effort; these are life-threatening features." },
+        { "prompt": "Findings: rousable only to voice, RR 18, very quiet chest bilaterally, SpO₂ 86% on 10 L mask, HR 150, BP 95/60. What is your diagnosis and first actions?", "answer": "**Life-threatening asthma** with impending respiratory arrest. Call the **most senior clinician and anaesthetist** now. High-flow oxygen; **back-to-back salbutamol + ipratropium**; bag-valve-mask ready; second IV line; continue hydrocortisone." },
+        { "prompt": "Which IV drug would you give next, and at what dose?", "answer": "**Magnesium sulfate 40–50 mg/kg IV = 1.2–1.5 g** (max 2 g), diluted to ≤20% (e.g. 3 mL of 50% in 0.9% saline), **over 20 minutes**; monitor BP and reflexes. Borrow from maternity if needed, but never give the 4 g eclampsia dose." },
+        { "prompt": "A capillary gas shows pH 7.28, pCO₂ 6.8 kPa (51 mmHg), lactate 3.8 mmol/L. Interpret.", "answer": "**Respiratory acidosis** with a raised pCO₂ in a breathless asthmatic = **respiratory failure** from exhaustion. The lactate is partly from salbutamol. She needs HDU/ICU and probably ventilation." },
+        { "prompt": "Twenty minutes after magnesium she is still drowsy with pCO₂ rising. What next?", "answer": "**Aminophylline 5 mg/kg (150 mg) IV over 20 min** (if not on oral theophylline), then 1 mg/kg/h with cardiac monitoring, or IV salbutamol in HDU. Prepare for **intubation** by the most experienced person (ketamine induction; slow ventilation rate, long expiratory time). Arrange **PICU** (Mulago or private) and transfer with oxygen and an escort if not available on site." },
+        { "prompt": "She recovers after 2 days in ICU. What must the discharge and follow-up include?", "answer": "She is now **high risk for fatal asthma** (ICU admission): specialist asthma clinic, **daily ICS (or ICS-LABA/MART per GINA 2025)**, spacer, written action plan with clear 'go to hospital now' criteria, adherence support, trigger control, and early review (within 1 week)." }
+      ],
+      "takeaway": "A calm, drowsy asthmatic with a quiet chest and falling SpO₂ is dying, not improving: call for help, magnesium, then aminophylline/ICU."
+    },
+    {
+      "id": "asth-c03",
+      "title": "Recurrent wheeze in a toddler at a HC IV",
+      "presentation": "Joel, a 3-year-old boy weighing 12 kg, is brought to a HC IV in Mukono with cough and wheeze for 1 day. His mother says it is the 'fourth time this year'; each time he gets salbutamol syrup. Between episodes he coughs at night and when he runs. His father has hay fever.",
+      "steps": [
+        { "prompt": "What are your differentials and what in the history points to asthma?", "answer": "Preschool **multiple-trigger wheeze/asthma** (recurrent episodes, night and exercise cough, atopic family) vs **episodic viral wheeze**; also consider TB (contact? weight loss?), foreign body (sudden onset?), HIV-related lung disease, heart failure, recurrent aspiration. Symptoms **between** colds and **atopy** favour asthma." },
+        { "prompt": "Examination: alert, talking in phrases, RR 38, HR 130, SpO₂ 94% in air, mild subcostal recession, bilateral wheeze, no crackles, afebrile. WAZ −1.2, BCG scar present. Grade and treat.", "answer": "**Mild–moderate** attack (SpO₂ ≥92%, RR ≤40, HR ≤140, talking). Give **salbutamol 2–6 puffs via spacer with a face mask** (or 2.5 mg nebulised) every 20 min for an hour, and **prednisolone 12–24 mg** (1–2 mg/kg; max 30 mg at 2–5 y) orally. Re-grade after each dose." },
+        { "prompt": "He improves after 2 rounds. What should you check before deciding on chronic treatment?", "answer": "**Growth** (WAZ −1.2: monitor), **TB exposure** and HIV status (offer a test if unknown), **immunisation** card (UNEPI: PCV, measles-rubella), feeding, **home smoke**, and whether the family can afford/use an inhaler with a spacer and mask." },
+        { "prompt": "What controller does GINA 2025 recommend for him, and what does UCG 2023 say?", "answer": "GINA 2025 (≤5 y): frequent episodes (≥3 per year) and interval symptoms → **daily low-dose ICS** (e.g. beclomethasone 100 µg/day via spacer + face mask), reviewed after 2–3 months. UCG 2023: Step 2 beclomethasone 100–200 µg 12-hourly; if a child **<5 y needs Step 3 or more, refer** to a specialist." },
+        { "prompt": "How do you teach the mother to use the inhaler, and what do you tell her about salbutamol syrup?", "answer": "Shake, attach to a spacer with a **face mask**, mask sealed over nose and mouth, **one puff, count 5–6 breaths**, repeat; rinse mouth/wipe face after ICS; clean the spacer weekly. Explain that **syrup is slow and causes shaking and fast heartbeat**; the inhaler with a spacer is quicker, safer and cheaper per dose. Give a written plan and review in 2–4 weeks." }
+      ],
+      "takeaway": "Recurrent wheeze with interval symptoms in an atopic toddler deserves an inhaled steroid via a spacer and mask, not repeated salbutamol syrup; check growth, TB and HIV along the way."
+    }
+  ],
+  "references": [
+    { "title": "Uganda Clinical Guidelines 2023: National Guidelines for Management of Common Health Conditions (5.1.1 Asthma; 5.1.1.1 Acute Asthma; 5.1.1.2 Chronic Asthma)", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Global Strategy for Asthma Management and Prevention (2025 update)", "source": "Global Initiative for Asthma (GINA)", "year": 2025, "url": "https://ginasthma.org/reports/" },
+    { "title": "Asthma: diagnosis, monitoring and chronic asthma management (NG245)", "source": "BTS/NICE/SIGN", "year": 2024, "url": "https://www.nice.org.uk/guidance/ng245" },
+    { "title": "Acute asthma: Clinical Practice Guideline", "source": "The Royal Children's Hospital Melbourne", "url": "https://www.rch.org.au/clinicalguide/guideline_index/Asthma_acute/" },
+    { "title": "Pediatric Asthma", "source": "Medscape (eMedicine)", "url": "https://emedicine.medscape.com/article/1000997-overview" },
+    { "title": "Magnesium sulfate: dosing (pediatric bronchospasm)", "source": "Medscape Drugs & Diseases", "url": "https://reference.medscape.com/drug/magnesium-sulfate-344444" },
+    { "title": "Pocket Book of Hospital Care for Children, 2nd edition", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "Asthma: fact sheet", "source": "World Health Organization", "year": 2026, "url": "https://www.who.int/news-room/fact-sheets/detail/asthma" }
+  ]
+}

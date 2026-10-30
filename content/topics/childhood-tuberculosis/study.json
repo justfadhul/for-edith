@@ -1,0 +1,295 @@
+{
+  "slug": "childhood-tuberculosis",
+  "flashcards": [
+    { "id": "ctb-f01", "front": "When should you suspect TB in a child (UCG 2023)?", "back": "**Cough >2 weeks**, **fever >2 weeks**, **poor weight gain/weight loss for 1 month**, **reduced playfulness/lethargy/poor feeding** (young children), **close contact** with pulmonary TB; swollen neck/groin nodes." },
+    { "id": "ctb-f02", "front": "Which children are at highest risk of progressing from TB infection to disease?", "back": "**Infants and children <2 (to 5) years**, **HIV-positive**, **severely malnourished**, after **measles**, on steroids. They also get severe forms (**TBM, miliary**). Most disease appears within **12 months** of infection." },
+    { "id": "ctb-f03", "front": "Samples for Xpert Ultra in a young child who cannot cough up sputum.", "back": "**Induced sputum**, **gastric aspirate** (early morning, fasting), **nasopharyngeal aspirate**, **stool** (WHO 2022); for EPTB: CSF, node FNA, pleural fluid. Urine LF-LAM if HIV-positive and seriously ill." },
+    { "id": "ctb-f04", "front": "How do you collect a gastric aspirate?", "back": "Fast overnight (≥4 h in infants); early morning before the child gets up/feeds; pass an NG tube; aspirate 5–10 mL (if none, instil 10 mL sterile water and aspirate); send promptly (neutralise if delayed)." },
+    { "id": "ctb-f05", "front": "Does a negative Xpert exclude TB in a child?", "back": "**No.** Childhood TB is paucibacillary; Xpert Ultra detects only about 60–70% of culture-confirmed cases and many children are culture-negative. Diagnose clinically (contact, symptoms, CXR, scores) when needed." },
+    { "id": "ctb-f06", "front": "Paediatric doses of first-line TB drugs (WHO/UCG).", "back": "**Isoniazid 10 (7–15)**, **rifampicin 15 (10–20)**, **pyrazinamide 35 (30–40)**, **ethambutol 20 (15–25)** mg/kg/day. Pyridoxine 25 mg daily (UCG). Memory: **10-15-35-20**." },
+    { "id": "ctb-f07", "front": "Weight bands for RHZ 75/50/150 and RH 75/50 dispersible FDCs.", "back": "**4–7.9 kg: 1 tab; 8–11.9 kg: 2; 12–15.9 kg: 3; 16–24.9 kg: 4; ≥25 kg: adult FDCs.** Ethambutol 100 mg: same number of tablets. Re-weigh monthly." },
+    { "id": "ctb-f08", "front": "Standard regimen for drug-susceptible TB in children.", "back": "**2RHZE/4RH** (6 months) for all forms except TBM and bone/joint TB (UCG 2023)." },
+    { "id": "ctb-f09", "front": "4-month regimen: who qualifies and what is it?", "back": "Children **3 months–16 years** (UCG: 2 months–16 y) with **non-severe TB**: **2HRZ(E)/2HR**. Based on the **SHINE** trial (NEJM 2022). UCG 2023: given at general hospital level and above." },
+    { "id": "ctb-f10", "front": "Define non-severe TB (WHO 2022).", "back": "**Peripheral lymph node TB**; **intrathoracic node TB without airway obstruction**; **uncomplicated pleural effusion**; **paucibacillary, non-cavitary disease confined to one lobe, no miliary pattern**." },
+    { "id": "ctb-f11", "front": "Regimen for TB meningitis and bone/joint TB.", "back": "**2RHZE/10RH (12 months)** (UCG 2023). WHO 2022 alternative for TBM: **6HRZ-Eto** (high-dose H and R, Z, ethionamide) for 6 months. Plus steroids in TBM." },
+    { "id": "ctb-f12", "front": "Steroid regimen in TB meningitis.", "back": "**Prednisolone 2 mg/kg/day (max 60 mg) for 4 weeks, then taper over 2 weeks** (UCG: 1–2 mg/kg, max 60 mg). Dexamethasone IV if unable to swallow. Also used in TB pericarditis and airway compression." },
+    { "id": "ctb-f13", "front": "CSF findings in TB meningitis.", "back": "Clear; **lymphocytes 50–500/µL**; **protein high (>1 g/L)**; **glucose low** (CSF:blood <0.5); Gram stain negative; **Xpert Ultra** on CSF may be positive." },
+    { "id": "ctb-f14", "front": "BMRC staging of TB meningitis.", "back": "**I**: GCS 15, no focal signs. **II**: GCS 11–14 or focal signs (e.g. cranial nerve palsy). **III**: GCS ≤10. Outcome worsens with stage." },
+    { "id": "ctb-f15", "front": "Keith Edwards TB score: threshold and top-scoring items.", "back": "**≥7 = treat.** Spine angle deformity 4; illness >4 weeks 3; WFA <60% 3; proven sputum-positive contact 3; positive TST 3; nodes/abdominal mass 3; CNS with abnormal CSF 3; joint/bone swelling 3." },
+    { "id": "ctb-f16", "front": "WHO 2022 treatment decision algorithms: who and threshold?", "back": "Children **<10 years** with presumptive pulmonary TB, at facilities with or without CXR; score symptoms, signs (± CXR); **score >10 → treat for TB**." },
+    { "id": "ctb-f17", "front": "Tuberculin skin test: how to read and interpret.", "back": "0.1 mL (5 TU) PPD intradermally; read **induration** (not redness) transversely at **48–72 h**. Positive **≥10 mm**; **≥5 mm** if HIV-positive or severely malnourished. Shows infection, not disease." },
+    { "id": "ctb-f18", "front": "When to start ART in a child with TB and HIV.", "back": "Start TB treatment first, then **ART within 2 weeks**; **TB meningitis: delay 4–8 weeks** (IRIS risk). Cotrimoxazole prophylaxis for all." },
+    { "id": "ctb-f19", "front": "Dolutegravir with rifampicin.", "back": "Rifampicin induces UGT1A1/CYP3A4 → give **DTG twice daily** (pDTG 10 mg and DTG 50 mg) during rifampicin and for **2 weeks after** it stops. LPV/r: super-boost with ritonavir. Avoid NVP." },
+    { "id": "ctb-f20", "front": "TB contact screening algorithm for a child.", "back": "Symptom screen (**cough, fever, poor weight gain**, lethargy). **Any symptom** → evaluate for TB disease. **None** → TB unlikely → check contraindications → **TPT** (no TST needed in <5 y or HIV)." },
+    { "id": "ctb-f21", "front": "TPT regimens and age limits.", "back": "**3HP** weekly × 12 (≥2 y); **3HR** daily × 3 months (any age); **6H** isoniazid 10 mg/kg daily × 6 months (any age); **1HP** daily × 28 days (≥13 y); **6Lfx** for MDR-TB contacts (WHO 2024)." },
+    { "id": "ctb-f22", "front": "3HP child FDC (HP 300/300) weight bands (UCG chart).", "back": "**10–15.9 kg: 1 tab; 16–23.9 kg: 1.5; 24–30.9 kg: 2; 31–34.9 kg: 2.5; ≥35 kg: 3** — once weekly for 12 weeks, with pyridoxine." },
+    { "id": "ctb-f23", "front": "TPT for contacts of MDR-TB: UCG 2023 vs WHO 2024.", "back": "UCG 2023: **do not** give TPT to MDR contacts. WHO 2024: **6 months of levofloxacin** after excluding disease. In Uganda: refer/discuss with the MDR-TB centre and follow up for 2 years." },
+    { "id": "ctb-f24", "front": "Definitions: treatment failure and lost to follow-up.", "back": "**Failure**: smear/culture positive at **month 5 or later**. **LTFU**: did not start, or treatment interrupted for **≥2 consecutive months**." },
+    { "id": "ctb-f25", "front": "Hepatotoxicity on TB treatment: what do you do?", "back": "Jaundice, vomiting, abdominal pain or ALT >3× ULN with symptoms (>5× without) → **stop H, R and Z**, check LFTs; when normal, **reintroduce drugs one at a time** (specialist); use a non-hepatotoxic interim regimen if very ill." },
+    { "id": "ctb-f26", "front": "What does BCG protect against?", "back": "Severe childhood TB: **TB meningitis and miliary TB** (~70–80%), much less against pulmonary TB. Given at birth (UNEPI). Not for symptomatic HIV-positive infants (UCG)." },
+    { "id": "ctb-f27", "front": "Why must active TB be excluded before TPT?", "back": "TPT (e.g. isoniazid alone) given to a child with **active TB** is **monotherapy** and selects **drug resistance**; the child needs full treatment instead." }
+  ],
+  "mcqs": [
+    {
+      "id": "ctb-q01",
+      "stem": "A 3-year-old boy (11 kg, WAZ −2.4) has had cough, intermittent fever and weight loss for 5 weeks despite a course of amoxicillin. His grandmother, who shares his room, started treatment for Xpert-positive pulmonary TB a month ago. He cannot produce sputum. What is the MOST appropriate next investigation?",
+      "options": [
+        "Sputum smear microscopy for AFB",
+        "Tuberculin skin test alone, and treat only if positive",
+        "Repeat amoxicillin for 10 days and review",
+        "Xpert MTB/RIF Ultra on stool or gastric aspirate, with a chest X-ray and HIV test",
+        "Blood culture"
+      ],
+      "answer": 3,
+      "explanation": "D is right: in a young child who cannot expectorate, **Xpert Ultra on stool (WHO 2022) or gastric aspirate** (or induced sputum/NPA), plus **CXR** and an **HIV test**, is the recommended approach; Xpert also detects rifampicin resistance. A is wrong: he cannot produce sputum, and smear is far less sensitive than Xpert in paucibacillary disease. B is wrong: TST shows infection, not disease, and is often negative in malnourished children; it should not gate treatment. C is wrong: more antibiotics delay diagnosis. E is wrong: blood culture does not diagnose TB.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ctb-q02",
+      "stem": "The 3-year-old in the previous question weighs 11 kg. Stool Xpert Ultra shows 'MTB detected, rifampicin resistance not detected'. CXR shows right hilar lymphadenopathy without airway compression and no cavity. He is HIV-negative with no severe malnutrition. At a general hospital, which regimen is MOST appropriate?",
+      "options": [
+        "2RHZE/10RH for 12 months",
+        "2HRZE/2HR using RHZ 75/50/150 two tablets + ethambutol 100 mg two tablets daily, then RH 75/50 two tablets daily",
+        "Isoniazid 10 mg/kg daily for 6 months",
+        "2RHZE/4RH using RHZ 75/50/150 four tablets daily",
+        "Refer to the MDR-TB centre for a second-line regimen"
+      ],
+      "answer": 1,
+      "explanation": "B is right: intrathoracic lymph node TB without airway obstruction is **non-severe** → the **4-month regimen** 2HRZ(E)/2HR (UCG 2023 at general hospital level and above); at 11 kg he is in the **8–11.9 kg band = 2 tablets**. A is wrong: 12 months is for TBM and bone/joint TB. C is wrong: isoniazid alone is TPT, not treatment, and would select resistance. D is wrong: 6 months is acceptable but 4 tablets is the 16–24.9 kg band (overdose for 11 kg). E is wrong: rifampicin resistance was not detected.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ctb-q03",
+      "stem": "A 2-year-old girl (10 kg) has had fever, irritability and vomiting for 12 days. Today she is drowsy (GCS 12) with a left VI nerve palsy. Her father is on TB treatment. CSF: clear, WBC 240/µL (80% lymphocytes), protein 2.0 g/L, glucose 1.3 mmol/L (blood 5.2). What is the MOST appropriate treatment?",
+      "options": [
+        "2RHZE/10RH plus prednisolone 2 mg/kg/day for 4 weeks, then taper",
+        "Ceftriaxone 100 mg/kg/day for 10 days alone",
+        "2HRZE/2HR plus prednisolone",
+        "Fluconazole 12 mg/kg/day",
+        "2RHZE/4RH without steroids"
+      ],
+      "answer": 0,
+      "explanation": "A is right: subacute course, cranial nerve palsy, reduced consciousness, a TB contact and **lymphocytic CSF with very high protein and low glucose** = **TB meningitis (BMRC stage II)** → **12-month regimen** plus **prednisolone 2 mg/kg/day (max 60 mg)** for 4 weeks then taper. B is wrong: bacterial meningitis is acute with neutrophils; ceftriaxone alone will not treat TBM (it may be given briefly while waiting, but not alone). C is wrong: the 4-month regimen is only for non-severe TB. D is wrong: cryptococcal meningitis is mainly an HIV-associated disease and does not fit this picture without a positive CrAg. E is wrong: TBM needs 12 months and adjunctive steroids, which reduce death and disability.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ctb-q04",
+      "stem": "A 4-year-old HIV-positive boy (15 kg) on ABC/3TC/pDTG is diagnosed with pulmonary TB and started on rifampicin-containing treatment. What change should be made to his ART?",
+      "options": [
+        "Stop ART until TB treatment is finished",
+        "Switch to a nevirapine-based regimen",
+        "No change is needed",
+        "Delay ART for 8 weeks",
+        "Give dolutegravir twice daily during rifampicin and for 2 weeks after it stops"
+      ],
+      "answer": 4,
+      "explanation": "E is right: rifampicin induces DTG metabolism, so **DTG is given twice daily** during rifampicin treatment and for 2 weeks after it ends (Uganda consolidated HIV guidelines, WHO). A is wrong: stopping ART increases mortality. B is wrong: nevirapine has serious interactions with rifampicin and is avoided. C is wrong: without adjustment DTG levels fall, risking failure and resistance. D is wrong: he is already on ART; delaying ART 4–8 weeks applies to starting ART in TB meningitis.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ctb-q05",
+      "stem": "An 18-month-old girl (10 kg) lives with her mother, who was just diagnosed with Xpert-positive, rifampicin-susceptible pulmonary TB. The child is well, feeding and growing normally, with no cough, fever or weight loss. HIV-negative. What is the MOST appropriate management?",
+      "options": [
+        "No action; she is asymptomatic",
+        "Do a TST and give TPT only if ≥10 mm",
+        "Give TB preventive therapy, e.g. 3HR (RH 75/50 two tablets daily for 3 months) or 6H, with monthly follow-up",
+        "Start full treatment with 2RHZE/4RH",
+        "Give 3HP once weekly for 12 weeks"
+      ],
+      "answer": 2,
+      "explanation": "C is right: a **household contact <5 years** with a **negative symptom screen** should receive **TPT**; at 18 months, **3HR** (any age; 2 tablets in the 8–11.9 kg band) or **6H** are suitable. A is wrong: under-fives exposed at home have a high risk of disease. B is wrong: TST is **not required** before TPT in children <5 years (UCG/WHO). D is wrong: there is no evidence of TB disease. E is wrong: 3HP is recommended from **2 years** of age.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ctb-q06",
+      "stem": "A 6-year-old boy (19 kg) is a household contact of his uncle with smear-positive TB. He has had a cough for 3 weeks and has lost weight. What should you do?",
+      "options": [
+        "Start 3HP preventive therapy",
+        "Evaluate for TB disease (Xpert on sputum/stool, CXR, HIV test) before deciding",
+        "Give isoniazid preventive therapy for 6 months",
+        "Reassure; children are rarely affected",
+        "Give amoxicillin and repeat the symptom screen in 6 months"
+      ],
+      "answer": 1,
+      "explanation": "B is right: a contact with **symptoms** (cough >2 weeks, weight loss) fails the symptom screen and must be **evaluated for TB disease** before any TPT decision. A is wrong: TPT is only for contacts without symptoms; giving it to a child with active TB is inadequate treatment and selects resistance. C is wrong for the same reason. D is wrong: children exposed at home are at high risk. E is wrong: a 6-month delay could allow progression to severe disease.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ctb-q07",
+      "stem": "A 7-year-old girl on 2RHZE for pulmonary TB for 3 weeks presents with vomiting, abdominal pain and yellow eyes. ALT is 8 times the upper limit of normal. What is the MOST appropriate action?",
+      "options": [
+        "Continue all drugs and give an antiemetic",
+        "Stop only ethambutol",
+        "Double the pyridoxine dose",
+        "Stop isoniazid, rifampicin and pyrazinamide, monitor LFTs, and reintroduce drugs one at a time when liver tests normalise",
+        "Stop all drugs permanently; the TB is probably cured"
+      ],
+      "answer": 3,
+      "explanation": "D is right: symptomatic **drug-induced hepatitis** → stop the hepatotoxic drugs (**H, R, Z**), check LFTs, and **reintroduce sequentially** under specialist guidance (with a non-hepatotoxic interim regimen if she is very ill). A is wrong: continuing can cause fulminant liver failure. B is wrong: ethambutol is not hepatotoxic. C is wrong: pyridoxine prevents neuropathy, not hepatitis. E is wrong: 3 weeks of treatment cannot cure TB; stopping permanently risks relapse and resistance.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ctb-q08",
+      "stem": "Which ONE of the following children with drug-susceptible TB is eligible for the 4-month regimen (2HRZ(E)/2HR) according to WHO 2022?",
+      "options": [
+        "A 5-year-old with a firm, matted right cervical lymph node, no other disease, HIV-negative",
+        "A 2-year-old with a miliary pattern on chest X-ray",
+        "An 8-year-old with a gibbus at T10",
+        "A 4-year-old with TB meningitis",
+        "A 14-year-old with a large cavity in the right upper lobe and smear-positive sputum"
+      ],
+      "answer": 0,
+      "explanation": "A is right: **peripheral lymph node TB** is **non-severe** and qualifies for the 4-month regimen. B is wrong: miliary TB is severe. C is wrong: spinal (osteoarticular) TB needs 12 months. D is wrong: TBM needs 12 months (or the 6-month intensive regimen) plus steroids. E is wrong: cavitary, smear-positive disease is excluded from the non-severe definition.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ctb-q09",
+      "stem": "An 8-year-old girl (20 kg) has been on 2RHZE/4RH for pulmonary TB. At month 2 her sputum was smear-negative. At month 5 her sputum smear is positive and she is losing weight. Her mother admits doses were often missed. What is the correct interpretation and next step?",
+      "options": [
+        "Normal; continue the continuation phase to 6 months",
+        "Relapse; restart 2RHZE/4RH immediately",
+        "Lost to follow-up; trace and restart",
+        "Cured; stop treatment",
+        "Treatment failure; send sputum for Xpert (rifampicin resistance) and culture/DST, address adherence, and refer as indicated"
+      ],
+      "answer": 4,
+      "explanation": "E is right: a **positive smear at month 5 or later = treatment failure** (UCG 2023): send **Xpert** (and Xpert XDR/culture/DST) to look for resistance; if rifampicin-resistant, refer to the MDR-TB centre; if sensitive, restart first-line with adherence support. A is wrong: a positive smear at month 5 is never normal. B is wrong: relapse refers to recurrence after completed and successful treatment. C is wrong: she has not interrupted for ≥2 consecutive months by definition. D is wrong: a positive smear means active disease.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ctb-q10",
+      "stem": "A 9-month-old HIV-positive infant (7 kg) is diagnosed with TB meningitis and started on anti-TB treatment and prednisolone. She is not yet on ART. When should ART be started?",
+      "options": [
+        "On the same day as TB treatment",
+        "After completion of 12 months of TB treatment",
+        "Four to eight weeks after starting TB treatment",
+        "Only when the CD4 percentage falls below 15%",
+        "Within 48 hours, before the steroid course ends"
+      ],
+      "answer": 2,
+      "explanation": "C is right: in **TB meningitis**, ART is **delayed 4–8 weeks** after starting TB treatment to reduce severe neurological IRIS and death (WHO). For other forms of TB, ART is started within 2 weeks. A and E are wrong: very early ART in TBM increases serious adverse events. B is wrong: waiting a year greatly increases HIV-related death. D is wrong: all children with HIV are offered ART regardless of CD4.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "ctb-q11",
+      "stem": "A child weighs 13.5 kg and starts the intensive phase of TB treatment. How many RHZ 75/50/150 dispersible tablets should she take daily?",
+      "options": [
+        "Three tablets",
+        "One tablet",
+        "Two tablets",
+        "Four tablets",
+        "Five tablets"
+      ],
+      "answer": 0,
+      "explanation": "A is right: 13.5 kg falls in the **12–15.9 kg band = 3 tablets** of RHZ 75/50/150 (plus 3 × ethambutol 100 mg). B is wrong: 1 tablet is for 4–7.9 kg. C is wrong: 2 tablets is for 8–11.9 kg. D is wrong: 4 tablets is for 16–24.9 kg. E is wrong: there is no 5-tablet paediatric band; from 25 kg adult formulations are used.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ctb-q12",
+      "stem": "A 10-year-old girl (28 kg) has a 6-week history of fever and right-sided chest pain. There is stony dullness and absent breath sounds over the lower half of the right chest. Pleural tap yields straw-coloured fluid: protein 48 g/L, WBC 1,800/µL (90% lymphocytes), Gram stain negative. Xpert on pleural fluid is negative. What is the MOST likely diagnosis?",
+      "options": [
+        "Parapneumonic empyema",
+        "Heart failure (transudate)",
+        "Nephrotic syndrome",
+        "Tuberculous pleural effusion",
+        "Pneumococcal pneumonia with resolving effusion"
+      ],
+      "answer": 3,
+      "explanation": "D is right: a subacute **lymphocytic exudate** (protein >30 g/L) in a school-age child is **TB pleurisy** until proven otherwise; pleural Xpert has low sensitivity, so a negative result does not exclude it. Treat with 2RHZE/4RH (uncomplicated effusion counts as non-severe for the 4-month regimen). A is wrong: empyema is pus with neutrophils and an acute illness. B and C are wrong: these cause bilateral transudates (low protein). E is wrong: parapneumonic effusions are neutrophilic and follow an acute pneumonia.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ctb-q13",
+      "stem": "A 5-year-old boy (17 kg) is a household contact of his father, who has rifampicin-resistant TB confirmed by Xpert. The boy has no symptoms. According to WHO 2024, which preventive approach is recommended?",
+      "options": [
+        "3HP once weekly for 12 weeks",
+        "Isoniazid 10 mg/kg daily for 6 months",
+        "3HR daily for 3 months",
+        "No preventive therapy and no follow-up",
+        "Levofloxacin daily for 6 months, with follow-up for 2 years"
+      ],
+      "answer": 4,
+      "explanation": "E is right: WHO 2024 recommends **6 months of levofloxacin** for household contacts of **MDR/RR-TB** after excluding disease, with clinical follow-up (UCG 2023 still says no TPT; refer to the MDR-TB centre). A and C are wrong: rifamycin-based TPT will not protect against rifampicin-resistant strains. B is wrong: isoniazid is unlikely to work if the strain is MDR (often isoniazid-resistant too). D is wrong: contacts of DR-TB need close follow-up regardless.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "ctb-q14",
+      "stem": "A 3-year-old HIV-positive boy (12 kg) with advanced HIV is admitted very sick with fever, weight loss and cough. He cannot produce sputum. Which additional rapid test is MOST useful in this situation?",
+      "options": [
+        "Erythrocyte sedimentation rate",
+        "Urine lateral flow LAM (LF-LAM)",
+        "Mantoux test read at 72 hours",
+        "Serum CRP",
+        "Widal test"
+      ],
+      "answer": 1,
+      "explanation": "B is right: **urine LF-LAM** is recommended for **HIV-positive children who are seriously ill, have advanced HIV, or are inpatients with TB symptoms**; a positive result supports starting treatment immediately, alongside Xpert on any available sample. A is wrong: ESR is non-specific. C is wrong: TST is often negative in advanced HIV and takes 72 hours. D is wrong: CRP is non-specific. E is wrong: Widal is for typhoid and is unreliable.",
+      "difficulty": "core"
+    },
+    {
+      "id": "ctb-q15",
+      "stem": "A 4-year-old (14 kg) on 2RHZE for 1 month for pulmonary TB is brought for review. His mother is worried because 'his urine has turned orange-red'. He is eating well, gaining weight, and has no jaundice or abdominal pain. What should you tell her?",
+      "options": [
+        "Stop rifampicin immediately because of haematuria",
+        "This is a sign of liver failure; admit for LFTs",
+        "Orange-red urine, tears and sweat are a harmless effect of rifampicin; continue treatment",
+        "It is a sign of ethambutol toxicity; stop ethambutol",
+        "It means the TB is resistant; refer to the MDR-TB centre"
+      ],
+      "answer": 2,
+      "explanation": "C is right: **rifampicin** colours urine, tears and sweat **orange-red**; it is harmless and should be explained at the start of treatment (it can also stain soft contact lenses). A is wrong: this is not blood. B is wrong: there are no features of hepatitis. D is wrong: ethambutol causes optic neuritis, not urine discolouration. E is wrong: urine colour has nothing to do with resistance.",
+      "difficulty": "core"
+    }
+  ],
+  "cases": [
+    {
+      "id": "ctb-c01",
+      "title": "The grandmother's cough",
+      "presentation": "Kato, a 3-year-old boy from Kisenyi, is brought to Mengo paediatric OPD with a 5-week cough, night sweats and weight loss. He completed amoxicillin 2 weeks ago without improvement. His grandmother, who sleeps in the same room, started TB treatment a month ago. Two siblings, aged 18 months and 6 years, live at home.",
+      "steps": [
+        { "prompt": "What features make TB likely, and what else would you ask?", "answer": "Cough and night sweats **>2 weeks**, **weight loss**, **no response to antibiotics**, and a **household contact** with pulmonary TB. Ask: grandmother's Xpert result and resistance, other coughing adults, HIV status of the child and mother, BCG, measles, feeding, lethargy, neck swellings, headache/vomiting (TBM)." },
+        { "prompt": "Exam: 11 kg (WAZ −2.4, WHZ −1.8), MUAC 12.8 cm, T 37.9 °C, RR 32, SpO₂ 96%, small right cervical nodes, few crackles right upper zone, BCG scar present, no neck stiffness. Which investigations?", "answer": "**Xpert MTB/RIF Ultra on stool** and/or **gastric aspirate/induced sputum**; **CXR** (AP + lateral); **HIV test**; consider TST (supportive); FNA of nodes if large. Weigh on a calibrated scale and plot the growth chart." },
+        { "prompt": "Stool Xpert: MTB detected, rifampicin resistance not detected. CXR: right hilar nodes, small right upper-lobe opacity, no cavity or compression. HIV-negative. Classify and treat.", "answer": "**Bacteriologically confirmed, drug-susceptible, non-severe pulmonary TB.** At a general hospital: **2HRZE/2HR**. 11 kg = **8–11.9 kg band**: RHZ 75/50/150 × **2** + ethambutol 100 mg × **2** daily for 2 months, then RH 75/50 × **2** daily for 2 months; pyridoxine; register; treatment supporter." },
+        { "prompt": "What about his nutrition and follow-up?", "answer": "Moderate underweight: nutrition counselling and supplementary feeding (MAM programme/food support); **monthly weight** with band adjustment (move to 3 tablets at 12 kg); check adherence and side effects; expect weight gain within 1–2 months." },
+        { "prompt": "How do you manage the siblings?", "answer": "Symptom-screen both. If well: **18-month-old → 3HR** (RH 75/50 by weight band, daily × 3 months) or 6H; **6-year-old → 3HP** (weekly × 12) or 3HR. No TST needed for the toddler. Any symptoms → full TB evaluation. Check HIV status of the household; follow up monthly." },
+        { "prompt": "Six weeks later he has gained 1.2 kg. What do you change?", "answer": "He now weighs ~12.2 kg → **12–15.9 kg band**: increase to **3 tablets** of RHZ (and 3 of ethambutol), and later RH × 3 in the continuation phase. Continue to the end of month 4; record outcome as **treatment completed** (or cured if a negative follow-up result is available)." }
+      ],
+      "takeaway": "In childhood TB the contact history and growth chart make the diagnosis, stool or gastric Xpert confirms it, the weight band sets the dose (re-check monthly), and the siblings get TPT."
+    },
+    {
+      "id": "ctb-c02",
+      "title": "Fever, vomiting and a squint",
+      "presentation": "Esther, a 2-year-old girl (10 kg), is referred from a HC IV in Wakiso with 12 days of fever, irritability and vomiting, treated twice for malaria. Today she is drowsy and her mother noticed a squint. Her father is on TB treatment.",
+      "steps": [
+        { "prompt": "What is your leading diagnosis and immediate actions?", "answer": "**TB meningitis** (subacute fever, irritability, vomiting, **VI nerve palsy**, drowsiness, TB contact). ABC, glucose, SpO₂, GCS, seizure control; check for signs of raised ICP; plan **LP**; malaria test; HIV test; start empirical ceftriaxone if bacterial meningitis cannot be excluded." },
+        { "prompt": "GCS 12, left VI nerve palsy, neck stiffness. CSF: clear, WBC 240 (80% lymphocytes), protein 2.0 g/L, glucose 1.3 (blood 5.2), Gram negative, CSF Xpert Ultra 'trace'. Interpret.", "answer": "**TB meningitis, BMRC stage II** (GCS 11–14 with focal sign). Lymphocytic CSF, very high protein, CSF:blood glucose 0.25; Xpert 'trace' counts as positive in children." },
+        { "prompt": "Write the treatment.", "answer": "**2RHZE/10RH** (12 months): 10 kg = 8–11.9 band → RHZ 75/50/150 × 2 + ethambutol 100 mg × 2 daily (via NG if needed), then RH × 2; **pyridoxine**; **prednisolone 20 mg daily (2 mg/kg)** for 4 weeks then taper over 2 weeks. (Alternative where available: WHO 6-month 6HRZ-Eto.) Supportive: NG feeds, seizure control, head-up, fluids." },
+        { "prompt": "On day 5 her head circumference increases and the fontanelle is bulging, with sunsetting eyes. What has happened?", "answer": "**Hydrocephalus** (communicating, from basal exudates). Urgent **CT** if available and **neurosurgical review** (VP shunt or endoscopic third ventriculostomy at CURE Children's Hospital Mbale or Mulago); acetazolamide/furosemide may be used as a bridge in communicating hydrocephalus under specialist advice." },
+        { "prompt": "Her HIV test is positive. When will you start ART, and what else?", "answer": "**Delay ART for 4–8 weeks** after starting TB treatment (TBM) to reduce IRIS; start **cotrimoxazole prophylaxis** now; when ART starts with DTG, give **DTG twice daily** while on rifampicin; test and support the mother; screen the household and give TPT to contacts." }
+      ],
+      "takeaway": "Subacute fever with a cranial nerve palsy and lymphocytic, high-protein, low-glucose CSF is TB meningitis: 12 months of treatment plus steroids, watch for hydrocephalus, and delay ART 4–8 weeks."
+    },
+    {
+      "id": "ctb-c03",
+      "title": "TB and HIV in a school-age child",
+      "presentation": "Moses, a 9-year-old boy (22 kg) on ABC/3TC/DTG since age 4, comes to the HIV clinic with 3 weeks of cough, fever and weight loss of 2 kg. His viral load 6 months ago was suppressed. His older cousin, who lives with them, has been coughing for 2 months.",
+      "steps": [
+        { "prompt": "How do you evaluate him?", "answer": "He screens positive for TB symptoms. **Xpert Ultra on sputum** (he can likely expectorate; induce if not), **CXR**, **urine LF-LAM** if he is seriously ill or has advanced disease, CD4 and viral load, weight/BMI-for-age Z-score. Ask the cousin to be tested (cough triage, Xpert)." },
+        { "prompt": "Sputum Xpert: MTB detected, rifampicin resistance not detected. CXR: right middle-lobe consolidation without cavitation. Which regimen and dose?", "answer": "Non-severe disease is possible (one lobe, non-cavitary), but many clinicians give **6 months (2RHZE/4RH)** to HIV-positive children; follow your unit. At 22 kg = **16–24.9 kg band**: RHZ 75/50/150 × **4** + ethambutol 100 mg × **4**, then RH 75/50 × **4**; pyridoxine." },
+        { "prompt": "What changes to his ART?", "answer": "Continue ART; give **DTG 50 mg twice daily** while on rifampicin and for **2 weeks after** rifampicin stops; continue ABC/3TC; **cotrimoxazole prophylaxis**; repeat viral load as scheduled." },
+        { "prompt": "Three weeks later he has a new fever and enlarging neck nodes, though adherent. What do you consider?", "answer": "**Paradoxical TB-IRIS** is less likely as he was already on ART, but possible; also consider **drug resistance** (check Xpert/DST), another infection, poor drug absorption, or lymphoma. Review adherence, re-test, and seek specialist advice; continue TB treatment and ART unless otherwise directed." },
+        { "prompt": "What happens to the household?", "answer": "The cousin is evaluated and, if TB is confirmed, treated (likely the source). All household contacts are symptom-screened; **TPT** for well children <5 and HIV-positive contacts (and older contacts per programme); infection control at home (ventilation, cough etiquette)." }
+      ],
+      "takeaway": "In a child with HIV, screen for TB at every visit; with rifampicin give DTG twice daily, keep cotrimoxazole, and track down the coughing adult at home."
+    }
+  ],
+  "references": [
+    { "title": "WHO consolidated guidelines on tuberculosis: Module 5: management of tuberculosis in children and adolescents", "source": "World Health Organization", "year": 2022, "url": "https://www.who.int/publications/i/item/9789240046764" },
+    { "title": "Uganda Clinical Guidelines 2023 (5.3 Tuberculosis; 5.3.1.1 TB in children and adolescents; 5.3.2.3 TB preventive treatment; 3.1.10.1 TB/HIV co-infection)", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Shorter Treatment for Nonsevere Tuberculosis in African and Indian Children (SHINE)", "source": "Turkova A, et al. New England Journal of Medicine", "year": 2022, "url": "https://pubmed.ncbi.nlm.nih.gov/35263517/" },
+    { "title": "Consolidated Guidelines for the Prevention and Treatment of HIV and AIDS in Uganda", "source": "Ministry of Health Uganda", "year": 2022, "url": "https://dsduganda.com/wp-content/uploads/2023/05/Consolidated-HIV-and-AIDS-Guidelines-20230516.pdf" },
+    { "title": "Tuberculosis: fact sheet", "source": "World Health Organization", "year": 2026, "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis" },
+    { "title": "Pocket Book of Hospital Care for Children, 2nd edition", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "Pediatric Tuberculosis", "source": "Medscape (eMedicine)", "url": "https://emedicine.medscape.com/article/969401-overview" }
+  ]
+}

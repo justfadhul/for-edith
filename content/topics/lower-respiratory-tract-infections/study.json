@@ -1,0 +1,297 @@
+{
+  "slug": "lower-respiratory-tract-infections",
+  "flashcards": [
+    { "id": "lrti-f01", "front": "WHO/IMCI fast-breathing cut-offs by age.", "back": "**<2 months ≥60/min; 2–11 months ≥50/min; 12–59 months ≥40/min**; ≥5 years >30/min (UCG 2023). Count for a full 60 s in a calm child." },
+    { "id": "lrti-f02", "front": "IMCI general danger signs.", "back": "**Unable to drink or breastfeed, vomits everything, convulsions, lethargic or unconscious.** Any one = severe disease → refer/admit." },
+    { "id": "lrti-f03", "front": "WHO classification: 'Pneumonia' vs 'Severe pneumonia' (2–59 months).", "back": "**Pneumonia**: cough/DIB + fast breathing and/or chest indrawing, no danger sign → oral amoxicillin. **Severe**: + any danger sign, central cyanosis/**SpO₂ <90%**, or severe respiratory distress (grunting, very severe indrawing) → admit, oxygen, injectable antibiotics." },
+    { "id": "lrti-f04", "front": "Amoxicillin for non-severe pneumonia: dose and duration (UCG 2023/WHO 2024).", "back": "**40 mg/kg twice daily (80 mg/kg/day) for 5 days.** WHO 2024: 3 days acceptable for fast breathing only in **low-HIV** areas; Uganda uses 5. DT 250 mg: 2–12 m 1 tab, 1–3 y 2 tabs, 3–5 y 3 tabs, twice daily." },
+    { "id": "lrti-f05", "front": "First-line antibiotics for severe pneumonia (UCG 2023).", "back": "**Ampicillin 50 mg/kg IV/IM 6-hourly** (or **benzylpenicillin 50,000 IU/kg 6-hourly**) **+ gentamicin 7.5 mg/kg once daily**, at least 5 days (up to 10), then oral amoxicillin." },
+    { "id": "lrti-f06", "front": "Second-line antibiotic if severe pneumonia is not better after 48 h.", "back": "**Ceftriaxone 80 mg/kg IV/IM once daily** (UCG 2023). Also look for Staph, empyema, TB, PCP, heart failure, foreign body." },
+    { "id": "lrti-f07", "front": "Treatment of suspected staphylococcal pneumonia.", "back": "**Cloxacillin 50 mg/kg (25–50) IV/IM 6-hourly + gentamicin 7.5 mg/kg once daily** for **at least 21 days** (UCG). Clues: pneumatocoeles, empyema, pneumothorax, skin sepsis, after measles." },
+    { "id": "lrti-f08", "front": "How are infants <2 months with pneumonia managed (UCG 2023)?", "back": "All treated as **severe**: admit, keep warm, breast milk/NGT, oxygen; **ampicillin 50 mg/kg 6-hourly + gentamicin 5 mg/kg (first week) or 7.5 mg/kg once daily**; ceftriaxone 100 mg/kg if severely ill; ≥5 days (10 if sepsis, 21 if meningitis)." },
+    { "id": "lrti-f09", "front": "When is oxygen given (WHO/UCG) and what is the target?", "back": "**SpO₂ <90%** → oxygen to keep ≥90%. During resuscitation with emergency signs, target **≥94%**." },
+    { "id": "lrti-f10", "front": "Signs predicting hypoxaemia when no oximeter is available.", "back": "**Central cyanosis, grunting, head nodding, nasal flaring, inability to drink/feed due to breathing, severe chest indrawing, RR ≥70, depressed consciousness** (WHO 2016; WHO 2024: RR ≥20 above the age cut-off)." },
+    { "id": "lrti-f11", "front": "Nasal prong oxygen flow rates by age.", "back": "**Neonates 0.5–1 L/min; infants 1–2 L/min; older children 2–4 L/min.** Face mask needs ≥5 L/min. Check SpO₂ 3-hourly; wean when SpO₂ ≥90% in air for 10–15 min." },
+    { "id": "lrti-f12", "front": "Define bronchiolitis (NICE NG9).", "back": "Child <2 years (peak 3–6 months) with **coryzal prodrome 1–3 days**, then **persistent cough** and **tachypnoea or recession**, and **wheeze or crackles**. Usually **RSV**. Peaks day 3–5; cough resolves in 90% by 3 weeks." },
+    { "id": "lrti-f13", "front": "Bronchiolitis management (NICE NG9/WHO).", "back": "**Supportive**: oxygen if SpO₂ <90–92%, small frequent or **NG feeds**, gentle nasal suction, CPAP if failing. **No** routine antibiotics, steroids, salbutamol, adrenaline or hypertonic saline. (UCG 2023 allows a salbutamol trial, stop if no response.)" },
+    { "id": "lrti-f14", "front": "Severe bronchiolitis criteria (UCG/NICE).", "back": "**Age <3 months**, RR >60–70, poor feeding (<50–75% of normal), **SpO₂ <92%**, apnoea, grunting, cyanosis, exhaustion." },
+    { "id": "lrti-f15", "front": "Clinical stages of pertussis.", "back": "**Catarrhal** (1–2 wk, most infectious, coryza) → **Paroxysmal** (1–6 wk: paroxysms, whoop, post-tussive vomiting, subconjunctival haemorrhage; infants: **apnoea, cyanosis**, may not whoop) → **Convalescent** (weeks–months)." },
+    { "id": "lrti-f16", "front": "Antibiotic treatment of pertussis.", "back": "**Azithromycin**: <6 months 10 mg/kg once daily × 5 days; ≥6 months 10 mg/kg day 1 then 5 mg/kg days 2–5. Or **erythromycin 12.5 mg/kg 6-hourly** × 7 days (UCG; 14 classically). Avoid erythromycin <1 month (pyloric stenosis). Treat household contacts." },
+    { "id": "lrti-f17", "front": "Drugs NOT to give in pertussis (UCG 2023).", "back": "**Cough mixtures, sedatives, mucolytics, antihistamines** — 'useless' and potentially harmful. Give oxygen, suction, small frequent feeds and a macrolide." },
+    { "id": "lrti-f18", "front": "PCP treatment in an HIV-infected infant (UCG 2023).", "back": "**Cotrimoxazole 120 mg/kg/day** (TMP 20 mg/kg/day) in 3–4 doses × **21 days** + **prednisolone 2 mg/kg/day** × 5 days then taper (if hypoxaemic); oxygen; then cotrimoxazole prophylaxis; start ART." },
+    { "id": "lrti-f19", "front": "Clinical clues to PCP.", "back": "HIV-exposed/infected infant **2–6 months**, not on cotrimoxazole, **severe hypoxaemia** with **few crackles**, fast breathing, afebrile or low fever; CXR diffuse interstitial infiltrates; high LDH." },
+    { "id": "lrti-f20", "front": "Empyema: clinical signs and management.", "back": "**Persistent fever** on antibiotics, **stony dull percussion**, absent breath sounds, mediastinal shift. CXR/ultrasound, **diagnostic tap**, **chest drain**, cloxacillin + gentamicin (or ceftriaxone) for **3–4 weeks**; exclude TB." },
+    { "id": "lrti-f21", "front": "Kerosene ingestion: key management points.", "back": "**No induced vomiting, no gastric lavage, no charcoal.** Oxygen if SpO₂ <90%, **observe ≥6 h**, CXR if symptomatic; antibiotics only for secondary bacterial pneumonia." },
+    { "id": "lrti-f22", "front": "Back blows and thrusts for a choking infant vs child.", "back": "**Infant (<1 y)**: 5 back blows (head down along the forearm) + 5 **chest** thrusts. **Child >1 y**: 5 back blows + 5 **abdominal** thrusts. Unconscious → start CPR, look in the mouth before breaths." },
+    { "id": "lrti-f23", "front": "Common causes of pneumonia by age (UCG 2023).", "back": "**Neonates**: GBS, Klebsiella, E. coli, S. aureus, Chlamydia. **<5 y**: **pneumococcus**, H. influenzae, S. aureus, RSV, influenza, measles. **≥5 y**: pneumococcus, Mycoplasma, viruses. **HIV**: Pneumocystis, TB, CMV." },
+    { "id": "lrti-f24", "front": "Why is wheeze important when classifying pneumonia?", "back": "Wheeze + fast breathing may be **bronchospasm** (asthma, viral wheeze, bronchiolitis), not pneumonia. Give a rapid-acting bronchodilator and **re-count**; if fast breathing resolves, don't classify as pneumonia." },
+    { "id": "lrti-f25", "front": "Reasons a child with pneumonia fails to improve (STEP-HIV-F).", "back": "**S**taph, **T**B, **E**mpyema/effusion, **P**CP, **H**eart failure, **I**nadequate dose/adherence, **V**iral/wrong diagnosis, **F**oreign body. Also malaria, anaemia, SAM." },
+    { "id": "lrti-f26", "front": "Pneumonia burden (WHO).", "back": "**14% of under-five deaths: 740,180 children in 2019**; 22% of deaths at 1–5 y. Pneumonia + diarrhoea ≈ **23% of under-five deaths (1.17 million)** (WHO 2024 guideline)." },
+    { "id": "lrti-f27", "front": "Vaccines in UNEPI that prevent pneumonia.", "back": "**PCV** and **DTP-HepB-Hib** (pertussis, Hib) at **6, 10, 14 weeks**; **measles-rubella at 9 and 18 months**; BCG at birth (severe TB). Plus exclusive breastfeeding and cotrimoxazole for HIV-exposed infants." }
+  ],
+  "mcqs": [
+    {
+      "id": "lrti-q01",
+      "stem": "A 9-month-old boy (7.5 kg) has had cough and fever for 2 days. He is breastfeeding well and alert. RR 54/min (counted for 60 s while calm), no chest indrawing, no wheeze, SpO₂ 96%. Malaria RDT negative. What is the correct classification and treatment?",
+      "options": [
+        "No pneumonia: cough or cold; home care without antibiotics",
+        "Severe pneumonia; admit for ampicillin and gentamicin",
+        "Pneumonia; oral amoxicillin 250 mg twice daily for 5 days and review in 2–3 days",
+        "Bronchiolitis; nebulised salbutamol and discharge",
+        "Pneumonia; cotrimoxazole for 5 days"
+      ],
+      "answer": 2,
+      "explanation": "C is right: at 2–11 months fast breathing is **≥50/min**; with no danger sign or hypoxaemia this is **pneumonia** → amoxicillin 40 mg/kg (one 250 mg DT) twice daily for 5 days (Uganda is a high-HIV setting) and review in 2–3 days. A is wrong: RR 54 is fast for his age. B is wrong: there are no danger signs, no hypoxaemia and no severe distress. D is wrong: there is no coryza-wheeze-crackles picture and salbutamol isn't standard for bronchiolitis. E is wrong: cotrimoxazole is no longer recommended for pneumonia; amoxicillin is first line.",
+      "difficulty": "core"
+    },
+    {
+      "id": "lrti-q02",
+      "stem": "A 14-month-old girl (8.8 kg) has cough and fever for 3 days. Today she cannot drink. She is lethargic, RR 58/min, lower chest wall indrawing, grunting, SpO₂ 87% in air. MUAC 12.8 cm. What is the BEST initial management?",
+      "options": [
+        "Oxygen by nasal prongs, then IV ampicillin 440 mg 6-hourly plus gentamicin 66 mg once daily",
+        "Oral amoxicillin 500 mg twice daily at home and review in 2 days",
+        "IV ceftriaxone 2 g once daily as first line",
+        "Nebulised salbutamol and observe for 1 hour",
+        "IV fluids 20 mL/kg bolus, then oral amoxicillin"
+      ],
+      "answer": 0,
+      "explanation": "A is right: a danger sign (lethargy, unable to drink) plus hypoxaemia = **severe pneumonia**: oxygen first, then **ampicillin 50 mg/kg (440 mg) 6-hourly + gentamicin 7.5 mg/kg (66 mg) once daily**. B is wrong: oral outpatient therapy is only for pneumonia without danger signs or hypoxaemia. C is wrong: ceftriaxone is second line, and 2 g is far above 80 mg/kg (≈700 mg) for her weight. D is wrong: there is no wheeze; salbutamol does not treat pneumonia. E is wrong: she is not in shock; boluses risk fluid overload, and oral therapy is inadequate for severe pneumonia.",
+      "difficulty": "core"
+    },
+    {
+      "id": "lrti-q03",
+      "stem": "A 3-year-old boy (13 kg) with severe pneumonia has received ampicillin and gentamicin for 48 hours. He remains febrile at 39.4 °C with RR 55/min. Chest X-ray shows multiple thin-walled air-filled cysts in the right lung and a small right pleural effusion. He had multiple skin boils last week. What is the MOST appropriate change in antibiotics?",
+      "options": [
+        "Continue ampicillin and gentamicin for another 5 days",
+        "Switch to oral amoxicillin",
+        "Add erythromycin for atypical pneumonia",
+        "Start high-dose cotrimoxazole for PCP",
+        "Switch to cloxacillin 650 mg 6-hourly plus gentamicin, continued for at least 3 weeks"
+      ],
+      "answer": 4,
+      "explanation": "E is right: **pneumatocoeles + effusion + skin boils + failure of first line** = **staphylococcal pneumonia** → **cloxacillin 50 mg/kg (650 mg) 6-hourly + gentamicin** for ≥21 days (UCG 2023), and assess the effusion for empyema. A is wrong: ampicillin does not cover penicillinase-producing Staph, and he is failing. B is wrong: stepping down when worsening is inappropriate. C is wrong: Mycoplasma doesn't cause pneumatocoeles. D is wrong: nothing suggests HIV/PCP, and PCP causes interstitial changes, not cysts with effusion.",
+      "difficulty": "core"
+    },
+    {
+      "id": "lrti-q04",
+      "stem": "A 4-month-old girl (5.5 kg) has had runny nose for 2 days, then cough and difficulty feeding. She is taking about half her usual breastfeeds. RR 62/min, mild subcostal recession, bilateral fine crackles and expiratory wheeze, T 37.8 °C, SpO₂ 89% in air. What is the MOST appropriate management?",
+      "options": [
+        "Oral amoxicillin and send home",
+        "Admit, oxygen by nasal prongs, NG feeds or small frequent breastfeeds, gentle nasal suction",
+        "Nebulised salbutamol every 20 minutes and oral prednisolone",
+        "IV ceftriaxone and dexamethasone",
+        "Chest physiotherapy every 4 hours"
+      ],
+      "answer": 1,
+      "explanation": "B is right: this is **severe bronchiolitis** (coryzal prodrome, crackles and wheeze, feeding about 50% of normal, SpO₂ <92%): **supportive care** with oxygen, feeding support (NG if needed) and suction. A is wrong: she is hypoxaemic and not feeding; she needs admission, and antibiotics are not routinely indicated. C is wrong: bronchodilators and steroids don't help bronchiolitis (NICE NG9; UCG allows only a salbutamol trial, stopped if no response). D is wrong: neither antibiotics nor steroids are indicated without evidence of bacterial infection. E is wrong: chest physiotherapy is not recommended in bronchiolitis.",
+      "difficulty": "core"
+    },
+    {
+      "id": "lrti-q05",
+      "stem": "At a HC III with no pulse oximeter, which ONE finding in a 10-month-old with pneumonia MOST strongly suggests hypoxaemia and the need to give oxygen and refer?",
+      "options": [
+        "Temperature 39 °C",
+        "Respiratory rate 52/min",
+        "Crepitations at the right base",
+        "Head nodding with each breath",
+        "Cough for 4 days"
+      ],
+      "answer": 3,
+      "explanation": "D is right: **head nodding** (use of accessory neck muscles) is one of the clinical signs WHO uses to predict hypoxaemia when no oximeter is available (with central cyanosis, grunting, nasal flaring, inability to feed, RR ≥70). A is wrong: fever does not indicate hypoxaemia. B is wrong: RR 52 is fast for age but well below the severe tachypnoea threshold (≥70). C is wrong: crackles support pneumonia but do not predict hypoxaemia. E is wrong: cough duration is not a hypoxaemia sign.",
+      "difficulty": "core"
+    },
+    {
+      "id": "lrti-q06",
+      "stem": "A 3-month-old HIV-exposed infant (4.6 kg) whose mother did not take ART is admitted with fast breathing (RR 72/min) and SpO₂ 78% in air. Temperature 37.6 °C. The chest has only a few scattered crackles. He has never received cotrimoxazole. Which treatment should be added to ampicillin and gentamicin?",
+      "options": [
+        "High-dose cotrimoxazole for 21 days plus prednisolone",
+        "Oral amoxicillin 3 days",
+        "Isoniazid preventive therapy",
+        "Fluconazole 6 mg/kg daily",
+        "Nebulised adrenaline"
+      ],
+      "answer": 0,
+      "explanation": "A is right: a 2–6-month-old **HIV-exposed infant** without prophylaxis with **severe hypoxaemia and few chest signs** suggests **PCP** → high-dose cotrimoxazole (UCG 120 mg/kg/day in divided doses for 21 days) with **prednisolone** for hypoxaemia, plus oxygen; test for HIV (DNA PCR) and start ART. B is wrong: oral amoxicillin is for non-severe pneumonia. C is wrong: TPT is for TB prevention after excluding active TB, not acute treatment. D is wrong: fluconazole treats candida/cryptococcus, not PCP. E is wrong: adrenaline is for croup, not pneumonia.",
+      "difficulty": "core"
+    },
+    {
+      "id": "lrti-q07",
+      "stem": "A 5-week-old girl (3.8 kg), whose DTP doses are not yet due, has had a runny nose for a week and now has bouts of coughing that end with her going blue and stopping breathing for 10–15 seconds, followed by vomiting. Between bouts she looks well and the chest is clear. Her 8-year-old brother has had a cough for 3 weeks. Which antibiotic is MOST appropriate for her?",
+      "options": [
+        "Erythromycin 12.5 mg/kg 6-hourly for 14 days",
+        "Amoxicillin 40 mg/kg twice daily for 5 days",
+        "Azithromycin 10 mg/kg once daily for 5 days",
+        "Ceftriaxone 80 mg/kg once daily for 7 days",
+        "Cotrimoxazole prophylaxis"
+      ],
+      "answer": 2,
+      "explanation": "C is right: paroxysms with **apnoea, cyanosis and post-tussive vomiting** in a young infant with a coughing sibling = **pertussis**. In infants under 1 month (and preferably under 6 months), **azithromycin 10 mg/kg once daily for 5 days** is preferred. She should be admitted for apnoea monitoring, oxygen and feeding, and household contacts treated. A is wrong: erythromycin in infants <1 month is linked to **infantile hypertrophic pyloric stenosis**; azithromycin is safer. B is wrong: amoxicillin is not active against Bordetella. D is wrong: ceftriaxone is not the treatment for pertussis. E is wrong: cotrimoxazole prophylaxis is for HIV-exposed infants and does not treat pertussis.",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "lrti-q08",
+      "stem": "A 2-year-old boy (11 kg) drank kerosene from a soda bottle 30 minutes ago. He coughed and vomited once and now has RR 36/min, no indrawing, SpO₂ 97%. His father asks you to make him vomit the rest. What is the BEST management?",
+      "options": [
+        "Induce vomiting with salt water",
+        "Gastric lavage with normal saline",
+        "Give activated charcoal 1 g/kg",
+        "Start IV ceftriaxone to prevent pneumonia",
+        "Do not induce vomiting; observe for at least 6 hours with SpO₂ monitoring and CXR if symptoms develop"
+      ],
+      "answer": 4,
+      "explanation": "E is right: hydrocarbons cause **chemical pneumonitis** when aspirated; management is supportive: **no emesis, no lavage**, observe ≥6 hours, oxygen if SpO₂ <90%, CXR if symptomatic. A is wrong: vomiting gives the kerosene a second chance to be aspirated. B is wrong: lavage also risks aspiration. C is wrong: charcoal does not bind hydrocarbons and provokes vomiting. D is wrong: prophylactic antibiotics are not recommended; treat only secondary bacterial pneumonia.",
+      "difficulty": "core"
+    },
+    {
+      "id": "lrti-q09",
+      "stem": "A 4-year-old girl (15 kg) has been treated for severe pneumonia for 4 days. She still has fever 39 °C, RR 48/min, and you find stony dull percussion with absent breath sounds over the left lower chest and the trachea deviated to the right. What is the MOST appropriate next step?",
+      "options": [
+        "Add oral salbutamol",
+        "Double the dose of gentamicin",
+        "Discharge on oral amoxicillin",
+        "Chest X-ray/ultrasound and diagnostic pleural tap, then chest drain if pus",
+        "Start anti-TB treatment immediately without further tests"
+      ],
+      "answer": 3,
+      "explanation": "D is right: persistent fever with **stony dullness, absent breath sounds and mediastinal shift** = large **effusion/empyema**: image, tap (pus? Gram stain, culture, Xpert), and insert a **chest drain**, with antibiotics covering Staph for 3–4 weeks. A is wrong: there is no bronchospasm. B is wrong: doubling gentamicin risks toxicity and does not drain pus. C is wrong: she is getting worse. E is wrong: TB is in the differential of an effusion but must be investigated (tap with Xpert, lymphocytic exudate); acute post-pneumonic empyema is more likely here.",
+      "difficulty": "core"
+    },
+    {
+      "id": "lrti-q10",
+      "stem": "A 2-year-old boy (11 kg) with cough has RR 46/min and audible expiratory wheeze; he is alert and drinking, SpO₂ 95%. What is the MOST appropriate next step before classifying him as pneumonia?",
+      "options": [
+        "Start ampicillin and gentamicin",
+        "Give a rapid-acting bronchodilator (salbutamol via spacer) and re-count the respiratory rate after 15–20 minutes",
+        "Do a chest X-ray to confirm consolidation",
+        "Give prednisolone 2 mg/kg and send home",
+        "Classify as severe pneumonia because of wheeze"
+      ],
+      "answer": 1,
+      "explanation": "B is right: in a wheezing child, fast breathing may be due to **bronchospasm**; WHO/IMCI advise a **bronchodilator trial** and re-assessment before classifying as pneumonia. A is wrong: he has no danger signs or hypoxaemia; injectable antibiotics are not indicated. C is wrong: CXR is not required to diagnose non-severe pneumonia and won't change the immediate step. D is wrong: steroids before a diagnosis (asthma vs viral wheeze vs pneumonia) is premature. E is wrong: wheeze alone is not a severity criterion.",
+      "difficulty": "core"
+    },
+    {
+      "id": "lrti-q11",
+      "stem": "A 1-year-old (9 kg) on nasal prong oxygen at 1 L/min for severe pneumonia is now feeding, afebrile and comfortable, RR 38/min. Which is the CORRECT way to decide whether oxygen can be stopped?",
+      "options": [
+        "Stop oxygen when the course of antibiotics is finished",
+        "Stop oxygen as soon as the child is afebrile",
+        "Keep oxygen until discharge to be safe",
+        "Increase to 2 L/min for 1 hour, then stop",
+        "Do a trial off oxygen; stop if SpO₂ remains ≥90% in room air for 10–15 minutes, then recheck"
+      ],
+      "answer": 4,
+      "explanation": "E is right: WHO advises a **daily trial off oxygen** when stable; discontinue if SpO₂ stays **≥90% in room air** for 10–15 minutes, and recheck after an hour and periodically for the first day. A is wrong: oxygen need is unrelated to antibiotic duration. B is wrong: fever does not determine oxygenation. C is wrong: unnecessary oxygen wastes a scarce resource that other children need. D is wrong: increasing flow before stopping has no rationale.",
+      "difficulty": "core"
+    },
+    {
+      "id": "lrti-q12",
+      "stem": "A 3-year-old girl (14 kg) with cough has RR 38/min and lower chest wall indrawing. She is alert, drinking well, SpO₂ 95%, no danger signs, HIV-negative, no malnutrition, and the family can return. According to the WHO 2024 guideline, what is the recommended treatment?",
+      "options": [
+        "Admit for IV benzylpenicillin and gentamicin for 5 days",
+        "Oral amoxicillin 40 mg/kg twice daily for 5 days as an outpatient",
+        "No antibiotic; she has no fast breathing",
+        "Oral amoxicillin for 3 days only",
+        "IM ceftriaxone once and review in a week"
+      ],
+      "answer": 1,
+      "explanation": "B is right: WHO (2014, confirmed in the **2024 guideline**) recommends **oral amoxicillin for 5 days as an outpatient** for children 2–59 months with **chest indrawing without danger signs**, rather than injectable antibiotics in hospital. A is wrong: inpatient injectable therapy is for severe pneumonia (danger signs, hypoxaemia). C is wrong: chest indrawing alone classifies as pneumonia. D is wrong: the 3-day option applies only to fast-breathing pneumonia without indrawing, in low-HIV settings. E is wrong: a single ceftriaxone dose is not a recommended regimen and uses a Watch antibiotic.",
+      "difficulty": "core"
+    },
+    {
+      "id": "lrti-q13",
+      "stem": "A 6-day-old term baby (3.1 kg) has fast breathing (RR 70/min), severe chest indrawing and poor feeding. Which antibiotic prescription is CORRECT?",
+      "options": [
+        "Oral amoxicillin 40 mg/kg twice daily at home",
+        "Gentamicin 7.5 mg/kg IV once daily alone",
+        "Chloramphenicol 25 mg/kg IV 6-hourly",
+        "Ampicillin 50 mg/kg IV 12-hourly plus gentamicin 5 mg/kg IV once daily",
+        "Cotrimoxazole 4 mg/kg twice daily"
+      ],
+      "answer": 3,
+      "explanation": "D is right: an infant <2 months with pneumonia is treated as **severe**; in the **first week of life** ampicillin is given 12-hourly (50 mg/kg) and **gentamicin 5 mg/kg once daily** (UCG 2023). A is wrong: oral outpatient therapy is not appropriate for a neonate with severe signs. B is wrong: 7.5 mg/kg is the dose after the first week, and gentamicin alone misses GBS and Listeria cover. C is wrong: chloramphenicol is contraindicated in neonates <7 days (grey baby syndrome). E is wrong: cotrimoxazole is not used for neonatal pneumonia and is avoided in the first weeks (kernicterus risk).",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "lrti-q14",
+      "stem": "A 7-year-old boy (21 kg) has had cough, fever and night sweats for 5 weeks, with weight loss. His grandmother, who lives with him, is on TB treatment. He completed a course of amoxicillin 2 weeks ago without improvement. RR 30/min, SpO₂ 95%. What is the MOST appropriate next step?",
+      "options": [
+        "A second course of amoxicillin for 10 days",
+        "Admit for ceftriaxone",
+        "Evaluate for TB: Xpert Ultra on sputum (or gastric aspirate/stool), chest X-ray and HIV test",
+        "Start isoniazid preventive therapy",
+        "Nebulised salbutamol and prednisolone"
+      ],
+      "answer": 2,
+      "explanation": "C is right: cough and fever **>2 weeks**, night sweats, **weight loss**, a **household TB contact** and failure of antibiotics = presumptive **TB**; request **Xpert MTB/RIF Ultra** (sputum, induced sputum, gastric aspirate or stool), CXR and an HIV test. A is wrong: repeating antibiotics delays the diagnosis. B is wrong: he is not severely ill and the problem is not bacterial pneumonia. D is wrong: TPT is only given after active TB has been excluded; giving isoniazid alone to a child with TB disease breeds resistance. E is wrong: there is no evidence of asthma.",
+      "difficulty": "core"
+    },
+    {
+      "id": "lrti-q15",
+      "stem": "A 6-month-old (6.8 kg) with severe pneumonia is on IV fluids because she is too breathless to feed. Her serum sodium is 128 mmol/L and she is not dehydrated. What is the MOST appropriate fluid plan?",
+      "options": [
+        "Restrict fluids to about two-thirds of maintenance and start NG feeds when possible",
+        "Give a 20 mL/kg bolus of normal saline",
+        "Increase fluids to 150 mL/kg/day",
+        "Give 3% saline 10 mL/kg over 10 minutes",
+        "Stop all fluids for 24 hours"
+      ],
+      "answer": 0,
+      "explanation": "A is right: hyponatraemia without dehydration in severe pneumonia suggests **SIADH**; restrict to about **two-thirds of maintenance**, use isotonic fluids and move to NG/breast milk early. B is wrong: she is not shocked or dehydrated; a bolus worsens overload. C is wrong: high volumes worsen hyponatraemia and pulmonary oedema. D is wrong: hypertonic saline is reserved for symptomatic severe hyponatraemia (seizures), not a stable infant at 128. E is wrong: stopping all fluids risks hypoglycaemia and dehydration.",
+      "difficulty": "advanced"
+    }
+  ],
+  "cases": [
+    {
+      "id": "lrti-c01",
+      "title": "Severe pneumonia in an HIV-exposed infant",
+      "presentation": "Namubiru, a 10-month-old girl from Nansana, is brought to Mengo Hospital with 3 days of cough and fever. Today she refused the breast. Her mother is HIV-positive on TLD; Namubiru had a negative DNA PCR at 6 weeks and is still breastfeeding.",
+      "steps": [
+        { "prompt": "What are your first actions in the emergency room?", "answer": "ETAT: check airway/breathing (cyanosis, severe distress), circulation, consciousness; **SpO₂**; weigh; RBS; malaria RDT. Give **oxygen** if SpO₂ <90% or emergency signs; position on mother's lap; gentle suction." },
+        { "prompt": "Findings: 7.2 kg (WHZ −1.5, MUAC 12.4 cm, no oedema), lethargic, RR 64, lower chest wall indrawing, grunting, SpO₂ 86%, T 39 °C, bronchial breathing right upper zone, RDT negative, RBS 4.8. Classify.", "answer": "**Severe pneumonia with hypoxaemia** (danger signs: lethargy and unable to breastfeed; SpO₂ <90%; grunting)." },
+        { "prompt": "Write the admission orders.", "answer": "1. **Oxygen** by nasal prongs 1 L/min, target SpO₂ ≥90% (≥94% initially if emergency signs).\n2. **Ampicillin 360 mg IV 6-hourly** (50 mg/kg) + **gentamicin 54 mg IV once daily** (7.5 mg/kg).\n3. **Paracetamol 108 mg** (15 mg/kg) 6-hourly prn.\n4. **NG expressed breast milk** (avoid IV fluids if possible); maintenance about 100 mL/kg/day.\n5. Monitor RR 2-hourly, SpO₂ 3-hourly, temperature 6-hourly, feeding, alertness." },
+        { "prompt": "What about her HIV status?", "answer": "She is **HIV-exposed and still breastfeeding**, so a negative 6-week PCR does not exclude infection. Do a repeat test now (rapid antibody at ≥9 months; DNA PCR if reactive). If positive or severe hypoxaemia without response: add **high-dose cotrimoxazole + prednisolone** for PCP, start ART. Ensure cotrimoxazole prophylaxis continues until HIV is excluded after breastfeeding ends." },
+        { "prompt": "At 48 hours she is afebrile, feeding by breast, RR 44, SpO₂ 93% on 0.5 L/min. Next steps?", "answer": "Improving: continue IV antibiotics to complete ≥3 days then switch to **oral amoxicillin 40 mg/kg (≈300 mg) twice daily** to complete at least 5 days total; **daily trial off oxygen** (stop if SpO₂ ≥90% in air for 10–15 min); feeding counselling." },
+        { "prompt": "What must happen before discharge?", "answer": "Off oxygen ≥24 h, feeding well; complete antibiotics; **HIV result** and linkage; **catch-up vaccines** (MR1 given? PCV complete?); nutritional follow-up (WHZ −1.5); counselling on danger signs, smoke and breastfeeding; review in 1 week." }
+      ],
+      "takeaway": "Danger sign plus hypoxaemia = severe pneumonia: oxygen first, then ampicillin + gentamicin by weight, careful feeding, and never leave an HIV-exposed infant's status unresolved."
+    },
+    {
+      "id": "lrti-c02",
+      "title": "The child who did not get better",
+      "presentation": "Okello, a 3-year-old boy (13 kg) from Gulu, was admitted 2 days ago with severe pneumonia and is on ampicillin and gentamicin. He had measles 3 weeks ago. The nurse reports he is still febrile and breathing fast.",
+      "steps": [
+        { "prompt": "List the reasons a child may fail first-line treatment.", "answer": "**STEP-HIV-F**: Staph (especially after measles), TB, Empyema/effusion, PCP (HIV), Heart failure, Inadequate dosing/adherence, Viral or wrong diagnosis, Foreign body; plus malaria, severe anaemia, SAM." },
+        { "prompt": "Examination: T 39.6 °C, RR 56, SpO₂ 89% on 2 L/min, stony dullness and absent breath sounds right base. CXR: right effusion and two left-sided pneumatocoeles. Interpretation?", "answer": "**Staphylococcal pneumonia with empyema** (post-measles, pneumatocoeles, effusion, failure of ampicillin)." },
+        { "prompt": "What procedures and antibiotics do you order?", "answer": "Ultrasound-guided **diagnostic tap** (pus → Gram stain, culture, Xpert, pH) and **chest drain** with underwater seal. Switch to **cloxacillin 650 mg IV 6-hourly** (50 mg/kg) **+ gentamicin 98 mg once daily** (7.5 mg/kg), for **≥3 weeks** (IV until afebrile, then oral). Increase oxygen; analgesia." },
+        { "prompt": "Two days later he suddenly becomes more breathless, SpO₂ falls to 80%, and the right chest is hyper-resonant. What has happened?", "answer": "**Pyopneumothorax** (ruptured pneumatocoele or bronchopleural fistula). Check the drain (blocked? displaced?), needle decompression if tension, reposition/insert a new drain, high-flow oxygen, senior surgical review." },
+        { "prompt": "What else should you address because of his measles?", "answer": "**Vitamin A** (if not given: 200,000 IU for ≥12 months, on 2 consecutive days), nutritional assessment (measles → malnutrition), HIV test, check eyes, and **catch-up vaccines** (MR2, PCV) after recovery." }
+      ],
+      "takeaway": "A child not better at 48 hours is a diagnostic problem: look for Staph (post-measles, pneumatocoeles), empyema, TB and HIV, and change both the antibiotic and the plan."
+    },
+    {
+      "id": "lrti-c03",
+      "title": "Apnoea in a young infant",
+      "presentation": "Baby Ruth, 6 weeks old (4.0 kg), is brought to a HC IV because she 'stops breathing and turns blue when she coughs'. She had a runny nose 10 days ago. Her 9-year-old sister has had a cough for 3 weeks that makes her vomit. Ruth received BCG and OPV0 at birth; her 6-week vaccines are due today.",
+      "steps": [
+        { "prompt": "What is the most likely diagnosis and what supports it?", "answer": "**Pertussis**: catarrhal prodrome, then paroxysms with **apnoea and cyanosis** (young infants may not whoop), a sibling with a prolonged cough and post-tussive vomiting, and no DTP yet." },
+        { "prompt": "What are your immediate management priorities?", "answer": "**Admit** (age <6 months with apnoea). Oxygen if SpO₂ <90% or cyanosis; **gentle suction** after paroxysms; nurse near the nursing station with an apnoea/SpO₂ monitor; **small frequent breastfeeds**, NG feeds if needed; keep warm; check glucose." },
+        { "prompt": "Which antibiotic and dose?", "answer": "**Azithromycin 10 mg/kg = 40 mg orally once daily for 5 days** (preferred under 1 month and safe at 6 weeks). Erythromycin 12.5 mg/kg 6-hourly is the UCG option but is linked to pyloric stenosis in young infants. Isolate until 5 days of treatment." },
+        { "prompt": "What will you NOT give, and why?", "answer": "No **cough mixtures, sedatives, mucolytics or antihistamines** (UCG: useless; sedatives worsen apnoea)." },
+        { "prompt": "What do you do for the family and the community?", "answer": "**Treat the sister and household contacts** with a macrolide; give Ruth her **6-week vaccines** (pentavalent, PCV, OPV, rotavirus) once stable; check the sister's immunisation card; **notify** the district surveillance focal person (pertussis is notifiable); explain that the cough may last up to 3 months." }
+      ],
+      "takeaway": "Young infants with pertussis present with apnoea rather than a whoop; admit, support breathing and feeding, give azithromycin, and protect the household with prophylaxis and vaccination."
+    }
+  ],
+  "references": [
+    { "title": "Guideline on management of pneumonia and diarrhoea in children up to 10 years of age", "source": "World Health Organization", "year": 2024, "url": "https://www.who.int/publications/i/item/9789240103412" },
+    { "title": "Uganda Clinical Guidelines 2023 (5.2.1 Bronchiolitis; 5.2.8 Pertussis; 5.2.9 Pneumonia; 3.1.10.4 Pneumocystis pneumonia)", "source": "Ministry of Health Uganda", "year": 2023, "url": "https://library.health.go.ug/uganda-clinical-guidelines-2023" },
+    { "title": "Pocket Book of Hospital Care for Children, 2nd edition", "source": "World Health Organization", "year": 2013, "url": "https://www.who.int/publications/i/item/978-92-4-154837-3" },
+    { "title": "Pneumonia in children: fact sheet", "source": "World Health Organization", "year": 2022, "url": "https://www.who.int/news-room/fact-sheets/detail/pneumonia" },
+    { "title": "Bronchiolitis in children: diagnosis and management (NG9)", "source": "National Institute for Health and Care Excellence", "url": "https://www.nice.org.uk/guidance/ng9" },
+    { "title": "Bronchiolitis: Clinical Practice Guideline", "source": "The Royal Children's Hospital Melbourne", "url": "https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/" },
+    { "title": "Pediatric Pneumonia", "source": "Medscape (eMedicine)", "url": "https://emedicine.medscape.com/article/967822-overview" },
+    { "title": "Bronchiolitis", "source": "Medscape (eMedicine)", "url": "https://emedicine.medscape.com/article/961963-overview" },
+    { "title": "Pertussis", "source": "Medscape (eMedicine)", "url": "https://emedicine.medscape.com/article/967268-overview" }
+  ]
+}

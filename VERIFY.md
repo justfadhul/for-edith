@@ -92,3 +92,10 @@ To update a topic, edit `content/topics/<slug>/notes.md` or `study.json`, then r
 - Infant CPR: confirm AHA 2025 dropped the two-finger technique. Snakebite: antivenom per insert; neostigmine dose per local protocol.
 - DKA without pump: UCG wording for IM/SC insulin in children (notes: 0.1 unit/kg hourly); ISPAD add-dextrose point 14–17 mmol/L. Paracetamol: only the 21-hour NAC regimen taught.
 - Uganda figures: U5MR 52, stunting ~24% (UDHS 2022); insulin via Changing Diabetes in Children / Life for a Child.
+
+## Paediatrics: respiratory and TB
+
+- Asthma: UCG 2023 lists no IV MgSO₄ for children and prednisolone 1 mg/kg; notes say Kampala referral wards give MgSO₄ 40–50 mg/kg (max 2 g) before aminophylline. Confirm GINA 2025 steps for 6–11 years.
+- Bronchiolitis: UCG allows salbutamol trial, nebulised adrenaline and 150 mL/kg/day fluids (conflicts with NICE/WHO); notes advise supportive care. Croup fluid (half-strength Darrow's).
+- Otitis media amoxicillin (UCG 15 mg/kg 8-hourly vs WHO/IMCI 40 mg/kg 12-hourly); benzathine penicillin <30 kg (30,000 IU/kg vs 600,000 IU); diphtheria antitoxin doses and WHO 2024 macrolide preference; UCG erythromycin "50 mg/kg 6-hourly" read as a typo (12.5 mg/kg).
+- TB: use of the 4-month regimen in Uganda (and in SAM/advanced HIV); TPT for MDR-TB contacts (UCG none vs WHO 2024 levofloxacin); pyridoxine in infants; 3HP weight bands; Keith Edwards score items; WHO algorithm cut-off (>10); stool Xpert method. TB/HIV: UCG table still EFV/NVP; notes follow DTG twice daily with rifampicin. BCG timing for babies of mothers with infectious TB.
